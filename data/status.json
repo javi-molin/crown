@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T02:21:08.762588+00:00",
+ "run_at": "2026-11-19T02:24:49.487122+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -39,9 +39,9 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 27,
+   "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
@@ -75,9 +75,9 @@
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 22,
+   "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
@@ -88,13 +88,13 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 49,
+   "items": 48,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 57,
+   "items": 56,
    "error": null
   },
   {
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 17,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -220,13 +220,13 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "error": null
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "error": null
   },
   {
@@ -311,9 +311,15 @@
    "source": "Galería por candidata (Bing) · 0/799 celdas con fotos",
    "ok": true,
    "items": 4,
-   "error": "Chile/retrato: 0 crudos, 0 válidos; ej: None; bytes=139918 | Ethiopia/retrato: 25 crudos, 0 válidos; ej: planeacion de diciembre – segundo grado de primaria (ciclo escolar 2025-2026) - ciclo escolar m"
+   "error": "Chile/retrato: 0 crudos, 0 válidos; ej: None; bytes=138624 | Ethiopia/retrato: 0 crudos, 0 válidos; ej: None; bytes=138225 | France/retrato: 0 crudos, 0 válidos; ej: None; bytes=138701 | Philippines/r"
+  },
+  {
+   "source": "Galería · fotos de prensa y video atribuidas a candidatas",
+   "ok": true,
+   "items": 83,
+   "error": null
   }
  ],
- "new_items": 595,
- "total_items": 595
+ "new_items": 621,
+ "total_items": 597
 }
