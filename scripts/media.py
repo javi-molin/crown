@@ -14,6 +14,7 @@ import json, re, time, html, urllib.parse
 from datetime import datetime, timezone, timedelta
 
 U = None
+DIAG = []
 CATS = [
     ("retrato", "Retrato oficial", "official portrait", r"official (portrait|photo)|portrait|retrato|photo ?shoot|sesion (de )?fotos|headshot|giannina|1950|diamond|75 ?(th|years|anos)|cetro|scepter"),
     ("bano", "Traje de baño", "swimsuit", r"swimsuit|traje de bano|bikini|beach|playa|swimwear|banador"),
@@ -100,8 +101,8 @@ def bing_cell(c, cat):
     page = U.get("https://www.bing.com/images/search?form=HDRSC2&first=1&q=" + urllib.parse.quote(q))
     parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 4]
     cty = {U.norm(c["country"]), U.norm(c.get("country_es") or "")}
-    out = []
-    for raw in re.findall(r'\bm="(\{[^"]+\})"', page):
+    out, raws, sample = [], re.findall(r'\bm="(\{[^"]+\})"', page), None
+    for raw in raws:
         try:
             d = json.loads(html.unescape(raw))
         except Exception:
@@ -109,13 +110,15 @@ def bing_cell(c, cat):
         u, pg, t = d.get("murl"), d.get("purl") or "", U.norm((d.get("t") or "") + " " + (d.get("desc") or "") + " " + urllib.parse.unquote(d.get("purl") or ""))
         if not u or re.search(r"logo|icon|\.svg|\.gif", u, re.I):
             continue
-        who_ok = any(p in t for p in parts) or (any(x and x in t for x in cty) and "2026" in t)
+        who_ok = any(p in t for p in parts) or any(x and x in t for x in cty)
+        sample = sample or t[:120]
         if not who_ok:
             continue
         out.append({"url": u, "thumb": d.get("turl"), "page": pg, "title": (d.get("t") or "")[:140], "via": "Bing Imágenes",
                     "credit": urllib.parse.urlparse(pg or u).netloc.replace("www.", ""), "from_ig": "instagram.com" in pg})
         if len(out) >= 6:
             break
+    DIAG.append(f"{c['country']}/{cid}: {len(raws)} crudos, {len(out)} válidos; ej: {sample}; bytes={len(page)}")
     return out
 
 
@@ -254,7 +257,7 @@ def run(mod, contestants, deadline_s=200):
         time.sleep(2.5)
     total_cells = sum(len(cats_by_contest.get(c["contest"], [])) for c in cs)
     filled = sum(1 for v in G["cells"].values() if v.get("images"))
-    U.note(f"Galería por candidata (Bing) · {filled}/{total_cells} celdas con fotos", True, done)
+    U.note(f"Galería por candidata (Bing) · {filled}/{total_cells} celdas con fotos", True, done, err=" | ".join(DIAG[:4]) or None)
 
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS]
     G["updated"] = now.isoformat()
