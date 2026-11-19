@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-19T08:58:49.304805+00:00",
+ "run_at": "2026-11-19T09:06:48.901012+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 40,
+   "items": 39,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 33,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 56,
+   "items": 57,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 88,
+   "items": 87,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "error": null
   },
   {
@@ -299,7 +299,7 @@
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
    "items": 19,
-   "error": "25 cuentas sincronizadas en total · 1 candidatas · 22 organizaciones"
+   "error": "26 cuentas sincronizadas en total · 1 candidatas · 23 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -310,14 +310,14 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 1,
-   "error": "10 usuarios probados en esta vuelta · 498 en total"
+   "items": 2,
+   "error": "11 usuarios probados en esta vuelta · 509 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 1,
-   "error": "0 menciones revisadas en esta vuelta; 23 organizaciones nacionales"
+   "items": 2,
+   "error": "0 menciones revisadas en esta vuelta; 24 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "error": null
   },
   {
@@ -358,16 +358,16 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 39,
+   "items": 0,
    "error": "681 imágenes en el espejo; 124 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 677,
+   "items": 676,
    "error": null
   }
  ],
- "new_items": 620,
- "total_items": 760
+ "new_items": 622,
+ "total_items": 764
 }
