@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T06:58:38.409560+00:00",
+ "run_at": "2026-11-19T07:06:38.982096+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -51,9 +51,9 @@
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": true,
-   "items": 84,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe hot picks",
@@ -63,9 +63,9 @@
   },
   {
    "source": "Google News · \"Miss International 2026\"",
-   "ok": true,
-   "items": 52,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
@@ -166,13 +166,13 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 0,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -298,8 +298,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 15,
-   "error": "20 cuentas sincronizadas en total · 1 candidatas · 17 organizaciones"
+   "items": 19,
+   "error": "21 cuentas sincronizadas en total · 1 candidatas · 18 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -310,8 +310,8 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 1,
-   "error": "6 usuarios probados en esta vuelta · 320 en total"
+   "items": 0,
+   "error": "14 usuarios probados en esta vuelta · 334 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 33,
+   "items": 27,
    "error": null
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 454,
-   "error": "76 candidatas con fotos de Instagram propias o de su organización"
+   "items": 486,
+   "error": "77 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 56,
-   "error": "566 imágenes en el espejo; 85 fallaron"
+   "items": 22,
+   "error": "588 imágenes en el espejo; 95 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 692,
+   "items": 685,
    "error": null
   }
  ],
- "new_items": 623,
- "total_items": 736
+ "new_items": 555,
+ "total_items": 740
 }
