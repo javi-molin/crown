@@ -521,6 +521,19 @@ def main():
         events.run(sys.modules[__name__], items, videos)
     except Exception as e:
         note("Eventos (detector)", False, err=repr(e))
+    try:
+        import media
+        cs = load("contestants.json", {"contestants": []})["contestants"]
+        au = load("contestants_auto.json", {"contestants": []})["contestants"]
+        merged = {(c["contest"], c["country"]): c for c in cs}
+        auto_contests = {a["contest"] for a in au}
+        merged = {k: v for k, v in merged.items() if k[0] not in auto_contests}
+        seed_map = {(c["contest"], c["country"]): c for c in cs}
+        for a in au:
+            merged[(a["contest"], a["country"])] = {**seed_map.get((a["contest"], a["country"]), {}), **a}
+        media.run(sys.modules[__name__], list(merged.values()))
+    except Exception as e:
+        note("Galería (media)", False, err=repr(e))
     STATUS["new_items"] = new_count
     STATUS["total_items"] = len(items)
     save("status.json", STATUS)
