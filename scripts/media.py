@@ -205,33 +205,32 @@ def endi_render():
         pg.on("response", on_resp)
         pg.goto(ENDI, wait_until="domcontentloaded", timeout=90000)
         pg.wait_for_timeout(8000)
-        for y in range(40):  # galerías con carga diferida: bajar hasta el final
-            pg.mouse.wheel(0, 1600)
-            pg.wait_for_timeout(250)
-        diag = pg.evaluate("""() => ({
-            imgs: [...document.images].filter(i => i.naturalWidth > 200 || i.width > 200).map(i => [i.currentSrc || i.src, i.alt, (i.closest('figure, li, article, div') || {}).className]).slice(0, 40),
-            n_imgs: document.images.length,
-            buttons: [...document.querySelectorAll('button, [role=button], a[class*=next], a[class*=prev]')].map(b => [b.innerText.slice(0, 30), b.getAttribute('aria-label'), b.className.slice(0, 60)]).slice(0, 40),
-            figcaps: [...document.querySelectorAll('figcaption, [class*=caption]')].map(f => f.innerText.slice(0, 80)).slice(0, 20)})""")
-        found.append({"type": "_diag", **diag})
-        for d in diag["imgs"]:
-            found.append({"type": "image", "url": d[0], "caption": d[1] or ""})
-        for _ in range(130):  # avanzar la galería
-            dom = pg.evaluate("""() => [...document.querySelectorAll('figure, [class*=gallery] li, [class*=slide]')].map(f => {
-                const i = f.querySelector('img'); if (!i) return null;
-                const cap = (f.querySelector('figcaption, [class*=caption], [class*=description]') || {}).innerText || i.alt || '';
-                return {url: i.currentSrc || i.src, caption: cap}; }).filter(Boolean)""")
-            for d in dom:
-                if d["url"] and d["url"].startswith("http"):
-                    found.append({"type": "image", **d})
-            nxt = pg.query_selector("button[aria-label*=iguiente], button[aria-label*=ext], [class*=next]")
-            if not nxt:
+        for t in ("Aceptar todo", "ACEPTAR"):  # banner de cookies
+            try:
+                pg.get_by_text(t, exact=True).first.click(timeout=2000)
+                break
+            except Exception:
+                pass
+        pg.wait_for_timeout(1500)
+        seen, stale = set(), 0
+        for _ in range(160):  # recorrer la galería con su flecha "siguiente"
+            got = pg.evaluate("""() => [...document.querySelectorAll('[class*=gallery-track] img')].map(i => [i.currentSrc || i.src, i.alt || ''])""")
+            new = [g for g in got if g[0].startswith("http") and g[0] not in seen]
+            for u, alt in new:
+                seen.add(u)
+                found.append({"type": "image", "url": u, "caption": alt, "gallery": True})
+            stale = 0 if new else stale + 1
+            if stale >= 10:
+                break
+            btns = pg.query_selector_all("button.featured-gallery-controller")
+            if not btns:
                 break
             try:
-                nxt.click(timeout=3000)
-                pg.wait_for_timeout(350)
+                btns[-1].click(timeout=3000)
+                pg.wait_for_timeout(450)
             except Exception:
                 break
+        found.append({"type": "_diag", "gallery_imgs": len(seen), "clicks_stale": stale})
         b.close()
     return found
 
@@ -259,7 +258,7 @@ def endi_official(G, cs):
             try:
                 got = endi_render()
                 rdiag = next((x for x in got if x.get("type") == "_diag"), None)
-                imgs += [x for x in got if x.get("type") == "image" and not re.search(r"\.svg|/icons?/|logo", x.get("url", ""))]
+                imgs = [x for x in got if x.get("type") == "image" and x.get("gallery") and re.match(r"[^,]{3,40},\s*\S", x.get("caption") or "")]
             except Exception as e:
                 G["endi_diag"] = {"render_error": repr(e)[:300]}
         elif len(G.get("endi") or {}) >= 20:
