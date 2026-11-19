@@ -194,7 +194,7 @@ def google_news():
             note("Google News · " + q, True, n)
         except Exception as e:
             note("Google News · " + q, False, err=e)
-        time.sleep(0.6)
+        time.sleep(1.5)
     return items
 
 

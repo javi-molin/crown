@@ -234,14 +234,20 @@ def social_stats(urls, budget=25):
 
 def bing_images(q, n=14):
     page = U.get("https://www.bing.com/images/search?form=HDRSC2&first=1&q=" + urllib.parse.quote(q))
-    page = html.unescape(page)
     out = []
-    for m in re.finditer(r'"murl":"(http[^"]+)".{0,400}?"purl":"(http[^"]+)"', page):
-        u, pg = m.group(1).replace("\\/", "/"), m.group(2).replace("\\/", "/")
-        if not IMG_BAD.search(u) and u not in [o["url"] for o in out]:
-            out.append({"url": u, "page": pg, "via": "Bing Imágenes"})
+    for raw in re.findall(r'\bm="(\{[^"]+\})"', page):
+        try:
+            d = json.loads(html.unescape(raw))
+        except Exception:
+            continue
+        u, pg = d.get("murl"), d.get("purl")
+        if u and not IMG_BAD.search(u) and u not in [o["url"] for o in out]:
+            out.append({"url": u, "page": pg, "via": "Bing Imágenes", "credit": urllib.parse.urlparse(pg or u).netloc.replace("www.", ""),
+                        "alt": d.get("turl")})
         if len(out) >= n:
             break
+    if not out:
+        raise ValueError("sin resultados (formato cambió o bloqueo)")
     return out
 
 
