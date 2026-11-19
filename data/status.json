@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T02:17:42.081834+00:00",
+ "run_at": "2026-11-19T02:21:08.762588+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -39,15 +39,15 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": true,
-   "items": 26,
-   "error": null
-  },
-  {
-   "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": false,
    "items": 0,
    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "source": "Google News · \"Dominga López\" Miss Universo",
+   "ok": true,
+   "items": 92,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 46,
+   "items": 47,
    "error": null
   },
   {
@@ -75,9 +75,9 @@
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
-   "ok": true,
-   "items": 22,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Earth Philippines December",
@@ -154,7 +154,7 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -172,19 +172,19 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 17,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 3,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 7,
+   "items": 4,
    "error": null
   },
   {
@@ -311,9 +311,9 @@
    "source": "Galería por candidata (Bing) · 0/799 celdas con fotos",
    "ok": true,
    "items": 4,
-   "error": null
+   "error": "Chile/retrato: 0 crudos, 0 válidos; ej: None; bytes=139918 | Ethiopia/retrato: 25 crudos, 0 válidos; ej: planeacion de diciembre – segundo grado de primaria (ciclo escolar 2025-2026) - ciclo escolar m"
   }
  ],
- "new_items": 627,
- "total_items": 592
+ "new_items": 595,
+ "total_items": 595
 }
