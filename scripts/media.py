@@ -379,7 +379,7 @@ def run(mod, contestants, deadline_s=200):
         if c.get("ig"):
             G["handles"][k] = {**h, "handle": c["ig"].lower(), "conf": "verificada", "name": c["name"]}
             continue
-        if h.get("tried") and h.get("name") == c["name"]:
+        if h.get("conf") == "verificada" or (h.get("tried") and h.get("name") == c["name"]):
             continue
         try:
             handle, conf = find_handle(c)

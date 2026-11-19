@@ -188,7 +188,7 @@ function renderPageants() {
     <dt>Fechas</dt><dd>${(p.events || []).map(e => `${fmt(e.start, { day: "numeric", month: "short" })}: ${esc(e.name)}`).join("<br>")}</dd></dl>
     ${(p.controversies || []).length ? `<b>Polémicas</b><ul>${p.controversies.map(c => `<li>${esc(c.t)} <a href="${esc(c.src)}" target="_blank">fuente</a></li>`).join("")}</ul>` : ""}
     <div class="links">${(() => { const so = ((S.socials || {}).pageants || {})[p.id]; const NM = { instagram: "Instagram", tiktok: "TikTok", youtube: "YouTube", facebook: "Facebook", x: "X", threads: "Threads", web: "Web oficial", vote: "Votación oficial", app_ios: "App iPhone", app_android: "App Android" };
-      return so ? Object.entries(NM).filter(([n]) => so[n]).map(([n, l]) => `<a href="${esc(so[n].url)}" target="_blank" class="net">${l}${so[n].handle ? " @" + esc(so[n].handle.replace(/^@/, "")) : ""}${so[n].followers ? " · " + num(so[n].followers) : so[n].subs ? " · " + esc(so[n].subs) : ""}${so[n].verified === false ? " (sin confirmar)" : ""}</a>`).join("")
+      return so ? Object.entries(NM).filter(([n]) => so[n]).map(([n, l]) => `<a href="${esc(so[n].url)}" target="_blank" class="net">${l}${so[n].handle ? " @" + esc(so[n].handle.replace(/^@/, "")) : ""}${n === "instagram" && so[n].followers ? " · " + num(so[n].followers) + " seg." : ""}${so[n].verified === false ? " (sin confirmar)" : ""}</a>`).join("")
         : Object.entries(p.official || {}).map(([k, u]) => `<a href="${esc(u)}" target="_blank">${k}</a>`).join(""); })()}
       <a href="https://en.wikipedia.org/wiki/${esc(p.wiki)}" target="_blank">wikipedia</a>
       <a href="https://news.google.com/search?q=${enc(p.name)}&hl=es-419" target="_blank">noticias</a>
