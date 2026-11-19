@@ -647,7 +647,7 @@ const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipi
 S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
 S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "" };
 
-function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : ""; return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
+function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : (src.includes("maxresdefault") ? src.replace("maxresdefault", "hqdefault") : ""); return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
 function igPostsFor(c, cat) {
   const k = c.contest + "|" + c.country;
   return Object.values(S.gallery.ig_posts || {}).filter(p => (p.who || []).includes(k) && (!cat || (p.cats || []).includes(cat)));
@@ -661,7 +661,7 @@ function cellImgs(c, cat) {
   const seen = new Set(); return out.filter(i => !seen.has(i.url) && seen.add(i.url));
 }
 function photoOf(c, cat) {
-  for (const k of [cat || "retrato", ...CATS.map(x => x[0])]) { const im = cellImgs(c, k)[0]; if (im) return im; }
+  for (const k of [cat || "retrato", ...CATS.map(x => x[0])]) { const im = cellImgs(c, k).find(i => !i.post); if (im) return im; }
   return null;
 }
 
