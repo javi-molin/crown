@@ -709,7 +709,7 @@ function renderIG() {
   const graph = Object.values(S.gallery.accounts || {}).some(a => a.fetched);
   $("#igCallout").innerHTML = graph
     ? `<b>Instagram conectado</b> mediante la API oficial: fotos, likes y comentarios de ${Object.values(S.gallery.accounts).filter(a => a.fetched).length} cuentas.`
-    : `<b>Posts públicos de Instagram</b> encontrados por búsqueda para cada candidata. Toca "Ver post" para verlo aquí mismo con el embed oficial. Si quieres <b>fotos y likes automáticos</b>, conecta la API oficial de Instagram (instrucciones en Más → Fuentes y robot).`;
+    : `<b>Posts públicos de Instagram</b> encontrados por búsqueda para cada candidata. Toca "Ver post" para verlo aquí mismo con el embed oficial. Si quieres <b>fotos y likes automáticos</b>, conecta la API oficial de Instagram (guía paso a paso en Más → Fuentes y robot).`;
   const list = posts.filter(p => p.contest === cid && (!cat || (p.cats || []).includes(cat)) && (!q || ((p.caption || "") + " " + (p.who || []).join(" ") + " " + (p.owner || "")).toLowerCase().includes(q)))
     .sort((a, b) => new Date(b.taken || b.seen) - new Date(a.taken || a.seen)).slice(0, 200);
   $("#iGrid").innerHTML = list.map(p => {

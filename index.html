@@ -153,6 +153,21 @@
 
   <section id="fuentes" class="tab">
     <div class="sechead"><div><h2>Fuentes y robot</h2><p class="lead">Estado de cada fuente en la última corrida.</p></div></div>
+    <div class="card how" id="igguide">
+      <h3>Conectar Instagram (API oficial) · 20–30 min, una sola vez</h3>
+      <p class="hint">Con esto el robot trae fotos, carruseles, likes y comentarios de @missuniverse y de las candidatas con cuenta profesional, y los ordena en la Galería.</p>
+      <ol>
+        <li><b>Tu Instagram debe ser profesional</b> (Creador o Empresa): Instagram → Configuración → Tipo de cuenta. Puede ser la cuenta nueva de concursos.</li>
+        <li><b>Vincúlalo a una Página de Facebook</b> (crea una página simple si no tienes): en la página, Configuración → Cuentas vinculadas → Instagram.</li>
+        <li>Entra a <a href="https://developers.facebook.com/apps" target="_blank">developers.facebook.com/apps</a> → <b>Crear app</b> → tipo <b>Empresa/Business</b> → agrega el producto <b>Instagram</b> (API con inicio de sesión de Facebook).</li>
+        <li>Abre el <a href="https://developers.facebook.com/tools/explorer/" target="_blank">Explorador de la API Graph</a>, elige tu app y marca los permisos <code>instagram_basic</code>, <code>instagram_manage_insights</code>, <code>pages_read_engagement</code> y <code>pages_show_list</code> → <b>Generate Access Token</b>.</li>
+        <li>En el mismo explorador consulta <code>me/accounts?fields=instagram_business_account</code>: el número dentro de <code>instagram_business_account</code> es tu <b>IG_USER_ID</b>.</li>
+        <li>Haz que el token dure 60 días: en <a href="https://developers.facebook.com/tools/debug/accesstoken/" target="_blank">Depurador de tokens</a> pega el token → <b>Extend Access Token</b>. Ese es tu <b>IG_TOKEN</b>.</li>
+        <li>En GitHub: <a href="https://github.com/javi-molin/crown/settings/secrets/actions" target="_blank">crown → Settings → Secrets and variables → Actions</a> → <b>New repository secret</b>: crea <code>IG_TOKEN</code> y <code>IG_USER_ID</code>.</li>
+        <li>Listo: en la próxima corrida aparece "Instagram · Graph API oficial (cuentas leídas)" en esta pestaña. Repite el paso 6 cada ~60 días.</li>
+      </ol>
+      <p class="hint">Para que el robot siga cuentas extra (otras organizaciones o candidatas), agrégalas en <a href="https://github.com/javi-molin/crown/edit/main/data/instagram.json" target="_blank">data/instagram.json</a> como <code>{"handle": "usuario", "contest": "mu"}</code>. Solo funciona con cuentas profesionales públicas.</p>
+    </div>
     <div id="status"></div>
     <div class="card how">
       <h3>Cómo funciona</h3>
