@@ -176,6 +176,54 @@ def _walk(o, out):
             _walk(v, out)
 
 
+def now_utc():
+    return datetime.now(timezone.utc)
+
+
+def endi_render():
+    """Abre la galería en Chromium (Playwright), recorre las 110 diapositivas y junta foto + pie de foto,
+    tanto del JSON que carga la página como de lo que se ve en pantalla."""
+    import subprocess, sys
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "playwright"], check=True, timeout=300)
+        subprocess.run([sys.executable, "-m", "playwright", "install", "--with-deps", "chromium"], check=True, timeout=600,
+                       stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+        from playwright.sync_api import sync_playwright
+    found = []
+    with sync_playwright() as pw:
+        b = pw.chromium.launch()
+        pg = b.new_page(viewport={"width": 1280, "height": 900}, user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36")
+
+        def on_resp(r):
+            try:
+                if "json" in (r.headers.get("content-type") or ""):
+                    _walk(r.json(), found)
+            except Exception:
+                pass
+        pg.on("response", on_resp)
+        pg.goto(ENDI, wait_until="networkidle", timeout=90000)
+        for _ in range(130):  # avanzar la galería
+            dom = pg.evaluate("""() => [...document.querySelectorAll('figure, [class*=gallery] li, [class*=slide]')].map(f => {
+                const i = f.querySelector('img'); if (!i) return null;
+                const cap = (f.querySelector('figcaption, [class*=caption], [class*=description]') || {}).innerText || i.alt || '';
+                return {url: i.currentSrc || i.src, caption: cap}; }).filter(Boolean)""")
+            for d in dom:
+                if d["url"] and d["url"].startswith("http"):
+                    found.append({"type": "image", **d})
+            nxt = pg.query_selector("button[aria-label*=iguiente], button[aria-label*=ext], [class*=next]")
+            if not nxt:
+                break
+            try:
+                nxt.click(timeout=3000)
+                pg.wait_for_timeout(350)
+            except Exception:
+                break
+        b.close()
+    return found
+
+
 def endi_official(G, cs):
     """Galería 'Conoce aquí a las candidatas' de El Nuevo Día (Puerto Rico, sede 2026): fotos oficiales con crédito
     'Suministrada/Organización Miss Universe'. Se leen del JSON de la página (Arc), se asignan por país/nombre del pie."""
@@ -191,6 +239,17 @@ def endi_official(G, cs):
             except Exception as e:
                 G["endi_diag"] = {"error": repr(e)[:200]}
             break
+    if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
+        last = G.get("endi_render_at")
+        wait = 3600 if not G.get("endi") else 6 * 3600
+        if not last or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
+            G["endi_render_at"] = now_utc().isoformat()
+            try:
+                imgs += endi_render()
+            except Exception as e:
+                G["endi_diag"] = {"render_error": repr(e)[:300]}
+        elif G.get("endi"):
+            return -1, len(G["endi"])
     if not imgs:  # respaldo: cualquier bloque JSON con imágenes de Arc
         for m in re.finditer(r'\{"_id":"[A-Z0-9]{20,}"[^{}]*?"type":"image"[^{}]*?"url":"(https?://[^"]+)"', html):
             imgs.append({"url": m.group(1), "caption": ""})
@@ -475,6 +534,13 @@ def run(mod, contestants, deadline_s=200):
     cand_acc.sort(key=lambda a: G["accounts"].get(a[0], {}).get("fetched", ""))
     import os
     if os.environ.get("IG_TOKEN") and os.environ.get("IG_USER_ID"):
+        try:  # primero descubrir cuentas (antes de gastar la cuota de la API leyendo cuentas)
+            nd0 = igsync.discover(G, cs)
+            U.note("Instagram · menciones revisadas antes de sincronizar", True, nd0)
+        except Exception as e:
+            U.note("Instagram · menciones", False, err=repr(e)[:200])
+        cand_acc = [(v["handle"], k.split("|")[0], "candidata") for k, v in G["handles"].items() if v.get("handle") and v.get("conf") in ("alta", "verificada")] + cand_acc
+        cand_acc = list(dict.fromkeys(cand_acc))
         ok = 0
         for handle, cid, kind in accounts + cand_acc[:14]:
             if time.time() - t0 > deadline_s * 0.5:
@@ -608,7 +674,8 @@ def run(mod, contestants, deadline_s=200):
     G.pop("ytc", None)  # sin videos de YouTube por candidata: no sirven como fotos
     try:
         ne, ae = endi_official(G, cs)
-        U.note("Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)", ae > 0, ae, err=f"{ne} fotos leídas en la galería")
+        U.note("Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)", ae > 0, ae,
+               err=("en caché; se vuelve a leer cada 6 h" if ne == -1 else f"{ne} fotos leídas en la galería"))
     except Exception as e:
         U.note("Fotos oficiales Miss Universe · galería El Nuevo Día", False, err=repr(e)[:200])
     ser, styles, unm = ig_series(G, cs)
