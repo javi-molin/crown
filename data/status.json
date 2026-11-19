@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T23:15:15.374890+00:00",
+ "run_at": "2026-11-19T23:23:15.596910+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 73,
+   "items": 74,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 31,
+   "items": 29,
    "error": null
   },
   {
@@ -52,13 +52,13 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 82,
+   "items": 83,
    "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 91,
+   "items": 52,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 97,
+   "items": 99,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 16,
    "error": null
   },
   {
@@ -202,7 +202,7 @@
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "error": null
   },
   {
@@ -213,15 +213,15 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 4,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 6,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "error": "72 cuentas sincronizadas en total · 17 candidatas · 54 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "4 usuarios probados en esta vuelta · 1069 en total"
+   "error": "7 usuarios probados en esta vuelta · 1076 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 130,
+   "items": 134,
    "error": null
   }
  ],
- "new_items": 731,
+ "new_items": 691,
  "total_items": 900
 }
