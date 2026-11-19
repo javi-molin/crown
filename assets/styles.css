@@ -299,3 +299,4 @@ footer{color:var(--dim);font-size:12px;text-align:center;padding:30px}
 }
 .pgrid .empty,.igrid .empty,.iggrid .empty,.evgrid .empty,.vgrid .empty{grid-column:1/-1}
 .how ol{color:var(--mute);padding-left:20px}.how ol li{margin:8px 0}.how ol b{color:var(--ink)}
+.ig .cnt{position:absolute;top:8px;right:8px;font:600 10px var(--mono);background:rgba(0,0,0,.7);color:#fff;padding:3px 8px;border-radius:999px}

@@ -133,6 +133,70 @@ def bing_cell(c, cat):
     return out
 
 
+DESIGNER_STYLES = {  # estilos conocidos de las series oficiales (se completan con lo observado)
+    "gianninaazar": ("mu75-bano-marfil", "Retrato oficial 75° · traje de baño marfil años 50", "retrato"),
+}
+COUNTRY_ALIAS = {"ecuatorial guinea": "equatorial guinea", "saint-martin": "saint martin", "usa": "united states",
+                 "us virgin islands": "united states virgin islands", "uk": "great britain", "dr congo": "democratic republic of the congo",
+                 "czechia": "czech republic", "turkiye": "turkey", "curacao": "curacao", "korea": "south korea"}
+
+
+def match_country(name, contestants, contest="mu"):
+    import difflib
+    n = U.norm(name).strip(" .!✨")
+    n = COUNTRY_ALIAS.get(n, n)
+    table = {}
+    for c in contestants:
+        if c["contest"] != contest:
+            continue
+        for t in {U.norm(c["country"]), U.norm(c.get("country_es") or "")}:
+            if t:
+                table[t] = c
+    if n in table:
+        return table[n]
+    hit = difflib.get_close_matches(n, list(table), n=1, cutoff=0.82)
+    return table[hit[0]] if hit else None
+
+
+def ig_series(G, contestants):
+    """Series oficiales de @missuniverse: 'From {país} to the Universe … Official M*U picture : fotógrafo  Designer : diseñador'.
+    Cada serie (fotógrafo + diseñador) es un estilo de retrato distinto; cada foto del carrusel conserva su posición."""
+    out, styles, unmatched = {}, {}, []
+    roles = U.load("portrait_styles.json", {}).get("roles", {})
+    for p in G["ig_posts"].values():
+        if p.get("owner") != "missuniverse":
+            continue
+        cap = p.get("caption", "")
+        m = re.search(r"from (.+?) to the universe", cap, re.I)
+        if not m or not re.search(r"official m\W*u picture", cap, re.I):
+            continue
+        c = match_country(m.group(1), contestants)
+        if not c:
+            unmatched.append(m.group(1))
+            continue
+        ph = (re.search(r"picture\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
+        de = (re.search(r"designer\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
+        sid, label, cat = DESIGNER_STYLES.get(de.lower(), (f"mu-oficial-{slug_(de or ph)}", f"Retrato oficial · {de or ph}", "retrato"))
+        st = styles.setdefault(sid, {"id": sid, "label": label, "cat": cat, "photographer": ph, "designer": de, "posts": 0})
+        st["posts"] += 1
+        k = c["contest"] + "|" + c["country"]
+        p["who"] = [k]
+        p["style"] = sid
+        for j, u in enumerate(p.get("images", [])):
+            role = (roles.get(sid) or [])[j] if j < len(roles.get(sid) or []) else f"foto {j + 1} de {len(p['images'])}"
+            out.setdefault(f"{k}|{cat}", []).append({
+                "url": u, "thumb": u, "page": p["url"], "via": "Instagram @missuniverse (oficial)", "credit": f"Foto: @{ph} · Diseño: @{de}" if de else f"Foto: @{ph}",
+                "title": f"{c['country_es']} · {label} · {role}", "style": sid, "style_label": label, "role": role, "role_n": j + 1,
+                "likes": p.get("likes"), "comments": p.get("comments"), "date": p.get("taken"), "official": True, "ig": True})
+    for k in out:
+        out[k].sort(key=lambda x: (x["style"], x["role_n"]))
+    return out, styles, unmatched
+
+
+def slug_(s):
+    return re.sub(r"[^a-z0-9]+", "-", U.norm(s or "x")).strip("-")[:30]
+
+
 def wp_official(G, contestants, max_pages=12):
     """Biblioteca de medios oficial de missuniverse.com (API pública de WordPress, autorizada por Javi)."""
     import urllib.request
@@ -349,9 +413,11 @@ def run(mod, contestants, deadline_s=200):
             if time.time() - t0 > deadline_s * 0.5:
                 break
             try:
-                known = frozenset(c for c, x in G["ig_posts"].items() if x.get("owner") == handle)
-                p = ig_graph(handle, known, max_pages=8 if kind == "oficial" else 2)
-                G["accounts"][handle] = {"name": p.get("name"), "followers": p.get("followers"), "media_count": p.get("media_count"), "pic": p.get("pic"), "contest": cid, "kind": kind, "fetched": now.isoformat()}
+                full = (now - datetime.fromisoformat(G["accounts"].get(handle, {}).get("full_at", "2000-01-01T00:00:00+00:00"))).total_seconds() > 12 * 3600
+                known = frozenset() if full else frozenset(c for c, x in G["ig_posts"].items() if x.get("owner") == handle)
+                p = ig_graph(handle, known, max_pages=(8 if kind == "oficial" else 3) if full else 2)
+                G["accounts"][handle] = {"name": p.get("name"), "followers": p.get("followers"), "media_count": p.get("media_count"), "pic": p.get("pic"), "contest": cid, "kind": kind, "fetched": now.isoformat(),
+                                      "full_at": now.isoformat() if full else G["accounts"].get(handle, {}).get("full_at")}
                 for post in p["posts"]:
                     post["contest"], post["kind"] = cid, kind
                     G["ig_posts"][post["code"]] = {**G["ig_posts"].get(post["code"], {}), **post, "seen": now.isoformat()}
@@ -470,6 +536,11 @@ def run(mod, contestants, deadline_s=200):
             ytc[k] = {"fetched": now.isoformat(), "videos": ytc.get(k, {}).get("videos", []), "error": str(e)[:80]}
         time.sleep(1.2)
     U.note("Galería · YouTube por candidata", True, ny)
+    ser, styles, unm = ig_series(G, cs)
+    G["ig_official"] = ser
+    G["styles"] = styles
+    U.note("Instagram · retratos oficiales por candidata", True, len({k.rsplit('|', 1)[0] for k in ser}),
+           err=(f"sin país reconocido: {', '.join(sorted(set(unm))[:8])}" if unm else None))
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     try:
