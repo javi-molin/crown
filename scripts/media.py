@@ -275,6 +275,16 @@ def press_images(G, contestants):
                 for im in imgs:
                     if im["url"] not in [x["url"] for x in lst]:
                         lst.append({**im, "page": it.get("link"), "title": it.get("title", "")[:140], "date": it.get("published")})
+    for k, rec in (G.get("ytc") or {}).items():
+        if k not in names:
+            continue
+        for v in rec.get("videos", []):
+            for cat in (classify(v.get("title", "")) or ["otras"])[:2]:
+                lst = press.setdefault(f"{k}|{cat}", [])
+                u = f"https://i.ytimg.com/vi/{v['vid']}/maxresdefault.jpg"
+                if u not in [x["url"] for x in lst]:
+                    lst.append({"url": u, "thumb": f"https://i.ytimg.com/vi/{v['vid']}/hqdefault.jpg", "page": "https://www.youtube.com/watch?v=" + v["vid"],
+                                "via": "YouTube", "credit": v.get("channel"), "title": v.get("title", "")[:140], "views": v.get("views"), "date": rec.get("fetched")})
     press = {k: v for k, v in press.items() if v}
     for k in press:
         press[k] = sorted(press[k], key=lambda x: x.get("date") or "", reverse=True)[:24]
@@ -431,6 +441,23 @@ def run(mod, contestants, deadline_s=200):
         U.note("Galería · missuniverseorg.com (oficial)", True, asg, err=f"{nf} imágenes encontradas en {G['muorg_diag']['paginas']} páginas")
     except Exception as e:
         U.note("Galería · missuniverseorg.com (oficial)", False, err=repr(e)[:200])
+    # YouTube por candidata (rotación: 8 por corrida)
+    ytc = G.setdefault("ytc", {})
+    order = sorted(cs, key=lambda c: (ytc.get(c["contest"] + "|" + c["country"], {}).get("fetched", ""), prio(c)))
+    ny = 0
+    for c in order[:8]:
+        k = c["contest"] + "|" + c["country"]
+        base = {"mu": "Miss Universe 2026", "mi": "Miss International 2026"}.get(c["contest"], "")
+        try:
+            res = U.yt_search(f'{c["name"]} {base}')
+            parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 4]
+            keep = [v for v in res if any(p in U.norm(v.get("title", "")) for p in parts)]
+            ytc[k] = {"fetched": now.isoformat(), "videos": keep[:12]}
+            ny += len(keep)
+        except Exception as e:
+            ytc[k] = {"fetched": now.isoformat(), "videos": ytc.get(k, {}).get("videos", []), "error": str(e)[:80]}
+        time.sleep(1.2)
+    U.note("Galería · YouTube por candidata", True, ny)
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
