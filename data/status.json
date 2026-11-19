@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T12:50:48.570056+00:00",
+ "run_at": "2026-11-19T12:58:49.225124+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 81,
+   "items": 80,
    "error": null
   },
   {
@@ -94,13 +94,13 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 57,
+   "items": 58,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 91,
+   "items": 90,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 5,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 6,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "14 usuarios probados en esta vuelta · 710 en total"
+   "error": "14 usuarios probados en esta vuelta · 724 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 17,
+   "items": 23,
    "error": null
   },
   {
@@ -358,16 +358,16 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 49,
-   "error": "781 imágenes en el espejo; 102 fallaron"
+   "items": 30,
+   "error": "811 imágenes en el espejo; 143 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 697,
+   "items": 696,
    "error": null
   }
  ],
- "new_items": 622,
+ "new_items": 618,
  "total_items": 825
 }
