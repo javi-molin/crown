@@ -287,7 +287,13 @@ def endi_official(G, cs):
             hits = len(set(pn) & set(cn))
             if hits >= 2 or (hits == 1 and len(pn) == 1):
                 return c
+        last = pn[-1] if pn else ""
+        if len(last) >= 6:  # apellido largo y único (p. ej. "Jessi" / "Jessica" Kalambayi)
+            same = [c for c in mu if last in re.split(r"[^a-z]+", U.norm(c["name"]))]
+            if len(same) == 1:
+                return same[0]
         t = U.norm(country)
+        t = {"republica democratica del congo": "rd congo", "gran bretana": "great britain", "islas de reunion": "reunion"}.get(t, t)
         if t in names:  # 2) país exacto
             return names[t]
         en = es2.get(t)
@@ -312,7 +318,10 @@ def endi_official(G, cs):
             k = hit["contest"] + "|" + hit["country"]
             roster.append({**{f: hit.get(f) for f in ("contest", "country", "country_es", "iso", "region", "age", "hometown")}, "name": person, "official": True})
         else:
-            en = es2.get(U.norm(country)) or (None, country, "", "")
+            en = es2.get({"republica democratica del congo": "rd congo"}.get(U.norm(country), U.norm(country)))
+            if not en:
+                close = difflib.get_close_matches(U.norm(country), list(es2), n=1, cutoff=0.8)
+                en = es2[close[0]] if close else (None, country, "", "")
             roster.append({"contest": "mu", "country": en[0] or country, "country_es": en[1] or country, "iso": en[2], "region": en[3], "name": person, "official": True, "new": True})
             k = "mu|" + (en[0] or country)
         out.setdefault(k, []).append({"url": u, "mkey": "endi_" + hashlib.md5(u.encode()).hexdigest()[:14], "page": ENDI,
@@ -816,9 +825,11 @@ def run(mod, contestants, deadline_s=200):
                 pend += 1
     for k, v in (G.get("endi") or {}).items():
         for x in v:
-            b = (mp.get(x["mkey"]) or {}).get("bg")
-            if b == "claro":
-                ret.setdefault(k, []).insert(0, {**x, "bg": b, "official": True, "src": "web oficial"})
+            m = mp.get(x["mkey"]) or {}
+            b = m.get("bg")
+            gris = b == "color" and m.get("bgc") and max(int(m["bgc"][i:i + 2], 16) for i in (1, 3, 5)) - min(int(m["bgc"][i:i + 2], 16) for i in (1, 3, 5)) < 18
+            if b == "claro" or gris:  # fuente oficial: fondo neutro (claro o gris), nunca verde ni oscuro
+                ret.setdefault(k, []).insert(0, {**x, "bg": "claro" if b == "claro" else "gris neutro", "official": True, "src": "web oficial"})
             elif b is None:
                 pend += 1
     rx_head = re.compile(r"head\s?shot|official (portrait|photo)|retrato oficial|foto oficial", re.I)
