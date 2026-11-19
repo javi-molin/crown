@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T22:35:16.062820+00:00",
+ "run_at": "2026-11-19T22:43:15.723078+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 74,
+   "items": 100,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 31,
+   "items": 29,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 58,
+   "items": 59,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 99,
+   "items": 97,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 13,
+   "items": 16,
    "error": null
   },
   {
@@ -195,9 +195,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
@@ -219,9 +219,9 @@
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1061 en total"
+   "error": "1 usuarios probados en esta vuelta · 1062 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -326,10 +326,10 @@
    "error": "0 menciones revisadas en esta vuelta; 54 organizaciones nacionales"
   },
   {
-   "source": "Galería · Bing por candidata (1/764 celdas)",
-   "ok": true,
-   "items": 8,
-   "error": null
+   "source": "Galería · Bing por candidata (1/844 celdas)",
+   "ok": false,
+   "items": 4,
+   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -346,14 +346,14 @@
   {
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
    "ok": true,
-   "items": 108,
+   "items": 109,
    "error": "109 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
    "ok": true,
-   "items": 94,
-   "error": "sin país reconocido: Canada, Costa Rica, Czech Republic, Democratic Republic of Congo, France, Guinea, Hungary, Iraq"
+   "items": 107,
+   "error": null
   },
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
@@ -370,7 +370,7 @@
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
    "ok": true,
-   "items": 108,
+   "items": 109,
    "error": null
   },
   {
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 110,
+   "items": 122,
    "error": null
   }
  ],
- "new_items": 686,
+ "new_items": 696,
  "total_items": 900
 }
