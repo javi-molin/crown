@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T01:09:56.024248+00:00",
+ "run_at": "2026-11-19T01:12:52.911359+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 45,
+   "items": 46,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 21,
+   "items": 22,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 33,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 57,
+   "items": 56,
    "error": null
   },
   {
@@ -116,34 +116,22 @@
    "error": null
   },
   {
-   "source": "YouTube oficial @MissUniverse",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
+   "source": "YouTube oficial search:Miss Universe official|miss universe",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube oficial @MissInternationalOfficial",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
+   "source": "YouTube oficial search:Miss International Beauty Pageant|miss international",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube oficial @missinternational",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
-   "source": "YouTube oficial @MissEarthOfficial",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
-   "source": "YouTube oficial @missearth",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
+   "source": "YouTube oficial search:Miss Earth official|miss earth",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube oficial @MissWorld",
@@ -152,21 +140,27 @@
    "error": null
   },
   {
-   "source": "YouTube oficial @GrandTVThailand",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
+   "source": "YouTube oficial search:GrandTV Miss Grand International|grand",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
-   "source": "YouTube oficial @MissSupranational",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
+   "source": "YouTube oficial search:Miss Supranational|supranational",
+   "ok": true,
+   "items": 15,
+   "error": null
+  },
+  {
+   "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -178,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 13,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 17,
    "error": null
   },
   {
@@ -203,13 +197,25 @@
    "source": "Reddit r/pageants",
    "ok": false,
    "items": 0,
-   "error": "HTTP Error 403: Blocked"
+   "error": "HTTP Error 404: Not Found"
   },
   {
    "source": "Reddit r/MissUniverse",
    "ok": false,
    "items": 0,
-   "error": "HTTP Error 403: Blocked"
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "source": "Bluesky · miss universe",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 403: Forbidden"
+  },
+  {
+   "source": "Bluesky · miss universo",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 403: Forbidden"
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
@@ -248,6 +254,6 @@
    "error": null
   }
  ],
- "new_items": 1037,
- "total_items": 422
+ "new_items": 709,
+ "total_items": 508
 }
