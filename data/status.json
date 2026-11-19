@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T03:22:38.887162+00:00",
+ "run_at": "2026-11-19T03:30:38.667361+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -46,14 +46,14 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 89,
+   "items": 88,
    "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": true,
-   "items": 80,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe hot picks",
@@ -69,9 +69,9 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": true,
-   "items": 40,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
@@ -81,15 +81,15 @@
   },
   {
    "source": "Google News · Miss Earth Philippines December",
-   "ok": true,
-   "items": 32,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
-   "ok": true,
-   "items": 49,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
@@ -111,9 +111,9 @@
   },
   {
    "source": "Google News · beauty pageant",
-   "ok": true,
-   "items": 90,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "YouTube oficial search:Miss Universe official|miss universe",
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 3,
    "error": null
   },
   {
@@ -328,22 +328,22 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 37,
+   "items": 43,
    "error": null
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
    "ok": true,
-   "items": 103,
-   "error": "sin país reconocido: Democratic Republic of Congo, Reunion Island, The Bahamas, Turks and Caicos"
+   "items": 107,
+   "error": null
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 269,
+   "items": 311,
    "error": null
   }
  ],
- "new_items": 622,
- "total_items": 621
+ "new_items": 436,
+ "total_items": 624
 }
