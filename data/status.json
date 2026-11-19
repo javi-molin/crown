@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-19T05:06:39.144080+00:00",
+ "run_at": "2026-11-19T05:14:38.488516+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 91,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 73,
+   "items": 72,
    "error": null
   },
   {
@@ -40,13 +40,13 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 28,
+   "items": 29,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 88,
+   "items": 96,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 94,
+   "items": 52,
    "error": null
   },
   {
@@ -69,15 +69,15 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 40,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 21,
+   "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 88,
+   "items": 87,
    "error": null
   },
   {
@@ -166,20 +166,20 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
-   "ok": true,
-   "items": 18,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 4,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 31,
+   "items": 32,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "14 usuarios probados en esta vuelta · 140 en total"
+   "error": "14 usuarios probados en esta vuelta · 154 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 55,
+   "items": 49,
    "error": null
   },
   {
@@ -358,16 +358,16 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 3,
+   "items": 0,
    "error": "479 imágenes en el espejo; 67 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 633,
+   "items": 626,
    "error": null
   }
  ],
- "new_items": 639,
- "total_items": 694
+ "new_items": 625,
+ "total_items": 699
 }
