@@ -203,7 +203,8 @@ def endi_render():
             except Exception:
                 pass
         pg.on("response", on_resp)
-        pg.goto(ENDI, wait_until="networkidle", timeout=90000)
+        pg.goto(ENDI, wait_until="domcontentloaded", timeout=90000)
+        pg.wait_for_timeout(8000)
         for y in range(40):  # galerías con carga diferida: bajar hasta el final
             pg.mouse.wheel(0, 1600)
             pg.wait_for_timeout(250)
@@ -252,7 +253,7 @@ def endi_official(G, cs):
             break
     if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
         last = G.get("endi_render_at")
-        wait = 1800 if len(G.get("endi") or {}) < 20 else 6 * 3600
+        wait = 600 if len(G.get("endi") or {}) < 20 else 6 * 3600
         if not last or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
             G["endi_render_at"] = now_utc().isoformat()
             try:
