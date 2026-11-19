@@ -86,7 +86,7 @@ function renderHero() {
   const mains = next.filter(e => e.main).slice(0, 1);
   const others = next.filter(e => !mains.includes(e)).slice(0, 2);
   const box = (e, big) => `<div class="cd ${big ? "" : "small"}" style="${big ? "" : "border-top:3px solid " + pColor(e.pid)}">
-    <div class="lbl">${esc(e.pname)}</div><div class="ev">${esc(e.name)}</div>
+    <div class="lbl">${esc(e.pname)}</div><div class="evn">${esc(e.name)}</div>
     <div class="clock" data-t="${e.start}">--</div>
     <div class="when">${fmt(e.start, { weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })} hora Chile${e.tbc ? " · hora por confirmar" : ""}</div></div>`;
   $("#hero").innerHTML = mains.map(e => box(e, true)).join("") + others.map(e => box(e)).join("");
@@ -647,7 +647,7 @@ const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipi
 S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
 S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "" };
 
-function imgTag(im) { const src = im.thumb || im.alt || im.url, alt2 = im.url !== src ? im.url : ""; return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
+function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : ""; return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
 function igPostsFor(c, cat) {
   const k = c.contest + "|" + c.country;
   return Object.values(S.gallery.ig_posts || {}).filter(p => (p.who || []).includes(k) && (!cat || (p.cats || []).includes(cat)));
