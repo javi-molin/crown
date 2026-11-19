@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>CROWN · Panel de concursos de belleza</title>
 <meta name="description" content="Panel en vivo de concursos de belleza: Miss Universe, Miss International, Miss Earth y más.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👑</text></svg>">
@@ -12,95 +12,126 @@
 </head>
 <body>
 <header class="top">
-  <div class="brand"><span class="crown">♛</span><div><b>CROWN</b><small>el cerebro de tu cuenta de concursos</small></div></div>
-  <div class="pulse" id="pulse"><span class="dot"></span><span id="pulseText">cargando…</span></div>
+  <div class="brand"><span class="crown">♛</span><div><b>CROWN</b><small>tu cerebro de concursos</small></div></div>
+  <div class="topr">
+    <div class="nextchip" id="nextChip"></div>
+    <div class="pulse" id="pulse"><span class="dot"></span><span id="pulseText">cargando…</span></div>
+  </div>
 </header>
-<nav class="tabs" id="tabs">
-  <button data-tab="vivo" class="on">En vivo</button>
-  <button data-tab="eventos">Eventos y campañas</button>
-  <button data-tab="concursos">Concursos</button>
-  <button data-tab="candidatas">Candidatas</button>
-  <button data-tab="looks">Looks y videos</button>
-  <button data-tab="polemicas">Polémicas</button>
-  <button data-tab="estudio">Estudio del nicho</button>
-  <button data-tab="contenido">Contenido</button>
-  <button data-tab="grabar">Grabar</button>
-  <button data-tab="fuentes">Fuentes</button>
+
+<nav class="tabs" id="tabs" aria-label="Secciones">
+  <button data-tab="vivo" class="on"><i>🏠</i><span>Hoy</span></button>
+  <button data-tab="galeria"><i>🖼</i><span>Galería</span></button>
+  <button data-tab="candidatas"><i>👑</i><span>Candidatas</span></button>
+  <button data-tab="eventos"><i>✨</i><span>Eventos</span></button>
+  <button data-tab="contenido"><i>🎬</i><span>Contenido</span></button>
+  <button data-tab="grabar"><i>🎙</i><span>Grabar</span></button>
+  <div class="more">
+    <button id="moreBtn" aria-haspopup="true"><i>⋯</i><span>Más</span></button>
+    <div class="moremenu" id="moreMenu" hidden>
+      <button data-tab="concursos">🏆 Concursos</button>
+      <button data-tab="polemicas">🔥 Polémicas</button>
+      <button data-tab="estudio">📊 Estudio del nicho</button>
+      <button data-tab="fuentes">🛰 Fuentes y robot</button>
+    </div>
+  </div>
 </nav>
+
 <main>
-  <!-- EN VIVO -->
+  <!-- HOY -->
   <section id="vivo" class="tab on">
     <div class="hero" id="hero"></div>
+    <div class="tiles" id="tiles"></div>
     <div class="grid2">
       <div>
-        <div class="bar">
-          <h2>Lo último</h2>
-          <div class="controls">
-            <input id="q" type="search" placeholder="Buscar (nombre, país, tema)…">
-            <label class="switch"><input type="checkbox" id="notif"> avisarme</label>
-          </div>
+        <div class="sechead"><div><h2>Lo último</h2><p class="lead">Noticias y videos etiquetados automáticamente. Marca con ☆ lo que quieras usar.</p></div></div>
+        <div class="filters">
+          <input id="q" type="search" placeholder="Buscar nombre, país o tema…">
+          <div class="chips" id="chipsContest"></div>
+          <div class="chips" id="chipsTag"></div>
+          <label class="switch"><input type="checkbox" id="notif"> Avisarme de polémicas</label>
         </div>
-        <div class="chips" id="chipsContest"></div>
-        <div class="chips" id="chipsTag"></div>
         <div id="feed" class="feed"></div>
-        <button class="more" id="more">Ver más</button>
+        <button class="more ghost" id="more">Ver más</button>
       </div>
       <aside>
-        <div class="card"><h3>Agenda (hora Chile)</h3><ol id="agenda" class="agenda"></ol></div>
-        <div class="card"><h3>Resultados en vivo · Wikipedia</h3><div id="wiki" class="wiki"></div></div>
-        <div class="card"><h3>Menciones por candidata (30 días)</h3><ol id="buzz" class="buzz"></ol></div>
+        <div class="card"><h3>Agenda <small>hora Chile</small></h3><ol id="agenda" class="agenda"></ol></div>
+        <div class="card"><h3>Las más mencionadas</h3><ol id="buzz" class="buzz"></ol></div>
+        <details class="card"><summary><h3>Resultados en vivo · Wikipedia</h3></summary><div id="wiki" class="wiki"></div></details>
       </aside>
     </div>
   </section>
 
-  <section id="eventos" class="tab">
-    <div class="bar">
-      <h2>Eventos, campañas y micro-eventos</h2>
-      <div class="controls">
-        <input id="evQ" type="search" placeholder="Buscar evento…">
-        <button class="ghost" id="evNew">+ Crear evento propio</button>
+  <!-- GALERÍA -->
+  <section id="galeria" class="tab">
+    <div class="sechead"><div><h2>Galería</h2><p class="lead">Fotos ordenadas por candidata y categoría. Elige varias y descárgalas en un ZIP.</p></div>
+      <div class="seg" id="galMode"><button data-gm="fotos" class="on">Fotos por candidata</button><button data-gm="ig">Instagram</button><button data-gm="videos">Videos</button></div></div>
+
+    <div id="galFotos">
+      <div class="filters sticky">
+        <select id="gContest"></select>
+        <div class="seg" id="gCat"></div>
+        <input id="gQ" type="search" placeholder="País o nombre…">
+        <label class="switch"><input type="checkbox" id="gFav"> Solo favoritas</label>
+      </div>
+      <p class="hint" id="gInfo"></p>
+      <div id="gGrid" class="pgrid"></div>
+    </div>
+
+    <div id="galIg" hidden>
+      <div class="filters">
+        <select id="iContest"></select>
+        <div class="seg" id="iCat"></div>
+        <input id="iQ" type="search" placeholder="País, nombre o texto…">
+      </div>
+      <div class="callout" id="igCallout"></div>
+      <div id="iGrid" class="iggrid"></div>
+    </div>
+
+    <div id="galVideos" hidden>
+      <div class="quick" id="quickLooks"></div>
+      <h3 class="sub">Canales oficiales · lo último</h3>
+      <div id="vOfficial" class="vgrid"></div>
+      <h3 class="sub">Lo más nuevo en YouTube</h3>
+      <div id="vSearch" class="vgrid"></div>
+      <div class="grid2 eq">
+        <div class="card"><h3>En vivo · YouTube Miss Universe</h3><div id="live" class="ratio"></div><p class="hint">En Chile la final va por Mega/MegaGO.</p></div>
+        <div class="card"><h3>TikTok @missuniverse</h3><div id="tt"></div></div>
       </div>
     </div>
-    <p class="hint">El robot detecta solo los eventos: agenda oficial, campañas conocidas, frases que se repiten en varios medios y actividades (sesión de fotos, desfile, gala, visita…) que aparecen en varias fuentes. Ábrelos para descargar imágenes, ver estadísticas y armar tus hot picks.</p>
-    <div class="chips" id="evChipsC"></div>
-    <div class="chips" id="evChipsK"></div>
+  </section>
+
+  <!-- CANDIDATAS -->
+  <section id="candidatas" class="tab">
+    <div class="sechead"><div><h2>Candidatas</h2><p class="lead">Toca una tarjeta para ver su perfil: fotos por categoría, Instagram, noticias y enlaces.</p></div>
+      <button id="exportRank" class="ghost">Copiar mi top como guion</button></div>
+    <div class="filters sticky">
+      <select id="cContest"></select>
+      <select id="cRegion"><option value="">Todas las regiones</option></select>
+      <input id="cQ" type="search" placeholder="País o nombre…">
+      <label class="switch"><input type="checkbox" id="cFav"> Solo favoritas</label>
+    </div>
+    <div id="clist" class="pgrid"></div>
+  </section>
+
+  <!-- EVENTOS -->
+  <section id="eventos" class="tab">
+    <div class="sechead"><div><h2>Eventos y campañas</h2><p class="lead">Se detectan solos: agenda oficial, campañas, sesiones de fotos, desfiles y micro-eventos que aparecen en varios medios.</p></div>
+      <button class="ghost" id="evNew">+ Crear evento</button></div>
+    <div class="filters">
+      <input id="evQ" type="search" placeholder="Buscar evento…">
+      <div class="chips" id="evChipsC"></div>
+      <div class="chips" id="evChipsK"></div>
+    </div>
     <div id="evList" class="evgrid"></div>
   </section>
 
-  <section id="concursos" class="tab"><div id="pageants" class="pageants"></div></section>
-
-  <section id="candidatas" class="tab">
-    <div class="bar">
-      <h2>Candidatas</h2>
-      <div class="controls">
-        <select id="cContest"></select>
-        <select id="cRegion"><option value="">Todas las regiones</option></select>
-        <input id="cQ" type="search" placeholder="Buscar país o nombre…">
-        <label class="switch"><input type="checkbox" id="cFav"> solo mis favoritas</label>
-        <button id="exportRank" class="ghost">Copiar mi top como guion</button>
-      </div>
-    </div>
-    <p class="hint">★ marca favoritas · el número es tu ranking personal (queda guardado en este navegador). Cada tarjeta abre redes, looks, videos y noticias de esa candidata.</p>
-    <div id="clist" class="clist"></div>
-  </section>
-
-  <section id="looks" class="tab">
-    <div class="bar"><h2>Looks y videos</h2></div>
-    <div class="quick" id="quickLooks"></div>
-    <h3 class="sub">Canales oficiales · último subido</h3>
-    <div id="vOfficial" class="vgrid"></div>
-    <h3 class="sub">Lo más nuevo en YouTube (fans, medios, candidatas)</h3>
-    <div id="vSearch" class="vgrid"></div>
-    <div class="grid2">
-      <div class="card"><h3>Transmisión en vivo · YouTube Miss Universe</h3><div id="live" class="ratio"></div><p class="hint">Si no hay transmisión activa YouTube mostrará "sin emisión". En Chile la final va por Mega/MegaGO.</p></div>
-      <div class="card"><h3>TikTok oficial @missuniverse</h3><div id="tt"></div></div>
-    </div>
-  </section>
+  <section id="concursos" class="tab"><div class="sechead"><div><h2>Concursos 2026</h2><p class="lead">Fechas, sedes, formato, dónde verlos y polémicas con fuente.</p></div></div><div id="pageants" class="pageants"></div></section>
 
   <section id="polemicas" class="tab">
-    <div class="bar"><h2>Polémicas</h2></div>
+    <div class="sechead"><div><h2>Polémicas</h2><p class="lead">Las documentadas con fuente, más las que el robot detecta en las noticias.</p></div></div>
     <div id="polCurated" class="pol"></div>
-    <h3 class="sub">Detectadas automáticamente en noticias</h3>
+    <h3 class="sub">Detectadas en noticias</h3>
     <div id="polFeed" class="feed"></div>
   </section>
 
@@ -108,37 +139,38 @@
   <section id="contenido" class="tab"><div id="contenidoBody"></div></section>
 
   <section id="grabar" class="tab">
-    <div class="bar"><h2>Grabar · teleprompter</h2>
-      <div class="controls">
-        <select id="tpPick"><option value="">Elegir guion…</option></select>
-        <label>velocidad <input type="range" id="tpSpeed" min="1" max="12" value="4"></label>
-        <label>tamaño <input type="range" id="tpSize" min="24" max="80" value="44"></label>
-        <label class="switch"><input type="checkbox" id="tpMirror"> espejo</label>
-        <button id="tpGo">▶ Iniciar</button><button id="tpFull" class="ghost">Pantalla completa</button>
-      </div>
+    <div class="sechead"><div><h2>Grabar</h2><p class="lead">Elige un guion, ajusta la velocidad y presiona Iniciar. Espacio = pausa · ↑↓ = velocidad.</p></div></div>
+    <div class="filters">
+      <select id="tpPick"><option value="">Elegir guion…</option></select>
+      <label class="rng">Velocidad <input type="range" id="tpSpeed" min="1" max="12" value="4"></label>
+      <label class="rng">Tamaño <input type="range" id="tpSize" min="24" max="80" value="44"></label>
+      <label class="switch"><input type="checkbox" id="tpMirror"> Espejo</label>
+      <button id="tpGo">▶ Iniciar</button><button id="tpFull" class="ghost">Pantalla completa</button>
     </div>
     <textarea id="tpText" placeholder="Pega o escribe tu guion aquí, o elige uno de la lista."></textarea>
     <div id="tp" class="tp"><div id="tpInner"></div></div>
-    <p class="hint">Espacio = pausa · flechas ↑↓ = velocidad · Esc = salir. Ideal: celular en trípode, panel en el computador detrás de la cámara.</p>
   </section>
 
   <section id="fuentes" class="tab">
-    <div class="bar"><h2>Fuentes y estado del robot</h2></div>
+    <div class="sechead"><div><h2>Fuentes y robot</h2><p class="lead">Estado de cada fuente en la última corrida.</p></div></div>
     <div id="status"></div>
     <div class="card how">
-      <h3>Cómo funciona la actualización</h3>
+      <h3>Cómo funciona</h3>
       <ul>
-        <li><b>Robot (GitHub Actions)</b> cada ~10 min consulta Google Noticias (español e inglés), los canales oficiales de YouTube, búsquedas de YouTube por fecha, Reddit y Wikipedia (que los fans editan en vivo durante las finales). Etiqueta cada nota por concurso, candidata, polémica, looks y resultados.</li>
-        <li><b>Este panel</b> vuelve a leer los datos cada 60 s sin recargar la página.</li>
-        <li><b>Instagram y TikTok</b> no permiten que un sitio externo lea sus publicaciones sin una cuenta de empresa aprobada; por eso cada candidata tiene accesos directos a su búsqueda en IG/TikTok y aquí se integran los embeds oficiales que sí están permitidos.</li>
-        <li><b>Forzar actualización</b> (por ejemplo durante la final): GitHub → pestaña <i>Actions</i> → "Actualizar datos CROWN" → <i>Run workflow</i>.</li>
+        <li><b>El robot</b> (GitHub Actions) corre cada ~10 min: Google y Bing Noticias, YouTube, Wikipedia, artículos, Bing Imágenes, posts públicos de Instagram encontrados por búsqueda y, si la conectas, la Graph API oficial de Instagram.</li>
+        <li><b>El panel</b> vuelve a leer los datos cada 60 s.</li>
+        <li><b>Forzar una actualización:</b> GitHub → Actions → "Actualizar datos CROWN" → Run workflow.</li>
+        <li><b>Instagram con estadísticas (opcional):</b> conecta una cuenta profesional de Instagram a una app de Meta y guarda <code>IG_TOKEN</code> e <code>IG_USER_ID</code> en GitHub → Settings → Secrets → Actions. Con eso el robot lee fotos, likes y comentarios de @missuniverse y de las candidatas con cuenta profesional.</li>
       </ul>
     </div>
   </section>
 </main>
+
+<aside id="drawer" class="drawer" hidden aria-modal="true" role="dialog"><div class="dpanel"><button class="x" id="dx" aria-label="Cerrar">✕</button><div id="dbody"></div></div></aside>
+<div id="selbar" class="selbar" hidden><span id="selN"></span><button id="selZip">⬇ Descargar ZIP</button><button class="ghost" id="selMark">★ Marcar</button><button class="ghost" id="selClear">Limpiar</button><span class="prog" id="selProg"></span></div>
 <button id="basketBtn" class="basket">★ Mi selección <b id="basketN">0</b></button>
 <div id="modal" class="modal" hidden><div class="mbox"><button class="x" id="mx">✕</button><div id="mbody"></div></div></div>
-<footer>Datos públicos: Wikipedia, Google Noticias, YouTube, Reddit y prensa. Hecho para uso editorial propio.</footer>
+<footer>Datos públicos: Wikipedia, Google/Bing Noticias, YouTube, Instagram (embeds oficiales) y prensa. Uso editorial; respeta los créditos.</footer>
 <script src="assets/app.js"></script>
 </body>
 </html>

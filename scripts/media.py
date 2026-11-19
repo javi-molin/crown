@@ -134,7 +134,7 @@ def run(mod, contestants, deadline_s=200):
     # --- 1. cuentas de IG de candidatas (descubrimiento, 12 por corrida)
     found = 0
     for c in cs:
-        if time.time() - t0 > deadline_s * 0.25 or found >= 12:
+        if time.time() - t0 > deadline_s * 0.25 or found >= 6:
             break
         k = c["contest"] + "|" + c["country"]
         h = G["handles"].get(k, {})
@@ -149,7 +149,7 @@ def run(mod, contestants, deadline_s=200):
             found += 1
         except Exception as e:
             G["handles"][k] = {**h, "tried": now.isoformat(), "name": c["name"], "error": str(e)[:80]}
-        time.sleep(0.6)
+        time.sleep(2.0)
     U.note("Instagram · cuentas de candidatas descubiertas", True, sum(1 for v in G["handles"].values() if v.get("handle")))
 
     # --- 2. Instagram
@@ -181,7 +181,7 @@ def run(mod, contestants, deadline_s=200):
     n = 0
     order = sorted(cs, key=lambda c: G.get("igsearch", {}).get(c["contest"] + "|" + c["country"], ""))
     G.setdefault("igsearch", {})
-    for c in order[:25]:
+    for c in order[:6]:
         if time.time() - t0 > deadline_s * 0.6:
             break
         k = c["contest"] + "|" + c["country"]
@@ -194,7 +194,7 @@ def run(mod, contestants, deadline_s=200):
         except Exception:
             pass
         G["igsearch"][k] = now.isoformat()
-        time.sleep(0.5)
+        time.sleep(2.0)
     U.note("Instagram · posts encontrados por búsqueda web", True, n)
 
     # asignar posts de IG a candidata + categoría
@@ -235,17 +235,23 @@ def run(mod, contestants, deadline_s=200):
                 continue
             todo.append((CAT_ORDER.index(cat[0]), prio(c), k, c, cat))
     todo.sort(key=lambda x: (x[1], x[0]))
-    done = 0
-    for _, _, k, c, cat in todo:
+    done, empties = 0, 0
+    for _, _, k, c, cat in todo[:30]:
         if time.time() - t0 > deadline_s:
             break
         try:
             imgs = bing_cell(c, cat)
-            G["cells"][k] = {"name": c["name"], "fetched": now.isoformat(), "images": imgs}
+            if imgs:
+                G["cells"][k] = {"name": c["name"], "fetched": now.isoformat(), "images": imgs}
+                empties = 0
+            else:
+                empties += 1
         except Exception as e:
-            G["cells"][k] = {"name": c["name"], "fetched": now.isoformat(), "images": G["cells"].get(k, {}).get("images", []), "error": str(e)[:80]}
+            empties += 1
         done += 1
-        time.sleep(0.35)
+        if empties >= 4:  # probable bloqueo: no insistir en esta corrida
+            break
+        time.sleep(2.5)
     total_cells = sum(len(cats_by_contest.get(c["contest"], [])) for c in cs)
     filled = sum(1 for v in G["cells"].values() if v.get("images"))
     U.note(f"Galería por candidata (Bing) · {filled}/{total_cells} celdas con fotos", True, done)

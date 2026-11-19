@@ -35,8 +35,8 @@ const shortP = id => ({ mu: "Universe", mi: "International", me: "Earth", mw: "W
 
 /* ---------------- carga ---------------- */
 async function loadAll(first) {
-  const [p, c, ca, f, v, w, st, es, co, evs] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
-    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json"].map(getJSON));
+  const [p, c, ca, f, v, w, st, es, co, evs, gal] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
+    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json", "gallery.json"].map(getJSON));
   if (p) S.pageants = p.pageants;
   if (c) {
     // Wikipedia (lista automática) manda; lo manual aporta notas, IG y hot picks.
@@ -55,12 +55,14 @@ async function loadAll(first) {
     if (prevIds && $("#notif").checked) notifyNew(f.items.filter(i => !prevIds.has(i.id)));
   }
   if (evs) S.events = evs.events || [];
+  if (gal) S.gallery = gal;
   if (f) for (const i of f.items) S.idx["feed:" + i.id] = { type: i.type === "video" ? "video" : "nota", title: i.title, url: i.link, img: i.thumb || "", source: i.source, date: i.published };
   if (v) S.videos = v; if (w) S.wiki = w; if (st) S.status = st; if (es) S.estudio = es; if (co) S.contenido = co;
   renderPulse();
   if (first) { renderPageants(); renderContestFilters(); renderLooksStatic(); renderEstudio(); }
   renderHero(); renderAgenda(); renderChips(); renderFeed(); renderWiki(); renderBuzz(); renderCandidatas(); renderVideos();
   renderPolemicas(); renderContenido(); renderStatus(); renderEvents(); renderBasketBtn();
+  if (first) initGallery(); renderGallery(); renderIG();
 }
 
 function renderPulse() {
@@ -88,6 +90,14 @@ function renderHero() {
     <div class="clock" data-t="${e.start}">--</div>
     <div class="when">${fmt(e.start, { weekday: "long", day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })} hora Chile${e.tbc ? " · hora por confirmar" : ""}</div></div>`;
   $("#hero").innerHTML = mains.map(e => box(e, true)).join("") + others.map(e => box(e)).join("");
+  const nx = mains[0] || others[0];
+  $("#nextChip").innerHTML = nx ? `${esc(shortP(nx.pid))} · ${esc(nx.name.replace(/ —.*/, ""))}<b class="clock" data-t="${nx.start}"></b>` : "";
+  const its = S.feed.items || [], day = Date.now() - 864e5;
+  const n24 = its.filter(i => new Date(i.first_seen || i.published) > day);
+  const actEv = (S.events || []).filter(e => !e.upcoming && new Date(e.last_activity) > Date.now() - 2 * 864e5).length;
+  $("#tiles").innerHTML = [["vivo", n24.length, "notas nuevas en 24 h", ""], ["polemicas", n24.filter(i => (i.tags || []).includes("polemica")).length, "polémicas en 24 h", ""],
+    ["eventos", actEv, "eventos activos", ""], ["galeria", Object.values((S.gallery || {}).cells || {}).reduce((a, c) => a + (c.images || []).length, 0), "fotos en la galería", ""]]
+    .map(([tab, n, l]) => `<button class="tile" data-tab="${tab}"><b>${n}</b><span>${l}</span></button>`).join("");
   tick();
 }
 function tick() {
@@ -153,7 +163,7 @@ function renderBuzz() {
   const m = mentions();
   const top = Object.entries(m).sort((a, b) => b[1] - a[1]).slice(0, 12);
   $("#buzz").innerHTML = top.map(([k, n]) => { const [c, country] = k.split("|"); const x = S.contestants.find(y => y.contest === c && y.country === country) || {};
-    return `<li>${flag(x.iso)} <b>${esc(x.name || country)}</b> <span class="hint">${esc(x.country_es || country)} · ${shortP(c)}</span> — ${n}</li>`; }).join("") || `<li class="hint">Sin datos aún.</li>`;
+    return `<li data-prof="${esc(k)}">${flag(x.iso)} <b>${esc(x.name || country)}</b> <span class="hint">${esc(x.country_es || country)}</span><span class="n">${n}</span></li>`; }).join("") || `<li class="hint">Sin datos aún.</li>`;
 }
 function notifyNew(list) {
   const hot = list.filter(i => (i.tags || []).some(t => ["polemica", "alerta", "resultados"].includes(t)));
@@ -211,16 +221,11 @@ function renderCandidatas() {
   const key = c => c.contest + "|" + c.country;
   if (onlyFav) list = list.filter(c => favs[key(c)]);
   list.sort((a, b) => (ranks[key(a)] || 999) - (ranks[key(b)] || 999) || (a.hot || 99) - (b.hot || 99) || a.country_es.localeCompare(b.country_es));
-  $("#clist").innerHTML = list.map(c => { const k = key(c);
-    return `<div class="cc ${favs[k] ? "fav" : ""}" data-k="${esc(k)}">
-    <div class="h"><span class="flag">${flag(c.iso)}</span><div class="act">${c.hot ? `<span class="hotb">HOT #${c.hot}</span>` : ""}
-      <input class="rank" type="number" min="1" placeholder="#" value="${ranks[k] || ""}" title="tu ranking"><button class="star" title="favorita">★</button></div></div>
-    <div class="n">${esc(c.name)}</div>
-    <div class="p">${esc(c.country_es)}${c.age ? " · " + c.age + " años" : ""}${c.hometown ? " · " + esc(c.hometown) : ""}</div>
-    ${m[k] ? `<a class="ment" href="#" data-ment="${esc(k)}">${m[k]} menciones en noticias →</a>` : ""}
-    ${c.no_wiki ? `<div class="nt" style="border-color:var(--rose)">Ya no figura en la lista de Wikipedia: posible retiro o reemplazo. Verificar.</div>` : ""}
-    ${c.nota ? `<div class="nt">${esc(c.nota)}${c.fuente ? ` <a href="${esc(c.fuente)}" target="_blank">fuente</a>` : ""}${c.verificar ? " · <i>por confirmar</i>" : ""}</div>` : ""}
-    <div class="lk">${links(c).map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`).join("")}</div></div>`; }).join("")
+  $("#clist").innerHTML = list.map(c => { const k = key(c), ph = photoOf(c);
+    return `<div class="pc ${favs[k] ? "fav" : ""}" data-k="${esc(k)}" data-prof="${esc(k)}">
+     <div class="ph">${ph ? imgTag(ph) : `<span class="bigflag">${flag(c.iso)}</span><span class="loading">buscando fotos…</span>`}${c.hot ? `<span class="cnt" style="background:var(--rose)">HOT #${c.hot}</span>` : ""}</div>
+     <div class="info"><div class="n">${flag(c.iso)} ${esc(c.name)}</div><div class="p">${esc(c.country_es)}${c.age ? " · " + c.age : ""}${c.no_wiki ? " · <span style='color:var(--rose)'>verificar</span>" : ""}</div>
+     <div class="row">${m[k] ? `<span class="ment">${m[k]} notas</span>` : "<span></span>"}<span><input class="rank" type="number" min="1" placeholder="#" value="${ranks[k] || ""}" title="Tu ranking"><button class="star" title="Favorita">★</button></span></div></div></div>`; }).join("")
     || `<div class="empty">Sin resultados.</div>`;
 }
 function showMentions(k) {
@@ -360,11 +365,11 @@ document.addEventListener("click", e => {
   if (m) { e.preventDefault(); e.stopPropagation(); bToggle(m.dataset.mk); m.classList.toggle("on", bHas(m.dataset.mk)); m.textContent = bHas(m.dataset.mk) ? "★" : "☆"; return; }
   const t = e.target.closest("[data-tab],[data-c],[data-t],[data-goto],.star,[data-ment],.v,[data-copy],[data-tp],[data-pillar],[data-script]");
   if (!t) return;
-  if (t.dataset.tab) { $$(".tabs button").forEach(b => b.classList.toggle("on", b === t)); $$(".tab").forEach(s => s.classList.toggle("on", s.id === t.dataset.tab)); location.hash = t.dataset.tab; if (t.dataset.tab === "vivo") markSeenSoon(); return; }
+  if (t.dataset.tab) { $("#moreMenu").hidden = true; $$(".tabs button").forEach(b => b.classList.toggle("on", b.dataset.tab === t.dataset.tab)); window.scrollTo({ top: 0 }); $$(".tab").forEach(s => s.classList.toggle("on", s.id === t.dataset.tab)); location.hash = t.dataset.tab; if (t.dataset.tab === "vivo") markSeenSoon(); return; }
   if (t.dataset.c !== undefined) { S.fContest = t.dataset.c; S.shown = 40; renderChips(); renderFeed(); return; }
   if (t.dataset.t !== undefined) { S.fTag = t.dataset.t; S.shown = 40; renderChips(); renderFeed(); return; }
   if (t.dataset.goto) { e.preventDefault(); $("#cContest").value = t.dataset.goto; $('[data-tab="candidatas"]').click(); renderCandidatas(); return; }
-  if (t.classList.contains("star")) { const k = t.closest(".cc").dataset.k, f = store.get("favs", {}); f[k] = !f[k]; store.set("favs", f); renderCandidatas(); return; }
+  if (t.classList.contains("star")) { e.stopPropagation(); const k = t.closest("[data-k]").dataset.k, f = store.get("favs", {}); f[k] = !f[k]; store.set("favs", f); renderCandidatas(); return; }
   if (t.dataset.ment) { e.preventDefault(); showMentions(t.dataset.ment); return; }
   if (t.classList.contains("v")) { openModal(`<div class="ratio"><iframe src="https://www.youtube.com/embed/${t.dataset.vid}?autoplay=1" allow="autoplay; fullscreen" allowfullscreen></iframe></div><p><a href="https://www.youtube.com/watch?v=${t.dataset.vid}" target="_blank">abrir en YouTube</a></p>`); return; }
   if (t.dataset.copy) { navigator.clipboard?.writeText(IDEAS[t.dataset.copy].guion); t.textContent = "¡Copiado!"; return; }
@@ -379,7 +384,7 @@ $("#more").onclick = () => { S.shown += 40; renderFeed(); };
 $("#notif").onchange = e => { if (e.target.checked && "Notification" in window) Notification.requestPermission(); };
 ["cContest", "cRegion", "cFav"].forEach(id => $("#" + id).onchange = renderCandidatas);
 $("#cQ").oninput = renderCandidatas;
-$("#clist").addEventListener("change", e => { if (!e.target.classList.contains("rank")) return; const k = e.target.closest(".cc").dataset.k, r = store.get("ranks", {}); const v = parseInt(e.target.value); if (v) r[k] = v; else delete r[k]; store.set("ranks", r); });
+$("#clist").addEventListener("change", e => { if (!e.target.classList.contains("rank")) return; const k = e.target.closest("[data-k]").dataset.k, r = store.get("ranks", {}); const v = parseInt(e.target.value); if (v) r[k] = v; else delete r[k]; store.set("ranks", r); });
 $("#exportRank").onclick = exportRank;
 $("#tpPick").onchange = e => { const v = e.target.value; if (!v) return; if (v.startsWith("mine-")) tpLoad(store.get("scripts", [])[+v.slice(5)].txt); else tpLoad(IDEAS[v].guion); };
 $("#tpText").oninput = e => { $("#tpInner").textContent = e.target.value; };
@@ -455,7 +460,7 @@ function openEvent(id) {
   (e.videos || []).forEach(v => S.idx["yt:" + v.vid] = { type: "video", title: v.title, url: "https://www.youtube.com/watch?v=" + v.vid, img: `https://i.ytimg.com/vi/${v.vid}/hqdefault.jpg`, source: v.channel, views: v.views, event: e.name });
   posts.forEach(p => S.idx["post:" + p.url] = { type: "post", title: p.title || p.url, url: p.url, img: p.thumb || "", source: p.platform + (p.author ? " · @" + p.author : ""), views: p.views ?? manual[p.url]?.views, likes: p.likes ?? manual[p.url]?.likes, event: e.name });
   const [kc, kl] = KIND(e.kind);
-  openModal(`<div class="evm" data-evid="${esc(id)}">
+  openDrawer(`<div class="evm" data-evid="${esc(id)}">
    <span class="kb ${kc}">${esc(kl)}</span> <span class="hint">${esc(pName(e.contest))}</span>
    <h2 style="margin:6px 0">${esc(e.name)}</h2>
    ${e.desc ? `<p>${esc(e.desc)}</p>` : ""}${(e.refs || []).length ? `<p class="hint">Fuentes: ${e.refs.map((r, n) => `<a href="${esc(r)}" target="_blank">${n + 1}</a>`).join(" · ")}</p>` : ""}
@@ -484,7 +489,6 @@ function openEvent(id) {
 
    <h3 class="sub">📰 Notas (${items.length})</h3><div class="feed">${items.map(itemHTML).join("")}</div>
   </div>`);
-  $("#modal .mbox").classList.add("wide");
   renderHotpicks(id);
   history.replaceState(null, "", "#ev=" + id);
 }
@@ -611,7 +615,7 @@ document.addEventListener("click", async e => {
   if (d.evk !== undefined) { S.evFilter.k = d.evk; return renderEvents(); }
   if (d.evzip) { const ev = evById(d.evzip); return buildZip(evRows(d.evzip), "crown-" + fname(ev.name)); }
   if (d.selall !== undefined) { const all = $$(".isel"); const on = !all.every(x => x.checked); all.forEach(x => { x.checked = on; x.closest(".ig").classList.toggle("sel", on); }); return; }
-  if (d.dlsel !== undefined) { const ks = $$(".ig").filter(x => x.querySelector(".isel").checked).map(x => x.dataset.k); if (!ks.length) return alert("Selecciona imágenes primero."); return buildZip(ks.map(k => S.idx[k]), "crown-imagenes-" + fname(evById($(".evm").dataset.evid).name)); }
+  if (d.dlsel !== undefined) { const ks = $$(".ig").filter(x => x.querySelector(".isel").checked).map(x => x.dataset.k); if (!ks.length) return alert("Selecciona imágenes primero."); return buildZip(ks.map(k => S.idx[k]), "crown-imagenes-" + fname($(".evm") ? evById($(".evm").dataset.evid).name : (S.idx[ks[0]] || {}).event || "perfil")); }
   if (d.addsel !== undefined) { $$(".ig").filter(x => x.querySelector(".isel").checked).forEach(x => bAdd(x.dataset.k)); $$(".ig .mk").forEach(m => { m.classList.toggle("on", bHas(m.dataset.mk)); m.textContent = bHas(m.dataset.mk) ? "★" : "☆"; }); return; }
   if (d.dl) return dlOne(d.dl);
   if (d.addpost) { const u = $("#newPost").value.trim(); if (!/^https?:\/\//.test(u)) return; const all = store.get("myPosts", {}); (all[d.addpost] = all[d.addpost] || []).push(u); store.set("myPosts", all); return openEvent(d.addpost); }
@@ -637,3 +641,176 @@ document.addEventListener("change", e => {
 });
 $("#evQ").oninput = renderEvents;
 window.addEventListener("load", () => { const m = location.hash.match(/^#ev=(.+)$/); if (m) setTimeout(() => { $('[data-tab="eventos"]').click(); openEvent(decodeURIComponent(m[1])); }, 1500); });
+
+/* ================= GALERÍA · PERFIL · INSTAGRAM · DRAWER ================= */
+const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipico", "Traje típico"], ["gala", "Vestido de gala"], ["runway", "Runway"]];
+S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
+S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "" };
+
+function imgTag(im) { const src = im.thumb || im.alt || im.url, alt2 = im.url !== src ? im.url : ""; return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
+function igPostsFor(c, cat) {
+  const k = c.contest + "|" + c.country;
+  return Object.values(S.gallery.ig_posts || {}).filter(p => (p.who || []).includes(k) && (!cat || (p.cats || []).includes(cat)));
+}
+function cellImgs(c, cat) {
+  const out = [];
+  for (const p of igPostsFor(c, cat)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
+  for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
+  const seen = new Set(); return out.filter(i => !seen.has(i.url) && seen.add(i.url));
+}
+function photoOf(c, cat) {
+  for (const k of [cat || "retrato", ...CATS.map(x => x[0])]) { const im = cellImgs(c, k)[0]; if (im) return im; }
+  return null;
+}
+
+function initGallery() {
+  const ids = [...new Set(S.contestants.map(c => c.contest))].filter(x => x !== "me");
+  for (const sel of ["#gContest", "#iContest"]) $(sel).innerHTML = ids.map(id => `<option value="${id}">${esc(pName(id))}</option>`).join("");
+  $("#gCat").innerHTML = CATS.map(([id, l]) => `<button data-gcat="${id}" class="${id === S.gal.cat ? "on" : ""}">${l}</button>`).join("");
+  $("#iCat").innerHTML = [["", "Todo"], ...CATS].map(([id, l]) => `<button data-icat="${id}" class="${id === S.gal.icat ? "on" : ""}">${l}</button>`).join("");
+  ["gContest", "gFav"].forEach(id => $("#" + id).onchange = () => { S.gal.sel.clear(); renderGallery(); });
+  $("#gQ").oninput = renderGallery; $("#iQ").oninput = renderIG; $("#iContest").onchange = renderIG;
+}
+function renderGallery() {
+  if (!S.contestants.length || !$("#gContest").value) return;
+  const cid = $("#gContest").value, cat = S.gal.cat, q = ($("#gQ").value || "").toLowerCase(), favs = store.get("favs", {});
+  let list = S.contestants.filter(c => c.contest === cid && (!q || (c.name + " " + c.country_es + " " + c.country).toLowerCase().includes(q)) && (!$("#gFav").checked || favs[c.contest + "|" + c.country]));
+  list.sort((a, b) => (cellImgs(b, cat).length > 0) - (cellImgs(a, cat).length > 0) || (a.hot || 99) - (b.hot || 99) || a.country_es.localeCompare(b.country_es));
+  const withImg = list.filter(c => cellImgs(c, cat).length).length;
+  $("#gInfo").textContent = `${withImg} de ${list.length} candidatas ya tienen fotos de "${CATS.find(x => x[0] === cat)[1]}". El robot sigue buscando en cada corrida. Toca una foto para ver todas; marca ✓ para descargar varias.`;
+  $("#gGrid").innerHTML = list.map(c => {
+    const k = c.contest + "|" + c.country, ims = cellImgs(c, cat), im = ims[0], on = S.gal.sel.has(k);
+    return `<div class="pc ${on ? "sel" : ""}" data-prof="${esc(k)}" data-pcat="${cat}">
+      <div class="ph">${im ? imgTag(im) : `<span class="bigflag">${flag(c.iso)}</span><span class="loading">buscando…</span>`}
+      ${ims.length ? `<button class="chk" data-gsel="${esc(k)}" title="Seleccionar">${on ? "✓" : ""}</button><span class="cnt">${ims.length}</span>` : ""}${im && im.ig ? `<span class="igb">IG</span>` : ""}</div>
+      <div class="info"><div class="n">${flag(c.iso)} ${esc(c.name)}</div><div class="p">${esc(c.country_es)}</div></div></div>`;
+  }).join("") || `<div class="empty">Sin candidatas para este filtro.</div>`;
+  updSelbar();
+}
+function updSelbar() {
+  const n = S.gal.sel.size, cat = S.gal.cat;
+  const imgs = [...S.gal.sel].reduce((a, k) => { const c = S.contestants.find(x => x.contest + "|" + x.country === k); return a + (c ? cellImgs(c, cat).length : 0); }, 0);
+  $("#selbar").hidden = !n || !$("#galeria").classList.contains("on");
+  $("#selN").textContent = `${n} candidata${n === 1 ? "" : "s"} · ${imgs} fotos`;
+}
+function selRows() {
+  const cat = S.gal.cat, rows = [];
+  for (const k of S.gal.sel) { const c = S.contestants.find(x => x.contest + "|" + x.country === k); if (!c) continue;
+    cellImgs(c, cat).forEach((im, n) => rows.push({ type: "imagen", title: `${c.country_es} ${c.name} ${CATS.find(x => x[0] === cat)[1]} ${n + 1}`, url: im.url, alt: im.thumb, img: im.thumb || im.url, source: im.via, page: im.page, event: `${c.country_es} · ${CATS.find(x => x[0] === cat)[1]}`, likes: im.likes })); }
+  return rows;
+}
+
+function renderIG() {
+  const posts = Object.values(S.gallery.ig_posts || {});
+  const cid = $("#iContest").value || "mu", q = ($("#iQ").value || "").toLowerCase(), cat = S.gal.icat;
+  const graph = Object.values(S.gallery.accounts || {}).some(a => a.fetched);
+  $("#igCallout").innerHTML = graph
+    ? `<b>Instagram conectado</b> mediante la API oficial: fotos, likes y comentarios de ${Object.values(S.gallery.accounts).filter(a => a.fetched).length} cuentas.`
+    : `<b>Posts públicos de Instagram</b> encontrados por búsqueda para cada candidata. Toca "Ver post" para verlo aquí mismo con el embed oficial. Si quieres <b>fotos y likes automáticos</b>, conecta la API oficial de Instagram (instrucciones en Más → Fuentes y robot).`;
+  const list = posts.filter(p => p.contest === cid && (!cat || (p.cats || []).includes(cat)) && (!q || ((p.caption || "") + " " + (p.who || []).join(" ") + " " + (p.owner || "")).toLowerCase().includes(q)))
+    .sort((a, b) => new Date(b.taken || b.seen) - new Date(a.taken || a.seen)).slice(0, 200);
+  $("#iGrid").innerHTML = list.map(p => {
+    const who = (p.who || []).map(k => S.contestants.find(c => c.contest + "|" + c.country === k)).filter(Boolean);
+    S.idx["post:" + p.url] = { type: "post", title: (p.caption || p.url).slice(0, 120), url: p.url, img: p.thumb || (p.images || [])[0] || "", source: "Instagram" + (p.owner ? " @" + p.owner : ""), likes: p.likes, views: p.views };
+    return `<div class="igc"><div class="ph ${p.thumb ? "" : "noimg"}" ${p.thumb ? `style="background-image:url('${esc(p.thumb)}')"` : ""}>${p.thumb ? "" : "Instagram<br>" + esc(who.map(c => c.country_es).join(", "))}</div>
+      <div class="b"><div>${who.map(c => `<span class="who" data-prof="${esc(c.contest + "|" + c.country)}" style="cursor:pointer">${flag(c.iso)} ${esc(c.name)}</span>`).join(" ")}</div>
+      ${(p.cats || []).map(x => `<span class="tag looks">${esc((CATS.find(y => y[0] === x) || [x, x])[1])}</span>`).join(" ")}
+      <div class="cap">${esc(p.caption || "")}</div>
+      ${p.likes != null || p.comments != null ? `<div class="st">${p.likes != null ? "♥ " + num(p.likes) : ""} ${p.comments != null ? "💬 " + num(p.comments) : ""} ${p.views ? "▶ " + num(p.views) : ""}</div>` : ""}
+      <div class="acts"><button class="ghost" data-igembed="${esc(p.url)}">Ver post</button><a href="${esc(p.url)}" target="_blank">abrir ↗</a>${mkBtn("post:" + p.url)}</div></div></div>`;
+  }).join("") || `<div class="empty">Todavía no hay posts para este filtro. El robot busca 25 candidatas por corrida.</div>`;
+}
+function igEmbed(url) {
+  openModal(`<blockquote class="instagram-media" data-instgrm-permalink="${esc(url)}" data-instgrm-version="14" style="max-width:540px;width:100%;margin:auto;background:#fff;border-radius:12px"></blockquote><p class="hint" style="text-align:center"><a href="${esc(url)}" target="_blank">Abrir en Instagram ↗</a></p>`);
+  const go = () => window.instgrm && window.instgrm.Embeds.process();
+  if (window.instgrm) go(); else { const s = document.createElement("script"); s.src = "https://www.instagram.com/embed.js"; s.async = true; s.onload = go; document.body.appendChild(s); }
+}
+
+/* ---- drawer ---- */
+function openDrawer(h) { $("#dbody").innerHTML = h; $("#drawer").hidden = false; $(".dpanel").scrollTop = 0; document.body.style.overflow = "hidden"; }
+function closeDrawer() { $("#drawer").hidden = true; $("#dbody").innerHTML = ""; document.body.style.overflow = ""; if (/^#(ev|c)=/.test(location.hash)) history.replaceState(null, "", "#"); }
+$("#dx").onclick = closeDrawer;
+$("#drawer").onclick = e => { if (e.target.id === "drawer") closeDrawer(); };
+document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#modal").hidden) $("#mx").click(); else if (!$("#drawer").hidden) closeDrawer(); } });
+
+function openProfile(k, cat) {
+  const c = S.contestants.find(x => x.contest + "|" + x.country === k); if (!c) return;
+  const h = (S.gallery.handles || {})[k] || {}, acc = h.handle ? (S.gallery.accounts || {})[h.handle] || {} : {};
+  const ig = c.ig || (h.conf === "alta" || h.conf === "verificada" ? h.handle : null);
+  const its = (S.feed.items || []).filter(i => (i.who || []).some(w => w.contest === c.contest && w.country === c.country));
+  const favs = store.get("favs", {}), ranks = store.get("ranks", {});
+  const counts = Object.fromEntries(CATS.map(([id]) => [id, cellImgs(c, id).length]));
+  cat = cat || CATS.find(([id]) => counts[id])?.[0] || "retrato";
+  const ph = photoOf(c, "retrato");
+  const evs = allEvents().filter(e => e.contest === c.contest && !/agenda/.test(e.kind)).slice(0, 30);
+  const L = links(c).filter(([l]) => l !== "IG");
+  openDrawer(`<div class="profile" data-pk="${esc(k)}">
+   <div class="prof"><div class="ph">${ph ? imgTag(ph) : flag(c.iso)}</div>
+   <div><div class="hint">${esc(pName(c.contest))}${c.hot ? ` · <span class="hotb">HOT #${c.hot}</span>` : ""}</div>
+    <h2>${flag(c.iso)} ${esc(c.name)}</h2>
+    <div class="facts"><span><b>${esc(c.country_es)}</b></span>${c.age ? `<span><b>${c.age}</b> años</span>` : ""}${c.hometown ? `<span>${esc(c.hometown)}</span>` : ""}${c.region ? `<span>${esc(c.region)}</span>` : ""}
+     ${ig ? `<span>IG <a href="https://www.instagram.com/${esc(ig)}/" target="_blank">@${esc(ig)}</a>${acc.followers ? ` · <b>${num(acc.followers)}</b> seguidores` : ""}</span>` : h.handle ? `<span>IG posible: <a href="https://www.instagram.com/${esc(h.handle)}/" target="_blank">@${esc(h.handle)}</a> (verificar)</span>` : ""}
+     <span><b>${its.length}</b> notas</span></div>
+    ${c.no_wiki ? `<div class="nt" style="border-color:var(--rose)">Ya no figura en la lista de Wikipedia: posible retiro o reemplazo.</div>` : ""}
+    ${c.nota ? `<div class="nt">${esc(c.nota)}${c.fuente ? ` <a href="${esc(c.fuente)}" target="_blank">fuente</a>` : ""}</div>` : ""}
+    <div class="toolbar"><button class="${favs[k] ? "" : "ghost"}" data-pfav="${esc(k)}">${favs[k] ? "★ Favorita" : "☆ Favorita"}</button>
+     <label class="rng">Mi ranking <input class="rank" data-prank="${esc(k)}" type="number" min="1" value="${ranks[k] || ""}" style="width:64px"></label>
+     <select data-php="${esc(k)}"><option value="">+ Agregar a hot picks de…</option>${evs.map(e => `<option value="${esc(e.id)}">${esc(e.name)}</option>`).join("")}</select></div>
+    <div class="lk">${ig ? `<a href="https://www.instagram.com/${esc(ig)}/" target="_blank">Instagram</a>` : ""}${L.map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`).join("")}</div>
+   </div></div>
+   <div class="dtabs">${CATS.map(([id, l]) => `<button data-ptab="${id}" class="${id === cat ? "on" : ""}">${l}<i>${counts[id]}</i></button>`).join("")}<button data-ptab="ig" class="${cat === "ig" ? "on" : ""}">Instagram<i>${igPostsFor(c).length}</i></button><button data-ptab="news" class="${cat === "news" ? "on" : ""}">Noticias<i>${its.length}</i></button></div>
+   <div id="pbody"></div></div>`);
+  renderPTab(k, cat);
+  history.replaceState(null, "", "#c=" + enc(k));
+}
+function renderPTab(k, cat) {
+  const c = S.contestants.find(x => x.contest + "|" + x.country === k);
+  $$("[data-ptab]").forEach(b => b.classList.toggle("on", b.dataset.ptab === cat));
+  if (cat === "news") { const its = (S.feed.items || []).filter(i => (i.who || []).some(w => w.contest === c.contest && w.country === c.country)); $("#pbody").innerHTML = `<div class="feed">${its.map(itemHTML).join("") || `<div class="empty">Sin notas aún.</div>`}</div>`; return; }
+  if (cat === "ig") {
+    const ps = igPostsFor(c);
+    $("#pbody").innerHTML = `<div class="iggrid">${ps.map(p => `<div class="igc"><div class="ph ${p.thumb ? "" : "noimg"}" ${p.thumb ? `style="background-image:url('${esc(p.thumb)}')"` : ""}>${p.thumb ? "" : "Instagram"}</div><div class="b"><div class="cap">${esc(p.caption || "")}</div>${p.likes != null ? `<div class="st">♥ ${num(p.likes)} ${p.comments != null ? "💬 " + num(p.comments) : ""}</div>` : ""}<div class="acts"><button class="ghost" data-igembed="${esc(p.url)}">Ver post</button><a href="${esc(p.url)}" target="_blank">abrir ↗</a></div></div></div>`).join("") || `<div class="empty">Aún no hay posts de Instagram para ella. <a href="https://www.google.com/search?q=${enc('site:instagram.com "' + c.name + '"')}" target="_blank">Buscar en Instagram ↗</a></div>`}</div>`;
+    return;
+  }
+  const ims = cellImgs(c, cat), label = CATS.find(x => x[0] === cat)[1];
+  ims.forEach((im, n) => S.idx[`pimg:${k}:${cat}:${n}`] = { type: "imagen", title: `${c.country_es} ${c.name} ${label} ${n + 1}`, url: im.url, alt: im.thumb, img: im.thumb || im.url, source: im.via, page: im.page, event: `${c.country_es} · ${label}`, likes: im.likes });
+  $("#pbody").innerHTML = `<div class="toolbar"><button class="ghost" data-selall>Seleccionar todas</button><button data-dlsel>⬇ Descargar seleccionadas</button><button class="ghost" data-addsel>★ Marcar seleccionadas</button>
+     <a href="https://www.google.com/search?tbm=isch&q=${enc(c.name + " Miss Universe 2026 " + label)}" target="_blank">buscar más ↗</a><span class="prog" id="prog"></span></div>
+    <div class="igrid">${ims.map((im, n) => `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
+     <div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.title || im.via || "")}">${im.ig ? "📷 IG" : esc(im.credit || im.via || "fuente")}</a><span><button data-dl="pimg:${esc(k)}:${cat}:${n}">⬇</button> ${mkBtn(`pimg:${k}:${cat}:${n}`)}</span></div></div>`).join("") || `<div class="empty">El robot todavía no encuentra fotos de "${label}" para ${esc(c.name)}. Vuelve en unos minutos.</div>`}</div>
+    <p class="hint">Fuentes: Instagram, Bing Imágenes (solo resultados que nombran a la candidata) y medios. Usa las fotos con crédito.</p>`;
+}
+
+/* ---- eventos de UI de galería/perfil ---- */
+document.addEventListener("click", e => {
+  const t = e.target.closest("[data-gm],[data-gcat],[data-icat],[data-gsel],[data-prof],[data-ptab],[data-pfav],[data-igembed],#moreBtn,#selZip,#selMark,#selClear,[data-tab]");
+  if (!t) { if (!e.target.closest(".more")) $("#moreMenu").hidden = true; return; }
+  const d = t.dataset;
+  if (t.id === "moreBtn") { $("#moreMenu").hidden = !$("#moreMenu").hidden; return; }
+  if (d.tab) { setTimeout(updSelbar, 0); return; }
+  if (d.gm) { S.gal.mode = d.gm; $$("#galMode button").forEach(b => b.classList.toggle("on", b === t)); $("#galFotos").hidden = d.gm !== "fotos"; $("#galIg").hidden = d.gm !== "ig"; $("#galVideos").hidden = d.gm !== "videos"; updSelbar(); return; }
+  if (d.gcat) { S.gal.cat = d.gcat; S.gal.sel.clear(); $$("#gCat button").forEach(b => b.classList.toggle("on", b === t)); return renderGallery(); }
+  if (d.icat !== undefined) { S.gal.icat = d.icat; $$("#iCat button").forEach(b => b.classList.toggle("on", b === t)); return renderIG(); }
+  if (d.gsel) { e.stopPropagation(); S.gal.sel.has(d.gsel) ? S.gal.sel.delete(d.gsel) : S.gal.sel.add(d.gsel); return renderGallery(); }
+  if (t.id === "selClear") { S.gal.sel.clear(); return renderGallery(); }
+  if (t.id === "selZip") { const rows = selRows(); if (!rows.length) return; const pr = $("#prog"); return buildZip(rows, "crown-" + fname($("#gContest").selectedOptions[0].text + "-" + S.gal.cat)).then(() => { $("#selProg").textContent = "ZIP listo"; }); }
+  if (t.id === "selMark") { selRows().forEach((r, n) => bAdd("sel:" + r.url, r)); $("#selProg").textContent = "marcadas ★"; return; }
+  if (d.igembed) { e.preventDefault(); return igEmbed(d.igembed); }
+  if (d.ptab) return renderPTab($(".profile").dataset.pk, d.ptab);
+  if (d.pfav) { const f = store.get("favs", {}); f[d.pfav] = !f[d.pfav]; store.set("favs", f); t.className = f[d.pfav] ? "" : "ghost"; t.textContent = f[d.pfav] ? "★ Favorita" : "☆ Favorita"; renderCandidatas(); return; }
+  if (d.prof) {
+    if (e.target.closest(".star,.rank,.chk,.mk,input,a")) return;
+    e.preventDefault(); return openProfile(d.prof, d.pcat);
+  }
+});
+document.addEventListener("change", e => {
+  const d = e.target.dataset;
+  if (d.prank) { const r = store.get("ranks", {}), v = parseInt(e.target.value); if (v) r[d.prank] = v; else delete r[d.prank]; store.set("ranks", r); renderCandidatas(); }
+  if (d.php && e.target.value) {
+    const c = S.contestants.find(x => x.contest + "|" + x.country === d.php), all = store.get("hotpicks", {});
+    (all[e.target.value] = all[e.target.value] || []).push({ name: c.name, country: c.country_es, iso: c.iso });
+    store.set("hotpicks", all); const ev = evById(e.target.value); e.target.value = ""; renderEvents();
+    e.target.options[0].textContent = `✓ Agregada a hot picks de ${ev.name.slice(0, 40)}`;
+  }
+});
+window.addEventListener("load", () => { const m = location.hash.match(/^#c=(.+)$/); if (m) setTimeout(() => openProfile(decodeURIComponent(m[1])), 1500); });

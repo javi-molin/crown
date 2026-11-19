@@ -1,0 +1,16 @@
+name: Sonda de fuentes
+on:
+  push:
+    paths: ["scripts/probe.py"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/probe.py
+      - run: |
+          git config user.name "crown-bot"; git config user.email "crown-bot@users.noreply.github.com"
+          git add data/_probe.json && git commit -m "sonda" && (git pull --rebase -X theirs origin main; git push) || true
