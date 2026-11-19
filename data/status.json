@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T09:14:48.341123+00:00",
+ "run_at": "2026-11-19T09:22:48.278905+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -64,13 +64,13 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 51,
+   "items": 50,
    "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 40,
+   "items": 39,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 49,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 86,
+   "items": 88,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -178,19 +178,19 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
+   "ok": true,
+   "items": 20,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "10 usuarios probados en esta vuelta · 519 en total"
+   "error": "11 usuarios probados en esta vuelta · 530 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 53,
+   "items": 28,
    "error": null
   },
   {
@@ -364,10 +364,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 681,
+   "items": 673,
    "error": null
   }
  ],
- "new_items": 620,
- "total_items": 766
+ "new_items": 623,
+ "total_items": 767
 }
