@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T03:46:39.224598+00:00",
+ "run_at": "2026-11-19T03:54:39.351155+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 73,
+   "items": 74,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 27,
+   "items": 28,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 80,
+   "items": 81,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -305,7 +305,7 @@
    "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
    "ok": true,
    "items": 0,
-   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this ; #missuniverse: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', y"
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -314,10 +314,16 @@
    "error": null
   },
   {
+   "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
+   "ok": true,
+   "items": 0,
+   "error": "14 usuarios probados en esta vuelta · 14 en total"
+  },
+  {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
    "items": 1,
-   "error": "3 menciones revisadas en esta vuelta; 3 organizaciones nacionales"
+   "error": "0 menciones revisadas en esta vuelta; 3 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
@@ -340,7 +346,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 32,
+   "items": 45,
    "error": null
   },
   {
@@ -359,15 +365,15 @@
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
    "items": 160,
-   "error": "160 imágenes en el espejo"
+   "error": "320 imágenes en el espejo; 30 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 386,
+   "items": 430,
    "error": null
   }
  ],
- "new_items": 621,
- "total_items": 627
+ "new_items": 622,
+ "total_items": 628
 }
