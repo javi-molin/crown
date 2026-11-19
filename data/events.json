@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:11:05.391299+00:00",
+ "updated": "2026-11-19T20:19:05.384906+00:00",
  "count": 37,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -250,30 +250,74 @@
    "item_ids": [
     "a44341bc1cc156",
     "c460b8efbc792a",
+    "35b6b140410af1",
     "5bae4d1364813b",
     "5e85ec2d8968e1",
     "5f0709f84551df"
    ],
    "sources": [
     "Diario Correo",
+    "El Vocero de Puerto Rico",
     "Infobae",
     "People en Español"
    ],
-   "n_items": 5,
-   "n_sources": 3,
+   "n_items": 6,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
     {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/1c/f1c0e2f5-986c-4530-a8fd-dee631b17b82/6aff53632c33c.image.jpg?crop=1980%2C1040%2C0%2C3&resize=1200%2C630&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/b/f5/bf5a66ef-9d50-476c-9416-3d8a7d8f3d19/6aff56224f385.image.jpg?crop=1066%2C1066%2C267%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/6/21/621e1fa2-c803-11eb-9e1e-778fceb07775/60bed98844b05.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/5/3a/53a50e73-f36c-47a2-bcdd-964a9c08a71c/6ae9e7337ffe0.image.jpg?crop=831%2C831%2C289%2C5&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/7/4e/74ed0980-9ef4-44f9-b0ae-4a06c05b987c/697fb12a06189.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/3/16/3161fa00-aec9-4f7c-991c-93ee7820a934/6aff545271898.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/a/6e/a6ef5dff-d079-43e1-aebe-e76160c7ec78/6aff4e6ccda75.image.jpg?crop=1162%2C1162%2C310%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.dgt42JIwzuX5eDD134FhFQ&pid=News",
+     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
+     "via": "Bing (miniatura)",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
      "url": "https://www.infobae.com/resizer/v2/7DDMSOOKUVFWZHB2EEFBRJW25E.png?auth=75fcad68b5b482635f665bd99117ab63bac868d8139d3867a194df53bd23c745&smart=true&width=1024&height=512&quality=85",
      "page": "https://www.infobae.com/nicaragua/2026/11/19/perdida-de-equipaje-obliga-a-la-nicaraguense-jasmine-blandford-a-cambiar-de-atuendo-para-su-entrevista-en-miss-universo-2026/",
      "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.tlj9xrZ79Asrokh-31FFpQ&pid=News",
-     "page": "https://www.infobae.com/nicaragua/2026/11/19/perdida-de-equipaje-obliga-a-la-nicaraguense-jasmine-blandford-a-cambiar-de-atuendo-para-su-entrevista-en-miss-universo-2026/",
-     "via": "Bing (miniatura)",
      "credit": "Infobae"
     },
     {
@@ -331,7 +375,9 @@
      "credit": "House Committee on the Judiciary"
     }
    ],
-   "social_urls": [],
+   "social_urls": [
+    "https://www.instagram.com/p/Df72HSSm0lY"
+   ],
    "image_query": "Miss Universe 2026 interview",
    "extra_images": [
     {
@@ -378,14 +424,20 @@
     }
    ],
    "extra_at": "2026-11-19T17:23:05.663805+00:00",
-   "social": [],
+   "social": [
+    {
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
+     "url": "https://www.instagram.com/p/Df72HSSm0lY",
+     "platform": "Instagram"
+    }
+   ],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 11
+   "score": 14
   },
   {
    "key": "t:mu:Preliminar:2026-11-18",
@@ -687,27 +739,27 @@
    "extra_at": "2026-11-19T17:31:06.006763+00:00",
    "social": [
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     }
@@ -755,13 +807,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6563,
+     "views": 6638,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 6563,
+   "views_total": 6638,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -859,7 +911,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-19T17:15:06.299581+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -917,7 +969,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 10772,
+     "views": 10805,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -926,7 +978,7 @@
      "vid": "EAP7hbK-uzg",
      "title": "Miss Universe 2026 - Top 30 Máximas en Votacones Oficiales",
      "channel": "MissoLatino",
-     "views": 8540,
+     "views": 8544,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -934,13 +986,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 4861,
+     "views": 4878,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 24173,
+   "views_total": 24227,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -968,104 +1020,6 @@
      "page": "https://laprensa.com.ec/miss-universo-2026-votar-gratis-dalia-bucaram/",
      "via": "Bing (miniatura)",
      "credit": "Diario La Prensa Riobamba"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/5a1feb27e062a97f1bd0fbf87aac1bdd/arariogallery-eko-nugroho-diversity-with-defense-2018.jpg",
-     "page": "https://www.arariogallery.com/artists/110-eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.yK8FXohGCkgaMbGN6fty-gHaJh&pid=15.1"
-    },
-    {
-     "url": "https://files.ocula.com/anzax/0e/0e42991f-96d6-4cf2-aabe-504b8765677a_2000_2516.jpg",
-     "page": "https://ocula.com/artists/eko-nugroho/artworks/",
-     "via": "Bing Imágenes",
-     "credit": "ocula.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.HUUdnuN9MdoWozqNn2kf5wHaJU&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/ff0ec7d578bcf5dcc84f7da47839cc2c/arariogallery-eko-nugroho-unity-in-hiding-2018.jpg",
-     "page": "https://www.arariogallery.com/artworks/9437-eko-nugroho-unity-in-hiding-2018/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.is-5c6oYG4MRQEwp-dkzrwHaHW&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/edcb7a5161ff01f79c49351af4679ab0/arariogallery-eko-nugroho-silence-witness-2-2020.jpg",
-     "page": "https://www.arariogallery.com/artworks/9432-eko-nugroho-silence-witness-2-2020/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.yiz2vGDw3cNCJUqcdn_pDgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/b75dd4bcc68f630fe0c38e68f1cd181b/arariogallery-eko-nugroho-unity-in-hiding-2-2020.jpg",
-     "page": "https://www.arariogallery.com/artworks/9435-eko-nugroho-unity-in-hiding-2-2020/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.hZys7lM9EvLZErZ0GiUWkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://awsimages.detik.net.id/community/media/visual/2026/11/17/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru-1794900193146_169.jpeg?w=700&q=90",
-     "page": "https://www.detik.com/pop/foto/d-8756758/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru",
-     "via": "Bing Imágenes",
-     "credit": "detik.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.0b0vsAhDT7gkM7D1fSHAXg&pid=15.1"
-    },
-    {
-     "url": "https://awsimages.detik.net.id/community/media/visual/2026/11/17/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru-1794899925365.jpeg?w=700&q=90",
-     "page": "https://www.detik.com/pop/foto/d-8756758/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru",
-     "via": "Bing Imágenes",
-     "credit": "detik.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.xaVIOVECMjs6PXsubYaSpA&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/Bild-009_opt.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0joNi7wyZNW3yolE7enLPQHaFj&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_500,h_500,c_limit,f_auto,fl_lossy,q_auto/ws-arario/usr/images/artists/group_images_override/items/3f/3f070a4e29df4913871fc11448b6c58f/eko-nugroho.png",
-     "page": "https://www.arariogallery.com/artists/110-eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.h7wESJ0F1SFDWUdpF6Z96gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://files.ocula.com/ri/55/55afab41-3c01-4272-bb63-b42462d741ff/933/850/eko-nugroho-contemporary-artist.jpg",
-     "page": "https://ocula.com/artists/eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "ocula.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.zH_nhJLSUKYKgthBOQMG6gHaGv&pid=15.1"
-    },
-    {
-     "url": "https://images.squarespace-cdn.com/content/v1/5ac530cff2e6b1f8c1cee361/1561443153079-KHHX353FZTIGZ9OKSGB7/Artist+Eko+Nugroho+with+Carnival+trap+2+(2018)",
-     "page": "https://www.artoftheancestors.com/blog/contemporary-worlds-indonesia-national-gallery-australia",
-     "via": "Bing Imágenes",
-     "credit": "artoftheancestors.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.1XDklThFC8BJKdggVxBjUQHaF7&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/Bild-002_opt.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.q9ZLOQ9tszSwywDJ-e6eNgHaFj&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/NUGR0207.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533_image?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.qRMzoOsC2YrpgZ6Bnz1M3QHaE3&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-danysz/usr/images/artists/artist_image/items/f9/f911146cca6d487eb7fd569332c105c3/eko-photo-stephane-bisseuil-l1050255.jpg",
-     "page": "https://danyszgallery.com/artists/10977-eko-nugroho/biography/",
-     "via": "Bing Imágenes",
-     "credit": "danyszgallery.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ct_Pw7eUmF1zbwcsoirSggHaD4&pid=15.1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1114,104 +1068,6 @@
    "image_query": "Miss Universe 2026 vote top 30",
    "extra_images": [
     {
-     "url": "https://artlogic-res.cloudinary.com/w_1200,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/5a1feb27e062a97f1bd0fbf87aac1bdd/arariogallery-eko-nugroho-diversity-with-defense-2018.jpg",
-     "page": "https://www.arariogallery.com/artists/110-eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.yK8FXohGCkgaMbGN6fty-gHaJh&pid=15.1"
-    },
-    {
-     "url": "https://files.ocula.com/anzax/0e/0e42991f-96d6-4cf2-aabe-504b8765677a_2000_2516.jpg",
-     "page": "https://ocula.com/artists/eko-nugroho/artworks/",
-     "via": "Bing Imágenes",
-     "credit": "ocula.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.HUUdnuN9MdoWozqNn2kf5wHaJU&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/ff0ec7d578bcf5dcc84f7da47839cc2c/arariogallery-eko-nugroho-unity-in-hiding-2018.jpg",
-     "page": "https://www.arariogallery.com/artworks/9437-eko-nugroho-unity-in-hiding-2018/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.is-5c6oYG4MRQEwp-dkzrwHaHW&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/edcb7a5161ff01f79c49351af4679ab0/arariogallery-eko-nugroho-silence-witness-2-2020.jpg",
-     "page": "https://www.arariogallery.com/artworks/9432-eko-nugroho-silence-witness-2-2020/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.yiz2vGDw3cNCJUqcdn_pDgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/arario/images/view/b75dd4bcc68f630fe0c38e68f1cd181b/arariogallery-eko-nugroho-unity-in-hiding-2-2020.jpg",
-     "page": "https://www.arariogallery.com/artworks/9435-eko-nugroho-unity-in-hiding-2-2020/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.hZys7lM9EvLZErZ0GiUWkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://awsimages.detik.net.id/community/media/visual/2026/11/17/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru-1794900193146_169.jpeg?w=700&q=90",
-     "page": "https://www.detik.com/pop/foto/d-8756758/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru",
-     "via": "Bing Imágenes",
-     "credit": "detik.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.0b0vsAhDT7gkM7D1fSHAXg&pid=15.1"
-    },
-    {
-     "url": "https://awsimages.detik.net.id/community/media/visual/2026/11/17/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru-1794899925365.jpeg?w=700&q=90",
-     "page": "https://www.detik.com/pop/foto/d-8756758/eko-nugroho-bicara-soal-karhutla-di-mural-terbaru",
-     "via": "Bing Imágenes",
-     "credit": "detik.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.xaVIOVECMjs6PXsubYaSpA&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/Bild-009_opt.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0joNi7wyZNW3yolE7enLPQHaFj&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_500,h_500,c_limit,f_auto,fl_lossy,q_auto/ws-arario/usr/images/artists/group_images_override/items/3f/3f070a4e29df4913871fc11448b6c58f/eko-nugroho.png",
-     "page": "https://www.arariogallery.com/artists/110-eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "arariogallery.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.h7wESJ0F1SFDWUdpF6Z96gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://files.ocula.com/ri/55/55afab41-3c01-4272-bb63-b42462d741ff/933/850/eko-nugroho-contemporary-artist.jpg",
-     "page": "https://ocula.com/artists/eko-nugroho/",
-     "via": "Bing Imágenes",
-     "credit": "ocula.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.zH_nhJLSUKYKgthBOQMG6gHaGv&pid=15.1"
-    },
-    {
-     "url": "https://images.squarespace-cdn.com/content/v1/5ac530cff2e6b1f8c1cee361/1561443153079-KHHX353FZTIGZ9OKSGB7/Artist+Eko+Nugroho+with+Carnival+trap+2+(2018)",
-     "page": "https://www.artoftheancestors.com/blog/contemporary-worlds-indonesia-national-gallery-australia",
-     "via": "Bing Imágenes",
-     "credit": "artoftheancestors.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.1XDklThFC8BJKdggVxBjUQHaF7&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/Bild-002_opt.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.q9ZLOQ9tszSwywDJ-e6eNgHaFj&pid=15.1"
-    },
-    {
-     "url": "http://www.arndtfineart.com/website/media/artists/Nugroho/NUGR0207.jpg",
-     "page": "http://www.arndtfineart.com/website/artist_8533_image?idx=n",
-     "via": "Bing Imágenes",
-     "credit": "arndtfineart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.qRMzoOsC2YrpgZ6Bnz1M3QHaE3&pid=15.1"
-    },
-    {
-     "url": "https://artlogic-res.cloudinary.com/w_1200,h_630,c_fill,f_auto,fl_lossy,q_auto/ws-danysz/usr/images/artists/artist_image/items/f9/f911146cca6d487eb7fd569332c105c3/eko-photo-stephane-bisseuil-l1050255.jpg",
-     "page": "https://danyszgallery.com/artists/10977-eko-nugroho/biography/",
-     "via": "Bing Imágenes",
-     "credit": "danyszgallery.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ct_Pw7eUmF1zbwcsoirSggHaD4&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
      "via": "Wikimedia Commons",
@@ -1254,7 +1110,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-19T17:15:06.299581+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1460,7 +1316,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-19T20:11:05.391299+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [
     {
      "fetched": "2026-11-19T19:31:06.170472+00:00",
@@ -1468,7 +1324,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     }
@@ -1772,7 +1628,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
    "extra_images": [],
-   "extra_at": "2026-11-19T20:11:05.391299+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1822,7 +1678,7 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 263,
+     "views": 274,
      "likes": 13,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
@@ -1837,7 +1693,7 @@
      "official": true
     }
    ],
-   "views_total": 4095,
+   "views_total": 4106,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -2508,7 +2364,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 769482,
+     "views": 769644,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -2517,7 +2373,15 @@
      "vid": "pGGyoBglgfA",
      "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
      "channel": "The Crowning Quest",
-     "views": 124580,
+     "views": 124643,
+     "ago": "hace 1 día",
+     "official": false
+    },
+    {
+     "vid": "3vH1NJFBN9g",
+     "title": "Miss Universe 2026: Runway to the Universe! 👠 My TOP 25, SCORES & UNFILTERED OPINIONS 😬",
+     "channel": "Luis Portelles",
+     "views": 77688,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2525,7 +2389,7 @@
      "vid": "IkSy-bS-uIY",
      "title": "Miss Universe 2026 runway to the universe full show ",
      "channel": "Ron Nasis",
-     "views": 71943,
+     "views": 72118,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2533,7 +2397,7 @@
      "vid": "l7AdYdV14UQ",
      "title": "Runway to the Universe SHOOK the competition! | Miss Universe 2026",
      "channel": "Jeremy Valentín",
-     "views": 57458,
+     "views": 57504,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2541,7 +2405,7 @@
      "vid": "DiAKzUWOe5U",
      "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
      "channel": "Miss Universe Predictions",
-     "views": 48214,
+     "views": 48238,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2549,7 +2413,7 @@
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 13973,
+     "views": 14029,
      "ago": "hace 22 h",
      "official": false
     },
@@ -2557,7 +2421,7 @@
      "vid": "jSbEjq50vGU",
      "title": "MISS UNIVERSE 2026 - RUNWAY TO THE UNIVERSE EVENT!! By King Lucho!",
      "channel": "King Lucho",
-     "views": 13328,
+     "views": 13364,
      "ago": "Transmitido hace 17 h",
      "official": false
     },
@@ -2565,21 +2429,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6563,
+     "views": 6638,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
-    },
-    {
-     "vid": "5E-8mXP32_A",
-     "title": "Runway to the Universe - Standouts | Miss Universe 2026",
-     "channel": "ALVIN SEBETERO",
-     "views": 388,
-     "ago": "hace 1 h",
-     "official": false
     }
    ],
-   "views_total": 1105929,
+   "views_total": 1183866,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -2624,11 +2480,11 @@
      "credit": "King Lucho"
     },
     {
-     "url": "https://i.ytimg.com/vi/5E-8mXP32_A/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/5E-8mXP32_A/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=5E-8mXP32_A",
+     "url": "https://i.ytimg.com/vi/3vH1NJFBN9g/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/3vH1NJFBN9g/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=3vH1NJFBN9g",
      "via": "YouTube (miniatura)",
-     "credit": "ALVIN SEBETERO"
+     "credit": "Luis Portelles"
     },
     {
      "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
@@ -2846,6 +2702,104 @@
    "image_query": "Runway to the Universe Miss Universe 2026",
    "extra_images": [
     {
+     "url": "https://www.stellamccartney.com/dw/image/v2/BCWD_PRD/on/demandware.static/-/Library-Sites-StellaMcCartneySharedLibrary/default/dw2e7309fb/images/Lookbooks/RTW/Summer2026/SMC_SS26_SHOW_4x5_LOOK_50.jpg",
+     "page": "https://www.stellamccartney.com/tw/zh/stellas-world/summer-2026-runway-show.html",
+     "via": "Bing Imágenes",
+     "credit": "stellamccartney.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.hgDKiMfxzjXg4jMzwqX1xQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://www.stellamccartney.com/dw/image/v2/BCWD_PRD/on/demandware.static/-/Library-Sites-StellaMcCartneySharedLibrary/default/dw7160c805/images/Lookbooks/RTW/Summer2026/SMC_SS26_SHOW_4x5_LOOK_19.jpg",
+     "page": "https://www.stellamccartney.com/mo/zh/stellas-world/summer-2026-runway-show.html",
+     "via": "Bing Imágenes",
+     "credit": "stellamccartney.com",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.baXWgxwu_yB0UGTKfJ8M4AHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://assets.vogue.com/photos/631daba1a33b267d64152b0b/master/w_2560%2Cc_limit/00001-marni-spring-2023-ready-to-wear-credit-gorunway.jpg",
+     "page": "https://www.vogue.com/fashion-shows/spring-2023-ready-to-wear/marni/slideshow/collection",
+     "via": "Bing Imágenes",
+     "credit": "vogue.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.SyNR_zuH2-mfIjE2hgXCLwHaLH&pid=15.1"
+    },
+    {
+     "url": "https://assets.vogue.com/photos/68dbd05af1afd6a42aaa7fc7/master/w_1280%2Cc_limit/00001-louis-vuitton-spring-2026-ready-to-wear-credit-gorunway.jpg",
+     "page": "https://www.vogue.com/fashion-shows/spring-2026-ready-to-wear",
+     "via": "Bing Imágenes",
+     "credit": "vogue.com",
+     "alt": "https://ts1.explicit.bing.net/th?id=OIP.LScVzPPX7zhnfyLj-GcuJwHaLH&pid=15.1"
+    },
+    {
+     "url": "https://cdn.mos.cms.futurecdn.net/ymFqep2xhZj9TiEod5VHf7.jpg",
+     "page": "https://www.wallpaper.com/fashion-beauty/best-runway-sets-mens-fashion-week-ss-2024",
+     "via": "Bing Imágenes",
+     "credit": "wallpaper.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.YTnMD3wefD8_KrfjM0Xo4AHaE8&pid=15.1"
+    },
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/043/160/344/small_2x/audience-seated-along-the-runway-at-a-fashion-show-under-spotlight-photo.jpg",
+     "page": "https://www.vecteezy.com/free-photos/fashion-runway",
+     "via": "Bing Imágenes",
+     "credit": "vecteezy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.04mAt4YkBvAsQQEinbOXeAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://assets.teenvogue.com/photos/57f7f372e4e6bf7108615c9b/master/pass/GettyImages-610465488.jpg",
+     "page": "https://electrovagant.de/gigi-hadid-iconic-runway-moments/",
+     "via": "Bing Imágenes",
+     "credit": "electrovagant.de",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.NWAMaj0zWwSwKvj3a5pLSwHaLH&pid=15.1"
+    },
+    {
+     "url": "https://r.fashionunited.com/kUOiX9mxmRnwEkHhL64wQrwub5mdRTdGwAb7hGR5GNw/resize:fill:1164:0:0/gravity:ce/quality:70/aHR0cHM6Ly9mYXNoaW9udW5pdGVkLmNvbS9pbWcvdXBsb2FkLzIwMjQvMTIvMTYvc3RlbGxhLW1jY2FydG5leS1zMjUtMDM0LTlmMno3bjEwLTIwMjQtMTItMTYuanBlZw",
+     "page": "https://fashionunited.in/news/fashion/top-10-female-runway-models-2025/2024123148192",
+     "via": "Bing Imágenes",
+     "credit": "fashionunited.in",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.6w8z56YWrJeimDwLEzlGLwHaLH&pid=15.1"
+    },
+    {
+     "url": "https://people.com/thmb/scsSCnnDsdZ0xe0go6EPF09SHkA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Robert-Wun--runway-show-012524-682cb5a3beae4c079ef3e88460a0a015.jpg",
+     "page": "https://people.com/paris-fashion-week-robert-wun-most-outrageous-runway-show-photos-8549908",
+     "via": "Bing Imágenes",
+     "credit": "people.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.J7zEoxrsbjZPG0BfQ7ERkQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://hips.hearstapps.com/hmg-prod/images/kendall-jenner-vittoria-ceretti-rianne-van-rompaey-gigi-news-photo-1678470005.jpg",
+     "page": "https://www.kobebryantshoes-inc.com/chic-winter-runway-frosty-elegance-unveiled/",
+     "via": "Bing Imágenes",
+     "credit": "kobebryantshoes-inc.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.szKEhmOIXSb5I0-P_QD5ygHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/e6/3b/6d/e63b6ddf719007c2571fd30b4b576bee.jpg",
+     "page": "https://www.pinterest.com/pin/31032684928812076/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Alw_EEi1kPVx9FZ6F-ZM3AHaLH&pid=15.1"
+    },
+    {
+     "url": "https://assets.vogue.com/photos/64049322a22768c99d2dd4fa/master/w_2560,c_limit/00001-balenciaga-fall-2023-ready-to-wear-credit-gorunway.jpg",
+     "page": "https://www.vogue.com/fashion-shows/fall-2023-ready-to-wear/balenciaga/slideshow/collection",
+     "via": "Bing Imágenes",
+     "credit": "vogue.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.DnWEJfPXhCZdybEXmN0y_gHaLI&pid=15.1"
+    },
+    {
+     "url": "https://static.kendam.com/photos/full/4fb7918b2beccb3ed698015ad68778d7_4298.jpg",
+     "page": "https://view.printandproof.co.uk/2024-runway-shows-an-exclusive-look-inside-2024-miami-swim-week-with-si-swimsuit/",
+     "via": "Bing Imágenes",
+     "credit": "view.printandproof.co.uk",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.CCEZYEyDVGsSkcRKy8YW_AHaLH&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/78/b6/bf/78b6bff41aad3487da3e4074ec8562ff.jpg",
+     "page": "https://www.pinterest.com/pin/missoni-fashion-show-runway-ready-to-wear-spring-summer-2024-milan-fashion-week-runway-look-003-nowfashion--839991768026978432/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.c1pgmTV5qjKz-eNkQZ3kWwHaLH&pid=15.1"
+    },
+    {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
      "via": "Wikimedia Commons",
@@ -2867,55 +2821,55 @@
      "credit": "The Indian Listener: The Indian State Broadcasting Service"
     }
    ],
-   "extra_at": "2026-11-19T17:15:06.299581+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/Df3q8E0llwi",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3Vc68h5L3",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3XrFnvDs9",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3ZYdvqAQo",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3ZpD7PrPK",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3aT4hBM1u",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3blOyPdma",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/Df3jk8cv87U",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.youtube.com/watch?v=qrR9b5-ymD0",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/qrR9b5-ymD0/hqdefault.jpg",
@@ -2928,7 +2882,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 119
+   "score": 123
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -2971,13 +2925,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 49879,
+     "views": 49906,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 49879,
+   "views_total": 49906,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -2990,7 +2944,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-19T20:11:05.391299+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3032,13 +2986,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6563,
+     "views": 6638,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 6563,
+   "views_total": 6638,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3197,7 +3151,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 251789,
+     "views": 251804,
      "ago": "Transmitido hace 5 días",
      "official": false
     },
@@ -3214,13 +3168,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 10758,
+     "views": 10765,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 277422,
+   "views_total": 277444,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -3489,13 +3443,13 @@
      "vid": "5yWpSmMMPfs",
      "title": "Unlock Coronation Night LIVE! 👑 TOP 10 | Miss International",
      "channel": "Miss International",
-     "views": 497,
-     "likes": 28,
+     "views": 500,
+     "likes": 29,
      "published": "2026-11-18T10:00:03+00:00",
      "official": true
     }
    ],
-   "views_total": 3600,
+   "views_total": 3603,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/5yWpSmMMPfs/maxresdefault.jpg",
@@ -3510,12 +3464,27 @@
      "page": "https://www.youtube.com/watch?v=3yoCHmVfBNA",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/86/23/fd/8623fd612437313b8c24bc316b1188b5.jpg",
+     "page": "https://de.pinterest.com/pin/654851602045455509/",
+     "via": "Bing Imágenes",
+     "credit": "de.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yydlNyEl2pc0GgzLlCzQhQHaKD&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
-   "extra_images": [],
-   "extra_at": "2026-11-19T20:11:05.391299+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/736x/86/23/fd/8623fd612437313b8c24bc316b1188b5.jpg",
+     "page": "https://de.pinterest.com/pin/654851602045455509/",
+     "via": "Bing Imágenes",
+     "credit": "de.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yydlNyEl2pc0GgzLlCzQhQHaKD&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4109,7 +4078,7 @@
    "extra_at": "2026-11-19T17:39:05.586799+00:00",
    "social": [
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/Det9aCJoPI-",
      "platform": "Instagram"
     }
@@ -4165,10 +4134,10 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-19T20:11:05.391299+00:00",
+   "extra_at": "2026-11-19T20:19:05.384906+00:00",
    "social": [
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/reel/DfuD9yXM9PH",
      "platform": "Instagram"
     }
@@ -4555,17 +4524,17 @@
    "extra_at": "2026-11-19T17:23:05.663805+00:00",
    "social": [
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DfuWjB6H-7R",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DfuhlmYk4bS",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-19T19:15:05.545243+00:00",
+     "fetched": "2026-11-19T20:19:05.384906+00:00",
      "url": "https://www.instagram.com/p/DfwXXXxn2KW",
      "platform": "Instagram"
     }
@@ -4609,7 +4578,7 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 15305,
+     "views": 15324,
      "likes": 78,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
@@ -4618,7 +4587,7 @@
      "vid": "WwCTRgNGa8I",
      "title": "MALTA | Beauties for SDGs | Miss International 2026 | Nikole Buhagiar",
      "channel": "Miss International",
-     "views": 11799,
+     "views": 11808,
      "likes": 59,
      "published": "2026-11-16T12:57:17+00:00",
      "official": true
@@ -4627,13 +4596,13 @@
      "vid": "vCPs9M4RE20",
      "title": "BELGIUM | Beauties for SDGs | Miss International 2026 | Gioia can de Voorde",
      "channel": "Miss International",
-     "views": 6512,
+     "views": 6517,
      "likes": 36,
      "published": "2026-11-16T12:46:39+00:00",
      "official": true
     }
    ],
-   "views_total": 33616,
+   "views_total": 33649,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -5133,7 +5102,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5322,7 +5291,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5355,7 +5324,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5560,7 +5529,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5918,7 +5887,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:11:05.391299+00:00",
+   "first_seen": "2026-11-19T20:19:05.384906+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
