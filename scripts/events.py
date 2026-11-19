@@ -37,7 +37,7 @@ MODIFIERS = {"retro": r"\bretro\b|vintage|antigu|clasic|1950|anos 50|anos cincue
 EVENT_NOUNS = r"\b(runway|beach|show|gala|parade|tour|night|party|shoot|photoshoot|dinner|ball|challenge|talk|costume|walk|desfile|noche|fiesta|pasarela|cena|sesion|fotos?|day|dia|experience|confidential|tea|brunch|awards?)\b"
 STOP_PHRASES = {"miss universe", "miss universo", "miss universe 2026", "miss universo 2026", "miss international",
                 "miss earth", "miss world", "miss grand international", "miss supranational", "miss universe organization",
-                "top 30", "top 12", "top 5", "top 10", "top 20", "live", "en vivo", "full show", "vote now", "official"}
+                "top 30", "top 12", "top 5", "top 10", "top 20", "live", "en vivo", "full show", "vote now", "official", "final show"}
 
 SEED = [
     {"id": "retratos-oficiales-75", "contest": "mu", "name": "Retratos oficiales del 75° aniversario (trajes de baño de los años 50)",
@@ -313,7 +313,7 @@ def detect(items, videos, contestant_names):
             if (s.get("match") == "all" and all(hits)) or (s.get("match", "any") == "any" and any(hits)):
                 add("seed:" + s["id"], s["name"], s["contest"], it, s["kind"])
         # frases
-        for ph in phrases(it["title"], it["official"]):
+        for ph in ([] if it["contest"] == "?" else phrases(it["title"], it["official"])):
             if any(ph in n or n in ph for n in names if len(n) > 6):
                 continue
             add("p:" + ph, ph.title(), it["contest"], it, "detectado")
@@ -361,6 +361,23 @@ def detect(items, videos, contestant_names):
         else:
             final[k] = e
     return final
+
+
+PNAME = {"mu": "Miss Universe 2026", "mi": "Miss International 2026", "me": "Miss Earth 2026", "mw": "Miss World 2026",
+         "mgi": "Miss Grand International 2026", "ms": "Miss Supranational 2026"}
+LABEL_EN = {"Sesión de fotos oficial": "photoshoot", "Desfile de moda": "fashion show runway", "Traje de baño": "swimsuit",
+            "Trajes típicos": "national costume", "Preliminar": "preliminary competition", "Gala / cena": "gala dinner",
+            "Tour / visita": "tour", "Ensayos": "rehearsal", "Entrevistas": "interview", "Llegada / bienvenida": "arrival welcome",
+            "Campaña / marca": "campaign", "Causa / caridad": "charity visit", "Votación": "vote", "Talento / reto": "challenge"}
+
+
+def img_query(k, e):
+    base = PNAME.get(e["contest"], "Miss Universe 2026")
+    if k.startswith("t:"):
+        lab = e["name"].split(" · ")[0]
+        mod = [m for m in ("retro", "playa") if "+" + m in k]
+        return f"{base} {LABEL_EN.get(lab, lab)} {'vintage' if 'retro' in mod else ''} {'beach' if 'playa' in mod else ''}".strip()
+    return f"{base} {e['name']}"
 
 
 def run(mod, items, videos):
@@ -438,7 +455,7 @@ def run(mod, items, videos):
                        "videos": sorted(vids, key=lambda v: -(v.get("views") or 0))[:20],
                        "views_total": sum(v.get("views") or 0 for v in vids),
                        "images": imgs, "social_urls": sorted(set(social))[:30],
-                       "image_query": (seed or {}).get("image_query") or f"{e['name']} {U.norm(e['contest']) == 'mu' and 'Miss Universe 2026' or ''}",
+                       "image_query": (seed or {}).get("image_query") or img_query(k, e),
                        "extra_images": p.get("extra_images", []), "extra_at": p.get("extra_at")})
 
     # agenda oficial como eventos (aunque aún no tengan notas)
@@ -471,8 +488,8 @@ def run(mod, items, videos):
         ex = []
         try:
             ex += bing_images(e["image_query"])
-        except Exception as err:
-            U.note("Bing Imágenes · " + e["name"][:40], False, err=err)
+        except Exception:
+            pass
         try:
             ex += commons(e["image_query"], 6)
         except Exception:
