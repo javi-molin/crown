@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T11:38:48.614403+00:00",
+ "run_at": "2026-11-19T11:46:48.631674+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 71,
+   "items": 72,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 29,
+   "items": 28,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 49,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 91,
+   "items": 90,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -310,20 +310,20 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 1,
-   "error": "14 usuarios probados en esta vuelta · 675 en total"
+   "items": 0,
+   "error": "1 usuarios probados en esta vuelta · 676 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": "0 menciones revisadas en esta vuelta; 30 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
-   "ok": true,
+   "ok": false,
    "items": 4,
-   "error": null
+   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 34,
+   "items": 48,
    "error": null
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 667,
+   "items": 668,
    "error": "82 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
    "items": 0,
-   "error": "732 imágenes en el espejo; 129 fallaron"
+   "error": "732 imágenes en el espejo; 130 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 716,
+   "items": 723,
    "error": null
   }
  ],
- "new_items": 618,
+ "new_items": 616,
  "total_items": 810
 }
