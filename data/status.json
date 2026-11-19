@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T05:30:38.781489+00:00",
+ "run_at": "2026-11-19T05:38:38.602604+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,19 +40,19 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 29,
+   "items": 28,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 88,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 83,
+   "items": 84,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 52,
+   "items": 51,
    "error": null
   },
   {
@@ -81,9 +81,9 @@
   },
   {
    "source": "Google News · Miss Earth Philippines December",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 32,
+   "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
@@ -93,9 +93,9 @@
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 56,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
@@ -105,14 +105,14 @@
   },
   {
    "source": "Google News · certamen de belleza",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 87,
    "error": null
   },
   {
@@ -178,7 +178,7 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "14 usuarios probados en esta vuelta · 182 en total"
+   "error": "14 usuarios probados en esta vuelta · 196 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 43,
+   "items": 45,
    "error": null
   },
   {
@@ -364,10 +364,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 622,
+   "items": 621,
    "error": null
   }
  ],
- "new_items": 495,
- "total_items": 704
+ "new_items": 622,
+ "total_items": 707
 }
