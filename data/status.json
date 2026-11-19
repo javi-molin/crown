@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-19T07:38:40.080170+00:00",
+ "run_at": "2026-11-19T07:46:39.586741+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -57,9 +57,9 @@
   },
   {
    "source": "Google News · Miss Universe hot picks",
-   "ok": true,
-   "items": 52,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss International 2026\"",
@@ -69,9 +69,9 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": true,
-   "items": 40,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
@@ -81,9 +81,9 @@
   },
   {
    "source": "Google News · Miss Earth Philippines December",
-   "ok": true,
-   "items": 32,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 56,
+   "items": 55,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 89,
+   "items": 88,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -299,7 +299,7 @@
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
    "items": 19,
-   "error": "21 cuentas sincronizadas en total · 1 candidatas · 18 organizaciones"
+   "error": "22 cuentas sincronizadas en total · 1 candidatas · 19 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -311,12 +311,12 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 1,
-   "error": "8 usuarios probados en esta vuelta · 380 en total"
+   "error": "9 usuarios probados en esta vuelta · 389 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "error": "0 menciones revisadas en esta vuelta; 19 organizaciones nacionales"
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 487,
-   "error": "77 candidatas con fotos de Instagram propias o de su organización"
+   "items": 498,
+   "error": "78 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 0,
-   "error": "588 imágenes en el espejo; 96 fallaron"
+   "items": 9,
+   "error": "597 imágenes en el espejo; 98 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 687,
+   "items": 685,
    "error": null
   }
  ],
- "new_items": 620,
+ "new_items": 526,
  "total_items": 747
 }
