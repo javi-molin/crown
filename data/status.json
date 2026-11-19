@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T13:14:48.725380+00:00",
+ "run_at": "2026-11-19T13:22:49.170861+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -46,7 +46,7 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 90,
+   "items": 91,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 43,
+   "items": 13,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 90,
+   "items": 100,
    "error": null
   },
   {
@@ -160,19 +160,19 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 3,
    "error": null
   },
   {
@@ -298,7 +298,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
+   "items": 12,
    "error": "34 cuentas sincronizadas en total · 1 candidatas · 31 organizaciones"
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "14 usuarios probados en esta vuelta · 752 en total"
+   "error": "1 usuarios probados en esta vuelta · 753 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 58,
+   "items": 28,
    "error": null
   },
   {
@@ -364,10 +364,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 693,
+   "items": 692,
    "error": null
   }
  ],
- "new_items": 650,
- "total_items": 827
+ "new_items": 645,
+ "total_items": 833
 }
