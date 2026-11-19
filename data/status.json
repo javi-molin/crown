@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T20:59:16.082145+00:00",
+ "run_at": "2026-11-19T21:07:15.822071+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 73,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 100,
+   "items": 92,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 52,
+   "items": 51,
    "error": null
   },
   {
@@ -94,13 +94,13 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 59,
+   "items": 57,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 12,
+   "items": 44,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 98,
+   "items": 100,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 13,
    "error": null
   },
   {
@@ -201,9 +201,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 11,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -286,26 +286,26 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 37,
+   "items": 38,
    "error": null
   },
   {
    "source": "Instagram · cuentas de candidatas descubiertas",
    "ok": true,
-   "items": 2,
+   "items": 23,
    "error": null
   },
   {
    "source": "Instagram · menciones revisadas antes de sincronizar",
    "ok": true,
-   "items": 24,
+   "items": 22,
    "error": null
   },
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 2,
-   "error": "61 cuentas sincronizadas en total · 17 candidatas · 53 organizaciones"
+   "items": 3,
+   "error": "62 cuentas sincronizadas en total · 17 candidatas · 53 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -316,14 +316,14 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "3 usuarios probados en esta vuelta · 1040 en total"
+   "items": 1,
+   "error": "4 usuarios probados en esta vuelta · 1044 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
    "items": 17,
-   "error": "0 menciones revisadas en esta vuelta; 53 organizaciones nacionales"
+   "error": "0 menciones revisadas en esta vuelta; 54 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
@@ -345,9 +345,9 @@
   },
   {
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
-   "ok": true,
-   "items": 1,
-   "error": "17 fotos leídas en la galería"
+   "ok": false,
+   "items": 0,
+   "error": "1 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
@@ -358,19 +358,19 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 465,
-   "error": "87 candidatas · descartadas: 849 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 16 promoción / votación / afiche"
+   "items": 474,
+   "error": "87 candidatas · descartadas: 859 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 16 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
-   "error": "1411 imágenes en el espejo; 2 fallaron"
+   "items": 9,
+   "error": "1420 imágenes en el espejo; 2 fallaron"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "error": null
   },
   {
@@ -383,7 +383,7 @@
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
    "items": 23,
-   "error": "7 con TikTok · 53 con cuenta de su organización nacional · 189 candidatas"
+   "error": "9 con TikTok · 54 con cuenta de su organización nacional · 189 candidatas"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 685,
+ "new_items": 691,
  "total_items": 900
 }
