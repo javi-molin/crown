@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T09:54:48.868365+00:00",
+ "run_at": "2026-11-19T10:02:49.215231+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 73,
+   "items": 72,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 70,
+   "items": 33,
    "error": null
   },
   {
@@ -160,13 +160,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -298,14 +298,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 15,
+   "items": 19,
    "error": "27 cuentas sincronizadas en total · 1 candidatas · 24 organizaciones"
-  },
-  {
-   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
-   "ok": true,
-   "items": 0,
-   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -317,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 541 en total"
+   "error": "10 usuarios probados en esta vuelta · 551 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -346,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 37,
+   "items": 46,
    "error": null
   },
   {
@@ -370,10 +364,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 678,
+   "items": 683,
    "error": null
   }
  ],
- "new_items": 655,
+ "new_items": 619,
  "total_items": 774
 }
