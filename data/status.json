@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T15:47:05.650075+00:00",
+ "run_at": "2026-11-19T15:55:05.743832+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 80,
+   "items": 81,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 80,
+   "items": 79,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 10,
+   "items": 9,
    "error": null
   },
   {
@@ -231,44 +231,44 @@
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 116,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_International_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 74,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Earth_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 66,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_World_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 50,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Grand_International_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 36,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Supranational_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 31,
+   "error": null
   },
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -298,8 +298,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 11,
+   "items": 4,
    "error": "37 cuentas sincronizadas en total · 1 candidatas · 34 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -311,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 832 en total"
+   "error": "1 usuarios probados en esta vuelta · 833 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +346,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 46,
+   "items": 52,
    "error": null
   },
   {
@@ -352,22 +358,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 813,
+   "items": 815,
    "error": "85 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
    "items": 0,
-   "error": "829 imágenes en el espejo; 163 fallaron"
+   "error": "829 imágenes en el espejo; 165 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 695,
+   "items": 690,
    "error": null
   }
  ],
- "new_items": 615,
- "total_items": 891
+ "new_items": 614,
+ "total_items": 892
 }
