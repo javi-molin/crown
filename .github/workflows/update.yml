@@ -1,15 +1,19 @@
 name: Actualizar datos CROWN
 
+# Robot "siempre encendido": cada ejecución dura ~5 h 40 min y actualiza cada ~8 min
+# (en cada vuelta baja el código nuevo del repo). Al terminar se relanza sola.
+# El cron queda como respaldo; la concurrencia evita que corran dos a la vez.
 on:
   schedule:
-    - cron: "*/10 * * * *"   # cada 10 min (GitHub puede atrasarlo unos minutos en horas de alta carga)
-  workflow_dispatch: {}       # botón "Run workflow" para forzar una actualización (úsalo en la noche de la final)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
   push:
     branches: [main]
-    paths: ["scripts/**", "data/pageants.json", "data/contestants.json", ".github/workflows/update.yml"]
+    paths: [".github/workflows/update.yml"]
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: crown-update
@@ -18,26 +22,35 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 355
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Consultar fuentes
+      - name: Robot en vivo (bucle)
         env:
-          IG_TOKEN: ${{ secrets.IG_TOKEN }}      # opcional: Graph API oficial de Instagram
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: python scripts/update.py
-      - name: Guardar cambios
         run: |
           git config user.name "crown-bot"
           git config user.email "crown-bot@users.noreply.github.com"
-          git add data/
-          if git diff --cached --quiet; then echo "sin cambios"; exit 0; fi
-          git commit -m "datos: actualización automática $(date -u +%Y-%m-%dT%H:%MZ)"
-          for i in 1 2 3; do
-            git pull --rebase -X theirs origin main && git push && exit 0
-            sleep 5
+          echo "IG_TOKEN configurado: $([ -n "$IG_TOKEN" ] && echo sí || echo no) · IG_USER_ID: $([ -n "$IG_USER_ID" ] && echo sí || echo no)"
+          END=$((SECONDS + 340*60))
+          while [ $SECONDS -lt $END ]; do
+            START=$SECONDS
+            git pull -q --rebase -X theirs origin main || git rebase --abort || true
+            timeout 900 python scripts/update.py || echo "corrida con errores"
+            git add data/
+            if ! git diff --cached --quiet; then
+              git commit -q -m "datos: actualización automática $(date -u +%Y-%m-%dT%H:%MZ)"
+              for i in 1 2 3; do git pull -q --rebase -X theirs origin main && git push -q && break; sleep 5; done
+            fi
+            ELAPSED=$((SECONDS - START))
+            if [ $ELAPSED -lt 480 ]; then sleep $((480 - ELAPSED)); else sleep 30; fi
           done
-          exit 1
+      - name: Relanzar el robot
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run update.yml --ref main -R ${{ github.repository }} || true
