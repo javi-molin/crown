@@ -129,9 +129,11 @@ def bing_news(mod):
 IMG_BAD = re.compile(r"logo|icon|avatar|sprite|placeholder|blank|pixel|1x1|\.svg|\.gif|ads?[/_-]|banner|favicon", re.I)
 
 
-def enrich_articles(items, budget=35):
+def enrich_articles(items, budget=60):
     cache = U.load("articles.json", {})
-    todo = [i for i in items if i.get("type") == "news" and i.get("direct") and i["link"] not in cache][:budget]
+    todo = [i for i in items if i.get("type") == "news" and i.get("direct") and i["link"] not in cache]
+    todo.sort(key=lambda i: (0 if i.get("who") else 1))
+    todo = todo[:budget]
     ok = 0
     for i in todo:
         url = i["link"]

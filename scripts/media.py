@@ -97,8 +97,8 @@ def find_handle(c):
 def bing_cell(c, cat):
     cid, label, en, _ = cat
     base = {"mu": "Miss Universe 2026", "mi": "Miss International 2026", "me": "Miss Earth 2026"}.get(c["contest"], "Miss Universe 2026")
-    q = f'{c["name"]} {base} {c["country"]} {en}'
-    page = U.get("https://www.bing.com/images/search?form=HDRSC2&first=1&q=" + urllib.parse.quote(q))
+    q = f'"{c["name"]}" {base.split(" 20")[0]} {en}'
+    page = U.get("https://www.bing.com/images/search?form=HDRSC2&first=1&mkt=en-US&q=" + urllib.parse.quote(q))
     parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 4]
     cty = {U.norm(c["country"]), U.norm(c.get("country_es") or "")}
     out, raws, sample = [], re.findall(r'\bm="(\{[^"]+\})"', page), None
@@ -110,7 +110,7 @@ def bing_cell(c, cat):
         u, pg, t = d.get("murl"), d.get("purl") or "", U.norm((d.get("t") or "") + " " + (d.get("desc") or "") + " " + urllib.parse.unquote(d.get("purl") or ""))
         if not u or re.search(r"logo|icon|\.svg|\.gif", u, re.I):
             continue
-        who_ok = any(p in t for p in parts) or any(x and x in t for x in cty)
+        who_ok = any(p in t for p in parts)
         sample = sample or t[:120]
         if not who_ok:
             continue
@@ -120,6 +120,44 @@ def bing_cell(c, cat):
             break
     DIAG.append(f"{c['country']}/{cid}: {len(raws)} crudos, {len(out)} válidos; ej: {sample}; bytes={len(page)}")
     return out
+
+
+def press_images(G, contestants):
+    """Fotos de prensa y miniaturas de YouTube atribuidas a cada candidata (la nota/video la nombra)."""
+    feed = U.load("feed.json", {"items": []}).get("items", [])
+    arts = U.load("articles.json", {})
+    press = {}
+    names = {c["contest"] + "|" + c["country"]: c for c in contestants}
+    for it in feed:
+        who = [w["contest"] + "|" + w["country"] for w in it.get("who", [])]
+        if not who or len(who) > 2:
+            continue
+        text = it.get("title", "") + " " + it.get("summary", "")
+        cats = classify(text) or ["otras"]
+        imgs = []
+        if it.get("type") == "video":
+            m = re.search(r"v=([\w-]{11})", it.get("link", ""))
+            if m:
+                imgs.append({"url": f"https://i.ytimg.com/vi/{m.group(1)}/maxresdefault.jpg", "thumb": f"https://i.ytimg.com/vi/{m.group(1)}/hqdefault.jpg",
+                             "via": "YouTube", "credit": it.get("source", "").replace("YouTube · ", "")})
+        a = arts.get(it.get("link"), {})
+        for u in a.get("images", [])[:4]:
+            imgs.append({"url": u, "via": "Prensa", "credit": it.get("source")})
+        if it.get("thumb") and it.get("type") == "news":
+            imgs.append({"url": it["thumb"], "via": "Prensa (miniatura)", "credit": it.get("source")})
+        for k in who:
+            if k not in names:
+                continue
+            for cat in cats[:2]:
+                lst = press.setdefault(f"{k}|{cat}", [])
+                for im in imgs:
+                    if im["url"] not in [x["url"] for x in lst]:
+                        lst.append({**im, "page": it.get("link"), "title": it.get("title", "")[:140], "date": it.get("published")})
+    press = {k: v for k, v in press.items() if v}
+    for k in press:
+        press[k] = sorted(press[k], key=lambda x: x.get("date") or "", reverse=True)[:24]
+    G["press"] = press
+    return sum(len(v) for v in press.values())
 
 
 def run(mod, contestants, deadline_s=200):
@@ -259,6 +297,8 @@ def run(mod, contestants, deadline_s=200):
     filled = sum(1 for v in G["cells"].values() if v.get("images"))
     U.note(f"Galería por candidata (Bing) · {filled}/{total_cells} celdas con fotos", True, done, err=" | ".join(DIAG[:4]) or None)
 
-    G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS]
+    n = press_images(G, cs)
+    U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
+    G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
     G["updated"] = now.isoformat()
     U.save("gallery.json", G)
