@@ -539,7 +539,9 @@ def apply_roster(cs):
         return cs
     have = {c["contest"] + "|" + c["country"]: c for c in cs}
     mu = [{**have.get(x["contest"] + "|" + x["country"], {}), **{k: v for k, v in x.items() if v not in (None, "")}} for x in r]
-    return [c for c in cs if c["contest"] != "mu"] + mu
+    inr = {x["contest"] + "|" + x["country"] for x in mu}
+    extra = [{**c, "no_roster": True} for c in cs if c["contest"] == "mu" and c["contest"] + "|" + c["country"] not in inr]
+    return [c for c in cs if c["contest"] != "mu"] + mu + extra
 
 
 def run(mod, contestants, deadline_s=200):

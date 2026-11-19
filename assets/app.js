@@ -51,7 +51,8 @@ async function loadAll(first) {
     // Lista oficial de Miss Universe (galería de la Organización MU): manda sobre Wikipedia
     const R = ros && ros.mu && ros.mu.length >= 50 ? ros.mu : null;
     if (R) { const byK = new Map(out.map(x => [key(x), x])); const mu = R.map(r => ({ ...(byK.get(key(r)) || {}), ...Object.fromEntries(Object.entries(r).filter(([, v]) => v !== null && v !== "")) }));
-      S.contestants = out.filter(x => x.contest !== "mu").concat(mu); S.rosterNote = `Lista oficial: ${R.length} candidatas (galería de la Organización Miss Universe).`; }
+      const inR = new Set(mu.map(key)); const extra = out.filter(x => x.contest === "mu" && !inR.has(key(x))).map(x => ({ ...x, no_roster: true }));
+      S.contestants = mu.concat(extra, out.filter(x => x.contest !== "mu")); S.rosterNote = `Lista oficial: ${R.length} candidatas (galería de la Organización Miss Universe).`; S.noRoster = extra.length; }
     else S.contestants = out;
   }
   if (f) {
@@ -232,7 +233,7 @@ function renderCandidatas() {
   $("#clist").innerHTML = list.map(c => { const k = key(c), ph = photoOf(c);
     return `<div class="pc ${favs[k] ? "fav" : ""}" data-k="${esc(k)}" data-prof="${esc(k)}">
      <div class="ph">${ph ? imgTag(ph) : `<span class="bigflag">${flag(c.iso)}</span><span class="loading">buscando fotos…</span>`}${c.hot ? `<span class="cnt" style="background:var(--rose)">HOT #${c.hot}</span>` : ""}</div>
-     <div class="info"><div class="n">${flag(c.iso)} ${esc(c.name)}</div><div class="p">${esc(c.country_es)}${c.age ? " · " + c.age : ""}${c.no_wiki ? " · <span style='color:var(--rose)'>verificar</span>" : ""}</div>
+     <div class="info"><div class="n">${flag(c.iso)} ${esc(c.name)}</div><div class="p">${esc(c.country_es)}${c.age ? " · " + c.age : ""}${c.no_roster ? " · <span style='color:var(--dim)'>no está en la galería oficial</span>" : c.no_wiki ? " · <span style='color:var(--rose)'>verificar</span>" : ""}</div>
      <div class="row">${m[k] ? `<span class="ment">${m[k]} notas</span>` : "<span></span>"}<span><input class="rank" type="number" min="1" placeholder="#" value="${ranks[k] || ""}" title="Tu ranking"><button class="star" title="Favorita">★</button></span></div></div></div>`; }).join("")
     || `<div class="empty">Sin resultados.</div>`;
 }
@@ -785,6 +786,7 @@ function openProfile(k, cat) {
     <div class="facts"><span><b>${esc(c.country_es)}</b></span>${c.age ? `<span><b>${c.age}</b> años</span>` : ""}${c.hometown ? `<span>${esc(c.hometown)}</span>` : ""}${c.region ? `<span>${esc(c.region)}</span>` : ""}
      ${ig ? `<span>IG <a href="https://www.instagram.com/${esc(ig)}/" target="_blank">@${esc(ig)}</a>${acc.followers ? ` · <b>${num(acc.followers)}</b> seguidores` : ""}</span>` : h.handle ? `<span>IG posible: <a href="https://www.instagram.com/${esc(h.handle)}/" target="_blank">@${esc(h.handle)}</a> (verificar)</span>` : ""}
      <span><b>${its.length}</b> notas</span></div>
+    ${c.no_roster ? `<div class="nt">No aparece en la galería oficial de candidatas de la Organización Miss Universe (110 fotos). Puede ser un reemplazo, un retiro o una omisión de la galería.</div>` : ""}
     ${c.no_wiki ? `<div class="nt" style="border-color:var(--rose)">Ya no figura en la lista de Wikipedia: posible retiro o reemplazo.</div>` : ""}
     ${c.nota ? `<div class="nt">${esc(c.nota)}${c.fuente ? ` <a href="${esc(c.fuente)}" target="_blank">fuente</a>` : ""}</div>` : ""}
     <div class="toolbar"><button class="${favs[k] ? "" : "ghost"}" data-pfav="${esc(k)}">${favs[k] ? "★ Favorita" : "☆ Favorita"}</button>
