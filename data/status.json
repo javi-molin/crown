@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T04:50:38.986456+00:00",
+ "run_at": "2026-11-19T04:58:38.887772+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 44,
+   "items": 45,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 89,
+   "items": 87,
    "error": null
   },
   {
@@ -159,9 +159,9 @@
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
-   "ok": true,
-   "items": 20,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
@@ -172,19 +172,19 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 2,
+   "items": 8,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 30,
+   "items": 31,
    "error": null
   },
   {
@@ -310,14 +310,14 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "14 usuarios probados en esta vuelta · 112 en total"
+   "items": 4,
+   "error": "14 usuarios probados en esta vuelta · 126 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 1,
-   "error": "0 menciones revisadas en esta vuelta; 9 organizaciones nacionales"
+   "items": 3,
+   "error": "0 menciones revisadas en esta vuelta; 11 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 20,
+   "items": 28,
    "error": null
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 334,
+   "items": 335,
    "error": "72 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 2,
-   "error": "476 imágenes en el espejo; 66 fallaron"
+   "items": 0,
+   "error": "476 imágenes en el espejo; 67 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 601,
+   "items": 629,
    "error": null
   }
  ],
- "new_items": 623,
- "total_items": 688
+ "new_items": 625,
+ "total_items": 691
 }
