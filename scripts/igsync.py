@@ -35,12 +35,12 @@ def graph(path, **params):
         raise RuntimeError(f"{e.code} {body}")
 
 
-MEDIA_FIELDS = "id,caption,media_type,media_url,permalink,timestamp,like_count,comments_count,children{media_url,media_type}"
+MEDIA_FIELDS = "id,caption,media_type,media_url,thumbnail_url,permalink,timestamp,like_count,comments_count,children{media_url,media_type}"
 
 
 def to_post(m, owner, contest, kind):
     kids = [c for c in (m.get("children") or {}).get("data", []) if c.get("media_url") and c.get("media_type") != "VIDEO"]
-    imgs = [c["media_url"] for c in kids] or ([m["media_url"]] if m.get("media_url") and m.get("media_type") != "VIDEO" else [])
+    imgs = [c["media_url"] for c in kids] or ([m["media_url"]] if m.get("media_url") and m.get("media_type") != "VIDEO" else [m["thumbnail_url"]] if m.get("thumbnail_url") else [])
     code = re.search(r"/(?:p|reel|tv)/([\w-]+)", m.get("permalink", "")) if m.get("permalink") else None
     code = code.group(1) if code else "h" + str(m.get("id"))
     return {"code": code, "url": m.get("permalink") or "", "owner": owner, "images": imgs[:10], "thumb": imgs[0] if imgs else None,
@@ -85,19 +85,30 @@ def hashtag_sync(G, now):
     return n
 
 
-def discover(G, cs, budget=10):
-    """Busca @menciones en posts ya asignados a una sola candidata y verifica la cuenta con Business Discovery."""
+def discover(G, cs, budget=25):
+    """Cuentas mencionadas en posts asignados a una sola candidata. Meta entrega los textos SIN la '@',
+    así que se buscan palabras con forma de usuario que contengan el nombre de la candidata (o @menciones explícitas).
+    Se confirman con Business Discovery; si la cuenta es personal (la API no la ve) queda como 'mencionada'."""
     names = {c["contest"] + "|" + c["country"]: c for c in cs}
-    counts = {}
+    counts, src = {}, {}
     for p in G["ig_posts"].values():
         who = p.get("who") or []
-        if len(who) != 1:
+        if len(who) != 1 or who[0] not in names:
             continue
-        for h in set(re.findall(r"(?<![\w.])@([A-Za-z0-9_.]{3,30})", p.get("caption", ""))):
-            h = h.lower().strip(".")
-            if h in OFFICIAL or h == p.get("owner"):
+        c = names[who[0]]
+        parts = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 4]
+        cap = p.get("caption", "")
+        toks = {h.lower().strip(".") for h in re.findall(r"@([A-Za-z0-9_.]{3,30})", cap)}
+        for h in re.findall(r"(?<![#\w])([A-Za-z0-9_.]{5,30})", cap):
+            hl = h.lower().strip(".")
+            if parts and any(x in hl for x in parts) and (re.search(r"[_.\d]", hl) or sum(x in hl for x in parts) >= 2 or len(hl) > max(map(len, parts)) + 2):
+                toks.add(hl)
+        for h in toks:
+            if h in OFFICIAL or h == p.get("owner") or h.startswith("vote"):
                 continue
-            counts[(who[0], h)] = counts.get((who[0], h), 0) + 1
+            score = (5 if parts and any(x in h for x in parts) else 0) + 1
+            counts[(who[0], h)] = counts.get((who[0], h), 0) + score
+            src.setdefault((who[0], h), p.get("owner"))
     tried = G.setdefault("mention_tried", {})
     orgs = G.setdefault("orgs", dict(BASE_ORGS))
     done = 0
@@ -105,25 +116,29 @@ def discover(G, cs, budget=10):
         if done >= budget:
             break
         c = names.get(k)
-        if not c or tried.get(f"{k}|{h}") or h in orgs or any(v.get("handle") == h for v in G["handles"].values()):
+        cur = G["handles"].get(k, {})
+        if tried.get(f"{k}|{h}") or h in orgs or any(v.get("handle") == h for v in G["handles"].values()):
             continue
-        if G["handles"].get(k, {}).get("conf") == "verificada" and not re.search(r"miss|univers", h):
+        if cur.get("conf") == "verificada" and not re.search(r"miss|univers", h):
             continue
         tried[f"{k}|{h}"] = U.NOW.isoformat()
         done += 1
+        parts = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 4]
         try:
             d = graph("{ME}", fields=f"business_discovery.username({h}){{username,name,biography,followers_count}}")["business_discovery"]
         except RateLimited:
             break
         except Exception:
-            continue  # cuenta personal o inexistente: Business Discovery solo ve cuentas profesionales
+            # cuenta personal o inexistente: si lleva su nombre y su organización la menciona, se guarda como enlace
+            if any(x in h for x in parts) and n >= 6 and cur.get("conf") not in ("verificada", "mencionada"):
+                G["handles"][k] = {"handle": h, "conf": "mencionada", "name": c["name"], "via": f"mencionada por @{src.get((k, h))} (cuenta personal: la API no muestra sus fotos)"}
+            continue
         txt = U.norm(" ".join([d.get("username", ""), d.get("name") or "", d.get("biography") or ""]))
-        parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 4]
         ctry = [t for t in {U.norm(c["country"]), U.norm(c.get("country_es") or "")} if t]
-        if re.search(r"miss|univers|organiza|pageant|reina", txt) and any(t in txt for t in ctry) and not any(p in U.norm(h) for p in parts):
+        if re.search(r"miss|univers|organiza|pageant|reina", txt) and any(t in txt for t in ctry) and not any(x in U.norm(h) for x in parts):
             orgs[h] = k
-        elif any(p in txt for p in parts):
-            G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": "mención + API"}
+        elif any(x in txt for x in parts):
+            G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": f"mencionada por @{src.get((k, h))} + API"}
         time.sleep(0.4)
     return done
 

@@ -10,10 +10,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/styles.css">
 <link rel="manifest" href="manifest.webmanifest">
-<meta name="theme-color" content="#0e0c12">
+<meta name="theme-color" content="#faf7f2">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="CROWN">
 <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
 </head>
@@ -28,15 +28,15 @@
 
 <nav class="tabs" id="tabs" aria-label="Secciones">
   <button data-tab="vivo" class="on"><i>🏠</i><span>Hoy</span></button>
-  <button data-tab="galeria"><i>🖼</i><span>Galería</span></button>
+  <button data-tab="galeria"><i>👗</i><span>Looks</span></button>
   <button data-tab="candidatas"><i>👑</i><span>Candidatas</span></button>
   <button data-tab="eventos"><i>✨</i><span>Eventos</span></button>
-  <button data-tab="contenido"><i>🎬</i><span>Contenido</span></button>
-  <button data-tab="grabar"><i>🎙</i><span>Grabar</span></button>
+  <button data-tab="contenido"><i>🎬</i><span>Crear</span></button>
   <div class="more">
     <button id="moreBtn" aria-haspopup="true"><i>⋯</i><span>Más</span></button>
     <div class="moremenu" id="moreMenu" hidden>
-      <button data-tab="concursos">🏆 Concursos</button>
+      <button data-tab="grabar">🎙 Grabar (teleprompter)</button>
+      <button data-tab="concursos">🏆 Concursos y redes oficiales</button>
       <button data-tab="polemicas">🔥 Polémicas</button>
       <button data-tab="estudio">📊 Estudio del nicho</button>
       <button data-tab="fuentes">🛰 Fuentes y robot</button>
@@ -73,11 +73,11 @@
 
   <!-- GALERÍA -->
   <section id="galeria" class="tab">
-    <div class="sechead"><div><h2>Galería</h2><p class="lead">Fotos ordenadas por candidata y categoría. Elige varias y descárgalas en un ZIP.</p></div>
-      <div class="seg" id="galMode"><button data-gm="dias" class="on">Outfits por día</button><button data-gm="fotos">Por candidata</button><button data-gm="ig">Instagram</button><button data-gm="videos">Videos</button></div></div>
+    <div class="sechead"><div><h2>Looks</h2><p class="lead">Solo fotos oficiales: Miss Universe, su organización nacional y el Instagram de cada candidata.</p></div>
+      <div class="seg" id="galMode"><button data-gm="dias" class="on">Por día</button><button data-gm="fotos">Por categoría</button><button data-gm="videos">Videos</button></div></div>
 
     <div id="galDias">
-      <div class="filters sticky"><select id="dContest"></select><input id="dQ" type="search" placeholder="País o nombre…"><label class="switch"><input type="checkbox" id="dOnly" checked> Solo con fotos ese día</label></div>
+      <div class="filters sticky"><select id="dContest"></select><input id="dQ" type="search" placeholder="País o nombre…"><label class="switch"><input type="checkbox" id="dOnly" checked> Solo con fotos</label></div>
       <div class="chips daybar" id="dBar"></div>
       <div id="dHead"></div>
       <div id="dGrid" class="pgrid"></div>

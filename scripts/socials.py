@@ -123,7 +123,7 @@ def contestants(S, G, cs, budget=12):
             acc = G.get("accounts", {}).get(h["handle"], {})
             rec["instagram"] = {"url": f"https://www.instagram.com/{h['handle']}/", "handle": h["handle"], "verified": True,
                                 "followers": acc.get("followers") or h.get("followers"), "via": h.get("via", "API")}
-            if done < budget and rec.get("tiktok_tried") != h["handle"]:
+            if done < budget and rec.get("tiktok_tried") != h["handle"]:  # noqa
                 r = _ok_tiktok(h["handle"])
                 if r is not None:
                     rec["tiktok_tried"] = h["handle"]
@@ -131,6 +131,8 @@ def contestants(S, G, cs, budget=12):
                     if r:
                         rec["tiktok"] = {**r, "verified": True}
                 time.sleep(0.6)
+        elif h.get("handle") and h.get("conf") == "mencionada":
+            rec["instagram"] = {"url": f"https://www.instagram.com/{h['handle']}/", "handle": h["handle"], "verified": False, "via": h.get("via")}
         org = next((oh for oh, ok in (G.get("orgs") or {}).items() if ok == k), None)
         if org:
             acc = G.get("accounts", {}).get(org, {})

@@ -657,7 +657,7 @@ function igPostsFor(c, cat) {
   const k = c.contest + "|" + c.country;
   return Object.values(S.gallery.ig_posts || {}).filter(p => (p.who || []).includes(k) && (!cat || (p.cats || []).includes(cat)));
 }
-const BADIMG = /ytimg\.com|youtube\.com|bing\.com\/th|gstatic\.com/i;
+const BADIMG = /ytimg\.com|youtube\.com|bing\.com\/th|gstatic\.com|\.mp4/i;
 function cellImgs(c, cat) {
   const out = [], k0 = `${c.contest}|${c.country}`;
   if (cat === "retrato") {
@@ -666,13 +666,9 @@ function cellImgs(c, cat) {
     out.sort((a, b) => (b.src === "web oficial") - (a.src === "web oficial"));
     return out;
   }
-  for (const p of igPostsFor(c, cat).filter(p => !p.style)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
   for (const u of (store.get("myMedia", {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(/instagram\.com\/(p|reel)\//.test(u) ? { url: u, page: u, via: "Instagram (agregado por ti)", ig: true, post: true } : { url: u, page: u, via: "Agregada por ti", credit: "tú" });
   for (const im of ((S.gallery.ig_official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(mir(im));
   for (const im of ((S.gallery.ig_cand || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(mir(im));
-  for (const im of ((S.gallery.official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
-  for (const im of ((S.gallery.press || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
-  for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
   const seen = new Set(); return out.filter(i => !BADIMG.test(i.url) && !seen.has(i.url) && seen.add(i.url));
 }
 function photoOf(c, cat) {
@@ -884,7 +880,7 @@ function dayIndex() {
   const add = (k, im, cat) => { if (!im.date || BADIMG.test(im.url || "")) return; const [ct] = k.split("|"), d = dayKey(im.date);
     const box = ((idx[ct] = idx[ct] || {})[d] = idx[ct][d] || { by: {}, ev: [] }); const l = (box.by[k] = box.by[k] || []);
     if (!l.some(x => x.url === im.url)) l.push({ ...mir(im), cat }); };
-  for (const src of ["ig_official", "ig_cand", "press"]) for (const [key, l] of Object.entries(G[src] || {})) { const i = key.lastIndexOf("|"); for (const im of l) add(key.slice(0, i), im, key.slice(i + 1)); }
+  for (const src of ["ig_official", "ig_cand"]) for (const [key, l] of Object.entries(G[src] || {})) { const i = key.lastIndexOf("|"); for (const im of l) add(key.slice(0, i), im, key.slice(i + 1)); }
   for (const [k, l] of Object.entries(G.retrato || {})) for (const im of l) add(k, im, "retrato");
   for (const e of G.ig_event || []) { const d = dayKey(e.date), ct = e.contest || "mu"; const box = ((idx[ct] = idx[ct] || {})[d] = idx[ct][d] || { by: {}, ev: [] }); box.ev.push(e); }
   const isM = im => /raw\.githubusercontent/.test(im.url || "") ? 0 : 1;
@@ -908,7 +904,7 @@ function renderDays() {
   if (!S.gal.day || !days.includes(S.gal.day)) S.gal.day = days.includes(today) ? today : days[0] || "";
   const d = S.gal.day, box = idx[d] || { by: {}, ev: [] };
   $("#dBar").innerHTML = days.slice(0, 40).map(x => { const n = dayNum(ct, x), ev = dayEvents(ct, x);
-    return `<button class="chip ${x === d ? "on" : ""}" data-day="${x}"><b>${n ? "Día " + n : dayLabel(x, { weekday: "short" })}</b> · ${dayLabel(x, { day: "numeric", month: "short" })}${ev.length ? `<small>${esc(ev[0].slice(0, 28))}</small>` : ""}<i>${Object.keys(idx[x].by).length}</i></button>`; }).join("") || `<span class="hint">Aún no hay fotos con fecha.</span>`;
+    return `<button class="chip ${x === d ? "on" : ""}" data-day="${x}"><span><b>${n ? "Día " + n : dayLabel(x, { weekday: "short" })}</b> · ${dayLabel(x, { day: "numeric", month: "short" })}</span>${ev.length ? `<small>${esc(ev[0].slice(0, 28))}</small>` : ""}<i>${Object.keys(idx[x].by).length}</i></button>`; }).join("") || `<span class="hint">Aún no hay fotos con fecha.</span>`;
   if (!d) { $("#dHead").innerHTML = ""; $("#dGrid").innerHTML = ""; return; }
   const q = ($("#dQ").value || "").toLowerCase(), ev = dayEvents(ct, d), n = dayNum(ct, d);
   let list = S.contestants.filter(c => c.contest === ct && (!q || (c.name + " " + c.country_es + " " + c.country).toLowerCase().includes(q)));

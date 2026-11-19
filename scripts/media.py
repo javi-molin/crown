@@ -48,7 +48,8 @@ def ig_graph(user, known=frozenset(), max_pages=1):
         stop = False
         for m in d.get("media", {}).get("data", []):
             kids = [c for c in m.get("children", {}).get("data", []) if c.get("media_url") and c.get("media_type") != "VIDEO"]
-            imgs = [c["media_url"] for c in kids] or [m.get("media_url") or m.get("thumbnail_url")]
+            imgs = [c["media_url"] for c in kids] or ([m.get("thumbnail_url")] if m.get("media_type") == "VIDEO" else [m.get("media_url")])
+            imgs = [u for u in imgs if u and ".mp4" not in u]
             code = re.search(r"/(?:p|reel|tv)/([\w-]+)", m["permalink"]).group(1)
             if code in known:
                 stop = True
@@ -159,6 +160,74 @@ def match_country(name, contestants, contest="mu"):
         return table[n]
     hit = difflib.get_close_matches(n, list(table), n=1, cutoff=0.82)
     return table[hit[0]] if hit else None
+
+
+ENDI = "https://www.elnuevodia.com/entretenimiento/farandula/fotogalerias/miss-universe-2026-conoce-aqui-a-las-candidatas/"
+
+
+def _walk(o, out):
+    if isinstance(o, dict):
+        if o.get("type") == "image" and o.get("url"):
+            out.append(o)
+        for v in o.values():
+            _walk(v, out)
+    elif isinstance(o, list):
+        for v in o:
+            _walk(v, out)
+
+
+def endi_official(G, cs):
+    """Galería 'Conoce aquí a las candidatas' de El Nuevo Día (Puerto Rico, sede 2026): fotos oficiales con crédito
+    'Suministrada/Organización Miss Universe'. Se leen del JSON de la página (Arc), se asignan por país/nombre del pie."""
+    import hashlib
+    html = U.get(ENDI, timeout=30)
+    imgs = []
+    for mark in ("Fusion.globalContent=", "Fusion.globalContent ="):
+        i = html.find(mark)
+        if i >= 0:
+            try:
+                obj, _ = json.JSONDecoder().raw_decode(html[i + len(mark):].lstrip())
+                _walk(obj, imgs)
+            except Exception as e:
+                G["endi_diag"] = {"error": repr(e)[:200]}
+            break
+    if not imgs:  # respaldo: cualquier bloque JSON con imágenes de Arc
+        for m in re.finditer(r'\{"_id":"[A-Z0-9]{20,}"[^{}]*?"type":"image"[^{}]*?"url":"(https?://[^"]+)"', html):
+            imgs.append({"url": m.group(1), "caption": ""})
+    mu = [c for c in cs if c["contest"] == "mu"]
+    keys = []
+    for c in mu:
+        for t in {U.norm(c.get("country_es") or ""), U.norm(c["country"])}:
+            if len(t) >= 4:
+                keys.append((t, c))
+    keys.sort(key=lambda x: -len(x[0]))
+    out, n_ok, seen = {}, 0, set()
+    for im in imgs:
+        u = im["url"]
+        if u in seen:
+            continue
+        seen.add(u)
+        txt = U.norm(" ".join(str(im.get(f) or "") for f in ("caption", "subtitle", "alt_text")))
+        cred = json.dumps(im.get("credits") or "", ensure_ascii=False)
+        hit = next((c for t, c in keys if re.search(r"\b" + re.escape(t) + r"\b", txt)), None)
+        if not hit:
+            for c in mu:
+                parts = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 4]
+                if len(parts) >= 2 and sum(x in txt for x in parts) >= 2:
+                    hit = c
+                    break
+        if not hit:
+            continue
+        k = hit["contest"] + "|" + hit["country"]
+        out.setdefault(k, []).append({"url": u, "mkey": "endi_" + hashlib.md5(u.encode()).hexdigest()[:14], "page": ENDI,
+                                      "via": "Organización Miss Universe (vía El Nuevo Día)", "credit": "Organización Miss Universe",
+                                      "title": (im.get("caption") or im.get("subtitle") or "")[:160], "cred_raw": cred[:120],
+                                      "date": im.get("created_date") or im.get("last_updated_date")})
+        n_ok += 1
+    G["endi"] = out
+    G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok,
+                      "sample": [{"url": i["url"], "cap": (i.get("caption") or i.get("subtitle") or "")[:80]} for i in imgs[:4]]}
+    return len(imgs), len(out)
 
 
 def ig_series(G, contestants):
@@ -379,7 +448,7 @@ def run(mod, contestants, deadline_s=200):
         if c.get("ig"):
             G["handles"][k] = {**h, "handle": c["ig"].lower(), "conf": "verificada", "name": c["name"]}
             continue
-        if h.get("conf") == "verificada" or (h.get("tried") and h.get("name") == c["name"]):
+        if h.get("conf") in ("verificada", "mencionada") or (h.get("tried") and h.get("name") == c["name"]):
             continue
         try:
             handle, conf = find_handle(c)
@@ -536,23 +605,12 @@ def run(mod, contestants, deadline_s=200):
         U.note("Galería · missuniverseorg.com (oficial)", True, asg, err=f"{nf} imágenes encontradas en {G['muorg_diag']['paginas']} páginas")
     except Exception as e:
         U.note("Galería · missuniverseorg.com (oficial)", False, err=repr(e)[:200])
-    # YouTube por candidata (rotación: 12 por corrida)
-    ytc = G.setdefault("ytc", {})
-    order = sorted(cs, key=lambda c: (ytc.get(c["contest"] + "|" + c["country"], {}).get("fetched", ""), prio(c)))
-    ny = 0
-    for c in order[:12]:
-        k = c["contest"] + "|" + c["country"]
-        base = {"mu": "Miss Universe 2026", "mi": "Miss International 2026"}.get(c["contest"], "")
-        try:
-            res = U.yt_search(f'{c["name"]} {base}')
-            parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 4]
-            keep = [v for v in res if any(p in U.norm(v.get("title", "")) for p in parts)]
-            ytc[k] = {"fetched": now.isoformat(), "videos": keep[:12]}
-            ny += len(keep)
-        except Exception as e:
-            ytc[k] = {"fetched": now.isoformat(), "videos": ytc.get(k, {}).get("videos", []), "error": str(e)[:80]}
-        time.sleep(1.2)
-    U.note("Galería · YouTube por candidata", True, ny)
+    G.pop("ytc", None)  # sin videos de YouTube por candidata: no sirven como fotos
+    try:
+        ne, ae = endi_official(G, cs)
+        U.note("Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)", ae > 0, ae, err=f"{ne} fotos leídas en la galería")
+    except Exception as e:
+        U.note("Fotos oficiales Miss Universe · galería El Nuevo Día", False, err=repr(e)[:200])
     ser, styles, unm = ig_series(G, cs)
     G["ig_official"] = ser
     G["styles"] = styles
@@ -561,27 +619,57 @@ def run(mod, contestants, deadline_s=200):
     # fotos de Instagram de candidatas, organizaciones nacionales y hashtags → por candidata y categoría
     igc = {}
     posts = sorted(G["ig_posts"].values(), key=lambda p: p.get("taken") or "", reverse=True)
+    start = {}
+    for pg in U.load("pageants.json", {}).get("pageants", []):
+        ev = [e for e in pg.get("events", []) if re.search(r"llegada|arrival", e.get("name", ""), re.I)]
+        if ev:
+            start[pg["id"]] = (datetime.fromisoformat(ev[0]["start"].replace("Z", "+00:00")) - timedelta(days=3)).isoformat()
+    by_k = {c["contest"] + "|" + c["country"]: c for c in cs}
+    rx_comp = re.compile(r"miss\s*universe|missuniverse|\bmu\s?75|#mu\b|puerto rico|miss universo|missuniverso|\buniverse\b|preliminar|national costume|traje t[ií]pico|rehearsal|ensayo", re.I)
+    rx_promo = re.compile(r"\bvot(e|ez|a|en|ar|ing)\b|votaci[oó]n|soutenez|download|descarga|link in (the )?bio|enlace en (la )?bio|giveaway|sorteo|patrocin|sponsor|tickets?\b|boletos|entradas|countdown|cuenta regresiva|merch|discount|descuento|promo code|c[oó]digo", re.I)
+    skipped = {"fuera de fecha": 0, "no habla de ella ni del concurso": 0, "hashtag / no oficial": 0, "promoción / votación / afiche": 0}
     for p in posts:
         who = p.get("who") or []
-        if p.get("style") or len(who) != 1 or not p.get("images") or p.get("is_video") and not p.get("images"):
+        if p.get("style") or len(who) != 1 or not p.get("images"):
+            continue
+        if p.get("kind") not in ("candidata", "org. nacional", "oficial"):
+            skipped["hashtag / no oficial"] += 1
+            continue
+        c = by_k.get(who[0])
+        if (p.get("taken") or "") < start.get(who[0].split("|")[0], (now - timedelta(days=45)).isoformat()):
+            skipped["fuera de fecha"] += 1
+            continue
+        if p.get("kind") == "org. nacional" and c:
+            cap = U.norm(p.get("caption") or "")
+            parts = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 4]
+            if not (any(x in cap for x in parts) or rx_comp.search(p.get("caption") or "")):
+                skipped["no habla de ella ni del concurso"] += 1
+                continue
+        if rx_promo.search(p.get("caption") or ""):
+            skipped["promoción / votación / afiche"] += 1
+            continue
+        p["images"] = [u for u in p["images"] if u and ".mp4" not in u]
+        if not p["images"]:
             continue
         src = {"candidata": "Instagram de la candidata", "org. nacional": "Instagram de su organización nacional", "oficial": "Instagram oficial",
                "hashtag": "Instagram " + (p.get("via") or "#hashtag")}.get(p.get("kind"), "Instagram")
         for cat in (p.get("cats") or ["otras"])[:2]:
             lst = igc.setdefault(f"{who[0]}|{cat}", [])
-            if len(lst) >= 30:
+            if len(lst) >= (12 if cat == "otras" else 30):
                 continue
             for j, u in enumerate(p["images"][:6]):
                 lst.append({"url": u, "thumb": u, "mkey": f"{p['code']}_{j}", "page": p.get("url"), "via": src, "credit": "@" + p["owner"] if p.get("owner") else src,
                             "title": (p.get("caption") or "")[:120], "likes": p.get("likes"), "comments": p.get("comments"), "date": p.get("taken"), "ig": True})
     G["ig_cand"] = igc
-    U.note("Instagram · fotos y looks por candidata", True, sum(len(v) for v in igc.values()),
-           err=f"{len({k.rsplit('|', 1)[0] for k in igc})} candidatas con fotos de Instagram propias o de su organización")
+    U.note("Instagram · fotos y looks por candidata (filtradas)", True, sum(len(v) for v in igc.values()),
+           err=f"{len({k.rsplit('|', 1)[0] for k in igc})} candidatas · descartadas: " + ", ".join(f"{n} {k}" for k, n in skipped.items()))
     # posts oficiales de grupo / del día (pasarelas, actividades): sirven para "outfits del día"
     evp = []
     cut = (now - timedelta(days=30)).isoformat()
     for p in posts:
         if p.get("kind") != "oficial" or p.get("style") or not p.get("images") or (p.get("taken") or "") < cut or len(p.get("who") or []) == 1:
+            continue
+        if re.search(r"\bvot(e|ing|a)\b|download|descarga|tickets?\b|boletos|sponsor|giveaway|link in bio|countdown", p.get("caption") or "", re.I):
             continue
         evp.append({"code": p["code"], "url": p.get("url"), "owner": p.get("owner"), "contest": p.get("contest"), "date": p.get("taken"),
                     "caption": (p.get("caption") or "")[:300], "who": p.get("who") or [], "likes": p.get("likes"), "comments": p.get("comments"),
@@ -592,7 +680,8 @@ def run(mod, contestants, deadline_s=200):
         for x in v:
             x.setdefault("mkey", "web_" + hashlib.md5(x["url"].encode()).hexdigest()[:14])
     try:
-        todo = [(x["mkey"], x["url"]) for v in (G.get("official") or {}).values() for x in v]
+        todo = [(x["mkey"], x["url"]) for v in (G.get("endi") or {}).values() for x in v]
+        todo += [(x["mkey"], x["url"]) for v in (G.get("official") or {}).values() for x in v]
         todo += [(x["mkey"], x["url"]) for v in ser.values() for x in v]
         todo += [(im["mkey"], im["url"]) for e in evp[:40] for im in e["images"]]
         todo += [(x["mkey"], x["url"]) for v in sorted(igc.values(), key=lambda l: -(l[0].get("likes") or 0)) for x in v]
@@ -608,6 +697,13 @@ def run(mod, contestants, deadline_s=200):
             b = (mp.get(x["mkey"]) or {}).get("bg")
             if b == "claro":
                 ret.setdefault(k, []).append({**x, "bg": b, "official": True, "src": "web oficial"})
+            elif b is None:
+                pend += 1
+    for k, v in (G.get("endi") or {}).items():
+        for x in v:
+            b = (mp.get(x["mkey"]) or {}).get("bg")
+            if b == "claro":
+                ret.setdefault(k, []).insert(0, {**x, "bg": b, "official": True, "src": "web oficial"})
             elif b is None:
                 pend += 1
     rx_head = re.compile(r"head\s?shot|official (portrait|photo)|retrato oficial|foto oficial", re.I)
