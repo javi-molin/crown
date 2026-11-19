@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T21:47:15.445541+00:00",
+ "run_at": "2026-11-19T21:55:15.836971+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 33,
+   "items": 66,
    "error": null
   },
   {
@@ -40,19 +40,19 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 29,
+   "items": 68,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 100,
+   "items": 92,
    "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 82,
+   "items": 81,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 50,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 3,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 16,
    "error": "72 cuentas sincronizadas en total · 17 candidatas · 54 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -317,7 +323,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1055 en total"
+   "error": "1 usuarios probados en esta vuelta · 1056 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -345,9 +351,9 @@
   },
   {
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
-   "ok": true,
-   "items": 2,
-   "error": "27 fotos leídas en la galería"
+   "ok": false,
+   "items": 0,
+   "error": "1 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
@@ -364,13 +370,13 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": "1767 imágenes en el espejo; 2 fallaron"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
    "ok": true,
-   "items": 5,
+   "items": 3,
    "error": null
   },
   {
@@ -388,10 +394,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 114,
+   "items": 122,
    "error": null
   }
  ],
- "new_items": 708,
+ "new_items": 754,
  "total_items": 900
 }
