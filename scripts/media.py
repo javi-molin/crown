@@ -253,7 +253,7 @@ def endi_official(G, cs):
     if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
         last = G.get("endi_render_at")
         wait = 600 if len(G.get("endi") or {}) < 20 else 6 * 3600
-        if not last or U.load("roster.json", {}).get("v") != 2 or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
+        if not last or U.load("roster.json", {}).get("v") != 3 or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
             G["endi_render_at"] = now_utc().isoformat()
             try:
                 got = endi_render()
@@ -281,28 +281,26 @@ def endi_official(G, cs):
 
     def match(country, person):
         pn = [x for x in re.split(r"[^a-z]+", U.norm(person)) if len(x) >= 3]
-        best = None
-        for c in mu:  # 1) nombre y apellido
-            cn = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 3]
-            hits = len(set(pn) & set(cn))
-            if hits >= 2 or (hits == 1 and len(pn) == 1):
-                return c
-        last = pn[-1] if pn else ""
-        if len(last) >= 6:  # apellido largo y único (p. ej. "Jessi" / "Jessica" Kalambayi)
-            same = [c for c in mu if last in re.split(r"[^a-z]+", U.norm(c["name"]))]
-            if len(same) == 1:
-                return same[0]
         t = U.norm(country)
         t = {"republica democratica del congo": "rd congo", "gran bretana": "great britain", "islas de reunion": "reunion"}.get(t, t)
-        if t in names:  # 2) país exacto
+        if t in names:  # 1) país exacto (lo más confiable)
             return names[t]
         en = es2.get(t)
         if en:
             for c in mu:
-                if c["country"] == en[0] or c.get("iso") == en[2]:
+                if c["country"] == en[0] or (en[2] and c.get("iso") == en[2]):
                     return c
-        close = difflib.get_close_matches(t, list(names), n=1, cutoff=0.88)  # 3) país parecido
-        return names[close[0]] if close else best
+        last = pn[-1] if pn else ""
+        for c in mu:  # 2) nombre, exigiendo el apellido
+            cn = re.split(r"[^a-z]+", U.norm(c["name"]))
+            if last and last in cn and len(set(pn) & set(cn)) >= min(2, len(pn)):
+                return c
+        if len(last) >= 6:  # 3) apellido largo y único
+            same = [c for c in mu if last in re.split(r"[^a-z]+", U.norm(c["name"]))]
+            if len(same) == 1:
+                return same[0]
+        close = difflib.get_close_matches(t, list(names), n=1, cutoff=0.88)  # 4) país parecido
+        return names[close[0]] if close else None
 
     out, roster, n_ok, seen = {}, [], 0, set()
     for im in imgs:
@@ -329,7 +327,7 @@ def endi_official(G, cs):
                                       "title": cap[:160], "date": im.get("created_date") or im.get("last_updated_date")})
         n_ok += 1
     if len(roster) >= 50:
-        U.save("roster.json", {"v": 2, "updated": U.NOW.isoformat(), "source": ENDI, "mu": roster})
+        U.save("roster.json", {"v": 3, "updated": U.NOW.isoformat(), "source": ENDI, "mu": roster})
     G["endi"] = out
     G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok, "render": rdiag,
                       "sample": [{"url": i["url"], "cap": (i.get("caption") or i.get("subtitle") or "")[:80]} for i in imgs[:4]]}
@@ -552,7 +550,8 @@ def run(mod, contestants, deadline_s=200):
     for k in ("cells", "handles", "ig_posts", "accounts"):
         G.setdefault(k, {})
     now = U.NOW
-    cs = apply_roster([c for c in contestants if c.get("contest") in ("mu", "mi") and c.get("name")])
+    cs_raw = [c for c in contestants if c.get("contest") in ("mu", "mi") and c.get("name")]
+    cs = apply_roster(cs_raw)
     prio = lambda c: (0 if c.get("hot") or c["country"] in ("Chile",) else 1, 0 if c["contest"] == "mu" else 1)
     cs.sort(key=prio)
 
@@ -732,7 +731,7 @@ def run(mod, contestants, deadline_s=200):
         U.note("Galería · missuniverseorg.com (oficial)", False, err=repr(e)[:200])
     G.pop("ytc", None)  # sin videos de YouTube por candidata: no sirven como fotos
     try:
-        ne, ae = endi_official(G, cs)
+        ne, ae = endi_official(G, cs_raw)
         U.note("Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)", ae > 0, ae,
                err=("en caché; se vuelve a leer cada 6 h" if ne == -1 else f"{ne} fotos leídas en la galería"))
     except Exception as e:
