@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T11:46:48.631674+00:00",
+ "run_at": "2026-11-19T11:54:48.604528+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 49,
+   "items": 50,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 13,
+   "items": 17,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 676 en total"
+   "error": "1 usuarios probados en esta vuelta · 677 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 48,
+   "items": 41,
    "error": null
   },
   {
@@ -352,19 +352,19 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 668,
+   "items": 669,
    "error": "82 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
    "items": 0,
-   "error": "732 imágenes en el espejo; 130 fallaron"
+   "error": "732 imágenes en el espejo; 131 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 723,
+   "items": 720,
    "error": null
   }
  ],
