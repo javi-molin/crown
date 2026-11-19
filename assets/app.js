@@ -662,7 +662,8 @@ function cellImgs(c, cat) {
   const out = [], k0 = `${c.contest}|${c.country}`;
   if (cat === "retrato") {
     for (const u of (store.get("myMedia", {})[`${k0}|retrato`] || [])) out.push({ url: u, page: u, via: "Agregada por ti", credit: "tú" });
-    for (const im of ((S.gallery.retrato || {})[k0] || [])) out.push({ ...mir(im), style_label: "Retrato oficial · fondo neutro claro" });
+    for (const im of ((S.gallery.retrato || {})[k0] || [])) out.push({ ...mir(im), style_label: im.src === "web oficial" ? "Retrato oficial Miss Universe · fondo neutro claro (web oficial)" : im.official ? "Retrato oficial · fondo neutro claro (cuenta oficial)" : "Retrato oficial de su organización nacional · fondo neutro claro" });
+    out.sort((a, b) => (b.src === "web oficial") - (a.src === "web oficial"));
     return out;
   }
   for (const p of igPostsFor(c, cat).filter(p => !p.style)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
