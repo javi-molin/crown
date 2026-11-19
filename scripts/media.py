@@ -122,6 +122,63 @@ def bing_cell(c, cat):
     return out
 
 
+def wp_official(G, contestants, max_pages=12):
+    """Biblioteca de medios oficial de missuniverse.com (API pública de WordPress, autorizada por Javi)."""
+    import urllib.request
+    base = "https://www.missuniverse.com/wp-json/wp/v2/media"
+    since = G.get("wp_since") or "2026-08-01T00:00:00"
+    items, page, pages = [], 1, 1
+    while page <= min(pages, max_pages):
+        url = (f"{base}?per_page=100&page={page}&orderby=date&order=desc&after={since}"
+               "&_fields=id,date,source_url,title,alt_text,caption,media_details")
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 CROWN-panel (uso editorial)", "Accept": "application/json"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            pages = int(r.headers.get("X-WP-TotalPages") or 1)
+            batch = json.loads(r.read().decode("utf-8", "replace"))
+        items += batch
+        page += 1
+        time.sleep(1.0)
+    lib = G.setdefault("wp_media", {})
+    for m in items:
+        sizes = (m.get("media_details") or {}).get("sizes") or {}
+        thumb = (sizes.get("medium_large") or sizes.get("large") or sizes.get("medium") or {}).get("source_url")
+        lib[str(m["id"])] = {"id": m["id"], "date": m["date"], "url": m["source_url"], "thumb": thumb or m["source_url"],
+                             "title": html.unescape((m.get("title") or {}).get("rendered", "")),
+                             "alt": m.get("alt_text") or "", "caption": re.sub("<[^>]+>", "", (m.get("caption") or {}).get("rendered", ""))[:200]}
+    # asignar a candidata y categoría
+    by_country = []
+    for c in contestants:
+        if c["contest"] != "mu":
+            continue
+        terms = {U.norm(c["country"]), U.norm(c.get("country_es") or "")}
+        nm = U.norm(c["name"])
+        pats = [re.escape(t).replace("\\ ", "[\\s_-]+") for t in terms if t] + [re.escape(p) for p in nm.split() if len(p) >= 5]
+        by_country.append((re.compile(r"(?<![a-z])(" + "|".join(pats) + r")(?![a-z])"), c))
+    off, unassigned = {}, []
+    for m in lib.values():
+        fn = urllib.parse.unquote(m["url"].rsplit("/", 1)[-1])
+        text = U.norm(" ".join([m["title"], m["alt"], m["caption"], re.sub(r"[-_]+", " ", fn)]))
+        hits = [c for rx, c in by_country if rx.search(text)]
+        if len(hits) != 1:
+            if not hits:
+                unassigned.append(m["title"] or fn)
+            continue
+        c = hits[0]
+        cats = classify(text) or ["otras"]
+        k = c["contest"] + "|" + c["country"]
+        for cat in cats[:2]:
+            off.setdefault(f"{k}|{cat}", []).append({"url": m["url"], "thumb": m["thumb"], "page": m["url"], "via": "Miss Universe (oficial)",
+                                                    "credit": "Miss Universe Organization", "title": m["title"] or fn, "date": m["date"], "official": True})
+    for k in off:
+        off[k].sort(key=lambda x: x["date"], reverse=True)
+    G["official"] = off
+    G["wp_diag"] = {"total": len(lib), "nuevos": len(items), "asignadas": sum(len(v) for v in off.values()),
+                    "sin_asignar_ejemplos": unassigned[:40], "titulos_recientes": [m["title"] for m in sorted(lib.values(), key=lambda x: x["date"], reverse=True)[:40]]}
+    if items:
+        G["wp_since"] = max(m["date"] for m in items)
+    return len(items), sum(len(v) for v in off.values())
+
+
 def press_images(G, contestants):
     """Fotos de prensa y miniaturas de YouTube atribuidas a cada candidata (la nota/video la nombra)."""
     feed = U.load("feed.json", {"items": []}).get("items", [])
@@ -299,6 +356,11 @@ def run(mod, contestants, deadline_s=200):
     U.note(f"Galería · Bing por candidata ({filled}/{total_cells} celdas)", not zero, done,
            err="Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram" if zero else None)
 
+    try:
+        nw, asg = wp_official(G, cs)
+        U.note("Galería · biblioteca oficial missuniverse.com", True, asg, err=f"{nw} medios nuevos; {G['wp_diag']['total']} en total")
+    except Exception as e:
+        U.note("Galería · biblioteca oficial missuniverse.com", False, err=repr(e)[:200])
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]

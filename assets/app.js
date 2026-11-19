@@ -656,6 +656,7 @@ function cellImgs(c, cat) {
   const out = [];
   for (const p of igPostsFor(c, cat)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
   for (const u of (store.get("myMedia", {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(/instagram\.com\/(p|reel)\//.test(u) ? { url: u, page: u, via: "Instagram (agregado por ti)", ig: true, post: true } : { url: u, page: u, via: "Agregada por ti", credit: "tú" });
+  for (const im of ((S.gallery.official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.press || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
   const seen = new Set(); return out.filter(i => !seen.has(i.url) && seen.add(i.url));
