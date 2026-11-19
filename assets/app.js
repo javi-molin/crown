@@ -35,8 +35,8 @@ const shortP = id => ({ mu: "Universe", mi: "International", me: "Earth", mw: "W
 
 /* ---------------- carga ---------------- */
 async function loadAll(first) {
-  const [p, c, ca, f, v, w, st, es, co, evs, gal, soc] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
-    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json", "gallery.json", "socials.json"].map(getJSON));
+  const [p, c, ca, f, v, w, st, es, co, evs, gal, soc, ros] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
+    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json", "gallery.json", "socials.json", "roster.json"].map(getJSON));
   if (soc) S.socials = soc;
   if (p) S.pageants = p.pageants;
   if (c) {
@@ -48,7 +48,11 @@ async function loadAll(first) {
     const out = auto.map(a => ({ ...(seedMap.get(key(a)) || {}), ...a }));
     const inAuto = new Set(auto.map(key));
     for (const x of seed) if (!inAuto.has(key(x))) out.push(autoContests.has(x.contest) ? { ...x, no_wiki: true } : x);
-    S.contestants = out;
+    // Lista oficial de Miss Universe (galería de la Organización MU): manda sobre Wikipedia
+    const R = ros && ros.mu && ros.mu.length >= 50 ? ros.mu : null;
+    if (R) { const byK = new Map(out.map(x => [key(x), x])); const mu = R.map(r => ({ ...(byK.get(key(r)) || {}), ...Object.fromEntries(Object.entries(r).filter(([, v]) => v !== null && v !== "")) }));
+      S.contestants = out.filter(x => x.contest !== "mu").concat(mu); S.rosterNote = `Lista oficial: ${R.length} candidatas (galería de la Organización Miss Universe).`; }
+    else S.contestants = out;
   }
   if (f) {
     const prevIds = S.knownIds;

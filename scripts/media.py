@@ -253,7 +253,7 @@ def endi_official(G, cs):
     if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
         last = G.get("endi_render_at")
         wait = 600 if len(G.get("endi") or {}) < 20 else 6 * 3600
-        if not last or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
+        if not last or not U.load("roster.json", {}).get("mu") or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
             G["endi_render_at"] = now_utc().isoformat()
             try:
                 got = endi_render()
@@ -266,36 +266,61 @@ def endi_official(G, cs):
     if not imgs:  # respaldo: cualquier bloque JSON con imágenes de Arc
         for m in re.finditer(r'\{"_id":"[A-Z0-9]{20,}"[^{}]*?"type":"image"[^{}]*?"url":"(https?://[^"]+)"', html):
             imgs.append({"url": m.group(1), "caption": ""})
+    import difflib
     mu = [c for c in cs if c["contest"] == "mu"]
-    keys = []
+    cmap = U.load("countries.json", {})
+    es2 = {}
+    for en, (es, iso, reg) in sorted(cmap.items(), key=lambda x: len(x[0])):  # nombre en inglés más corto primero
+        es2.setdefault(U.norm(es), (en, es, iso, reg))
+        es2.setdefault(U.norm(en), (en, es, iso, reg))
+    names = {}
     for c in mu:
         for t in {U.norm(c.get("country_es") or ""), U.norm(c["country"])}:
-            if len(t) >= 4:
-                keys.append((t, c))
-    keys.sort(key=lambda x: -len(x[0]))
-    out, n_ok, seen = {}, 0, set()
+            if t:
+                names[t] = c
+
+    def match(country, person):
+        pn = [x for x in re.split(r"[^a-z]+", U.norm(person)) if len(x) >= 3]
+        best = None
+        for c in mu:  # 1) nombre y apellido
+            cn = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 3]
+            hits = len(set(pn) & set(cn))
+            if hits >= 2 or (hits == 1 and len(pn) == 1):
+                return c
+        t = U.norm(country)
+        if t in names:  # 2) país exacto
+            return names[t]
+        en = es2.get(t)
+        if en:
+            for c in mu:
+                if c["country"] == en[0] or c.get("iso") == en[2]:
+                    return c
+        close = difflib.get_close_matches(t, list(names), n=1, cutoff=0.88)  # 3) país parecido
+        return names[close[0]] if close else best
+
+    out, roster, n_ok, seen = {}, [], 0, set()
     for im in imgs:
         u = im["url"]
-        if u in seen:
+        cap = (im.get("caption") or im.get("subtitle") or "").strip()
+        m = re.match(r"([^,]{3,45}),\s*(.+)$", cap)
+        if u in seen or not m:
             continue
         seen.add(u)
-        txt = U.norm(" ".join(str(im.get(f) or "") for f in ("caption", "subtitle", "alt_text")))
-        cred = json.dumps(im.get("credits") or "", ensure_ascii=False)
-        hit = next((c for t, c in keys if re.search(r"\b" + re.escape(t) + r"\b", txt)), None)
-        if not hit:
-            for c in mu:
-                parts = [x for x in re.split(r"[^a-z]+", U.norm(c["name"])) if len(x) >= 4]
-                if len(parts) >= 2 and sum(x in txt for x in parts) >= 2:
-                    hit = c
-                    break
-        if not hit:
-            continue
-        k = hit["contest"] + "|" + hit["country"]
+        country, person = m.group(1).strip(), m.group(2).strip()
+        hit = match(country, person)
+        if hit:
+            k = hit["contest"] + "|" + hit["country"]
+            roster.append({**{f: hit.get(f) for f in ("contest", "country", "country_es", "iso", "region", "age", "hometown")}, "name": person, "official": True})
+        else:
+            en = es2.get(U.norm(country)) or (None, country, "", "")
+            roster.append({"contest": "mu", "country": en[0] or country, "country_es": en[1] or country, "iso": en[2], "region": en[3], "name": person, "official": True, "new": True})
+            k = "mu|" + (en[0] or country)
         out.setdefault(k, []).append({"url": u, "mkey": "endi_" + hashlib.md5(u.encode()).hexdigest()[:14], "page": ENDI,
                                       "via": "Organización Miss Universe (vía El Nuevo Día)", "credit": "Organización Miss Universe",
-                                      "title": (im.get("caption") or im.get("subtitle") or "")[:160], "cred_raw": cred[:120],
-                                      "date": im.get("created_date") or im.get("last_updated_date")})
+                                      "title": cap[:160], "date": im.get("created_date") or im.get("last_updated_date")})
         n_ok += 1
+    if len(roster) >= 50:
+        U.save("roster.json", {"updated": U.NOW.isoformat(), "source": ENDI, "mu": roster})
     G["endi"] = out
     G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok, "render": rdiag,
                       "sample": [{"url": i["url"], "cap": (i.get("caption") or i.get("subtitle") or "")[:80]} for i in imgs[:4]]}
@@ -498,6 +523,16 @@ def press_images(G, contestants):
     return sum(len(v) for v in press.values())
 
 
+def apply_roster(cs):
+    """Lista oficial (galería de la Organización MU): reemplaza a las de Miss Universe que no están y suma las que faltan."""
+    r = U.load("roster.json", {}).get("mu") or []
+    if len(r) < 50:
+        return cs
+    have = {c["contest"] + "|" + c["country"]: c for c in cs}
+    mu = [{**have.get(x["contest"] + "|" + x["country"], {}), **{k: v for k, v in x.items() if v not in (None, "")}} for x in r]
+    return [c for c in cs if c["contest"] != "mu"] + mu
+
+
 def run(mod, contestants, deadline_s=200):
     global U
     U = mod
@@ -506,7 +541,7 @@ def run(mod, contestants, deadline_s=200):
     for k in ("cells", "handles", "ig_posts", "accounts"):
         G.setdefault(k, {})
     now = U.NOW
-    cs = [c for c in contestants if c.get("contest") in ("mu", "mi") and c.get("name")]
+    cs = apply_roster([c for c in contestants if c.get("contest") in ("mu", "mi") and c.get("name")])
     prio = lambda c: (0 if c.get("hot") or c["country"] in ("Chile",) else 1, 0 if c["contest"] == "mu" else 1)
     cs.sort(key=prio)
 
