@@ -171,12 +171,77 @@ def wp_official(G, contestants, max_pages=12):
                                                     "credit": "Miss Universe Organization", "title": m["title"] or fn, "date": m["date"], "official": True})
     for k in off:
         off[k].sort(key=lambda x: x["date"], reverse=True)
-    G["official"] = off
+    for k, v in off.items():
+        cur = G.setdefault("official", {}).setdefault(k, [])
+        for x in v:
+            if x["url"] not in [y["url"] for y in cur]:
+                cur.append(x)
     G["wp_diag"] = {"total": len(lib), "nuevos": len(items), "asignadas": sum(len(v) for v in off.values()),
                     "sin_asignar_ejemplos": unassigned[:40], "titulos_recientes": [m["title"] for m in sorted(lib.values(), key=lambda x: x["date"], reverse=True)[:40]]}
     if items:
         G["wp_since"] = max(m["date"] for m in items)
     return len(items), sum(len(v) for v in off.values())
+
+
+def muorg_official(G, contestants, max_pages=25):
+    """Sitio oficial missuniverseorg.com (votación y perfiles). Constructor GoDaddy: las fotos viven en img1.wsimg.com
+    y el contenido en scripts 'gpub'. Se recorren las páginas internas y se extraen imágenes con su texto cercano."""
+    root = "https://missuniverseorg.com"
+    seen, queue, found, pages_ok = set(), ["/vote", "/"], {}, 0
+    while queue and len(seen) < max_pages:
+        path = queue.pop(0)
+        if path in seen:
+            continue
+        seen.add(path)
+        try:
+            page = U.get(root + path, timeout=25)
+        except Exception:
+            continue
+        pages_ok += 1
+        for h in re.findall(r'href="(/[a-z0-9][a-z0-9/_-]{1,60})"', page, re.I):
+            if h not in seen and h not in queue and not re.search(r"\.(css|js|png|jpe?g|svg)$", h, re.I):
+                queue.append(h)
+        blobs = [page]
+        for sc in re.findall(r'<script[^>]+src="(//img1\.wsimg\.com/blobby/go/[^"]+/gpub/[^"]+)"', page)[:6]:
+            try:
+                blobs.append(U.get("https:" + sc, timeout=25))
+            except Exception:
+                pass
+        for blob in blobs:
+            txt = blob.replace("\\/", "/").replace("\\u002F", "/")
+            for m in re.finditer(r"(?:https?:)?//img1\.wsimg\.com/isteam/ip/[0-9a-f-]{36}/([^\"'\s)\\]+?)(?=/:/|[\"'\s)\\])", txt):
+                fn = urllib.parse.unquote(m.group(1))
+                if re.search(r"logo|icon|favicon|thumbnail-", fn, re.I):
+                    continue
+                url = "https:" + m.group(0) if m.group(0).startswith("//") else m.group(0)
+                ctx = re.sub(r"<[^>]+>|\\[nrt]", " ", txt[max(0, m.start() - 350): m.end() + 350])
+                rec = found.setdefault(url, {"url": url, "fn": fn, "ctx": "", "page": root + path})
+                rec["ctx"] = (rec["ctx"] + " " + ctx)[:900]
+    matchers = []
+    for c in contestants:
+        if c["contest"] != "mu":
+            continue
+        terms = {U.norm(c["country"]), U.norm(c.get("country_es") or "")}
+        pats = [re.escape(t).replace("\\ ", "[\\s_-]+") for t in terms if t] + [re.escape(p) for p in U.norm(c["name"]).split() if len(p) >= 5]
+        matchers.append((re.compile(r"(?<![a-z])(" + "|".join(pats) + r")(?![a-z])"), c))
+    off = G.setdefault("official", {})
+    assigned, samples = 0, []
+    for rec in found.values():
+        fn_text = U.norm(re.sub(r"[-_.]+", " ", rec["fn"]))
+        hits = [c for rx, c in matchers if rx.search(fn_text)] or [c for rx, c in matchers if rx.search(U.norm(rec["ctx"]))]
+        samples.append(rec["fn"])
+        if len(hits) != 1:
+            continue
+        c = hits[0]
+        cats = classify(fn_text + " " + U.norm(rec["ctx"])) or ["retrato"]
+        k = c["contest"] + "|" + c["country"]
+        lst = off.setdefault(f"{k}|{cats[0]}", [])
+        if rec["url"] not in [x["url"] for x in lst]:
+            lst.insert(0, {"url": rec["url"] + "/:/rs=w:1600", "thumb": rec["url"] + "/:/rs=w:600", "page": rec["page"], "via": "missuniverseorg.com (oficial)",
+                           "credit": "Miss Universe Organization", "title": rec["fn"], "official": True})
+            assigned += 1
+    G["muorg_diag"] = {"paginas": pages_ok, "visitadas": sorted(seen)[:40], "imagenes": len(found), "asignadas": assigned, "ejemplos": samples[:60]}
+    return len(found), assigned
 
 
 def press_images(G, contestants):
@@ -361,6 +426,11 @@ def run(mod, contestants, deadline_s=200):
         U.note("Galería · biblioteca oficial missuniverse.com", True, asg, err=f"{nw} medios nuevos; {G['wp_diag']['total']} en total")
     except Exception as e:
         U.note("Galería · biblioteca oficial missuniverse.com", False, err=repr(e)[:200])
+    try:
+        nf, asg = muorg_official(G, cs)
+        U.note("Galería · missuniverseorg.com (oficial)", True, asg, err=f"{nf} imágenes encontradas en {G['muorg_diag']['paginas']} páginas")
+    except Exception as e:
+        U.note("Galería · missuniverseorg.com (oficial)", False, err=repr(e)[:200])
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
