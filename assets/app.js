@@ -655,6 +655,7 @@ function igPostsFor(c, cat) {
 function cellImgs(c, cat) {
   const out = [];
   for (const p of igPostsFor(c, cat)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
+  for (const u of (store.get("myMedia", {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(/instagram\.com\/(p|reel)\//.test(u) ? { url: u, page: u, via: "Instagram (agregado por ti)", ig: true, post: true } : { url: u, page: u, via: "Agregada por ti", credit: "tú" });
   for (const im of ((S.gallery.press || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
   const seen = new Set(); return out.filter(i => !seen.has(i.url) && seen.add(i.url));
@@ -777,14 +778,15 @@ function renderPTab(k, cat) {
   ims.forEach((im, n) => S.idx[`pimg:${k}:${cat}:${n}`] = { type: "imagen", title: `${c.country_es} ${c.name} ${label} ${n + 1}`, url: im.url, alt: im.thumb, img: im.thumb || im.url, source: im.via, page: im.page, event: `${c.country_es} · ${label}`, likes: im.likes });
   $("#pbody").innerHTML = `<div class="toolbar"><button class="ghost" data-selall>Seleccionar todas</button><button data-dlsel>⬇ Descargar seleccionadas</button><button class="ghost" data-addsel>★ Marcar seleccionadas</button>
      <a href="https://www.google.com/search?tbm=isch&q=${enc(c.name + " Miss Universe 2026 " + label)}" target="_blank">buscar más ↗</a><span class="prog" id="prog"></span></div>
-    <div class="igrid">${ims.map((im, n) => `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
+    <div class="toolbar"><input id="addMedia" placeholder="Pega el link de una foto o de un post de Instagram para guardarlo en esta categoría" style="flex:1"><button data-addmedia="${esc(k)}|${cat}">+ Agregar</button></div>
+    <div class="igrid">${ims.map((im, n) => im.post ? `<div class="ig" style="display:grid;place-items:center;aspect-ratio:4/5;background:linear-gradient(45deg,#f58529,#dd2a7b,#8134af)"><button class="ghost" style="color:#fff;border-color:#fff" data-igembed="${esc(im.url)}">Ver post de IG</button></div>` : `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
      <div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.title || im.via || "")}">${im.ig ? "📷 IG" : esc(im.credit || im.via || "fuente")}</a><span><button data-dl="pimg:${esc(k)}:${cat}:${n}">⬇</button> ${mkBtn(`pimg:${k}:${cat}:${n}`)}</span></div></div>`).join("") || `<div class="empty">El robot todavía no encuentra fotos de "${label}" para ${esc(c.name)}. Vuelve en unos minutos.</div>`}</div>
-    <p class="hint">Fuentes: Instagram, Bing Imágenes (solo resultados que nombran a la candidata) y medios. Usa las fotos con crédito.</p>`;
+    <p class="hint">Fuentes: fotos de notas y videos que la nombran (clasificadas por el texto), Instagram y lo que agregues tú. Usa las fotos con crédito.</p>`;
 }
 
 /* ---- eventos de UI de galería/perfil ---- */
 document.addEventListener("click", e => {
-  const t = e.target.closest("[data-gm],[data-gcat],[data-icat],[data-gsel],[data-prof],[data-ptab],[data-pfav],[data-igembed],#moreBtn,#selZip,#selMark,#selClear,[data-tab]");
+  const t = e.target.closest("[data-gm],[data-gcat],[data-icat],[data-gsel],[data-prof],[data-ptab],[data-pfav],[data-igembed],[data-addmedia],#moreBtn,#selZip,#selMark,#selClear,[data-tab]");
   if (!t) { if (!e.target.closest(".more")) $("#moreMenu").hidden = true; return; }
   const d = t.dataset;
   if (t.id === "moreBtn") { $("#moreMenu").hidden = !$("#moreMenu").hidden; return; }
@@ -798,6 +800,7 @@ document.addEventListener("click", e => {
   if (t.id === "selMark") { selRows().forEach((r, n) => bAdd("sel:" + r.url, r)); $("#selProg").textContent = "marcadas ★"; return; }
   if (d.igembed) { e.preventDefault(); return igEmbed(d.igembed); }
   if (d.ptab) return renderPTab($(".profile").dataset.pk, d.ptab);
+  if (d.addmedia) { const u = ($("#addMedia").value || "").trim(); if (!/^https?:\/\//.test(u)) return; const m = store.get("myMedia", {}); (m[d.addmedia] = m[d.addmedia] || []).unshift(u); store.set("myMedia", m); const [ct, co, cat] = d.addmedia.split("|"); renderPTab(ct + "|" + co, cat); renderGallery(); renderCandidatas(); return; }
   if (d.pfav) { const f = store.get("favs", {}); f[d.pfav] = !f[d.pfav]; store.set("favs", f); t.className = f[d.pfav] ? "" : "ghost"; t.textContent = f[d.pfav] ? "★ Favorita" : "☆ Favorita"; renderCandidatas(); return; }
   if (d.prof) {
     if (e.target.closest(".star,.rank,.chk,.mk,input,a")) return;

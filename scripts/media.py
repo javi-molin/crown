@@ -295,7 +295,9 @@ def run(mod, contestants, deadline_s=200):
         time.sleep(2.5)
     total_cells = sum(len(cats_by_contest.get(c["contest"], [])) for c in cs)
     filled = sum(1 for v in G["cells"].values() if v.get("images"))
-    U.note(f"Galería por candidata (Bing) · {filled}/{total_cells} celdas con fotos", True, done, err=" | ".join(DIAG[:4]) or None)
+    zero = DIAG and all(" 0 crudos" in d for d in DIAG)
+    U.note(f"Galería · Bing por candidata ({filled}/{total_cells} celdas)", not zero, done,
+           err="Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram" if zero else None)
 
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
