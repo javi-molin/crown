@@ -643,7 +643,8 @@ $("#evQ").oninput = renderEvents;
 window.addEventListener("load", () => { const m = location.hash.match(/^#ev=(.+)$/); if (m) setTimeout(() => { $('[data-tab="eventos"]').click(); openEvent(decodeURIComponent(m[1])); }, 1500); });
 
 /* ================= GALERÍA · PERFIL · INSTAGRAM · DRAWER ================= */
-const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipico", "Traje típico"], ["gala", "Vestido de gala"], ["runway", "Runway"], ["otras", "Más fotos"]];
+const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipico", "Traje típico"], ["gala", "Vestido de gala"], ["runway", "Runway"], ["otras", "Looks y más"]];
+function mir(im) { const m = im.mkey && (S.gallery.mirror || {})[im.mkey]; return m ? { ...im, url: m.f, thumb: m.t, orig: im.url } : im; }
 S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
 S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "", style: "mu75-bano-marfil", role: "" };
 
@@ -656,7 +657,8 @@ function cellImgs(c, cat) {
   const out = [];
   for (const p of igPostsFor(c, cat).filter(p => !p.style)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
   for (const u of (store.get("myMedia", {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(/instagram\.com\/(p|reel)\//.test(u) ? { url: u, page: u, via: "Instagram (agregado por ti)", ig: true, post: true } : { url: u, page: u, via: "Agregada por ti", credit: "tú" });
-  for (const im of ((S.gallery.ig_official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
+  for (const im of ((S.gallery.ig_official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(mir(im));
+  for (const im of ((S.gallery.ig_cand || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(mir(im));
   for (const im of ((S.gallery.official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.press || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
@@ -724,8 +726,9 @@ function renderIG() {
   $("#iGrid").innerHTML = list.map(p => {
     const who = (p.who || []).map(k => S.contestants.find(c => c.contest + "|" + c.country === k)).filter(Boolean);
     S.idx["post:" + p.url] = { type: "post", title: (p.caption || p.url).slice(0, 120), url: p.url, img: p.thumb || (p.images || [])[0] || "", source: "Instagram" + (p.owner ? " @" + p.owner : ""), likes: p.likes, views: p.views };
-    return `<div class="igc"><div class="ph ${p.thumb ? "" : "noimg"}" ${p.thumb ? `style="background-image:url('${esc(p.thumb)}')"` : ""}>${p.thumb ? "" : "Instagram<br>" + esc(who.map(c => c.country_es).join(", "))}</div>
-      <div class="b"><div>${who.map(c => `<span class="who" data-prof="${esc(c.contest + "|" + c.country)}" style="cursor:pointer">${flag(c.iso)} ${esc(c.name)}</span>`).join(" ")}</div>
+    const th = ((S.gallery.mirror || {})[p.code + "_0"] || {}).t || p.thumb;
+    return `<div class="igc"><div class="ph ${th ? "" : "noimg"}" ${th ? `style="background-image:url('${esc(th)}')"` : ""}>${th ? "" : "Instagram<br>" + esc(who.map(c => c.country_es).join(", "))}</div>
+      <div class="b"><div class="hint">${esc(p.owner ? "@" + p.owner : (p.via || "Instagram"))}${p.taken ? " · " + ago(p.taken) : ""}</div><div>${who.map(c => `<span class="who" data-prof="${esc(c.contest + "|" + c.country)}" style="cursor:pointer">${flag(c.iso)} ${esc(c.name)}</span>`).join(" ")}</div>
       ${(p.cats || []).map(x => `<span class="tag looks">${esc((CATS.find(y => y[0] === x) || [x, x])[1])}</span>`).join(" ")}
       <div class="cap">${esc(p.caption || "")}</div>
       ${p.likes != null || p.comments != null ? `<div class="st">${p.likes != null ? "♥ " + num(p.likes) : ""} ${p.comments != null ? "💬 " + num(p.comments) : ""} ${p.views ? "▶ " + num(p.views) : ""}</div>` : ""}
@@ -781,7 +784,7 @@ function renderPTab(k, cat) {
   if (cat === "news") { const its = (S.feed.items || []).filter(i => (i.who || []).some(w => w.contest === c.contest && w.country === c.country)); $("#pbody").innerHTML = `<div class="feed">${its.map(itemHTML).join("") || `<div class="empty">Sin notas aún.</div>`}</div>`; return; }
   if (cat === "ig") {
     const ps = igPostsFor(c);
-    $("#pbody").innerHTML = `<div class="iggrid">${ps.map(p => `<div class="igc"><div class="ph ${p.thumb ? "" : "noimg"}" ${p.thumb ? `style="background-image:url('${esc(p.thumb)}')"` : ""}>${p.thumb ? "" : "Instagram"}</div><div class="b"><div class="cap">${esc(p.caption || "")}</div>${p.likes != null ? `<div class="st">♥ ${num(p.likes)} ${p.comments != null ? "💬 " + num(p.comments) : ""}</div>` : ""}<div class="acts"><button class="ghost" data-igembed="${esc(p.url)}">Ver post</button><a href="${esc(p.url)}" target="_blank">abrir ↗</a></div></div></div>`).join("") || `<div class="empty">Aún no hay posts de Instagram para ella. <a href="https://www.google.com/search?q=${enc('site:instagram.com "' + c.name + '"')}" target="_blank">Buscar en Instagram ↗</a></div>`}</div>`;
+    $("#pbody").innerHTML = `<div class="iggrid">${ps.map(p => { const th = ((S.gallery.mirror || {})[p.code + "_0"] || {}).t || p.thumb; return `<div class="igc"><div class="ph ${th ? "" : "noimg"}" ${th ? `style="background-image:url('${esc(th)}')"` : ""}>${th ? "" : "Instagram"}</div><div class="b"><div class="cap">${esc(p.caption || "")}</div>${p.likes != null ? `<div class="st">♥ ${num(p.likes)} ${p.comments != null ? "💬 " + num(p.comments) : ""}</div>` : ""}<div class="acts"><button class="ghost" data-igembed="${esc(p.url)}">Ver post</button><a href="${esc(p.url)}" target="_blank">abrir ↗</a></div></div></div>`; }).join("") || `<div class="empty">Aún no hay posts de Instagram para ella. <a href="https://www.google.com/search?q=${enc('site:instagram.com "' + c.name + '"')}" target="_blank">Buscar en Instagram ↗</a></div>`}</div>`;
     return;
   }
   const ims = cellImgs(c, cat), label = CATS.find(x => x[0] === cat)[1];

@@ -10,7 +10,7 @@ CROWN · galería por candidata y categoría.
 3) Respaldo: Bing Imágenes por candidata × categoría, validando que el resultado nombre a la candidata.
 Escribe data/gallery.json. Todo es incremental y tolerante a fallos.
 """
-import json, re, time, html, urllib.parse
+import json, re, time, html, os, urllib.parse
 from datetime import datetime, timezone, timedelta
 
 U = None
@@ -190,7 +190,7 @@ def ig_series(G, contestants):
         for j, u in enumerate(p.get("images", [])):
             role = (roles.get(sid) or [])[j] if j < len(roles.get(sid) or []) else f"foto {j + 1} de {len(p['images'])}"
             out.setdefault(f"{k}|{cat}", []).append({
-                "url": u, "thumb": u, "page": p["url"], "via": "Instagram @missuniverse (oficial)", "credit": f"Foto: @{ph} · Diseño: @{de}" if de else f"Foto: @{ph}",
+                "url": u, "thumb": u, "mkey": f"{p['code']}_{j}", "page": p["url"], "via": "Instagram @missuniverse (oficial)", "credit": f"Foto: @{ph} · Diseño: @{de}" if de else f"Foto: @{ph}",
                 "title": f"{c['country_es']} · {label} · {role}", "style": sid, "style_label": label, "role": role, "role_n": j + 1,
                 "likes": p.get("likes"), "comments": p.get("comments"), "date": p.get("taken"), "official": True, "ig": True})
     for k in out:
@@ -409,18 +409,22 @@ def run(mod, contestants, deadline_s=200):
     #   a) Graph API oficial (si hay credenciales): cuentas oficiales + candidatas en rotación
     extra = U.load("instagram.json", {"accounts": []}).get("accounts", [])
     accounts = [(a, cid, kind) for a, cid, kind in BASE_ACCOUNTS] + [(x["handle"], x.get("contest", "mu"), x.get("kind", "manual")) for x in extra if x.get("handle")]
+    import igsync
+    igsync.U = U
+    G.setdefault("orgs", dict(igsync.BASE_ORGS))
     cand_acc = [(v["handle"], k.split("|")[0], "candidata") for k, v in G["handles"].items() if v.get("handle") and v.get("conf") in ("alta", "verificada")]
+    cand_acc += [(h, k.split("|")[0], "org. nacional") for h, k in G["orgs"].items() if h not in [a[0] for a in accounts]]
     cand_acc.sort(key=lambda a: G["accounts"].get(a[0], {}).get("fetched", ""))
     import os
     if os.environ.get("IG_TOKEN") and os.environ.get("IG_USER_ID"):
         ok = 0
-        for handle, cid, kind in accounts + cand_acc[:40]:
+        for handle, cid, kind in accounts + cand_acc[:14]:
             if time.time() - t0 > deadline_s * 0.5:
                 break
             try:
                 full = (now - datetime.fromisoformat(G["accounts"].get(handle, {}).get("full_at", "2000-01-01T00:00:00+00:00"))).total_seconds() > 12 * 3600
                 known = frozenset() if full else frozenset(c for c, x in G["ig_posts"].items() if x.get("owner") == handle)
-                p = ig_graph(handle, known, max_pages=(8 if kind == "oficial" else 3) if full else 2)
+                p = ig_graph(handle, known, max_pages=(8 if kind == "oficial" else 2) if full else 1)
                 G["accounts"][handle] = {"name": p.get("name"), "followers": p.get("followers"), "media_count": p.get("media_count"), "pic": p.get("pic"), "contest": cid, "kind": kind, "fetched": now.isoformat(),
                                       "full_at": now.isoformat() if full else G["accounts"].get(handle, {}).get("full_at")}
                 for post in p["posts"]:
@@ -430,7 +434,12 @@ def run(mod, contestants, deadline_s=200):
             except Exception as e:
                 G["accounts"].setdefault(handle, {})["error"] = str(e)[:100]
             time.sleep(0.5)
-        U.note("Instagram · Graph API oficial (cuentas leídas)", True, ok)
+        U.note("Instagram · Graph API oficial (cuentas leídas)", True, ok,
+               err=f"{len([a for a in G['accounts'].values() if a.get('fetched')])} cuentas sincronizadas en total · {sum(1 for v in G['handles'].values() if v.get('conf') == 'verificada')} candidatas · {len(G['orgs'])} organizaciones")
+        try:
+            igsync.hashtag_sync(G, now)
+        except Exception as e:
+            U.note("Instagram · hashtags", False, err=repr(e)[:200])
     else:
         U.note("Instagram · Graph API oficial: sin conectar (opcional)", True, 0)
     #   b) Siempre: posts públicos encontrados por búsqueda web (se muestran con el embed oficial de Instagram)
@@ -455,6 +464,7 @@ def run(mod, contestants, deadline_s=200):
 
     # asignar posts de IG a candidata + categoría
     by_handle = {v["handle"]: k for k, v in G["handles"].items() if v.get("handle") and v.get("conf") in ("alta", "verificada")}
+    by_handle.update(G.get("orgs", {}))
     matchers = []
     for c in cs:
         nm = U.norm(c["name"])
@@ -472,13 +482,23 @@ def run(mod, contestants, deadline_s=200):
         who = []
         if p.get("owner") in by_handle:
             who.append(by_handle[p["owner"]])
+            p["kind"] = "candidata" if any(v.get("handle") == p["owner"] for v in G["handles"].values()) else "org. nacional"
         if p.get("hint") and not who:
             who.append(p["hint"])
         for rx, c in matchers:
+            if p.get("owner") in by_handle and p.get("kind") == "candidata":
+                break
             if c["contest"] == p.get("contest") and rx.search(cap):
                 who.append(c["contest"] + "|" + c["country"])
         p["who"] = sorted(set(who))[:3]
         p["cats"] = classify(p.get("caption", ""))
+    if os.environ.get("IG_TOKEN"):
+        try:
+            nd = igsync.discover(G, cs)
+            U.note("Instagram · cuentas de candidatas y organizaciones (verificadas con la API)", True,
+                   sum(1 for v in G["handles"].values() if v.get("conf") == "verificada"), err=f"{nd} menciones revisadas en esta vuelta; {len(G['orgs'])} organizaciones nacionales")
+        except Exception as e:
+            U.note("Instagram · descubrimiento de cuentas", False, err=repr(e)[:200])
 
     # --- 3. Respaldo: Bing por candidata × categoría (rotación, refresco cada 12 h)
     cats_by_contest = {"mu": CATS, "mi": [c for c in CATS if c[0] in ("retrato", "tipico", "gala")]}
@@ -546,6 +566,31 @@ def run(mod, contestants, deadline_s=200):
     G["styles"] = styles
     U.note("Instagram · retratos oficiales por candidata", True, len({k.rsplit('|', 1)[0] for k in ser}),
            err=(f"sin país reconocido: {', '.join(sorted(set(unm))[:8])}" if unm else None))
+    # fotos de Instagram de candidatas, organizaciones nacionales y hashtags → por candidata y categoría
+    igc = {}
+    posts = sorted(G["ig_posts"].values(), key=lambda p: p.get("taken") or "", reverse=True)
+    for p in posts:
+        who = p.get("who") or []
+        if p.get("style") or len(who) != 1 or not p.get("images") or p.get("is_video") and not p.get("images"):
+            continue
+        src = {"candidata": "Instagram de la candidata", "org. nacional": "Instagram de su organización nacional", "oficial": "Instagram oficial",
+               "hashtag": "Instagram " + (p.get("via") or "#hashtag")}.get(p.get("kind"), "Instagram")
+        for cat in (p.get("cats") or ["otras"])[:2]:
+            lst = igc.setdefault(f"{who[0]}|{cat}", [])
+            if len(lst) >= 30:
+                continue
+            for j, u in enumerate(p["images"][:6]):
+                lst.append({"url": u, "thumb": u, "mkey": f"{p['code']}_{j}", "page": p.get("url"), "via": src, "credit": "@" + p["owner"] if p.get("owner") else src,
+                            "title": (p.get("caption") or "")[:120], "likes": p.get("likes"), "comments": p.get("comments"), "date": p.get("taken"), "ig": True})
+    G["ig_cand"] = igc
+    U.note("Instagram · fotos y looks por candidata", True, sum(len(v) for v in igc.values()),
+           err=f"{len({k.rsplit('|', 1)[0] for k in igc})} candidatas con fotos de Instagram propias o de su organización")
+    try:
+        todo = [(x["mkey"], x["url"]) for v in ser.values() for x in v]
+        todo += [(x["mkey"], x["url"]) for v in sorted(igc.values(), key=lambda l: -(l[0].get("likes") or 0)) for x in v]
+        igsync.mirror(G, todo)
+    except Exception as e:
+        U.note("Espejo de imágenes", False, err=repr(e)[:200])
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
