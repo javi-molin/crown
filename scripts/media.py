@@ -495,6 +495,9 @@ def run(mod, contestants, deadline_s=200):
     if os.environ.get("IG_TOKEN"):
         try:
             nd = igsync.discover(G, cs)
+            ng, nf = igsync.guess_sync(G, cs)
+            U.note("Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)", True, nf,
+                   err=f"{ng} usuarios probados en esta vuelta · {len(G.get('guess_tried', {}))} en total")
             U.note("Instagram · cuentas de candidatas y organizaciones (verificadas con la API)", True,
                    sum(1 for v in G["handles"].values() if v.get("conf") == "verificada"), err=f"{nd} menciones revisadas en esta vuelta; {len(G['orgs'])} organizaciones nacionales")
         except Exception as e:

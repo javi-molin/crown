@@ -52,6 +52,9 @@ def to_post(m, owner, contest, kind):
 def hashtag_sync(G, now):
     ids = G.setdefault("hashtag_ids", {})
     n = 0
+    blk = G.get("hashtag_blocked")
+    if blk and (now - datetime.fromisoformat(blk)).total_seconds() < 6 * 3600:
+        return 0  # Meta exige "Public Content Access": reintenta cada 6 h sin gastar cuota
     for tag, cid in HASHTAGS:
         try:
             if tag not in ids:
@@ -73,6 +76,9 @@ def hashtag_sync(G, now):
             return n
         except Exception as e:
             G.setdefault("hashtag_err", {})[tag] = str(e)[:200]
+            if "Public Content Access" in str(e):
+                G["hashtag_blocked"] = now.isoformat()
+                break
     U.note("Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)", True, n,
            err=("; ".join(f"#{k}: {v[:90]}" for k, v in (G.get("hashtag_err") or {}).items()) or None))
     G["hashtag_err"] = {}
@@ -87,7 +93,7 @@ def discover(G, cs, budget=10):
         who = p.get("who") or []
         if len(who) != 1:
             continue
-        for h in set(re.findall(r"@([A-Za-z0-9_.]{3,30})", p.get("caption", ""))):
+        for h in set(re.findall(r"(?<![\w.])@([A-Za-z0-9_.]{3,30})", p.get("caption", ""))):
             h = h.lower().strip(".")
             if h in OFFICIAL or h == p.get("owner"):
                 continue
@@ -120,6 +126,72 @@ def discover(G, cs, budget=10):
             G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": "mención + API"}
         time.sleep(0.4)
     return done
+
+
+def _slug(t):
+    return re.sub(r"[^a-z0-9]", "", U.norm(t or ""))
+
+
+def guesses(c):
+    """Usuarios probables de la candidata y de su organización nacional."""
+    parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 2]
+    out = []
+    if len(parts) >= 2:
+        f, l = parts[0], parts[-1]
+        out += [f + l, f + "." + l, f + "_" + l, f + l + "official", f + l + "_", f + "." + l + "_"]
+        if len(parts) >= 3:
+            out += [f + parts[1], f + "." + parts[1], "".join(parts)]
+    orgs = []
+    for ct in {_slug(c["country"]), _slug(c.get("country_es"))}:
+        if not ct:
+            continue
+        if c["contest"] == "mu":
+            orgs += ["missuniverse" + ct, "missuniverse." + ct, "missuniverse_" + ct, "missuniverse" + ct + "official",
+                     "missuniverso" + ct, "missuniverso." + ct, "miss" + ct + "universe", "missuniverse" + ct + "org"]
+        elif c["contest"] == "mi":
+            orgs += ["missinternational" + ct, "miss" + ct + "international"]
+    return [("c", h) for h in dict.fromkeys(out)] + [("o", h) for h in dict.fromkeys(orgs)]
+
+
+def guess_sync(G, cs, budget=14):
+    """Prueba usuarios probables con Business Discovery y solo acepta los que la API confirma."""
+    tried = G.setdefault("guess_tried", {})
+    orgs = G.setdefault("orgs", dict(BASE_ORGS))
+    org_of = {}
+    for h, k in orgs.items():
+        org_of.setdefault(k, h)
+    order = sorted(cs, key=lambda c: (0 if c.get("hot") else 1, c["contest"] != "mu"))
+    done = found = 0
+    for c in order:
+        k = c["contest"] + "|" + c["country"]
+        have_c = G["handles"].get(k, {}).get("conf") == "verificada"
+        for kind, h in guesses(c):
+            if done >= budget:
+                return done, found
+            if (kind == "c" and have_c) or (kind == "o" and k in org_of) or tried.get(h):
+                continue
+            tried[h] = U.NOW.isoformat()
+            done += 1
+            try:
+                d = graph("{ME}", fields=f"business_discovery.username({h}){{username,name,biography,followers_count}}")["business_discovery"]
+            except RateLimited:
+                return done, found
+            except Exception:
+                continue
+            txt = U.norm(" ".join([d.get("username", ""), d.get("name") or "", d.get("biography") or ""]))
+            parts = [p for p in re.split(r"[^a-z]+", U.norm(c["name"])) if len(p) >= 3]
+            ctry = [t for t in {U.norm(c["country"]), U.norm(c.get("country_es") or "")} if t]
+            signal = re.search(r"miss|univers|reina|queen|pageant", txt) or any(t in txt for t in ctry)
+            if kind == "c" and len(parts) >= 2 and sum(p in txt for p in parts) >= 2 and signal:
+                G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": "API (usuario confirmado)"}
+                have_c = True
+                found += 1
+            elif kind == "o" and re.search(r"miss|univers|international", txt) and any(t in txt for t in ctry):
+                orgs[h] = k
+                org_of[k] = h
+                found += 1
+            time.sleep(0.3)
+    return done, found
 
 
 # ------------------------------------------------------------------ espejo de imágenes
