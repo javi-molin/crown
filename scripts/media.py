@@ -253,7 +253,7 @@ def endi_official(G, cs):
     if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
         last = G.get("endi_render_at")
         wait = 600 if len(G.get("endi") or {}) < 20 else 6 * 3600
-        if not last or not U.load("roster.json", {}).get("mu") or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
+        if not last or U.load("roster.json", {}).get("v") != 2 or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
             G["endi_render_at"] = now_utc().isoformat()
             try:
                 got = endi_render()
@@ -329,7 +329,7 @@ def endi_official(G, cs):
                                       "title": cap[:160], "date": im.get("created_date") or im.get("last_updated_date")})
         n_ok += 1
     if len(roster) >= 50:
-        U.save("roster.json", {"updated": U.NOW.isoformat(), "source": ENDI, "mu": roster})
+        U.save("roster.json", {"v": 2, "updated": U.NOW.isoformat(), "source": ENDI, "mu": roster})
     G["endi"] = out
     G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok, "render": rdiag,
                       "sample": [{"url": i["url"], "cap": (i.get("caption") or i.get("subtitle") or "")[:80]} for i in imgs[:4]]}
