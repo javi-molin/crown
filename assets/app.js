@@ -23,7 +23,7 @@ async function getJSON(name) {
   return null;
 }
 const flag = iso => !iso || iso.length !== 2 ? "🏳️" : String.fromCodePoint(...[...iso.toUpperCase()].map(c => 127397 + c.charCodeAt()));
-const fmt = (d, o) => new Intl.DateTimeFormat("es-CL", { timeZone: TZ, ...o }).format(new Date(d));
+const fmt = (d, o) => new Intl.DateTimeFormat("es-CL", { timeZone: TZ, hourCycle: "h23", ...o }).format(new Date(d));
 function ago(d) {
   const s = (Date.now() - new Date(d)) / 1000;
   if (s < 60) return "recién"; if (s < 3600) return Math.floor(s / 60) + " min";
@@ -290,7 +290,7 @@ function renderEstudio() {
    ${e.sources ? `<h3>Fuentes</h3><ul>${e.sources.map(s => `<li><a href="${esc(s.u)}" target="_blank">${esc(s.t)}</a></li>`).join("")}</ul>` : ""}</div>`;
 }
 function autoScripts() {
-  const pick = (S.feed.items || []).filter(i => i.type !== "video" && (i.tags || []).some(t => ["polemica", "looks", "resultados"].includes(t))).slice(0, 10);
+  const pick = (S.feed.items || []).filter(i => !["video", "alert"].includes(i.type) && (i.tags || []).some(t => ["polemica", "looks", "resultados"].includes(t))).slice(0, 10);
   return pick.map(i => {
     const w = (i.who || [])[0]; const who = w ? `${w.name} (${(S.contestants.find(c => c.country === w.country) || {}).country_es || w.country})` : "esta candidata";
     const t = (i.tags || []).includes("polemica") ? "polemica" : (i.tags || []).includes("looks") ? "looks" : "resultados";

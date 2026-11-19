@@ -290,6 +290,8 @@ def youtube():
         try:
             ch = resolve_channel(handle, cache)
             vids = yt_rss(ch["id"])
+            if "telemundo" in norm(label):  # el canal mezcla realities: solo lo de concursos
+                vids = [v for v in vids if re.search(r"miss|reina|univers|corona|certamen", norm(v["title"]))]
             resolved[key] = {"handle": handle, "label": label, "contest": cid, **ch}
             for v in vids:
                 v.update({"contest": cid, "channel": ch["title"]})
@@ -371,7 +373,8 @@ def strip_wiki(s):
     s = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", s)
     s = re.sub(r"'''?", "", s)
     s = re.sub(r"<[^>]+>", "", s)
-    return html.unescape(s).strip()
+    s = re.sub(r"^[A-Z]{3}\s+(?=[A-Z][a-z])", "", html.unescape(s).strip())
+    return s.strip()
 
 
 def section(text, names):
@@ -417,7 +420,7 @@ def wikipedia(seed_by_contest):
             changed = prev.get("results_hash") != hashlib.sha1("\n".join(res_lines).encode()).hexdigest()
             out[cid] = {"page": page, "revision": ts, "results": res_lines,
                         "results_hash": hashlib.sha1("\n".join(res_lines).encode()).hexdigest(),
-                        "results_changed_at": NOW.isoformat() if (changed and res_lines) else prev.get("results_changed_at")}
+                        "results_changed_at": NOW.isoformat() if (changed and res_lines and prev.get("results_hash")) else prev.get("results_changed_at")}
             n = 0
             if cid in ("mu", "mi", "me"):
                 cont = section(text, ["Contestants", "Delegates", "Confirmed contestants"])
@@ -464,7 +467,7 @@ def main():
     old = {i["id"]: i for i in load("feed.json", {"items": []}).get("items", [])}
     fresh = google_news()
     yt_resolved, videos, yt_items = youtube()
-    fresh += yt_items + reddit()
+    fresh += yt_items
     wiki = wikipedia(seed_by)
 
     for cid, w in wiki.items():
