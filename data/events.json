@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:18:49.214794+00:00",
- "count": 35,
+ "updated": "2026-11-19T14:26:48.748204+00:00",
+ "count": 36,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -234,13 +234,441 @@
    "score": 3
   },
   {
+   "key": "t:mu:Preliminar:2026-11-18",
+   "id": "t-mu-preliminar-2026-11-18-7bbf4",
+   "name": "Preliminar · 18–20 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Preliminar"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
+   "start": "2026-11-18T02:18:02+00:00",
+   "last_activity": "2026-11-19T14:19:08+00:00",
+   "item_ids": [
+    "bb05a27bdb9183",
+    "967a2fbdae6575",
+    "092c25e040beae",
+    "dd17c8ae47572c",
+    "3e1d9cacc1dbcf",
+    "c80f64ff23c15b",
+    "2873c6a69c60f0"
+   ],
+   "sources": [
+    "El Nortero",
+    "El Nuevo Día",
+    "Facebook",
+    "Mega.cl",
+    "Reporte Indigo",
+    "Reporte Índigo",
+    "www.elquehaydecierto.cl"
+   ],
+   "n_items": 7,
+   "n_sources": 7,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.BEDaGdgsh9CKgE3FWAejiA&pid=News",
+     "page": "https://www.reporteindigo.com/entretenimiento/miss-universo-2026-calendario-completo-con-fechas-y-horarios-de-los-desfiles-traje-tipico-preliminar-y-gran-final-20261118-0060.html",
+     "via": "Bing (miniatura)",
+     "credit": "Reporte Índigo"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/XCE7NZV7V5F2FJTJG6TFNOFWKE.jpeg?auth=1eac09caffae132f856594c2eab779bece9653a35f512ece2d92d0eb798e9c15&quality=75&width=1200&height=717&focal=851%2C428",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/paco-lopez-queda-impresionado-con-el-escenario-de-miss-universe-2026-en-puerto-rico-eah-diablo/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nCommittee on Commerce, Science, and Transportation"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Tepan45max"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 preliminary competition",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nCommittee on Commerce, Science, and Transportation"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Tepan45max"
+    }
+   ],
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 21
+  },
+  {
+   "key": "t:mu:Traje de baño:2026-11-18",
+   "id": "t-mu-traje-de-bano-2026-11-18-f1f71",
+   "name": "Traje de baño · 18–20 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Traje de baño"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "start": "2026-11-18T10:14:00+00:00",
+   "last_activity": "2026-11-19T14:19:08+00:00",
+   "item_ids": [
+    "bb05a27bdb9183",
+    "967a2fbdae6575",
+    "62daec4b9e8652",
+    "9746670e886f83",
+    "d586be74cea1d3",
+    "f1e1ff59cf6d51"
+   ],
+   "sources": [
+    "El Nortero",
+    "El Nuevo Día",
+    "Infobae",
+    "Yahoo",
+    "news.com.au",
+    "www.elquehaydecierto.cl"
+   ],
+   "n_items": 6,
+   "n_sources": 6,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.5aLmL_ib3nraLq3Xf9Z8gA&pid=News",
+     "page": "https://www.news.com.au/lifestyle/fashion/fashion-shows/miss-universe-2026-contestants-stumble-along-makeshift-beach-runaway-in-worrying-video/news-story/55150af86d8172d4dcc04894de1c56cb",
+     "via": "Bing (miniatura)",
+     "credit": "news.com.au"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/866074c6d5e8404114e1f49c014a77d3cd1a1617916ec893e639d267239f41df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/911ae41b1e8f90f27ce3daab1bddbd73d4118ba73c394e407580edc8ae929727/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/8f3c9d64d8aa8adf0c25a35eea0854b538d382ba16507aa806e50c432828e7fb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fcf9fd1ec773db0d725f677a31a11b944.png",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/0384d025b3a7002dbdd70601e91d7370dc5d7debd73d48d4f20e04ca2f758d23/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Ffd439e0d3d322285e66fe9c27b4a3b7f.png",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DftNmIYDUc8"
+   ],
+   "image_query": "Miss Universe 2026 swimsuit",
+   "extra_images": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    }
+   ],
+   "extra_at": "2026-11-19T14:18:49.214794+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-19T13:54:48.702622+00:00",
+     "url": "https://www.instagram.com/p/DftNmIYDUc8",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 18
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-18",
+   "id": "t-mu-gala-cena-2026-11-18-77fee",
+   "name": "Gala / cena · 18–20 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-19T01:51:19.588959+00:00",
+   "start": "2026-11-18T00:15:00+00:00",
+   "last_activity": "2026-11-19T14:19:08+00:00",
+   "item_ids": [
+    "bb05a27bdb9183",
+    "967a2fbdae6575",
+    "ee2c47dc60521b",
+    "3816e48aa86b8f",
+    "cbdbdf09a0e54c",
+    "83202215dedd4d"
+   ],
+   "sources": [
+    "El Nortero",
+    "El Pitazo",
+    "El Vocero de Puerto Rico",
+    "La Nación",
+    "Revista Caras México",
+    "www.elquehaydecierto.cl"
+   ],
+   "n_items": 6,
+   "n_sources": 6,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/48904d4/2147483647/strip/true/crop/2999x1687+0+47/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/5c89873/2147483647/strip/true/crop/3000x1689+0+156/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/ea6a553/2147483647/strip/true/crop/1200x672+0+0/resize/1440x806!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F08%2Fmiss-universo-nuevas-reglas.png",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/28a2da4/2147483647/strip/true/crop/1200x674+0+0/resize/1440x809!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Fe9%2Fd42d04fa4141ba5f92bba45da342%2Fsheynnis-palacios-miss-universo.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/740d35e/2147483647/strip/true/crop/1216x1504+0+0/resize/1440x1781!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F89%2F3c03b4f94bee9296f6347bc36f88%2Fsaveclip-app-849134596-17949561768342015-2813761726959110956-n.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/5ed1d35/2147483647/strip/true/crop/3000x2000+0+0/resize/1440x960!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F9a%2Fd845025346c38bf2d139745ff493%2Fmiss-universo-corona-2026.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/ea28cb3/2147483647/strip/true/crop/1200x650+0+0/resize/1440x780!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2018%2F05%2FMiss-Universo-2015-sin-gota-de-maquillaje.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/a32e7e7/2147483647/strip/true/crop/3000x1689+0+156/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/aeda4f0/2147483647/strip/true/crop/1200x672+0+0/resize/2880x1612!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F08%2Fmiss-universo-nuevas-reglas.png",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/43b2687/2147483647/strip/true/crop/1200x674+0+0/resize/2880x1618!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Fe9%2Fd42d04fa4141ba5f92bba45da342%2Fsheynnis-palacios-miss-universo.jpg",
+     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
+     "via": "Revista Caras México",
+     "credit": "Revista Caras México"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.38HfO-IUDndwF4EHKh3blg&pid=News",
+     "page": "https://elpitazo.net/espectaculos/clara-vegas-busca-la-octava-corona-del-miss-universo-donde-ver-el-certamen-desde-venezuela/",
+     "via": "Bing (miniatura)",
+     "credit": "El Pitazo"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/fe/ffef746c-43f6-4dc1-bce7-381f9de8c846/6afd935639bc8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/8/cc/8cc50608-7c4a-42da-83c1-2f0f7c6881d2/6af9fdafb8484.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/3/7f/37ff5867-2efa-4a87-bfcb-08e0fde48ac0/68cd9f353ecf3.image.jpg?crop=1258%2C1258%2C194%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/24/f24a71bf-bd1d-4899-b256-d23810f58f8e/6aed0a1f48653.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/0/cc/0cc21700-b89d-11ef-bee3-53c21bd5d967/675b001171b6c.image.png?crop=978%2C978%2C340%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/a/1d/a1d37fa9-f223-4c16-9b1e-47599fdae212/6afdedd5309df.image.jpg?crop=957%2C957%2C289%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/4/a2/4a24e6e0-2282-4c73-8313-7a6f42e8f13a/64f1fcbcd0fdd.image.jpg?crop=683%2C683%2C170%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/6/9e/69ebc2b4-01be-11ef-bda0-e33e1c3f5b40/6628326552a81.image.jpg?crop=554%2C554%2C215%2C0&resize=400%2C400&order=crop%2Cresize",
+     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
+     "via": "El Vocero de Puerto Rico",
+     "credit": "El Vocero de Puerto Rico"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [],
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 18
+  },
+  {
    "key": "t:mu:Trajes típicos:2026-11-18",
    "id": "t-mu-trajes-tipicos-2026-11-18-79dd4",
    "name": "Trajes típicos · 18–20 nov",
    "contest": "mu",
    "kind": "detectado",
    "labels": [
-    "Preliminar",
     "Trajes típicos"
    ],
    "desc": null,
@@ -478,309 +906,6 @@
    "score": 28
   },
   {
-   "key": "t:mu:Traje de baño:2026-11-18",
-   "id": "t-mu-traje-de-bano-2026-11-18-f1f71",
-   "name": "Traje de baño · 18–20 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Traje de baño"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
-   "start": "2026-11-18T10:14:00+00:00",
-   "last_activity": "2026-11-19T14:13:49+00:00",
-   "item_ids": [
-    "967a2fbdae6575",
-    "62daec4b9e8652",
-    "9746670e886f83",
-    "d586be74cea1d3",
-    "f1e1ff59cf6d51"
-   ],
-   "sources": [
-    "El Nortero",
-    "El Nuevo Día",
-    "Infobae",
-    "Yahoo",
-    "news.com.au"
-   ],
-   "n_items": 5,
-   "n_sources": 5,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.5aLmL_ib3nraLq3Xf9Z8gA&pid=News",
-     "page": "https://www.news.com.au/lifestyle/fashion/fashion-shows/miss-universe-2026-contestants-stumble-along-makeshift-beach-runaway-in-worrying-video/news-story/55150af86d8172d4dcc04894de1c56cb",
-     "via": "Bing (miniatura)",
-     "credit": "news.com.au"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/866074c6d5e8404114e1f49c014a77d3cd1a1617916ec893e639d267239f41df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/911ae41b1e8f90f27ce3daab1bddbd73d4118ba73c394e407580edc8ae929727/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/8f3c9d64d8aa8adf0c25a35eea0854b538d382ba16507aa806e50c432828e7fb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fcf9fd1ec773db0d725f677a31a11b944.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/0384d025b3a7002dbdd70601e91d7370dc5d7debd73d48d4f20e04ca2f758d23/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Ffd439e0d3d322285e66fe9c27b4a3b7f.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DftNmIYDUc8"
-   ],
-   "image_query": "Miss Universe 2026 swimsuit",
-   "extra_images": [
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    }
-   ],
-   "extra_at": "2026-11-19T14:18:49.214794+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-19T13:54:48.702622+00:00",
-     "url": "https://www.instagram.com/p/DftNmIYDUc8",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 15
-  },
-  {
-   "key": "t:mu:Gala / cena:2026-11-18",
-   "id": "t-mu-gala-cena-2026-11-18-77fee",
-   "name": "Gala / cena · 18–20 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-19T01:51:19.588959+00:00",
-   "start": "2026-11-18T00:15:00+00:00",
-   "last_activity": "2026-11-19T14:13:49+00:00",
-   "item_ids": [
-    "967a2fbdae6575",
-    "ee2c47dc60521b",
-    "3816e48aa86b8f",
-    "cbdbdf09a0e54c",
-    "83202215dedd4d"
-   ],
-   "sources": [
-    "El Nortero",
-    "El Pitazo",
-    "El Vocero de Puerto Rico",
-    "La Nación",
-    "Revista Caras México"
-   ],
-   "n_items": 5,
-   "n_sources": 5,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/48904d4/2147483647/strip/true/crop/2999x1687+0+47/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/5c89873/2147483647/strip/true/crop/3000x1689+0+156/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/ea6a553/2147483647/strip/true/crop/1200x672+0+0/resize/1440x806!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F08%2Fmiss-universo-nuevas-reglas.png",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/28a2da4/2147483647/strip/true/crop/1200x674+0+0/resize/1440x809!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Fe9%2Fd42d04fa4141ba5f92bba45da342%2Fsheynnis-palacios-miss-universo.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/740d35e/2147483647/strip/true/crop/1216x1504+0+0/resize/1440x1781!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F97%2F89%2F3c03b4f94bee9296f6347bc36f88%2Fsaveclip-app-849134596-17949561768342015-2813761726959110956-n.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/5ed1d35/2147483647/strip/true/crop/3000x2000+0+0/resize/1440x960!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F45%2F9a%2Fd845025346c38bf2d139745ff493%2Fmiss-universo-corona-2026.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/ea28cb3/2147483647/strip/true/crop/1200x650+0+0/resize/1440x780!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2018%2F05%2FMiss-Universo-2015-sin-gota-de-maquillaje.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/a32e7e7/2147483647/strip/true/crop/3000x1689+0+156/resize/2000x1126!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fe2%2Fb7%2F839009924b438a4c23ad0fe4e929%2Fmiss-universo-cuando-es-donde-ver-y-mas.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/aeda4f0/2147483647/strip/true/crop/1200x672+0+0/resize/2880x1612!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F08%2Fmiss-universo-nuevas-reglas.png",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://editorialtelevisa.brightspotcdn.com/dims4/default/43b2687/2147483647/strip/true/crop/1200x674+0+0/resize/2880x1618!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.us-east-1.amazonaws.com%2Fbrightspot%2F96%2Fe9%2Fd42d04fa4141ba5f92bba45da342%2Fsheynnis-palacios-miss-universo.jpg",
-     "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
-     "via": "Revista Caras México",
-     "credit": "Revista Caras México"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.38HfO-IUDndwF4EHKh3blg&pid=News",
-     "page": "https://elpitazo.net/espectaculos/clara-vegas-busca-la-octava-corona-del-miss-universo-donde-ver-el-certamen-desde-venezuela/",
-     "via": "Bing (miniatura)",
-     "credit": "El Pitazo"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/fe/ffef746c-43f6-4dc1-bce7-381f9de8c846/6afd935639bc8.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/8/cc/8cc50608-7c4a-42da-83c1-2f0f7c6881d2/6af9fdafb8484.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/3/7f/37ff5867-2efa-4a87-bfcb-08e0fde48ac0/68cd9f353ecf3.image.jpg?crop=1258%2C1258%2C194%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/24/f24a71bf-bd1d-4899-b256-d23810f58f8e/6aed0a1f48653.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/0/cc/0cc21700-b89d-11ef-bee3-53c21bd5d967/675b001171b6c.image.png?crop=978%2C978%2C340%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/a/1d/a1d37fa9-f223-4c16-9b1e-47599fdae212/6afdedd5309df.image.jpg?crop=957%2C957%2C289%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/4/a2/4a24e6e0-2282-4c73-8313-7a6f42e8f13a/64f1fcbcd0fdd.image.jpg?crop=683%2C683%2C170%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/6/9e/69ebc2b4-01be-11ef-bda0-e33e1c3f5b40/6628326552a81.image.jpg?crop=554%2C554%2C215%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/el-radar-de-las-reinas-se-despide-con-un-ltimo-an-lisis-de-miss-universe/article_cbeb88a7-2f57-4b6b-a0e4-bb1026483fd6.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [],
-   "extra_at": "2026-11-19T14:18:49.214794+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 15
-  },
-  {
    "key": "p:fukushima tour",
    "id": "p-fukushima-tour-a7fab",
    "name": "Fukushima Tour",
@@ -811,7 +936,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 3031,
+     "views": 3043,
      "likes": 46,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -820,7 +945,7 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 11,
+     "views": 16,
      "likes": 3,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
@@ -829,13 +954,13 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 8,
-     "likes": 1,
+     "views": 14,
+     "likes": 2,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
     }
    ],
-   "views_total": 3050,
+   "views_total": 3073,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -963,7 +1088,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 3031,
+     "views": 3043,
      "likes": 46,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -972,13 +1097,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 11,
+     "views": 16,
      "likes": 3,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 3042,
+   "views_total": 3059,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/fxghMlMmoj0/maxresdefault.jpg",
@@ -1324,7 +1449,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 749599,
+     "views": 749271,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -1333,7 +1458,7 @@
      "vid": "pGGyoBglgfA",
      "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
      "channel": "The Crowning Quest",
-     "views": 112861,
+     "views": 113317,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1341,23 +1466,15 @@
      "vid": "3vH1NJFBN9g",
      "title": "Miss Universe 2026: Runway to the Universe! 👠 My TOP 25, SCORES & UNFILTERED OPINIONS 😬",
      "channel": "Luis Portelles",
-     "views": 73822,
-     "ago": "hace 1 día",
-     "official": false
-    },
-    {
-     "vid": "IkSy-bS-uIY",
-     "title": "Miss Universe 2026 runway to the universe full show ",
-     "channel": "Ron Nasis",
-     "views": 61363,
+     "views": 73907,
      "ago": "hace 1 día",
      "official": false
     },
     {
      "vid": "l7AdYdV14UQ",
-     "title": "¡Runway to the Universe SACUDIÓ la competencia! | Miss Universe 2026",
+     "title": "Runway to the Universe SHOOK the competition! | Miss Universe 2026",
      "channel": "Jeremy Valentín",
-     "views": 54937,
+     "views": 54981,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1365,23 +1482,15 @@
      "vid": "DiAKzUWOe5U",
      "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
      "channel": "Miss Universe Predictions",
-     "views": 44244,
+     "views": 44414,
      "ago": "hace 1 día",
-     "official": false
-    },
-    {
-     "vid": "eL7T_nCTIII",
-     "title": "Las más DESTACADAS en \"Runway to the Universe\" | Miss Universe 2026",
-     "channel": "LENTE DE REINA",
-     "views": 12604,
-     "ago": "hace 21 h",
      "official": false
     },
     {
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 11631,
+     "views": 11651,
      "ago": "hace 16 h",
      "official": false
     },
@@ -1389,29 +1498,21 @@
      "vid": "gjs7fY6Bi58",
      "title": "Las candidatas de Miss Universo 2026 en el desfile de modas Runway to the Universe | LHDE | Ecuavisa",
      "channel": "Ecuavisa Entretenimiento",
-     "views": 6837,
-     "ago": "hace 15 h",
-     "official": false
-    },
-    {
-     "vid": "yxFTx6pYrNc",
-     "title": "Las candidatas de Miss Universo 2026 en el desfile de modas Runway to the Universe | LHDE | Ecuavisa",
-     "channel": "Ecuavisa",
-     "views": 5432,
-     "ago": "hace 15 h",
+     "views": 6890,
+     "ago": "hace 16 h",
      "official": false
     },
     {
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3005,
+     "views": 2905,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1136335,
+   "views_total": 1057336,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -1428,6 +1529,13 @@
      "credit": "Miss Universe"
     },
     {
+     "url": "https://i.ytimg.com/vi/l7AdYdV14UQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/l7AdYdV14UQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=l7AdYdV14UQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Jeremy Valentín"
+    },
+    {
      "url": "https://i.ytimg.com/vi/qX1D-se65yc/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/qX1D-se65yc/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=qX1D-se65yc",
@@ -1442,13 +1550,6 @@
      "credit": "Ecuavisa Entretenimiento"
     },
     {
-     "url": "https://i.ytimg.com/vi/3vH1NJFBN9g/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/3vH1NJFBN9g/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=3vH1NJFBN9g",
-     "via": "YouTube (miniatura)",
-     "credit": "Luis Portelles"
-    },
-    {
      "url": "https://i.ytimg.com/vi/DiAKzUWOe5U/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/DiAKzUWOe5U/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=DiAKzUWOe5U",
@@ -1456,25 +1557,11 @@
      "credit": "Miss Universe Predictions"
     },
     {
-     "url": "https://i.ytimg.com/vi/l7AdYdV14UQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/l7AdYdV14UQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=l7AdYdV14UQ",
+     "url": "https://i.ytimg.com/vi/3vH1NJFBN9g/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/3vH1NJFBN9g/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=3vH1NJFBN9g",
      "via": "YouTube (miniatura)",
-     "credit": "Jeremy Valentín"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eL7T_nCTIII/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eL7T_nCTIII/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eL7T_nCTIII",
-     "via": "YouTube (miniatura)",
-     "credit": "LENTE DE REINA"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/yxFTx6pYrNc/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/yxFTx6pYrNc/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=yxFTx6pYrNc",
-     "via": "YouTube (miniatura)",
-     "credit": "Ecuavisa"
+     "credit": "Luis Portelles"
     },
     {
      "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
@@ -1482,13 +1569,6 @@
      "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
      "via": "YouTube (miniatura)",
      "credit": "The Crowning Quest"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/IkSy-bS-uIY/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=IkSy-bS-uIY",
-     "via": "YouTube (miniatura)",
-     "credit": "Ron Nasis"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.5GkADKtGlOop_2Y0Mg3ouA&pid=News",
@@ -1663,6 +1743,24 @@
      "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
      "via": "Vistazo",
      "credit": "Vistazo"
+    },
+    {
+     "url": "https://www.vistazo.com/binrepository/300x200/0c0/300d169/none/12727/UAXD/imagen-1200-x-800-px-2026-10-20t0_2774253_20261118204355.jpg",
+     "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
+     "via": "Vistazo",
+     "credit": "Vistazo"
+    },
+    {
+     "url": "https://www.vistazo.com/binrepository/300x200/0c16/300d169/none/12727/WYAH/f30842b772d5fb0f2f273627fed97036_2774218_20261118172826.jpg",
+     "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
+     "via": "Vistazo",
+     "credit": "Vistazo"
+    },
+    {
+     "url": "https://www.vistazo.com/binrepository/300x200/0c19/300d169/none/12727/HHTJ/registro-nacional-universidades-institutos-p_2774209_20261118170355.jpg",
+     "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
+     "via": "Vistazo",
+     "credit": "Vistazo"
     }
    ],
    "social_urls": [
@@ -1761,7 +1859,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 120
+   "score": 116
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -1806,13 +1904,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 44740,
+     "views": 44679,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 44740,
+   "views_total": 44679,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -1966,7 +2064,7 @@
      "vid": "EAP7hbK-uzg",
      "title": "Miss Universe 2026 - Top 30 Máximas en Votacones Oficiales",
      "channel": "MissoLatino",
-     "views": 7971,
+     "views": 7987,
      "ago": "Transmitido hace 23 h",
      "official": false
     },
@@ -1974,7 +2072,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 7959,
+     "views": 7891,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1983,13 +2081,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 3727,
+     "views": 3677,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 19657,
+   "views_total": 19555,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -2150,13 +2248,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3005,
+     "views": 2905,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 3005,
+   "views_total": 2905,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -2296,13 +2394,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3005,
+     "views": 2905,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 3005,
+   "views_total": 2905,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -2657,7 +2755,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 250377,
+     "views": 250401,
      "ago": "Transmitido hace 5 días",
      "official": false
     },
@@ -2665,7 +2763,7 @@
      "vid": "iHSFTFpuTZ4",
      "title": "Top 15 - Preliminary Competition:  Swimsuit",
      "channel": "Miss Universe",
-     "views": 14756,
+     "views": 14755,
      "likes": 113,
      "published": "2026-11-15T04:04:17+00:00",
      "official": true
@@ -2674,13 +2772,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 10339,
+     "views": 10327,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 275472,
+   "views_total": 275483,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -2707,7 +2805,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-19T14:18:49.214794+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3010,13 +3108,13 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 3031,
+     "views": 3043,
      "likes": 46,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
     }
    ],
-   "views_total": 3031,
+   "views_total": 3043,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/DAfSFkeXy5g/maxresdefault.jpg",
@@ -3251,7 +3349,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-19T11:22:48.634606+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3397,7 +3495,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-19T11:22:48.634606+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "social": [
     {
      "fetched": "2026-11-19T13:54:48.702622+00:00",
@@ -3612,7 +3710,7 @@
      "credit": "West China Missions Advisory Board"
     }
    ],
-   "extra_at": "2026-11-19T11:22:48.634606+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3671,7 +3769,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 3345,
+     "views": 3348,
      "ago": "hace 1 día",
      "official": false
     },
@@ -3684,7 +3782,7 @@
      "official": false
     }
    ],
-   "views_total": 26494,
+   "views_total": 26497,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -3930,7 +4028,7 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 13804,
+     "views": 13840,
      "likes": 72,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
@@ -3939,7 +4037,7 @@
      "vid": "WwCTRgNGa8I",
      "title": "MALTA | Beauties for SDGs | Miss International 2026 | Nikole Buhagiar",
      "channel": "Miss International",
-     "views": 11238,
+     "views": 11369,
      "likes": 59,
      "published": "2026-11-16T12:57:17+00:00",
      "official": true
@@ -3948,13 +4046,13 @@
      "vid": "vCPs9M4RE20",
      "title": "BELGIUM | Beauties for SDGs | Miss International 2026 | Gioia can de Voorde",
      "channel": "Miss International",
-     "views": 6059,
+     "views": 6066,
      "likes": 34,
      "published": "2026-11-16T12:46:39+00:00",
      "official": true
     }
    ],
-   "views_total": 31101,
+   "views_total": 31275,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -4002,102 +4100,95 @@
      "credit": "Pulzo"
     },
     {
-     "url": "https://safetydepot.com.mx/cdn/shop/files/767PLUSNUEVA_1024x.png?v=1698189183",
-     "page": "https://safetydepot.com.mx/collections/calzado-de-seguridad-para-mujer",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9604.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "safetydepot.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.0LOtmWs4SkZwSAurc4mGXwHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Xa2W3cjO0_McEBEY41d8hAHaE8&pid=15.1"
     },
     {
-     "url": "https://cdnx.jumpseller.com/prosec-chile/image/31947104/resize/1200/1200?1684855778",
-     "page": "https://tiendaprosec.cl/zapato-de-seguridad-sherpas-406",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9547.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "tiendaprosec.cl",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.t21eZm9Ubo6RzCqrDV6OdgHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WOK_fj6doYpzpmI9sWjjhgHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/7c5ca040-d892-4fd6-86a1-02e70c69122b.89b4b14de3214c7bb993b0ed28acb868.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
-     "page": "https://www.walmart.com.mx/ip/zapatos-para-hombre/botas-de-seguridad-industrial-zapatos-punta-de-acero-ingco-borcegui/00069814292015",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9632.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.q9ATaednhHzieevbnNqDyAHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.u3rkeOaeEMj7fRS7ZhEdDwHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/ee92fc51-7d99-4a13-9e9e-943da5eb8ba3.bb2ba2f045a4b60da30ab244acecf243.jpeg",
-     "page": "https://www.bodegaaurrera.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-ergonomico-y-comodo-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2957-dh-wsm-2957dhcfe310/00750634610076",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_dscf2672.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "bodegaaurrera.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.goc4183dHssjMevPTHGJrQHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.30y9srgpHBHYIqVSkpkz4wHaE8&pid=15.1"
     },
     {
-     "url": "https://static.wixstatic.com/media/aed349_7bc446725898494fa464df1a4da3aa84~mv2.png/v1/fill/w_900,h_900,al_c,q_90,enc_auto/aed349_7bc446725898494fa464df1a4da3aa84~mv2.png",
-     "page": "https://www.enersafety.com.mx/calzado-de-seguridad-industrial",
+     "url": "https://iili.io/Bn49haR.jpg",
+     "page": "https://www.foroelitebeauties.com/t30853-miss-international-2026-final-25-nov",
      "via": "Bing Imágenes",
-     "credit": "enersafety.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.SDdcVwIrtBSEWySTQX41dAHaHa&pid=15.1"
+     "credit": "foroelitebeauties.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.pz0d3ZXhgcfEPmd5G32jxgHaI6&pid=15.1"
     },
     {
-     "url": "https://tresleones.com.mx/cdn/shop/files/1_904d0d95-00cc-498a-941a-ce1ad87a2ee5.png?v=1760034571&width={width}",
-     "page": "https://tresleones.com.mx/collections/riverline",
+     "url": "https://www.tiktok.com/api/img/?itemId=7707626365339585798&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@missinternational.ica/video/7707626365339585798",
      "via": "Bing Imágenes",
-     "credit": "tresleones.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.3hwKjb0YLqj3zKZtdrp1qwHaHa&pid=15.1"
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.PJZug5Wo4IkUJph8BThBjQ&pid=15.1"
     },
     {
-     "url": "https://dinorank.com/img/dinobrain/77516/imagenf61db50def86112252646ce1def03bae.jpg",
-     "page": "https://ropadetrabajoindustrial.com/normativas-para-el-calzado-de-seguridad-industrial/",
+     "url": "https://entertainment.inquirer.net/files/2026/11/Katrina-Japan-1-scaled.jpg",
+     "page": "https://entertainment.inquirer.net/689998/katrina-anne-johnson-bags-early-win-at-miss-international-2026-in-japan",
      "via": "Bing Imágenes",
-     "credit": "ropadetrabajoindustrial.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.t5ndTREa0lbZTR-f9nZxuQHaDt&pid=15.1"
+     "credit": "entertainment.inquirer.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.nHVaEbtTLLfd%2fLF86cnDkw&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/ab1b40a4-5b74-4752-a578-10b5691e1203.2b135fabe2d3bf2e65db7bad14fbcc25.jpeg",
-     "page": "https://www.walmart.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2938-mt-wsm-2938mtngo300/00750634610324",
+     "url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-i-photomode-sg/7ab7520c952843f2b6a806eee3c56793~tplv-photomode-image.jpeg?dr=9616&x-expires=1779868800&x-signature=ENFzyy1pQmu5%2B7gh0ugmQJSC%2B9M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+     "page": "https://www.tiktok.com/@fchgallery/photo/7636005425334324498",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.MoYTnWsw-QtLJRXkhgy68QHaHa&pid=15.1"
+     "credit": "tiktok.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ks7ptANoH2y3n11_aO5nUQHaJQ&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/8d7270a7-5d8e-471c-8d9a-0b1bc2a0143f.b5e92b2e49fa80261cd507916829df90.jpeg",
-     "page": "https://www.walmart.com.mx/ip/zapato-de-seguridad-wsm-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2958-mh-wsm-2958mhngo230/00750634610140",
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA203Pc8.img?w=1200&h=630&m=4&q=100",
+     "page": "https://www.msn.com/en-ph/news/other/miss-international-2026-coronation-night-set-on-nov-25/ar-AA2047am",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.wq8bC3D7kVIJ5Ii_ghKsOQHaHa&pid=15.1"
+     "credit": "msn.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ckB8HTB7Zc7-q4aGPAw0LQHaD4&pid=15.1"
     },
     {
-     "url": "http://www.prolaboral.com/modules/dbblog/views/img/post/calzado-normativa.png",
-     "page": "https://www.prolaboral.com/es/blog/actualizacion-cambios-en-la-normativa-en-iso-20345-sobre-el-calzado-de-seguridad.html",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251112arrival013.jpg",
+     "page": "https://www.miss-international.org/en/photo-gallery/list.php?pg=1&yyyy=2025",
      "via": "Bing Imágenes",
-     "credit": "prolaboral.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.M2EdnTFTNzyS36V1sytTagHaD4&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lToMxHJVLgJ7cIJnzyP8XwHaE8&pid=15.1"
     },
     {
-     "url": "https://clickhouse.cl/cdn/shop/articles/zapatos_de_seguridad.webp?v=1748835810",
-     "page": "https://clickhouse.cl/blogs/seguridad/que-caracteristicas-deben-tener-los-zapatos-de-seguridad-certificados-en-chile",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251112arrival011.jpg",
+     "page": "https://www.miss-international.org/photo-gallery/list.php?pg=1&yyyy=2025",
      "via": "Bing Imágenes",
-     "credit": "clickhouse.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Z6uKzLx9t-p5a9UnwnKF2AHaEI&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-zTNmdIKuFm9KFrwWwA19QHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/a1f135d4-8922-4a5b-89f4-36b92c9b86ac.6bc1c661a778e7462195889936dda75e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
-     "page": "https://www.bodegaaurrera.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-tipo-tenis-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2959-mt-wsm-2959mtngo280/00750634610462",
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1443654804435743",
+     "page": "https://www.facebook.com/world.of.beauty.pageants2/photos/miss-intercontinental-2026-gains-momentum-️-proudly-presents-its-pre-arrival-pre/1443654804435743/",
      "via": "Bing Imágenes",
-     "credit": "bodegaaurrera.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.6GxVb4X_D_vkCqv0RYjRpAHaHa&pid=15.1"
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.H8r_beAhr7hB269DWkFwdQHaJQ&pid=15.1"
     },
     {
-     "url": "https://assets.altaventa.cl/sherpa/9329a51a-894b-11ee-be25-af1a244587eb.jpeg",
-     "page": "https://sherpalife.cl/calzado-seguridad-terrain/218650",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121businessforum_mjd_8462.jpg",
+     "page": "https://www.miss-international.org/en/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "sherpalife.cl",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.al80zhZOA_5d2YuRwo4lqQHaGX&pid=15.1"
-    },
-    {
-     "url": "https://safetystore.cl/cdn/shop/files/ed-202-costado-1-1000x1000-e140bdc7-15cd-4bb9-9bbe-b43d906d8f0e-8c1f44b3-50ec-46d3-9fda-68161cc93745_d2ccb849-23e3-4be2-b264-f4b19d2219d6.jpg?v=1735924864",
-     "page": "https://safetystore.cl/collections/todo-calzado-de-seguridad",
-     "via": "Bing Imágenes",
-     "credit": "safetystore.cl",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.LM3cP6vqe2zJvCp5-7u4IAHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.YRZtpRZICk_JET2ADO-WjwHaE8&pid=15.1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4146,102 +4237,102 @@
    "image_query": "Miss International 2026 charity visit",
    "extra_images": [
     {
-     "url": "https://safetydepot.com.mx/cdn/shop/files/767PLUSNUEVA_1024x.png?v=1698189183",
-     "page": "https://safetydepot.com.mx/collections/calzado-de-seguridad-para-mujer",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9604.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "safetydepot.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.0LOtmWs4SkZwSAurc4mGXwHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Xa2W3cjO0_McEBEY41d8hAHaE8&pid=15.1"
     },
     {
-     "url": "https://cdnx.jumpseller.com/prosec-chile/image/31947104/resize/1200/1200?1684855778",
-     "page": "https://tiendaprosec.cl/zapato-de-seguridad-sherpas-406",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9547.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "tiendaprosec.cl",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.t21eZm9Ubo6RzCqrDV6OdgHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WOK_fj6doYpzpmI9sWjjhgHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/7c5ca040-d892-4fd6-86a1-02e70c69122b.89b4b14de3214c7bb993b0ed28acb868.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
-     "page": "https://www.walmart.com.mx/ip/zapatos-para-hombre/botas-de-seguridad-industrial-zapatos-punta-de-acero-ingco-borcegui/00069814292015",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_mjd_9632.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.q9ATaednhHzieevbnNqDyAHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.u3rkeOaeEMj7fRS7ZhEdDwHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/ee92fc51-7d99-4a13-9e9e-943da5eb8ba3.bb2ba2f045a4b60da30ab244acecf243.jpeg",
-     "page": "https://www.bodegaaurrera.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-ergonomico-y-comodo-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2957-dh-wsm-2957dhcfe310/00750634610076",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121charitygala_dscf2672.jpg",
+     "page": "https://miss-international.org/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "bodegaaurrera.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.goc4183dHssjMevPTHGJrQHaHa&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.30y9srgpHBHYIqVSkpkz4wHaE8&pid=15.1"
     },
     {
-     "url": "https://static.wixstatic.com/media/aed349_7bc446725898494fa464df1a4da3aa84~mv2.png/v1/fill/w_900,h_900,al_c,q_90,enc_auto/aed349_7bc446725898494fa464df1a4da3aa84~mv2.png",
-     "page": "https://www.enersafety.com.mx/calzado-de-seguridad-industrial",
+     "url": "https://iili.io/Bn49haR.jpg",
+     "page": "https://www.foroelitebeauties.com/t30853-miss-international-2026-final-25-nov",
      "via": "Bing Imágenes",
-     "credit": "enersafety.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.SDdcVwIrtBSEWySTQX41dAHaHa&pid=15.1"
+     "credit": "foroelitebeauties.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.pz0d3ZXhgcfEPmd5G32jxgHaI6&pid=15.1"
     },
     {
-     "url": "https://tresleones.com.mx/cdn/shop/files/1_904d0d95-00cc-498a-941a-ce1ad87a2ee5.png?v=1760034571&width={width}",
-     "page": "https://tresleones.com.mx/collections/riverline",
+     "url": "https://www.tiktok.com/api/img/?itemId=7707626365339585798&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@missinternational.ica/video/7707626365339585798",
      "via": "Bing Imágenes",
-     "credit": "tresleones.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.3hwKjb0YLqj3zKZtdrp1qwHaHa&pid=15.1"
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.PJZug5Wo4IkUJph8BThBjQ&pid=15.1"
     },
     {
-     "url": "https://dinorank.com/img/dinobrain/77516/imagenf61db50def86112252646ce1def03bae.jpg",
-     "page": "https://ropadetrabajoindustrial.com/normativas-para-el-calzado-de-seguridad-industrial/",
+     "url": "https://entertainment.inquirer.net/files/2026/11/Katrina-Japan-1-scaled.jpg",
+     "page": "https://entertainment.inquirer.net/689998/katrina-anne-johnson-bags-early-win-at-miss-international-2026-in-japan",
      "via": "Bing Imágenes",
-     "credit": "ropadetrabajoindustrial.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.t5ndTREa0lbZTR-f9nZxuQHaDt&pid=15.1"
+     "credit": "entertainment.inquirer.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.nHVaEbtTLLfd%2fLF86cnDkw&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/ab1b40a4-5b74-4752-a578-10b5691e1203.2b135fabe2d3bf2e65db7bad14fbcc25.jpeg",
-     "page": "https://www.walmart.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2938-mt-wsm-2938mtngo300/00750634610324",
+     "url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-i-photomode-sg/7ab7520c952843f2b6a806eee3c56793~tplv-photomode-image.jpeg?dr=9616&x-expires=1779868800&x-signature=ENFzyy1pQmu5%2B7gh0ugmQJSC%2B9M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=9b759fb9&idc=useast5&ftpl=1",
+     "page": "https://www.tiktok.com/@fchgallery/photo/7636005425334324498",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.MoYTnWsw-QtLJRXkhgy68QHaHa&pid=15.1"
+     "credit": "tiktok.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ks7ptANoH2y3n11_aO5nUQHaJQ&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com/asr/8d7270a7-5d8e-471c-8d9a-0b1bc2a0143f.b5e92b2e49fa80261cd507916829df90.jpeg",
-     "page": "https://www.walmart.com.mx/ip/zapato-de-seguridad-wsm-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2958-mh-wsm-2958mhngo230/00750634610140",
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA203Pc8.img?w=1200&h=630&m=4&q=100",
+     "page": "https://www.msn.com/en-ph/news/other/miss-international-2026-coronation-night-set-on-nov-25/ar-AA2047am",
      "via": "Bing Imágenes",
-     "credit": "walmart.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.wq8bC3D7kVIJ5Ii_ghKsOQHaHa&pid=15.1"
+     "credit": "msn.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ckB8HTB7Zc7-q4aGPAw0LQHaD4&pid=15.1"
     },
     {
-     "url": "http://www.prolaboral.com/modules/dbblog/views/img/post/calzado-normativa.png",
-     "page": "https://www.prolaboral.com/es/blog/actualizacion-cambios-en-la-normativa-en-iso-20345-sobre-el-calzado-de-seguridad.html",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251112arrival013.jpg",
+     "page": "https://www.miss-international.org/en/photo-gallery/list.php?pg=1&yyyy=2025",
      "via": "Bing Imágenes",
-     "credit": "prolaboral.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.M2EdnTFTNzyS36V1sytTagHaD4&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lToMxHJVLgJ7cIJnzyP8XwHaE8&pid=15.1"
     },
     {
-     "url": "https://clickhouse.cl/cdn/shop/articles/zapatos_de_seguridad.webp?v=1748835810",
-     "page": "https://clickhouse.cl/blogs/seguridad/que-caracteristicas-deben-tener-los-zapatos-de-seguridad-certificados-en-chile",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251112arrival011.jpg",
+     "page": "https://www.miss-international.org/photo-gallery/list.php?pg=1&yyyy=2025",
      "via": "Bing Imágenes",
-     "credit": "clickhouse.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Z6uKzLx9t-p5a9UnwnKF2AHaEI&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-zTNmdIKuFm9KFrwWwA19QHaE8&pid=15.1"
     },
     {
-     "url": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/a1f135d4-8922-4a5b-89f4-36b92c9b86ac.6bc1c661a778e7462195889936dda75e.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
-     "page": "https://www.bodegaaurrera.com.mx/ip/seguridad-industrial/zapato-de-seguridad-wsm-tipo-tenis-ergonomico-y-muy-ligero-con-casquillo-de-policarbonato-bota-industrial-y-multifuncional-es-un-calzado-de-trabajo-dielectrico-y-antiderrapante-est-2959-mt-wsm-2959mtngo280/00750634610462",
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1443654804435743",
+     "page": "https://www.facebook.com/world.of.beauty.pageants2/photos/miss-intercontinental-2026-gains-momentum-️-proudly-presents-its-pre-arrival-pre/1443654804435743/",
      "via": "Bing Imágenes",
-     "credit": "bodegaaurrera.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.6GxVb4X_D_vkCqv0RYjRpAHaHa&pid=15.1"
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.H8r_beAhr7hB269DWkFwdQHaJQ&pid=15.1"
     },
     {
-     "url": "https://assets.altaventa.cl/sherpa/9329a51a-894b-11ee-be25-af1a244587eb.jpeg",
-     "page": "https://sherpalife.cl/calzado-seguridad-terrain/218650",
+     "url": "https://www.miss-international.org/upimg/world/photo/20251121businessforum_mjd_8462.jpg",
+     "page": "https://www.miss-international.org/en/photo-gallery/",
      "via": "Bing Imágenes",
-     "credit": "sherpalife.cl",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.al80zhZOA_5d2YuRwo4lqQHaGX&pid=15.1"
+     "credit": "miss-international.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.YRZtpRZICk_JET2ADO-WjwHaE8&pid=15.1"
     },
     {
-     "url": "https://safetystore.cl/cdn/shop/files/ed-202-costado-1-1000x1000-e140bdc7-15cd-4bb9-9bbe-b43d906d8f0e-8c1f44b3-50ec-46d3-9fda-68161cc93745_d2ccb849-23e3-4be2-b264-f4b19d2219d6.jpg?v=1735924864",
-     "page": "https://safetystore.cl/collections/todo-calzado-de-seguridad",
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1448236123977611",
+     "page": "https://www.facebook.com/world.of.beauty.pageants2/photos/-miss-intercontinental-2026-third-hotpicks-as-the-miss-intercontinental-2026-com/1448236123977611/",
      "via": "Bing Imágenes",
-     "credit": "safetystore.cl",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.LM3cP6vqe2zJvCp5-7u4IAHaHa&pid=15.1"
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.IxL1jBac00lng4o8qQsIrQHaJQ&pid=15.1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4286,7 +4377,7 @@
      "credit": "Creator:Blanche Watson"
     }
    ],
-   "extra_at": "2026-11-19T11:22:48.634606+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4650,7 +4741,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4663,7 +4754,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-19T14:18:49.214794+00:00",
+   "extra_at": "2026-11-19T14:26:48.748204+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4683,7 +4774,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4732,7 +4823,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5022,7 +5113,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5380,7 +5471,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T14:18:49.214794+00:00",
+   "first_seen": "2026-11-19T14:26:48.748204+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
