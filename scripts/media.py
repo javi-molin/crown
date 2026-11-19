@@ -441,11 +441,11 @@ def run(mod, contestants, deadline_s=200):
         U.note("Galería · missuniverseorg.com (oficial)", True, asg, err=f"{nf} imágenes encontradas en {G['muorg_diag']['paginas']} páginas")
     except Exception as e:
         U.note("Galería · missuniverseorg.com (oficial)", False, err=repr(e)[:200])
-    # YouTube por candidata (rotación: 8 por corrida)
+    # YouTube por candidata (rotación: 12 por corrida)
     ytc = G.setdefault("ytc", {})
     order = sorted(cs, key=lambda c: (ytc.get(c["contest"] + "|" + c["country"], {}).get("fetched", ""), prio(c)))
     ny = 0
-    for c in order[:8]:
+    for c in order[:12]:
         k = c["contest"] + "|" + c["country"]
         base = {"mu": "Miss Universe 2026", "mi": "Miss International 2026"}.get(c["contest"], "")
         try:
