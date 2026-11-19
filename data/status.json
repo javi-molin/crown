@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T06:50:38.836416+00:00",
+ "run_at": "2026-11-19T06:58:38.409560+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,13 +40,13 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 29,
+   "items": 30,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 96,
+   "items": 89,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 56,
+   "items": 57,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -178,19 +178,19 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -298,8 +298,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
-   "error": "19 cuentas sincronizadas en total · 1 candidatas · 16 organizaciones"
+   "items": 15,
+   "error": "20 cuentas sincronizadas en total · 1 candidatas · 17 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -311,13 +311,13 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 1,
-   "error": "12 usuarios probados en esta vuelta · 314 en total"
+   "error": "6 usuarios probados en esta vuelta · 320 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
    "items": 1,
-   "error": "0 menciones revisadas en esta vuelta; 17 organizaciones nacionales"
+   "error": "0 menciones revisadas en esta vuelta; 18 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (0/799 celdas)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 26,
+   "items": 33,
    "error": null
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 387,
-   "error": "75 candidatas con fotos de Instagram propias o de su organización"
+   "items": 454,
+   "error": "76 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 0,
-   "error": "510 imágenes en el espejo; 81 fallaron"
+   "items": 56,
+   "error": "566 imágenes en el espejo; 85 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 681,
+   "items": 692,
    "error": null
   }
  ],
- "new_items": 621,
- "total_items": 734
+ "new_items": 623,
+ "total_items": 736
 }
