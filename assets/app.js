@@ -10,7 +10,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem("crown:" + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
   set(k, v) { try { localStorage.setItem("crown:" + k, JSON.stringify(v)); } catch { } }
 };
-const S = { pageants: [], contestants: [], feed: { items: [] }, videos: {}, wiki: {}, status: {}, estudio: null, contenido: null,
+const S = { events: [], idx: {}, pageants: [], contestants: [], feed: { items: [] }, videos: {}, wiki: {}, status: {}, estudio: null, contenido: null,
   fContest: "", fTag: "", q: "", shown: 40, lastSeen: store.get("lastSeen", Date.now() - 6 * 3600e3), knownIds: null };
 const ICON = { news: "📰", video: "▶️", social: "💬", alert: "🚨" };
 const TAGL = { polemica: "Polémica", looks: "Looks", resultados: "Resultados", video: "Video", comunidad: "Comunidad", alerta: "Alerta" };
@@ -35,8 +35,8 @@ const shortP = id => ({ mu: "Universe", mi: "International", me: "Earth", mw: "W
 
 /* ---------------- carga ---------------- */
 async function loadAll(first) {
-  const [p, c, ca, f, v, w, st, es, co] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
-    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json"].map(getJSON));
+  const [p, c, ca, f, v, w, st, es, co, evs] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
+    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json"].map(getJSON));
   if (p) S.pageants = p.pageants;
   if (c) {
     // Wikipedia (lista automática) manda; lo manual aporta notas, IG y hot picks.
@@ -54,11 +54,13 @@ async function loadAll(first) {
     S.feed = f; S.knownIds = new Set(f.items.map(i => i.id));
     if (prevIds && $("#notif").checked) notifyNew(f.items.filter(i => !prevIds.has(i.id)));
   }
+  if (evs) S.events = evs.events || [];
+  if (f) for (const i of f.items) S.idx["feed:" + i.id] = { type: i.type === "video" ? "video" : "nota", title: i.title, url: i.link, img: i.thumb || "", source: i.source, date: i.published };
   if (v) S.videos = v; if (w) S.wiki = w; if (st) S.status = st; if (es) S.estudio = es; if (co) S.contenido = co;
   renderPulse();
   if (first) { renderPageants(); renderContestFilters(); renderLooksStatic(); renderEstudio(); }
   renderHero(); renderAgenda(); renderChips(); renderFeed(); renderWiki(); renderBuzz(); renderCandidatas(); renderVideos();
-  renderPolemicas(); renderContenido(); renderStatus();
+  renderPolemicas(); renderContenido(); renderStatus(); renderEvents(); renderBasketBtn();
 }
 
 function renderPulse() {
@@ -126,7 +128,7 @@ function itemHTML(i) {
   return `<a class="it ${isNew ? "new" : ""}" href="${esc(i.link)}" target="_blank" rel="noopener">${thumb}
     <div><div class="t">${esc(i.title)}</div>
     <div class="m"><span>${esc(i.source || "")}</span><span>· ${i.published ? ago(i.published) : ""}</span>${i.score != null ? `<span>· ▲${i.score} 💬${i.comments}</span>` : ""}</div>
-    <div class="m">${cs}${tags}${who}</div></div></a>`;
+    <div class="m">${cs}${tags}${who}</div></div>${mkBtn("feed:" + i.id)}</a>`;
 }
 function renderFeed() {
   const list = filtered();
@@ -257,7 +259,8 @@ function renderLooksStatic() {
   const s = document.createElement("script"); s.src = "https://www.tiktok.com/embed.js"; s.async = true; document.body.appendChild(s);
 }
 function vCard(v) {
-  return `<div class="v" data-vid="${esc(v.vid)}"><img src="${esc(v.thumb)}" loading="lazy" alt=""><div>${v.live ? '<span class="tag alerta">EN VIVO</span> ' : ""}${esc(v.title)}
+  S.idx["yt:" + v.vid] = { type: "video", title: v.title, url: "https://www.youtube.com/watch?v=" + v.vid, img: v.thumb, source: v.channel, views: v.views || v.views_n || "" };
+  return `<div class="v" data-vid="${esc(v.vid)}">${mkBtn("yt:" + v.vid)}<img src="${esc(v.thumb)}" loading="lazy" alt=""><div>${v.live ? '<span class="tag alerta">EN VIVO</span> ' : ""}${esc(v.title)}
   <small>${esc(v.channel || "")}${v.ago ? " · " + esc(v.ago) : v.published ? " · " + ago(v.published) : ""}${v.views ? " · " + esc(v.views) : ""}</small></div></div>`;
 }
 function renderVideos() {
@@ -353,6 +356,8 @@ function renderStatus() {
 /* ---------------- modal / eventos ---------------- */
 function openModal(h) { $("#mbody").innerHTML = h; $("#modal").hidden = false; }
 document.addEventListener("click", e => {
+  const m = e.target.closest(".mk");
+  if (m) { e.preventDefault(); e.stopPropagation(); bToggle(m.dataset.mk); m.classList.toggle("on", bHas(m.dataset.mk)); m.textContent = bHas(m.dataset.mk) ? "★" : "☆"; return; }
   const t = e.target.closest("[data-tab],[data-c],[data-t],[data-goto],.star,[data-ment],.v,[data-copy],[data-tp],[data-pillar],[data-script]");
   if (!t) return;
   if (t.dataset.tab) { $$(".tabs button").forEach(b => b.classList.toggle("on", b === t)); $$(".tab").forEach(s => s.classList.toggle("on", s.id === t.dataset.tab)); location.hash = t.dataset.tab; if (t.dataset.tab === "vivo") markSeenSoon(); return; }
@@ -395,3 +400,240 @@ function markSeenSoon() { setTimeout(() => { S.lastSeen = Date.now(); store.set(
   setInterval(tick, 1000);
   setInterval(() => loadAll(false), REFRESH_MS);
 })();
+
+/* ================= EVENTOS · SELECCIÓN · HOT PICKS · EXPORTAR ================= */
+const KIND = k => /agenda/.test(k) ? ["agenda", "Agenda oficial"] : /oficial|campaña/.test(k) ? ["oficial", k] : k === "propio" ? ["mio", "Mío"] : ["det", k === "detectado" ? "Detectado" : k];
+const num = n => n == null || n === "" ? "–" : n >= 1e6 ? (n / 1e6).toFixed(1).replace(".0", "") + " M" : n >= 1e3 ? Math.round(n / 1e3) + " mil" : String(n);
+const fname = s => (s || "x").normalize("NFKD").replace(/[̀-ͯ]/g, "").replace(/[^a-zA-Z0-9]+/g, "-").slice(0, 50).toLowerCase();
+S.evFilter = { c: "", k: "" };
+
+/* ---- selección (canasta) ---- */
+function basket() { return store.get("basket", {}); }
+function bHas(id) { return !!basket()[id]; }
+function bToggle(id, obj) {
+  const b = basket();
+  if (b[id]) delete b[id]; else b[id] = { ...(obj || S.idx[id] || { title: id }), added: new Date().toISOString() };
+  store.set("basket", b); renderBasketBtn();
+}
+function bAdd(id, obj) { const b = basket(); b[id] = { ...(obj || S.idx[id]), added: new Date().toISOString() }; store.set("basket", b); renderBasketBtn(); }
+function mkBtn(id) { const on = bHas(id); return `<button class="mk ${on ? "on" : ""}" data-mk="${esc(id)}" title="Marcar para exportar">${on ? "★" : "☆"}</button>`; }
+function renderBasketBtn() { const n = Object.keys(basket()).length; $("#basketN").textContent = n; }
+
+/* ---- eventos propios ---- */
+function myEvents() { return store.get("myEvents", []); }
+function allEvents() { return [...myEvents().map(e => ({ ...e, kind: "propio" })), ...S.events]; }
+function evById(id) { return allEvents().find(e => e.id === id); }
+
+function renderEvents() {
+  const evs = allEvents(), q = ($("#evQ").value || "").toLowerCase(), now = Date.now();
+  const cs = [["", "Todos"], ...[...new Set(evs.map(e => e.contest))].map(c => [c, shortP(c)])];
+  $("#evChipsC").innerHTML = cs.map(([id, l]) => `<button class="chip ${S.evFilter.c === id ? "on" : ""}" data-evc="${id}">${l}<i>${evs.filter(e => !id || e.contest === id).length}</i></button>`).join("");
+  const ks = [["", "Todo"], ["oficial", "Oficiales y campañas"], ["det", "Detectados"], ["agenda", "Agenda / próximos"], ["mio", "Míos"]];
+  $("#evChipsK").innerHTML = ks.map(([id, l]) => `<button class="chip ${S.evFilter.k === id ? "on" : ""}" data-evk="${id}">${l}</button>`).join("");
+  const list = evs.filter(e => (!S.evFilter.c || e.contest === S.evFilter.c) && (!S.evFilter.k || KIND(e.kind)[0] === S.evFilter.k) && (!q || (e.name + " " + (e.labels || []).join(" ")).toLowerCase().includes(q)))
+    .sort((a, b) => (KIND(a.kind)[0] === "agenda") - (KIND(b.kind)[0] === "agenda") || new Date(b.last_activity || b.start) - new Date(a.last_activity || a.start));
+  const hp = store.get("hotpicks", {});
+  $("#evList").innerHTML = list.map(e => {
+    const [kc, kl] = KIND(e.kind), img = (e.images || [])[0];
+    const st = e.social_totals || {};
+    return `<div class="ev" style="--pc:${pColor(e.contest)}">
+      <div class="cover" data-ev="${esc(e.id)}" style="background-image:${img ? `url('${esc(img.alt || img.url)}')` : "linear-gradient(135deg,#231a0e,#17121c)"}"><span class="kb k ${kc}">${esc(kl)}</span></div>
+      <div class="b"><h4 data-ev="${esc(e.id)}">${esc(e.name)}</h4>
+      <div class="d">${shortP(e.contest)} · ${e.upcoming ? "próximo: " + fmt(e.start, { day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) : "desde " + fmt(e.start || e.first_seen, { day: "numeric", month: "short" }) + " · última actividad hace " + ago(e.last_activity || e.start)}</div>
+      <div class="met"><span>📰 <b>${e.n_items || 0}</b> notas</span><span>🗞 <b>${e.n_sources || 0}</b> medios</span><span>▶ <b>${num(e.views_total)}</b> vistas YT</span><span>🖼 <b>${(e.images || []).length}</b></span>${(e.social || []).length ? `<span>📱 <b>${e.social.length}</b> posts${st.likes ? " · ♥ " + num(st.likes) : ""}${st.views ? " · ▶ " + num(st.views) : ""}</span>` : ""}${(hp[e.id] || []).length ? `<span>👑 <b>${hp[e.id].length}</b> hot picks</span>` : ""}</div>
+      <div class="act"><button data-ev="${esc(e.id)}">Abrir</button>${mkBtn("ev:" + e.id)}</div></div></div>`;
+  }).join("") || `<div class="empty">Aún no hay eventos con este filtro.</div>`;
+  for (const e of evs) S.idx["ev:" + e.id] = { type: "evento", title: e.name, url: location.href.split("#")[0] + "#ev=" + e.id, img: (e.images || [])[0]?.url || "", source: shortP(e.contest), views: e.views_total };
+}
+
+function openEvent(id) {
+  const e = evById(id); if (!e) return;
+  const items = (e.item_ids || []).map(i => (S.feed.items || []).find(x => x.id === i)).filter(Boolean);
+  const manual = store.get("manualStats", {}), myPosts = store.get("myPosts", {})[id] || [];
+  const posts = [...(e.social || []), ...myPosts.filter(u => !(e.social || []).some(p => p.url === u)).map(u => ({ url: u, platform: /tiktok/.test(u) ? "TikTok" : /instagram/.test(u) ? "Instagram" : /youtu/.test(u) ? "YouTube" : "Web", mine: true }))];
+  (e.images || []).forEach((im, n) => S.idx[`img:${id}:${n}`] = { type: "imagen", title: `${e.name} · imagen ${n + 1}`, url: im.url, alt: im.alt, img: im.alt || im.url, source: im.via || im.credit, page: im.page, event: e.name });
+  (e.videos || []).forEach(v => S.idx["yt:" + v.vid] = { type: "video", title: v.title, url: "https://www.youtube.com/watch?v=" + v.vid, img: `https://i.ytimg.com/vi/${v.vid}/hqdefault.jpg`, source: v.channel, views: v.views, event: e.name });
+  posts.forEach(p => S.idx["post:" + p.url] = { type: "post", title: p.title || p.url, url: p.url, img: p.thumb || "", source: p.platform + (p.author ? " · @" + p.author : ""), views: p.views ?? manual[p.url]?.views, likes: p.likes ?? manual[p.url]?.likes, event: e.name });
+  const [kc, kl] = KIND(e.kind);
+  openModal(`<div class="evm" data-evid="${esc(id)}">
+   <span class="kb ${kc}">${esc(kl)}</span> <span class="hint">${esc(pName(e.contest))}</span>
+   <h2 style="margin:6px 0">${esc(e.name)}</h2>
+   ${e.desc ? `<p>${esc(e.desc)}</p>` : ""}${(e.refs || []).length ? `<p class="hint">Fuentes: ${e.refs.map((r, n) => `<a href="${esc(r)}" target="_blank">${n + 1}</a>`).join(" · ")}</p>` : ""}
+   <div class="met"><span>📰 <b>${e.n_items || items.length}</b> notas</span><span>🗞 <b>${e.n_sources || 0}</b> medios</span><span>▶ <b>${num(e.views_total)}</b> vistas en YouTube</span><span>🖼 <b>${(e.images || []).length}</b> imágenes</span><span>📱 <b>${posts.length}</b> publicaciones</span></div>
+   <div class="toolbar"><button data-evzip="${esc(id)}">⬇ Exportar evento completo (ZIP)</button>${mkBtn("ev:" + id)} <span class="prog" id="prog"></span></div>
+
+   <h3 class="sub">👑 Mis hot picks para este evento</h3><div id="hpBox"></div>
+
+   <h3 class="sub">🖼 Imágenes listas para descargar</h3>
+   <div class="toolbar"><button class="ghost" data-selall>Seleccionar todas</button><button data-dlsel>⬇ Descargar seleccionadas (ZIP)</button><button class="ghost" data-addsel>★ Marcar seleccionadas</button>
+     <a href="https://www.google.com/search?tbm=isch&tbs=qdr:w&q=${enc(e.image_query || e.name)}" target="_blank">más en Google Imágenes →</a></div>
+   <div class="igrid">${(e.images || []).map((im, n) => `<div class="ig" data-k="img:${esc(id)}:${n}"><input type="checkbox" class="isel"><img src="${esc(im.alt || im.url)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.closest('.ig').style.display='none'">
+     <div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.via || "")}">${esc((im.via || "fuente").slice(0, 16))}</a><span><button data-dl="img:${esc(id)}:${n}">⬇</button> ${mkBtn(`img:${id}:${n}`)}</span></div></div>`).join("") || `<div class="empty">Sin imágenes todavía: el robot las busca en la próxima corrida.</div>`}</div>
+   <p class="hint">Imágenes de medios, miniaturas de YouTube, Bing Imágenes y Wikimedia Commons. Úsalas con crédito y para comentario editorial.</p>
+
+   <h3 class="sub">📱 Publicaciones y estadísticas</h3>
+   ${posts.map(p => { const m = manual[p.url] || {}; return `<div class="sp"><div><b>${esc(p.platform || "")}</b> ${p.author ? "@" + esc(p.author) : ""} <a href="${esc(p.url)}" target="_blank">abrir</a><br><small>${esc((p.title || p.url).slice(0, 140))}</small><br>
+      <small>${p.views != null ? "▶ " + num(p.views) + " " : ""}${p.likes != null ? "♥ " + num(p.likes) + " " : ""}${p.comments != null ? "💬 " + num(p.comments) + " " : ""}${p.shares != null ? "↗ " + num(p.shares) : ""}${p.fetched ? " · leído " + ago(p.fetched) : p.mine ? " · agregado por ti" : ""}${p.error ? " · la plataforma no entregó datos" : ""}</small></div>
+      <div>♥ <input data-ms="${esc(p.url)}|likes" placeholder="likes" value="${esc(m.likes || "")}"> ▶ <input data-ms="${esc(p.url)}|views" placeholder="vistas" value="${esc(m.views || "")}"> ${mkBtn("post:" + p.url)}</div></div>`; }).join("") || `<p class="hint">Todavía no hay publicaciones incrustadas en las notas de este evento.</p>`}
+   <div class="toolbar"><input id="newPost" type="search" placeholder="Pega el link de un post de Instagram/TikTok/YouTube" style="flex:1"><button data-addpost="${esc(id)}">+ Agregar</button>
+     <a href="https://github.com/javi-molin/crown/edit/main/data/watch.json" target="_blank">que el robot lo siga →</a></div>
+   <p class="hint">TikTok y YouTube suelen entregar vistas y likes. Instagram casi nunca los muestra sin cuenta: puedes anotarlos a mano y se exportan igual. Para que el robot siga un post, agrégalo en <code>data/watch.json</code> como <code>{"url": "...", "event": "${esc(id)}"}</code>.</p>
+
+   <h3 class="sub">▶ Videos (${(e.videos || []).length})</h3>
+   <div class="vgrid">${(e.videos || []).map(v => vCard({ ...v, thumb: `https://i.ytimg.com/vi/${v.vid}/hqdefault.jpg`, views: v.views != null ? num(v.views) + " vistas" : "" })).join("") || `<p class="hint">Sin videos asociados.</p>`}</div>
+
+   <h3 class="sub">📰 Notas (${items.length})</h3><div class="feed">${items.map(itemHTML).join("")}</div>
+  </div>`);
+  $("#modal .mbox").classList.add("wide");
+  renderHotpicks(id);
+  history.replaceState(null, "", "#ev=" + id);
+}
+
+/* ---- hot picks ---- */
+function renderHotpicks(id) {
+  const e = evById(id); const hp = store.get("hotpicks", {}); const list = hp[id] || [];
+  const pool = S.contestants.filter(c => c.contest === e.contest);
+  $("#hpBox").innerHTML = `
+   ${list.map((x, n) => `<div class="hp"><b>${n + 1}</b><div>${flag(x.iso)} <b style="font:inherit;color:var(--ink)">${esc(x.name)}</b> <span class="hint">${esc(x.country || "")}</span><input data-hpnote="${n}" placeholder="por qué (aparece en el guion)" value="${esc(x.note || "")}"></div>
+     <div class="ar"><button data-hpmv="${n}|-1">↑</button><button data-hpmv="${n}|1">↓</button><button data-hpdel="${n}">✕</button></div></div>`).join("") || `<p class="hint">Agrega candidatas en orden: la primera es tu #1.</p>`}
+   <div class="toolbar"><input id="hpAdd" list="hpList" placeholder="Escribe país o nombre y presiona Enter" style="flex:1"><datalist id="hpList">${pool.map(c => `<option value="${esc(c.country_es)} — ${esc(c.name)}">`).join("")}</datalist>
+    <button class="ghost" data-hpcopy="${esc(id)}">Copiar como guion</button><button class="ghost" data-hptp="${esc(id)}">→ Teleprompter</button><button class="ghost" data-hpstar="${esc(id)}">★ Marcar hot picks</button></div>`;
+  const inp = $("#hpAdd");
+  inp.onkeydown = ev => {
+    if (ev.key !== "Enter" || !inp.value.trim()) return;
+    const v = inp.value.trim(), c = pool.find(c => v === `${c.country_es} — ${c.name}`) || pool.find(c => c.country_es.toLowerCase() === v.toLowerCase() || c.name.toLowerCase() === v.toLowerCase());
+    const all = store.get("hotpicks", {}); (all[id] = all[id] || []).push(c ? { name: c.name, country: c.country_es, iso: c.iso } : { name: v, country: "", iso: "" });
+    store.set("hotpicks", all); renderHotpicks(id); renderEvents(); $("#hpAdd").focus();
+  };
+}
+function hpText(id) {
+  const e = evById(id), list = (store.get("hotpicks", {})[id] || []);
+  if (!list.length) return "";
+  return `HOT PICKS · ${e.name.toUpperCase()}\n\n[HOOK] Mis hot picks de ${e.name}… y la #1 te va a sorprender.\n\n` +
+    list.slice().reverse().map((x, n) => `#${list.length - n} — ${x.country ? x.country + ": " : ""}${x.name}.${x.note ? " " + x.note : " (Por qué: …)"}`).join("\n\n") +
+    `\n\n[CIERRE] ¿Quién falta en mis hot picks? Te leo en comentarios.`;
+}
+function hpEdit(fn) { const id = $(".evm").dataset.evid, all = store.get("hotpicks", {}); all[id] = fn(all[id] || []); store.set("hotpicks", all); renderHotpicks(id); renderEvents(); }
+
+/* ---- descargas ---- */
+async function fetchBlob(url) {
+  for (const u of [url, "https://images.weserv.nl/?url=" + enc(url)]) {
+    try { const r = await fetch(u, { mode: "cors", referrerPolicy: "no-referrer" }); if (r.ok) { const b = await r.blob(); if (b.size > 3000) return b; } } catch { }
+  }
+  return null;
+}
+function saveBlob(blob, name) { const a = document.createElement("a"); a.href = URL.createObjectURL(blob); a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 4000); }
+async function dlOne(k) {
+  const it = S.idx[k]; if (!it) return;
+  const b = (await fetchBlob(it.url)) || (it.alt && await fetchBlob(it.alt));
+  if (b) saveBlob(b, fname(it.title) + "." + ((b.type.split("/")[1] || "jpg").replace("jpeg", "jpg")));
+  else window.open(it.url, "_blank");
+}
+let zipLib;
+async function JSZipLoad() {
+  if (zipLib) return zipLib;
+  await new Promise((ok, ko) => { const s = document.createElement("script"); s.src = "https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"; s.onload = ok; s.onerror = ko; document.head.appendChild(s); });
+  return (zipLib = window.JSZip);
+}
+const csvCell = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+function toCSV(rows) {
+  const cols = ["tipo", "titulo", "evento", "fuente", "url", "vistas", "likes", "fecha", "marcado"];
+  return "﻿" + [cols.join(","), ...rows.map(r => [r.type, r.title, r.event, r.source, r.url, r.views, r.likes, r.date, r.added].map(csvCell).join(","))].join("\n");
+}
+function pauta(rows) {
+  const g = {}; rows.forEach(r => (g[r.type] = g[r.type] || []).push(r));
+  const hp = store.get("hotpicks", {});
+  let md = `# Mi selección CROWN · ${new Date().toLocaleString("es-CL", { timeZone: TZ })}\n\n`;
+  for (const [t, rs] of Object.entries(g)) md += `## ${t[0].toUpperCase() + t.slice(1)}s (${rs.length})\n` + rs.map(r => `- ${r.title}${r.source ? " · " + r.source : ""}${r.views ? " · " + r.views + " vistas" : ""}${r.likes ? " · ♥ " + r.likes : ""}\n  ${r.url}`).join("\n") + "\n\n";
+  const hps = Object.keys(hp).filter(k => hp[k].length && evById(k));
+  if (hps.length) md += "## Hot picks\n\n" + hps.map(k => hpText(k)).join("\n\n---\n\n") + "\n";
+  return md;
+}
+async function buildZip(rows, name) {
+  const JSZip = await JSZipLoad(), zip = new JSZip(), fail = [];
+  const imgs = rows.filter(r => r.type === "imagen" || (r.type !== "nota" && r.img));
+  let n = 0;
+  for (const r of imgs) {
+    n++; $("#prog") && ($("#prog").textContent = `descargando ${n}/${imgs.length}…`);
+    const src = r.type === "imagen" ? r.url : r.img;
+    const b = (await fetchBlob(src)) || (r.alt && await fetchBlob(r.alt));
+    if (b) zip.file(`imagenes/${String(n).padStart(2, "0")}-${fname(r.event || r.type)}-${fname(r.title).slice(0, 30)}.${(b.type.split("/")[1] || "jpg").replace("jpeg", "jpg")}`, b);
+    else fail.push(src);
+  }
+  zip.file("seleccion.csv", toCSV(rows));
+  zip.file("seleccion.json", JSON.stringify({ exportado: new Date().toISOString(), items: rows, hotpicks: store.get("hotpicks", {}), estadisticas_manuales: store.get("manualStats", {}) }, null, 1));
+  zip.file("pauta.md", pauta(rows));
+  if (fail.length) zip.file("no_descargadas.txt", "Estas imágenes no permitieron descarga directa; ábrelas y guárdalas a mano:\n\n" + fail.join("\n"));
+  const blob = await zip.generateAsync({ type: "blob" });
+  saveBlob(blob, name + ".zip");
+  $("#prog") && ($("#prog").textContent = `listo: ${imgs.length - fail.length} imágenes${fail.length ? `, ${fail.length} solo como link` : ""}`);
+}
+function evRows(id) {
+  const e = evById(id), man = store.get("manualStats", {});
+  const rows = [{ type: "evento", title: e.name, url: location.href.split("#")[0] + "#ev=" + id, source: pName(e.contest), views: e.views_total, event: e.name }];
+  (e.images || []).forEach((im, n) => rows.push({ ...S.idx[`img:${id}:${n}`] }));
+  (e.videos || []).forEach(v => rows.push({ type: "video", title: v.title, url: "https://www.youtube.com/watch?v=" + v.vid, source: v.channel, views: v.views, event: e.name, img: `https://i.ytimg.com/vi/${v.vid}/hqdefault.jpg` }));
+  (e.social || []).forEach(p => rows.push({ type: "post", title: p.title || p.url, url: p.url, source: p.platform, views: p.views ?? man[p.url]?.views, likes: p.likes ?? man[p.url]?.likes, event: e.name }));
+  (e.item_ids || []).forEach(i => { const it = S.idx["feed:" + i]; if (it) rows.push({ ...it, event: e.name }); });
+  return rows;
+}
+
+/* ---- panel de selección ---- */
+function openBasket() {
+  const b = basket(), rows = Object.entries(b).map(([k, v]) => ({ k, ...v }));
+  const hp = store.get("hotpicks", {}), nHp = Object.values(hp).reduce((a, l) => a + l.length, 0);
+  const g = {}; rows.forEach(r => g[r.type] = (g[r.type] || 0) + 1);
+  openModal(`<h2>★ Mi selección</h2>
+   <p class="hint">${rows.length} elementos marcados · ${Object.entries(g).map(([t, n]) => `${n} ${t}`).join(" · ") || "nada aún"} · ${nHp} hot picks en ${Object.keys(hp).filter(k => hp[k].length).length} eventos</p>
+   <div class="toolbar"><button data-exp="zip">⬇ Todo en ZIP (imágenes + CSV + JSON + pauta)</button><button class="ghost" data-exp="csv">CSV</button><button class="ghost" data-exp="json">JSON</button><button class="ghost" data-exp="md">Copiar pauta</button><button class="ghost" data-exp="clear">Vaciar</button><span class="prog" id="prog"></span></div>
+   ${rows.map(r => `<div class="bl"><img src="${esc(r.img || r.alt || "")}" referrerpolicy="no-referrer" onerror="this.style.visibility='hidden'"><div><b>${esc(r.type)}</b> · ${esc(r.title)}<br><small class="hint">${esc(r.event || r.source || "")}${r.views ? " · ▶ " + esc(r.views) : ""}${r.likes ? " · ♥ " + esc(r.likes) : ""}</small></div><button class="ghost" data-unmk="${esc(r.k)}">✕</button></div>`).join("") || `<div class="empty">Marca con ☆ notas, videos, imágenes, publicaciones o eventos completos.</div>`}`);
+  $("#modal .mbox").classList.add("wide");
+}
+function basketRows() {
+  const man = store.get("manualStats", {});
+  return Object.values(basket()).map(r => ({ ...r, views: r.views || man[r.url]?.views || "", likes: r.likes || man[r.url]?.likes || "" }));
+}
+
+/* ---- eventos de UI ---- */
+document.addEventListener("click", async e => {
+  const t = e.target.closest("[data-ev],[data-evc],[data-evk],[data-evzip],[data-selall],[data-dlsel],[data-addsel],[data-dl],[data-addpost],[data-hpmv],[data-hpdel],[data-hpcopy],[data-hptp],[data-hpstar],[data-exp],[data-unmk],#basketBtn,#evNew");
+  if (!t) return;
+  const d = t.dataset;
+  if (t.id === "basketBtn") return openBasket();
+  if (t.id === "evNew") {
+    const name = prompt("Nombre del evento (ej.: 'Sesión de fotos retro de MU')"); if (!name) return;
+    const c = prompt("Concurso: mu, mi, me, mw, mgi o ms", "mu") || "mu";
+    const m = myEvents(); m.unshift({ id: "mio-" + Date.now(), name, contest: c, start: new Date().toISOString(), last_activity: new Date().toISOString(), images: [], videos: [], item_ids: [], n_items: 0 });
+    store.set("myEvents", m); renderEvents(); return;
+  }
+  if (d.ev) { e.preventDefault(); return openEvent(d.ev); }
+  if (d.evc !== undefined) { S.evFilter.c = d.evc; return renderEvents(); }
+  if (d.evk !== undefined) { S.evFilter.k = d.evk; return renderEvents(); }
+  if (d.evzip) { const ev = evById(d.evzip); return buildZip(evRows(d.evzip), "crown-" + fname(ev.name)); }
+  if (d.selall !== undefined) { const all = $$(".isel"); const on = !all.every(x => x.checked); all.forEach(x => { x.checked = on; x.closest(".ig").classList.toggle("sel", on); }); return; }
+  if (d.dlsel !== undefined) { const ks = $$(".ig").filter(x => x.querySelector(".isel").checked).map(x => x.dataset.k); if (!ks.length) return alert("Selecciona imágenes primero."); return buildZip(ks.map(k => S.idx[k]), "crown-imagenes-" + fname(evById($(".evm").dataset.evid).name)); }
+  if (d.addsel !== undefined) { $$(".ig").filter(x => x.querySelector(".isel").checked).forEach(x => bAdd(x.dataset.k)); $$(".ig .mk").forEach(m => { m.classList.toggle("on", bHas(m.dataset.mk)); m.textContent = bHas(m.dataset.mk) ? "★" : "☆"; }); return; }
+  if (d.dl) return dlOne(d.dl);
+  if (d.addpost) { const u = $("#newPost").value.trim(); if (!/^https?:\/\//.test(u)) return; const all = store.get("myPosts", {}); (all[d.addpost] = all[d.addpost] || []).push(u); store.set("myPosts", all); return openEvent(d.addpost); }
+  if (d.hpmv) { const [n, dir] = d.hpmv.split("|").map(Number); return hpEdit(l => { const j = n + dir; if (j < 0 || j >= l.length) return l; [l[n], l[j]] = [l[j], l[n]]; return l; }); }
+  if (d.hpdel) return hpEdit(l => (l.splice(+d.hpdel, 1), l));
+  if (d.hpcopy) { navigator.clipboard?.writeText(hpText(d.hpcopy)); t.textContent = "¡Copiado!"; return; }
+  if (d.hptp) { const txt = hpText(d.hptp); if (!txt) return; addScript("Hot picks · " + evById(d.hptp).name, txt); tpLoad(txt); $("#modal").hidden = true; $('[data-tab="grabar"]').click(); return; }
+  if (d.hpstar) { bAdd("hp:" + d.hpstar, { type: "hot picks", title: "Hot picks · " + evById(d.hpstar).name, url: "", source: hpText(d.hpstar).split("\n").filter(l => l.startsWith("#")).join(" | "), event: evById(d.hpstar).name }); t.textContent = "★ Marcados"; return; }
+  if (d.unmk) { bToggle(d.unmk); return openBasket(); }
+  if (d.exp) {
+    const rows = basketRows(), stamp = new Date().toISOString().slice(0, 16).replace(/[:T]/g, "-");
+    if (d.exp === "zip") return buildZip(rows, "crown-seleccion-" + stamp);
+    if (d.exp === "csv") return saveBlob(new Blob([toCSV(rows)], { type: "text/csv" }), "crown-seleccion-" + stamp + ".csv");
+    if (d.exp === "json") return saveBlob(new Blob([JSON.stringify({ items: rows, hotpicks: store.get("hotpicks", {}) }, null, 1)], { type: "application/json" }), "crown-seleccion-" + stamp + ".json");
+    if (d.exp === "md") { navigator.clipboard?.writeText(pauta(rows)); t.textContent = "¡Copiada!"; return; }
+    if (d.exp === "clear" && confirm("¿Vaciar la selección?")) { store.set("basket", {}); renderBasketBtn(); return openBasket(); }
+  }
+});
+document.addEventListener("change", e => {
+  if (e.target.classList.contains("isel")) e.target.closest(".ig").classList.toggle("sel", e.target.checked);
+  if (e.target.dataset.ms) { const [u, k] = e.target.dataset.ms.split("|"), m = store.get("manualStats", {}); (m[u] = m[u] || {})[k] = e.target.value; store.set("manualStats", m); }
+  if (e.target.dataset.hpnote !== undefined) { const n = +e.target.dataset.hpnote; hpEdit(l => (l[n].note = e.target.value, l)); }
+});
+$("#evQ").oninput = renderEvents;
+window.addEventListener("load", () => { const m = location.hash.match(/^#ev=(.+)$/); if (m) setTimeout(() => { $('[data-tab="eventos"]').click(); openEvent(decodeURIComponent(m[1])); }, 1500); });

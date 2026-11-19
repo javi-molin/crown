@@ -17,6 +17,7 @@
 </header>
 <nav class="tabs" id="tabs">
   <button data-tab="vivo" class="on">En vivo</button>
+  <button data-tab="eventos">Eventos y campañas</button>
   <button data-tab="concursos">Concursos</button>
   <button data-tab="candidatas">Candidatas</button>
   <button data-tab="looks">Looks y videos</button>
@@ -50,6 +51,20 @@
         <div class="card"><h3>Menciones por candidata (30 días)</h3><ol id="buzz" class="buzz"></ol></div>
       </aside>
     </div>
+  </section>
+
+  <section id="eventos" class="tab">
+    <div class="bar">
+      <h2>Eventos, campañas y micro-eventos</h2>
+      <div class="controls">
+        <input id="evQ" type="search" placeholder="Buscar evento…">
+        <button class="ghost" id="evNew">+ Crear evento propio</button>
+      </div>
+    </div>
+    <p class="hint">El robot detecta solo los eventos: agenda oficial, campañas conocidas, frases que se repiten en varios medios y actividades (sesión de fotos, desfile, gala, visita…) que aparecen en varias fuentes. Ábrelos para descargar imágenes, ver estadísticas y armar tus hot picks.</p>
+    <div class="chips" id="evChipsC"></div>
+    <div class="chips" id="evChipsK"></div>
+    <div id="evList" class="evgrid"></div>
   </section>
 
   <section id="concursos" class="tab"><div id="pageants" class="pageants"></div></section>
@@ -121,6 +136,7 @@
     </div>
   </section>
 </main>
+<button id="basketBtn" class="basket">★ Mi selección <b id="basketN">0</b></button>
 <div id="modal" class="modal" hidden><div class="mbox"><button class="x" id="mx">✕</button><div id="mbody"></div></div></div>
 <footer>Datos públicos: Wikipedia, Google Noticias, YouTube, Reddit y prensa. Hecho para uso editorial propio.</footer>
 <script src="assets/app.js"></script>

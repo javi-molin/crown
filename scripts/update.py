@@ -248,8 +248,12 @@ def yt_rss(channel_id):
     out = []
     for e in root.findall("a:entry", ns):
         vid = e.findtext("yt:videoId", namespaces=ns)
+        st = e.find(".//media:statistics", ns)
+        rt = e.find(".//media:starRating", ns)
         out.append({"vid": vid, "title": e.findtext("a:title", namespaces=ns),
                     "published": e.findtext("a:published", namespaces=ns),
+                    "views_n": int(st.get("views", 0)) if st is not None else None,
+                    "likes_n": int(rt.get("count", 0)) if rt is not None else None,
                     "thumb": f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"})
     return out
 
@@ -468,6 +472,11 @@ def main():
     fresh = google_news()
     yt_resolved, videos, yt_items = youtube()
     fresh += yt_items
+    try:
+        import events
+        fresh += events.bing_news(sys.modules[__name__])
+    except Exception as e:
+        note("Bing Noticias", False, err=repr(e))
     wiki = wikipedia(seed_by)
 
     for cid, w in wiki.items():
@@ -507,6 +516,11 @@ def main():
 
     save("feed.json", {"updated": NOW.isoformat(), "new_this_run": new_count, "count": len(items), "items": items})
     save("videos.json", {"updated": NOW.isoformat(), "channels": yt_resolved, **videos})
+    try:
+        import events
+        events.run(sys.modules[__name__], items, videos)
+    except Exception as e:
+        note("Eventos (detector)", False, err=repr(e))
     STATUS["new_items"] = new_count
     STATUS["total_items"] = len(items)
     save("status.json", STATUS)
