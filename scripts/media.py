@@ -136,7 +136,9 @@ def bing_cell(c, cat):
 DESIGNER_STYLES = {  # estilos conocidos de las series oficiales (se completan con lo observado)
     "gianninaazar": ("mu75-bano-marfil", "Retrato oficial 75° · traje de baño marfil años 50", "retrato"),
 }
-COUNTRY_ALIAS = {"ecuatorial guinea": "equatorial guinea", "saint-martin": "saint martin", "usa": "united states",
+COUNTRY_ALIAS = {"democratic republic of congo": "dr congo", "democratic republic of the congo": "dr congo", "reunion island": "reunion", "the bahamas": "bahamas",
+                 "turks and caicos": "turks and caicos islands", "the netherlands": "netherlands", "the philippines": "philippines",
+                 "ecuatorial guinea": "equatorial guinea", "saint-martin": "saint martin", "usa": "united states",
                  "us virgin islands": "united states virgin islands", "uk": "great britain", "dr congo": "democratic republic of the congo",
                  "czechia": "czech republic", "turkiye": "turkey", "curacao": "curacao", "korea": "south korea"}
 
@@ -176,8 +178,11 @@ def ig_series(G, contestants):
             continue
         ph = (re.search(r"picture\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
         de = (re.search(r"designer\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
-        sid, label, cat = DESIGNER_STYLES.get(de.lower(), (f"mu-oficial-{slug_(de or ph)}", f"Retrato oficial · {de or ph}", "retrato"))
-        st = styles.setdefault(sid, {"id": sid, "label": label, "cat": cat, "photographer": ph, "designer": de, "posts": 0})
+        sid, label, cat = DESIGNER_STYLES.get(de.lower(), (f"mu-oficial-{slug_(de or ph)}", f"Retrato oficial · @{de or ph} (estilo nuevo, sin describir)", "retrato"))
+        meta = U.load("portrait_styles.json", {}).get("styles", {}).get(sid, {})
+        label = meta.get("label", label)
+        st = styles.setdefault(sid, {"id": sid, "label": label, "short": meta.get("short", label), "desc": meta.get("desc"), "cat": cat,
+                                     "photographer": ph, "designer": de, "posts": 0, "roles": roles.get(sid, [])})
         st["posts"] += 1
         k = c["contest"] + "|" + c["country"]
         p["who"] = [k]
@@ -543,24 +548,6 @@ def run(mod, contestants, deadline_s=200):
            err=(f"sin país reconocido: {', '.join(sorted(set(unm))[:8])}" if unm else None))
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
-    try:
-        peek = U.load("_peek_request.json", None)
-        if peek:
-            import os, urllib.request
-            os.makedirs(os.path.join(U.DATA, "_peek"), exist_ok=True)
-            n = 0
-            for code, p in G["ig_posts"].items():
-                if p.get("owner") != "missuniverse" or not re.search(peek.get("rx", "official m"), U.norm(p.get("caption", ""))):
-                    continue
-                for j, u in enumerate(p.get("images", [])[:4]):
-                    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
-                    with urllib.request.urlopen(req, timeout=30) as r:
-                        open(os.path.join(U.DATA, "_peek", f"{code}_{j}.jpg"), "wb").write(r.read())
-                n += 1
-                if n >= peek.get("n", 3):
-                    break
-    except Exception as e:
-        U.note("peek", False, err=repr(e)[:150])
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
     G["updated"] = now.isoformat()
     U.save("gallery.json", G)

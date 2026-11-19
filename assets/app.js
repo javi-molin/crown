@@ -96,7 +96,7 @@ function renderHero() {
   const n24 = its.filter(i => new Date(i.first_seen || i.published) > day);
   const actEv = (S.events || []).filter(e => !e.upcoming && new Date(e.last_activity) > Date.now() - 2 * 864e5).length;
   $("#tiles").innerHTML = [["vivo", n24.length, "notas nuevas en 24 h", ""], ["polemicas", n24.filter(i => (i.tags || []).includes("polemica")).length, "polémicas en 24 h", ""],
-    ["eventos", actEv, "eventos activos", ""], ["galeria", Object.values((S.gallery || {}).cells || {}).reduce((a, c) => a + (c.images || []).length, 0), "fotos en la galería", ""]]
+    ["eventos", actEv, "eventos activos", ""], ["galeria", ["ig_official", "press", "official"].reduce((a, k) => a + Object.values((S.gallery || {})[k] || {}).reduce((x, l) => x + l.length, 0), 0), "fotos en la galería", ""]]
     .map(([tab, n, l]) => `<button class="tile" data-tab="${tab}"><b>${n}</b><span>${l}</span></button>`).join("");
   tick();
 }
@@ -645,7 +645,7 @@ window.addEventListener("load", () => { const m = location.hash.match(/^#ev=(.+)
 /* ================= GALERÍA · PERFIL · INSTAGRAM · DRAWER ================= */
 const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipico", "Traje típico"], ["gala", "Vestido de gala"], ["runway", "Runway"], ["otras", "Más fotos"]];
 S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
-S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "", style: "", role: "" };
+S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "", style: "mu75-bano-marfil", role: "" };
 
 function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : (src.includes("maxresdefault") ? src.replace("maxresdefault", "hqdefault") : ""); return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
 function igPostsFor(c, cat) {
@@ -684,9 +684,11 @@ function renderGallery() {
   const styles = Object.values(S.gallery.styles || {}).filter(st => st.cat === cat);
   $("#gStyle").innerHTML = styles.length ? `<span class="hint">Estilo:</span> ` + [["", "Todas las fuentes"], ...styles.map(st => [st.id, `${st.label} (${st.posts})`]), ["_otras", "Otras fuentes"]]
     .map(([id, l]) => `<button class="chip ${S.gal.style === id ? "on" : ""}" data-gstyle="${id}">${esc(l)}</button>`).join("") +
-    (S.gal.style && S.gal.style !== "_otras" ? ` <span class="hint">Foto:</span> ` + [["", "Todas"], ["1", "1"], ["2", "2"], ["3", "3"]].map(([r, l]) => `<button class="chip ${S.gal.role === r ? "on" : ""}" data-grole="${r}">${l}</button>`).join("") : "") : "";
+    (S.gal.style && S.gal.style !== "_otras" ? ` <span class="hint">Foto:</span> ` + [["", "Todas"], ...((S.gallery.styles[S.gal.style] || {}).roles || ["Foto 1", "Foto 2"]).map((l, i) => [String(i + 1), l])].map(([r, l]) => `<button class="chip ${S.gal.role === r ? "on" : ""}" data-grole="${r}">${l}</button>`).join("") : "") : "";
   const fimgs = c => cellImgs(c, cat).filter(i => !S.gal.style || (S.gal.style === "_otras" ? !i.style : i.style === S.gal.style) && (!S.gal.role || String(i.role_n) === S.gal.role));
   const withImg = list.filter(c => fimgs(c).length).length;
+  const stSel = (S.gallery.styles || {})[S.gal.style];
+  $("#gStyle").insertAdjacentHTML("beforeend", stSel && stSel.desc ? `<p class="hint" style="width:100%;margin:6px 0 0">${esc(stSel.desc)}</p>` : "");
   $("#gInfo").textContent = `${withImg} de ${list.length} candidatas ya tienen fotos de "${CATS.find(x => x[0] === cat)[1]}". El robot sigue buscando en cada corrida. Toca una foto para ver todas; marca ✓ para descargar varias.`;
   $("#gGrid").innerHTML = list.map(c => {
     const k = c.contest + "|" + c.country, ims = fimgs(c), im = ims[0], on = S.gal.sel.has(k);
@@ -787,7 +789,7 @@ function renderPTab(k, cat) {
   $("#pbody").innerHTML = `<div class="toolbar"><button class="ghost" data-selall>Seleccionar todas</button><button data-dlsel>⬇ Descargar seleccionadas</button><button class="ghost" data-addsel>★ Marcar seleccionadas</button>
      <a href="https://www.google.com/search?tbm=isch&q=${enc(c.name + " Miss Universe 2026 " + label)}" target="_blank">buscar más ↗</a><span class="prog" id="prog"></span></div>
     <div class="toolbar"><input id="addMedia" placeholder="Pega el link de una foto o de un post de Instagram para guardarlo en esta categoría" style="flex:1"><button data-addmedia="${esc(k)}|${cat}">+ Agregar</button></div>
-    ${[...new Set(ims.map(i => i.style_label || "Prensa, YouTube y otras fuentes"))].map(g => `<h4 style="margin:14px 0 8px;font-size:18px">${esc(g)}${ims.find(i => (i.style_label || "Prensa, YouTube y otras fuentes") === g && i.credit && i.style) ? ` <span class="hint" style="font-family:var(--sans)">${esc(ims.find(i => i.style_label === g).credit)}</span>` : ""}</h4>
+    ${[...new Set(ims.map(i => i.style_label || "Prensa, YouTube y otras fuentes"))].map(g => `<h4 style="margin:14px 0 8px;font-size:18px">${esc(g)}${(() => { const st = Object.values(S.gallery.styles || {}).find(x => x.label === g); return st && st.desc ? `</h4><p class="hint" style="margin:-4px 0 10px">${esc(st.desc)}</p><h4 style="display:none">` : ""; })()}${ims.find(i => (i.style_label || "Prensa, YouTube y otras fuentes") === g && i.credit && i.style) ? ` <span class="hint" style="font-family:var(--sans)">${esc(ims.find(i => i.style_label === g).credit)}</span>` : ""}</h4>
     <div class="igrid">${ims.map((im, n) => (im.style_label || "Prensa, YouTube y otras fuentes") !== g ? "" : im.post ? `<div class="ig" style="display:grid;place-items:center;aspect-ratio:4/5;background:linear-gradient(45deg,#f58529,#dd2a7b,#8134af)"><button class="ghost" style="color:#fff;border-color:#fff" data-igembed="${esc(im.url)}">Ver post de IG</button></div>` : `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
      <div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.title || im.via || "")}">${im.ig ? "📷 IG" : esc(im.credit || im.via || "fuente")}</a><span><button data-dl="pimg:${esc(k)}:${cat}:${n}">⬇</button> ${mkBtn(`pimg:${k}:${cat}:${n}`)}</span></div>${im.role ? `<span class="cnt" style="left:auto;right:8px">${esc(im.role)}${im.likes != null ? " · ♥ " + num(im.likes) : ""}</span>` : ""}</div>`).join("")}</div>`).join("") || `<div class="empty">El robot todavía no encuentra fotos de "${label}" para ${esc(c.name)}. Vuelve en unos minutos.</div>`}
     <p class="hint">Fuentes: fotos de notas y videos que la nombran (clasificadas por el texto), Instagram y lo que agregues tú. Usa las fotos con crédito.</p>`;
