@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T01:12:52.911359+00:00",
+ "run_at": "2026-11-19T01:20:24.124913+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 27,
+   "items": 26,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 40,
+   "items": 39,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 33,
+   "items": 32,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 95,
+   "items": 93,
    "error": null
   },
   {
@@ -154,13 +154,13 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 15,
+   "items": 7,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -172,50 +172,26 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 13,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
-  },
-  {
-   "source": "Reddit r/pageants",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 404: Not Found"
-  },
-  {
-   "source": "Reddit r/MissUniverse",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
-  },
-  {
-   "source": "Bluesky · miss universe",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 403: Forbidden"
-  },
-  {
-   "source": "Bluesky · miss universo",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 403: Forbidden"
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
@@ -254,6 +230,6 @@
    "error": null
   }
  ],
- "new_items": 709,
- "total_items": 508
+ "new_items": 621,
+ "total_items": 498
 }
