@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T01:56:46.987684+00:00",
+ "run_at": "2026-11-19T02:09:16.628516+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -201,21 +201,21 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 8,
+   "items": 0,
    "error": null
   },
   {
@@ -288,8 +288,32 @@
    "ok": true,
    "items": 28,
    "error": null
+  },
+  {
+   "source": "Instagram · cuentas de candidatas descubiertas",
+   "ok": true,
+   "items": 1,
+   "error": null
+  },
+  {
+   "source": "Instagram · Graph API oficial: sin conectar (opcional)",
+   "ok": true,
+   "items": 0,
+   "error": null
+  },
+  {
+   "source": "Instagram · posts encontrados por búsqueda web",
+   "ok": true,
+   "items": 0,
+   "error": null
+  },
+  {
+   "source": "Galería por candidata (Bing) · 0/799 celdas con fotos",
+   "ok": true,
+   "items": 319,
+   "error": null
   }
  ],
- "new_items": 632,
- "total_items": 582
+ "new_items": 624,
+ "total_items": 585
 }
