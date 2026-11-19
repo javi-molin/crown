@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CROWN · Panel de concursos de belleza</title>
+<meta name="description" content="Panel en vivo de concursos de belleza: Miss Universe, Miss International, Miss Earth y más.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👑</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="crown">♛</span><div><b>CROWN</b><small>el cerebro de tu cuenta de concursos</small></div></div>
+  <div class="pulse" id="pulse"><span class="dot"></span><span id="pulseText">cargando…</span></div>
+</header>
+<nav class="tabs" id="tabs">
+  <button data-tab="vivo" class="on">En vivo</button>
+  <button data-tab="concursos">Concursos</button>
+  <button data-tab="candidatas">Candidatas</button>
+  <button data-tab="looks">Looks y videos</button>
+  <button data-tab="polemicas">Polémicas</button>
+  <button data-tab="estudio">Estudio del nicho</button>
+  <button data-tab="contenido">Contenido</button>
+  <button data-tab="grabar">Grabar</button>
+  <button data-tab="fuentes">Fuentes</button>
+</nav>
+<main>
+  <!-- EN VIVO -->
+  <section id="vivo" class="tab on">
+    <div class="hero" id="hero"></div>
+    <div class="grid2">
+      <div>
+        <div class="bar">
+          <h2>Lo último</h2>
+          <div class="controls">
+            <input id="q" type="search" placeholder="Buscar (nombre, país, tema)…">
+            <label class="switch"><input type="checkbox" id="notif"> avisarme</label>
+          </div>
+        </div>
+        <div class="chips" id="chipsContest"></div>
+        <div class="chips" id="chipsTag"></div>
+        <div id="feed" class="feed"></div>
+        <button class="more" id="more">Ver más</button>
+      </div>
+      <aside>
+        <div class="card"><h3>Agenda (hora Chile)</h3><ol id="agenda" class="agenda"></ol></div>
+        <div class="card"><h3>Resultados en vivo · Wikipedia</h3><div id="wiki" class="wiki"></div></div>
+        <div class="card"><h3>Menciones por candidata (30 días)</h3><ol id="buzz" class="buzz"></ol></div>
+      </aside>
+    </div>
+  </section>
+
+  <section id="concursos" class="tab"><div id="pageants" class="pageants"></div></section>
+
+  <section id="candidatas" class="tab">
+    <div class="bar">
+      <h2>Candidatas</h2>
+      <div class="controls">
+        <select id="cContest"></select>
+        <select id="cRegion"><option value="">Todas las regiones</option></select>
+        <input id="cQ" type="search" placeholder="Buscar país o nombre…">
+        <label class="switch"><input type="checkbox" id="cFav"> solo mis favoritas</label>
+        <button id="exportRank" class="ghost">Copiar mi top como guion</button>
+      </div>
+    </div>
+    <p class="hint">★ marca favoritas · el número es tu ranking personal (queda guardado en este navegador). Cada tarjeta abre redes, looks, videos y noticias de esa candidata.</p>
+    <div id="clist" class="clist"></div>
+  </section>
+
+  <section id="looks" class="tab">
+    <div class="bar"><h2>Looks y videos</h2></div>
+    <div class="quick" id="quickLooks"></div>
+    <h3 class="sub">Canales oficiales · último subido</h3>
+    <div id="vOfficial" class="vgrid"></div>
+    <h3 class="sub">Lo más nuevo en YouTube (fans, medios, candidatas)</h3>
+    <div id="vSearch" class="vgrid"></div>
+    <div class="grid2">
+      <div class="card"><h3>Transmisión en vivo · YouTube Miss Universe</h3><div id="live" class="ratio"></div><p class="hint">Si no hay transmisión activa YouTube mostrará "sin emisión". En Chile la final va por Mega/MegaGO.</p></div>
+      <div class="card"><h3>TikTok oficial @missuniverse</h3><div id="tt"></div></div>
+    </div>
+  </section>
+
+  <section id="polemicas" class="tab">
+    <div class="bar"><h2>Polémicas</h2></div>
+    <div id="polCurated" class="pol"></div>
+    <h3 class="sub">Detectadas automáticamente en noticias</h3>
+    <div id="polFeed" class="feed"></div>
+  </section>
+
+  <section id="estudio" class="tab"><div id="estudioBody"></div></section>
+  <section id="contenido" class="tab"><div id="contenidoBody"></div></section>
+
+  <section id="grabar" class="tab">
+    <div class="bar"><h2>Grabar · teleprompter</h2>
+      <div class="controls">
+        <select id="tpPick"><option value="">Elegir guion…</option></select>
+        <label>velocidad <input type="range" id="tpSpeed" min="1" max="12" value="4"></label>
+        <label>tamaño <input type="range" id="tpSize" min="24" max="80" value="44"></label>
+        <label class="switch"><input type="checkbox" id="tpMirror"> espejo</label>
+        <button id="tpGo">▶ Iniciar</button><button id="tpFull" class="ghost">Pantalla completa</button>
+      </div>
+    </div>
+    <textarea id="tpText" placeholder="Pega o escribe tu guion aquí, o elige uno de la lista."></textarea>
+    <div id="tp" class="tp"><div id="tpInner"></div></div>
+    <p class="hint">Espacio = pausa · flechas ↑↓ = velocidad · Esc = salir. Ideal: celular en trípode, panel en el computador detrás de la cámara.</p>
+  </section>
+
+  <section id="fuentes" class="tab">
+    <div class="bar"><h2>Fuentes y estado del robot</h2></div>
+    <div id="status"></div>
+    <div class="card how">
+      <h3>Cómo funciona la actualización</h3>
+      <ul>
+        <li><b>Robot (GitHub Actions)</b> cada ~10 min consulta Google Noticias (español e inglés), los canales oficiales de YouTube, búsquedas de YouTube por fecha, Reddit y Wikipedia (que los fans editan en vivo durante las finales). Etiqueta cada nota por concurso, candidata, polémica, looks y resultados.</li>
+        <li><b>Este panel</b> vuelve a leer los datos cada 60 s sin recargar la página.</li>
+        <li><b>Instagram y TikTok</b> no permiten que un sitio externo lea sus publicaciones sin una cuenta de empresa aprobada; por eso cada candidata tiene accesos directos a su búsqueda en IG/TikTok y aquí se integran los embeds oficiales que sí están permitidos.</li>
+        <li><b>Forzar actualización</b> (por ejemplo durante la final): GitHub → pestaña <i>Actions</i> → "Actualizar datos CROWN" → <i>Run workflow</i>.</li>
+      </ul>
+    </div>
+  </section>
+</main>
+<div id="modal" class="modal" hidden><div class="mbox"><button class="x" id="mx">✕</button><div id="mbody"></div></div></div>
+<footer>Datos públicos: Wikipedia, Google Noticias, YouTube, Reddit y prensa. Hecho para uso editorial propio.</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>
