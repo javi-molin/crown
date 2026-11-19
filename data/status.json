@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T15:31:05.645066+00:00",
+ "run_at": "2026-11-19T15:39:05.502662+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -15,14 +15,14 @@
   },
   {
    "source": "Google News · Miss Universo polémica",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 80,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 72,
+   "items": 71,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 98,
+   "items": 92,
    "error": null
   },
   {
@@ -63,9 +63,9 @@
   },
   {
    "source": "Google News · \"Miss International 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 52,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 52,
+   "items": 22,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 95,
+   "items": 96,
    "error": null
   },
   {
@@ -172,19 +172,19 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 9,
+   "items": 10,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 6,
+   "items": 8,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 35,
+   "items": 36,
    "error": null
   },
   {
@@ -298,7 +298,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": "36 cuentas sincronizadas en total · 1 candidatas · 34 organizaciones"
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 830 en total"
+   "error": "1 usuarios probados en esta vuelta · 831 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 810,
+   "items": 811,
    "error": "85 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
    "items": 0,
-   "error": "829 imágenes en el espejo; 160 fallaron"
+   "error": "829 imágenes en el espejo; 161 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 713,
+   "items": 700,
    "error": null
   }
  ],
- "new_items": 570,
- "total_items": 884
+ "new_items": 617,
+ "total_items": 888
 }
