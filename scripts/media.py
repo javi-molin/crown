@@ -30,25 +30,36 @@ BAD_HANDLES = {"p", "reel", "reels", "explore", "accounts", "stories", "tv", "ab
                "missinternationalofficial", "instagram", "developer", "web", "tags", "locations", "popular"}
 
 
-def ig_graph(user):
-    """Instagram Graph API oficial (Business Discovery). Requiere los secretos IG_TOKEN e IG_USER_ID
-    de una cuenta profesional de Instagram conectada a una app de Meta. Lee cuentas públicas profesionales."""
+def ig_graph(user, known=frozenset(), max_pages=1):
+    """Instagram Graph API oficial (Business Discovery). Requiere los secretos IG_TOKEN e IG_USER_ID.
+    Pagina hacia atrás hasta encontrar posts ya conocidos o agotar max_pages (50 posts por página)."""
     import os
     tok, me = os.environ.get("IG_TOKEN"), os.environ.get("IG_USER_ID")
     if not (tok and me):
         raise RuntimeError("sin credenciales")
-    fields = ("business_discovery.username(%s){name,followers_count,profile_picture_url,media.limit(25)"
-              "{caption,media_url,thumbnail_url,permalink,timestamp,like_count,comments_count,media_type,children{media_url}}}") % user
-    d = json.loads(U.get(f"https://graph.facebook.com/v21.0/{me}?fields={urllib.parse.quote(fields)}&access_token={tok}"))["business_discovery"]
-    posts = []
-    for m in d.get("media", {}).get("data", []):
-        imgs = [c.get("media_url") for c in m.get("children", {}).get("data", []) if c.get("media_url")] or [m.get("media_url") or m.get("thumbnail_url")]
-        code = re.search(r"/(?:p|reel|tv)/([\w-]+)", m["permalink"]).group(1)
-        posts.append({"code": code, "url": m["permalink"], "owner": user, "images": [i for i in imgs if i][:10],
-                      "thumb": m.get("thumbnail_url") or m.get("media_url"), "caption": (m.get("caption") or "")[:1200],
-                      "likes": m.get("like_count"), "comments": m.get("comments_count"), "is_video": m.get("media_type") == "VIDEO",
-                      "taken": m["timestamp"].replace("+0000", "+00:00")})
-    return {"handle": user, "name": d.get("name"), "followers": d.get("followers_count"), "pic": d.get("profile_picture_url"), "posts": posts}
+    posts, after, meta = [], None, {}
+    for _ in range(max_pages):
+        media = "media" + (f".after({after})" if after else "") + ".limit(50)"
+        fields = ("business_discovery.username(%s){name,followers_count,media_count,profile_picture_url,%s"
+                  "{caption,media_url,thumbnail_url,permalink,timestamp,like_count,comments_count,media_type,children{media_url,media_type}}}") % (user, media)
+        d = json.loads(U.get(f"https://graph.facebook.com/v21.0/{me}?fields={urllib.parse.quote(fields)}&access_token={tok}", timeout=40))["business_discovery"]
+        meta = {"name": d.get("name"), "followers": d.get("followers_count"), "media_count": d.get("media_count"), "pic": d.get("profile_picture_url")}
+        stop = False
+        for m in d.get("media", {}).get("data", []):
+            kids = [c for c in m.get("children", {}).get("data", []) if c.get("media_url") and c.get("media_type") != "VIDEO"]
+            imgs = [c["media_url"] for c in kids] or [m.get("media_url") or m.get("thumbnail_url")]
+            code = re.search(r"/(?:p|reel|tv)/([\w-]+)", m["permalink"]).group(1)
+            if code in known:
+                stop = True
+            posts.append({"code": code, "url": m["permalink"], "owner": user, "images": [i for i in imgs if i][:10],
+                          "thumb": m.get("thumbnail_url") or (imgs[0] if imgs else None), "caption": (m.get("caption") or "")[:1500],
+                          "likes": m.get("like_count"), "comments": m.get("comments_count"), "is_video": m.get("media_type") == "VIDEO",
+                          "taken": m["timestamp"].replace("+0000", "+00:00")})
+        after = d.get("media", {}).get("paging", {}).get("cursors", {}).get("after")
+        if stop or not after:
+            break
+        time.sleep(0.5)
+    return {"handle": user, **meta, "posts": posts}
 
 
 def ig_search_posts(c):
@@ -338,8 +349,9 @@ def run(mod, contestants, deadline_s=200):
             if time.time() - t0 > deadline_s * 0.5:
                 break
             try:
-                p = ig_graph(handle)
-                G["accounts"][handle] = {"name": p["name"], "followers": p["followers"], "pic": p["pic"], "contest": cid, "kind": kind, "fetched": now.isoformat()}
+                known = frozenset(c for c, x in G["ig_posts"].items() if x.get("owner") == handle)
+                p = ig_graph(handle, known, max_pages=8 if kind == "oficial" else 2)
+                G["accounts"][handle] = {"name": p.get("name"), "followers": p.get("followers"), "media_count": p.get("media_count"), "pic": p.get("pic"), "contest": cid, "kind": kind, "fetched": now.isoformat()}
                 for post in p["posts"]:
                     post["contest"], post["kind"] = cid, kind
                     G["ig_posts"][post["code"]] = {**G["ig_posts"].get(post["code"], {}), **post, "seen": now.isoformat()}
@@ -380,7 +392,7 @@ def run(mod, contestants, deadline_s=200):
             if t:
                 pats.append(r"miss (?:universe |universo |international |internacional )?" + re.escape(t) + r"\b")
         matchers.append((re.compile("|".join(pats)), c))
-    cutoff = now - timedelta(days=40)
+    cutoff = now - timedelta(days=90)
     for code, p in list(G["ig_posts"].items()):
         if datetime.fromisoformat(p.get("taken") or p.get("seen")) < cutoff:
             G["ig_posts"].pop(code)
@@ -460,6 +472,24 @@ def run(mod, contestants, deadline_s=200):
     U.note("Galería · YouTube por candidata", True, ny)
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
+    try:
+        peek = U.load("_peek_request.json", None)
+        if peek:
+            import os, urllib.request
+            os.makedirs(os.path.join(U.DATA, "_peek"), exist_ok=True)
+            n = 0
+            for code, p in G["ig_posts"].items():
+                if p.get("owner") != "missuniverse" or not re.search(peek.get("rx", "official m"), U.norm(p.get("caption", ""))):
+                    continue
+                for j, u in enumerate(p.get("images", [])[:4]):
+                    req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+                    with urllib.request.urlopen(req, timeout=30) as r:
+                        open(os.path.join(U.DATA, "_peek", f"{code}_{j}.jpg"), "wb").write(r.read())
+                n += 1
+                if n >= peek.get("n", 3):
+                    break
+    except Exception as e:
+        U.note("peek", False, err=repr(e)[:150])
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]
     G["updated"] = now.isoformat()
     U.save("gallery.json", G)
