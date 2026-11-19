@@ -74,9 +74,16 @@
   <!-- GALERÍA -->
   <section id="galeria" class="tab">
     <div class="sechead"><div><h2>Galería</h2><p class="lead">Fotos ordenadas por candidata y categoría. Elige varias y descárgalas en un ZIP.</p></div>
-      <div class="seg" id="galMode"><button data-gm="fotos" class="on">Fotos por candidata</button><button data-gm="ig">Instagram</button><button data-gm="videos">Videos</button></div></div>
+      <div class="seg" id="galMode"><button data-gm="dias" class="on">Outfits por día</button><button data-gm="fotos">Por candidata</button><button data-gm="ig">Instagram</button><button data-gm="videos">Videos</button></div></div>
 
-    <div id="galFotos">
+    <div id="galDias">
+      <div class="filters sticky"><select id="dContest"></select><input id="dQ" type="search" placeholder="País o nombre…"><label class="switch"><input type="checkbox" id="dOnly" checked> Solo con fotos ese día</label></div>
+      <div class="chips daybar" id="dBar"></div>
+      <div id="dHead"></div>
+      <div id="dGrid" class="pgrid"></div>
+    </div>
+
+    <div id="galFotos" hidden>
       <div class="filters sticky">
         <select id="gContest"></select>
         <div class="seg" id="gCat"></div>

@@ -26,6 +26,7 @@ CAT_ORDER = [c[0] for c in CATS]
 BASE_ACCOUNTS = [("missuniverse", "mu", "oficial"), ("missinternationalofficial", "mi", "oficial"),
                  ("missuniversechileof", "mu", "org. nacional"), ("themissuniverseph", "mu", "org. nacional"),
                  ("missuniverse.mexico", "mu", "org. nacional")]
+BAD_IMG = re.compile(r"ytimg\.com|youtube\.com|bing\.com/th|gstatic\.com|/logo|favicon|placeholder|avatar|sprite|\.svg|\.gif", re.I)
 BAD_HANDLES = {"p", "reel", "reels", "explore", "accounts", "stories", "tv", "about", "legal", "direct", "missuniverse",
                "missinternationalofficial", "instagram", "developer", "web", "tags", "locations", "popular"}
 
@@ -134,7 +135,7 @@ def bing_cell(c, cat):
 
 
 DESIGNER_STYLES = {  # estilos conocidos de las series oficiales (se completan con lo observado)
-    "gianninaazar": ("mu75-bano-marfil", "Retrato oficial 75° · traje de baño marfil años 50", "retrato"),
+    "gianninaazar": ("mu75-bano-marfil", "Sesión oficial 75° · traje de baño marfil (fondo verde menta)", "bano"),
 }
 COUNTRY_ALIAS = {"democratic republic of congo": "dr congo", "democratic republic of the congo": "dr congo", "reunion island": "reunion", "the bahamas": "bahamas",
                  "turks and caicos": "turks and caicos islands", "the netherlands": "netherlands", "the philippines": "philippines",
@@ -178,7 +179,7 @@ def ig_series(G, contestants):
             continue
         ph = (re.search(r"picture\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
         de = (re.search(r"designer\s*:\s*@?([\w.]+)", cap, re.I) or [None, ""])[1]
-        sid, label, cat = DESIGNER_STYLES.get(de.lower(), (f"mu-oficial-{slug_(de or ph)}", f"Retrato oficial · @{de or ph} (estilo nuevo, sin describir)", "retrato"))
+        sid, label, cat = DESIGNER_STYLES.get(de.lower(), (f"mu-oficial-{slug_(de or ph)}", f"Sesión oficial · @{de or ph} (estilo nuevo, sin describir)", "otras"))
         meta = U.load("portrait_styles.json", {}).get("styles", {}).get(sid, {})
         label = meta.get("label", label)
         st = styles.setdefault(sid, {"id": sid, "label": label, "short": meta.get("short", label), "desc": meta.get("desc"), "cat": cat,
@@ -325,7 +326,7 @@ def muorg_official(G, contestants, max_pages=25):
 
 
 def press_images(G, contestants):
-    """Fotos de prensa y miniaturas de YouTube atribuidas a cada candidata (la nota/video la nombra)."""
+    """Fotos de notas de prensa que nombran a la candidata (sin miniaturas de YouTube ni de buscadores)."""
     feed = U.load("feed.json", {"items": []}).get("items", [])
     arts = U.load("articles.json", {})
     press = {}
@@ -337,16 +338,10 @@ def press_images(G, contestants):
         text = it.get("title", "") + " " + it.get("summary", "")
         cats = classify(text) or ["otras"]
         imgs = []
-        if it.get("type") == "video":
-            m = re.search(r"v=([\w-]{11})", it.get("link", ""))
-            if m:
-                imgs.append({"url": f"https://i.ytimg.com/vi/{m.group(1)}/maxresdefault.jpg", "thumb": f"https://i.ytimg.com/vi/{m.group(1)}/hqdefault.jpg",
-                             "via": "YouTube", "credit": it.get("source", "").replace("YouTube · ", "")})
         a = arts.get(it.get("link"), {})
         for u in a.get("images", [])[:4]:
-            imgs.append({"url": u, "via": "Prensa", "credit": it.get("source")})
-        if it.get("thumb") and it.get("type") == "news":
-            imgs.append({"url": it["thumb"], "via": "Prensa (miniatura)", "credit": it.get("source")})
+            if not BAD_IMG.search(u):
+                imgs.append({"url": u, "via": "Prensa", "credit": it.get("source")})
         for k in who:
             if k not in names:
                 continue
@@ -355,16 +350,6 @@ def press_images(G, contestants):
                 for im in imgs:
                     if im["url"] not in [x["url"] for x in lst]:
                         lst.append({**im, "page": it.get("link"), "title": it.get("title", "")[:140], "date": it.get("published")})
-    for k, rec in (G.get("ytc") or {}).items():
-        if k not in names:
-            continue
-        for v in rec.get("videos", []):
-            for cat in (classify(v.get("title", "")) or ["otras"])[:2]:
-                lst = press.setdefault(f"{k}|{cat}", [])
-                u = f"https://i.ytimg.com/vi/{v['vid']}/maxresdefault.jpg"
-                if u not in [x["url"] for x in lst]:
-                    lst.append({"url": u, "thumb": f"https://i.ytimg.com/vi/{v['vid']}/hqdefault.jpg", "page": "https://www.youtube.com/watch?v=" + v["vid"],
-                                "via": "YouTube", "credit": v.get("channel"), "title": v.get("title", "")[:140], "views": v.get("views"), "date": rec.get("fetched")})
     press = {k: v for k, v in press.items() if v}
     for k in press:
         press[k] = sorted(press[k], key=lambda x: x.get("date") or "", reverse=True)[:24]
@@ -409,6 +394,10 @@ def run(mod, contestants, deadline_s=200):
     #   a) Graph API oficial (si hay credenciales): cuentas oficiales + candidatas en rotación
     extra = U.load("instagram.json", {"accounts": []}).get("accounts", [])
     accounts = [(a, cid, kind) for a, cid, kind in BASE_ACCOUNTS] + [(x["handle"], x.get("contest", "mu"), x.get("kind", "manual")) for x in extra if x.get("handle")]
+    for pid, rec in (U.load("socials.json", {}).get("pageants") or {}).items():
+        ig = rec.get("instagram") or {}
+        if ig.get("verified") and ig.get("handle") and ig["handle"] not in [a[0] for a in accounts]:
+            accounts.append((ig["handle"], pid, "oficial"))
     import igsync
     igsync.U = U
     G.setdefault("orgs", dict(igsync.BASE_ORGS))
@@ -588,12 +577,58 @@ def run(mod, contestants, deadline_s=200):
     G["ig_cand"] = igc
     U.note("Instagram · fotos y looks por candidata", True, sum(len(v) for v in igc.values()),
            err=f"{len({k.rsplit('|', 1)[0] for k in igc})} candidatas con fotos de Instagram propias o de su organización")
+    # posts oficiales de grupo / del día (pasarelas, actividades): sirven para "outfits del día"
+    evp = []
+    cut = (now - timedelta(days=30)).isoformat()
+    for p in posts:
+        if p.get("kind") != "oficial" or p.get("style") or not p.get("images") or (p.get("taken") or "") < cut or len(p.get("who") or []) == 1:
+            continue
+        evp.append({"code": p["code"], "url": p.get("url"), "owner": p.get("owner"), "contest": p.get("contest"), "date": p.get("taken"),
+                    "caption": (p.get("caption") or "")[:300], "who": p.get("who") or [], "likes": p.get("likes"), "comments": p.get("comments"),
+                    "images": [{"url": u, "mkey": f"{p['code']}_{j}"} for j, u in enumerate(p["images"][:10])]})
+    G["ig_event"] = evp[:80]
+    import hashlib
+    for v in (G.get("official") or {}).values():
+        for x in v:
+            x.setdefault("mkey", "web_" + hashlib.md5(x["url"].encode()).hexdigest()[:14])
     try:
-        todo = [(x["mkey"], x["url"]) for v in ser.values() for x in v]
+        todo = [(x["mkey"], x["url"]) for v in (G.get("official") or {}).values() for x in v]
+        todo += [(x["mkey"], x["url"]) for v in ser.values() for x in v]
+        todo += [(im["mkey"], im["url"]) for e in evp[:40] for im in e["images"]]
         todo += [(x["mkey"], x["url"]) for v in sorted(igc.values(), key=lambda l: -(l[0].get("likes") or 0)) for x in v]
-        igsync.mirror(G, todo)
+        igsync.mirror(G, todo, budget=220)
     except Exception as e:
         U.note("Espejo de imágenes", False, err=repr(e)[:200])
+    # RETRATO OFICIAL = foto de estudio con fondo neutro claro, de la web oficial (o anunciada como retrato oficial por una cuenta oficial)
+    mp = G.get("mirror") or {}
+    ret, pend = {}, 0
+    for key, v in (G.get("official") or {}).items():
+        k = key.rsplit("|", 1)[0]
+        for x in v:
+            b = (mp.get(x["mkey"]) or {}).get("bg")
+            if b == "claro":
+                ret.setdefault(k, []).append({**x, "bg": b, "official": True, "src": "web oficial"})
+            elif b is None:
+                pend += 1
+    rx_head = re.compile(r"head\s?shot|official (portrait|photo)|retrato oficial|foto oficial", re.I)
+    for p in posts:
+        who = p.get("who") or []
+        if len(who) != 1 or p.get("kind") not in ("oficial", "org. nacional") or not rx_head.search(p.get("caption") or ""):
+            continue
+        for j, u in enumerate(p.get("images") or []):
+            m = mp.get(f"{p['code']}_{j}") or {}
+            if m.get("bg") == "claro":
+                ret.setdefault(who[0], []).append({"url": u, "mkey": f"{p['code']}_{j}", "page": p.get("url"), "via": "Instagram @" + (p.get("owner") or ""),
+                                                   "credit": "@" + (p.get("owner") or ""), "title": (p.get("caption") or "")[:120], "date": p.get("taken"),
+                                                   "bg": "claro", "official": p.get("kind") == "oficial", "ig": True, "src": "Instagram " + p.get("kind")})
+    G["retrato"] = ret
+    U.note("Retratos oficiales (fondo neutro claro, verificados por color)", True, len(ret),
+           err=f"{pend} imágenes de la web oficial pendientes de revisar el fondo" if pend else None)
+    try:
+        import socials
+        socials.run(U, G, cs, igsync, bool(os.environ.get("IG_TOKEN")))
+    except Exception as e:
+        U.note("Redes sociales", False, err=repr(e)[:200])
     n = press_images(G, cs)
     U.note("Galería · fotos de prensa y video atribuidas a candidatas", True, n)
     G["cats"] = [{"id": a, "label": b} for a, b, _, _ in CATS] + [{"id": "otras", "label": "Más fotos"}]

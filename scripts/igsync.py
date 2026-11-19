@@ -153,7 +153,7 @@ def guesses(c):
     return [("c", h) for h in dict.fromkeys(out)] + [("o", h) for h in dict.fromkeys(orgs)]
 
 
-def guess_sync(G, cs, budget=14):
+def guess_sync(G, cs, budget=24):
     """Prueba usuarios probables con Business Discovery y solo acepta los que la API confirma."""
     tried = G.setdefault("guess_tried", {})
     orgs = G.setdefault("orgs", dict(BASE_ORGS))
@@ -162,10 +162,11 @@ def guess_sync(G, cs, budget=14):
         org_of.setdefault(k, h)
     order = sorted(cs, key=lambda c: (0 if c.get("hot") else 1, c["contest"] != "mu"))
     done = found = 0
-    for c in order:
+    plan = [(c, kind, h) for phase in ("o", "c") for c in order for kind, h in guesses(c) if kind == phase]
+    for c, kind, h in plan:
         k = c["contest"] + "|" + c["country"]
         have_c = G["handles"].get(k, {}).get("conf") == "verificada"
-        for kind, h in guesses(c):
+        if True:
             if done >= budget:
                 return done, found
             if (kind == "c" and have_c) or (kind == "o" and k in org_of) or tried.get(h):
@@ -184,7 +185,6 @@ def guess_sync(G, cs, budget=14):
             signal = re.search(r"miss|univers|reina|queen|pageant", txt) or any(t in txt for t in ctry)
             if kind == "c" and len(parts) >= 2 and sum(p in txt for p in parts) >= 2 and signal:
                 G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": "API (usuario confirmado)"}
-                have_c = True
                 found += 1
             elif kind == "o" and re.search(r"miss|univers|international", txt) and any(t in txt for t in ctry):
                 orgs[h] = k
@@ -230,6 +230,25 @@ def pil():
     return Image
 
 
+def bg_of(im):
+    """Color del fondo: mediana del borde superior y laterales (zona alta). 'claro' = neutro claro (estudio blanco/gris/crema)."""
+    import colorsys, statistics
+    s = im.convert("RGB").resize((60, 80))
+    px = [s.getpixel((x, y)) for y in range(0, 6) for x in range(60)] + [s.getpixel((x, y)) for y in range(6, 48) for x in (0, 1, 2, 57, 58, 59)]
+    med = tuple(int(statistics.median(p[i] for p in px)) for i in range(3))
+    sd = statistics.pstdev([sum(p) / 3 for p in px])
+    h, sat, v = colorsys.rgb_to_hsv(*(c / 255 for c in med))
+    if v > 0.70 and sat < 0.20:
+        kind = "claro"
+    elif v < 0.30:
+        kind = "oscuro"
+    elif 0.19 < h < 0.50 and sat > 0.12:
+        kind = "verde"
+    else:
+        kind = "color"
+    return {"bg": kind, "bgc": "#%02x%02x%02x" % med, "uni": round(sd, 1)}
+
+
 def mirror(G, todo, budget=160, seconds=150):
     """todo: lista de (clave, url) en orden de prioridad. Guarda ig/<clave>.jpg (1080 px) e ig/t/<clave>.jpg (480 px)."""
     if os.environ.get("GITHUB_ACTIONS") != "true":
@@ -253,10 +272,19 @@ def mirror(G, todo, budget=160, seconds=150):
                 c = im.copy()
                 c.thumbnail((size, int(size * 1.6)))
                 c.save(os.path.join(wt, "ig", sub + key + ".jpg"), "JPEG", quality=q, optimize=True, progressive=True)
-            mp[key] = {"f": RAW + "ig/" + key + ".jpg", "t": RAW + "ig/t/" + key + ".jpg", "w": im.width, "h": im.height}
+            mp[key] = {"f": RAW + "ig/" + key + ".jpg", "t": RAW + "ig/t/" + key + ".jpg", "w": im.width, "h": im.height, **bg_of(im)}
             n += 1
         except Exception:
             fails += 1
+    nb = 0
+    for key, rec in mp.items():  # fondo de las copias antiguas (sin volver a descargarlas)
+        if "bg" in rec or nb >= 800:
+            continue
+        try:
+            rec.update(bg_of(Image.open(os.path.join(wt, "ig", "t", key + ".jpg"))))
+            nb += 1
+        except Exception:
+            rec["bg"] = None
     if n:
         _git("add", "-A", cwd=wt)
         _git("commit", "-q", "-m", f"imágenes: +{n}", cwd=wt)

@@ -1,13 +1,14 @@
 {
- "nota": "Estilos de retrato de las series oficiales de @missuniverse. 'roles' = qué muestra cada foto del carrusel, en orden (verificado mirando muestras).",
+ "nota": "Series de fotos oficiales de @missuniverse. 'roles' = qué muestra cada foto del carrusel, en orden. El 'Retrato oficial' (headshot) es otra cosa: fondo neutro claro, sale de la web oficial.",
  "styles": {
   "mu75-bano-marfil": {
-   "label": "Retrato oficial 75° · traje de baño marfil años 50 con cetro",
-   "short": "Retrato oficial 75°",
+   "label": "Sesión oficial 75° · traje de baño marfil (fondo verde menta)",
+   "short": "Sesión 75° traje de baño",
    "desc": "Traje de baño strapless de una pieza color marfil, con escote festoneado y apliques de estrellas plateadas (diseño de Giannina Azar). Cetro plateado de cristales, fondo verde menta, estética pin-up de los años 50 (ondas Hollywood y labios rojos), sandalias plateadas de Sandra Cano. Foto de Jorge Ferráez, con el sello del 75° aniversario de Miss Universe Puerto Rico.",
    "photographer": "jorgeferraez",
    "designer": "gianninaazar",
-   "shoes": "sandra_cano_shoes"
+   "shoes": "sandra_cano_shoes",
+   "nota": "NO es el retrato oficial: el retrato oficial es la foto de fondo neutro claro que publica la web oficial."
   }
  },
  "roles": {

@@ -35,8 +35,9 @@ const shortP = id => ({ mu: "Universe", mi: "International", me: "Earth", mw: "W
 
 /* ---------------- carga ---------------- */
 async function loadAll(first) {
-  const [p, c, ca, f, v, w, st, es, co, evs, gal] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
-    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json", "gallery.json"].map(getJSON));
+  const [p, c, ca, f, v, w, st, es, co, evs, gal, soc] = await Promise.all(["pageants.json", "contestants.json", "contestants_auto.json", "feed.json",
+    "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json", "events.json", "gallery.json", "socials.json"].map(getJSON));
+  if (soc) S.socials = soc;
   if (p) S.pageants = p.pageants;
   if (c) {
     // Wikipedia (lista automática) manda; lo manual aporta notas, IG y hot picks.
@@ -59,10 +60,11 @@ async function loadAll(first) {
   if (f) for (const i of f.items) S.idx["feed:" + i.id] = { type: i.type === "video" ? "video" : "nota", title: i.title, url: i.link, img: i.thumb || "", source: i.source, date: i.published };
   if (v) S.videos = v; if (w) S.wiki = w; if (st) S.status = st; if (es) S.estudio = es; if (co) S.contenido = co;
   renderPulse();
-  if (first) { renderPageants(); renderContestFilters(); renderLooksStatic(); renderEstudio(); }
+  renderPageants();
+  if (first) { renderContestFilters(); renderLooksStatic(); renderEstudio(); }
   renderHero(); renderAgenda(); renderChips(); renderFeed(); renderWiki(); renderBuzz(); renderCandidatas(); renderVideos();
   renderPolemicas(); renderContenido(); renderStatus(); renderEvents(); renderBasketBtn();
-  if (first) initGallery(); renderGallery(); renderIG();
+  if (first) initGallery(); S.dayCache = null; renderGallery(); renderDays(); renderIG();
 }
 
 function renderPulse() {
@@ -185,7 +187,9 @@ function renderPageants() {
     ${p.entrants ? `<dt>Candidatas</dt><dd>${esc(p.entrants)}</dd>` : ""}
     <dt>Fechas</dt><dd>${(p.events || []).map(e => `${fmt(e.start, { day: "numeric", month: "short" })}: ${esc(e.name)}`).join("<br>")}</dd></dl>
     ${(p.controversies || []).length ? `<b>Polémicas</b><ul>${p.controversies.map(c => `<li>${esc(c.t)} <a href="${esc(c.src)}" target="_blank">fuente</a></li>`).join("")}</ul>` : ""}
-    <div class="links">${Object.entries(p.official || {}).map(([k, u]) => `<a href="${esc(u)}" target="_blank">${k}</a>`).join("")}
+    <div class="links">${(() => { const so = ((S.socials || {}).pageants || {})[p.id]; const NM = { instagram: "Instagram", tiktok: "TikTok", youtube: "YouTube", facebook: "Facebook", x: "X", threads: "Threads", web: "Web oficial", vote: "Votación oficial", app_ios: "App iPhone", app_android: "App Android" };
+      return so ? Object.entries(NM).filter(([n]) => so[n]).map(([n, l]) => `<a href="${esc(so[n].url)}" target="_blank" class="net">${l}${so[n].handle ? " @" + esc(so[n].handle.replace(/^@/, "")) : ""}${so[n].followers ? " · " + num(so[n].followers) : so[n].subs ? " · " + esc(so[n].subs) : ""}${so[n].verified === false ? " (sin confirmar)" : ""}</a>`).join("")
+        : Object.entries(p.official || {}).map(([k, u]) => `<a href="${esc(u)}" target="_blank">${k}</a>`).join(""); })()}
       <a href="https://en.wikipedia.org/wiki/${esc(p.wiki)}" target="_blank">wikipedia</a>
       <a href="https://news.google.com/search?q=${enc(p.name)}&hl=es-419" target="_blank">noticias</a>
       ${["mu", "mi", "me"].includes(p.id) ? `<a href="#" data-goto="${p.id}">ver candidatas →</a>` : ""}</div></div>`).join("");
@@ -646,15 +650,21 @@ window.addEventListener("load", () => { const m = location.hash.match(/^#ev=(.+)
 const CATS = [["retrato", "Retrato oficial"], ["bano", "Traje de baño"], ["tipico", "Traje típico"], ["gala", "Vestido de gala"], ["runway", "Runway"], ["otras", "Looks y más"]];
 function mir(im) { const m = im.mkey && (S.gallery.mirror || {})[im.mkey]; return m ? { ...im, url: m.f, thumb: m.t, orig: im.url } : im; }
 S.gallery = S.gallery || { cells: {}, ig_posts: {}, handles: {}, accounts: {} };
-S.gal = { cat: "retrato", sel: new Set(), mode: "fotos", icat: "", style: "mu75-bano-marfil", role: "" };
+S.gal = { cat: "retrato", sel: new Set(), mode: "dias", icat: "", style: "", role: "", day: "" };
 
-function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : (src.includes("maxresdefault") ? src.replace("maxresdefault", "hqdefault") : ""); return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.remove()}"` : `onerror="this.remove()"`}>`; }
+function imgTag(im) { const src = (im.thumb || im.alt || im.url || "").replace(/^http:\/\//, "https://"), alt2 = im.url !== src ? im.url : (src.includes("maxresdefault") ? src.replace("maxresdefault", "hqdefault") : ""); return `<img src="${esc(src)}" loading="lazy" referrerpolicy="no-referrer" alt="" ${alt2 ? `onerror="if(!this.dataset.r){this.dataset.r=1;this.src='${esc(alt2)}'}else{this.replaceWith(Object.assign(document.createElement('span'),{className:'imgx',textContent:'Foto aún no copiada · ábrela en la fuente ↗'}))}"` : `onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'imgx',textContent:'Foto aún no copiada · ábrela en la fuente ↗'}))"`}>`; }
 function igPostsFor(c, cat) {
   const k = c.contest + "|" + c.country;
   return Object.values(S.gallery.ig_posts || {}).filter(p => (p.who || []).includes(k) && (!cat || (p.cats || []).includes(cat)));
 }
+const BADIMG = /ytimg\.com|youtube\.com|bing\.com\/th|gstatic\.com/i;
 function cellImgs(c, cat) {
-  const out = [];
+  const out = [], k0 = `${c.contest}|${c.country}`;
+  if (cat === "retrato") {
+    for (const u of (store.get("myMedia", {})[`${k0}|retrato`] || [])) out.push({ url: u, page: u, via: "Agregada por ti", credit: "tú" });
+    for (const im of ((S.gallery.retrato || {})[k0] || [])) out.push({ ...mir(im), style_label: "Retrato oficial · fondo neutro claro" });
+    return out;
+  }
   for (const p of igPostsFor(c, cat).filter(p => !p.style)) for (const u of p.images || []) out.push({ url: u, thumb: p.thumb && p.images[0] === u ? p.thumb : u, page: p.url, via: "Instagram @" + (p.owner || ""), credit: "@" + (p.owner || ""), ig: true, likes: p.likes, comments: p.comments });
   for (const u of (store.get("myMedia", {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(/instagram\.com\/(p|reel)\//.test(u) ? { url: u, page: u, via: "Instagram (agregado por ti)", ig: true, post: true } : { url: u, page: u, via: "Agregada por ti", credit: "tú" });
   for (const im of ((S.gallery.ig_official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(mir(im));
@@ -662,7 +672,7 @@ function cellImgs(c, cat) {
   for (const im of ((S.gallery.official || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.press || {})[`${c.contest}|${c.country}|${cat}`] || [])) out.push(im);
   for (const im of ((S.gallery.cells || {})[`${c.contest}|${c.country}|${cat}`] || {}).images || []) out.push({ ...im, ig: im.from_ig });
-  const seen = new Set(); return out.filter(i => !seen.has(i.url) && seen.add(i.url));
+  const seen = new Set(); return out.filter(i => !BADIMG.test(i.url) && !seen.has(i.url) && seen.add(i.url));
 }
 function photoOf(c, cat) {
   for (const k of [cat || "retrato", ...CATS.map(x => x[0])]) { const im = cellImgs(c, k).find(i => !i.post); if (im) return im; }
@@ -671,10 +681,11 @@ function photoOf(c, cat) {
 
 function initGallery() {
   const ids = [...new Set(S.contestants.map(c => c.contest))].filter(x => x !== "me");
-  for (const sel of ["#gContest", "#iContest"]) $(sel).innerHTML = ids.map(id => `<option value="${id}">${esc(pName(id))}</option>`).join("");
+  for (const sel of ["#gContest", "#iContest", "#dContest"]) $(sel).innerHTML = ids.map(id => `<option value="${id}">${esc(pName(id))}</option>`).join("");
   $("#gCat").innerHTML = CATS.map(([id, l]) => `<button data-gcat="${id}" class="${id === S.gal.cat ? "on" : ""}">${l}</button>`).join("");
   $("#iCat").innerHTML = [["", "Todo"], ...CATS].map(([id, l]) => `<button data-icat="${id}" class="${id === S.gal.icat ? "on" : ""}">${l}</button>`).join("");
   ["gContest", "gFav"].forEach(id => $("#" + id).onchange = () => { S.gal.sel.clear(); renderGallery(); });
+  $("#dContest").onchange = () => { S.gal.day = ""; renderDays(); }; $("#dQ").oninput = renderDays; $("#dOnly").onchange = renderDays;
   $("#gQ").oninput = renderGallery; $("#iQ").oninput = renderIG; $("#iContest").onchange = renderIG;
 }
 function renderGallery() {
@@ -691,7 +702,9 @@ function renderGallery() {
   const withImg = list.filter(c => fimgs(c).length).length;
   const stSel = (S.gallery.styles || {})[S.gal.style];
   $("#gStyleDesc").innerHTML = stSel && stSel.desc ? esc(stSel.desc) : "";
-  $("#gInfo").textContent = `${withImg} de ${list.length} candidatas ya tienen fotos de "${CATS.find(x => x[0] === cat)[1]}". El robot sigue buscando en cada corrida. Toca una foto para ver todas; marca ✓ para descargar varias.`;
+  $("#gInfo").textContent = cat === "retrato"
+    ? `Retrato oficial = foto de estudio con fondo neutro claro publicada en la web oficial (las de fondo verde menta son la sesión de traje de baño 75° y están en "Traje de baño"). ${withImg} de ${list.length} ya lo tienen; el robot revisa la web oficial y comprueba el color del fondo de cada foto.`
+    : `${withImg} de ${list.length} candidatas ya tienen fotos de "${CATS.find(x => x[0] === cat)[1]}". El robot sigue buscando en cada corrida. Toca una foto para ver todas; marca ✓ para descargar varias.`;
   $("#gGrid").innerHTML = list.map(c => {
     const k = c.contest + "|" + c.country, ims = fimgs(c), im = ims[0], on = S.gal.sel.has(k);
     return `<div class="pc ${on ? "sel" : ""}" data-prof="${esc(k)}" data-pcat="${cat}">
@@ -751,14 +764,19 @@ document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#m
 function openProfile(k, cat) {
   const c = S.contestants.find(x => x.contest + "|" + x.country === k); if (!c) return;
   const h = (S.gallery.handles || {})[k] || {}, acc = h.handle ? (S.gallery.accounts || {})[h.handle] || {} : {};
-  const ig = c.ig || (h.conf === "alta" || h.conf === "verificada" ? h.handle : null);
+  const so = ((S.socials || {}).contestants || {})[k] || {};
+  const ig = (so.instagram || {}).handle || c.ig || (h.conf === "alta" || h.conf === "verificada" ? h.handle : null);
+  if (so.instagram && so.instagram.followers) acc.followers = acc.followers || so.instagram.followers;
   const its = (S.feed.items || []).filter(i => (i.who || []).some(w => w.contest === c.contest && w.country === c.country));
   const favs = store.get("favs", {}), ranks = store.get("ranks", {});
   const counts = Object.fromEntries(CATS.map(([id]) => [id, cellImgs(c, id).length]));
   cat = cat || CATS.find(([id]) => counts[id])?.[0] || "retrato";
   const ph = photoOf(c, "retrato");
   const evs = allEvents().filter(e => e.contest === c.contest && !/agenda/.test(e.kind)).slice(0, 30);
-  const L = links(c).filter(([l]) => l !== "IG");
+  const L = links(c).filter(([l]) => l !== "IG" && !(l === "TikTok" && so.tiktok));
+  const net = [ig ? [`Instagram @${ig}${(so.instagram || {}).verified ? " ✓" : ""}`, `https://www.instagram.com/${ig}/`] : null,
+    so.tiktok ? [`TikTok @${so.tiktok.handle} ✓`, so.tiktok.url] : null,
+    so.org_instagram ? [`Org. nacional @${so.org_instagram.handle} ✓`, so.org_instagram.url] : null].filter(Boolean);
   openDrawer(`<div class="profile" data-pk="${esc(k)}">
    <div class="prof"><div class="ph">${ph ? imgTag(ph) : flag(c.iso)}</div>
    <div><div class="hint">${esc(pName(c.contest))}${c.hot ? ` · <span class="hotb">HOT #${c.hot}</span>` : ""}</div>
@@ -771,7 +789,7 @@ function openProfile(k, cat) {
     <div class="toolbar"><button class="${favs[k] ? "" : "ghost"}" data-pfav="${esc(k)}">${favs[k] ? "★ Favorita" : "☆ Favorita"}</button>
      <label class="rng">Mi ranking <input class="rank" data-prank="${esc(k)}" type="number" min="1" value="${ranks[k] || ""}" style="width:64px"></label>
      <select data-php="${esc(k)}"><option value="">+ Agregar a hot picks de…</option>${evs.map(e => `<option value="${esc(e.id)}">${esc(e.name)}</option>`).join("")}</select></div>
-    <div class="lk">${ig ? `<a href="https://www.instagram.com/${esc(ig)}/" target="_blank">Instagram</a>` : ""}${L.map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`).join("")}</div>
+    <div class="lk">${net.map(([l, u]) => `<a class="net" href="${esc(u)}" target="_blank" rel="noopener">${esc(l)}</a>`).join("")}${!ig ? `<span class="hint">Instagram: el robot la está buscando y la confirma con la API oficial.</span>` : ""}${L.map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`).join("")}</div>
    </div></div>
    <div class="dtabs">${CATS.map(([id, l]) => `<button data-ptab="${id}" class="${id === cat ? "on" : ""}">${l}<i>${counts[id]}</i></button>`).join("")}<button data-ptab="ig" class="${cat === "ig" ? "on" : ""}">Instagram<i>${igPostsFor(c).length}</i></button><button data-ptab="news" class="${cat === "news" ? "on" : ""}">Noticias<i>${its.length}</i></button></div>
    <div id="pbody"></div></div>`);
@@ -792,20 +810,23 @@ function renderPTab(k, cat) {
   $("#pbody").innerHTML = `<div class="toolbar"><button class="ghost" data-selall>Seleccionar todas</button><button data-dlsel>⬇ Descargar seleccionadas</button><button class="ghost" data-addsel>★ Marcar seleccionadas</button>
      <a href="https://www.google.com/search?tbm=isch&q=${enc(c.name + " Miss Universe 2026 " + label)}" target="_blank">buscar más ↗</a><span class="prog" id="prog"></span></div>
     <div class="toolbar"><input id="addMedia" placeholder="Pega el link de una foto o de un post de Instagram para guardarlo en esta categoría" style="flex:1"><button data-addmedia="${esc(k)}|${cat}">+ Agregar</button></div>
-    ${[...new Set(ims.map(i => i.style_label || "Prensa, YouTube y otras fuentes"))].map(g => `<h4 style="margin:14px 0 8px;font-size:18px">${esc(g)}${(() => { const st = Object.values(S.gallery.styles || {}).find(x => x.label === g); return st && st.desc ? `</h4><p class="hint" style="margin:-4px 0 10px">${esc(st.desc)}</p><h4 style="display:none">` : ""; })()}${ims.find(i => (i.style_label || "Prensa, YouTube y otras fuentes") === g && i.credit && i.style) ? ` <span class="hint" style="font-family:var(--sans)">${esc(ims.find(i => i.style_label === g).credit)}</span>` : ""}</h4>
-    <div class="igrid">${ims.map((im, n) => (im.style_label || "Prensa, YouTube y otras fuentes") !== g ? "" : im.post ? `<div class="ig" style="display:grid;place-items:center;aspect-ratio:4/5;background:linear-gradient(45deg,#f58529,#dd2a7b,#8134af)"><button class="ghost" style="color:#fff;border-color:#fff" data-igembed="${esc(im.url)}">Ver post de IG</button></div>` : `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
+    ${[...new Set(ims.map(i => i.style_label || "Prensa y otras fuentes"))].map(g => `<h4 style="margin:14px 0 8px;font-size:18px">${esc(g)}${(() => { const st = Object.values(S.gallery.styles || {}).find(x => x.label === g); return st && st.desc ? `</h4><p class="hint" style="margin:-4px 0 10px">${esc(st.desc)}</p><h4 style="display:none">` : ""; })()}${ims.find(i => (i.style_label || "Prensa y otras fuentes") === g && i.credit && i.style) ? ` <span class="hint" style="font-family:var(--sans)">${esc(ims.find(i => i.style_label === g).credit)}</span>` : ""}</h4>
+    <div class="igrid">${ims.map((im, n) => (im.style_label || "Prensa y otras fuentes") !== g ? "" : im.post ? `<div class="ig" style="display:grid;place-items:center;aspect-ratio:4/5;background:linear-gradient(45deg,#f58529,#dd2a7b,#8134af)"><button class="ghost" style="color:#fff;border-color:#fff" data-igembed="${esc(im.url)}">Ver post de IG</button></div>` : `<div class="ig" data-k="pimg:${esc(k)}:${cat}:${n}"><input type="checkbox" class="isel">${imgTag(im)}
      <div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.title || im.via || "")}">${im.ig ? "📷 IG" : esc(im.credit || im.via || "fuente")}</a><span><button data-dl="pimg:${esc(k)}:${cat}:${n}">⬇</button> ${mkBtn(`pimg:${k}:${cat}:${n}`)}</span></div>${im.role ? `<span class="cnt" style="left:auto;right:8px">${esc(im.role)}${im.likes != null ? " · ♥ " + num(im.likes) : ""}</span>` : ""}</div>`).join("")}</div>`).join("") || `<div class="empty">El robot todavía no encuentra fotos de "${label}" para ${esc(c.name)}. Vuelve en unos minutos.</div>`}
     <p class="hint">Fuentes: fotos de notas y videos que la nombran (clasificadas por el texto), Instagram y lo que agregues tú. Usa las fotos con crédito.</p>`;
 }
 
 /* ---- eventos de UI de galería/perfil ---- */
 document.addEventListener("click", e => {
-  const t = e.target.closest("[data-gstyle],[data-grole],[data-gm],[data-gcat],[data-icat],[data-gsel],[data-prof],[data-ptab],[data-pfav],[data-igembed],[data-addmedia],#moreBtn,#selZip,#selMark,#selClear,[data-tab]");
+  const t = e.target.closest("[data-gstyle],[data-grole],[data-gm],[data-day],[data-dayprof],[data-dayzip],[data-gcat],[data-icat],[data-gsel],[data-prof],[data-ptab],[data-pfav],[data-igembed],[data-addmedia],#moreBtn,#selZip,#selMark,#selClear,[data-tab]");
   if (!t) { if (!e.target.closest(".more")) $("#moreMenu").hidden = true; return; }
   const d = t.dataset;
   if (t.id === "moreBtn") { $("#moreMenu").hidden = !$("#moreMenu").hidden; return; }
   if (d.tab) { setTimeout(updSelbar, 0); return; }
-  if (d.gm) { S.gal.mode = d.gm; $$("#galMode button").forEach(b => b.classList.toggle("on", b === t)); $("#galFotos").hidden = d.gm !== "fotos"; $("#galIg").hidden = d.gm !== "ig"; $("#galVideos").hidden = d.gm !== "videos"; updSelbar(); return; }
+  if (d.gm) { S.gal.mode = d.gm; $$("#galMode button").forEach(b => b.classList.toggle("on", b === t)); $("#galFotos").hidden = d.gm !== "fotos"; $("#galDias").hidden = d.gm !== "dias"; if (d.gm === "dias") renderDays(); $("#galIg").hidden = d.gm !== "ig"; $("#galVideos").hidden = d.gm !== "videos"; updSelbar(); return; }
+  if (d.day !== undefined) { S.gal.day = d.day; return renderDays(); }
+  if (d.dayprof) return openDayProfile(d.dayprof, S.gal.day);
+  if (d.dayzip !== undefined) { const rows = dayRows(d.dayzip || null); if (!rows.length) return toast("No hay fotos ese día"); toast(`Preparando ZIP con ${rows.length} fotos…`); return buildZip(rows, "crown-" + $("#dContest").value + "-" + S.gal.day + (d.dayzip ? "-" + fname(d.dayzip) : "")); }
   if (d.gstyle !== undefined) { S.gal.style = d.gstyle; S.gal.role = ""; return renderGallery(); }
   if (d.grole !== undefined) { S.gal.role = d.grole; return renderGallery(); }
   if (d.gcat) { S.gal.cat = d.gcat; S.gal.style = ""; S.gal.role = ""; S.gal.sel.clear(); $$("#gCat button").forEach(b => b.classList.toggle("on", b === t)); return renderGallery(); }
@@ -849,3 +870,73 @@ if (!standalone && /iphone|ipad/i.test(navigator.userAgent) && !store.get("iosHi
 }
 // volver con el gesto/botón atrás del celular cierra el panel lateral en vez de salir
 window.addEventListener("popstate", () => { if (!$("#drawer").hidden) closeDrawer(true); });
+
+
+/* ================= OUTFITS POR DÍA ================= */
+const PR_TZ = "America/Puerto_Rico";
+const cap1 = t => t.charAt(0).toUpperCase() + t.slice(1);
+const dayKey = iso => iso ? new Date(iso).toLocaleDateString("en-CA", { timeZone: PR_TZ }) : "";
+const dayLabel = (d, o) => new Date(d + "T12:00:00-04:00").toLocaleDateString("es-CL", { timeZone: PR_TZ, ...o });
+function dayIndex() {
+  if (S.dayCache) return S.dayCache;
+  const idx = {}, G = S.gallery || {};
+  const add = (k, im, cat) => { if (!im.date || BADIMG.test(im.url || "")) return; const [ct] = k.split("|"), d = dayKey(im.date);
+    const box = ((idx[ct] = idx[ct] || {})[d] = idx[ct][d] || { by: {}, ev: [] }); const l = (box.by[k] = box.by[k] || []);
+    if (!l.some(x => x.url === im.url)) l.push({ ...mir(im), cat }); };
+  for (const src of ["ig_official", "ig_cand", "press"]) for (const [key, l] of Object.entries(G[src] || {})) { const i = key.lastIndexOf("|"); for (const im of l) add(key.slice(0, i), im, key.slice(i + 1)); }
+  for (const [k, l] of Object.entries(G.retrato || {})) for (const im of l) add(k, im, "retrato");
+  for (const e of G.ig_event || []) { const d = dayKey(e.date), ct = e.contest || "mu"; const box = ((idx[ct] = idx[ct] || {})[d] = idx[ct][d] || { by: {}, ev: [] }); box.ev.push(e); }
+  const isM = im => /raw\.githubusercontent/.test(im.url || "") ? 0 : 1;
+  for (const ct in idx) for (const d in idx[ct]) for (const k in idx[ct][d].by) idx[ct][d].by[k].sort((a, b) => isM(a) - isM(b));
+  return (S.dayCache = idx);
+}
+function dayEvents(ct, d) {
+  const p = (S.pageants || []).find(x => x.id === ct) || {}, out = [];
+  for (const e of S.events || []) if (e.contest === ct && e.start && dayKey(e.start) === d && !/agenda/.test(e.kind || "")) out.push(e.name.replace(/^Miss \w+ · /, ""));
+  for (const e of p.events || []) { const a = dayKey(e.start), b = e.end ? dayKey(e.end) : a; if (d >= a && d <= b && !out.includes(e.name)) out.push(e.name); }
+  return out;
+}
+function dayNum(ct, d) {
+  const p = (S.pageants || []).find(x => x.id === ct); const first = p && (p.events || []).find(e => /llegada|arrival/i.test(e.name));
+  if (!first) return null; const n = Math.round((new Date(d) - new Date(dayKey(first.start))) / 864e5) + 1; return n >= 1 ? n : null;
+}
+function renderDays() {
+  if (!S.contestants.length || !$("#dContest").value) return;
+  const ct = $("#dContest").value, idx = dayIndex()[ct] || {}, today = dayKey(new Date().toISOString());
+  const days = Object.keys(idx).filter(d => Object.keys(idx[d].by).length || idx[d].ev.length).sort().reverse();
+  if (!S.gal.day || !days.includes(S.gal.day)) S.gal.day = days.includes(today) ? today : days[0] || "";
+  const d = S.gal.day, box = idx[d] || { by: {}, ev: [] };
+  $("#dBar").innerHTML = days.slice(0, 40).map(x => { const n = dayNum(ct, x), ev = dayEvents(ct, x);
+    return `<button class="chip ${x === d ? "on" : ""}" data-day="${x}"><b>${n ? "Día " + n : dayLabel(x, { weekday: "short" })}</b> · ${dayLabel(x, { day: "numeric", month: "short" })}${ev.length ? `<small>${esc(ev[0].slice(0, 28))}</small>` : ""}<i>${Object.keys(idx[x].by).length}</i></button>`; }).join("") || `<span class="hint">Aún no hay fotos con fecha.</span>`;
+  if (!d) { $("#dHead").innerHTML = ""; $("#dGrid").innerHTML = ""; return; }
+  const q = ($("#dQ").value || "").toLowerCase(), ev = dayEvents(ct, d), n = dayNum(ct, d);
+  let list = S.contestants.filter(c => c.contest === ct && (!q || (c.name + " " + c.country_es + " " + c.country).toLowerCase().includes(q)));
+  const ims = c => box.by[c.contest + "|" + c.country] || [];
+  if ($("#dOnly").checked) list = list.filter(c => ims(c).length);
+  list.sort((a, b) => ims(b).length - ims(a).length || a.country_es.localeCompare(b.country_es));
+  const withN = Object.keys(box.by).length, tot = S.contestants.filter(c => c.contest === ct).length;
+  const evStrip = box.ev.flatMap(e => e.images.slice(0, 6).map(im => ({ ...mir(im), page: e.url, cap: e.caption })));
+  $("#dHead").innerHTML = `<div class="dayhead"><h3>${n ? `Día ${n} · ` : ""}${esc(cap1(dayLabel(d, { weekday: "long", day: "numeric", month: "long" })))}</h3>
+    ${ev.length ? `<div class="evs">${ev.map(x => `<span class="chip on">${esc(x)}</span>`).join("")}</div>` : ""}
+    <p class="hint">${withN} de ${tot} candidatas con fotos de este día (hora de Puerto Rico). Toca una candidata para ver todos sus looks del día.</p>
+    <div class="toolbar"><button data-dayzip="">⬇ ZIP con todos los looks del día</button></div>
+    ${evStrip.length ? `<h4 style="margin:10px 0 6px">Fotos oficiales del día (grupo)</h4><div class="strip">${evStrip.map(im => `<a href="${esc(im.page)}" target="_blank" title="${esc(im.cap || "")}">${imgTag(im)}</a>`).join("")}</div>` : ""}</div>`;
+  $("#dGrid").innerHTML = list.map(c => { const k = c.contest + "|" + c.country, l = ims(c), im = l[0];
+    const cats = [...new Set(l.map(x => x.cat))].map(x => (CATS.find(y => y[0] === x) || [x, "Más"])[1]);
+    return `<div class="pc" data-dayprof="${esc(k)}"><div class="ph">${im ? imgTag(im) : `<span class="bigflag">${flag(c.iso)}</span><span class="loading">sin fotos este día</span>`}${l.length ? `<span class="cnt">${l.length}</span>` : ""}</div>
+      <div class="info"><div class="n">${flag(c.iso)} ${esc(c.name)}</div><div class="p">${esc(c.country_es)}</div>${cats.length ? `<div class="p" style="color:var(--gold2)">${esc(cats.join(" · "))}</div>` : ""}</div></div>`; }).join("") || `<div class="empty">Nadie con fotos este día con ese filtro.</div>`;
+}
+function dayRows(k) {
+  const ct = $("#dContest").value, box = (dayIndex()[ct] || {})[S.gal.day] || { by: {} }, rows = [];
+  for (const [kk, l] of Object.entries(box.by)) { if (k && kk !== k) continue; const c = S.contestants.find(x => x.contest + "|" + x.country === kk) || { country_es: kk, name: "" };
+    l.forEach((im, n) => rows.push({ type: "imagen", title: `${S.gal.day} ${c.country_es} ${c.name} ${n + 1}`, url: im.url, alt: im.orig || im.thumb, img: im.thumb || im.url, source: im.via, page: im.page, event: `Outfits ${S.gal.day}`, likes: im.likes })); }
+  return rows;
+}
+function openDayProfile(k, d) {
+  const c = S.contestants.find(x => x.contest + "|" + x.country === k); if (!c) return;
+  const l = ((dayIndex()[c.contest] || {})[d] || { by: {} }).by[k] || [];
+  l.forEach((im, n) => S.idx[`day:${k}:${d}:${n}`] = { type: "imagen", title: `${d} ${c.country_es} ${c.name} ${n + 1}`, url: im.url, alt: im.orig || im.thumb, img: im.thumb || im.url, source: im.via, page: im.page, event: `Outfits ${d}`, likes: im.likes });
+  openDrawer(`<div class="profile"><div class="hint">${esc(dayLabel(d, { weekday: "long", day: "numeric", month: "long" }))}</div><h2>${flag(c.iso)} ${esc(c.name)}</h2>
+    <div class="toolbar"><button data-dayzip="${esc(k)}">⬇ Descargar sus ${l.length} fotos del día</button><button class="ghost" data-prof="${esc(k)}">Ver perfil completo</button></div>
+    <div class="igrid">${l.map((im, n) => `<div class="ig">${imgTag(im)}<div class="tools"><a href="${esc(im.page || im.url)}" target="_blank" title="${esc(im.title || "")}">${esc((im.credit || im.via || "fuente").slice(0, 22))}</a><span><button data-dl="day:${esc(k)}:${d}:${n}">⬇</button> ${mkBtn(`day:${k}:${d}:${n}`)}</span></div><span class="cnt" style="left:auto;right:8px">${esc((CATS.find(y => y[0] === im.cat) || [0, "Más"])[1])}${im.role ? " · " + esc(im.role) : ""}</span></div>`).join("")}</div></div>`);
+}
