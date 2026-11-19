@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:43:16.127142+00:00",
+ "updated": "2026-11-19T20:51:16.063181+00:00",
  "count": 37,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -250,6 +250,7 @@
    "item_ids": [
     "a44341bc1cc156",
     "c460b8efbc792a",
+    "ee6f1477738faf",
     "35b6b140410af1",
     "5bae4d1364813b",
     "5e85ec2d8968e1",
@@ -259,13 +260,26 @@
     "Diario Correo",
     "El Vocero de Puerto Rico",
     "Infobae",
+    "Mi Diario",
     "People en Español"
    ],
-   "n_items": 6,
-   "n_sources": 4,
+   "n_items": 7,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://www.midiario.com/resizer/v2/PXQK6NHWLJBYBNF6Q34DZMRNOI.jpg?auth=42dd4b82143c1639dc813b8c405bb737813d26c26a0397d658ec099fcb827aae&width=1200",
+     "page": "https://www.midiario.com/farandula/miss-universe-panama-2026-supera-la-entrevista-con-el-jurado-y-se-alista-para-el-desfile-de-trajes-tipicos/",
+     "via": "Mi Diario",
+     "credit": "Mi Diario"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.-Vf2YpdmJoRVaMXbvXPk3w&pid=News",
+     "page": "https://www.midiario.com/farandula/miss-universe-panama-2026-supera-la-entrevista-con-el-jurado-y-se-alista-para-el-desfile-de-trajes-tipicos/",
+     "via": "Bing (miniatura)",
+     "credit": "Mi Diario"
+    },
     {
      "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/1c/f1c0e2f5-986c-4530-a8fd-dee631b17b82/6aff53632c33c.image.jpg?crop=1980%2C1040%2C0%2C3&resize=1200%2C630&order=crop%2Cresize",
      "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
@@ -306,12 +320,6 @@
      "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/a/6e/a6ef5dff-d079-43e1-aebe-e76160c7ec78/6aff4e6ccda75.image.jpg?crop=1162%2C1162%2C310%2C0&resize=400%2C400&order=crop%2Cresize",
      "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
      "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.dgt42JIwzuX5eDD134FhFQ&pid=News",
-     "page": "https://www.elvocero.com/escenario/c-mo-le-fue-a-jennifer-barreto-esto-dijo-tras-enfrentar-al-jurado-de-miss/article_81fb6727-9de8-463d-aeb5-78ad87dee973.html",
-     "via": "Bing (miniatura)",
      "credit": "El Vocero de Puerto Rico"
     },
     {
@@ -437,7 +445,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 14
+   "score": 17
   },
   {
    "key": "t:mu:Preliminar:2026-11-18",
@@ -809,13 +817,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6907,
+     "views": 6939,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 6907,
+   "views_total": 6939,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -979,30 +987,22 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 10955,
+     "views": 10981,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
     },
     {
-     "vid": "EAP7hbK-uzg",
-     "title": "Miss Universe 2026 - Top 30 Máximas en Votacones Oficiales",
-     "channel": "MissoLatino",
-     "views": 8589,
-     "ago": "Transmitido hace 1 día",
-     "official": false
-    },
-    {
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 4936,
+     "views": 4945,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 24480,
+   "views_total": 15926,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1017,13 +1017,6 @@
      "page": "https://www.youtube.com/watch?v=4nT1YmRnImQ",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EAP7hbK-uzg/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EAP7hbK-uzg/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EAP7hbK-uzg",
-     "via": "YouTube (miniatura)",
-     "credit": "MissoLatino"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.Qd1zGnomWGgLrl4h8Ibfdw&pid=News",
@@ -1128,7 +1121,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 36
   },
   {
    "key": "t:mu:Gala / cena:2026-11-18",
@@ -1380,6 +1373,7 @@
     "ac106876a9e2c5",
     "a52aee3d1f4bf3",
     "59fc57459cf90b",
+    "ee6f1477738faf",
     "119095a6bc800c",
     "0889904485f8c1",
     "092c25e040beae",
@@ -1398,16 +1392,29 @@
     "Facebook",
     "Infobae",
     "Mega.cl",
+    "Mi Diario",
     "Reporte Indigo",
     "Reporte Índigo",
     "Telemetro",
     "www.elmorrocotudo.cl"
    ],
-   "n_items": 12,
-   "n_sources": 11,
+   "n_items": 13,
+   "n_sources": 12,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://www.midiario.com/resizer/v2/PXQK6NHWLJBYBNF6Q34DZMRNOI.jpg?auth=42dd4b82143c1639dc813b8c405bb737813d26c26a0397d658ec099fcb827aae&width=1200",
+     "page": "https://www.midiario.com/farandula/miss-universe-panama-2026-supera-la-entrevista-con-el-jurado-y-se-alista-para-el-desfile-de-trajes-tipicos/",
+     "via": "Mi Diario",
+     "credit": "Mi Diario"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.-Vf2YpdmJoRVaMXbvXPk3w&pid=News",
+     "page": "https://www.midiario.com/farandula/miss-universe-panama-2026-supera-la-entrevista-con-el-jurado-y-se-alista-para-el-desfile-de-trajes-tipicos/",
+     "via": "Bing (miniatura)",
+     "credit": "Mi Diario"
+    },
     {
      "url": "https://media.telemetro.com/p/a9d5451d75588a9af49c461ce73c8924/adjuntos/311/imagenes/019/162/0019162110/1200x675/smart/presentan-el-traje-nacional-gabriela-gonzalez-miss-universo-2026.png",
      "page": "https://www.telemetro.com/entretenimiento/diosa-panama-el-oro-verde-presentan-el-traje-nacional-gabriela-gonzalez-miss-universo-2026-n6099021",
@@ -1466,12 +1473,6 @@
      "url": "https://media.telemetro.com/p/ffe10f4d4b568ad02ba451c20ae31649/adjuntos/311/imagenes/019/086/0019086339/1200x675/smart/pase-u-tarjeta.jpg",
      "page": "https://www.telemetro.com/entretenimiento/diosa-panama-el-oro-verde-presentan-el-traje-nacional-gabriela-gonzalez-miss-universo-2026-n6099021",
      "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.F8GSVvtRQv4JpUFKxrYUZQ&pid=News",
-     "page": "https://www.telemetro.com/entretenimiento/diosa-panama-el-oro-verde-presentan-el-traje-nacional-gabriela-gonzalez-miss-universo-2026-n6099021",
-     "via": "Bing (miniatura)",
      "credit": "Telemetro"
     },
     {
@@ -1691,7 +1692,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 34
+   "score": 37
   },
   {
    "key": "p:yokosuka day trip",
@@ -1732,12 +1733,209 @@
      "page": "https://www.youtube.com/watch?v=Upmk6ipYuwo",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://p.turbosquid.com/ts-thumb/B6/SOyGD9/Ss/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma3/jpg/1662598082/1920x1080/fit_q87/f91c813359b8a1609cbd8f3d98ae5c3b319cec1d/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma3.jpg",
+     "page": "https://www.turbosquid.com/3d-models/3d-motorcycle-postapocalyptic-motorbike-3d-model-with-rigs-3d-model-model-1955385",
+     "via": "Bing Imágenes",
+     "credit": "turbosquid.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.J5e-LnUV6jpIe-i4dPMlbgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/motorcycle-covered-debris-sits-amidst-sprawling-heap-trash-early-morning-captivating-image-created-style-296844834.jpg",
+     "page": "https://www.dreamstime.com/motorcycle-covered-debris-sits-amidst-sprawling-heap-trash-early-morning-captivating-image-created-style-image296844834",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.uzi_M4E9o6TBWN8PU4QeyQHaEk&pid=15.1"
+    },
+    {
+     "url": "https://cdnb.artstation.com/p/marketplace/presentation_assets/000/722/001/large/file.jpg?1613152680",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MKhJV1zhpUTwjSlmRJjXpQHaFE&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/motorcycle-sits-abandoned-amongst-urban-post-apocalyptic-ruins-image-portrays-abandoned-motorcycle-post-apocalyptic-374969138.jpg",
+     "page": "https://www.dreamstime.com/motorcycle-sits-abandoned-amongst-urban-post-apocalyptic-ruins-image-portrays-abandoned-motorcycle-post-apocalyptic-image374969138",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.rojxv0Di6Lp9I61dWqxItAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/36/fa/7d/36fa7dcf8f5fe740781654427f7f8301.jpg",
+     "page": "https://www.pinterest.com/pin/799881583848400499/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ytRq04aKoLT-Z_H9tE36FQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/apocalyptic-d-motorcycle-artwork-isolated-white-background-post-set-against-stark-exudes-sense-desolate-freedom-its-342919334.jpg",
+     "page": "https://www.dreamstime.com/apocalyptic-d-motorcycle-artwork-isolated-white-background-post-set-against-stark-exudes-sense-desolate-freedom-its-image342919334",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r6vTY2G2NMELkvf4GMeP9gHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/apocalyptic-d-motorcycle-white-isolated-background-design-its-rugged-worn-sits-proudly-evoking-sense-post-350053155.jpg",
+     "page": "https://www.dreamstime.com/apocalyptic-d-motorcycle-white-isolated-background-design-its-rugged-worn-sits-proudly-evoking-sense-post-image350053155",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.B3iuRxA8TQ12JWj1lpvtAgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/post-apocalyptic-motorcycle-stands-alone-white-isolated-background-its-rugged-design-worn-tires-telling-story-342919083.jpg",
+     "page": "https://www.dreamstime.com/post-apocalyptic-motorcycle-stands-alone-white-isolated-background-its-rugged-design-worn-tires-telling-story-image342919083",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Q1c0MLyeY8Bfemc7gjpJPAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://cdna.artstation.com/p/marketplace/presentation_assets/000/722/000/medium/file.jpg?1613152676",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.UXOF2qvdeMKmUvoLKYgdXgHaGL&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/intricate-post-apocalyptic-motorcycle-k-ray-tracing-large-themed-showcased-high-resolution-d-image-metalworking-305881530.jpg",
+     "page": "https://www.dreamstime.com/intricate-post-apocalyptic-motorcycle-k-ray-tracing-large-themed-showcased-high-resolution-d-image-metalworking-image305881530",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Jl1UOcHup1xC3TaqwtQpLQHaH0&pid=15.1"
+    },
+    {
+     "url": "https://p.turbosquid.com/ts-thumb/B6/SOyGD9/cL/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma12/jpg/1662598091/1920x1080/fit_q87/5a269bdac23dc60fc5be2e22cd94c28fc07bf191/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma12.jpg",
+     "page": "https://www.turbosquid.com/3d-models/3d-motorcycle-postapocalyptic-motorbike-3d-model-with-rigs-3d-model-model-1955385",
+     "via": "Bing Imágenes",
+     "credit": "turbosquid.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.h21xrTP7SleUhqdf5m6C5QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.daz3d.com/cdn-cgi/image/width=200,height=200,fit=cover/https://gcdn.daz3d.com/p/91286/i/ximodularpostapocalypticmotorcyclerage03daz3d.jpg",
+     "page": "https://www.daz3d.com/xi-modular-post-apocalyptic-motorcycle-rage",
+     "via": "Bing Imágenes",
+     "credit": "daz3d.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.glO44cqCY8HIoSEC4yUgXAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/42f88230558581.56284f6fbf863.jpg",
+     "page": "https://www.behance.net/gallery/30558581/Post-apocalyptic-raider",
+     "via": "Bing Imágenes",
+     "credit": "behance.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.e_4OAHtXhW7RkgBWdQo8bQHaKe&pid=15.1"
+    },
+    {
+     "url": "https://cdna.artstation.com/p/marketplace/presentation_assets/000/721/998/large/file.jpg?1613152669",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.OcM6Mm7pi5qm3BCpYp5xlQHaFE&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
-   "extra_images": [],
-   "extra_at": "2026-11-19T20:43:16.127142+00:00",
+   "extra_images": [
+    {
+     "url": "https://p.turbosquid.com/ts-thumb/B6/SOyGD9/Ss/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma3/jpg/1662598082/1920x1080/fit_q87/f91c813359b8a1609cbd8f3d98ae5c3b319cec1d/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma3.jpg",
+     "page": "https://www.turbosquid.com/3d-models/3d-motorcycle-postapocalyptic-motorbike-3d-model-with-rigs-3d-model-model-1955385",
+     "via": "Bing Imágenes",
+     "credit": "turbosquid.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.J5e-LnUV6jpIe-i4dPMlbgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/motorcycle-covered-debris-sits-amidst-sprawling-heap-trash-early-morning-captivating-image-created-style-296844834.jpg",
+     "page": "https://www.dreamstime.com/motorcycle-covered-debris-sits-amidst-sprawling-heap-trash-early-morning-captivating-image-created-style-image296844834",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.uzi_M4E9o6TBWN8PU4QeyQHaEk&pid=15.1"
+    },
+    {
+     "url": "https://cdnb.artstation.com/p/marketplace/presentation_assets/000/722/001/large/file.jpg?1613152680",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MKhJV1zhpUTwjSlmRJjXpQHaFE&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/motorcycle-sits-abandoned-amongst-urban-post-apocalyptic-ruins-image-portrays-abandoned-motorcycle-post-apocalyptic-374969138.jpg",
+     "page": "https://www.dreamstime.com/motorcycle-sits-abandoned-amongst-urban-post-apocalyptic-ruins-image-portrays-abandoned-motorcycle-post-apocalyptic-image374969138",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.rojxv0Di6Lp9I61dWqxItAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/36/fa/7d/36fa7dcf8f5fe740781654427f7f8301.jpg",
+     "page": "https://www.pinterest.com/pin/799881583848400499/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ytRq04aKoLT-Z_H9tE36FQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/apocalyptic-d-motorcycle-artwork-isolated-white-background-post-set-against-stark-exudes-sense-desolate-freedom-its-342919334.jpg",
+     "page": "https://www.dreamstime.com/apocalyptic-d-motorcycle-artwork-isolated-white-background-post-set-against-stark-exudes-sense-desolate-freedom-its-image342919334",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r6vTY2G2NMELkvf4GMeP9gHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/apocalyptic-d-motorcycle-white-isolated-background-design-its-rugged-worn-sits-proudly-evoking-sense-post-350053155.jpg",
+     "page": "https://www.dreamstime.com/apocalyptic-d-motorcycle-white-isolated-background-design-its-rugged-worn-sits-proudly-evoking-sense-post-image350053155",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.B3iuRxA8TQ12JWj1lpvtAgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/post-apocalyptic-motorcycle-stands-alone-white-isolated-background-its-rugged-design-worn-tires-telling-story-342919083.jpg",
+     "page": "https://www.dreamstime.com/post-apocalyptic-motorcycle-stands-alone-white-isolated-background-its-rugged-design-worn-tires-telling-story-image342919083",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Q1c0MLyeY8Bfemc7gjpJPAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://cdna.artstation.com/p/marketplace/presentation_assets/000/722/000/medium/file.jpg?1613152676",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.UXOF2qvdeMKmUvoLKYgdXgHaGL&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/intricate-post-apocalyptic-motorcycle-k-ray-tracing-large-themed-showcased-high-resolution-d-image-metalworking-305881530.jpg",
+     "page": "https://www.dreamstime.com/intricate-post-apocalyptic-motorcycle-k-ray-tracing-large-themed-showcased-high-resolution-d-image-metalworking-image305881530",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Jl1UOcHup1xC3TaqwtQpLQHaH0&pid=15.1"
+    },
+    {
+     "url": "https://p.turbosquid.com/ts-thumb/B6/SOyGD9/cL/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma12/jpg/1662598091/1920x1080/fit_q87/5a269bdac23dc60fc5be2e22cd94c28fc07bf191/3dpostapocalypticmotorcyclemodelwithrigs3dmodelriggedobjfbxma12.jpg",
+     "page": "https://www.turbosquid.com/3d-models/3d-motorcycle-postapocalyptic-motorbike-3d-model-with-rigs-3d-model-model-1955385",
+     "via": "Bing Imágenes",
+     "credit": "turbosquid.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.h21xrTP7SleUhqdf5m6C5QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.daz3d.com/cdn-cgi/image/width=200,height=200,fit=cover/https://gcdn.daz3d.com/p/91286/i/ximodularpostapocalypticmotorcyclerage03daz3d.jpg",
+     "page": "https://www.daz3d.com/xi-modular-post-apocalyptic-motorcycle-rage",
+     "via": "Bing Imágenes",
+     "credit": "daz3d.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.glO44cqCY8HIoSEC4yUgXAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/42f88230558581.56284f6fbf863.jpg",
+     "page": "https://www.behance.net/gallery/30558581/Post-apocalyptic-raider",
+     "via": "Bing Imágenes",
+     "credit": "behance.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.e_4OAHtXhW7RkgBWdQo8bQHaKe&pid=15.1"
+    },
+    {
+     "url": "https://cdna.artstation.com/p/marketplace/presentation_assets/000/721/998/large/file.jpg?1613152669",
+     "page": "https://www.artstation.com/marketplace/p/3MJw/survivor-motorcycle-post-apocalyptic-game-ready",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.OcM6Mm7pi5qm3BCpYp5xlQHaFE&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-19T20:51:16.063181+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1787,7 +1985,7 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 300,
+     "views": 305,
      "likes": 13,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
@@ -1802,7 +2000,7 @@
      "official": true
     }
    ],
-   "views_total": 4132,
+   "views_total": 4137,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -2195,7 +2393,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Niigata Tour",
    "extra_images": [],
-   "extra_at": "2026-11-19T20:43:16.127142+00:00",
+   "extra_at": "2026-11-19T20:51:16.063181+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2276,7 +2474,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 770725,
+     "views": 771048,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -2285,7 +2483,7 @@
      "vid": "pGGyoBglgfA",
      "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
      "channel": "The Crowning Quest",
-     "views": 125134,
+     "views": 125317,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2293,7 +2491,7 @@
      "vid": "IkSy-bS-uIY",
      "title": "Miss Universe 2026 runway to the universe full show ",
      "channel": "Ron Nasis",
-     "views": 72635,
+     "views": 72704,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2301,7 +2499,7 @@
      "vid": "l7AdYdV14UQ",
      "title": "Runway to the Universe SHOOK the competition! | Miss Universe 2026",
      "channel": "Jeremy Valentín",
-     "views": 57662,
+     "views": 57674,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2309,7 +2507,7 @@
      "vid": "DiAKzUWOe5U",
      "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
      "channel": "Miss Universe Predictions",
-     "views": 48450,
+     "views": 48513,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2317,7 +2515,7 @@
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 14215,
+     "views": 14245,
      "ago": "hace 22 h",
      "official": false
     },
@@ -2325,7 +2523,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6907,
+     "views": 6939,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -2334,12 +2532,12 @@
      "vid": "5E-8mXP32_A",
      "title": "Runway to the Universe - Standouts | Miss Universe 2026",
      "channel": "ALVIN SEBETERO",
-     "views": 512,
-     "ago": "hace 1 h",
+     "views": 537,
+     "ago": "hace 2 h",
      "official": false
     }
    ],
-   "views_total": 1096240,
+   "views_total": 1096977,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -2828,13 +3026,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 50198,
+     "views": 50329,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 50198,
+   "views_total": 50329,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -2904,13 +3102,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6907,
+     "views": 6939,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 6907,
+   "views_total": 6939,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3069,7 +3267,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 251863,
+     "views": 251893,
      "ago": "Transmitido hace 5 días",
      "official": false
     },
@@ -3086,13 +3284,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 10795,
+     "views": 10802,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 277533,
+   "views_total": 277570,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -4498,6 +4696,97 @@
      "credit": "Periódico El Sol de Puerto Rico"
     },
     {
+     "url": "https://i.pinimg.com/736x/29/3d/0f/293d0f1c0e326acd41e15573d8d3f725.jpg",
+     "page": "https://s3.amazonaws.com/awszacxwbyxa/escala-apendicitis-nueva.html",
+     "via": "Bing Imágenes",
+     "credit": "s3.amazonaws.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.T66C00L3jPOG4ReAgGGB-AHaNK&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/apendicitis-240925233432-5f4e823f/85/Apendicitis-Aguda-Generalidades-Fisiopatologia-25-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/apendicitis-aguda-generalidades-fisiopatologia/272022639",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.FsuXsITzDvNe7uplSQ5h0QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/claseapendicitisdrapaila-220903120323-a210e346/85/clase-apendicitis-28-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/clase-apendicitis-252813745/252813745",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.CpwoNmzhdiMyZI-1rwPf0gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=709751786024363",
+     "page": "https://www.facebook.com/MedClubPage/photos/gastroenterología-cirugíaescalas-diagnósticas-para-apendicitis-aguda-sensibilida/709751786024363/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ivibjlHY5rhd1VJ-NaGg9QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EWAvgL9XgAQw43V.jpg",
+     "page": "https://x.com/docramiro/status/1252062245049307146",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.kdP0GRRtyulcxbizo1jlPgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Azza-Jabbar/publication/369649166/figure/tbl1/AS:11431281154188250@1682699339604/The-Alvarado-score-AS-and-the-Appendicitis-Inflammatory-Response-AIR-score.png",
+     "page": "https://www.researchgate.net/figure/The-Alvarado-score-AS-and-the-Appendicitis-Inflammatory-Response-AIR-score_tbl1_369649166",
+     "via": "Bing Imágenes",
+     "credit": "researchgate.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.4wacQdxGyJTAmqW5wMgmWwHaFz&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/claseapendicitisdrapaila-220903120323-a210e346/85/clase-apendicitis-29-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/clase-apendicitis-252813745/252813745",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.6maXFl-RKbUdtWQ-JzuPDAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Mohamed-Hassan-385/publication/365824298/figure/tbl2/AS:11431281103515554@1669719421316/Scoring-scheme-for-the-AIR-score.png",
+     "page": "https://www.researchgate.net/figure/Scoring-scheme-for-the-AIR-score_tbl2_365824298",
+     "via": "Bing Imágenes",
+     "credit": "researchgate.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.b4rW0jTmDtzDR9XN5shUFwHaHv&pid=15.1"
+    },
+    {
+     "url": "https://static.elsevier.es/multimedia/03750906/unassign/S037509062400123X/v1_202408260353/es/main.assets/xTab3632155.png",
+     "page": "https://admin.timber-hannover.de/escala-predictiva-de-apendicitis-para-menores-de-4-anos/",
+     "via": "Bing Imágenes",
+     "credit": "admin.timber-hannover.de",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5P2R4R2V9BHEAt13yFZJawHaDr&pid=15.1"
+    },
+    {
+     "url": "https://image.winudf.com/v2/image1/Y29tLmNzb3Jkb25lei5lc2NhbGFfYWlyX2FwZW5kaWNpdGlzX3NjcmVlbl8wXzE1OTg2OTE5MzFfMDEx/screen-0.jpg?fakeurl=1&type=.jpg",
+     "page": "https://apkpure.com/escala-air-apendicitis/com.csordonez.escala_air_apendicitis",
+     "via": "Bing Imágenes",
+     "credit": "apkpure.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.JSo0oKumbYNcZyLRGzrfLAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/criteriosdejersulamapendicitisfinal-230703041943-1402e428/85/CRITERIOS-DE-JERSULAM-APENDICITIS-FINAL-pptx-5-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/criterios-de-jersulam-apendicitis-finalpptx/258810516",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WUtGfT_Xhnss1KW6GMun8wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EWAvgVTXQAABqVb.jpg",
+     "page": "https://x.com/docramiro/status/1252062245049307146",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.U4PSzwCf8rIDYXOd10CtUAHaFL&pid=15.1"
+    },
+    {
+     "url": "https://d3i71xaburhd42.cloudfront.net/3b252b6674a8d9aaa1b9660d9927958827db8b60/2-Table1-1.png",
+     "page": "https://www.medicinare.se/K7/fraga/1349",
+     "via": "Bing Imágenes",
+     "credit": "medicinare.se",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.3gV89zgOM089WUhS3u8phgHaG1&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
      "via": "Wikimedia Commons",
@@ -4544,6 +4833,104 @@
    "image_query": "Miss Universe 2026 arrival welcome",
    "extra_images": [
     {
+     "url": "https://i.pinimg.com/736x/29/3d/0f/293d0f1c0e326acd41e15573d8d3f725.jpg",
+     "page": "https://s3.amazonaws.com/awszacxwbyxa/escala-apendicitis-nueva.html",
+     "via": "Bing Imágenes",
+     "credit": "s3.amazonaws.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.T66C00L3jPOG4ReAgGGB-AHaNK&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/apendicitis-240925233432-5f4e823f/85/Apendicitis-Aguda-Generalidades-Fisiopatologia-25-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/apendicitis-aguda-generalidades-fisiopatologia/272022639",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.FsuXsITzDvNe7uplSQ5h0QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/claseapendicitisdrapaila-220903120323-a210e346/85/clase-apendicitis-28-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/clase-apendicitis-252813745/252813745",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.CpwoNmzhdiMyZI-1rwPf0gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=709751786024363",
+     "page": "https://www.facebook.com/MedClubPage/photos/gastroenterología-cirugíaescalas-diagnósticas-para-apendicitis-aguda-sensibilida/709751786024363/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ivibjlHY5rhd1VJ-NaGg9QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EWAvgL9XgAQw43V.jpg",
+     "page": "https://x.com/docramiro/status/1252062245049307146",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.kdP0GRRtyulcxbizo1jlPgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Azza-Jabbar/publication/369649166/figure/tbl1/AS:11431281154188250@1682699339604/The-Alvarado-score-AS-and-the-Appendicitis-Inflammatory-Response-AIR-score.png",
+     "page": "https://www.researchgate.net/figure/The-Alvarado-score-AS-and-the-Appendicitis-Inflammatory-Response-AIR-score_tbl1_369649166",
+     "via": "Bing Imágenes",
+     "credit": "researchgate.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.4wacQdxGyJTAmqW5wMgmWwHaFz&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/claseapendicitisdrapaila-220903120323-a210e346/85/clase-apendicitis-29-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/clase-apendicitis-252813745/252813745",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.6maXFl-RKbUdtWQ-JzuPDAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.researchgate.net/profile/Mohamed-Hassan-385/publication/365824298/figure/tbl2/AS:11431281103515554@1669719421316/Scoring-scheme-for-the-AIR-score.png",
+     "page": "https://www.researchgate.net/figure/Scoring-scheme-for-the-AIR-score_tbl2_365824298",
+     "via": "Bing Imágenes",
+     "credit": "researchgate.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.b4rW0jTmDtzDR9XN5shUFwHaHv&pid=15.1"
+    },
+    {
+     "url": "https://static.elsevier.es/multimedia/03750906/unassign/S037509062400123X/v1_202408260353/es/main.assets/xTab3632155.png",
+     "page": "https://admin.timber-hannover.de/escala-predictiva-de-apendicitis-para-menores-de-4-anos/",
+     "via": "Bing Imágenes",
+     "credit": "admin.timber-hannover.de",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5P2R4R2V9BHEAt13yFZJawHaDr&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=5996310167109607",
+     "page": "https://www.facebook.com/Consalud.enarm/photos/a.1559762787431056/5996310167109607/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.n5XMh1U-jR7gcEipa-awmwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://image.winudf.com/v2/image1/Y29tLmNzb3Jkb25lei5lc2NhbGFfYWlyX2FwZW5kaWNpdGlzX3NjcmVlbl8wXzE1OTg2OTE5MzFfMDEx/screen-0.jpg?fakeurl=1&type=.jpg",
+     "page": "https://apkpure.com/escala-air-apendicitis/com.csordonez.escala_air_apendicitis",
+     "via": "Bing Imágenes",
+     "credit": "apkpure.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.JSo0oKumbYNcZyLRGzrfLAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/criteriosdejersulamapendicitisfinal-230703041943-1402e428/85/CRITERIOS-DE-JERSULAM-APENDICITIS-FINAL-pptx-5-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/criterios-de-jersulam-apendicitis-finalpptx/258810516",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WUtGfT_Xhnss1KW6GMun8wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/EWAvgVTXQAABqVb.jpg",
+     "page": "https://x.com/docramiro/status/1252062245049307146",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.U4PSzwCf8rIDYXOd10CtUAHaFL&pid=15.1"
+    },
+    {
+     "url": "https://d3i71xaburhd42.cloudfront.net/3b252b6674a8d9aaa1b9660d9927958827db8b60/2-Table1-1.png",
+     "page": "https://www.medicinare.se/K7/fraga/1349",
+     "via": "Bing Imágenes",
+     "credit": "medicinare.se",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.3gV89zgOM089WUhS3u8phgHaG1&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
      "via": "Wikimedia Commons",
@@ -4586,7 +4973,7 @@
      "credit": "West China Missions Advisory Board"
     }
    ],
-   "extra_at": "2026-11-19T17:47:05.782847+00:00",
+   "extra_at": "2026-11-19T20:51:16.063181+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4889,7 +5276,7 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 15392,
+     "views": 15421,
      "likes": 78,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
@@ -4898,7 +5285,7 @@
      "vid": "WwCTRgNGa8I",
      "title": "MALTA | Beauties for SDGs | Miss International 2026 | Nikole Buhagiar",
      "channel": "Miss International",
-     "views": 11827,
+     "views": 11837,
      "likes": 59,
      "published": "2026-11-16T12:57:17+00:00",
      "official": true
@@ -4907,13 +5294,13 @@
      "vid": "vCPs9M4RE20",
      "title": "BELGIUM | Beauties for SDGs | Miss International 2026 | Gioia can de Voorde",
      "channel": "Miss International",
-     "views": 6540,
+     "views": 6546,
      "likes": 36,
      "published": "2026-11-16T12:46:39+00:00",
      "official": true
     }
    ],
-   "views_total": 33759,
+   "views_total": 33804,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -5413,7 +5800,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5602,7 +5989,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5833,7 +6220,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6235,7 +6622,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6593,7 +6980,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-19T20:43:16.127142+00:00",
+   "first_seen": "2026-11-19T20:51:16.063181+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
