@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T03:30:38.667361+00:00",
+ "run_at": "2026-11-19T03:38:39.233104+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -46,14 +46,14 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 88,
+   "items": 86,
    "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 80,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
@@ -69,9 +69,9 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 40,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
@@ -81,15 +81,15 @@
   },
   {
    "source": "Google News · Miss Earth Philippines December",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 32,
+   "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 49,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
@@ -111,9 +111,9 @@
   },
   {
    "source": "Google News · beauty pageant",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 90,
+   "error": null
   },
   {
    "source": "YouTube oficial search:Miss Universe official|miss universe",
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 3,
+   "items": 0,
    "error": null
   },
   {
@@ -328,7 +328,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 43,
+   "items": 42,
    "error": null
   },
   {
@@ -340,10 +340,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 311,
+   "items": 353,
    "error": null
   }
  ],
- "new_items": 436,
- "total_items": 624
+ "new_items": 622,
+ "total_items": 626
 }
