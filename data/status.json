@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T16:11:05.481360+00:00",
+ "run_at": "2026-11-19T16:19:05.644660+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 81,
+   "items": 80,
    "error": null
   },
   {
@@ -165,14 +165,14 @@
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
+   "ok": true,
+   "items": 20,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   },
   {
@@ -298,7 +298,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 16,
+   "items": 19,
    "error": "37 cuentas sincronizadas en total · 1 candidatas · 34 organizaciones"
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "9 usuarios probados en esta vuelta · 843 en total"
+   "error": "14 usuarios probados en esta vuelta · 857 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 44,
+   "items": 35,
    "error": null
   },
   {
@@ -358,16 +358,16 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 1,
+   "items": 0,
    "error": "830 imágenes en el espejo; 166 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 678,
+   "items": 685,
    "error": null
   }
  ],
  "new_items": 615,
- "total_items": 895
+ "total_items": 896
 }
