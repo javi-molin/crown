@@ -39,11 +39,15 @@ async function loadAll(first) {
     "videos.json", "wiki.json", "status.json", "estudio.json", "contenido.json"].map(getJSON));
   if (p) S.pageants = p.pageants;
   if (c) {
+    // Wikipedia (lista automática) manda; lo manual aporta notas, IG y hot picks.
     const seed = c.contestants, auto = (ca && ca.contestants) || [];
     const key = x => x.contest + "|" + x.country;
-    const map = new Map(seed.map(x => [key(x), x]));
-    for (const a of auto) { const b = map.get(key(a)); map.set(key(a), b ? { ...b, name: a.name || b.name, age: a.age || b.age, hometown: a.hometown || b.hometown } : a); }
-    S.contestants = [...map.values()];
+    const autoContests = new Set(auto.map(x => x.contest));
+    const seedMap = new Map(seed.map(x => [key(x), x]));
+    const out = auto.map(a => ({ ...(seedMap.get(key(a)) || {}), ...a }));
+    const inAuto = new Set(auto.map(key));
+    for (const x of seed) if (!inAuto.has(key(x))) out.push(autoContests.has(x.contest) ? { ...x, no_wiki: true } : x);
+    S.contestants = out;
   }
   if (f) {
     const prevIds = S.knownIds;
@@ -172,7 +176,7 @@ function renderPageants() {
     <div class="links">${Object.entries(p.official || {}).map(([k, u]) => `<a href="${esc(u)}" target="_blank">${k}</a>`).join("")}
       <a href="https://en.wikipedia.org/wiki/${esc(p.wiki)}" target="_blank">wikipedia</a>
       <a href="https://news.google.com/search?q=${enc(p.name)}&hl=es-419" target="_blank">noticias</a>
-      ${["mu", "mi"].includes(p.id) ? `<a href="#" data-goto="${p.id}">ver candidatas →</a>` : ""}</div></div>`).join("");
+      ${["mu", "mi", "me"].includes(p.id) ? `<a href="#" data-goto="${p.id}">ver candidatas →</a>` : ""}</div></div>`).join("");
 }
 
 /* ---------------- candidatas ---------------- */
@@ -183,7 +187,7 @@ function renderContestFilters() {
   $("#cRegion").innerHTML = `<option value="">Todas las regiones</option>` + regs.map(r => `<option>${r}</option>`).join("");
 }
 function links(c) {
-  const pn = { mu: "Miss Universe", mi: "Miss International" }[c.contest] || "Miss";
+  const pn = { mu: "Miss Universe", mi: "Miss International", me: "Miss Earth" }[c.contest] || "Miss";
   const nm = c.name || "";
   const q1 = `${nm} ${pn} ${c.country}`, q2 = `${pn} ${c.country_es || c.country} 2026`;
   return [
@@ -212,6 +216,7 @@ function renderCandidatas() {
     <div class="n">${esc(c.name)}</div>
     <div class="p">${esc(c.country_es)}${c.age ? " · " + c.age + " años" : ""}${c.hometown ? " · " + esc(c.hometown) : ""}</div>
     ${m[k] ? `<a class="ment" href="#" data-ment="${esc(k)}">${m[k]} menciones en noticias →</a>` : ""}
+    ${c.no_wiki ? `<div class="nt" style="border-color:var(--rose)">Ya no figura en la lista de Wikipedia: posible retiro o reemplazo. Verificar.</div>` : ""}
     ${c.nota ? `<div class="nt">${esc(c.nota)}${c.fuente ? ` <a href="${esc(c.fuente)}" target="_blank">fuente</a>` : ""}${c.verificar ? " · <i>por confirmar</i>" : ""}</div>` : ""}
     <div class="lk">${links(c).map(([l, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${l}</a>`).join("")}</div></div>`; }).join("")
     || `<div class="empty">Sin resultados.</div>`;

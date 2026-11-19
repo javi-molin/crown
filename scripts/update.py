@@ -68,6 +68,7 @@ def uid(link):
 
 # ---------------------------------------------------------------- configuración
 PAGEANTS = load("pageants.json", {"pageants": []})["pageants"]
+COUNTRIES = load("countries.json", {})
 SEED = load("contestants.json", {"contestants": []})["contestants"]
 
 CONTEST_WORDS = {
@@ -108,15 +109,14 @@ NEWS_QUERIES = [
     (None, "certamen de belleza", LOC_ES), (None, "beauty pageant", LOC_EN),
 ]
 
-YT_CHANNELS = [  # (concurso, handle o URL candidata, etiqueta)
-    ("mu", "@MissUniverse", "Miss Universe (oficial)"),
-    ("mi", "@MissInternationalOfficial", "Miss International (oficial)"),
-    ("mi", "@missinternational", "Miss International (oficial)"),
-    ("me", "@MissEarthOfficial", "Miss Earth (oficial)"),
-    ("me", "@missearth", "Miss Earth (oficial)"),
+YT_CHANNELS = [  # (concurso, handle o "search:consulta|palabra esperada en el nombre", etiqueta)
+    ("mu", "search:Miss Universe official|miss universe", "Miss Universe (oficial)"),
+    ("mi", "search:Miss International Beauty Pageant|miss international", "Miss International (oficial)"),
+    ("me", "search:Miss Earth official|miss earth", "Miss Earth (oficial)"),
     ("mw", "@MissWorld", "Miss World (oficial)"),
-    ("mgi", "@GrandTVThailand", "GrandTV / Miss Grand"),
-    ("ms", "@MissSupranational", "Miss Supranational (oficial)"),
+    ("mgi", "search:GrandTV Miss Grand International|grand", "GrandTV / Miss Grand"),
+    ("ms", "search:Miss Supranational|supranational", "Miss Supranational (oficial)"),
+    ("mu", "search:Telemundo Miss Universo|telemundo", "Telemundo"),
 ]
 YT_SEARCHES = [("mu", "Miss Universe 2026"), ("mu", "Miss Universo 2026"), ("mi", "Miss International 2026"),
                ("me", "Miss Earth 2026"), ("mu", "Miss Universe 2026 national costume"), ("mu", "Miss Universe 2026 preliminary")]
@@ -198,9 +198,39 @@ def google_news():
     return items
 
 
+def initial_data(page):
+    m = re.search(r"var ytInitialData = (\{.*?\});</script>", page, re.S)
+    if not m:
+        raise ValueError("sin ytInitialData")
+    return json.loads(m.group(1))
+
+
+def find_key(o, key, out):
+    if isinstance(o, dict):
+        for k, v in o.items():
+            if k == key:
+                out.append(v)
+            else:
+                find_key(v, key, out)
+    elif isinstance(o, list):
+        for x in o:
+            find_key(x, key, out)
+    return out
+
+
 def resolve_channel(handle, cache):
     if handle in cache:
         return cache[handle]
+    if handle.startswith("search:"):
+        q, expect = handle[7:].split("|")
+        data = initial_data(get("https://www.youtube.com/results?search_query=" + urllib.parse.quote(q) + "&sp=EgIQAg%253D%253D"))
+        for ch in find_key(data, "channelRenderer", []):
+            title = ch.get("title", {}).get("simpleText", "")
+            if expect in norm(title):
+                subs = ch.get("videoCountText", {}).get("simpleText", "") or ch.get("subscriberCountText", {}).get("simpleText", "")
+                cache[handle] = {"id": ch["channelId"], "title": title, "subs": subs}
+                return cache[handle]
+        raise ValueError("canal no encontrado en búsqueda")
     page = get("https://www.youtube.com/" + handle.lstrip("/"))
     m = re.search(r'<link rel="canonical" href="https://www\.youtube\.com/channel/(UC[\w-]{22})"', page) \
         or re.search(r'"externalId":"(UC[\w-]{22})"', page) or re.search(r'"channelId":"(UC[\w-]{22})"', page)
@@ -227,10 +257,7 @@ def yt_rss(channel_id):
 def yt_search(q):
     # resultados ordenados por fecha de subida (sp=CAI%3D)
     page = get("https://www.youtube.com/results?search_query=" + urllib.parse.quote(q) + "&sp=CAI%253D")
-    m = re.search(r"var ytInitialData = (\{.*?\});</script>", page, re.S)
-    if not m:
-        raise ValueError("sin ytInitialData")
-    data = json.loads(m.group(1))
+    data = initial_data(page)
     out = []
 
     def walk(o):
@@ -259,12 +286,11 @@ def youtube():
     cache = load("channels.json", {})
     resolved, videos, items = {}, {"official": [], "search": []}, []
     for cid, handle, label in YT_CHANNELS:
-        if cid in resolved:
-            continue
+        key = cid if cid not in resolved else cid + "_" + str(len(resolved))
         try:
             ch = resolve_channel(handle, cache)
             vids = yt_rss(ch["id"])
-            resolved[cid] = {"handle": handle, "label": label, **ch}
+            resolved[key] = {"handle": handle, "label": label, "contest": cid, **ch}
             for v in vids:
                 v.update({"contest": cid, "channel": ch["title"]})
                 videos["official"].append(v)
@@ -293,21 +319,37 @@ def youtube():
 
 def reddit():
     items = []
+    ns = {"a": "http://www.w3.org/2005/Atom"}
     for sub in ["pageants", "MissUniverse"]:
         try:
-            data = json.loads(get(f"https://www.reddit.com/r/{sub}/new.json?limit=40", accept="application/json"))
+            root = ET.fromstring(get(f"https://www.reddit.com/r/{sub}/new/.rss?limit=40"))
             n = 0
-            for ch in data["data"]["children"]:
-                d = ch["data"]
-                link = "https://www.reddit.com" + d["permalink"]
-                items.append({"id": uid(link), "type": "social", "title": d["title"], "link": link,
-                              "source": f"Reddit r/{sub}", "published": iso(datetime.fromtimestamp(d["created_utc"], timezone.utc)),
-                              "contests": [], "tags": ["comunidad"], "score": d.get("score", 0),
-                              "comments": d.get("num_comments", 0)})
+            for e in root.findall("a:entry", ns):
+                link = e.find("a:link", ns).get("href")
+                items.append({"id": uid(link), "type": "social", "title": e.findtext("a:title", namespaces=ns), "link": link,
+                              "source": f"Reddit r/{sub}", "published": e.findtext("a:updated", namespaces=ns),
+                              "contests": [], "tags": ["comunidad"]})
                 n += 1
             note("Reddit r/" + sub, True, n)
         except Exception as e:
             note("Reddit r/" + sub, False, err=e)
+    for q in ["miss universe", "miss universo"]:
+        try:
+            d = json.loads(get("https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?sort=latest&limit=40&q=" + urllib.parse.quote(q)))
+            n = 0
+            for p in d.get("posts", []):
+                rk = p["uri"].split("/")[-1]
+                link = f"https://bsky.app/profile/{p['author']['handle']}/post/{rk}"
+                txt = (p.get("record", {}).get("text") or "").replace("\n", " ")
+                if len(txt) < 25:
+                    continue
+                items.append({"id": uid(link), "type": "social", "title": txt[:220], "link": link,
+                              "source": "Bluesky · @" + p["author"]["handle"], "published": p.get("indexedAt"),
+                              "contests": [], "tags": ["comunidad"], "score": p.get("likeCount", 0), "comments": p.get("replyCount", 0)})
+                n += 1
+            note("Bluesky · " + q, True, n)
+        except Exception as e:
+            note("Bluesky · " + q, False, err=e)
     return items
 
 
@@ -323,7 +365,8 @@ def strip_wiki(s):
     s = re.sub(r"<ref[^>]*/>", "", s)
     s = re.sub(r"<ref[^>]*>.*?</ref>", "", s, flags=re.S)
     s = re.sub(r"\{\{(?:flagicon|flagu|flag|flagcountry)\|([^|}]+)[^}]*\}\}", r"\1", s, flags=re.I)
-    s = re.sub(r"\{\{(?:sort|sortname)\|[^|}]*\|([^}]+)\}\}", r"\1", s, flags=re.I)
+    s = re.sub(r"\{\{sortname\|([^|}]+)\|([^|}]+)[^}]*\}\}", r"\1 \2", s, flags=re.I)
+    s = re.sub(r"\{\{sort\|[^|}]*\|([^|}]+)[^}]*\}\}", r"\1", s, flags=re.I)
     s = re.sub(r"\{\{[^{}]*\}\}", "", s)
     s = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]+)\]\]", r"\1", s)
     s = re.sub(r"'''?", "", s)
@@ -380,17 +423,19 @@ def wikipedia(seed_by_contest):
                 cont = section(text, ["Contestants", "Delegates", "Confirmed contestants"])
                 known = {norm(c["country"]): c for c in seed_by_contest.get(cid, [])}
                 known.update({norm(c["country_es"]): c for c in seed_by_contest.get(cid, [])})
+                known.update({"iso:" + c["iso"]: c for c in seed_by_contest.get(cid, []) if c.get("iso") and c["iso"] != "US"})
                 for r in parse_table_rows(cont):
                     country, name = r[0], r[1]
                     age = next((int(x) for x in r[2:4] if re.fullmatch(r"\d{2}", x)), None)
                     town = r[3] if len(r) > 3 else (r[2] if len(r) > 2 and not r[2].isdigit() else None)
                     if len(country) > 40 or len(name) > 60 or not re.search(r"[A-Za-zÀ-ÿ]", name):
                         continue
-                    base = known.get(norm(country), {})
+                    info = COUNTRIES.get(country) or COUNTRIES.get(country.replace("&", "and")) or [country, "", ""]
+                    base = known.get(norm(country)) or (known.get("iso:" + info[1]) if info[1] and info[1] != "US" else None) or {}
                     auto.append({**{k: v for k, v in base.items() if k not in ("name", "age", "hometown")},
                                  "contest": cid, "country": base.get("country", country),
-                                 "country_es": base.get("country_es", country), "iso": base.get("iso", ""),
-                                 "region": base.get("region", ""), "name": name, "age": age, "hometown": town,
+                                 "country_es": base.get("country_es", info[0]), "iso": base.get("iso", info[1]),
+                                 "region": base.get("region", info[2]), "name": name, "age": age, "hometown": town,
                                  "from_wiki": True})
                     n += 1
             note("Wikipedia · " + page, True, n + len(res_lines))
