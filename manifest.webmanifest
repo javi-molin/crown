@@ -1,0 +1,22 @@
+{
+  "name": "CROWN · concursos de belleza",
+  "short_name": "CROWN",
+  "description": "Panel en vivo de concursos de belleza: candidatas, retratos oficiales, eventos y contenido.",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0c12",
+  "theme_color": "#0e0c12",
+  "lang": "es",
+  "icons": [
+    {"src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Galería", "url": "./#galeria"},
+    {"name": "Candidatas", "url": "./#candidatas"},
+    {"name": "Grabar", "url": "./#grabar"}
+  ]
+}

@@ -9,6 +9,13 @@
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/styles.css">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0e0c12">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="CROWN">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
 </head>
 <body>
 <header class="top">
@@ -33,6 +40,8 @@
       <button data-tab="polemicas">🔥 Polémicas</button>
       <button data-tab="estudio">📊 Estudio del nicho</button>
       <button data-tab="fuentes">🛰 Fuentes y robot</button>
+      <button id="installBtn" hidden>📲 Instalar como app</button>
+      <button id="refreshBtn">↻ Actualizar ahora</button>
     </div>
   </div>
 </nav>
@@ -74,7 +83,8 @@
         <input id="gQ" type="search" placeholder="País o nombre…">
         <label class="switch"><input type="checkbox" id="gFav"> Solo favoritas</label>
       </div>
-      <div class="chips" id="gStyle" style="margin:-4px 0 10px"></div>
+      <div class="chips" id="gStyle" style="margin:-4px 0 6px"></div>
+      <p class="hint" id="gStyleDesc" style="margin:0 0 8px;max-width:900px"></p>
       <p class="hint" id="gInfo"></p>
       <div id="gGrid" class="pgrid"></div>
     </div>
@@ -187,6 +197,7 @@
 <button id="basketBtn" class="basket">★ Mi selección <b id="basketN">0</b></button>
 <div id="modal" class="modal" hidden><div class="mbox"><button class="x" id="mx">✕</button><div id="mbody"></div></div></div>
 <footer>Datos públicos: Wikipedia, Google/Bing Noticias, YouTube, Instagram (embeds oficiales) y prensa. Uso editorial; respeta los créditos.</footer>
+<div id="toast" class="toast" hidden></div>
 <script src="assets/app.js"></script>
 </body>
 </html>

@@ -490,7 +490,7 @@ function openEvent(id) {
    <h3 class="sub">📰 Notas (${items.length})</h3><div class="feed">${items.map(itemHTML).join("")}</div>
   </div>`);
   renderHotpicks(id);
-  history.replaceState(null, "", "#ev=" + id);
+  history.replaceState({ d: 1 }, "", "#ev=" + id);
 }
 
 /* ---- hot picks ---- */
@@ -690,7 +690,7 @@ function renderGallery() {
   const fimgs = c => cellImgs(c, cat).filter(i => !S.gal.style || (S.gal.style === "_otras" ? !i.style : i.style === S.gal.style) && (!S.gal.role || String(i.role_n) === S.gal.role));
   const withImg = list.filter(c => fimgs(c).length).length;
   const stSel = (S.gallery.styles || {})[S.gal.style];
-  $("#gStyle").insertAdjacentHTML("beforeend", stSel && stSel.desc ? `<p class="hint" style="width:100%;margin:6px 0 0">${esc(stSel.desc)}</p>` : "");
+  $("#gStyleDesc").innerHTML = stSel && stSel.desc ? esc(stSel.desc) : "";
   $("#gInfo").textContent = `${withImg} de ${list.length} candidatas ya tienen fotos de "${CATS.find(x => x[0] === cat)[1]}". El robot sigue buscando en cada corrida. Toca una foto para ver todas; marca ✓ para descargar varias.`;
   $("#gGrid").innerHTML = list.map(c => {
     const k = c.contest + "|" + c.country, ims = fimgs(c), im = ims[0], on = S.gal.sel.has(k);
@@ -742,9 +742,9 @@ function igEmbed(url) {
 }
 
 /* ---- drawer ---- */
-function openDrawer(h) { $("#dbody").innerHTML = h; $("#drawer").hidden = false; $(".dpanel").scrollTop = 0; document.body.style.overflow = "hidden"; }
-function closeDrawer() { $("#drawer").hidden = true; $("#dbody").innerHTML = ""; document.body.style.overflow = ""; if (/^#(ev|c)=/.test(location.hash)) history.replaceState(null, "", "#"); }
-$("#dx").onclick = closeDrawer;
+function openDrawer(h) { if ($("#drawer").hidden) history.pushState({ d: 1 }, ""); $("#dbody").innerHTML = h; $("#drawer").hidden = false; $(".dpanel").scrollTop = 0; document.body.style.overflow = "hidden"; }
+function closeDrawer(fromPop) { if ($("#drawer").hidden) return; $("#drawer").hidden = true; $("#dbody").innerHTML = ""; document.body.style.overflow = ""; if (!fromPop && history.state && history.state.d) history.back(); }
+$("#dx").onclick = () => closeDrawer();
 $("#drawer").onclick = e => { if (e.target.id === "drawer") closeDrawer(); };
 document.addEventListener("keydown", e => { if (e.key === "Escape") { if (!$("#modal").hidden) $("#mx").click(); else if (!$("#drawer").hidden) closeDrawer(); } });
 
@@ -776,7 +776,7 @@ function openProfile(k, cat) {
    <div class="dtabs">${CATS.map(([id, l]) => `<button data-ptab="${id}" class="${id === cat ? "on" : ""}">${l}<i>${counts[id]}</i></button>`).join("")}<button data-ptab="ig" class="${cat === "ig" ? "on" : ""}">Instagram<i>${igPostsFor(c).length}</i></button><button data-ptab="news" class="${cat === "news" ? "on" : ""}">Noticias<i>${its.length}</i></button></div>
    <div id="pbody"></div></div>`);
   renderPTab(k, cat);
-  history.replaceState(null, "", "#c=" + enc(k));
+  history.replaceState({ d: 1 }, "", "#c=" + enc(k));
 }
 function renderPTab(k, cat) {
   const c = S.contestants.find(x => x.contest + "|" + x.country === k);
@@ -834,3 +834,18 @@ document.addEventListener("change", e => {
   }
 });
 window.addEventListener("load", () => { const m = location.hash.match(/^#c=(.+)$/); if (m) setTimeout(() => openProfile(decodeURIComponent(m[1])), 1500); });
+
+/* ================= APP (PWA) ================= */
+function toast(msg, ms = 2600) { const t = $("#toast"); t.textContent = msg; t.hidden = false; clearTimeout(toast.h); toast.h = setTimeout(() => t.hidden = true, ms); }
+if ("serviceWorker" in navigator) window.addEventListener("load", () => navigator.serviceWorker.register("sw.js").catch(() => {}));
+const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+if (standalone) document.documentElement.classList.add("app");
+let installEv = null;
+window.addEventListener("beforeinstallprompt", e => { e.preventDefault(); installEv = e; $("#installBtn").hidden = false; });
+$("#installBtn").onclick = async () => { $("#moreMenu").hidden = true; if (installEv) { installEv.prompt(); await installEv.userChoice; installEv = null; $("#installBtn").hidden = true; } };
+$("#refreshBtn").onclick = async () => { $("#moreMenu").hidden = true; toast("Actualizando…"); await loadAll(false); toast("Listo: datos al día ✓"); };
+if (!standalone && /iphone|ipad/i.test(navigator.userAgent) && !store.get("iosHint", false)) {
+  setTimeout(() => { toast("Para tenerla como app: botón Compartir → “Agregar a inicio”", 6000); store.set("iosHint", true); }, 4000);
+}
+// volver con el gesto/botón atrás del celular cierra el panel lateral en vez de salir
+window.addEventListener("popstate", () => { if (!$("#drawer").hidden) closeDrawer(true); });
