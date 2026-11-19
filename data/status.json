@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-19T16:03:06.245326+00:00",
+ "run_at": "2026-11-19T16:11:05.481360+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 97,
+   "items": 96,
    "error": null
   },
   {
@@ -154,20 +154,20 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
-   "ok": true,
-   "items": 20,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -298,7 +298,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 18,
+   "items": 16,
    "error": "37 cuentas sincronizadas en total · 1 candidatas · 34 organizaciones"
   },
   {
@@ -311,7 +311,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 834 en total"
+   "error": "9 usuarios probados en esta vuelta · 843 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -340,7 +340,7 @@
   {
    "source": "Galería · YouTube por candidata",
    "ok": true,
-   "items": 32,
+   "items": 44,
    "error": null
   },
   {
@@ -352,22 +352,22 @@
   {
    "source": "Instagram · fotos y looks por candidata",
    "ok": true,
-   "items": 815,
+   "items": 818,
    "error": "85 candidatas con fotos de Instagram propias o de su organización"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": false,
-   "items": 0,
-   "error": "829 imágenes en el espejo; 165 fallaron"
+   "items": 1,
+   "error": "830 imágenes en el espejo; 166 fallaron"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 676,
+   "items": 678,
    "error": null
   }
  ],
  "new_items": 615,
- "total_items": 894
+ "total_items": 895
 }
