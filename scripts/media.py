@@ -204,6 +204,17 @@ def endi_render():
                 pass
         pg.on("response", on_resp)
         pg.goto(ENDI, wait_until="networkidle", timeout=90000)
+        for y in range(40):  # galerías con carga diferida: bajar hasta el final
+            pg.mouse.wheel(0, 1600)
+            pg.wait_for_timeout(250)
+        diag = pg.evaluate("""() => ({
+            imgs: [...document.images].filter(i => i.naturalWidth > 200 || i.width > 200).map(i => [i.currentSrc || i.src, i.alt, (i.closest('figure, li, article, div') || {}).className]).slice(0, 40),
+            n_imgs: document.images.length,
+            buttons: [...document.querySelectorAll('button, [role=button], a[class*=next], a[class*=prev]')].map(b => [b.innerText.slice(0, 30), b.getAttribute('aria-label'), b.className.slice(0, 60)]).slice(0, 40),
+            figcaps: [...document.querySelectorAll('figcaption, [class*=caption]')].map(f => f.innerText.slice(0, 80)).slice(0, 20)})""")
+        found.append({"type": "_diag", **diag})
+        for d in diag["imgs"]:
+            found.append({"type": "image", "url": d[0], "caption": d[1] or ""})
         for _ in range(130):  # avanzar la galería
             dom = pg.evaluate("""() => [...document.querySelectorAll('figure, [class*=gallery] li, [class*=slide]')].map(f => {
                 const i = f.querySelector('img'); if (!i) return null;
@@ -229,7 +240,7 @@ def endi_official(G, cs):
     'Suministrada/Organización Miss Universe'. Se leen del JSON de la página (Arc), se asignan por país/nombre del pie."""
     import hashlib
     html = U.get(ENDI, timeout=30)
-    imgs = []
+    imgs, rdiag = [], None
     for mark in ("Fusion.globalContent=", "Fusion.globalContent ="):
         i = html.find(mark)
         if i >= 0:
@@ -241,14 +252,16 @@ def endi_official(G, cs):
             break
     if len(imgs) < 20:  # la galería se carga con JavaScript: abrir la página como un navegador
         last = G.get("endi_render_at")
-        wait = 3600 if not G.get("endi") else 6 * 3600
+        wait = 1800 if len(G.get("endi") or {}) < 20 else 6 * 3600
         if not last or (now_utc() - datetime.fromisoformat(last)).total_seconds() > wait:
             G["endi_render_at"] = now_utc().isoformat()
             try:
-                imgs += endi_render()
+                got = endi_render()
+                rdiag = next((x for x in got if x.get("type") == "_diag"), None)
+                imgs += [x for x in got if x.get("type") == "image" and not re.search(r"\.svg|/icons?/|logo", x.get("url", ""))]
             except Exception as e:
                 G["endi_diag"] = {"render_error": repr(e)[:300]}
-        elif G.get("endi"):
+        elif len(G.get("endi") or {}) >= 20:
             return -1, len(G["endi"])
     if not imgs:  # respaldo: cualquier bloque JSON con imágenes de Arc
         for m in re.finditer(r'\{"_id":"[A-Z0-9]{20,}"[^{}]*?"type":"image"[^{}]*?"url":"(https?://[^"]+)"', html):
@@ -284,7 +297,7 @@ def endi_official(G, cs):
                                       "date": im.get("created_date") or im.get("last_updated_date")})
         n_ok += 1
     G["endi"] = out
-    G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok,
+    G["endi_diag"] = {**G.get("endi_diag", {}), "found": len(imgs), "assigned": n_ok, "render": rdiag,
                       "sample": [{"url": i["url"], "cap": (i.get("caption") or i.get("subtitle") or "")[:80]} for i in imgs[:4]]}
     return len(imgs), len(out)
 

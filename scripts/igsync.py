@@ -85,11 +85,40 @@ def hashtag_sync(G, now):
     return n
 
 
+NOT_HER = re.compile(r"design|fashion|couture|atelier|makeup|\bmua\b|hair|photo|studio|films?\b|jewel|shoes|boutique|bridal|styl|official\b.*brand|backup", re.I)
+
+
+def name_hits(text, parts):
+    """Cuántas partes distintas del nombre aparecen como palabra o dentro de un usuario (no dentro de otra palabra más larga del texto)."""
+    t = U.norm(text)
+    toks = re.split(r"[^a-z0-9]+", t)
+    n = 0
+    for x in parts:
+        if any(tok == x or (tok.startswith(x) and not re.match(r"[a-z]", tok[len(x):len(x) + 1] or "")) for tok in toks) or any(x in tok and len(tok) > len(x) + 3 and re.search(r"[_.\d]", tok) for tok in toks):
+            n += 1
+        elif any(x in tok for tok in re.split(r"[^a-z0-9_.]+", t) if re.search(r"[_.]", tok) or len(tok) >= len(x) + 4):
+            n += 0.5
+    return n
+
+
+def recheck(G, cs):
+    """Vuelve a revisar con reglas estrictas las cuentas aceptadas por la regla antigua (una sola parte del nombre)."""
+    if G.get("handles_recheck") == 2:
+        return
+    tried = G.setdefault("mention_tried", {})
+    for k, v in list(G["handles"].items()):
+        if v.get("conf") in ("verificada", "mencionada") and "mencionada por" in (v.get("via") or ""):
+            tried.pop(f"{k}|{v['handle']}", None)
+            G["handles"][k] = {"handle": None, "conf": None, "name": v.get("name"), "tried": U.NOW.isoformat(), "rejected_before": v["handle"]}
+    G["handles_recheck"] = 2
+
+
 def discover(G, cs, budget=25):
     """Cuentas mencionadas en posts asignados a una sola candidata. Meta entrega los textos SIN la '@',
     así que se buscan palabras con forma de usuario que contengan el nombre de la candidata (o @menciones explícitas).
     Se confirman con Business Discovery; si la cuenta es personal (la API no la ve) queda como 'mencionada'."""
     names = {c["contest"] + "|" + c["country"]: c for c in cs}
+    recheck(G, cs)
     counts, src = {}, {}
     for p in G["ig_posts"].values():
         who = p.get("who") or []
@@ -129,15 +158,17 @@ def discover(G, cs, budget=25):
         except RateLimited:
             break
         except Exception:
-            # cuenta personal o inexistente: si lleva su nombre y su organización la menciona, se guarda como enlace
-            if any(x in h for x in parts) and n >= 6 and cur.get("conf") not in ("verificada", "mencionada"):
+            # cuenta personal o inexistente: si el usuario lleva nombre Y apellido y su organización la menciona, se guarda como enlace
+            if not NOT_HER.search(h) and sum(x in h for x in parts) >= min(2, len(parts)) and cur.get("conf") not in ("verificada", "mencionada"):
                 G["handles"][k] = {"handle": h, "conf": "mencionada", "name": c["name"], "via": f"mencionada por @{src.get((k, h))} (cuenta personal: la API no muestra sus fotos)"}
             continue
         txt = U.norm(" ".join([d.get("username", ""), d.get("name") or "", d.get("biography") or ""]))
         ctry = [t for t in {U.norm(c["country"]), U.norm(c.get("country_es") or "")} if t]
         if re.search(r"miss|univers|organiza|pageant|reina", txt) and any(t in txt for t in ctry) and not any(x in U.norm(h) for x in parts):
             orgs[h] = k
-        elif any(x in txt for x in parts):
+        elif not NOT_HER.search(h + " " + (d.get("name") or "")) and (
+                name_hits(h + " " + (d.get("name") or ""), parts) >= min(2, len(parts))
+                or (name_hits(h + " " + (d.get("name") or ""), parts) >= 1 and re.search(r"miss|univers|reina|queen|pageant", txt) and any(t in txt for t in ctry))):
             G["handles"][k] = {"handle": h, "conf": "verificada", "name": c["name"], "followers": d.get("followers_count"), "via": f"mencionada por @{src.get((k, h))} + API"}
         time.sleep(0.4)
     return done
