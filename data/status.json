@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T02:35:24.770791+00:00",
+ "run_at": "2026-11-20T02:43:25.158337+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 100,
+   "items": 82,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 56,
+   "items": 40,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 2,
    "error": null
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "24 usuarios probados en esta vuelta · 1151 en total"
+   "error": "24 usuarios probados en esta vuelta · 1175 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -359,13 +359,13 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 823,
-   "error": "89 candidatas · descartadas: 1197 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 25 promoción / votación / afiche"
+   "error": "89 candidatas · descartadas: 1196 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 25 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
    "items": 1,
-   "error": "1927 imágenes en el espejo"
+   "error": "1928 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 767,
+ "new_items": 731,
  "total_items": 900
 }
