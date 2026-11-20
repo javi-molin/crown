@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T04:43:24.362833+00:00",
+ "run_at": "2026-11-20T04:51:24.641549+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,13 +16,13 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 81,
+   "items": 83,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 77,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 99,
+   "items": 98,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 10,
    "error": null
   },
   {
@@ -316,14 +316,14 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "11 usuarios probados en esta vuelta · 1274 en total"
+   "items": 2,
+   "error": "10 usuarios probados en esta vuelta · 1284 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
    "items": 17,
-   "error": "0 menciones revisadas en esta vuelta; 63 organizaciones nacionales"
+   "error": "0 menciones revisadas en esta vuelta; 65 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (2/834 celdas)",
@@ -347,7 +347,7 @@
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
    "ok": true,
    "items": 109,
-   "error": "en caché; se vuelve a leer cada 6 h"
+   "error": "109 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
@@ -364,7 +364,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": "1958 imágenes en el espejo"
   },
   {
@@ -383,7 +383,7 @@
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
    "items": 23,
-   "error": "9 con TikTok · 63 con cuenta de su organización nacional · 197 candidatas"
+   "error": "9 con TikTok · 65 con cuenta de su organización nacional · 197 candidatas"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 764,
+ "new_items": 736,
  "total_items": 900
 }
