@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T12:51:35.184795+00:00",
+ "run_at": "2026-11-20T12:59:35.077113+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,19 +22,19 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 76,
    "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 34,
+   "items": 69,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 44,
+   "items": 100,
    "error": null
   },
   {
@@ -82,13 +82,13 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 74,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 100,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 96,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 16,
+   "items": 18,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -208,7 +208,7 @@
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
    "ok": true,
-   "items": 11,
+   "items": 0,
    "error": null
   },
   {
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "error": null
   },
   {
@@ -286,13 +286,13 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 37,
+   "items": 36,
    "error": null
   },
   {
    "source": "Instagram · cuentas de candidatas descubiertas",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null
   },
   {
@@ -305,7 +305,7 @@
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
    "items": 23,
-   "error": "75 cuentas sincronizadas en total · 23 candidatas · 90 organizaciones"
+   "error": "75 cuentas sincronizadas en total · 24 candidatas · 90 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -316,8 +316,8 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 1,
-   "error": "9 usuarios probados en esta vuelta · 1726 en total"
+   "items": 0,
+   "error": "11 usuarios probados en esta vuelta · 1737 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 889,
+   "items": 891,
    "error": "92 candidatas · descartadas: 1220 fuera de fecha, 28 no habla de ella ni del concurso, 0 hashtag / no oficial, 28 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 4,
-   "error": "2052 imágenes en el espejo"
+   "items": 2,
+   "error": "2054 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 796,
+ "new_items": 941,
  "total_items": 900
 }
