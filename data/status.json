@@ -1,11 +1,11 @@
 {
- "run_at": "2026-11-20T00:27:16.073721+00:00",
+ "run_at": "2026-11-20T00:35:15.670753+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
-   "ok": true,
-   "items": 92,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 29,
+   "items": 49,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 100,
+   "items": 83,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 49,
+   "items": 50,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 24,
+   "items": 57,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 32,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 16,
    "error": null
   },
   {
@@ -195,9 +195,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
@@ -207,15 +207,15 @@
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": true,
-   "items": 11,
-   "error": null
-  },
-  {
-   "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
    "ok": false,
    "items": 0,
    "error": "not well-formed (invalid token): line 1, column 41"
+  },
+  {
+   "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 9,
+   "items": 12,
    "error": "72 cuentas sincronizadas en total · 17 candidatas · 54 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1101 en total"
+   "error": "1 usuarios probados en esta vuelta · 1102 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 800,
+   "items": 801,
    "error": "89 candidatas · descartadas: 1156 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 24 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
-   "error": "1886 imágenes en el espejo; 2 fallaron"
+   "items": 2,
+   "error": "1888 imágenes en el espejo; 2 fallaron"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 755,
+ "new_items": 730,
  "total_items": 900
 }
