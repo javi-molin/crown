@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T04:35:24.448785+00:00",
+ "run_at": "2026-11-20T04:43:24.362833+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,13 +16,13 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 82,
+   "items": 81,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 77,
+   "items": 100,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 99,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 18,
+   "items": 16,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -305,7 +305,7 @@
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
    "items": 23,
-   "error": "73 cuentas sincronizadas en total · 17 candidatas · 59 organizaciones"
+   "error": "73 cuentas sincronizadas en total · 17 candidatas · 63 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -316,8 +316,8 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 4,
-   "error": "7 usuarios probados en esta vuelta · 1263 en total"
+   "items": 0,
+   "error": "11 usuarios probados en esta vuelta · 1274 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 836,
+   "items": 837,
    "error": "90 candidatas · descartadas: 1194 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 27 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "1957 imágenes en el espejo"
+   "items": 1,
+   "error": "1958 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 745,
+ "new_items": 764,
  "total_items": 900
 }
