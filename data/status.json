@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T02:19:25.283035+00:00",
+ "run_at": "2026-11-20T02:27:24.307346+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 75,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 44,
+   "items": 12,
    "error": null
   },
   {
@@ -154,13 +154,13 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 0,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 7,
    "error": null
   },
   {
@@ -304,8 +304,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 22,
-   "error": "72 cuentas sincronizadas en total · 17 candidatas · 55 organizaciones"
+   "items": 23,
+   "error": "73 cuentas sincronizadas en total · 17 candidatas · 55 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1121 en total"
+   "error": "6 usuarios probados en esta vuelta · 1127 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 811,
-   "error": "89 candidatas · descartadas: 1153 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 24 promoción / votación / afiche"
+   "items": 823,
+   "error": "89 candidatas · descartadas: 1197 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 25 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
-   "error": "1912 imágenes en el espejo; 1 fallaron"
+   "items": 14,
+   "error": "1926 imágenes en el espejo; 1 fallaron"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 156,
+   "items": 160,
    "error": null
   }
  ],
- "new_items": 779,
+ "new_items": 735,
  "total_items": 900
 }
