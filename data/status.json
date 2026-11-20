@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T17:31:43.211591+00:00",
+ "run_at": "2026-11-20T17:39:43.106027+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -9,9 +9,9 @@
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 77,
+   "items": 100,
    "error": null
   },
   {
@@ -52,13 +52,13 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 79,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 89,
+   "items": 51,
    "error": null
   },
   {
@@ -76,19 +76,19 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 26,
+   "items": 25,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 33,
+   "items": 74,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 51,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 44,
+   "items": 12,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 97,
+   "items": 98,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 0,
    "error": null
   },
   {
@@ -195,9 +195,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
@@ -207,15 +207,15 @@
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 10,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 3,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -292,7 +292,7 @@
   {
    "source": "Instagram · cuentas de candidatas descubiertas",
    "ok": true,
-   "items": 34,
+   "items": 35,
    "error": null
   },
   {
@@ -304,8 +304,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 6,
-   "error": "75 cuentas sincronizadas en total · 31 candidatas · 90 organizaciones"
+   "items": 11,
+   "error": "75 cuentas sincronizadas en total · 32 candidatas · 90 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -316,8 +316,8 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 1,
-   "error": "5 usuarios probados en esta vuelta · 1825 en total"
+   "items": 0,
+   "error": "1 usuarios probados en esta vuelta · 1826 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 837,
+ "new_items": 872,
  "total_items": 900
 }
