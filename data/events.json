@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T18:35:42.655554+00:00",
+ "updated": "2026-11-20T18:43:42.414050+00:00",
  "count": 39,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -234,6 +234,276 @@
    "score": 3
   },
   {
+   "key": "seed:voto-top30",
+   "id": "voto-top30",
+   "name": "Voto del público: pase directo al Top 30",
+   "contest": "mu",
+   "kind": "campaña oficial",
+   "labels": [
+    "Votación"
+   ],
+   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
+   "refs": [
+    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
+   ],
+   "first_seen": "2026-11-19T01:48:18.895698+00:00",
+   "start": "2026-10-16",
+   "last_activity": "2026-11-20T18:23:03+00:00",
+   "item_ids": [
+    "72ebb2f2494c4d",
+    "eb80f8dd20cf22",
+    "40644443633c5a",
+    "c0c443951dab4b",
+    "d6f1f1315137ce",
+    "7630c1acd406f5",
+    "817e006f2f34f3",
+    "8bc647d96fbdb5",
+    "1a434b1b50e5dd",
+    "9023167c3eb613",
+    "f69af883d082fa",
+    "dc40137b464b1c",
+    "636ec206b737c2",
+    "4f72b4abf4d0aa",
+    "d4828ee31d2fca",
+    "fb89a22c6d9c86",
+    "8bc10ca0d38b7b",
+    "890b20fb345223"
+   ],
+   "sources": [
+    "AS México",
+    "Banglanews24",
+    "Diario Extra",
+    "Diario La Prensa Riobamba",
+    "Ecuavisa",
+    "El MorroCotudo",
+    "El Observatodo",
+    "ElHeraldo.hn",
+    "TV Azteca",
+    "YouTube · Miss Universe",
+    "www.daily-sun.com"
+   ],
+   "n_items": 18,
+   "n_sources": 11,
+   "videos": [
+    {
+     "vid": "4nT1YmRnImQ",
+     "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
+     "channel": "Miss Universe",
+     "views": 15958,
+     "likes": 0,
+     "published": "2026-11-18T23:26:58+00:00",
+     "official": true
+    },
+    {
+     "vid": "uPB2RsdQoWA",
+     "title": "Biggest voting jumps! Miss Universe 2026",
+     "channel": "Miss Universe",
+     "views": 13363,
+     "likes": 0,
+     "published": "2026-11-20T01:38:00+00:00",
+     "official": true
+    },
+    {
+     "vid": "iqRaY9ALzNc",
+     "title": "VOTE NOW!",
+     "channel": "Miss Universe",
+     "views": 6936,
+     "likes": 0,
+     "published": "2026-11-19T01:28:43+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 36257,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/iqRaY9ALzNc/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=iqRaY9ALzNc",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/4nT1YmRnImQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/4nT1YmRnImQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=4nT1YmRnImQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/uPB2RsdQoWA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uPB2RsdQoWA",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.Qd1zGnomWGgLrl4h8Ibfdw&pid=News",
+     "page": "https://laprensa.com.ec/miss-universo-2026-votar-gratis-dalia-bucaram/",
+     "via": "Bing (miniatura)",
+     "credit": "Diario La Prensa Riobamba"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/UNCLCPIZQBDPTBWVC6T36UWAQ4.jpg?auth=8d55875cd2a0cfce764c20ae22907efb4cf9c7ff4d07faa71efe67198cf31cd7&width=1472&height=828&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdiarioas%2F2d05b810-fc20-4638-9dd4-8c787570df97.png?auth=e7100c202409d6bf7adec24dfdf304481d571ba1bf2b0c49e168fc7a35bf9f84&width=148&height=148&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/6I46DO6GSVDBZLCJHMXRKZ6AOQ.png?auth=8fc918e9b616bbe38069b082fa755b4fd6add7a8e0739d4c1eb8cf71a6e72b72&width=375",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/AINSOVIA6VA63IYW45CUPJMR2I.jpg?auth=ca475e7af16cd8ba252667ca00425ea1164dabaed6622d741fa1533d367aa3f3&width=240&height=240&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/SV7SHV6D65GPTKIGEY2INTCEJU.jpg?auth=8dc01eaa007f99fde195a69ca9e03633db295acce738ee93d81905f032e06dc3&width=240&height=240&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/563WAIRYCJD23O4HQ7RTIULKWY.jpg?auth=543e704260c0831e897ee39e904607c911c0ea70efd2413fbe224dd93f406356&width=244&height=174&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/W4W7R3AS3FC4VIGHU6Q2XAWMOA.jpg?auth=cb1e1a20e76cbca0f39d727797e9f97dc1366bd239b564bf2cc95e9156a0e905&width=105&height=105&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/IZEESM7YPNH3VOMAOCH2K3AU5A.jpg?auth=3335ef369eb0e844bd2c6a4b566e2187149bb91e26f5708e08616e0c4576f4b1&width=105&height=105&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Df5mKppoHee",
+    "https://www.instagram.com/p/Df6OjdYID2Q"
+   ],
+   "image_query": "Miss Universe 2026 vote top 30",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
+     "url": "https://www.instagram.com/p/Df5mKppoHee",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-20T18:27:42.601593+00:00",
+     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 44
+  },
+  {
    "key": "t:mu:Preliminar:2026-11-18",
    "id": "t-mu-preliminar-2026-11-18-7bbf4",
    "name": "Preliminar · 18–20 nov",
@@ -254,6 +524,7 @@
     "aa7e392964b121",
     "c7b1f5fe957482",
     "bc964df76b89cb",
+    "18320c1b4d18fa",
     "5798afaeb82fd7",
     "8a2a057f192465",
     "48df3a7c0602b1",
@@ -310,7 +581,7 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 34,
+   "n_items": 35,
    "n_sources": 24,
    "videos": [],
    "views_total": 0,
@@ -595,12 +866,12 @@
    "extra_at": "2026-11-20T17:15:42.442563+00:00",
    "social": [
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Dej5RsYTiC-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df25AVGmwx-",
      "platform": "Instagram"
     },
@@ -610,27 +881,27 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df8IWx6kjI1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DfuW3w0FStZ",
      "platform": "Instagram"
     },
@@ -650,7 +921,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3qV3MxpC9",
      "platform": "Instagram"
     },
@@ -665,7 +936,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -686,7 +957,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 82
+   "score": 83
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -1037,6 +1308,7 @@
     "6717c8df379a50",
     "52b3180a293a09",
     "1dac588092200a",
+    "9e265da9240b5b",
     "6a36e59aa04991",
     "32b15c1fa13892",
     "a44341bc1cc156",
@@ -1062,13 +1334,14 @@
     "Infobae",
     "Instagram",
     "LA PRENSA",
+    "La Tribuna",
     "Latin Times",
     "Mi Diario",
     "People en Español",
     "Radio Agricultura"
    ],
-   "n_items": 18,
-   "n_sources": 13,
+   "n_items": 19,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1374,7 +1647,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df72HSSm0lY",
      "platform": "Instagram"
     },
@@ -1405,7 +1678,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 44
+   "score": 47
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -1482,16 +1755,24 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 816096,
+     "views": 816442,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
+     "vid": "pGGyoBglgfA",
+     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
+     "channel": "The Crowning Quest",
+     "views": 156468,
+     "ago": "hace 2 días",
+     "official": false
+    },
+    {
      "vid": "IkSy-bS-uIY",
      "title": "Miss Universe 2026 runway to the universe full show ",
      "channel": "Ron Nasis",
-     "views": 97099,
+     "views": 97275,
      "ago": "hace 2 días",
      "official": false
     },
@@ -1499,7 +1780,7 @@
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 18631,
+     "views": 18642,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1507,13 +1788,21 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 18203,
+     "views": 18279,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
+    },
+    {
+     "vid": "gjs7fY6Bi58",
+     "title": "Las candidatas de Miss Universo 2026 en el desfile de modas Runway to the Universe | LHDE | Ecuavisa",
+     "channel": "Ecuavisa Entretenimiento",
+     "views": 10701,
+     "ago": "hace 1 día",
+     "official": false
     }
    ],
-   "views_total": 950029,
+   "views_total": 1117807,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -1535,6 +1824,20 @@
      "page": "https://www.youtube.com/watch?v=qX1D-se65yc",
      "via": "YouTube (miniatura)",
      "credit": "TOP VZLA"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/gjs7fY6Bi58/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/gjs7fY6Bi58/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=gjs7fY6Bi58",
+     "via": "YouTube (miniatura)",
+     "credit": "Ecuavisa Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
+     "via": "YouTube (miniatura)",
+     "credit": "The Crowning Quest"
     },
     {
      "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
@@ -1746,18 +2049,6 @@
      "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
      "via": "Vistazo",
      "credit": "Vistazo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/4c71f5c736321e1bb6a2302d23e5c1e9e0364981da27b464f29e7ab6f26758e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/131054efbf8bddd7a780f1d1cbacabd9f8caf282a4bfdfbc2c19d4aa01035a06/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
     }
    ],
    "social_urls": [
@@ -1897,52 +2188,52 @@
    "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df3q8E0llwi",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3Vc68h5L3",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3XrFnvDs9",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3ZYdvqAQo",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3ZpD7PrPK",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3aT4hBM1u",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3blOyPdma",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df3jk8cv87U",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.youtube.com/watch?v=qrR9b5-ymD0",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/qrR9b5-ymD0/hqdefault.jpg",
@@ -1955,7 +2246,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 117
+   "score": 125
   },
   {
    "key": "seed:bienvenida-aguadilla",
@@ -1989,6 +2280,14 @@
    "n_sources": 4,
    "videos": [
     {
+     "vid": "eYkD0vPgsZk",
+     "title": "MISS UNIVERSE 2026: The Welcome Parade Was A MESS… But These Girls Understood the Assignment! 🔥",
+     "channel": "Luis Portelles",
+     "views": 76117,
+     "ago": "hace 8 días",
+     "official": false
+    },
+    {
      "vid": "WtMCIvvgKhM",
      "title": "🔴LIVE | MISS UNIVERSE 2026 - WELCOME PARADE",
      "channel": "Beauty Play",
@@ -1997,7 +2296,7 @@
      "official": false
     }
    ],
-   "views_total": 54220,
+   "views_total": 130337,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/WtMCIvvgKhM/maxresdefault.jpg",
@@ -2005,6 +2304,13 @@
      "page": "https://www.youtube.com/watch?v=WtMCIvvgKhM",
      "via": "YouTube (miniatura)",
      "credit": "Beauty Play"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eYkD0vPgsZk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eYkD0vPgsZk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eYkD0vPgsZk",
+     "via": "YouTube (miniatura)",
+     "credit": "Luis Portelles"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.dAeO75M6Ut4BdV1HLXyrbg&pid=News",
@@ -2125,7 +2431,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 17
+   "score": 21
   },
   {
    "key": "t:mi:Gala / cena:2026-11-18",
@@ -2685,274 +2991,6 @@
    "score": 13
   },
   {
-   "key": "seed:voto-top30",
-   "id": "voto-top30",
-   "name": "Voto del público: pase directo al Top 30",
-   "contest": "mu",
-   "kind": "campaña oficial",
-   "labels": [
-    "Votación"
-   ],
-   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
-   "refs": [
-    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
-   ],
-   "first_seen": "2026-11-19T01:48:18.895698+00:00",
-   "start": "2026-10-16",
-   "last_activity": "2026-11-20T02:00:00+00:00",
-   "item_ids": [
-    "72ebb2f2494c4d",
-    "eb80f8dd20cf22",
-    "40644443633c5a",
-    "c0c443951dab4b",
-    "d6f1f1315137ce",
-    "7630c1acd406f5",
-    "817e006f2f34f3",
-    "8bc647d96fbdb5",
-    "9023167c3eb613",
-    "f69af883d082fa",
-    "dc40137b464b1c",
-    "636ec206b737c2",
-    "4f72b4abf4d0aa",
-    "d4828ee31d2fca",
-    "fb89a22c6d9c86",
-    "8bc10ca0d38b7b",
-    "890b20fb345223"
-   ],
-   "sources": [
-    "AS México",
-    "Banglanews24",
-    "Diario Extra",
-    "Diario La Prensa Riobamba",
-    "Ecuavisa",
-    "El MorroCotudo",
-    "El Observatodo",
-    "ElHeraldo.hn",
-    "YouTube · Miss Universe",
-    "www.daily-sun.com"
-   ],
-   "n_items": 17,
-   "n_sources": 10,
-   "videos": [
-    {
-     "vid": "4nT1YmRnImQ",
-     "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
-     "channel": "Miss Universe",
-     "views": 15925,
-     "likes": 0,
-     "published": "2026-11-18T23:26:58+00:00",
-     "official": true
-    },
-    {
-     "vid": "uPB2RsdQoWA",
-     "title": "Biggest voting jumps! Miss Universe 2026",
-     "channel": "Miss Universe",
-     "views": 13273,
-     "likes": 0,
-     "published": "2026-11-20T01:38:00+00:00",
-     "official": true
-    },
-    {
-     "vid": "iqRaY9ALzNc",
-     "title": "VOTE NOW!",
-     "channel": "Miss Universe",
-     "views": 6927,
-     "likes": 0,
-     "published": "2026-11-19T01:28:43+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 36125,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/iqRaY9ALzNc/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=iqRaY9ALzNc",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/4nT1YmRnImQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/4nT1YmRnImQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=4nT1YmRnImQ",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/uPB2RsdQoWA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=uPB2RsdQoWA",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.Qd1zGnomWGgLrl4h8Ibfdw&pid=News",
-     "page": "https://laprensa.com.ec/miss-universo-2026-votar-gratis-dalia-bucaram/",
-     "via": "Bing (miniatura)",
-     "credit": "Diario La Prensa Riobamba"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/UNCLCPIZQBDPTBWVC6T36UWAQ4.jpg?auth=8d55875cd2a0cfce764c20ae22907efb4cf9c7ff4d07faa71efe67198cf31cd7&width=1472&height=828&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdiarioas%2F2d05b810-fc20-4638-9dd4-8c787570df97.png?auth=e7100c202409d6bf7adec24dfdf304481d571ba1bf2b0c49e168fc7a35bf9f84&width=148&height=148&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/6I46DO6GSVDBZLCJHMXRKZ6AOQ.png?auth=8fc918e9b616bbe38069b082fa755b4fd6add7a8e0739d4c1eb8cf71a6e72b72&width=375",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/AINSOVIA6VA63IYW45CUPJMR2I.jpg?auth=ca475e7af16cd8ba252667ca00425ea1164dabaed6622d741fa1533d367aa3f3&width=240&height=240&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/SV7SHV6D65GPTKIGEY2INTCEJU.jpg?auth=8dc01eaa007f99fde195a69ca9e03633db295acce738ee93d81905f032e06dc3&width=240&height=240&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/563WAIRYCJD23O4HQ7RTIULKWY.jpg?auth=543e704260c0831e897ee39e904607c911c0ea70efd2413fbe224dd93f406356&width=244&height=174&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/W4W7R3AS3FC4VIGHU6Q2XAWMOA.jpg?auth=cb1e1a20e76cbca0f39d727797e9f97dc1366bd239b564bf2cc95e9156a0e905&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/IZEESM7YPNH3VOMAOCH2K3AU5A.jpg?auth=3335ef369eb0e844bd2c6a4b566e2187149bb91e26f5708e08616e0c4576f4b1&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Df5mKppoHee",
-    "https://www.instagram.com/p/Df6OjdYID2Q"
-   ],
-   "image_query": "Miss Universe 2026 vote top 30",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-20T17:47:43.211571+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
-     "url": "https://www.instagram.com/p/Df5mKppoHee",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-20T18:27:42.601593+00:00",
-     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 41
-  },
-  {
    "key": "p:access to coronation night",
    "id": "p-access-to-coronation-night-6bb05",
    "name": "Access To Coronation Night",
@@ -2977,13 +3015,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 3770,
+     "views": 3828,
      "likes": 17,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 3770,
+   "views_total": 3828,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -3253,13 +3291,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 18203,
+     "views": 18279,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 18203,
+   "views_total": 18279,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3470,13 +3508,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 18203,
+     "views": 18279,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 18203,
+   "views_total": 18279,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -4015,7 +4053,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
@@ -4084,7 +4122,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 256090,
+     "views": 256110,
      "ago": "Transmitido hace 6 días",
      "official": false
     },
@@ -4092,13 +4130,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 11489,
+     "views": 11493,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 267579,
+   "views_total": 267603,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -4203,27 +4241,27 @@
    "extra_at": "2026-11-20T15:47:43.131062+00:00",
    "social": [
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -4280,12 +4318,209 @@
      "page": "https://www.youtube.com/watch?v=Upmk6ipYuwo",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://statics.topai.tools/img/tools/impossible-images.webp",
+     "page": "https://topai.tools/t/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "topai.tools",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZtyZZyPOVk06wIpDbhqWdQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free autumn landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31750780/pexels-photo-31750780.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31750780.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Q7FpD8pmdKWC8G5alykJwwHaE1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free doodle images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
+     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free pictures of eyes/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+     "page": "https://www.pexels.com/public-domain-images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.uHaqRdiMzWSMCR2LzsmhtQHaEZ&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
-   "extra_images": [],
-   "extra_at": "2026-11-20T18:35:42.655554+00:00",
+   "extra_images": [
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://statics.topai.tools/img/tools/impossible-images.webp",
+     "page": "https://topai.tools/t/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "topai.tools",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZtyZZyPOVk06wIpDbhqWdQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free autumn landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31750780/pexels-photo-31750780.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31750780.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Q7FpD8pmdKWC8G5alykJwwHaE1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free doodle images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
+     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free pictures of eyes/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/1188083/pexels-photo-1188083.png?cs=srgb&dl=sea-dawn-nature-1188083.jpg&fm=jpg",
+     "page": "https://www.pexels.com/public-domain-images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.uHaqRdiMzWSMCR2LzsmhtQHaEZ&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-20T18:43:42.414050+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4326,7 +4561,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4380,
+     "views": 4395,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -4335,7 +4570,7 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 1486,
+     "views": 1499,
      "likes": 22,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
@@ -4344,13 +4579,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 993,
+     "views": 1004,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 6859,
+   "views_total": 6898,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -4478,7 +4713,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4380,
+     "views": 4395,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -4487,13 +4722,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 993,
+     "views": 1004,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 5373,
+   "views_total": 5399,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/fxghMlMmoj0/maxresdefault.jpg",
@@ -4804,13 +5039,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 56912,
+     "views": 56930,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 56912,
+   "views_total": 56930,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -4829,7 +5064,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-20T18:35:42.655554+00:00",
+   "extra_at": "2026-11-20T18:43:42.414050+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5115,13 +5350,13 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4380,
+     "views": 4395,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
     }
    ],
-   "views_total": 4380,
+   "views_total": 4395,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/DAfSFkeXy5g/maxresdefault.jpg",
@@ -5134,7 +5369,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Yamanashi Tour",
    "extra_images": [],
-   "extra_at": "2026-11-20T18:35:42.655554+00:00",
+   "extra_at": "2026-11-20T18:43:42.414050+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5689,209 +5924,11 @@
    "n_sources": 3,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://i.pinimg.com/736x/9c/5b/4c/9c5b4c90df2ec0630d01525ec4906ff7.jpg",
-     "page": "https://www.pinterest.com/briiii026/petite-black-girl/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JB8ZVYkm6Z0NzHf4eXWwawHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/4f/a9/be/4fa9be41c8b0d022efcca2bf8c76d77e.jpg",
-     "page": "https://www.pinterest.com/pin/112449321933341215/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.p-yxL4LzcH1smGaWaJiVmgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/47/86/c1/4786c17a4a60e719250d98665ce49ba1.jpg",
-     "page": "https://www.pinterest.com/pin/beautiful-black-girls--524247212879974851/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.AJWsXKQZbYWk0wGwQDiQxAHaMO&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/c6/a0/c8/c6a0c8d5f99aba742fd2f67a95c1e3f6.jpg",
-     "page": "https://www.pinterest.com/pin/beautiful-black-photos--22518066880720620/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMTuKChPcuTZaavqDpboOAHaNN&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/4a/01/c1/4a01c1a04f85b5c1af6417d90aea41dd.jpg",
-     "page": "https://uk.pinterest.com/pin/770045236259609887/",
-     "via": "Bing Imágenes",
-     "credit": "uk.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.2ZVBziY_HROTdBWR6aWmewHaNL&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/37/18/93/37189370e6266bc72cb018bb740ccf76.jpg",
-     "page": "https://www.pinterest.com/pin/768426755146390996/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.gF4VEoW1LmC2ui_tYCW79wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/4a/22/7d/4a227dbe291413541ffbc8b40e649f5c.jpg",
-     "page": "https://www.pinterest.com/pin/832743787332708597/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.cr23sa--JJq3MVUjNSACkAHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/76/16/b7/7616b740a9418deec7c6996f1db208f3.png",
-     "page": "https://www.pinterest.com/pin/685673112033793636/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.56lpP4TnZHZ7J8wTG0XECQHaJS&pid=15.1"
-    },
-    {
-     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33721ac9-9623-4385-871c-5a49a08b1653/dgpvohk-48eae8be-0064-43a6-8b9c-9244803b4008.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzNzIxYWM5LTk2MjMtNDM4NS04NzFjLTVhNDlhMDhiMTY1M1wvZGdwdm9oay00OGVhZThiZS0wMDY0LTQzYTYtOGI5Yy05MjQ0ODAzYjQwMDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.415SFIyifIVycCbv30s0i7t6XNmoq6IzKps7UlZ8LCw",
-     "page": "https://www.deviantart.com/tastefulbeauty/art/Cute-black-girl-1010927288",
-     "via": "Bing Imágenes",
-     "credit": "deviantart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZaJdM8WoxrlelV2s6pMPKAHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/4a/0b/30/4a0b3002bef2f0dbf4d6be2c3cf9c26b.jpg",
-     "page": "https://www.pinterest.ca/pin/301178293843816987/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.ca",
-     "alt": "https://ts4.explicit.bing.net/th?id=OIP.lP4-InsdWNuW7WkdjdNCRAHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8f/5b/77/8f5b77cef34cdfdb3116433f6561bb05.jpg",
-     "page": "https://www.pinterest.ca/pin/792281759441543967/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.ca",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.rYCVPy05xqn32Wet2Qbe0wHaJP&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/attractive-black-girl-5444555.jpg",
-     "page": "https://www.dreamstime.com/stock-image-young-teen-black-girl-portrait-image5409591",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.cGUZ-Mx3k1IEAYHfRT6NHAHaLI&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/z/pretty-black-girl-5408950.jpg",
-     "page": "https://www.dreamstime.com/stock-photo-pretty-black-girl-image5408950",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.T1J8e3U3qbgBT1Zp9zuIkwHaLw&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/18254394/pexels-photo-18254394.jpeg?cs=srgb&dl=pexels-victor-abobade-249162265-18254394.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/black african teen girl/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.YWvQyolzSKI_i7Ycl5MKMwHaL3&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://i.pinimg.com/736x/9c/5b/4c/9c5b4c90df2ec0630d01525ec4906ff7.jpg",
-     "page": "https://www.pinterest.com/briiii026/petite-black-girl/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JB8ZVYkm6Z0NzHf4eXWwawHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/4f/a9/be/4fa9be41c8b0d022efcca2bf8c76d77e.jpg",
-     "page": "https://www.pinterest.com/pin/112449321933341215/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.p-yxL4LzcH1smGaWaJiVmgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/47/86/c1/4786c17a4a60e719250d98665ce49ba1.jpg",
-     "page": "https://www.pinterest.com/pin/beautiful-black-girls--524247212879974851/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.AJWsXKQZbYWk0wGwQDiQxAHaMO&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/c6/a0/c8/c6a0c8d5f99aba742fd2f67a95c1e3f6.jpg",
-     "page": "https://www.pinterest.com/pin/beautiful-black-photos--22518066880720620/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMTuKChPcuTZaavqDpboOAHaNN&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/4a/01/c1/4a01c1a04f85b5c1af6417d90aea41dd.jpg",
-     "page": "https://uk.pinterest.com/pin/770045236259609887/",
-     "via": "Bing Imágenes",
-     "credit": "uk.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.2ZVBziY_HROTdBWR6aWmewHaNL&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/37/18/93/37189370e6266bc72cb018bb740ccf76.jpg",
-     "page": "https://www.pinterest.com/pin/768426755146390996/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.gF4VEoW1LmC2ui_tYCW79wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/4a/22/7d/4a227dbe291413541ffbc8b40e649f5c.jpg",
-     "page": "https://www.pinterest.com/pin/832743787332708597/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.cr23sa--JJq3MVUjNSACkAHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/76/16/b7/7616b740a9418deec7c6996f1db208f3.png",
-     "page": "https://www.pinterest.com/pin/685673112033793636/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.56lpP4TnZHZ7J8wTG0XECQHaJS&pid=15.1"
-    },
-    {
-     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/33721ac9-9623-4385-871c-5a49a08b1653/dgpvohk-48eae8be-0064-43a6-8b9c-9244803b4008.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMzNzIxYWM5LTk2MjMtNDM4NS04NzFjLTVhNDlhMDhiMTY1M1wvZGdwdm9oay00OGVhZThiZS0wMDY0LTQzYTYtOGI5Yy05MjQ0ODAzYjQwMDguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.415SFIyifIVycCbv30s0i7t6XNmoq6IzKps7UlZ8LCw",
-     "page": "https://www.deviantart.com/tastefulbeauty/art/Cute-black-girl-1010927288",
-     "via": "Bing Imágenes",
-     "credit": "deviantart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZaJdM8WoxrlelV2s6pMPKAHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/4a/0b/30/4a0b3002bef2f0dbf4d6be2c3cf9c26b.jpg",
-     "page": "https://www.pinterest.ca/pin/301178293843816987/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.ca",
-     "alt": "https://ts4.explicit.bing.net/th?id=OIP.lP4-InsdWNuW7WkdjdNCRAHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8f/5b/77/8f5b77cef34cdfdb3116433f6561bb05.jpg",
-     "page": "https://www.pinterest.ca/pin/792281759441543967/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.ca",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.rYCVPy05xqn32Wet2Qbe0wHaJP&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/attractive-black-girl-5444555.jpg",
-     "page": "https://www.dreamstime.com/stock-image-young-teen-black-girl-portrait-image5409591",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.cGUZ-Mx3k1IEAYHfRT6NHAHaLI&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/z/pretty-black-girl-5408950.jpg",
-     "page": "https://www.dreamstime.com/stock-photo-pretty-black-girl-image5408950",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.T1J8e3U3qbgBT1Zp9zuIkwHaLw&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/18254394/pexels-photo-18254394.jpeg?cs=srgb&dl=pexels-victor-abobade-249162265-18254394.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/black african teen girl/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.YWvQyolzSKI_i7Ycl5MKMwHaL3&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-20T15:39:42.829331+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-20T18:43:42.414050+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -6049,23 +6086,19 @@
    "start": "2026-11-14",
    "last_activity": "2026-11-17T15:41:00+00:00",
    "item_ids": [
-    "403d9b2de666f8",
-    "b0495d026e7f29",
-    "54100ba9144628"
+    "403d9b2de666f8"
    ],
    "sources": [
-    "Facebook",
-    "Philstar Life",
-    "YouTube · Miss International"
+    "Philstar Life"
    ],
-   "n_items": 3,
-   "n_sources": 3,
+   "n_items": 1,
+   "n_sources": 1,
    "videos": [
     {
      "vid": "bOQPhh12lBo",
      "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
      "channel": "Hi Along",
-     "views": 21840,
+     "views": 21842,
      "ago": "hace 5 días",
      "official": false
     },
@@ -6078,7 +6111,7 @@
      "official": false
     }
    ],
-   "views_total": 24484,
+   "views_total": 24486,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -6159,13 +6192,6 @@
      "page": "https://philstarlife.com/style/695936-top-10-finalists-who-stood-out-in-their-national-costumes-at-2026-miss-international",
      "via": "Bing (miniatura)",
      "credit": "Philstar Life"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/w60d-iJ3xa8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/w60d-iJ3xa8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=w60d-iJ3xa8",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Miss International"
     },
     {
      "url": "https://static.mercdn.net/item/detail/orig/photos/m66253154116_1.jpg?1707308023",
@@ -6277,17 +6303,17 @@
    "extra_at": "2026-11-20T17:55:42.673116+00:00",
    "social": [
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DfuWjB6H-7R",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DfuhlmYk4bS",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
+     "fetched": "2026-11-20T18:43:42.414050+00:00",
      "url": "https://www.instagram.com/p/DfwXXXxn2KW",
      "platform": "Instagram"
     }
@@ -6298,7 +6324,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 13
+   "score": 7
   },
   {
    "key": "t:mu:Traje de baño:2026-11-15",
@@ -6331,13 +6357,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 11489,
+     "views": 11493,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 11489,
+   "views_total": 11493,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -6462,8 +6488,8 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 16600,
-     "likes": 84,
+     "views": 16608,
+     "likes": 85,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
     },
@@ -6486,7 +6512,7 @@
      "official": true
     }
    ],
-   "views_total": 35769,
+   "views_total": 35777,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -6641,7 +6667,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6690,7 +6716,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6739,7 +6765,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6970,7 +6996,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -7019,7 +7045,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T18:35:42.655554+00:00",
+   "first_seen": "2026-11-20T18:43:42.414050+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
