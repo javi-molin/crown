@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:39:43.106027+00:00",
+ "updated": "2026-11-20T17:47:43.211571+00:00",
  "count": 39,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -252,6 +252,7 @@
     "20be2d9e5de105",
     "6dd9406159b7c8",
     "aa7e392964b121",
+    "c7b1f5fe957482",
     "5798afaeb82fd7",
     "8a2a057f192465",
     "48df3a7c0602b1",
@@ -299,6 +300,7 @@
     "Mega.cl",
     "Mi Diario",
     "Milenio",
+    "Milenio on MSN",
     "Reporte Indigo",
     "Reporte Índigo",
     "TNT Sports",
@@ -307,8 +309,8 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 32,
-   "n_sources": 23,
+   "n_items": 33,
+   "n_sources": 24,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -602,7 +604,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T16:43:42.470963+00:00",
+     "fetched": "2026-11-20T17:47:43.211571+00:00",
      "url": "https://www.instagram.com/p/Df3LJNysRBu",
      "platform": "Instagram"
     },
@@ -632,7 +634,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T16:43:42.470963+00:00",
+     "fetched": "2026-11-20T17:47:43.211571+00:00",
      "url": "https://www.instagram.com/reel/DROtwsUj1YM",
      "platform": "Instagram"
     },
@@ -642,7 +644,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T16:43:42.470963+00:00",
+     "fetched": "2026-11-20T17:47:43.211571+00:00",
      "url": "https://www.instagram.com/reel/Df3m_ItO0cN",
      "platform": "Instagram"
     },
@@ -683,7 +685,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 78
+   "score": 81
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -791,11 +793,102 @@
      "credit": "El Vocero de Puerto Rico"
     },
     {
-     "url": "https://cdn11.bigcommerce.com/s-nv1btl/images/stencil/1280x1280/products/78216/108281/husqvarnaoempumpfuelpumpefiwscrews5973607012pack-nwm__84446.1775830254.jpg?c=2&imbypass=on",
-     "page": "https://www.husqvparts.com/husqvarna-oem-pump-fuel-pump-efi-w-screws-597360701-2-pack/",
+     "url": "https://thumbs.dreamstime.com/b/map-new-york-city-waterways-showing-ferry-routes-key-ferry-routes-include-nyc-map-new-york-city-waterways-showing-ferry-416169871.jpg?w=768",
+     "page": "https://www.dreamstime.com/illustration/important-waterways.html",
      "via": "Bing Imágenes",
-     "credit": "husqvparts.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.nZ3AQXYfikV_vozrpZzRSwHaHa&pid=15.1"
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3sk5_Aw6PTx4pNUlxFAu9gHaNl&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/map-new-york-city-featuring-stylized-routes-landmarks-around-waterways-key-locations-include-domino-park-420611256.jpg",
+     "page": "https://www.dreamstime.com/map-new-york-city-featuring-stylized-routes-landmarks-around-waterways-key-locations-include-domino-park-image420611256",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.J7xzlqoyZi_wGoL2eDjyaQHaFL&pid=15.1"
+    },
+    {
+     "url": "https://www.mapsland.com/maps/north-america/usa/new-york/large-detailed-highways-map-of-new-york-city-area.jpg",
+     "page": "https://hotcore.info/babki/usa-map-with-cities-and-highways.htm",
+     "via": "Bing Imágenes",
+     "credit": "hotcore.info",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.EwuTv5QITzOJRJAMp7NvPgHaG7&pid=15.1"
+    },
+    {
+     "url": "https://us-atlas.com/federal/images/112a.jpg",
+     "page": "https://us-atlas.com/federal/new-york-city.html",
+     "via": "Bing Imágenes",
+     "credit": "us-atlas.com",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.mktBjUqE9bPnAK5ui8xoGAHaJ_&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/new-york-277816365.jpg",
+     "page": "https://www.dreamstime.com/new-york-image277816365",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.5RQi4IqJFmYrqO4YM1hqowHaGR&pid=15.1"
+    },
+    {
+     "url": "https://www.istanbul-city-guide.com/map/united-states/new-york/states/New York Interstate Routes Map.jpg",
+     "page": "https://www.istanbul-city-guide.com/high-detailed-new-york-map",
+     "via": "Bing Imágenes",
+     "credit": "istanbul-city-guide.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.09zGlvC4I5dU9G7uNY-xdgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/new-york-top-tourist-attractions-map-38-lower-manhattan-key-bus-map.jpg",
+     "page": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/new-york-top-tourist-attractions-map.htm",
+     "via": "Bing Imágenes",
+     "credit": "mapaplan.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mLfvReAEXwnZbctAipiW3gHaJf&pid=15.1"
+    },
+    {
+     "url": "http://us-atlas.com/images/38a.jpg",
+     "page": "http://us-atlas.com/new-york-state-map.html",
+     "via": "Bing Imágenes",
+     "credit": "us-atlas.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.REjiGHwbLSHTc1FefAjXjgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/4c/a6/3a/4ca63aa432a337538690779db9f129db--map-of-new-york-city-new-york-city-tourism.jpg",
+     "page": "https://www.pinterest.com/pin/35184440823031498/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.QpIzy8CcDCx1h7-8hqfT5wHaK0&pid=15.1"
+    },
+    {
+     "url": "https://nycmap360.com/carte/image/en/nyc-bike-routes.jpg",
+     "page": "https://utpaqp.edu.pe/post/maps-of-new-york-top-tourist-attractions-free-printable-mapaplan/printable-tourist-map-of-manhattan",
+     "via": "Bing Imágenes",
+     "credit": "utpaqp.edu.pe",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5-xb4XW4nh-1yQpNcm8UFgHaQy&pid=15.1"
+    },
+    {
+     "url": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/high-resolution/new-york-top-tourist-attractions-map-10-manhattan-bus-travel-routes-high-resolution.jpg",
+     "page": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/high-resolution/new-york-top-tourist-attractions-map-10-manhattan-bus-travel-routes-high-resolution.htm",
+     "via": "Bing Imágenes",
+     "credit": "mapaplan.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Lr9IXOn3C8FwNrU0dNJmbgHaWd&pid=15.1"
+    },
+    {
+     "url": "http://www.vidiani.com/maps/maps_of_north_america/maps_of_usa/new_york_state/new_york/large_detailed_city_sights_map_of_Manhattan_New_York_city.jpg",
+     "page": "http://www.vidiani.com/large-detailed-city-sights-map-of-manhattan-new-york-city/",
+     "via": "Bing Imágenes",
+     "credit": "vidiani.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6tNw7FmSfnRmrek9gI9VwAHaCu&pid=15.1"
+    },
+    {
+     "url": "https://www.aaroads.com/static/state-maps/new-york.png",
+     "page": "https://www.aaroads.com/new-york/",
+     "via": "Bing Imágenes",
+     "credit": "aaroads.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MEEam5tX4fYukEUYWRetbwHaFl&pid=15.1"
+    },
+    {
+     "url": "http://www.tripindicator.com/assets/bus-tours-route-map/gray-line-small.jpg",
+     "page": "https://www.tripindicator.com/new-york-tourist-attractions-map.html",
+     "via": "Bing Imágenes",
+     "credit": "tripindicator.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.gOgreeTnPBsPslaNpzgODwHaCu&pid=15.1"
     }
    ],
    "social_urls": [
@@ -805,14 +898,105 @@
    "image_query": "Miss Universe 2026 rehearsal",
    "extra_images": [
     {
-     "url": "https://cdn11.bigcommerce.com/s-nv1btl/images/stencil/1280x1280/products/78216/108281/husqvarnaoempumpfuelpumpefiwscrews5973607012pack-nwm__84446.1775830254.jpg?c=2&imbypass=on",
-     "page": "https://www.husqvparts.com/husqvarna-oem-pump-fuel-pump-efi-w-screws-597360701-2-pack/",
+     "url": "https://thumbs.dreamstime.com/b/map-new-york-city-waterways-showing-ferry-routes-key-ferry-routes-include-nyc-map-new-york-city-waterways-showing-ferry-416169871.jpg?w=768",
+     "page": "https://www.dreamstime.com/illustration/important-waterways.html",
      "via": "Bing Imágenes",
-     "credit": "husqvparts.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.nZ3AQXYfikV_vozrpZzRSwHaHa&pid=15.1"
+     "credit": "dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3sk5_Aw6PTx4pNUlxFAu9gHaNl&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/map-new-york-city-featuring-stylized-routes-landmarks-around-waterways-key-locations-include-domino-park-420611256.jpg",
+     "page": "https://www.dreamstime.com/map-new-york-city-featuring-stylized-routes-landmarks-around-waterways-key-locations-include-domino-park-image420611256",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.J7xzlqoyZi_wGoL2eDjyaQHaFL&pid=15.1"
+    },
+    {
+     "url": "https://www.mapsland.com/maps/north-america/usa/new-york/large-detailed-highways-map-of-new-york-city-area.jpg",
+     "page": "https://hotcore.info/babki/usa-map-with-cities-and-highways.htm",
+     "via": "Bing Imágenes",
+     "credit": "hotcore.info",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.EwuTv5QITzOJRJAMp7NvPgHaG7&pid=15.1"
+    },
+    {
+     "url": "https://us-atlas.com/federal/images/112a.jpg",
+     "page": "https://us-atlas.com/federal/new-york-city.html",
+     "via": "Bing Imágenes",
+     "credit": "us-atlas.com",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.mktBjUqE9bPnAK5ui8xoGAHaJ_&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/new-york-277816365.jpg",
+     "page": "https://www.dreamstime.com/new-york-image277816365",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.5RQi4IqJFmYrqO4YM1hqowHaGR&pid=15.1"
+    },
+    {
+     "url": "https://www.istanbul-city-guide.com/map/united-states/new-york/states/New York Interstate Routes Map.jpg",
+     "page": "https://www.istanbul-city-guide.com/high-detailed-new-york-map",
+     "via": "Bing Imágenes",
+     "credit": "istanbul-city-guide.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.09zGlvC4I5dU9G7uNY-xdgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/new-york-top-tourist-attractions-map-38-lower-manhattan-key-bus-map.jpg",
+     "page": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/new-york-top-tourist-attractions-map.htm",
+     "via": "Bing Imágenes",
+     "credit": "mapaplan.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mLfvReAEXwnZbctAipiW3gHaJf&pid=15.1"
+    },
+    {
+     "url": "http://us-atlas.com/images/38a.jpg",
+     "page": "http://us-atlas.com/new-york-state-map.html",
+     "via": "Bing Imágenes",
+     "credit": "us-atlas.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.REjiGHwbLSHTc1FefAjXjgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/4c/a6/3a/4ca63aa432a337538690779db9f129db--map-of-new-york-city-new-york-city-tourism.jpg",
+     "page": "https://www.pinterest.com/pin/35184440823031498/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.QpIzy8CcDCx1h7-8hqfT5wHaK0&pid=15.1"
+    },
+    {
+     "url": "https://nycmap360.com/carte/image/en/nyc-bike-routes.jpg",
+     "page": "https://utpaqp.edu.pe/post/maps-of-new-york-top-tourist-attractions-free-printable-mapaplan/printable-tourist-map-of-manhattan",
+     "via": "Bing Imágenes",
+     "credit": "utpaqp.edu.pe",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5-xb4XW4nh-1yQpNcm8UFgHaQy&pid=15.1"
+    },
+    {
+     "url": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/high-resolution/new-york-top-tourist-attractions-map-10-manhattan-bus-travel-routes-high-resolution.jpg",
+     "page": "https://www.mapaplan.com/travel-map/new-york-city-top-tourist-attractions-map/high-resolution/new-york-top-tourist-attractions-map-10-manhattan-bus-travel-routes-high-resolution.htm",
+     "via": "Bing Imágenes",
+     "credit": "mapaplan.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Lr9IXOn3C8FwNrU0dNJmbgHaWd&pid=15.1"
+    },
+    {
+     "url": "http://www.vidiani.com/maps/maps_of_north_america/maps_of_usa/new_york_state/new_york/large_detailed_city_sights_map_of_Manhattan_New_York_city.jpg",
+     "page": "http://www.vidiani.com/large-detailed-city-sights-map-of-manhattan-new-york-city/",
+     "via": "Bing Imágenes",
+     "credit": "vidiani.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6tNw7FmSfnRmrek9gI9VwAHaCu&pid=15.1"
+    },
+    {
+     "url": "https://www.aaroads.com/static/state-maps/new-york.png",
+     "page": "https://www.aaroads.com/new-york/",
+     "via": "Bing Imágenes",
+     "credit": "aaroads.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MEEam5tX4fYukEUYWRetbwHaFl&pid=15.1"
+    },
+    {
+     "url": "http://www.tripindicator.com/assets/bus-tours-route-map/gray-line-small.jpg",
+     "page": "https://www.tripindicator.com/new-york-tourist-attractions-map.html",
+     "via": "Bing Imágenes",
+     "credit": "tripindicator.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.gOgreeTnPBsPslaNpzgODwHaCu&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [
     {
      "fetched": "2026-11-20T17:07:42.311226+00:00",
@@ -820,7 +1004,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T16:43:42.470963+00:00",
+     "fetched": "2026-11-20T17:47:43.211571+00:00",
      "url": "https://www.instagram.com/reel/Df7YLcDOS5Y",
      "platform": "Instagram"
     }
@@ -1297,24 +1481,16 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 813753,
+     "views": 814137,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
-     "vid": "pGGyoBglgfA",
-     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
-     "channel": "The Crowning Quest",
-     "views": 154425,
-     "ago": "hace 2 días",
-     "official": false
-    },
-    {
      "vid": "IkSy-bS-uIY",
      "title": "Miss Universe 2026 runway to the universe full show ",
      "channel": "Ron Nasis",
-     "views": 96053,
+     "views": 96248,
      "ago": "hace 2 días",
      "official": false
     },
@@ -1322,7 +1498,7 @@
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 18537,
+     "views": 18545,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1330,13 +1506,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 17666,
+     "views": 17715,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1100434,
+   "views_total": 946645,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -1358,13 +1534,6 @@
      "page": "https://www.youtube.com/watch?v=qX1D-se65yc",
      "via": "YouTube (miniatura)",
      "credit": "TOP VZLA"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
-     "via": "YouTube (miniatura)",
-     "credit": "The Crowning Quest"
     },
     {
      "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
@@ -1582,6 +1751,12 @@
      "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
      "via": "Yahoo",
      "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/131054efbf8bddd7a780f1d1cbacabd9f8caf282a4bfdfbc2c19d4aa01035a06/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
     }
    ],
    "social_urls": [
@@ -1598,6 +1773,104 @@
    ],
    "image_query": "Runway to the Universe Miss Universe 2026",
    "extra_images": [
+    {
+     "url": "https://thumbs.worthpoint.com/zoom/images1/1/0717/23/true-heroes-rocket-hauler-military_1_132897a60065a768a45d8fb05f864ac1.jpg",
+     "page": "https://www.worthpoint.com/worthopedia/true-heroes-rocket-hauler-military-1878169119",
+     "via": "Bing Imágenes",
+     "credit": "worthpoint.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.1Yn1CLxb46Nj6lZFdQl-FAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.worthpoint.com/zoom/images3/1/0823/09/true-heroes-multi-vehicle-military_1_ce6f27d44741a9e9584e06a19e641bdb.jpg",
+     "page": "https://www.worthpoint.com/worthopedia/true-heroes-multi-vehicle-military-4658692189",
+     "via": "Bing Imágenes",
+     "credit": "worthpoint.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.S92LVsnF1hPAHNplfYC6HQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://media.karousell.com/media/photos/products/2021/12/18/true_heroes_deluxe_military_ba_1639791495_3c54d519.jpg",
+     "page": "https://www.carousell.ph/p/true-heroes-deluxe-military-base-playset-1132191294/",
+     "via": "Bing Imágenes",
+     "credit": "carousell.ph",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.5iJwt93z4ExUN1CjaA0rBQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/I/81IETDbMv+L.jpg",
+     "page": "https://www.nellisauction.com/p/True-Heroes-Fighter-Jet-Playset/15526258",
+     "via": "Bing Imágenes",
+     "credit": "nellisauction.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.mRRM_sJFNeKEoJmdcoaE4gHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/85/d4/9c/85d49cac1839a943613d409b70b07de6.jpg",
+     "page": "https://www.pinterest.com/pin/true-heroes-missile-launcher-playset-toys-r-us-toys-r-us--42925002683202473/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.eJiJcxhmi_LcYoOAtWMZ5QHaHa&pid=15.1"
+    },
+    {
+     "url": "https://pic2-f.avaluer.net/imgspic/b/y/a/l/e/-true_heroes_military_forces_set_in_plastic_bucket_toys_r_us_soldiers_army_men-1_210.jpg",
+     "page": "https://avaluer.net/explore/9637956-true_heroes_military_forces_set_in_plastic_bucket_toys_r_us_soldiers_army_men",
+     "via": "Bing Imágenes",
+     "credit": "avaluer.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.dTbGVg_UeV2wih91hIgJ7gHaFK&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.worthpoint.com/zoom/images2/1/1218/23/true-heroes-sentinel-missile-launcher_1_5b8cd8b2e380b0a943ecbb19476e4cc0.jpg",
+     "page": "https://www.worthpoint.com/worthopedia/true-heroes-sentinel-missile-launcher-1967668243",
+     "via": "Bing Imágenes",
+     "credit": "worthpoint.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.eQllxh7Gu5OisC9nCGzCKgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/5f/a6/c0/5fa6c040302d0b4dfaf66c0f7ef94a1d--toy-soldiers-play-sets.jpg",
+     "page": "https://www.pinterest.com/ephillips3982/army-men-true-heroes-the-corps-world-peacekeepers-/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.eJQQqvN2HAX3uj5LoWBSnwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.toysrus.com/cdn/shop/files/25639850_fpx.jpg?v=1726685339&width=1000",
+     "page": "https://www.toysrus.com/collections/true-heroes",
+     "via": "Bing Imágenes",
+     "credit": "toysrus.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.hGdP4aqaJs-ENGKDE-NEkAHaFV&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.worthpoint.com/zoom/images1/1/0315/27/true-heroes-pack-military-action_1_a1499971c1cc75e4d86e90d21ad2d1f3.jpg",
+     "page": "https://www.worthpoint.com/worthopedia/true-heroes-pack-military-action-1724373481",
+     "via": "Bing Imágenes",
+     "credit": "worthpoint.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3ApF0vSRK5MQPzieUny3TQHaFi&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.worthpoint.com/zoom/images2/1/0617/06/true-heroes-ultimate-military-playset_1_c8781d4d52cd442fdc59edd28e279ae9.jpg",
+     "page": "https://www.worthpoint.com/worthopedia/true-heroes-ultimate-military-playset-1871209150",
+     "via": "Bing Imágenes",
+     "credit": "worthpoint.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Yo4IWcpUrSPAQKLBYXjO5QHaFj&pid=15.1"
+    },
+    {
+     "url": "https://slimages.macysassets.com/is/image/MCY/products/2/optimized/25639862_fpx.tif?wid=1200&fmt=jpeg&qlt=100",
+     "page": "https://modesens.com/product/true-heroes-militaryinspired-playset-with-tower-created-for-you-by-toys-r-us-multi-81793373/",
+     "via": "Bing Imágenes",
+     "credit": "modesens.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.VJC7BXtye_-iXRY_w39cmgHaJD&pid=15.1"
+    },
+    {
+     "url": "https://s-media-cache-ak0.pinimg.com/736x/b6/5a/37/b65a374065939e7117827762b22e6c1b.jpg",
+     "page": "https://www.pinterest.com/pin/498562621224055191/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.qChhEYfeiL6_D0xMinUVdQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://di2ponv0v5otw.cloudfront.net/posts/2022/11/22/637d75ce92e49179adab24a8/m_637d75e092e491d211ab253a.jpg",
+     "page": "https://poshmark.com/listing/True-Heroes-military-set-helicopter-and-Truck-with-lights-and-sounds-action-637d75ce92e49179adab24a8",
+     "via": "Bing Imágenes",
+     "credit": "poshmark.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.GLo24t3vz8irCsYt1Lw5yAHaHa&pid=15.1"
+    },
     {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
@@ -1620,7 +1893,7 @@
      "credit": "The Indian Listener: The Indian State Broadcasting Service"
     }
    ],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [
     {
      "fetched": "2026-11-20T17:39:43.106027+00:00",
@@ -1681,7 +1954,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 125
+   "score": 117
   },
   {
    "key": "seed:bienvenida-aguadilla",
@@ -1837,7 +2110,7 @@
    ],
    "image_query": "Miss Universe 2026 Aguadilla welcome parade",
    "extra_images": [],
-   "extra_at": "2026-11-20T17:39:43.106027+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [
     {
      "fetched": "2026-11-20T17:15:42.442563+00:00",
@@ -2464,7 +2737,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 15726,
+     "views": 15760,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -2473,7 +2746,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 12550,
+     "views": 12654,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -2482,13 +2755,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 6877,
+     "views": 6883,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 35153,
+   "views_total": 35297,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -2657,7 +2930,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [
     {
      "fetched": "2026-11-20T17:39:43.106027+00:00",
@@ -2703,13 +2976,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 3639,
+     "views": 3670,
      "likes": 17,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 3639,
+   "views_total": 3670,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -2783,13 +3056,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 17666,
+     "views": 17715,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 17666,
+   "views_total": 17715,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3000,13 +3273,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 17666,
+     "views": 17715,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 17666,
+   "views_total": 17715,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3020,6 +3293,13 @@
      "page": "https://revistamercado.do/lifestyle/andrea-meza-miss-universo-2020-es-llevada-de-emergencia-al-hospital-lo-que-se-sabe-de-su-salud/",
      "via": "Bing (miniatura)",
      "credit": "Revista Mercado"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/inzCWP5gZFA/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=inzCWP5gZFA",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.AKbqp7DcwvNxy8F3WCQtgAHaEK&pid=15.1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3068,6 +3348,13 @@
    "image_query": "Miss Universe 2026 charity visit",
    "extra_images": [
     {
+     "url": "https://i.ytimg.com/vi/inzCWP5gZFA/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=inzCWP5gZFA",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.AKbqp7DcwvNxy8F3WCQtgAHaEK&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
      "via": "Wikimedia Commons",
@@ -3110,7 +3397,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3602,7 +3889,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 255857,
+     "views": 255878,
      "ago": "Transmitido hace 6 días",
      "official": false
     },
@@ -3610,13 +3897,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 11443,
+     "views": 11450,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 267300,
+   "views_total": 267328,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -3859,7 +4146,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4347,
+     "views": 4352,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -3868,7 +4155,7 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 1417,
+     "views": 1439,
      "likes": 22,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
@@ -3877,13 +4164,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 921,
+     "views": 945,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 6685,
+   "views_total": 6736,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -4011,7 +4298,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4347,
+     "views": 4352,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -4020,13 +4307,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 921,
+     "views": 945,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 5268,
+   "views_total": 5297,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/fxghMlMmoj0/maxresdefault.jpg",
@@ -4307,9 +4594,7 @@
    "name": "Retratos oficiales del 75° aniversario (trajes de baño de los años 50)",
    "contest": "mu",
    "kind": "campaña oficial",
-   "labels": [
-    "Sesión de fotos oficial"
-   ],
+   "labels": [],
    "desc": "Trajes de baño de una pieza en marfil, inspirados en los años 50 y diseñados por la dominicana Giannina Azar. Las candidatas posaron con el cetro.",
    "refs": [
     "https://cdn.com.do/?p=260949335",
@@ -4324,12 +4609,9 @@
     "688acb096fce25",
     "4af88bfe3576b6",
     "a358cefe2b5168",
-    "1f450fee2e1093",
-    "2474df1a2edf51",
-    "01477abe24ac65"
+    "1f450fee2e1093"
    ],
    "sources": [
-    "ABS-CBN",
     "DZRH",
     "El Universo",
     "Facebook",
@@ -4337,20 +4619,20 @@
     "Inquirer.net - Philippines Entertainment News",
     "YouTube · Miss Universe"
    ],
-   "n_items": 8,
-   "n_sources": 7,
+   "n_items": 6,
+   "n_sources": 6,
    "videos": [
     {
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 56583,
+     "views": 56609,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 56583,
+   "views_total": 56609,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -4392,7 +4674,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 27
+   "score": 23
   },
   {
    "key": "p:unlock coronation night",
@@ -4438,7 +4720,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-20T17:39:43.106027+00:00",
+   "extra_at": "2026-11-20T17:47:43.211571+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4473,13 +4755,13 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4347,
+     "views": 4352,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
     }
    ],
-   "views_total": 4347,
+   "views_total": 4352,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/DAfSFkeXy5g/maxresdefault.jpg",
@@ -5099,33 +5381,25 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-19T01:48:18.895698+00:00",
-   "start": "2026-11-16T04:20:00+00:00",
+   "start": "2026-11-16T16:27:00+00:00",
    "last_activity": "2026-11-17T17:50:00+00:00",
    "item_ids": [
     "094c4f46d85be7",
     "83d91d346057f4",
     "9ae52e640683d2",
-    "c81cf3e008a725",
-    "a28482e6d21316"
+    "c81cf3e008a725"
    ],
    "sources": [
     "24horas",
-    "El Tiempo",
     "El Universo",
     "Radio Agricultura",
     "Sabes.cl"
    ],
-   "n_items": 5,
-   "n_sources": 5,
+   "n_items": 4,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.ZGpeDxGafnwdq0rLvabySw&pid=News",
-     "page": "https://www.eltiempo.com/cultura/gente/concurso-nacional-de-belleza-2026-fecha-hora-donde-ver-en-vivo-como-votar-y-candidatas-a-senorita-colombia-3601413",
-     "via": "Bing (miniatura)",
-     "credit": "El Tiempo"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
@@ -5169,9 +5443,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "social_urls": [
-    "https://www.instagram.com/p/Det9aCJoPI-"
-   ],
+   "social_urls": [],
    "image_query": "Miss Universe 2026 vote",
    "extra_images": [
     {
@@ -5218,20 +5490,14 @@
     }
    ],
    "extra_at": "2026-11-20T16:59:43.234665+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-20T17:39:43.106027+00:00",
-     "url": "https://www.instagram.com/p/Det9aCJoPI-",
-     "platform": "Instagram"
-    }
-   ],
+   "social": [],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 12
   },
   {
    "key": "t:mu:Gala / cena:2026-11-15",
@@ -5648,9 +5914,40 @@
    ],
    "n_items": 3,
    "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 21814,
+     "ago": "hace 5 días",
+     "official": false
+    },
+    {
+     "vid": "sBc2cmDSTWE",
+     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
+     "channel": "SNOW SIN FILTRO",
+     "views": 2618,
+     "ago": "hace 4 días",
+     "official": false
+    }
+   ],
+   "views_total": 24432,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
     {
      "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Melanie_temp/2026/MS%20INTERNATIONAL%202026/Kyrgystan.jpeg",
      "page": "https://philstarlife.com/style/695936-top-10-finalists-who-stood-out-in-their-national-costumes-at-2026-miss-international",
@@ -5841,7 +6138,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 13
   },
   {
    "key": "t:mu:Traje de baño:2026-11-15",
@@ -5876,13 +6173,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 11443,
+     "views": 11450,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 11443,
+   "views_total": 11450,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -6007,7 +6304,7 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 16542,
+     "views": 16563,
      "likes": 85,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
@@ -6016,7 +6313,7 @@
      "vid": "WwCTRgNGa8I",
      "title": "MALTA | Beauties for SDGs | Miss International 2026 | Nikole Buhagiar",
      "channel": "Miss International",
-     "views": 12153,
+     "views": 12202,
      "likes": 60,
      "published": "2026-11-16T12:57:17+00:00",
      "official": true
@@ -6025,13 +6322,13 @@
      "vid": "vCPs9M4RE20",
      "title": "BELGIUM | Beauties for SDGs | Miss International 2026 | Gioia can de Voorde",
      "channel": "Miss International",
-     "views": 6970,
+     "views": 6967,
      "likes": 34,
      "published": "2026-11-16T12:46:39+00:00",
      "official": true
     }
    ],
-   "views_total": 35665,
+   "views_total": 35732,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -6186,7 +6483,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6235,7 +6532,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6466,7 +6763,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6697,7 +6994,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6746,7 +7043,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T17:39:43.106027+00:00",
+   "first_seen": "2026-11-20T17:47:43.211571+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
