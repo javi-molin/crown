@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T22:11:52.654309+00:00",
+ "run_at": "2026-11-20T22:19:52.550363+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 54,
+   "items": 38,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 93,
+   "items": 94,
    "error": null
   },
   {
@@ -166,19 +166,19 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 19,
+   "items": 12,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 3,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
+   "items": 17,
    "error": "76 cuentas sincronizadas en total · 35 candidatas · 90 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1904 en total"
+   "error": "1 usuarios probados en esta vuelta · 1905 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 839,
+ "new_items": 815,
  "total_items": 900
 }
