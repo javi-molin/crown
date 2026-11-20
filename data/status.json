@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T17:23:42.942536+00:00",
+ "run_at": "2026-11-20T17:31:43.211591+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -9,9 +9,9 @@
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universo polémica",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 77,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 51,
+   "items": 89,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 25,
+   "items": 26,
    "error": null
   },
   {
@@ -88,19 +88,19 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 50,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 61,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 12,
+   "items": 44,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 96,
+   "items": 97,
    "error": null
   },
   {
@@ -178,7 +178,7 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 3,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 6,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 13,
+   "items": 6,
    "error": "75 cuentas sincronizadas en total · 31 candidatas · 90 organizaciones"
   },
   {
@@ -316,13 +316,13 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1820 en total"
+   "items": 1,
+   "error": "5 usuarios probados en esta vuelta · 1825 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 31,
+   "items": 32,
    "error": "0 menciones revisadas en esta vuelta; 90 organizaciones nacionales"
   },
   {
@@ -382,16 +382,16 @@
   {
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
-   "items": 37,
+   "items": 38,
    "error": "17 con TikTok · 90 con cuenta de su organización nacional · 197 candidatas"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 173,
+   "items": 177,
    "error": null
   }
  ],
- "new_items": 899,
+ "new_items": 837,
  "total_items": 900
 }
