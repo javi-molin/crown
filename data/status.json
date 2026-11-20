@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T09:47:34.834673+00:00",
+ "run_at": "2026-11-20T09:55:35.215075+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 50,
+   "items": 93,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 51,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 98,
+   "items": 100,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 16,
+   "items": 20,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
+   "items": 23,
    "error": "73 cuentas sincronizadas en total · 17 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -317,7 +323,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1531 en total"
+   "error": "24 usuarios probados en esta vuelta · 1555 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +398,6 @@
    "error": null
   }
  ],
- "new_items": 750,
+ "new_items": 820,
  "total_items": 900
 }
