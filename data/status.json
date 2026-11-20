@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T05:39:24.802747+00:00",
+ "run_at": "2026-11-20T05:47:24.332080+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 94,
+   "items": 49,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 49,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 32,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 0,
+   "items": 15,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": "73 cuentas sincronizadas en total · 17 candidatas · 68 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "6 usuarios probados en esta vuelta · 1320 en total"
+   "error": "1 usuarios probados en esta vuelta · 1321 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 869,
+ "new_items": 736,
  "total_items": 900
 }
