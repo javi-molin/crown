@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T11:31:34.400768+00:00",
+ "run_at": "2026-11-20T11:39:34.969574+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -15,14 +15,14 @@
   },
   {
    "source": "Google News · Miss Universo polémica",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 84,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 77,
+   "items": 76,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 51,
+   "items": 50,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 51,
+   "items": 53,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 51,
+   "items": 50,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 95,
+   "items": 94,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 8,
+   "items": 7,
    "error": null
   },
   {
@@ -304,8 +304,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
-   "error": "73 cuentas sincronizadas en total · 19 candidatas · 90 organizaciones"
+   "items": 20,
+   "error": "74 cuentas sincronizadas en total · 19 candidatas · 90 organizaciones"
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1638 en total"
+   "error": "10 usuarios probados en esta vuelta · 1648 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 837,
-   "error": "90 candidatas · descartadas: 1193 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 28 promoción / votación / afiche"
+   "items": 867,
+   "error": "91 candidatas · descartadas: 1218 fuera de fecha, 27 no habla de ella ni del concurso, 0 hashtag / no oficial, 28 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "1974 imágenes en el espejo"
+   "items": 31,
+   "error": "2005 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 694,
+ "new_items": 758,
  "total_items": 900
 }
