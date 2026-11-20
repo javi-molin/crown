@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:43:42.727536+00:00",
+ "updated": "2026-11-20T14:51:42.343183+00:00",
  "count": 37,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -251,6 +251,7 @@
     "6717c8df379a50",
     "1dac588092200a",
     "6a36e59aa04991",
+    "32b15c1fa13892",
     "a44341bc1cc156",
     "366f5963309e3f",
     "ab005c036fe3af",
@@ -269,6 +270,7 @@
     "El Heraldo",
     "El Nuevo Día",
     "El Vocero de Puerto Rico",
+    "Extra",
     "Facebook",
     "Infobae",
     "Latin Times",
@@ -276,11 +278,17 @@
     "People en Español",
     "Radio Agricultura"
    ],
-   "n_items": 15,
-   "n_sources": 10,
+   "n_items": 16,
+   "n_sources": 11,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.EMPOGNtvf8ErnNYrlp-BbQ&pid=News",
+     "page": "https://www.extra.ec/noticia/farandula/dalia-bucaram-revela-vivio-entrevista-jurado-miss-universo-2026-168442.html",
+     "via": "Bing (miniatura)",
+     "credit": "Extra"
+    },
     {
      "url": "https://assets.radioagricultura.cl/2026/11/IG-@missuniversovinadelmar-1024x538-1.jpg",
      "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-deslumbra-de-blanco-en-su-entrevista-con-el-jurado-de-miss-universo-2026-un-paso-mas-cerca_20261119/",
@@ -333,12 +341,6 @@
      "url": "https://assets.radioagricultura.cl{{imagen_post}}",
      "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-deslumbra-de-blanco-en-su-entrevista-con-el-jurado-de-miss-universo-2026-un-paso-mas-cerca_20261119/",
      "via": "Radio Agricultura",
-     "credit": "Radio Agricultura"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.MS-QklSKM3BsB-IHmXv1gg&pid=News",
-     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-deslumbra-de-blanco-en-su-entrevista-con-el-jurado-de-miss-universo-2026-un-paso-mas-cerca_20261119/",
-     "via": "Bing (miniatura)",
      "credit": "Radio Agricultura"
     },
     {
@@ -571,7 +573,7 @@
      "credit": "House Committee on the Judiciary"
     }
    ],
-   "extra_at": "2026-11-20T11:47:34.818070+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [
     {
      "fetched": "2026-11-20T14:27:43.024507+00:00",
@@ -579,7 +581,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-20T13:47:42.725398+00:00",
+     "fetched": "2026-11-20T14:51:42.343183+00:00",
      "url": "https://www.instagram.com/p/Df7q7n_llAo",
      "platform": "Instagram"
     }
@@ -590,7 +592,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 35
+   "score": 38
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-18",
@@ -978,7 +980,7 @@
      "credit": "\nAppalachian State University"
     }
    ],
-   "extra_at": "2026-11-20T11:47:34.818070+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [
     {
      "fetched": "2026-11-20T14:27:43.024507+00:00",
@@ -1323,7 +1325,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 807057,
+     "views": 807434,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -1332,7 +1334,7 @@
      "vid": "pGGyoBglgfA",
      "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
      "channel": "The Crowning Quest",
-     "views": 148708,
+     "views": 149000,
      "ago": "hace 2 días",
      "official": false
     },
@@ -1340,7 +1342,7 @@
      "vid": "IkSy-bS-uIY",
      "title": "Miss Universe 2026 runway to the universe full show ",
      "channel": "Ron Nasis",
-     "views": 92428,
+     "views": 92709,
      "ago": "hace 2 días",
      "official": false
     },
@@ -1348,7 +1350,7 @@
      "vid": "qX1D-se65yc",
      "title": "Miss Universo 2026 (TOP 20) Runway to the universe 🔥",
      "channel": "TOP VZLA",
-     "views": 18330,
+     "views": 18337,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1356,13 +1358,21 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 15655,
+     "views": 15720,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
+    },
+    {
+     "vid": "gjs7fY6Bi58",
+     "title": "Las candidatas de Miss Universo 2026 en el desfile de modas Runway to the Universe | LHDE | Ecuavisa",
+     "channel": "Ecuavisa Entretenimiento",
+     "views": 10325,
+     "ago": "hace 1 día",
+     "official": false
     }
    ],
-   "views_total": 1082178,
+   "views_total": 1093525,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
@@ -1391,6 +1401,13 @@
      "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
      "via": "YouTube (miniatura)",
      "credit": "The Crowning Quest"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/gjs7fY6Bi58/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/gjs7fY6Bi58/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=gjs7fY6Bi58",
+     "via": "YouTube (miniatura)",
+     "credit": "Ecuavisa Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
@@ -1602,12 +1619,6 @@
      "page": "https://www.vistazo.com/entretenimiento/2026-11-18-dalia-bucaram-sorprende-pasarela-miss-universo-2026-BB11326272",
      "via": "Vistazo",
      "credit": "Vistazo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/4c71f5c736321e1bb6a2302d23e5c1e9e0364981da27b464f29e7ab6f26758e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
     }
    ],
    "social_urls": [
@@ -1929,7 +1940,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 15182,
+     "views": 15223,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1938,7 +1949,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 10256,
+     "views": 10320,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1947,13 +1958,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 6631,
+     "views": 6639,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 32069,
+   "views_total": 32182,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -2168,13 +2179,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 2854,
+     "views": 2962,
      "likes": 17,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 2854,
+   "views_total": 2962,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -2444,13 +2455,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 15655,
+     "views": 15720,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 15655,
+   "views_total": 15720,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -2781,13 +2792,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 15655,
+     "views": 15720,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 15655,
+   "views_total": 15720,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3369,12 +3380,27 @@
      "page": "https://www.youtube.com/watch?v=Upmk6ipYuwo",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://cdn.magzter.com/1353398651/1647241232/articles/llADAUvxy1648449340270/0615104465.jpg",
+     "page": "https://www.magzter.com/stories/Entertainment/Kungumam/1648465986",
+     "via": "Bing Imágenes",
+     "credit": "magzter.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.kEJ87jlf1oclo_ZGrJ7nYAHaFj&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
-   "extra_images": [],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_images": [
+    {
+     "url": "https://cdn.magzter.com/1353398651/1647241232/articles/llADAUvxy1648449340270/0615104465.jpg",
+     "page": "https://www.magzter.com/stories/Entertainment/Kungumam/1648465986",
+     "via": "Bing Imágenes",
+     "credit": "magzter.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.kEJ87jlf1oclo_ZGrJ7nYAHaFj&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3415,7 +3441,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4242,
+     "views": 4245,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -3424,8 +3450,8 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 1239,
-     "likes": 21,
+     "views": 1249,
+     "likes": 22,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
     },
@@ -3433,13 +3459,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 774,
+     "views": 781,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 6255,
+   "views_total": 6275,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -3567,7 +3593,7 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4242,
+     "views": 4245,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
@@ -3576,13 +3602,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 774,
+     "views": 781,
      "likes": 19,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 5016,
+   "views_total": 5026,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/fxghMlMmoj0/maxresdefault.jpg",
@@ -3798,13 +3824,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 56050,
+     "views": 56079,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 56050,
+   "views_total": 56079,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -3817,7 +3843,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3878,7 +3904,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 255111,
+     "views": 255140,
      "ago": "Transmitido hace 6 días",
      "official": false
     },
@@ -3901,7 +3927,7 @@
      "official": true
     }
    ],
-   "views_total": 281681,
+   "views_total": 281710,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -4369,13 +4395,13 @@
      "vid": "DAfSFkeXy5g",
      "title": "The YAMANASHI TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 4242,
+     "views": 4245,
      "likes": 52,
      "published": "2026-11-18T07:28:26+00:00",
      "official": true
     }
    ],
-   "views_total": 4242,
+   "views_total": 4245,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/DAfSFkeXy5g/maxresdefault.jpg",
@@ -4803,7 +4829,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [
     {
      "fetched": "2026-11-20T14:27:43.024507+00:00",
@@ -4992,9 +5018,40 @@
    ],
    "n_items": 10,
    "n_sources": 8,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 21579,
+     "ago": "hace 5 días",
+     "official": false
+    },
+    {
+     "vid": "sBc2cmDSTWE",
+     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
+     "channel": "SNOW SIN FILTRO",
+     "views": 2595,
+     "ago": "hace 4 días",
+     "official": false
+    }
+   ],
+   "views_total": 24174,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
     {
      "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Melanie_temp/2026/MS%20INTERNATIONAL%202026/Kyrgystan.jpeg",
      "page": "https://philstarlife.com/style/695936-top-10-finalists-who-stood-out-in-their-national-costumes-at-2026-miss-international",
@@ -5083,11 +5140,11 @@
      "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf/page1-960px-Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_(06-07-1974-09-02-1974)_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5133,11 +5190,11 @@
      "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf/page1-960px-Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_(06-07-1974-09-02-1974)_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5161,7 +5218,7 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "extra_at": "2026-11-20T11:47:34.818070+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "social": [
     {
      "fetched": "2026-11-20T14:27:43.024507+00:00",
@@ -5185,7 +5242,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 29
+   "score": 30
   },
   {
    "key": "t:mi:Causa / caridad:2026-11-15",
@@ -5218,7 +5275,7 @@
      "vid": "4SwW0PfvbMo",
      "title": "NEPAL | Beauties for SDGs | Miss International 2026 | Arya Nishaant",
      "channel": "Miss International",
-     "views": 16571,
+     "views": 16587,
      "likes": 82,
      "published": "2026-11-16T14:00:31+00:00",
      "official": true
@@ -5227,7 +5284,7 @@
      "vid": "WwCTRgNGa8I",
      "title": "MALTA | Beauties for SDGs | Miss International 2026 | Nikole Buhagiar",
      "channel": "Miss International",
-     "views": 12153,
+     "views": 12080,
      "likes": 60,
      "published": "2026-11-16T12:57:17+00:00",
      "official": true
@@ -5242,7 +5299,7 @@
      "official": true
     }
    ],
-   "views_total": 35592,
+   "views_total": 35535,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/4SwW0PfvbMo/maxresdefault.jpg",
@@ -5397,7 +5454,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5628,7 +5685,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5641,7 +5698,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-20T14:43:42.727536+00:00",
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5661,7 +5718,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5710,7 +5767,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5719,27 +5776,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7576525258979560722&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@starcut_plantillas/video/7576525258979560722",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.1JSNVGOXEej20Mi9mdJL2AHaJ4&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
-   "extra_images": [
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7576525258979560722&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@starcut_plantillas/video/7576525258979560722",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.1JSNVGOXEej20Mi9mdJL2AHaJ4&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-20T11:47:34.818070+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-20T14:51:42.343183+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5759,7 +5800,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-20T14:43:42.727536+00:00",
+   "first_seen": "2026-11-20T14:51:42.343183+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
