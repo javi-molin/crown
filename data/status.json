@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T19:07:42.724778+00:00",
+ "run_at": "2026-11-20T19:15:43.114024+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 76,
+   "items": 77,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 85,
+   "items": 46,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 49,
+   "items": 48,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 24,
+   "items": 58,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 51,
+   "items": 100,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 0,
+   "items": 17,
    "error": null
   },
   {
@@ -207,9 +207,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
@@ -220,7 +220,7 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 39,
+   "items": 37,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 22,
+   "items": 23,
    "error": "76 cuentas sincronizadas en total · 33 candidatas · 90 organizaciones"
   },
   {
@@ -316,13 +316,13 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "6 usuarios probados en esta vuelta · 1860 en total"
+   "items": 1,
+   "error": "9 usuarios probados en esta vuelta · 1869 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 33,
+   "items": 34,
    "error": "0 menciones revisadas en esta vuelta; 90 organizaciones nacionales"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "2073 imágenes en el espejo"
+   "items": 6,
+   "error": "2079 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -382,7 +382,7 @@
   {
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
-   "items": 39,
+   "items": 40,
    "error": "18 con TikTok · 90 con cuenta de su organización nacional · 197 candidatas"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 842,
+ "new_items": 873,
  "total_items": 900
 }
