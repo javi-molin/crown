@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T05:47:24.332080+00:00",
+ "run_at": "2026-11-20T05:55:24.487802+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 26,
+   "items": 57,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 16,
    "error": "73 cuentas sincronizadas en total · 17 candidatas · 68 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1321 en total"
+   "error": "5 usuarios probados en esta vuelta · 1326 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 736,
+ "new_items": 755,
  "total_items": 900
 }
