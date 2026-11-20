@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-20T04:59:24.956018+00:00",
+ "run_at": "2026-11-20T05:07:25.324058+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 0,
+   "items": 52,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 32,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -316,14 +316,14 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "8 usuarios probados en esta vuelta · 1292 en total"
+   "items": 2,
+   "error": "10 usuarios probados en esta vuelta · 1302 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
    "items": 17,
-   "error": "0 menciones revisadas en esta vuelta; 65 organizaciones nacionales"
+   "error": "0 menciones revisadas en esta vuelta; 67 organizaciones nacionales"
   },
   {
    "source": "Galería · Bing por candidata (2/834 celdas)",
@@ -383,7 +383,7 @@
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
    "items": 23,
-   "error": "9 con TikTok · 65 con cuenta de su organización nacional · 197 candidatas"
+   "error": "9 con TikTok · 67 con cuenta de su organización nacional · 197 candidatas"
   },
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 717,
+ "new_items": 735,
  "total_items": 900
 }
