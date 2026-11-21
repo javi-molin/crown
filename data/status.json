@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T10:44:10.229969+00:00",
+ "run_at": "2026-11-21T10:52:09.868667+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 76,
+   "items": 77,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 37,
+   "items": 36,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 51,
+   "items": 100,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 82,
+   "items": 81,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -208,7 +208,7 @@
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 10,
+   "items": 11,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "8 usuarios probados en esta vuelta · 2186 en total"
+   "error": "7 usuarios probados en esta vuelta · 2193 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 837,
+ "new_items": 888,
  "total_items": 900
 }
