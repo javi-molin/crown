@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T11:00:10.057249+00:00",
+ "run_at": "2026-11-21T11:08:09.681285+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 75,
+   "items": 100,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 78,
+   "items": 36,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 52,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 51,
+   "items": 100,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 82,
+   "items": 81,
    "error": null
   },
   {
@@ -214,13 +214,13 @@
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
    "ok": true,
-   "items": 11,
+   "items": 10,
    "error": null
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 10,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 18,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 2194 en total"
+   "error": "1 usuarios probados en esta vuelta · 2195 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 932,
+ "new_items": 913,
  "total_items": 900
 }
