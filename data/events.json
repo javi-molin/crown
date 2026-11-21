@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:24:25.761785+00:00",
+ "updated": "2026-11-21T23:32:25.573408+00:00",
  "count": 36,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -240,6 +240,7 @@
     "f84750cc2f8e60",
     "8e0fa4d9b2cd1d",
     "94f763770da88f",
+    "5465c15799624f",
     "c1eef14637b853",
     "bcbb7003ed6297",
     "cf0f4aedef4d11",
@@ -291,7 +292,7 @@
     "The Manila Times",
     "YouTube · Miss Universe"
    ],
-   "n_items": 49,
+   "n_items": 50,
    "n_sources": 26,
    "videos": [],
    "views_total": 0,
@@ -308,7 +309,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 104
+   "score": 105
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -359,6 +360,7 @@
     "f84750cc2f8e60",
     "8e0fa4d9b2cd1d",
     "94f763770da88f",
+    "5465c15799624f",
     "c1eef14637b853",
     "396ec8b11c3327",
     "bcbb7003ed6297",
@@ -430,34 +432,43 @@
     "The Manila Times",
     "YouTube · Miss Universe"
    ],
-   "n_items": 67,
+   "n_items": 68,
    "n_sources": 34,
    "videos": [
     {
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 6140,
+     "views": 6626,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
+    },
+    {
+     "vid": "ejKFwAPg44c",
+     "title": "MISS UNIVERSE  2026 | National Costume",
+     "channel": "Miss Universe",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-21T23:01:57+00:00",
+     "official": true
     }
    ],
-   "views_total": 6140,
+   "views_total": 6626,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/ejKFwAPg44c/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/ejKFwAPg44c/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=ejKFwAPg44c",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
     {
      "url": "https://i.ytimg.com/vi/VTZdfe78o1E/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/VTZdfe78o1E/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=VTZdfe78o1E",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/ejKFwAPg44c/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/ejKFwAPg44c/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ejKFwAPg44c",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Miss Universe"
     },
     {
      "url": "https://www.metroecuador.com.ec/resizer/v2/TXSJT6LLCJHTFPRB4AMPU5623A.png?smart=true&auth=da0cc5d66e197892d71a36ebb962e489bdf4da88f71a766dfcdc07303411da37&width=1200&height=630",
@@ -760,7 +771,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
@@ -770,7 +781,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df9kgJ1kSd9",
      "platform": "Instagram"
     },
@@ -790,7 +801,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/DfXPN_GIY9k",
      "platform": "Instagram"
     },
@@ -818,7 +829,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 138
+   "score": 139
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -1206,12 +1217,12 @@
    "extra_at": "2026-11-21T20:36:25.885207+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df4jqi_G9R4",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df2j3_ds9-S",
      "platform": "Instagram"
     },
@@ -1255,7 +1266,6 @@
     "a77969161f7005",
     "2540479892f808",
     "9746670e886f83",
-    "95eb2987d55ef3",
     "be7f8504191879",
     "62daec4b9e8652",
     "1508ca8f5968b8"
@@ -1268,29 +1278,36 @@
     "Inquirer.net",
     "Inquirer.net - Philippines Entertainment News",
     "News.com.au",
-    "People.com",
     "Sloboden Pechat",
     "South China Morning Post",
     "YouTube · Miss Universe",
     "news.com.au"
    ],
-   "n_items": 13,
-   "n_sources": 12,
+   "n_items": 12,
+   "n_sources": 11,
    "videos": [
     {
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 873130,
+     "views": 874596,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
+     "vid": "pGGyoBglgfA",
+     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
+     "channel": "The Crowning Quest",
+     "views": 174896,
+     "ago": "hace 3 días",
+     "official": false
+    },
+    {
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 35222,
+     "views": 37372,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
@@ -1299,13 +1316,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25414,
+     "views": 25510,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 933766,
+   "views_total": 1112374,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -1327,6 +1344,13 @@
      "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
+     "via": "YouTube (miniatura)",
+     "credit": "The Crowning Quest"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
@@ -1389,7 +1413,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 92
   },
   {
    "key": "seed:voto-top30",
@@ -1443,7 +1467,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 20776,
+     "views": 20819,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1452,7 +1476,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 19395,
+     "views": 19426,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1461,13 +1485,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8579,
+     "views": 8593,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 48750,
+   "views_total": 48838,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1760,17 +1784,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df4jqi_G9R4",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -1780,7 +1804,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df2j3_ds9-S",
      "platform": "Instagram"
     },
@@ -2988,7 +3012,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df72HSSm0lY",
      "platform": "Instagram"
     },
@@ -3091,7 +3115,7 @@
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 48808,
+     "views": 52722,
      "ago": "",
      "official": false
     },
@@ -3099,13 +3123,13 @@
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 3445,
-     "likes": 566,
+     "views": 3781,
+     "likes": 650,
      "published": "2026-11-18T17:16:06+00:00",
      "official": true
     }
    ],
-   "views_total": 52253,
+   "views_total": 56503,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -3533,7 +3557,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -4163,12 +4187,12 @@
    "extra_at": "2026-11-21T20:52:25.609457+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Dej5RsYTiC-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df25AVGmwx-",
      "platform": "Instagram"
     },
@@ -4183,27 +4207,27 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df8IWx6kjI1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/DfuW3w0FStZ",
      "platform": "Instagram"
     },
@@ -4223,7 +4247,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df3qV3MxpC9",
      "platform": "Instagram"
     },
@@ -4238,7 +4262,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -4294,13 +4318,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25414,
+     "views": 25510,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 25414,
+   "views_total": 25510,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -6508,13 +6532,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25414,
+     "views": 25510,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 25414,
+   "views_total": 25510,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -6729,29 +6753,13 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 261908,
+     "views": 261920,
      "ago": "Transmitido hace 7 días",
      "official": false
-    },
-    {
-     "vid": "RRFpY4TaoWk",
-     "title": "BEAUTY AT THE BEACH | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 12581,
-     "likes": 0,
-     "published": "2026-11-16T23:59:14+00:00",
-     "official": true
     }
    ],
-   "views_total": 274489,
+   "views_total": 261920,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/RRFpY4TaoWk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=RRFpY4TaoWk",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "https://i.ytimg.com/vi/mYsdbLHCgGM/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/mYsdbLHCgGM/hqdefault.jpg",
@@ -6998,22 +7006,22 @@
    "extra_at": "2026-11-21T23:16:25.822752+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:28:25.653145+00:00",
+     "fetched": "2026-11-21T23:32:25.573408+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     }
@@ -7543,12 +7551,209 @@
      "page": "https://entertainment.inquirer.net/690684/miss-international-2026-delegates-serve-face-in-official-portraits",
      "via": "Bing (miniatura)",
      "credit": "Inquirer.net - Philippines Entertainment News"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-prince-edward-island-canada-picture-id157481936?k=20&m=157481936&s=612x612&w=0&h=lFSDHQ0vR2Q0bwrWl8oB88QPDM9BLtmf1rE8RgGfcTk=",
+     "page": "https://www.istockphoto.com/es/fotos/malpeque-fotos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2DXzoHVh6gaaO-sUn7txwgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1158686672/photo/pretty-sunset-at-malpeque-harbor-prince-edward-island-canada.jpg?s=612x612&w=gi&k=20&c=13vQfEZUcGw_q10-srVoy4cM2OOinpiQtym2jLtmb58=",
+     "page": "https://www.gettyimages.dk/photos/malpeque",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.dk",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.QjEHZSIshTidkEOaRCNblQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d0c7e747837055.58891a19293e8.jpg",
+     "page": "https://www.behance.net/gallery/47837055/Road-Trip-to-Nova-Scotia/modules/285904177",
+     "via": "Bing Imágenes",
+     "credit": "behance.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BvChMokwi3YzZ2lzxw_inAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/compfr/arp2fc/malpeque-harbour-prince-edward-island-canada-arp2fc.jpg",
+     "page": "https://www.alamyimages.fr/malpeque-harbour-prince-edward-island-canada-image2990843.html",
+     "via": "Bing Imágenes",
+     "credit": "alamyimages.fr",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.u0sbLyh-S48c5zc8mhzzlwHaFc&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1158686662/photo/malpeque-harbor-at-sunset-prince-edward-island-canada.jpg?s=612x612&w=gi&k=20&c=GXYq-jnPgLq010yjJGNczo-kGqbQUMO9wqIrmEyNinY=",
+     "page": "https://www.gettyimages.ie/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ie",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.FsGDTW00bxqhE--8KQe_swHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/71/d9/b1/71d9b1f072bda87e6a5f502c10b4e2a6.jpg",
+     "page": "https://www.pinterest.com/pin/391813236302758678/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.DI3KLXD8DRC5plj60iyD2QHaE7&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-pei-blue-hour-picture-id471844759?k=20&m=471844759&s=612x612&w=0&h=Ktee0bDPOfNM1_bb35N7z5x9P5vxR28m26BCQu2Jeh8=",
+     "page": "https://www.istockphoto.com/photos/malpeque-harbour-prince-edward-island",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.nXTN9jeJxoQgBmbsGvAT7QHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/146900583/photo/malpeque-harbour.jpg?s=612x612&w=0&k=20&c=Rf_Ojx7b6dvRxBh9O_G3ROsgS_Z4tJLhrLOZn9dUVqY=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ycRTN2OTA9ct3R8RZqPolQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-prince-edward-island-canada-picture-id173877018?k=20&m=173877018&s=612x612&w=0&h=UooP_mMPvN0hm86fmGWl_lmcyECg9AF0ttQUOrOD0qo=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZUPDa03eeohqw_YIqd2yhAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/AAG48A/ajd37911-canada-prince-edward-island-malpeque-prince-county-gulf-of-AAG48A.jpg",
+     "page": "https://www.alamy.com/stock-photo/malpeque bay.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.2Rd1VGWEdNHrtyi9jsP-QwHaGE&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/maritime-province-of-prince-edward-island-picture-id1171143458?k=20&m=1171143458&s=612x612&w=0&h=cGCZbO0J4ayWphp0m1kiVqOZb1B942AWIozHeJtOmT4=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xs3-C03wngP2pDnksunSPQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1928352074/photo/malpeque-prince-edward-island-canada-tiny-fishing-harbor-with-boats-and-fishing-huts.jpg?s=612x612&w=gi&k=20&c=LUn_CD_DIdjbcQuxVBwqueqk03zkkEFt0azmqE9qhpw=",
+     "page": "https://www.gettyimages.ie/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ie",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.GvvGLP9X8G5upcf_eHv4QAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/CMMY3E/malpeque-harbour-prince-county-prince-edward-island-CMMY3E.jpg",
+     "page": "https://www.alamy.com/stock-photo/malpeque bay.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.AOD2EK9fusVYCLqoPVoYhgHaFb&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/164927466/photo/maritime-light.jpg?s=612x612&w=gi&k=20&c=T8KpEr2NMgw0dG6M45jzS4g_wmnDVfLRScN6brn4H9k=",
+     "page": "https://www.gettyimages.ca/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ca",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.H769SL4i3vdlTXxaHdGlbwHaE8&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [],
-   "extra_at": "2026-11-21T23:24:25.761785+00:00",
+   "extra_images": [
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-prince-edward-island-canada-picture-id157481936?k=20&m=157481936&s=612x612&w=0&h=lFSDHQ0vR2Q0bwrWl8oB88QPDM9BLtmf1rE8RgGfcTk=",
+     "page": "https://www.istockphoto.com/es/fotos/malpeque-fotos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2DXzoHVh6gaaO-sUn7txwgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1158686672/photo/pretty-sunset-at-malpeque-harbor-prince-edward-island-canada.jpg?s=612x612&w=gi&k=20&c=13vQfEZUcGw_q10-srVoy4cM2OOinpiQtym2jLtmb58=",
+     "page": "https://www.gettyimages.dk/photos/malpeque",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.dk",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.QjEHZSIshTidkEOaRCNblQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d0c7e747837055.58891a19293e8.jpg",
+     "page": "https://www.behance.net/gallery/47837055/Road-Trip-to-Nova-Scotia/modules/285904177",
+     "via": "Bing Imágenes",
+     "credit": "behance.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BvChMokwi3YzZ2lzxw_inAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/compfr/arp2fc/malpeque-harbour-prince-edward-island-canada-arp2fc.jpg",
+     "page": "https://www.alamyimages.fr/malpeque-harbour-prince-edward-island-canada-image2990843.html",
+     "via": "Bing Imágenes",
+     "credit": "alamyimages.fr",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.u0sbLyh-S48c5zc8mhzzlwHaFc&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1158686662/photo/malpeque-harbor-at-sunset-prince-edward-island-canada.jpg?s=612x612&w=gi&k=20&c=GXYq-jnPgLq010yjJGNczo-kGqbQUMO9wqIrmEyNinY=",
+     "page": "https://www.gettyimages.ie/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ie",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.FsGDTW00bxqhE--8KQe_swHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/71/d9/b1/71d9b1f072bda87e6a5f502c10b4e2a6.jpg",
+     "page": "https://www.pinterest.com/pin/391813236302758678/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.DI3KLXD8DRC5plj60iyD2QHaE7&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-pei-blue-hour-picture-id471844759?k=20&m=471844759&s=612x612&w=0&h=Ktee0bDPOfNM1_bb35N7z5x9P5vxR28m26BCQu2Jeh8=",
+     "page": "https://www.istockphoto.com/photos/malpeque-harbour-prince-edward-island",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.nXTN9jeJxoQgBmbsGvAT7QHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/146900583/photo/malpeque-harbour.jpg?s=612x612&w=0&k=20&c=Rf_Ojx7b6dvRxBh9O_G3ROsgS_Z4tJLhrLOZn9dUVqY=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ycRTN2OTA9ct3R8RZqPolQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/malpeque-harbour-prince-edward-island-canada-picture-id173877018?k=20&m=173877018&s=612x612&w=0&h=UooP_mMPvN0hm86fmGWl_lmcyECg9AF0ttQUOrOD0qo=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZUPDa03eeohqw_YIqd2yhAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/AAG48A/ajd37911-canada-prince-edward-island-malpeque-prince-county-gulf-of-AAG48A.jpg",
+     "page": "https://www.alamy.com/stock-photo/malpeque bay.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.2Rd1VGWEdNHrtyi9jsP-QwHaGE&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/photos/maritime-province-of-prince-edward-island-picture-id1171143458?k=20&m=1171143458&s=612x612&w=0&h=cGCZbO0J4ayWphp0m1kiVqOZb1B942AWIozHeJtOmT4=",
+     "page": "https://www.istockphoto.com/photos/malpeque-photos",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xs3-C03wngP2pDnksunSPQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/1928352074/photo/malpeque-prince-edward-island-canada-tiny-fishing-harbor-with-boats-and-fishing-huts.jpg?s=612x612&w=gi&k=20&c=LUn_CD_DIdjbcQuxVBwqueqk03zkkEFt0azmqE9qhpw=",
+     "page": "https://www.gettyimages.ie/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ie",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.GvvGLP9X8G5upcf_eHv4QAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/CMMY3E/malpeque-harbour-prince-county-prince-edward-island-CMMY3E.jpg",
+     "page": "https://www.alamy.com/stock-photo/malpeque bay.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.AOD2EK9fusVYCLqoPVoYhgHaFb&pid=15.1"
+    },
+    {
+     "url": "https://media.gettyimages.com/id/164927466/photo/maritime-light.jpg?s=612x612&w=gi&k=20&c=T8KpEr2NMgw0dG6M45jzS4g_wmnDVfLRScN6brn4H9k=",
+     "page": "https://www.gettyimages.ca/photos/malpeque-bay",
+     "via": "Bing Imágenes",
+     "credit": "gettyimages.ca",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.H769SL4i3vdlTXxaHdGlbwHaE8&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T23:32:25.573408+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -7567,7 +7772,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -7616,7 +7821,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -7847,7 +8052,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -7896,7 +8101,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -7945,7 +8150,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:24:25.761785+00:00",
+   "first_seen": "2026-11-21T23:32:25.573408+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
