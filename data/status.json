@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T15:16:17.266017+00:00",
+ "run_at": "2026-11-21T15:24:17.709087+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -9,9 +9,9 @@
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 93,
+   "items": 100,
    "error": null
   },
   {
@@ -87,20 +87,20 @@
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 50,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 70,
+   "items": 69,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 44,
+   "items": 12,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 90,
+   "items": 89,
    "error": null
   },
   {
@@ -196,7 +196,7 @@
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
+   "items": 11,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 7,
-   "error": "2238 imágenes en el espejo"
+   "items": 1,
+   "error": "2239 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 848,
+ "new_items": 905,
  "total_items": 900
 }
