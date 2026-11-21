@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-21T15:00:17.959366+00:00",
+ "run_at": "2026-11-21T15:08:17.686910+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -64,25 +64,25 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 52,
    "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 38,
+   "items": 55,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 26,
+   "items": 60,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 34,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 89,
+   "items": 90,
    "error": null
   },
   {
@@ -196,13 +196,13 @@
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
    "ok": true,
-   "items": 9,
+   "items": 7,
    "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
    "ok": true,
-   "items": 11,
+   "items": 10,
    "error": null
   },
   {
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 4,
+   "items": 2,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 16,
+   "items": 13,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 913,
+   "items": 916,
    "error": "92 candidatas · descartadas: 1199 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "2228 imágenes en el espejo"
+   "items": 3,
+   "error": "2231 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 940,
+ "new_items": 899,
  "total_items": 900
 }
