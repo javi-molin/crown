@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T16:12:17.762107+00:00",
+ "run_at": "2026-11-21T16:20:17.858675+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 33,
+   "items": 71,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 38,
+   "items": 55,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 50,
    "error": null
   },
   {
@@ -154,7 +154,7 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -166,7 +166,7 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 4,
+   "items": 1,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 17,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 925,
-   "error": "92 candidatas · descartadas: 1198 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
+   "error": "92 candidatas · descartadas: 1197 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 898,
+ "new_items": 905,
  "total_items": 900
 }
