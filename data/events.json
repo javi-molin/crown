@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:28:17.744253+00:00",
+ "updated": "2026-11-21T16:36:17.878291+00:00",
  "count": 34,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -266,6 +266,7 @@
     "cf7dd422fbdff2",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
+    "057cd3ed5881c1",
     "5bdda67908ff3e",
     "5611b3a0559a0e",
     "46161a32554663",
@@ -273,6 +274,7 @@
     "277218d4a4e004"
    ],
    "sources": [
+    "24 horas",
     "24 horas on MSN",
     "24horas",
     "El Financiero",
@@ -282,21 +284,45 @@
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 9,
-   "n_sources": 8,
+   "n_items": 10,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [
     {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261121/imag/foto_0000000620261121123534/Capturadepantalla20261121125111.webp",
+     "page": "https://www.24horas.cl/tendencias/espectaculos/miss-universo-2026-desfile-trajes-nacionales",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261121/imag/foto_0000000520261121110405/ipiccy_image24.webp",
+     "page": "https://www.24horas.cl/tendencias/espectaculos/miss-universo-2026-desfile-trajes-nacionales",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20260630/imag/foto_0000000420260630173830/estadio_luces_mundial.webp",
+     "page": "https://www.24horas.cl/tendencias/espectaculos/miss-universo-2026-desfile-trajes-nacionales",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261121/imag/foto_0000000520261121120257/ipiccy_image25.webp",
+     "page": "https://www.24horas.cl/tendencias/espectaculos/miss-universo-2026-desfile-trajes-nacionales",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.OryDh8g0gu0uIdGzMBbWKA&pid=News",
+     "page": "https://www.24horas.cl/tendencias/espectaculos/miss-universo-2026-desfile-trajes-nacionales",
+     "via": "Bing (miniatura)",
+     "credit": "24 horas"
+    },
+    {
      "url": "https://assets.videoplatform.tv/end/2026/11/20/294831_miss-universe-2026-en-puerto-rico-asi-sera-el-escenario-del-certamen-de-los-75-anos/still_e6ce238f6ea9ac355194af9e1a28f231.jpg",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/videos/miss-universe-2026-en-puerto-rico-asi-sera-el-escenario-del-certamen-de-los-75-anos-294831/",
      "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.4d8R9iFPTDq0nTMTRTQWpQ&pid=News",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/videos/miss-universe-2026-en-puerto-rico-asi-sera-el-escenario-del-certamen-de-los-75-anos-294831/",
-     "via": "Bing (miniatura)",
      "credit": "El Nuevo Día"
     },
     {
@@ -386,6 +412,7 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/Df9kgJ1kSd9",
+    "https://www.instagram.com/p/DgAgpY3kY2-",
     "https://www.instagram.com/reel/DfXPN_GIY9k"
    ],
    "image_query": "Miss Universe 2026 national costume",
@@ -441,6 +468,11 @@
      "platform": "Instagram"
     },
     {
+     "fetched": "2026-11-21T16:36:17.878291+00:00",
+     "url": "https://www.instagram.com/p/DgAgpY3kY2-",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-21T16:04:17.519994+00:00",
      "url": "https://www.instagram.com/reel/DfXPN_GIY9k",
      "platform": "Instagram"
@@ -452,7 +484,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 25
+   "score": 28
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -519,7 +551,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 854998,
+     "views": 855761,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -528,7 +560,7 @@
      "vid": "pGGyoBglgfA",
      "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
      "channel": "The Crowning Quest",
-     "views": 170908,
+     "views": 171067,
      "ago": "hace 3 días",
      "official": false
     },
@@ -536,7 +568,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23073,
+     "views": 23157,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -545,13 +577,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 946,
+     "views": 1970,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 1049925,
+   "views_total": 1051955,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -821,13 +853,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 380,
+     "views": 388,
      "likes": 4,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1064,
+   "views_total": 1072,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -1439,7 +1471,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:32:17.674547+00:00",
+     "fetched": "2026-11-21T16:36:17.878291+00:00",
      "url": "https://www.instagram.com/reel/Df8Levrto97",
      "platform": "Instagram"
     },
@@ -1529,25 +1561,16 @@
    "n_sources": 21,
    "videos": [
     {
-     "vid": "2ECJUf9wWxA",
-     "title": "Clara Vegas Goetz, Miss Venezuela 🇻🇪 promete que su traje típico será icónico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 38379,
-     "likes": 142,
-     "published": "2026-11-20T19:52:09+00:00",
-     "official": true
-    },
-    {
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2136,
-     "likes": 58,
+     "views": 2137,
+     "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 40515,
+   "views_total": 2137,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -1561,7 +1584,7 @@
      "alt": "https://i.ytimg.com/vi/2ECJUf9wWxA/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=2ECJUf9wWxA",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://img.asmedia.epimg.net/resizer/v2/TZBXJZTIPVDVPO7URRCQOZYZK4.jpg?auth=0e65290b95630e1316ad5b1c98b31be3bbc67525654c0c38b2a9bf13700d9688&width=1472&height=828&focal=597%2C228",
@@ -1994,7 +2017,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 76
+   "score": 74
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -2048,13 +2071,13 @@
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2136,
-     "likes": 58,
+     "views": 2137,
+     "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2136,
+   "views_total": 2137,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -2415,7 +2438,7 @@
    "extra_at": "2026-11-21T14:28:17.944384+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T15:32:17.674547+00:00",
+     "fetched": "2026-11-21T16:36:17.878291+00:00",
      "url": "https://www.instagram.com/reel/Df72SRgBraB",
      "platform": "Instagram"
     },
@@ -2523,26 +2546,9 @@
    ],
    "n_items": 42,
    "n_sources": 28,
-   "videos": [
-    {
-     "vid": "2ECJUf9wWxA",
-     "title": "Clara Vegas Goetz, Miss Venezuela 🇻🇪 promete que su traje típico será icónico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 38379,
-     "likes": 142,
-     "published": "2026-11-20T19:52:09+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 38379,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/2ECJUf9wWxA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/2ECJUf9wWxA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=2ECJUf9wWxA",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "https://img.asmedia.epimg.net/resizer/v2/TZBXJZTIPVDVPO7URRCQOZYZK4.jpg?auth=0e65290b95630e1316ad5b1c98b31be3bbc67525654c0c38b2a9bf13700d9688&width=1472&height=828&focal=597%2C228",
      "page": "https://as.com/us/tikitakas/mario-lopez-y-rbonney-gabriel-conduciran-miss-universo-2026-quienes-son-los-presentadores-f202611-n/",
@@ -2776,6 +2782,12 @@
      "page": "https://www.telemundoatlanta.com/2026/11/20/miss-universo-2026-fechas-horarios-y-dnde-ver-el-desfile-de-trajes-tpicos-la-preliminar-y-la-gran-final-desde-puerto-rico/",
      "via": "Telemundo Atlanta",
      "credit": "Telemundo Atlanta"
+    },
+    {
+     "url": "https://gray-wktb-prod.gtv-cdn.com/resizer/v2/RQSAYMQOWFEAXOCR2EYH4NARQI.jpg?auth=8a99c308610cdd76c73475b797504f749953e95210741615f57b68d99f4f0506&width=800&height=450&smart=true",
+     "page": "https://www.telemundoatlanta.com/2026/11/20/miss-universo-2026-fechas-horarios-y-dnde-ver-el-desfile-de-trajes-tpicos-la-preliminar-y-la-gran-final-desde-puerto-rico/",
+     "via": "Telemundo Atlanta",
+     "credit": "Telemundo Atlanta"
     }
    ],
    "social_urls": [
@@ -2914,7 +2926,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 99
+   "score": 98
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-18",
@@ -2951,13 +2963,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23073,
+     "views": 23157,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23073,
+   "views_total": 23157,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3138,7 +3150,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 19392,
+     "views": 19426,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -3147,7 +3159,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 18495,
+     "views": 18548,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -3156,13 +3168,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8139,
+     "views": 8158,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 46026,
+   "views_total": 46132,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -3655,7 +3667,7 @@
    "extra_at": "2026-11-21T14:36:17.930126+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T15:32:17.674547+00:00",
+     "fetched": "2026-11-21T16:36:17.878291+00:00",
      "url": "https://www.instagram.com/reel/Df72SRgBraB",
      "platform": "Instagram"
     }
@@ -3977,7 +3989,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:32:17.674547+00:00",
+     "fetched": "2026-11-21T16:36:17.878291+00:00",
      "url": "https://www.instagram.com/reel/Df72SRgBraB",
      "platform": "Instagram"
     }
@@ -4022,6 +4034,14 @@
    "n_sources": 4,
    "videos": [
     {
+     "vid": "F0H8ejJayL8",
+     "title": "Miss Universe 2026 Turns Aguadilla Into a Runway! | Miss Universe 2026",
+     "channel": "Miss Universe",
+     "views": 173277,
+     "ago": "hace 8 días",
+     "official": false
+    },
+    {
      "vid": "WtMCIvvgKhM",
      "title": "🔴LIVE | MISS UNIVERSE 2026 - WELCOME PARADE",
      "channel": "Beauty Play",
@@ -4030,8 +4050,15 @@
      "official": false
     }
    ],
-   "views_total": 55313,
+   "views_total": 228590,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/F0H8ejJayL8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/F0H8ejJayL8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=F0H8ejJayL8",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
     {
      "url": "https://i.ytimg.com/vi/WtMCIvvgKhM/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/WtMCIvvgKhM/hqdefault.jpg",
@@ -4122,29 +4149,14 @@
      "page": "https://www.caracoltv.com/actualidad/candidata-a-miss-universo-2026-es-hija-de-exreina-que-tambien-participo-en-el-concurso-ed45",
      "via": "Caracol Televisión",
      "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://www.footballdatabase.eu/images/photos/players/2006-2007/a_0/196.jpg",
-     "page": "https://www.footballdatabase.eu/en/player/details/196-jacques-abardonado",
-     "via": "Bing Imágenes",
-     "credit": "footballdatabase.eu",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.nmUD9b8Oobz95fvTmw-IGgAAAA&pid=15.1"
     }
    ],
    "social_urls": [
     "https://www.instagram.com/reel/Deso3GQtmE9"
    ],
    "image_query": "Miss Universe 2026 Aguadilla welcome parade",
-   "extra_images": [
-    {
-     "url": "https://www.footballdatabase.eu/images/photos/players/2006-2007/a_0/196.jpg",
-     "page": "https://www.footballdatabase.eu/en/player/details/196-jacques-abardonado",
-     "via": "Bing Imágenes",
-     "credit": "footballdatabase.eu",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.nmUD9b8Oobz95fvTmw-IGgAAAA&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-21T13:32:17.691693+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-21T16:36:17.878291+00:00",
    "social": [
     {
      "fetched": "2026-11-21T15:40:18.125416+00:00",
@@ -4158,7 +4170,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 17
+   "score": 26
   },
   {
    "key": "t:mi:Gala / cena:2026-11-18",
@@ -4742,13 +4754,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 6279,
+     "views": 6293,
      "likes": 25,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 6279,
+   "views_total": 6293,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -4820,13 +4832,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23073,
+     "views": 23157,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23073,
+   "views_total": 23157,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5045,7 +5057,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 260448,
+     "views": 260495,
      "ago": "Transmitido hace 7 días",
      "official": false
     },
@@ -5053,13 +5065,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 12183,
+     "views": 12208,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 272631,
+   "views_total": 272703,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -5128,6 +5140,13 @@
      "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
      "via": "Yahoo",
      "credit": "Yahoo"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/preguntasfrecuentesdelpacienteanticoagulado-120223060909-phpapp02/95/preguntas-frecuentes-del-paciente-anticoagulado-15-728.jpg?cb=1329977749",
+     "page": "http://es.slideshare.net/monitormedical/preguntas-frecuentes-del-paciente-anticoagulado",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ouTngBHfJt_h8Q09zIePEQHaFj&pid=15.1"
     }
    ],
    "social_urls": [
@@ -5138,8 +5157,16 @@
     "https://www.instagram.com/reel/Df7fXrHsQtq"
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [],
-   "extra_at": "2026-11-21T16:28:17.744253+00:00",
+   "extra_images": [
+    {
+     "url": "https://image.slidesharecdn.com/preguntasfrecuentesdelpacienteanticoagulado-120223060909-phpapp02/95/preguntas-frecuentes-del-paciente-anticoagulado-15-728.jpg?cb=1329977749",
+     "page": "http://es.slideshare.net/monitormedical/preguntas-frecuentes-del-paciente-anticoagulado",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ouTngBHfJt_h8Q09zIePEQHaFj&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T16:36:17.878291+00:00",
    "social": [
     {
      "fetched": "2026-11-21T16:04:17.519994+00:00",
@@ -5450,12 +5477,209 @@
      "page": "https://www.football.london/chelsea-fc/news/nine-players-set-miss-chelsea-34934384",
      "via": "Bing (miniatura)",
      "credit": "Football.London"
+    },
+    {
+     "url": "https://vignette.wikia.nocookie.net/nintendo/images/e/ef/Tails_-_Sonic_Boom.png/revision/latest?cb=20190102171251&path-prefix=es",
+     "page": "https://nintendo.fandom.com/es/wiki/Categoría:Personajes_de_Sonic",
+     "via": "Bing Imágenes",
+     "credit": "nintendo.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.u84CWp0FwMM8W5bSYi87ggHaKI&pid=15.1"
+    },
+    {
+     "url": "https://sm.ign.com/t/ign_latam/lists/t/the-12-bes/the-12-best-sonic-characters-in-the-series-ranked_wutu.1280.jpg",
+     "page": "https://latam.ign.com/sonic-the-hedgehog-2007/96271/lists/sonic-the-hedgehog-los-12-mejores-personajes-de-la-saga-clasificados",
+     "via": "Bing Imágenes",
+     "credit": "latam.ign.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.spbANu55JLexx7YRPAAn3wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/nintendo/images/9/97/Sonic2.png/revision/latest?cb=20130928235414&path-prefix=es",
+     "page": "https://nintendo.fandom.com/es/wiki/Categoría:Personajes_de_Sonic",
+     "via": "Bing Imágenes",
+     "credit": "nintendo.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.mhDDIjSGetwe90lnj5hsCwHaOV&pid=15.1"
+    },
+    {
+     "url": "https://i.redd.it/tvwhe1rvuf1d1.jpeg",
+     "page": "https://esa.our-dogs.info/todos-los-personajes-sónicos-jamás-creados",
+     "via": "Bing Imágenes",
+     "credit": "esa.our-dogs.info",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.GNRIlYPMsVLYbbWMJRHkKQHaJ0&pid=15.1"
+    },
+    {
+     "url": "https://cdn.wallpapersafari.com/75/50/6XPQEb.jpg",
+     "page": "https://wallpapersafari.com/sonic-characters-wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "wallpapersafari.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.qqXYEhVPKUhoObaJK7cwdAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/sonic/images/7/7b/SonicMovie_SonicPoint.png/revision/latest?cb=20221202004551&path-prefix=es",
+     "page": "https://hotcore.info/babki/lista-de-personajes-de-sonic-the-hedgehog-con-imágenes.htm",
+     "via": "Bing Imágenes",
+     "credit": "hotcore.info",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.aZZAaYu-5VgwCVGuvIoQLgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/sonic/images/1/10/SRCSonic.png/revision/latest/scale-to-width-down/1200?cb=20250228190417&path-prefix=es",
+     "page": "https://sonic.fandom.com/es/wiki/Categoría:Personajes",
+     "via": "Bing Imágenes",
+     "credit": "sonic.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.jaVoZSpNux9JkdAOMrJQagHaKb&pid=15.1"
+    },
+    {
+     "url": "https://cdn.pixabay.com/photo/2022/11/10/10/01/sonic-7582388_1280.jpg",
+     "page": "https://pixabay.com/es/images/search/sonic personaje/",
+     "via": "Bing Imágenes",
+     "credit": "pixabay.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Guxz8ng6ez4Lqgox8my-6wHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.mithrie.com/blogs/everything-sonic-the-hedgehog-you-need-to-know/various-sonic-the-hedgehog-characters.jpg",
+     "page": "https://es.mithrie.com/Blogs/Todo-lo-que-necesitas-saber-sobre-Sonic-the-Hedgehog/",
+     "via": "Bing Imágenes",
+     "credit": "es.mithrie.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.A0dZelk5r4RvmyOh6lLeUQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/featured/personajes-de-sonic-dllonwv09q7kdt28.jpg",
+     "page": "https://es.wallpapers.com/personajes-de-sonic",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.n1D730FhfTesNZD1FAGdJQHaEO&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/featured/personajes-de-sonic-the-hedgehog-9g37m1esqqewcwnc.jpg",
+     "page": "https://es.wallpapers.com/personajes-de-sonic-the-hedgehog",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.g7z9YUYa-cx2w4FIFjCghQHaEz&pid=15.1"
+    },
+    {
+     "url": "https://asia.sega.com/SonicSuperStars/assets/images/common/chara/chara01-img.png",
+     "page": "https://asia.sega.com/SonicSuperStars/en/character/",
+     "via": "Bing Imágenes",
+     "credit": "asia.sega.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ayvCeZJ59okX0qZr9LLANQHaHy&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/yJULd-Kyy4k/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=yJULd-Kyy4k",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.doWy9G73LmQn2s0V0RctkgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://png.pngtree.com/background/20230519/original/pngtree-the-character-sonic-and-his-friends-in-one-picture-picture-image_2656657.jpg",
+     "page": "https://es.pngtree.com/freebackground/the-character-sonic-and-his-friends-in-one-picture_2656657.html",
+     "via": "Bing Imágenes",
+     "credit": "es.pngtree.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.xI7lTiXRHKCOeJdSfj2YzwHaEJ&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Fukushima Tour",
-   "extra_images": [],
-   "extra_at": "2026-11-21T16:28:17.744253+00:00",
+   "extra_images": [
+    {
+     "url": "https://vignette.wikia.nocookie.net/nintendo/images/e/ef/Tails_-_Sonic_Boom.png/revision/latest?cb=20190102171251&path-prefix=es",
+     "page": "https://nintendo.fandom.com/es/wiki/Categoría:Personajes_de_Sonic",
+     "via": "Bing Imágenes",
+     "credit": "nintendo.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.u84CWp0FwMM8W5bSYi87ggHaKI&pid=15.1"
+    },
+    {
+     "url": "https://sm.ign.com/t/ign_latam/lists/t/the-12-bes/the-12-best-sonic-characters-in-the-series-ranked_wutu.1280.jpg",
+     "page": "https://latam.ign.com/sonic-the-hedgehog-2007/96271/lists/sonic-the-hedgehog-los-12-mejores-personajes-de-la-saga-clasificados",
+     "via": "Bing Imágenes",
+     "credit": "latam.ign.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.spbANu55JLexx7YRPAAn3wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/nintendo/images/9/97/Sonic2.png/revision/latest?cb=20130928235414&path-prefix=es",
+     "page": "https://nintendo.fandom.com/es/wiki/Categoría:Personajes_de_Sonic",
+     "via": "Bing Imágenes",
+     "credit": "nintendo.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.mhDDIjSGetwe90lnj5hsCwHaOV&pid=15.1"
+    },
+    {
+     "url": "https://i.redd.it/tvwhe1rvuf1d1.jpeg",
+     "page": "https://esa.our-dogs.info/todos-los-personajes-sónicos-jamás-creados",
+     "via": "Bing Imágenes",
+     "credit": "esa.our-dogs.info",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.GNRIlYPMsVLYbbWMJRHkKQHaJ0&pid=15.1"
+    },
+    {
+     "url": "https://cdn.wallpapersafari.com/75/50/6XPQEb.jpg",
+     "page": "https://wallpapersafari.com/sonic-characters-wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "wallpapersafari.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.qqXYEhVPKUhoObaJK7cwdAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/sonic/images/7/7b/SonicMovie_SonicPoint.png/revision/latest?cb=20221202004551&path-prefix=es",
+     "page": "https://hotcore.info/babki/lista-de-personajes-de-sonic-the-hedgehog-con-imágenes.htm",
+     "via": "Bing Imágenes",
+     "credit": "hotcore.info",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.aZZAaYu-5VgwCVGuvIoQLgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/sonic/images/1/10/SRCSonic.png/revision/latest/scale-to-width-down/1200?cb=20250228190417&path-prefix=es",
+     "page": "https://sonic.fandom.com/es/wiki/Categoría:Personajes",
+     "via": "Bing Imágenes",
+     "credit": "sonic.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.jaVoZSpNux9JkdAOMrJQagHaKb&pid=15.1"
+    },
+    {
+     "url": "https://cdn.pixabay.com/photo/2022/11/10/10/01/sonic-7582388_1280.jpg",
+     "page": "https://pixabay.com/es/images/search/sonic personaje/",
+     "via": "Bing Imágenes",
+     "credit": "pixabay.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Guxz8ng6ez4Lqgox8my-6wHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.mithrie.com/blogs/everything-sonic-the-hedgehog-you-need-to-know/various-sonic-the-hedgehog-characters.jpg",
+     "page": "https://es.mithrie.com/Blogs/Todo-lo-que-necesitas-saber-sobre-Sonic-the-Hedgehog/",
+     "via": "Bing Imágenes",
+     "credit": "es.mithrie.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.A0dZelk5r4RvmyOh6lLeUQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/featured/personajes-de-sonic-dllonwv09q7kdt28.jpg",
+     "page": "https://es.wallpapers.com/personajes-de-sonic",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.n1D730FhfTesNZD1FAGdJQHaEO&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/featured/personajes-de-sonic-the-hedgehog-9g37m1esqqewcwnc.jpg",
+     "page": "https://es.wallpapers.com/personajes-de-sonic-the-hedgehog",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.g7z9YUYa-cx2w4FIFjCghQHaEz&pid=15.1"
+    },
+    {
+     "url": "https://asia.sega.com/SonicSuperStars/assets/images/common/chara/chara01-img.png",
+     "page": "https://asia.sega.com/SonicSuperStars/en/character/",
+     "via": "Bing Imágenes",
+     "credit": "asia.sega.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ayvCeZJ59okX0qZr9LLANQHaHy&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/yJULd-Kyy4k/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=yJULd-Kyy4k",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.doWy9G73LmQn2s0V0RctkgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://png.pngtree.com/background/20230519/original/pngtree-the-character-sonic-and-his-friends-in-one-picture-picture-image_2656657.jpg",
+     "page": "https://es.pngtree.com/freebackground/the-character-sonic-and-his-friends-in-one-picture_2656657.html",
+     "via": "Bing Imágenes",
+     "credit": "es.pngtree.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.xI7lTiXRHKCOeJdSfj2YzwHaEJ&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T16:36:17.878291+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5742,13 +5966,13 @@
      "vid": "KYdzhQzMHVE",
      "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
      "channel": "Miss Universe",
-     "views": 60287,
+     "views": 60378,
      "likes": 0,
      "published": "2026-11-16T21:14:50+00:00",
      "official": true
     }
    ],
-   "views_total": 60287,
+   "views_total": 60378,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
@@ -5955,7 +6179,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6186,7 +6410,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6417,7 +6641,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6430,7 +6654,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-21T16:28:17.744253+00:00",
+   "extra_at": "2026-11-21T16:36:17.878291+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6450,7 +6674,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6463,7 +6687,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-21T16:28:17.744253+00:00",
+   "extra_at": "2026-11-21T16:36:17.878291+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6483,7 +6707,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:28:17.744253+00:00",
+   "first_seen": "2026-11-21T16:36:17.878291+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
