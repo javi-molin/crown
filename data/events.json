@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:00:25.401450+00:00",
+ "updated": "2026-11-21T21:08:25.347209+00:00",
  "count": 36,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,10 +209,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "af522880b8fd0e",
     "69d8a099c7f9cf",
     "edf5e2cbc5be16",
     "f5ae895d227d07",
@@ -226,6 +227,7 @@
     "2d980966934e74",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
+    "550256ada73897",
     "5119985727eb81",
     "a0b6045a420920",
     "01902f325484fa",
@@ -254,6 +256,7 @@
     "El Vocero de Puerto Rico",
     "Extra",
     "Gestión",
+    "MARCA",
     "MILENIO",
     "Meridiano.net",
     "Milenio on MSN",
@@ -264,8 +267,8 @@
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 30,
-   "n_sources": 18,
+   "n_items": 32,
+   "n_sources": 19,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -281,7 +284,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 69
+   "score": 73
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -297,8 +300,9 @@
    "refs": [],
    "first_seen": "2026-11-21T15:16:17.266017+00:00",
    "start": "2026-11-21T00:59:00+00:00",
-   "last_activity": "2026-11-21T20:49:00+00:00",
+   "last_activity": "2026-11-21T20:50:45+00:00",
    "item_ids": [
+    "af522880b8fd0e",
     "69d8a099c7f9cf",
     "edf5e2cbc5be16",
     "f5ae895d227d07",
@@ -319,6 +323,7 @@
     "58ef6eca9c3748",
     "f84750cc2f8e60",
     "985b391b632399",
+    "550256ada73897",
     "5119985727eb81",
     "a0b6045a420920",
     "008c00cf69b192",
@@ -364,6 +369,7 @@
     "En Cancha",
     "Extra",
     "Gestión",
+    "MARCA",
     "MILENIO",
     "Meridiano.net",
     "Milenio on MSN",
@@ -376,8 +382,8 @@
     "Teletrece",
     "The Manila Times"
    ],
-   "n_items": 47,
-   "n_sources": 27,
+   "n_items": 49,
+   "n_sources": 28,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -781,7 +787,7 @@
    "extra_at": "2026-11-21T18:20:25.761826+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/p/DeicqxvONge",
      "platform": "Instagram"
     },
@@ -796,7 +802,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -843,7 +849,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 101
+   "score": 105
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -1241,7 +1247,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 867119,
+     "views": 867573,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -1250,7 +1256,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24809,
+     "views": 24856,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -1259,13 +1265,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 22600,
+     "views": 23756,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 914528,
+   "views_total": 916185,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -1634,12 +1640,209 @@
      "page": "https://www.youtube.com/watch?v=5yWpSmMMPfs",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3407852860539156100",
+     "page": "https://www.instagram.com/p/C9LIB7_PDaE/",
+     "via": "Bing Imágenes",
+     "credit": "instagram.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.73wlRNGESCTNYkid6Q3MjQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/G1szWL4WsAAVJFl.jpg",
+     "page": "https://x.com/EnsedeCiencia/status/1971225829171409360",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.GiyW9TKajPdUzRRK146-QAHaIZ&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/2165346047/es/foto/concepto-visual-de-cáncer-de-hueso-en-el-cráneo-ilustración-3d.jpg?s=1024x1024&w=is&k=20&c=cMpnxRl9t2FthKT00u--BbPxOjymAnv_MQGoiDBkobQ=",
+     "page": "https://www.istockphoto.com/es/foto/concepto-visual-de-cáncer-de-hueso-en-el-cráneo-ilustración-3d-gm2165346047-585551031",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.JEFDgoOaMDiVtmIL40HkpgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/646306087/original/a145481847/1?v=1",
+     "page": "https://es.scribd.com/document/646306087/Canceres-Oseos",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.0XxeTmCOMOKROw6Qa6DFMwHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://www.chopo.com.mx/media/wysiwyg/Blog_Chopo/cancer_de_huesos_blog_version_escritorio.png",
+     "page": "https://xuko.cadpraxis.de/cual-es-el-cancer-mas-curable-tasas-de-supervivencia-y-estadisticas-del-cancer-de-estomago/",
+     "via": "Bing Imágenes",
+     "credit": "xuko.cadpraxis.de",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.M0JHa2TkTDU37a6OYk7UqgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/zrxkZMUD8W0/maxresdefault.jpg",
+     "page": "https://tuning-peinelt.de/cancer-de-huesos-tipos-causas-sintomas-y-tratamiento/",
+     "via": "Bing Imágenes",
+     "credit": "tuning-peinelt.de",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.2D62aOiimT1XrsqSK7oBrAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1187700670031215",
+     "page": "https://www.facebook.com/neurocirujanopotosino/posts/-los-tumores-óseos-craneales-son-crecimientos-anormales-de-células-en-los-huesos/1187700716697877/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mRZdoxF-d6EfVdOYVriyWQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/saak-Mq3UgQ/maxresdefault.jpg",
+     "page": "https://utpaqp.edu.pe/search/caldo-de-huesos-con-que-huesos-se-hace/",
+     "via": "Bing Imágenes",
+     "credit": "utpaqp.edu.pe",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iPP-2CMdGZKTfU4NukfbZwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://ichef.bbci.co.uk/news/raw/cpsprodpb/838e/live/a8f778e0-1ded-11ef-ae13-8bdf7bd6e3b7.jpg",
+     "page": "https://eldeber.com.bo/bbc/el-craneo-de-4000-anos-de-antiguedad-que-revela-como-los-egipcios-trataron-de-operar-el-cancer_369641/",
+     "via": "Bing Imágenes",
+     "credit": "eldeber.com.bo",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.oFXR_F4BvwySaBBW4QdYJQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/HZLRzX2cGxo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYACgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA4rqehEt03YeJcsDSrbhpldXRPKg",
+     "page": "https://www.youtube.com/shorts/HZLRzX2cGxo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G1f-x40hnRHnxBilXYZr2gHaFj&pid=15.1"
+    },
+    {
+     "url": "https://s3.abcstatics.com/abc/sevilla/multimedia/salud/2023/03/06/osteop-cancer_20230306145542-U37171711554MEX-1024x512@abc.jpeg",
+     "page": "https://sevilla.abc.es/salud/sintomas-alertan-cancer-hueso-20230306150809-nts.html",
+     "via": "Bing Imágenes",
+     "credit": "sevilla.abc.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.fQhg9OI8vSZYawgggzqrLwHaDt&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/vector-premium/anatomia-infografia-hueso-maxilar-craneo-vector_980832-1410.jpg?w=2000",
+     "page": "https://www.freepik.es/vector-premium/anatomia-infografia-hueso-maxilar-craneo-vector_82552388.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.hpmkTt_KKXRSl7yRCtRKzAHaFL&pid=15.1"
+    },
+    {
+     "url": "https://cdn1.imaios.com/i/images/6/1/9/3/473916-4-esl-ES/cranium-illu-facial-aspect.jpg?q=75&w=1037&s=b77d5ee96af9cf84b5c31f994f6eb734",
+     "page": "https://www.imaios.com/es/e-anatomy/cabeza-y-cuello/craneo?mic=cranium-illustrations&afi=102&is=848&il=br&l=pt_PT&isf=true&ul=true",
+     "via": "Bing Imágenes",
+     "credit": "imaios.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rpVbd8LxArrHTH7PwRir1QHaD0&pid=15.1"
+    },
+    {
+     "url": "https://www.quironsalud.com/blogs/es/blogs-quironsalud/consejos-dr-elgeadi-traumatologia/cancer-huesos.ficheros/3423019-Cáncer huesos.jpg?width=1350&height=900&aspectRatio=true",
+     "page": "https://www.quironsalud.com/blogs/es/blogs-quironsalud/consejos-dr-elgeadi-traumatologia/cancer-huesos",
+     "via": "Bing Imágenes",
+     "credit": "quironsalud.com",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.FegRwWpiwoSskJNxAU8GegHaE8&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
-   "extra_images": [],
-   "extra_at": "2026-11-21T21:00:25.401450+00:00",
+   "extra_images": [
+    {
+     "url": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3407852860539156100",
+     "page": "https://www.instagram.com/p/C9LIB7_PDaE/",
+     "via": "Bing Imágenes",
+     "credit": "instagram.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.73wlRNGESCTNYkid6Q3MjQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://pbs.twimg.com/media/G1szWL4WsAAVJFl.jpg",
+     "page": "https://x.com/EnsedeCiencia/status/1971225829171409360",
+     "via": "Bing Imágenes",
+     "credit": "x.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.GiyW9TKajPdUzRRK146-QAHaIZ&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/2165346047/es/foto/concepto-visual-de-cáncer-de-hueso-en-el-cráneo-ilustración-3d.jpg?s=1024x1024&w=is&k=20&c=cMpnxRl9t2FthKT00u--BbPxOjymAnv_MQGoiDBkobQ=",
+     "page": "https://www.istockphoto.com/es/foto/concepto-visual-de-cáncer-de-hueso-en-el-cráneo-ilustración-3d-gm2165346047-585551031",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.JEFDgoOaMDiVtmIL40HkpgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/646306087/original/a145481847/1?v=1",
+     "page": "https://es.scribd.com/document/646306087/Canceres-Oseos",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.0XxeTmCOMOKROw6Qa6DFMwHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://www.chopo.com.mx/media/wysiwyg/Blog_Chopo/cancer_de_huesos_blog_version_escritorio.png",
+     "page": "https://xuko.cadpraxis.de/cual-es-el-cancer-mas-curable-tasas-de-supervivencia-y-estadisticas-del-cancer-de-estomago/",
+     "via": "Bing Imágenes",
+     "credit": "xuko.cadpraxis.de",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.M0JHa2TkTDU37a6OYk7UqgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/zrxkZMUD8W0/maxresdefault.jpg",
+     "page": "https://tuning-peinelt.de/cancer-de-huesos-tipos-causas-sintomas-y-tratamiento/",
+     "via": "Bing Imágenes",
+     "credit": "tuning-peinelt.de",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.2D62aOiimT1XrsqSK7oBrAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1187700670031215",
+     "page": "https://www.facebook.com/neurocirujanopotosino/posts/-los-tumores-óseos-craneales-son-crecimientos-anormales-de-células-en-los-huesos/1187700716697877/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mRZdoxF-d6EfVdOYVriyWQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/saak-Mq3UgQ/maxresdefault.jpg",
+     "page": "https://utpaqp.edu.pe/search/caldo-de-huesos-con-que-huesos-se-hace/",
+     "via": "Bing Imágenes",
+     "credit": "utpaqp.edu.pe",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iPP-2CMdGZKTfU4NukfbZwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://ichef.bbci.co.uk/news/raw/cpsprodpb/838e/live/a8f778e0-1ded-11ef-ae13-8bdf7bd6e3b7.jpg",
+     "page": "https://eldeber.com.bo/bbc/el-craneo-de-4000-anos-de-antiguedad-que-revela-como-los-egipcios-trataron-de-operar-el-cancer_369641/",
+     "via": "Bing Imágenes",
+     "credit": "eldeber.com.bo",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.oFXR_F4BvwySaBBW4QdYJQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/HZLRzX2cGxo/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AYACgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLA4rqehEt03YeJcsDSrbhpldXRPKg",
+     "page": "https://www.youtube.com/shorts/HZLRzX2cGxo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G1f-x40hnRHnxBilXYZr2gHaFj&pid=15.1"
+    },
+    {
+     "url": "https://s3.abcstatics.com/abc/sevilla/multimedia/salud/2023/03/06/osteop-cancer_20230306145542-U37171711554MEX-1024x512@abc.jpeg",
+     "page": "https://sevilla.abc.es/salud/sintomas-alertan-cancer-hueso-20230306150809-nts.html",
+     "via": "Bing Imágenes",
+     "credit": "sevilla.abc.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.fQhg9OI8vSZYawgggzqrLwHaDt&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/vector-premium/anatomia-infografia-hueso-maxilar-craneo-vector_980832-1410.jpg?w=2000",
+     "page": "https://www.freepik.es/vector-premium/anatomia-infografia-hueso-maxilar-craneo-vector_82552388.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.hpmkTt_KKXRSl7yRCtRKzAHaFL&pid=15.1"
+    },
+    {
+     "url": "https://cdn1.imaios.com/i/images/6/1/9/3/473916-4-esl-ES/cranium-illu-facial-aspect.jpg?q=75&w=1037&s=b77d5ee96af9cf84b5c31f994f6eb734",
+     "page": "https://www.imaios.com/es/e-anatomy/cabeza-y-cuello/craneo?mic=cranium-illustrations&afi=102&is=848&il=br&l=pt_PT&isf=true&ul=true",
+     "via": "Bing Imágenes",
+     "credit": "imaios.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rpVbd8LxArrHTH7PwRir1QHaD0&pid=15.1"
+    },
+    {
+     "url": "https://www.quironsalud.com/blogs/es/blogs-quironsalud/consejos-dr-elgeadi-traumatologia/cancer-huesos.ficheros/3423019-Cáncer huesos.jpg?width=1350&height=900&aspectRatio=true",
+     "page": "https://www.quironsalud.com/blogs/es/blogs-quironsalud/consejos-dr-elgeadi-traumatologia/cancer-huesos",
+     "via": "Bing Imágenes",
+     "credit": "quironsalud.com",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.FegRwWpiwoSskJNxAU8GegHaE8&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T21:08:25.347209+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1701,7 +1904,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 20494,
+     "views": 20513,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1710,7 +1913,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 19201,
+     "views": 19225,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1719,13 +1922,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8475,
+     "views": 8476,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 48170,
+   "views_total": 48214,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1984,7 +2187,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -2229,7 +2432,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.youtube.com/watch?v=8ckrb3dgi4I",
      "platform": "YouTube",
      "views": 170,
@@ -2602,7 +2805,7 @@
    "extra_at": "2026-11-21T18:28:26.118399+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/p/DeLTxBmjnvu",
      "platform": "Instagram"
     },
@@ -2617,12 +2820,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/reel/Df5zeVPJ8Yf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/reel/Df71ZHPQVDW",
      "platform": "Instagram"
     },
@@ -2632,7 +2835,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T20:04:25.651992+00:00",
+     "fetched": "2026-11-21T21:08:25.347209+00:00",
      "url": "https://www.instagram.com/reel/Df8sMUhBqMs",
      "platform": "Instagram"
     }
@@ -3921,13 +4124,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24809,
+     "views": 24856,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 24809,
+   "views_total": 24856,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5522,6 +5725,104 @@
      "credit": "Yorkshire Post"
     },
     {
+     "url": "https://cdn.unifiedcommerce.com/content/product/media/large/33286-MURDER-NOIR-x1.webp",
+     "page": "https://www.puzzlewarehouse.com/university-games-mmp-case-files-murder-noir/",
+     "via": "Bing Imágenes",
+     "credit": "puzzlewarehouse.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mAHec7eLziRQ3nzEsTMJqgHaHT&pid=15.1"
+    },
+    {
+     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f80bfe-2e1b-4e03-8af6-3f61e9de2dd8/dg9kmub-f0272e12-9d7d-4d09-9fc7-017eb192702c.png/v1/fill/w_1280,h_1257,q_80,strp/murder_drones_base_by_wolfhunterallysa_dg9kmub-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1NyIsInBhdGgiOiJcL2ZcLzAxZjgwYmZlLTJlMWItNGUwMy04YWY2LTNmNjFlOWRlMmRkOFwvZGc5a211Yi1mMDI3MmUxMi05ZDdkLTRkMDktOWZjNy0wMTdlYjE5MjcwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rqib3dhHkqa4Va143osPHoYA5NFq3461qgiNrgcX0oM",
+     "page": "https://www.deviantart.com/wolfhunterallysa/art/Murder-Drones-Base-983538083",
+     "via": "Bing Imágenes",
+     "credit": "deviantart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Dq5jCIOxA-SeJpnEm4vagAHaHR&pid=15.1"
+    },
+    {
+     "url": "https://cebudailynews.inquirer.net/files/2023/12/toledo-double-murder-1024x1264.png",
+     "page": "https://cebudailynews.inquirer.net/545103/toledo-double-murder-suspect-nabbed",
+     "via": "Bing Imágenes",
+     "credit": "cebudailynews.inquirer.net",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.xg6Ygdk-YfbFTjSm9UqXUgHaJJ&pid=15.1"
+    },
+    {
+     "url": "https://i.imgflip.com/6pv9nx.png",
+     "page": "https://imgflip.com/meme/406246317/murder-drones-v-do-not-fist-android-girls",
+     "via": "Bing Imágenes",
+     "credit": "imgflip.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.BFIftDVdxJ9XHnJO815m4wHaGO&pid=15.1"
+    },
+    {
+     "url": "https://img1.reactor.cc/pics/post/full/Murder-Drones-Glitch-Productions-Мультфильмы-Cyn-(Murder-Drones)-8565227.png",
+     "page": "https://reactor.cc/post/5899661",
+     "via": "Bing Imágenes",
+     "credit": "reactor.cc",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.AdLBhiWRKI67BDoOecKE3wHaVl&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/premium-photo/crime-scene-investigation-ultra-realistic-photoshoot_950002-76172.jpg?w=2000",
+     "page": "https://www.freepik.com/premium-ai-image/crime-scene-investigation-ultra-realistic-photoshoot_56769596.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5pLxdLCXnk7WmY7yrWuB0AHaEO&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/30/80/b5/3080b55992b4e95aa22d25928488fc14.jpg",
+     "page": "https://br.pinterest.com/seriaal_designation_v/murder-drones-papercrafts/",
+     "via": "Bing Imágenes",
+     "credit": "br.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.QdW3rbHy_4gYEsYa6ymF1QHaFD&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/6f/84/f1/6f84f127910a0d49bc861dbbb49bd5ad.jpg",
+     "page": "https://www.pinterest.com/pin/grymmlee-on-twitter--800585271276164682/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.bO75YBPUXyeMreP81TZ29gHaKn&pid=15.1"
+    },
+    {
+     "url": "https://images5.alphacoders.com/137/thumbbig-1379813.webp",
+     "page": "https://wall.alphacoders.com/big.php?i=1375151",
+     "via": "Bing Imágenes",
+     "credit": "wall.alphacoders.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RnXDQUMAaFoThpa5bDDcmgHaEo&pid=15.1"
+    },
+    {
+     "url": "https://www.cartonionline.com/disegni-da-colorare/murder_drones/murder_drones.jpg",
+     "page": "https://www.cartonionline.com/en/coloring_page/murder_drones/index.htm",
+     "via": "Bing Imágenes",
+     "credit": "cartonionline.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2nBmO37n8mNh7rzsTRgrIwHaFu&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/ce/35/f1/ce35f12bd6532a40c8e06377246f9ebb.jpg",
+     "page": "https://www.pinterest.es/pin/469500329915543324/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MJRIrErld-jbnHWTZYH4gAHaFN&pid=15.1"
+    },
+    {
+     "url": "https://media.sketchfab.com/models/6f04e6e5c00d47ffbe87455c2969f76a/thumbnails/da16a9ace42e4ff98e716c1e2d4a7fdf/0aa1199a1ce24ba88910114674dfedfa.jpeg",
+     "page": "https://sketchfab.com/models/6f04e6e5c00d47ffbe87455c2969f76a/embed",
+     "via": "Bing Imágenes",
+     "credit": "sketchfab.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.TFA4img0UKd5smRfS0vSbwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.cartonionline.com/disegni-da-colorare/murder_drones/Serial_Designation_N.jpg",
+     "page": "https://www.cartonionline.com/zeichentrick/Ausmalbilder/murder_drones/index.htm",
+     "via": "Bing Imágenes",
+     "credit": "cartonionline.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.fS43yg5aWiLwtzh5iEF2kwHaJl&pid=15.1"
+    },
+    {
+     "url": "https://static.zerochan.net/DRAMAtical.Murder.full.4088207.jpg",
+     "page": "https://www.zerochan.net/4088207",
+     "via": "Bing Imágenes",
+     "credit": "zerochan.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.jONIIJo0K_4XSIddehAbuwHaEK&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/France_-_Bullitt%2C_William_C.%2C_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf/page1-1280px-France_-_Bullitt%2C_William_C.%2C_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:France_-_Bullitt,_William_C.,_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf",
      "via": "Wikimedia Commons",
@@ -5550,11 +5851,11 @@
      "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf/page1-1920px-Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Roosevelt,_G._Hall,_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf/page1-960px-Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Speeches_-_Governor_Ronald_Reagan,_1969_(09-15-1969-12-31-1969)_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
+     "credit": "Reagan, Ronald, 1911-2004"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf/page1-1280px-Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5568,6 +5869,104 @@
    "image_query": "Miss Earth 2026 tour",
    "extra_images": [
     {
+     "url": "https://cdn.unifiedcommerce.com/content/product/media/large/33286-MURDER-NOIR-x1.webp",
+     "page": "https://www.puzzlewarehouse.com/university-games-mmp-case-files-murder-noir/",
+     "via": "Bing Imágenes",
+     "credit": "puzzlewarehouse.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mAHec7eLziRQ3nzEsTMJqgHaHT&pid=15.1"
+    },
+    {
+     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/01f80bfe-2e1b-4e03-8af6-3f61e9de2dd8/dg9kmub-f0272e12-9d7d-4d09-9fc7-017eb192702c.png/v1/fill/w_1280,h_1257,q_80,strp/murder_drones_base_by_wolfhunterallysa_dg9kmub-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI1NyIsInBhdGgiOiJcL2ZcLzAxZjgwYmZlLTJlMWItNGUwMy04YWY2LTNmNjFlOWRlMmRkOFwvZGc5a211Yi1mMDI3MmUxMi05ZDdkLTRkMDktOWZjNy0wMTdlYjE5MjcwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.rqib3dhHkqa4Va143osPHoYA5NFq3461qgiNrgcX0oM",
+     "page": "https://www.deviantart.com/wolfhunterallysa/art/Murder-Drones-Base-983538083",
+     "via": "Bing Imágenes",
+     "credit": "deviantart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Dq5jCIOxA-SeJpnEm4vagAHaHR&pid=15.1"
+    },
+    {
+     "url": "https://cebudailynews.inquirer.net/files/2023/12/toledo-double-murder-1024x1264.png",
+     "page": "https://cebudailynews.inquirer.net/545103/toledo-double-murder-suspect-nabbed",
+     "via": "Bing Imágenes",
+     "credit": "cebudailynews.inquirer.net",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.xg6Ygdk-YfbFTjSm9UqXUgHaJJ&pid=15.1"
+    },
+    {
+     "url": "https://i.imgflip.com/6pv9nx.png",
+     "page": "https://imgflip.com/meme/406246317/murder-drones-v-do-not-fist-android-girls",
+     "via": "Bing Imágenes",
+     "credit": "imgflip.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.BFIftDVdxJ9XHnJO815m4wHaGO&pid=15.1"
+    },
+    {
+     "url": "https://img1.reactor.cc/pics/post/full/Murder-Drones-Glitch-Productions-Мультфильмы-Cyn-(Murder-Drones)-8565227.png",
+     "page": "https://reactor.cc/post/5899661",
+     "via": "Bing Imágenes",
+     "credit": "reactor.cc",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.AdLBhiWRKI67BDoOecKE3wHaVl&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/premium-photo/crime-scene-investigation-ultra-realistic-photoshoot_950002-76172.jpg?w=2000",
+     "page": "https://www.freepik.com/premium-ai-image/crime-scene-investigation-ultra-realistic-photoshoot_56769596.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5pLxdLCXnk7WmY7yrWuB0AHaEO&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/30/80/b5/3080b55992b4e95aa22d25928488fc14.jpg",
+     "page": "https://br.pinterest.com/seriaal_designation_v/murder-drones-papercrafts/",
+     "via": "Bing Imágenes",
+     "credit": "br.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.QdW3rbHy_4gYEsYa6ymF1QHaFD&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/6f/84/f1/6f84f127910a0d49bc861dbbb49bd5ad.jpg",
+     "page": "https://www.pinterest.com/pin/grymmlee-on-twitter--800585271276164682/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.bO75YBPUXyeMreP81TZ29gHaKn&pid=15.1"
+    },
+    {
+     "url": "https://images5.alphacoders.com/137/thumbbig-1379813.webp",
+     "page": "https://wall.alphacoders.com/big.php?i=1375151",
+     "via": "Bing Imágenes",
+     "credit": "wall.alphacoders.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RnXDQUMAaFoThpa5bDDcmgHaEo&pid=15.1"
+    },
+    {
+     "url": "https://www.cartonionline.com/disegni-da-colorare/murder_drones/murder_drones.jpg",
+     "page": "https://www.cartonionline.com/en/coloring_page/murder_drones/index.htm",
+     "via": "Bing Imágenes",
+     "credit": "cartonionline.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2nBmO37n8mNh7rzsTRgrIwHaFu&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/ce/35/f1/ce35f12bd6532a40c8e06377246f9ebb.jpg",
+     "page": "https://www.pinterest.es/pin/469500329915543324/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MJRIrErld-jbnHWTZYH4gAHaFN&pid=15.1"
+    },
+    {
+     "url": "https://media.sketchfab.com/models/6f04e6e5c00d47ffbe87455c2969f76a/thumbnails/da16a9ace42e4ff98e716c1e2d4a7fdf/0aa1199a1ce24ba88910114674dfedfa.jpeg",
+     "page": "https://sketchfab.com/models/6f04e6e5c00d47ffbe87455c2969f76a/embed",
+     "via": "Bing Imágenes",
+     "credit": "sketchfab.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.TFA4img0UKd5smRfS0vSbwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.cartonionline.com/disegni-da-colorare/murder_drones/Serial_Designation_N.jpg",
+     "page": "https://www.cartonionline.com/zeichentrick/Ausmalbilder/murder_drones/index.htm",
+     "via": "Bing Imágenes",
+     "credit": "cartonionline.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.fS43yg5aWiLwtzh5iEF2kwHaJl&pid=15.1"
+    },
+    {
+     "url": "https://static.zerochan.net/DRAMAtical.Murder.full.4088207.jpg",
+     "page": "https://www.zerochan.net/4088207",
+     "via": "Bing Imágenes",
+     "credit": "zerochan.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.jONIIJo0K_4XSIddehAbuwHaEK&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/France_-_Bullitt%2C_William_C.%2C_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf/page1-1280px-France_-_Bullitt%2C_William_C.%2C_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:France_-_Bullitt,_William_C.,_1938_-_DPLA_-_b8bb9c7a0fee2f3be25e320d67fb1b3b.pdf",
      "via": "Wikimedia Commons",
@@ -5596,11 +5995,11 @@
      "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf/page1-1920px-Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Roosevelt,_G._Hall,_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf/page1-960px-Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Speeches_-_Governor_Ronald_Reagan,_1969_(09-15-1969-12-31-1969)_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
+     "credit": "Reagan, Ronald, 1911-2004"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf/page1-1280px-Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5610,7 +6009,7 @@
      "credit": "Asaf (WMF)"
     }
    ],
-   "extra_at": "2026-11-21T18:04:17.276782+00:00",
+   "extra_at": "2026-11-21T21:08:25.347209+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5919,13 +6318,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24809,
+     "views": 24856,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 24809,
+   "views_total": 24856,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -6137,14 +6536,6 @@
    "n_sources": 7,
    "videos": [
     {
-     "vid": "mYsdbLHCgGM",
-     "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
-     "channel": "Hey Adam G",
-     "views": 261495,
-     "ago": "Transmitido hace 7 días",
-     "official": false
-    },
-    {
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
@@ -6154,7 +6545,7 @@
      "official": true
     }
    ],
-   "views_total": 273869,
+   "views_total": 12374,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -6162,13 +6553,6 @@
      "page": "https://www.youtube.com/watch?v=RRFpY4TaoWk",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/mYsdbLHCgGM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/mYsdbLHCgGM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=mYsdbLHCgGM",
-     "via": "YouTube (miniatura)",
-     "credit": "Hey Adam G"
     },
     {
      "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=1005&height=670&quality=75&smart=true",
@@ -6421,7 +6805,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 24
   },
   {
    "key": "p:yokosuka day trip",
@@ -6935,7 +7319,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -7026,7 +7410,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -7201,7 +7585,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -7250,7 +7634,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -7299,7 +7683,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T21:00:25.401450+00:00",
+   "first_seen": "2026-11-21T21:08:25.347209+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
