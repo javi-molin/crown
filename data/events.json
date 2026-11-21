@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:56:18.039839+00:00",
+ "updated": "2026-11-21T18:04:17.276782+00:00",
  "count": 37,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,14 +209,16 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "c1694292f4ec07",
     "9f2ce9cca7159d",
     "2d980966934e74",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
+    "fc9255180e5243",
     "74cfc26fb53559",
     "d975135b73b31c",
     "7f1b0451e1335d",
@@ -236,14 +238,15 @@
     "El Universo",
     "El Vocero de Puerto Rico",
     "Extra",
+    "N Digital",
     "Reporte Indigo",
     "Reporte Índigo",
     "TNT Sports",
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 14,
-   "n_sources": 12,
+   "n_items": 16,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -259,7 +262,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 41
+   "score": 45
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -274,14 +277,17 @@
    "refs": [],
    "first_seen": "2026-11-21T15:16:17.266017+00:00",
    "start": "2026-11-21T00:59:00+00:00",
-   "last_activity": "2026-11-21T17:29:37+00:00",
+   "last_activity": "2026-11-21T18:03:43+00:00",
    "item_ids": [
+    "c1694292f4ec07",
+    "f3bfb64da19eab",
     "9f2ce9cca7159d",
     "2d980966934e74",
     "17d792a335253f",
     "cf7dd422fbdff2",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
+    "fc9255180e5243",
     "f23eea755c7940",
     "74cfc26fb53559",
     "d975135b73b31c",
@@ -303,6 +309,7 @@
     "24 horas on MSN",
     "24horas",
     "AS México",
+    "Diario AS",
     "Diario Primicia",
     "El Comercio",
     "El Comercio Perú",
@@ -311,22 +318,23 @@
     "El Universo",
     "El Vocero de Puerto Rico",
     "Extra",
+    "N Digital",
     "Reporte Indigo",
     "Reporte Índigo",
     "TNT Sports",
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 21,
-   "n_sources": 17,
+   "n_items": 24,
+   "n_sources": 19,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.iQ7KqNxHV-Mb0bYQNQK-GA&pid=News",
-     "page": "https://primicia.com.ve/placeres/estos-son-los-eventos-del-miss-universo/",
+     "url": "http://www.bing.com/th?id=ONUT.zwJp8Pb1CIMIKhJdvXrldg&pid=News",
+     "page": "https://n.com.do/2026/11/21/melissa-nunez-competencia-trajes-tipicos-miss-universo-2026/",
      "via": "Bing (miniatura)",
-     "credit": "Diario Primicia"
+     "credit": "N Digital"
     },
     {
      "url": "https://www.eluniverso.com/resizer/v2/NP3PNIOKCBDOHAU4ZHEBSAL5M4.jpg?auth=e6987ee0cde03512e9c898b93d1ce463dbcf4f4a536ec707a3c5689b9d9f1518&width=893&height=670&quality=75&smart=true",
@@ -626,7 +634,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 55
+   "score": 62
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -953,7 +961,6 @@
     "9746670e886f83",
     "95eb2987d55ef3",
     "2540479892f808",
-    "fa46d82dea60e1",
     "62daec4b9e8652",
     "1508ca8f5968b8",
     "cb6c1e3b74641c"
@@ -970,27 +977,26 @@
     "News.com.au",
     "People.com",
     "Sloboden Pechat",
-    "Yahoo",
     "YouTube · Miss Universe",
     "news.com.au"
    ],
-   "n_items": 16,
-   "n_sources": 14,
+   "n_items": 15,
+   "n_sources": 13,
    "videos": [
     {
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 859735,
+     "views": 860473,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
-     "vid": "IkSy-bS-uIY",
-     "title": "Miss Universe 2026 runway to the universe full show ",
-     "channel": "Ron Nasis",
-     "views": 111343,
+     "vid": "DiAKzUWOe5U",
+     "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
+     "channel": "Miss Universe Predictions",
+     "views": 57635,
      "ago": "hace 3 días",
      "official": false
     },
@@ -998,7 +1004,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23799,
+     "views": 23940,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -1007,13 +1013,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 4183,
+     "views": 5697,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 999060,
+   "views_total": 947745,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -1037,35 +1043,17 @@
      "credit": "Miss Universe"
     },
     {
-     "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/IkSy-bS-uIY/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=IkSy-bS-uIY",
+     "url": "https://i.ytimg.com/vi/DiAKzUWOe5U/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/DiAKzUWOe5U/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=DiAKzUWOe5U",
      "via": "YouTube (miniatura)",
-     "credit": "Ron Nasis"
+     "credit": "Miss Universe Predictions"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
      "page": "https://entertainment.inquirer.net/690961/watch-bea-millan-windorski-owns-the-runway-to-the-universe-stage",
      "via": "Bing (miniatura)",
      "credit": "Inquirer.net - Philippines Entertainment News"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/4c71f5c736321e1bb6a2302d23e5c1e9e0364981da27b464f29e7ab6f26758e1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/131054efbf8bddd7a780f1d1cbacabd9f8caf282a4bfdfbc2c19d4aa01035a06/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F4ea56296e4f024466bc853215e2f206e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/69325b8d900b153504aac257530117191c85b440aff12305f4b81a0d01e49407/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F82619523ec53a00f734ef9b61767e05f.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-contestants-trip-runway-203845053.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
     },
     {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -1089,9 +1077,7 @@
      "credit": "The Indian Listener: The Indian State Broadcasting Service"
     }
    ],
-   "social_urls": [
-    "https://www.youtube.com/watch?v=qrR9b5-ymD0"
-   ],
+   "social_urls": [],
    "image_query": "Runway to the Universe Miss Universe 2026",
    "extra_images": [
     {
@@ -1117,22 +1103,14 @@
     }
    ],
    "extra_at": "2026-11-21T15:16:17.266017+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.youtube.com/watch?v=qrR9b5-ymD0",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/qrR9b5-ymD0/hqdefault.jpg",
-     "error": "HTTP Error 429: Too Many Requests"
-    }
-   ],
+   "social": [],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 96
+   "score": 91
   },
   {
    "key": "p:unlock coronation night",
@@ -1168,13 +1146,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 514,
+     "views": 522,
      "likes": 5,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1198,
+   "views_total": 1206,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -1286,7 +1264,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 19849,
+     "views": 19959,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1295,7 +1273,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 18764,
+     "views": 18825,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1304,13 +1282,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8286,
+     "views": 8316,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 46899,
+   "views_total": 47100,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1870,7 +1848,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-21T17:56:18.039839+00:00",
+   "extra_at": "2026-11-21T18:04:17.276782+00:00",
    "social": [
     {
      "fetched": "2026-11-21T17:40:17.851913+00:00",
@@ -2730,7 +2708,7 @@
    "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/p/Df-iPSgBZ5d",
      "platform": "Instagram"
     },
@@ -2740,7 +2718,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/p/Df-kesEl7iC",
      "platform": "Instagram"
     },
@@ -2760,17 +2738,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df-CRP-FOje",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df-eEc0mTW5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -2780,12 +2758,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -2795,7 +2773,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -3668,7 +3646,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -3683,12 +3661,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -3698,7 +3676,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T17:00:17.918928+00:00",
+     "fetched": "2026-11-21T18:04:17.276782+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -3749,13 +3727,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23799,
+     "views": 23940,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23799,
+   "views_total": 23940,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -4137,7 +4115,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-19T15:39:05.502662+00:00",
-   "start": "2026-11-18T12:43:00+00:00",
+   "start": "2026-11-18T20:58:00+00:00",
    "last_activity": "2026-11-20T13:04:00+00:00",
    "item_ids": [
     "725f5951b73da8",
@@ -4152,7 +4130,6 @@
     "7fc7221a2ee479",
     "5f3592af0c9d44",
     "ee2c47dc60521b",
-    "3816e48aa86b8f",
     "62daec4b9e8652",
     "9746670e886f83"
    ],
@@ -4163,7 +4140,6 @@
     "El Nortero",
     "El Nuevo Día",
     "El Observatodo",
-    "El Pitazo",
     "El Universo",
     "El Vocero de Puerto Rico",
     "Extra",
@@ -4173,8 +4149,8 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 15,
-   "n_sources": 15,
+   "n_items": 14,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4377,7 +4353,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-21T17:56:18.039839+00:00",
+   "extra_at": "2026-11-21T18:04:17.276782+00:00",
    "social": [
     {
      "fetched": "2026-11-21T17:24:17.274776+00:00",
@@ -4396,7 +4372,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 45
+   "score": 42
   },
   {
    "key": "seed:bienvenida-aguadilla",
@@ -4430,31 +4406,16 @@
    "n_sources": 4,
    "videos": [
     {
-     "vid": "F0H8ejJayL8",
-     "title": "Miss Universe 2026 Turns Aguadilla Into a Runway! | Miss Universe 2026",
-     "channel": "Miss Universe",
-     "views": 173983,
-     "ago": "hace 8 días",
-     "official": false
-    },
-    {
      "vid": "WtMCIvvgKhM",
      "title": "🔴LIVE | MISS UNIVERSE 2026 - WELCOME PARADE",
      "channel": "Beauty Play",
-     "views": 55481,
+     "views": 55495,
      "ago": "Transmitido hace 9 días",
      "official": false
     }
    ],
-   "views_total": 229464,
+   "views_total": 55495,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/F0H8ejJayL8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/F0H8ejJayL8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=F0H8ejJayL8",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "https://i.ytimg.com/vi/WtMCIvvgKhM/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/WtMCIvvgKhM/hqdefault.jpg",
@@ -4581,7 +4542,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 26
+   "score": 17
   },
   {
    "key": "t:mi:Gala / cena:2026-11-18",
@@ -4861,13 +4822,6 @@
      "credit": "domestiquecycling.com"
     },
     {
-     "url": "https://images.7news.com.au/publication/C-10102785/382979d89612ecf4468d66d44a03289249952e66.png?imwidth=650&impolicy=sevennews_v2",
-     "page": "https://7news.com.au/entertainment/celebrity/sam-frost-shares-intimate-look-into-first-moments-with-newborn-son--c-10102785",
-     "via": "Bing Imágenes",
-     "credit": "7news.com.au",
-     "alt": "https://ts3.explicit.bing.net/th?id=OIP.nwEbrNBr4RXgPVHBr4_nRQHaEK&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf/page1-960px-2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf",
      "via": "Wikimedia Commons",
@@ -4914,13 +4868,6 @@
    "image_query": "Miss Earth 2026 challenge",
    "extra_images": [
     {
-     "url": "https://images.7news.com.au/publication/C-10102785/382979d89612ecf4468d66d44a03289249952e66.png?imwidth=650&impolicy=sevennews_v2",
-     "page": "https://7news.com.au/entertainment/celebrity/sam-frost-shares-intimate-look-into-first-moments-with-newborn-son--c-10102785",
-     "via": "Bing Imágenes",
-     "credit": "7news.com.au",
-     "alt": "https://ts3.explicit.bing.net/th?id=OIP.nwEbrNBr4RXgPVHBr4_nRQHaEK&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf/page1-960px-2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:2026.Apr._SC.INTERSECTIONAL_DOMESTICITY_Heart_Lamp.pdf",
      "via": "Wikimedia Commons",
@@ -4963,7 +4910,7 @@
      "credit": "Asaf (WMF)"
     }
    ],
-   "extra_at": "2026-11-21T15:00:17.959366+00:00",
+   "extra_at": "2026-11-21T18:04:17.276782+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5070,11 +5017,11 @@
      "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf/page1-960px-Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Speeches_-_Governor_Ronald_Reagan,_1969_(09-15-1969-12-31-1969)_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf/page1-1920px-Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roosevelt,_G._Hall,_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf/page1-1280px-Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5116,11 +5063,11 @@
      "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf/page1-960px-Speeches_-_Governor_Ronald_Reagan%2C_1969_%2809-15-1969-12-31-1969%29_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Speeches_-_Governor_Ronald_Reagan,_1969_(09-15-1969-12-31-1969)_-_DPLA_-_6d07220f05d5d75a8683c0328a6609a5.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf/page1-1920px-Roosevelt%2C_G._Hall%2C_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Roosevelt,_G._Hall,_1935-1939_-_DPLA_-_bc1241a31c19b37ab4f9a1102966531b.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf/page1-1280px-Wikipedia_for_researchers_-_An_introduction_%28Katowice_2026%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -5130,7 +5077,7 @@
      "credit": "Asaf (WMF)"
     }
    ],
-   "extra_at": "2026-11-21T15:00:17.959366+00:00",
+   "extra_at": "2026-11-21T18:04:17.276782+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5165,13 +5112,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 6456,
+     "views": 6462,
      "likes": 26,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 6456,
+   "views_total": 6462,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -5243,13 +5190,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23799,
+     "views": 23940,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23799,
+   "views_total": 23940,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5464,15 +5411,7 @@
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 260945,
-     "ago": "Transmitido hace 7 días",
-     "official": false
-    },
-    {
-     "vid": "0Wn-d9FTPSk",
-     "title": "🔴LIVE | MISS UNIVERSE 2026 - BEAUTY AT THE BEACH SWIMWEAR FASHION SHOW",
-     "channel": "Beauty Play",
-     "views": 30752,
+     "views": 260982,
      "ago": "Transmitido hace 7 días",
      "official": false
     },
@@ -5480,13 +5419,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 12277,
+     "views": 12292,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 303974,
+   "views_total": 273274,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -5501,13 +5440,6 @@
      "page": "https://www.youtube.com/watch?v=mYsdbLHCgGM",
      "via": "YouTube (miniatura)",
      "credit": "Hey Adam G"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0Wn-d9FTPSk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/0Wn-d9FTPSk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=0Wn-d9FTPSk",
-     "via": "YouTube (miniatura)",
-     "credit": "Beauty Play"
     },
     {
      "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=1005&height=670&quality=75&smart=true",
@@ -5592,7 +5524,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 37
   },
   {
    "key": "p:yokosuka day trip",
@@ -6268,7 +6200,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-21T17:56:18.039839+00:00",
+   "extra_at": "2026-11-21T18:04:17.276782+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -6287,7 +6219,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6518,7 +6450,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6749,7 +6681,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6896,7 +6828,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6945,7 +6877,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:56:18.039839+00:00",
+   "first_seen": "2026-11-21T18:04:17.276782+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
