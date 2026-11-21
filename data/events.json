@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:52:17.956087+00:00",
+ "updated": "2026-11-21T17:00:17.918928+00:00",
  "count": 35,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -217,6 +217,7 @@
     "f84750cc2f8e60",
     "5611b3a0559a0e",
     "46161a32554663",
+    "4e5078180398fa",
     "8f52beb3d170d1",
     "7e6dc07da56542",
     "277218d4a4e004"
@@ -227,11 +228,12 @@
     "El Vocero de Puerto Rico",
     "Extra",
     "Reporte Indigo",
+    "Reporte Índigo",
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 7,
-   "n_sources": 7,
+   "n_items": 8,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -247,7 +249,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 24
+   "score": 27
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -274,6 +276,7 @@
     "5611b3a0559a0e",
     "46161a32554663",
     "880dbcaf0d3867",
+    "4e5078180398fa",
     "8f52beb3d170d1",
     "7e6dc07da56542",
     "277218d4a4e004"
@@ -288,11 +291,12 @@
     "El Vocero de Puerto Rico",
     "Extra",
     "Reporte Indigo",
+    "Reporte Índigo",
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 13,
-   "n_sources": 11,
+   "n_items": 14,
+   "n_sources": 12,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -563,7 +567,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 35
+   "score": 38
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -598,7 +602,6 @@
     "fa46d82dea60e1",
     "d586be74cea1d3",
     "62daec4b9e8652",
-    "f1e1ff59cf6d51",
     "1508ca8f5968b8",
     "cb6c1e3b74641c"
    ],
@@ -609,7 +612,6 @@
     "Digg",
     "El Nuevo Día",
     "Facebook",
-    "Infobae",
     "Inquirer.net",
     "Inquirer.net - Philippines Entertainment News",
     "News.com.au",
@@ -619,23 +621,39 @@
     "YouTube · Miss Universe",
     "news.com.au"
    ],
-   "n_items": 18,
-   "n_sources": 15,
+   "n_items": 17,
+   "n_sources": 14,
    "videos": [
     {
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 856289,
+     "views": 856693,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
+     "vid": "pGGyoBglgfA",
+     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
+     "channel": "The Crowning Quest",
+     "views": 171563,
+     "ago": "hace 3 días",
+     "official": false
+    },
+    {
+     "vid": "DiAKzUWOe5U",
+     "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
+     "channel": "Miss Universe Predictions",
+     "views": 57635,
+     "ago": "hace 3 días",
+     "official": false
+    },
+    {
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23249,
+     "views": 23347,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -644,13 +662,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 2684,
+     "views": 2946,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 882222,
+   "views_total": 1112184,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -672,6 +690,20 @@
      "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/DiAKzUWOe5U/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/DiAKzUWOe5U/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=DiAKzUWOe5U",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe Predictions"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
+     "via": "YouTube (miniatura)",
+     "credit": "The Crowning Quest"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
@@ -792,7 +824,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 95
+   "score": 103
   },
   {
    "key": "p:unlock coronation night",
@@ -828,13 +860,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 404,
+     "views": 423,
      "likes": 4,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1088,
+   "views_total": 1107,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -1077,6 +1109,7 @@
    "last_activity": "2026-11-21T08:00:00+00:00",
    "item_ids": [
     "5bdda67908ff3e",
+    "3253734efd4bb6",
     "e9bc922fb2490d",
     "e5a6c3015d491e"
    ],
@@ -1085,7 +1118,7 @@
     "Metro Puerto Rico",
     "Panamá América"
    ],
-   "n_items": 3,
+   "n_items": 4,
    "n_sources": 3,
    "videos": [],
    "views_total": 0,
@@ -1100,6 +1133,42 @@
      "url": "http://www.bing.com/th?id=ONUT.4d8R9iFPTDq0nTMTRTQWpQ&pid=News",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/videos/miss-universe-2026-en-puerto-rico-asi-sera-el-escenario-del-certamen-de-los-75-anos-294831/",
      "via": "Bing (miniatura)",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/JPRTG43LNJAXPJLVBWRD2AHEKI.JPG?auth=2dd14723845e483b1ebacdc43171ab5fb818c6412e2e09a9fecc0b5503f4331e&quality=75&width=1200&height=717&focal=2859%2C1179",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
      "credit": "El Nuevo Día"
     },
     {
@@ -1265,7 +1334,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 9
+   "score": 10
   },
   {
    "key": "t:mu:Entrevistas:2026-11-18",
@@ -1682,7 +1751,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-18T10:14:00+00:00",
+   "start": "2026-11-18T10:58:00+00:00",
    "last_activity": "2026-11-20T22:47:00+00:00",
    "item_ids": [
     "c90ebbe5a0d3b9",
@@ -1712,8 +1781,7 @@
     "0889904485f8c1",
     "092c25e040beae",
     "3e1d9cacc1dbcf",
-    "c80f64ff23c15b",
-    "f1e1ff59cf6d51"
+    "c80f64ff23c15b"
    ],
    "sources": [
     "ABS-CBN on MSN",
@@ -1726,7 +1794,6 @@
     "Ellas.pa",
     "Emisoras Unidas",
     "HOLA.com",
-    "Infobae",
     "Interaksyon",
     "Meridiano.net",
     "Mi Diario",
@@ -1738,20 +1805,20 @@
     "YouTube · Telemundo Entretenimiento",
     "www.elmorrocotudo.cl"
    ],
-   "n_items": 29,
-   "n_sources": 21,
+   "n_items": 28,
+   "n_sources": 20,
    "videos": [
     {
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2158,
+     "views": 2187,
      "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2158,
+   "views_total": 2187,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -2117,7 +2184,7 @@
    "extra_at": "2026-11-21T14:28:17.944384+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/p/Df-iPSgBZ5d",
      "platform": "Instagram"
     },
@@ -2127,7 +2194,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/p/Df-kesEl7iC",
      "platform": "Instagram"
     },
@@ -2147,17 +2214,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df-CRP-FOje",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df-eEc0mTW5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -2167,12 +2234,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -2182,7 +2249,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -2198,7 +2265,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 74
+   "score": 71
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -2252,13 +2319,13 @@
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2158,
+     "views": 2187,
      "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2158,
+   "views_total": 2187,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -2649,7 +2716,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T17:15:42.442563+00:00",
-   "start": "2026-11-18T10:14:00+00:00",
+   "start": "2026-11-18T10:58:00+00:00",
    "last_activity": "2026-11-20T19:52:09+00:00",
    "item_ids": [
     "20be2d9e5de105",
@@ -2692,8 +2759,7 @@
     "59fc57459cf90b",
     "ee6f1477738faf",
     "119095a6bc800c",
-    "0889904485f8c1",
-    "f1e1ff59cf6d51"
+    "0889904485f8c1"
    ],
    "sources": [
     "ABS-CBN on MSN",
@@ -2709,7 +2775,6 @@
     "Emisoras Unidas",
     "Guatemala.com",
     "HOLA.com",
-    "Infobae",
     "Interaksyon",
     "Mega.cl",
     "Meridiano.net",
@@ -2725,8 +2790,8 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 42,
-   "n_sources": 28,
+   "n_items": 41,
+   "n_sources": 27,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3061,7 +3126,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -3076,12 +3141,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -3091,7 +3156,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T15:56:18.055295+00:00",
+     "fetched": "2026-11-21T17:00:17.918928+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -3107,7 +3172,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 98
+   "score": 95
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-18",
@@ -3142,13 +3207,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23249,
+     "views": 23347,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23249,
+   "views_total": 23347,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3329,7 +3394,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 19473,
+     "views": 19523,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -3338,7 +3403,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 18576,
+     "views": 18593,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -3347,13 +3412,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8176,
+     "views": 8204,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 46225,
+   "views_total": 46320,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -3871,7 +3936,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-19T15:39:05.502662+00:00",
-   "start": "2026-11-18T10:14:00+00:00",
+   "start": "2026-11-18T10:57:00+00:00",
    "last_activity": "2026-11-20T13:04:00+00:00",
    "item_ids": [
     "725f5951b73da8",
@@ -3889,8 +3954,7 @@
     "3816e48aa86b8f",
     "62daec4b9e8652",
     "9746670e886f83",
-    "d586be74cea1d3",
-    "f1e1ff59cf6d51"
+    "d586be74cea1d3"
    ],
    "sources": [
     "Canal Antigua",
@@ -3903,7 +3967,6 @@
     "El Universo",
     "El Vocero de Puerto Rico",
     "Extra",
-    "Infobae",
     "Meridiano.net",
     "Revista Caras México",
     "Yahoo",
@@ -3911,8 +3974,8 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 17,
-   "n_sources": 17,
+   "n_items": 16,
+   "n_sources": 16,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4140,7 +4203,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-21T16:52:17.956087+00:00",
+   "extra_at": "2026-11-21T17:00:17.918928+00:00",
    "social": [
     {
      "fetched": "2026-11-21T16:20:17.858675+00:00",
@@ -4164,7 +4227,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 51
+   "score": 48
   },
   {
    "key": "seed:bienvenida-aguadilla",
@@ -4918,13 +4981,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 6309,
+     "views": 6329,
      "likes": 26,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 6309,
+   "views_total": 6329,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -4996,13 +5059,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23249,
+     "views": 23347,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23249,
+   "views_total": 23347,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5200,28 +5263,26 @@
     "967a2fbdae6575",
     "8a894f26039815",
     "9746670e886f83",
-    "d586be74cea1d3",
-    "f1e1ff59cf6d51"
+    "d586be74cea1d3"
    ],
    "sources": [
     "El Nortero",
     "El Nuevo Día",
     "El Observatodo",
     "El Universo",
-    "Infobae",
     "Yahoo",
     "news.com.au",
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 9,
-   "n_sources": 9,
+   "n_items": 8,
+   "n_sources": 8,
    "videos": [
     {
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 260558,
+     "views": 260634,
      "ago": "Transmitido hace 7 días",
      "official": false
     },
@@ -5229,13 +5290,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 12216,
+     "views": 12227,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 272774,
+   "views_total": 272861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -5364,7 +5425,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 43
+   "score": 40
   },
   {
    "key": "p:yokosuka day trip",
@@ -5405,12 +5466,27 @@
      "page": "https://www.youtube.com/watch?v=Upmk6ipYuwo",
      "via": "YouTube (miniatura)",
      "credit": "Miss International"
+    },
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/052/876/421/small_2x/set-of-different-human-hand-gestures-on-white-background-hand-wrist-and-fingers-hands-in-different-situations-gesticulation-hand-gestures-finger-movements-signals-and-signs-vector.jpg",
+     "page": "https://es.vecteezy.com/vectores-gratis/mano-extendida",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0t5RRLWiQjLsSVKmzA7ehQHaCh&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
-   "extra_images": [],
-   "extra_at": "2026-11-21T16:52:17.956087+00:00",
+   "extra_images": [
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/052/876/421/small_2x/set-of-different-human-hand-gestures-on-white-background-hand-wrist-and-fingers-hands-in-different-situations-gesticulation-hand-gestures-finger-movements-signals-and-signs-vector.jpg",
+     "page": "https://es.vecteezy.com/vectores-gratis/mano-extendida",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0t5RRLWiQjLsSVKmzA7ehQHaCh&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T17:00:17.918928+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -6012,26 +6088,9 @@
    ],
    "n_items": 3,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "KYdzhQzMHVE",
-     "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 60460,
-     "likes": 0,
-     "published": "2026-11-16T21:14:50+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 60460,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/KYdzhQzMHVE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=KYdzhQzMHVE",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT._hXPnRyqj-r4ouLercW6lw&pid=News",
      "page": "https://entertainment.inquirer.net/690684/miss-international-2026-delegates-serve-face-in-official-portraits",
@@ -6219,7 +6278,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 12
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -6230,7 +6289,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6461,7 +6520,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6692,7 +6751,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6839,7 +6898,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6888,7 +6947,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T16:52:17.956087+00:00",
+   "first_seen": "2026-11-21T17:00:17.918928+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
