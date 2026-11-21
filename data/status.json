@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T10:20:09.348798+00:00",
+ "run_at": "2026-11-21T10:28:10.085480+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 76,
+   "items": 100,
    "error": null
   },
   {
@@ -28,19 +28,19 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 34,
+   "items": 70,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 47,
+   "items": 46,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 78,
+   "items": 36,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 90,
+   "items": 100,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 37,
+   "items": 38,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 81,
+   "items": 80,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 16,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 7,
+   "items": 6,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 19,
+   "items": 12,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "7 usuarios probados en esta vuelta · 2171 en total"
+   "error": "6 usuarios probados en esta vuelta · 2177 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 882,
+ "new_items": 911,
  "total_items": 900
 }
