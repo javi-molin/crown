@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T22:52:25.774178+00:00",
+ "run_at": "2026-11-21T23:00:25.434408+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 47,
    "error": null
   },
   {
@@ -52,19 +52,19 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 94,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 86,
+   "items": 50,
    "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 52,
+   "items": 100,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 35,
    "error": null
   },
   {
@@ -99,9 +99,9 @@
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · certamen de belleza",
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 87,
+   "items": 83,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 2,
+   "items": 5,
    "error": null
   },
   {
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 934,
-   "error": "92 candidatas · descartadas: 1162 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
+   "error": "92 candidatas · descartadas: 1161 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 991,
+ "new_items": 902,
  "total_items": 900
 }
