@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T23:08:25.874030+00:00",
+ "updated": "2026-11-21T23:16:25.822752+00:00",
  "count": 36,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,14 +209,16 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "1d3d72719d0f08",
     "b612b622645d09",
     "20434885b8169f",
     "f028c1a105c6ab",
     "71d7a64e1ddcba",
+    "7e5c98b4415447",
     "d3e0b61dcf73ec",
     "691cbfc868dad0",
     "547206730dc387",
@@ -231,6 +233,7 @@
     "5cb7fd73478604",
     "c84929ecec24dd",
     "c1694292f4ec07",
+    "ac14cd8ddf6d66",
     "9f2ce9cca7159d",
     "2d980966934e74",
     "58ef6eca9c3748",
@@ -285,7 +288,7 @@
     "The Manila Times",
     "YouTube · Miss Universe"
    ],
-   "n_items": 44,
+   "n_items": 47,
    "n_sources": 25,
    "videos": [],
    "views_total": 0,
@@ -302,7 +305,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 97
+   "score": 100
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -318,12 +321,14 @@
    "refs": [],
    "first_seen": "2026-11-21T15:16:17.266017+00:00",
    "start": "2026-11-21T00:59:00+00:00",
-   "last_activity": "2026-11-21T22:49:18+00:00",
+   "last_activity": "2026-11-21T23:01:57+00:00",
    "item_ids": [
+    "1d3d72719d0f08",
     "b612b622645d09",
     "20434885b8169f",
     "f028c1a105c6ab",
     "71d7a64e1ddcba",
+    "7e5c98b4415447",
     "d3e0b61dcf73ec",
     "691cbfc868dad0",
     "547206730dc387",
@@ -342,6 +347,7 @@
     "c84929ecec24dd",
     "c1694292f4ec07",
     "f3bfb64da19eab",
+    "ac14cd8ddf6d66",
     "9f2ce9cca7159d",
     "2d980966934e74",
     "17d792a335253f",
@@ -419,21 +425,37 @@
     "The Manila Times",
     "YouTube · Miss Universe"
    ],
-   "n_items": 62,
+   "n_items": 65,
    "n_sources": 34,
    "videos": [
     {
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 6098,
+     "views": 6312,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
+    },
+    {
+     "vid": "ejKFwAPg44c",
+     "title": "MISS UNIVERSE  2026 | National Costume",
+     "channel": "Miss Universe",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-21T23:01:57+00:00",
+     "official": true
     }
    ],
-   "views_total": 6098,
+   "views_total": 6312,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/ejKFwAPg44c/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/ejKFwAPg44c/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=ejKFwAPg44c",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
     {
      "url": "https://i.ytimg.com/vi/VTZdfe78o1E/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/VTZdfe78o1E/hqdefault.jpg",
@@ -668,12 +690,6 @@
      "page": "https://meridiano.net/farandula/clara-vegas-presentara-su-traje-tipico-en-miss-universo-2026-2026112115340",
      "via": "Meridiano.net",
      "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/GFQM7MAT2JESDIPZXR3XACKPCQ.jpg?auth=6e0f494db12ccb08b8a069f7d448d9faa8220bb790ad675cd4e04a4cc2fada72&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-ver-el-desfile-de-trajes-tipicos-del-miss-universo-2026-en-vivo-hoy-en-eeuu-mexico-colombia-rd-pr-y-venezuela-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
     }
    ],
    "social_urls": [
@@ -738,7 +754,7 @@
    "extra_at": "2026-11-21T21:24:26.102343+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/p/DeicqxvONge",
      "platform": "Instagram"
     },
@@ -753,7 +769,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -806,7 +822,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 133
+   "score": 136
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -1269,24 +1285,16 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 873130,
+     "views": 873667,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
-     "vid": "pGGyoBglgfA",
-     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
-     "channel": "The Crowning Quest",
-     "views": 174799,
-     "ago": "hace 3 días",
-     "official": false
-    },
-    {
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 35222,
+     "views": 35560,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
@@ -1295,13 +1303,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25413,
+     "views": 25444,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1108564,
+   "views_total": 934671,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -1323,13 +1331,6 @@
      "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
-     "via": "YouTube (miniatura)",
-     "credit": "The Crowning Quest"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
@@ -1392,7 +1393,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 95
+   "score": 86
   },
   {
    "key": "seed:voto-top30",
@@ -1446,7 +1447,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 20776,
+     "views": 20785,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1455,7 +1456,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 19395,
+     "views": 19409,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1464,13 +1465,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8579,
+     "views": 8582,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 48750,
+   "views_total": 48776,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1778,7 +1779,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -2090,7 +2091,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.youtube.com/watch?v=8ckrb3dgi4I",
      "platform": "YouTube",
      "views": 170,
@@ -2387,7 +2388,7 @@
      "title": "Unlock Coronation Night LIVE! 👑 TOP 10 | Miss International",
      "channel": "Miss International",
      "views": 699,
-     "likes": 38,
+     "likes": 39,
      "published": "2026-11-18T10:00:03+00:00",
      "official": true
     },
@@ -2986,7 +2987,7 @@
    "extra_at": "2026-11-21T21:32:26.247459+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/p/DeLTxBmjnvu",
      "platform": "Instagram"
     },
@@ -3001,12 +3002,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/reel/Df5zeVPJ8Yf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/reel/Df71ZHPQVDW",
      "platform": "Instagram"
     },
@@ -3016,7 +3017,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T22:12:25.942691+00:00",
+     "fetched": "2026-11-21T23:16:25.822752+00:00",
      "url": "https://www.instagram.com/reel/Df8sMUhBqMs",
      "platform": "Instagram"
     }
@@ -3094,7 +3095,7 @@
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 4724,
+     "views": 25757,
      "ago": "",
      "official": false
     },
@@ -3108,7 +3109,7 @@
      "official": true
     }
    ],
-   "views_total": 7186,
+   "views_total": 28219,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -3557,7 +3558,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 59
+   "score": 60
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -4297,13 +4298,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25413,
+     "views": 25444,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 25413,
+   "views_total": 25444,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5140,13 +5141,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 1784,
+     "views": 1785,
      "likes": 22,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 3955,
+   "views_total": 3956,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -5209,12 +5210,209 @@
      "page": "https://www.football.london/chelsea-fc/news/nine-players-set-miss-chelsea-34934384",
      "via": "Football.London",
      "credit": "Football.London"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/49/2c/ee/492cee27b5d83fce8cf409f5bd4d9c97.jpg",
+     "page": "https://www.pinterest.com/pin/printable-of-different-mustache-styles--3166662224463276/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.R_LE1BWB0G1QvCfMA7McUgHaIs&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/15/aa/9e/15aa9e04906415fbf47e4c207248ef69.jpg",
+     "page": "https://www.pinterest.ca/pin/482448178809784285/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.ca",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.SteIezVtOjPZtniLhBX4tgHaE5&pid=15.1"
+    },
+    {
+     "url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-83725443-1596483108.jpg?crop=1.00xw:0.835xh;0",
+     "page": "https://www.menshealth.com/grooming/g33501753/mustache-styles/",
+     "via": "Bing Imágenes",
+     "credit": "menshealth.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.fo2OXVb3Z5RwC85Lqt2RogHaLG&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/be/56/d8/be56d8a03c4f53e5d19703e982dd82c3.jpg",
+     "page": "https://www.pinterest.com/aviationjunky/mustache-styles/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.OdCHQCVHJveiq7pzn0RWagHaLH&pid=15.1"
+    },
+    {
+     "url": "https://www.spreadthoughts.com/content/images/2025/07/Chevron-Mustache-Styles.webp",
+     "page": "https://www.spreadthoughts.com/mustache-styles-guide/",
+     "via": "Bing Imágenes",
+     "credit": "spreadthoughts.com",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.yvTDdFEIYZay-fRrLvgKnwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://storage.googleapis.com/becleverman.com/images/image_1706201402821.jpg",
+     "page": "https://becleverman.com/blog/top-mustache-styles",
+     "via": "Bing Imágenes",
+     "credit": "becleverman.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Q0a63Xo8iysCB6puTYQFjAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://img.mensxp.com/media/content/2020/Jun/Img-1A_5ee8580dda404.jpeg",
+     "page": "https://storage.googleapis.com/dmzlwtnnaaokre/mustache-and-beard-styles-for-round-face.html",
+     "via": "Bing Imágenes",
+     "credit": "storage.googleapis.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.fR_alHeniUhX2j7hQdYgHQHaFA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/a7/c2/ee/a7c2ee53e0dd170f7cc4cb69d2d8e5e0.png",
+     "page": "https://www.pinterest.com/pin/643451865487543193/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ohb6aZNSnlLo_UfpoLmEXwHaEp&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/a5/89/0b/a5890b4aa640fb2b4ad09f54889bb19d.jpg",
+     "page": "https://de.pinterest.com/pin/857302479063339567/",
+     "via": "Bing Imágenes",
+     "credit": "de.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.NcNpT7pUnE4H1JfQEsp9DgHaLr&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/5a/1f/a8/5a1fa8ac79c3d531f42ed0c3f0d5ec41.jpg",
+     "page": "https://www.pinterest.com/pin/traditional-mustache--422281209863799/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-7XEUENt_q2pI5NoMsc_KwHaHF&pid=15.1"
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0255/2417/4922/files/man_with_a_great_mustache_1.jpg?v=1707854986",
+     "page": "https://www.beardbeasts.com/blogs/news/how-to-train-your-mustache",
+     "via": "Bing Imágenes",
+     "credit": "beardbeasts.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.V-5qDkSlzXQKTx4WTmAvrgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/2RB441R/different-old-fashioned-mustaches-vintage-mustache-shapes-for-hipster-man-and-gentleman-barber-design-mask-accessories-vector-illustration-set-2RB441R.jpg",
+     "page": "https://www.alamy.com/different-old-fashioned-mustaches-vintage-mustache-shapes-for-hipster-man-and-gentleman-barber-design-mask-accessories-vector-illustration-set-image557583987.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Q-OwgStrRdNo_ao6FQHKeQHaG0&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/80/2c/e3/802ce3bc25384e0546c15857fe6fc4e9.jpg",
+     "page": "https://www.pinterest.com/pin/every-moustache-style-known-to-man-ranked-in-order-of-acceptability-hair-hairstyle-face-head-chin-eyebrow--580612576950601556/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cGKANqTadUO6ZIKbmdaCkQHaK-&pid=15.1"
+    },
+    {
+     "url": "https://www.wikihow.com/images/thumb/0/01/Mustache-Styles-Step-19.jpg/v4-460px-Mustache-Styles-Step-19.jpg",
+     "page": "https://www.wikihow.com/Mustache-Styles",
+     "via": "Bing Imágenes",
+     "credit": "wikihow.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.LbaFdn6JLY1rrAgiYjtnhQAAAA&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Fukushima Tour",
-   "extra_images": [],
-   "extra_at": "2026-11-21T23:08:25.874030+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/originals/49/2c/ee/492cee27b5d83fce8cf409f5bd4d9c97.jpg",
+     "page": "https://www.pinterest.com/pin/printable-of-different-mustache-styles--3166662224463276/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.R_LE1BWB0G1QvCfMA7McUgHaIs&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/15/aa/9e/15aa9e04906415fbf47e4c207248ef69.jpg",
+     "page": "https://www.pinterest.ca/pin/482448178809784285/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.ca",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.SteIezVtOjPZtniLhBX4tgHaE5&pid=15.1"
+    },
+    {
+     "url": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-83725443-1596483108.jpg?crop=1.00xw:0.835xh;0",
+     "page": "https://www.menshealth.com/grooming/g33501753/mustache-styles/",
+     "via": "Bing Imágenes",
+     "credit": "menshealth.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.fo2OXVb3Z5RwC85Lqt2RogHaLG&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/be/56/d8/be56d8a03c4f53e5d19703e982dd82c3.jpg",
+     "page": "https://www.pinterest.com/aviationjunky/mustache-styles/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.OdCHQCVHJveiq7pzn0RWagHaLH&pid=15.1"
+    },
+    {
+     "url": "https://www.spreadthoughts.com/content/images/2025/07/Chevron-Mustache-Styles.webp",
+     "page": "https://www.spreadthoughts.com/mustache-styles-guide/",
+     "via": "Bing Imágenes",
+     "credit": "spreadthoughts.com",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.yvTDdFEIYZay-fRrLvgKnwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://storage.googleapis.com/becleverman.com/images/image_1706201402821.jpg",
+     "page": "https://becleverman.com/blog/top-mustache-styles",
+     "via": "Bing Imágenes",
+     "credit": "becleverman.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Q0a63Xo8iysCB6puTYQFjAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://img.mensxp.com/media/content/2020/Jun/Img-1A_5ee8580dda404.jpeg",
+     "page": "https://storage.googleapis.com/dmzlwtnnaaokre/mustache-and-beard-styles-for-round-face.html",
+     "via": "Bing Imágenes",
+     "credit": "storage.googleapis.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.fR_alHeniUhX2j7hQdYgHQHaFA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/a7/c2/ee/a7c2ee53e0dd170f7cc4cb69d2d8e5e0.png",
+     "page": "https://www.pinterest.com/pin/643451865487543193/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ohb6aZNSnlLo_UfpoLmEXwHaEp&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/a5/89/0b/a5890b4aa640fb2b4ad09f54889bb19d.jpg",
+     "page": "https://de.pinterest.com/pin/857302479063339567/",
+     "via": "Bing Imágenes",
+     "credit": "de.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.NcNpT7pUnE4H1JfQEsp9DgHaLr&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/5a/1f/a8/5a1fa8ac79c3d531f42ed0c3f0d5ec41.jpg",
+     "page": "https://www.pinterest.com/pin/traditional-mustache--422281209863799/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-7XEUENt_q2pI5NoMsc_KwHaHF&pid=15.1"
+    },
+    {
+     "url": "https://cdn.shopify.com/s/files/1/0255/2417/4922/files/man_with_a_great_mustache_1.jpg?v=1707854986",
+     "page": "https://www.beardbeasts.com/blogs/news/how-to-train-your-mustache",
+     "via": "Bing Imágenes",
+     "credit": "beardbeasts.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.V-5qDkSlzXQKTx4WTmAvrgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/2RB441R/different-old-fashioned-mustaches-vintage-mustache-shapes-for-hipster-man-and-gentleman-barber-design-mask-accessories-vector-illustration-set-2RB441R.jpg",
+     "page": "https://www.alamy.com/different-old-fashioned-mustaches-vintage-mustache-shapes-for-hipster-man-and-gentleman-barber-design-mask-accessories-vector-illustration-set-image557583987.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Q-OwgStrRdNo_ao6FQHKeQHaG0&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/80/2c/e3/802ce3bc25384e0546c15857fe6fc4e9.jpg",
+     "page": "https://www.pinterest.com/pin/every-moustache-style-known-to-man-ranked-in-order-of-acceptability-hair-hairstyle-face-head-chin-eyebrow--580612576950601556/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cGKANqTadUO6ZIKbmdaCkQHaK-&pid=15.1"
+    },
+    {
+     "url": "https://www.wikihow.com/images/thumb/0/01/Mustache-Styles-Step-19.jpg/v4-460px-Mustache-Styles-Step-19.jpg",
+     "page": "https://www.wikihow.com/Mustache-Styles",
+     "via": "Bing Imágenes",
+     "credit": "wikihow.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.LbaFdn6JLY1rrAgiYjtnhQAAAA&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T23:16:25.822752+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5259,12 +5457,12 @@
      "vid": "F0H8ejJayL8",
      "title": "Miss Universe 2026 Turns Aguadilla Into a Runway! | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 175911,
+     "views": 175956,
      "ago": "hace 9 días",
      "official": false
     }
    ],
-   "views_total": 175911,
+   "views_total": 175956,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/F0H8ejJayL8/maxresdefault.jpg",
@@ -6330,13 +6528,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 25413,
+     "views": 25444,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 25413,
+   "views_total": 25444,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -6546,41 +6744,9 @@
    ],
    "n_items": 7,
    "n_sources": 7,
-   "videos": [
-    {
-     "vid": "mYsdbLHCgGM",
-     "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
-     "channel": "Hey Adam G",
-     "views": 261854,
-     "ago": "Transmitido hace 7 días",
-     "official": false
-    },
-    {
-     "vid": "RRFpY4TaoWk",
-     "title": "BEAUTY AT THE BEACH | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 12581,
-     "likes": 0,
-     "published": "2026-11-16T23:59:14+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 274435,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/RRFpY4TaoWk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=RRFpY4TaoWk",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/mYsdbLHCgGM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/mYsdbLHCgGM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=mYsdbLHCgGM",
-     "via": "YouTube (miniatura)",
-     "credit": "Hey Adam G"
-    },
     {
      "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=1005&height=670&quality=75&smart=true",
      "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/preliminar-de-miss-universo-2026-hora-para-ver-en-ecuador-que-califica-el-jurado-las-favoritas-y-que-define-el-top-30-nota/",
@@ -6612,95 +6778,102 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://c.ndtvimg.com/2026-01/634b7288_stock-market-screens.jpg",
-     "page": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-july-4-3-9848403",
+     "url": "https://rawepo.be/images/nieuws/2024/01-JAN/afvalsorteren/AFVALSORTEREN.jpg",
+     "page": "https://rawepo.be/nieuws/milieu/8331-afval-scheiden-nut-fabels-en-alle-info-die-u-nodig-heeft-om-beter-met-uw-afval-om-te-gaan.html",
      "via": "Bing Imágenes",
-     "credit": "ndtvprofit.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ybpSY0u6QzQlQ67tcGt89QHaEL&pid=15.1"
+     "credit": "rawepo.be",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-QX_vOEq66AkwY6bIbcvfgHaEz&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/h9sKaV-U26A/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=h9sKaV-U26A",
+     "url": "https://img.freepik.com/vrije-vector/pot-met-organisch-afval-en-afvalbak_24908-78265.jpg",
+     "page": "https://nl.freepik.com/vrije-vector/pot-met-organisch-afval-en-afvalbak_40440398.htm",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.5Xg7AeisqcoZOEPhlKUPoAHaEK&pid=15.1"
+     "credit": "nl.freepik.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xoZsNVTesxtqjRUq99go9wHaHa&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/EpW4enimVtc/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EpW4enimVtc",
+     "url": "https://media.istockphoto.com/id/1315290139/nl/vector/nul-afval-pot-met-bladeren-die-op-een-witte-achtergrond-worden-geïsoleerd-recycling-van.jpg?s=1024x1024&w=is&k=20&c=q-Vv0sZZol0lQ72OqZLQNjvssjCMfl58OPc4Pzo9OaM=",
+     "page": "https://www.istockphoto.com/nl/vector/nul-afval-pot-met-bladeren-die-op-een-witte-achtergrond-worden-geïsoleerd-recycling-gm1315290139-403302170",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Kgxd4dGQaxj8iA4FFczFUgHaEK&pid=15.1"
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.CFIPqMvqQ3pPD-I4gkC99AHaHa&pid=15.1"
     },
     {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1z61MM.img?w=768&h=908&m=6",
-     "page": "https://www.msn.com/en-in/money/other/stock-market-this-week-top-gainers-and-losers-shake-up-d-street-who-came-out-on-top/ar-AA1z61MP",
+     "url": "https://img.freepik.com/fotos-premium/segregacao-de-residuos-separacao-de-lixo-por-material-e-tipo-em-latas-de-lixo-coloridas-separacao-e-reciclagem-de-lixo-infografico_79588-628.jpg?w=2000",
+     "page": "https://br.freepik.com/fotos-premium/segregacao-de-residuos-separacao-de-lixo-por-material-e-tipo-em-latas-de-lixo-coloridas-separacao-e-reciclagem-de-lixo-infografico_62569520.htm",
      "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.GpajWBVsVF3tvMmzJm7CrgHaIw&pid=15.1"
+     "credit": "br.freepik.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.oXaw33DQuUumUhwS5avThwHaE7&pid=15.1"
     },
     {
-     "url": "https://www.openswingtrading.com/_next/image?url=https:%2F%2Fassets.skribra.com%2Fimages%2F697be53e60afa546359fd387%2Ftitle-2026-03-19T08:56:23.451Z.jpg&w=3840&q=75",
-     "page": "https://www.openswingtrading.com/blog/advanced-ways-to-see-stocks-like-a-leader-list",
+     "url": "https://milieu-centraal.stream.prepr.io/53kegqzmoa27/w_1200/afval-scheiden-keuken-container.jpg",
+     "page": "https://www.milieucentraal.nl/minder-afval/afval-scheiden/welk-afval-waar/",
      "via": "Bing Imágenes",
-     "credit": "openswingtrading.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.pk518VPl5SzzwLjcLhUCnwHaE8&pid=15.1"
+     "credit": "milieucentraal.nl",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP._JQE8QSx6F1THSosAAxFQQHaE8&pid=15.1"
     },
     {
-     "url": "https://www.livemint.com/lm-img/img/2024/09/10/1600x900/Stock_market_today_Buy_or_sell_Stocks_to_buy_today_1725939763600_1725939763883.jpg",
-     "page": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-global-markets-five-stocks-to-buy-or-sell-on-tuesday-sept-10/amp-11725937902609.html",
+     "url": "https://media.s-bol.com/Rm0z4p6jzKGO/KrV67Ll/550x534.jpg",
+     "page": "https://www.bol.com/nl/nl/p/pot-met-waterreserve-garden-id-respect-wit-30-x-30-cm-100-huishoudelijk-afval-100-recyclebaar-gestructureerd-oppervlak/9300000225234991/",
      "via": "Bing Imágenes",
-     "credit": "livemint.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Ddaj0xgq6-tjg_vri_q33QHaEK&pid=15.1"
+     "credit": "bol.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.qGT-a6cFBEp4dTn2sXQx3AHaHM&pid=15.1"
     },
     {
-     "url": "https://investorshangout.com/images/blog/4247_top-5-most-active-penny-stocks-under-5-by-price-gains-today-may-1-2024.jpg",
-     "page": "https://investorshangout.com/top-5-most-active-penny-stocks-under-5-by-price-gains-today-may-1-2024-159-/",
+     "url": "https://i.pinimg.com/originals/31/01/76/3101769db7112e04e6529ea55f8cd6eb.png",
+     "page": "https://www.pinterest.com/pin/545005992386809770/",
      "via": "Bing Imágenes",
-     "credit": "investorshangout.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GNRrvE89JdtQOse2lcyGKwHaEK&pid=15.1"
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.o8vCVvSviCP44NvIXn_ZKwHaKj&pid=15.1"
     },
     {
-     "url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250118040006_stocks2.jpg?impolicy=website&width=1280&height=720",
-     "page": "https://www.moneycontrol.com/news/photos/business/stocks/top-gainers-and-losers-today-stocks-that-moved-the-most-on-january-23-12917954.html",
+     "url": "https://i.pinimg.com/originals/a8/74/28/a874282206b25f2aef2a7aedf2bad595.png",
+     "page": "https://www.pinterest.com/pin/451556300158466267/",
      "via": "Bing Imágenes",
-     "credit": "moneycontrol.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.XIFQJBEll7rtRv43EwJwmgHaEK&pid=15.1"
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.DwtLry-E9kWn_iB_biaoUQHaHa&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/DQ4mHxxYlps/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=DQ4mHxxYlps",
+     "url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Kunststofplatenshop.nl/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/oosterhout.nieuws.store/images/2024-07/flesjes-afval.jpg@webp",
+     "page": "https://oosterhout.nieuws.nl/nieuws/nederlanders-denken-kennis-te-hebben-over-afval-scheiden-maar-dat-blijkt-niet-zo-te-zijn",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.uENDofB20oQOgEnxr9-mnwHaEK&pid=15.1"
+     "credit": "oosterhout.nieuws.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.j1-i--vZbRtZJuvRBtPV_QHaEL&pid=15.1"
     },
     {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1NZcyL.img?w=1280&h=720&m=4&q=70",
-     "page": "https://www.msn.com/en-in/money/markets/top-gainers-and-losers-today-market-movers-you-need-to-watch/ar-AA1NZvSk",
+     "url": "https://www.afvalscheidingswijzer.nl/_next/image?url=https:%2F%2Fmilieucentraal-prod-umbraco01.azurewebsites.net%2Fmedia%2F4mehjkr1%2Fglazen-fles-of-pot.jpg&w=3840&q=75",
+     "page": "https://www.afvalscheidingswijzer.nl/glas",
      "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.WGSpI_MdkNlwFhj-jzB_JgHaEK&pid=15.1"
+     "credit": "afvalscheidingswijzer.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.E2zooV8cz_BEKi98tNRWcAHaE6&pid=15.1"
     },
     {
-     "url": "https://images.moneycontrol.com/static-mcnews/2025/02/20250212081626_Stock-Market-Today-News.jpg?impolicy=website&width=770&height=431",
-     "page": "https://www.moneycontrol.com/news/business/stocks/top-gainers-and-losers-today-stocks-that-moved-the-most-on-february-27-12951992.html",
+     "url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/altena.nieuws.store/images/2024-07/shutterstock-2099935423.jpg",
+     "page": "https://altena.nieuws.nl/lifestyle/nederlanders-gooiden-vorig-jaar-minder-afval-weg",
      "via": "Bing Imágenes",
-     "credit": "moneycontrol.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ekYWvgiWXPHm_oN97VYV0QHaEJ&pid=15.1"
+     "credit": "altena.nieuws.nl",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bYbviejl5t4PaMMeAts10gHaEq&pid=15.1"
     },
     {
-     "url": "https://img.etimg.com/thumb/msid-125214331,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-     "page": "https://economictimes.indiatimes.com/markets/stocks/news/top-10-high-dividend-yield-stocks-in-2025-offering-returns-of-up-to-10-do-you-own-any/dividend-leaders/slideshow/125214331.cms",
+     "url": "https://storage.pubble.nl/39aff116/content/2024/9/ff33c73d-2c9a-465a-a39c-a54c5b452a2b_thumb1920.jpg",
+     "page": "https://www.brugnieuws.nl/nieuws/algemeen/316009/-verwijder-adresgegevens-van-afval-dat-je-aanbiedt-",
      "via": "Bing Imágenes",
-     "credit": "economictimes.indiatimes.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.lBMD0oo5lXCAmhNGs0cemQHaFj&pid=15.1"
+     "credit": "brugnieuws.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-nvhXXxbE72QeQ_tnIZz0QHaEK&pid=15.1"
     },
     {
-     "url": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-videoSixteenByNine3000.png",
-     "page": "https://www.nytimes.com/2025/03/13/business/sp-500-stocks-market-correction.html",
+     "url": "https://www.greenpeace.org/static/planet4-canada-stateless/2025/03/071b4c61-gp1swpkh_pressmedia-2500px-min-1024x683.jpg",
+     "page": "https://www.greenpeace.org/canada/en/story/68656/what-is-climate-change-what-canadians-need-to-know/",
      "via": "Bing Imágenes",
-     "credit": "nytimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3zxtRNsMqaQRv8bOoXRhvwHaEL&pid=15.1"
+     "credit": "greenpeace.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.cCPYXFAAh0mm66mQJMGYSAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://1.bp.blogspot.com/-7eYACE2SYno/T3mZjpLOeEI/AAAAAAAAABM/17nhOUIi4gI/s1600/Potjiekos.jpg",
+     "page": "https://recipechefmaster.blogspot.com/2012/04/traditional-south-african-recipe.html",
+     "via": "Bing Imágenes",
+     "credit": "recipechefmaster.blogspot.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.F_klRcdIqNYuoJd8DOlmmgHaJ4&pid=15.1"
     }
    ],
    "social_urls": [
@@ -6712,98 +6885,105 @@
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [
     {
-     "url": "https://c.ndtvimg.com/2026-01/634b7288_stock-market-screens.jpg",
-     "page": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-july-4-3-9848403",
+     "url": "https://rawepo.be/images/nieuws/2024/01-JAN/afvalsorteren/AFVALSORTEREN.jpg",
+     "page": "https://rawepo.be/nieuws/milieu/8331-afval-scheiden-nut-fabels-en-alle-info-die-u-nodig-heeft-om-beter-met-uw-afval-om-te-gaan.html",
      "via": "Bing Imágenes",
-     "credit": "ndtvprofit.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ybpSY0u6QzQlQ67tcGt89QHaEL&pid=15.1"
+     "credit": "rawepo.be",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-QX_vOEq66AkwY6bIbcvfgHaEz&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/h9sKaV-U26A/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=h9sKaV-U26A",
+     "url": "https://img.freepik.com/vrije-vector/pot-met-organisch-afval-en-afvalbak_24908-78265.jpg",
+     "page": "https://nl.freepik.com/vrije-vector/pot-met-organisch-afval-en-afvalbak_40440398.htm",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.5Xg7AeisqcoZOEPhlKUPoAHaEK&pid=15.1"
+     "credit": "nl.freepik.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xoZsNVTesxtqjRUq99go9wHaHa&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/EpW4enimVtc/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EpW4enimVtc",
+     "url": "https://media.istockphoto.com/id/1315290139/nl/vector/nul-afval-pot-met-bladeren-die-op-een-witte-achtergrond-worden-geïsoleerd-recycling-van.jpg?s=1024x1024&w=is&k=20&c=q-Vv0sZZol0lQ72OqZLQNjvssjCMfl58OPc4Pzo9OaM=",
+     "page": "https://www.istockphoto.com/nl/vector/nul-afval-pot-met-bladeren-die-op-een-witte-achtergrond-worden-geïsoleerd-recycling-gm1315290139-403302170",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Kgxd4dGQaxj8iA4FFczFUgHaEK&pid=15.1"
+     "credit": "istockphoto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.CFIPqMvqQ3pPD-I4gkC99AHaHa&pid=15.1"
     },
     {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1z61MM.img?w=768&h=908&m=6",
-     "page": "https://www.msn.com/en-in/money/other/stock-market-this-week-top-gainers-and-losers-shake-up-d-street-who-came-out-on-top/ar-AA1z61MP",
+     "url": "https://img.freepik.com/fotos-premium/segregacao-de-residuos-separacao-de-lixo-por-material-e-tipo-em-latas-de-lixo-coloridas-separacao-e-reciclagem-de-lixo-infografico_79588-628.jpg?w=2000",
+     "page": "https://br.freepik.com/fotos-premium/segregacao-de-residuos-separacao-de-lixo-por-material-e-tipo-em-latas-de-lixo-coloridas-separacao-e-reciclagem-de-lixo-infografico_62569520.htm",
      "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.GpajWBVsVF3tvMmzJm7CrgHaIw&pid=15.1"
+     "credit": "br.freepik.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.oXaw33DQuUumUhwS5avThwHaE7&pid=15.1"
     },
     {
-     "url": "https://www.openswingtrading.com/_next/image?url=https:%2F%2Fassets.skribra.com%2Fimages%2F697be53e60afa546359fd387%2Ftitle-2026-03-19T08:56:23.451Z.jpg&w=3840&q=75",
-     "page": "https://www.openswingtrading.com/blog/advanced-ways-to-see-stocks-like-a-leader-list",
+     "url": "https://milieu-centraal.stream.prepr.io/53kegqzmoa27/w_1200/afval-scheiden-keuken-container.jpg",
+     "page": "https://www.milieucentraal.nl/minder-afval/afval-scheiden/welk-afval-waar/",
      "via": "Bing Imágenes",
-     "credit": "openswingtrading.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.pk518VPl5SzzwLjcLhUCnwHaE8&pid=15.1"
+     "credit": "milieucentraal.nl",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP._JQE8QSx6F1THSosAAxFQQHaE8&pid=15.1"
     },
     {
-     "url": "https://www.livemint.com/lm-img/img/2024/09/10/1600x900/Stock_market_today_Buy_or_sell_Stocks_to_buy_today_1725939763600_1725939763883.jpg",
-     "page": "https://www.livemint.com/market/stock-market-news/stock-market-today-trade-setup-for-nifty-50-to-global-markets-five-stocks-to-buy-or-sell-on-tuesday-sept-10/amp-11725937902609.html",
+     "url": "https://media.s-bol.com/Rm0z4p6jzKGO/KrV67Ll/550x534.jpg",
+     "page": "https://www.bol.com/nl/nl/p/pot-met-waterreserve-garden-id-respect-wit-30-x-30-cm-100-huishoudelijk-afval-100-recyclebaar-gestructureerd-oppervlak/9300000225234991/",
      "via": "Bing Imágenes",
-     "credit": "livemint.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Ddaj0xgq6-tjg_vri_q33QHaEK&pid=15.1"
+     "credit": "bol.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.qGT-a6cFBEp4dTn2sXQx3AHaHM&pid=15.1"
     },
     {
-     "url": "https://investorshangout.com/images/blog/4247_top-5-most-active-penny-stocks-under-5-by-price-gains-today-may-1-2024.jpg",
-     "page": "https://investorshangout.com/top-5-most-active-penny-stocks-under-5-by-price-gains-today-may-1-2024-159-/",
+     "url": "https://i.pinimg.com/originals/31/01/76/3101769db7112e04e6529ea55f8cd6eb.png",
+     "page": "https://www.pinterest.com/pin/545005992386809770/",
      "via": "Bing Imágenes",
-     "credit": "investorshangout.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GNRrvE89JdtQOse2lcyGKwHaEK&pid=15.1"
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.o8vCVvSviCP44NvIXn_ZKwHaKj&pid=15.1"
     },
     {
-     "url": "https://images.moneycontrol.com/static-mcnews/2025/01/20250118040006_stocks2.jpg?impolicy=website&width=1280&height=720",
-     "page": "https://www.moneycontrol.com/news/photos/business/stocks/top-gainers-and-losers-today-stocks-that-moved-the-most-on-january-23-12917954.html",
+     "url": "https://i.pinimg.com/originals/a8/74/28/a874282206b25f2aef2a7aedf2bad595.png",
+     "page": "https://www.pinterest.com/pin/451556300158466267/",
      "via": "Bing Imágenes",
-     "credit": "moneycontrol.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.XIFQJBEll7rtRv43EwJwmgHaEK&pid=15.1"
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.DwtLry-E9kWn_iB_biaoUQHaHa&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/DQ4mHxxYlps/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=DQ4mHxxYlps",
+     "url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fit/watermark:Kunststofplatenshop.nl/width:3840/height:2560/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/oosterhout.nieuws.store/images/2024-07/flesjes-afval.jpg@webp",
+     "page": "https://oosterhout.nieuws.nl/nieuws/nederlanders-denken-kennis-te-hebben-over-afval-scheiden-maar-dat-blijkt-niet-zo-te-zijn",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.uENDofB20oQOgEnxr9-mnwHaEK&pid=15.1"
+     "credit": "oosterhout.nieuws.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.j1-i--vZbRtZJuvRBtPV_QHaEL&pid=15.1"
     },
     {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1NZcyL.img?w=1280&h=720&m=4&q=70",
-     "page": "https://www.msn.com/en-in/money/markets/top-gainers-and-losers-today-market-movers-you-need-to-watch/ar-AA1NZvSk",
+     "url": "https://www.afvalscheidingswijzer.nl/_next/image?url=https:%2F%2Fmilieucentraal-prod-umbraco01.azurewebsites.net%2Fmedia%2F4mehjkr1%2Fglazen-fles-of-pot.jpg&w=3840&q=75",
+     "page": "https://www.afvalscheidingswijzer.nl/glas",
      "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.WGSpI_MdkNlwFhj-jzB_JgHaEK&pid=15.1"
+     "credit": "afvalscheidingswijzer.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.E2zooV8cz_BEKi98tNRWcAHaE6&pid=15.1"
     },
     {
-     "url": "https://images.moneycontrol.com/static-mcnews/2025/02/20250212081626_Stock-Market-Today-News.jpg?impolicy=website&width=770&height=431",
-     "page": "https://www.moneycontrol.com/news/business/stocks/top-gainers-and-losers-today-stocks-that-moved-the-most-on-february-27-12951992.html",
+     "url": "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/altena.nieuws.store/images/2024-07/shutterstock-2099935423.jpg",
+     "page": "https://altena.nieuws.nl/lifestyle/nederlanders-gooiden-vorig-jaar-minder-afval-weg",
      "via": "Bing Imágenes",
-     "credit": "moneycontrol.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ekYWvgiWXPHm_oN97VYV0QHaEJ&pid=15.1"
+     "credit": "altena.nieuws.nl",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bYbviejl5t4PaMMeAts10gHaEq&pid=15.1"
     },
     {
-     "url": "https://img.etimg.com/thumb/msid-125214331,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-     "page": "https://economictimes.indiatimes.com/markets/stocks/news/top-10-high-dividend-yield-stocks-in-2025-offering-returns-of-up-to-10-do-you-own-any/dividend-leaders/slideshow/125214331.cms",
+     "url": "https://storage.pubble.nl/39aff116/content/2024/9/ff33c73d-2c9a-465a-a39c-a54c5b452a2b_thumb1920.jpg",
+     "page": "https://www.brugnieuws.nl/nieuws/algemeen/316009/-verwijder-adresgegevens-van-afval-dat-je-aanbiedt-",
      "via": "Bing Imágenes",
-     "credit": "economictimes.indiatimes.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.lBMD0oo5lXCAmhNGs0cemQHaFj&pid=15.1"
+     "credit": "brugnieuws.nl",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-nvhXXxbE72QeQ_tnIZz0QHaEK&pid=15.1"
     },
     {
-     "url": "https://static01.nyt.com/images/2025/03/13/multimedia/2025-03-13-stocks-since-election-index/2025-03-13-stocks-since-election-index-videoSixteenByNine3000.png",
-     "page": "https://www.nytimes.com/2025/03/13/business/sp-500-stocks-market-correction.html",
+     "url": "https://www.greenpeace.org/static/planet4-canada-stateless/2025/03/071b4c61-gp1swpkh_pressmedia-2500px-min-1024x683.jpg",
+     "page": "https://www.greenpeace.org/canada/en/story/68656/what-is-climate-change-what-canadians-need-to-know/",
      "via": "Bing Imágenes",
-     "credit": "nytimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3zxtRNsMqaQRv8bOoXRhvwHaEL&pid=15.1"
+     "credit": "greenpeace.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.cCPYXFAAh0mm66mQJMGYSAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://1.bp.blogspot.com/-7eYACE2SYno/T3mZjpLOeEI/AAAAAAAAABM/17nhOUIi4gI/s1600/Potjiekos.jpg",
+     "page": "https://recipechefmaster.blogspot.com/2012/04/traditional-south-african-recipe.html",
+     "via": "Bing Imágenes",
+     "credit": "recipechefmaster.blogspot.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.F_klRcdIqNYuoJd8DOlmmgHaJ4&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-21T20:12:25.651482+00:00",
+   "extra_at": "2026-11-21T23:16:25.822752+00:00",
    "social": [
     {
      "fetched": "2026-11-21T22:28:25.653145+00:00",
@@ -6832,7 +7012,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 24
   },
   {
    "key": "p:yokosuka day trip",
@@ -7042,13 +7222,13 @@
      "vid": "fxghMlMmoj0",
      "title": "The NIIGATA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 1784,
+     "views": 1785,
      "likes": 22,
      "published": "2026-11-19T14:07:34+00:00",
      "official": true
     }
    ],
-   "views_total": 1784,
+   "views_total": 1785,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/fxghMlMmoj0/maxresdefault.jpg",
@@ -7356,7 +7536,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-21T23:08:25.874030+00:00",
+   "extra_at": "2026-11-21T23:16:25.822752+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -7375,7 +7555,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -7384,11 +7564,27 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://europe1.discourse-cdn.com/victron/original/3X/b/b/bb2e21d1f271bdc26ed744dcc35fc378c0b8f8dd.png",
+     "page": "https://community.victronenergy.com/t/victron-multiplus-ii-48-5000-in-split-phase-ac-in-disconnected/37807/1",
+     "via": "Bing Imágenes",
+     "credit": "community.victronenergy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ePjw-_oBbfAHbnCqHWx42QHaD_&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
-   "extra_images": [],
-   "extra_at": "2026-11-21T23:08:25.874030+00:00",
+   "extra_images": [
+    {
+     "url": "https://europe1.discourse-cdn.com/victron/original/3X/b/b/bb2e21d1f271bdc26ed744dcc35fc378c0b8f8dd.png",
+     "page": "https://community.victronenergy.com/t/victron-multiplus-ii-48-5000-in-split-phase-ac-in-disconnected/37807/1",
+     "via": "Bing Imágenes",
+     "credit": "community.victronenergy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ePjw-_oBbfAHbnCqHWx42QHaD_&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T23:16:25.822752+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -7408,7 +7604,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -7639,7 +7835,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -7688,7 +7884,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -7737,7 +7933,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T23:08:25.874030+00:00",
+   "first_seen": "2026-11-21T23:16:25.822752+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
