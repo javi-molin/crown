@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:24:17.274776+00:00",
- "count": 35,
+ "updated": "2026-11-21T17:32:17.512719+00:00",
+ "count": 36,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,10 +209,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "9f2ce9cca7159d",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
     "5611b3a0559a0e",
@@ -226,6 +227,7 @@
    "sources": [
     "24 horas on MSN",
     "24horas",
+    "El Comercio Perú",
     "El Vocero de Puerto Rico",
     "Extra",
     "Reporte Indigo",
@@ -233,8 +235,8 @@
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 9,
-   "n_sources": 8,
+   "n_items": 10,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -250,7 +252,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 28
+   "score": 31
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -265,8 +267,9 @@
    "refs": [],
    "first_seen": "2026-11-21T15:16:17.266017+00:00",
    "start": "2026-11-21T00:59:00+00:00",
-   "last_activity": "2026-11-21T16:16:00+00:00",
+   "last_activity": "2026-11-21T17:29:37+00:00",
    "item_ids": [
+    "9f2ce9cca7159d",
     "17d792a335253f",
     "cf7dd422fbdff2",
     "58ef6eca9c3748",
@@ -288,6 +291,7 @@
     "24 horas on MSN",
     "24horas",
     "AS México",
+    "El Comercio Perú",
     "El Financiero",
     "El Nuevo Día",
     "El Vocero de Puerto Rico",
@@ -297,8 +301,8 @@
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 15,
-   "n_sources": 12,
+   "n_items": 16,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -569,7 +573,303 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 42
+  },
+  {
+   "key": "t:mu:Votación:2026-11-21",
+   "id": "t-mu-votacion-2026-11-21-f318d",
+   "name": "Votación · 21–23 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Votación"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
+   "start": "2026-11-21T01:22:21+00:00",
+   "last_activity": "2026-11-21T17:26:52+00:00",
+   "item_ids": [
+    "24c5493cc7b435",
+    "fa14cce6f4edab",
+    "d598872be1bc6c",
+    "7de2b0a0e0c128"
+   ],
+   "sources": [
+    "AS Colombia",
+    "Clarin",
+    "Clarin.com"
+   ],
+   "n_items": 4,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.clarin.com/img/2026/11/19/ZMKMAXXYH_2000x1500__1.jpg",
+     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
+     "via": "Clarin",
+     "credit": "Clarin"
+    },
+    {
+     "url": "https://www.clarin.com/landings/bundles/landing/img/components/header/clarin_rojo.png?65b8340",
+     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
+     "via": "Clarin",
+     "credit": "Clarin"
+    },
+    {
+     "url": "https://imagescdn.homes.com/i2/lXQ3OVSWkgFkyhTcGhP43qBysZM7cQPwVh9sNHSEDgo/114/bayshore-elementary-school-bradenton-fl-primaryphoto.jpg?p=1",
+     "page": "https://www.homes.com/school/bradenton-fl/bayshore-elementary-school/wxcp99vrv29w3/",
+     "via": "Bing Imágenes",
+     "credit": "homes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-qeaO3b82c_EiSS-ffm9LwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://d2rzw8waxoxhv2.cloudfront.net/featured/xlarge/bes34207/1562963948803-736-43.jpg",
+     "page": "https://www.facilitron.com/bes34207",
+     "via": "Bing Imágenes",
+     "credit": "facilitron.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1iwIrlEuLqNqMy7e25S6iAHaC8&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1117873540357658",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.5dNRAhqqM9C9e6L8gz9gjwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.bradenton.com/public/latest-news/tthyjz/picture285104342/alternates/LANDSCAPE_1140/bayshore elementary sign tt.jpg",
+     "page": "https://www.bradenton.com/news/local/crime/article284996842.html",
+     "via": "Bing Imágenes",
+     "credit": "bradenton.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.XfbkYcUFGEiaOX-7I57pqgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/L7QSrTRQX6Q/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=L7QSrTRQX6Q",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.abCuwf87KYnaIvhxDJSETgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://3.files.edl.io/311f/17/06/02/014832-fa2d2fec-ef4e-440b-b9f2-5e6063bd0c0b",
+     "page": "https://bse.lpisd.org/",
+     "via": "Bing Imágenes",
+     "credit": "bse.lpisd.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ERExJHv-_XxGq0n_XlVoYAHaCC&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bu4KsJq-Jdg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bu4KsJq-Jdg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.yjXMgdm-Gidnn1q0qo8CZAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/reel/Df5breusyDX"
+   ],
+   "image_query": "Miss Universe 2026 vote",
+   "extra_images": [
+    {
+     "url": "https://imagescdn.homes.com/i2/lXQ3OVSWkgFkyhTcGhP43qBysZM7cQPwVh9sNHSEDgo/114/bayshore-elementary-school-bradenton-fl-primaryphoto.jpg?p=1",
+     "page": "https://www.homes.com/school/bradenton-fl/bayshore-elementary-school/wxcp99vrv29w3/",
+     "via": "Bing Imágenes",
+     "credit": "homes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.-qeaO3b82c_EiSS-ffm9LwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://d2rzw8waxoxhv2.cloudfront.net/featured/xlarge/bes34207/1562963948803-736-43.jpg",
+     "page": "https://www.facilitron.com/bes34207",
+     "via": "Bing Imágenes",
+     "credit": "facilitron.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1iwIrlEuLqNqMy7e25S6iAHaC8&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1117873540357658",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.5dNRAhqqM9C9e6L8gz9gjwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.bradenton.com/public/latest-news/tthyjz/picture285104342/alternates/LANDSCAPE_1140/bayshore elementary sign tt.jpg",
+     "page": "https://www.bradenton.com/news/local/crime/article284996842.html",
+     "via": "Bing Imágenes",
+     "credit": "bradenton.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.XfbkYcUFGEiaOX-7I57pqgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=586103242987663",
+     "page": "https://www.facebook.com/ManateeAcademy/photos/a.3259790940971951/3259788910972154/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.gSh3DcWW10nitzvdmTxXnQHaDB&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/L7QSrTRQX6Q/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=L7QSrTRQX6Q",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.abCuwf87KYnaIvhxDJSETgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://3.files.edl.io/311f/17/06/02/014832-fa2d2fec-ef4e-440b-b9f2-5e6063bd0c0b",
+     "page": "https://bse.lpisd.org/",
+     "via": "Bing Imágenes",
+     "credit": "bse.lpisd.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ERExJHv-_XxGq0n_XlVoYAHaCC&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bu4KsJq-Jdg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bu4KsJq-Jdg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.yjXMgdm-Gidnn1q0qo8CZAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1122734669871545",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.jyVDwXy2UvzH5wT30Y0SIAHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1161942259284119",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.USMP7Qb9wsKHdp8I9jaDCQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1160321479446197",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.mX_26CP0WqoriUavjoPLdwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1234728155365848",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.DhBfjLthH6NFWDjBMYkCdQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1117873727024306",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Kaw8pVO1mxEiJHMoDaMPLQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1394019976103331",
+     "page": "https://www.facebook.com/BayshoreES/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.g--oEFczcTeV8fMyaLqxxAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-21T17:32:17.512719+00:00",
+     "url": "https://www.instagram.com/reel/Df5breusyDX",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 10
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -578,8 +878,7 @@
    "contest": "mu",
    "kind": "evento oficial",
    "labels": [
-    "Desfile de moda",
-    "Traje de baño"
+    "Desfile de moda"
    ],
    "desc": "Desfile de moda oficial del 75° aniversario con 27 diseñadores de Puerto Rico. Animadora: Monic Pérez.",
    "refs": [
@@ -602,7 +901,6 @@
     "95eb2987d55ef3",
     "2540479892f808",
     "fa46d82dea60e1",
-    "d586be74cea1d3",
     "62daec4b9e8652",
     "1508ca8f5968b8",
     "cb6c1e3b74641c"
@@ -623,23 +921,31 @@
     "YouTube · Miss Universe",
     "news.com.au"
    ],
-   "n_items": 17,
+   "n_items": 16,
    "n_sources": 14,
    "videos": [
     {
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 858242,
+     "views": 857950,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
     },
     {
-     "vid": "IkSy-bS-uIY",
-     "title": "Miss Universe 2026 runway to the universe full show ",
-     "channel": "Ron Nasis",
-     "views": 110943,
+     "vid": "pGGyoBglgfA",
+     "title": "Top 20 Best in Runway to the Universe | Miss Universe 2026 ",
+     "channel": "The Crowning Quest",
+     "views": 172135,
+     "ago": "hace 3 días",
+     "official": false
+    },
+    {
+     "vid": "DiAKzUWOe5U",
+     "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
+     "channel": "Miss Universe Predictions",
+     "views": 57635,
      "ago": "hace 3 días",
      "official": false
     },
@@ -647,7 +953,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23611,
+     "views": 23542,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -656,13 +962,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3573,
+     "views": 3454,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 996369,
+   "views_total": 1114716,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -686,11 +992,18 @@
      "credit": "Miss Universe"
     },
     {
-     "url": "https://i.ytimg.com/vi/IkSy-bS-uIY/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/IkSy-bS-uIY/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=IkSy-bS-uIY",
+     "url": "https://i.ytimg.com/vi/DiAKzUWOe5U/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/DiAKzUWOe5U/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=DiAKzUWOe5U",
      "via": "YouTube (miniatura)",
-     "credit": "Ron Nasis"
+     "credit": "Miss Universe Predictions"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/pGGyoBglgfA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/pGGyoBglgfA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pGGyoBglgfA",
+     "via": "YouTube (miniatura)",
+     "credit": "The Crowning Quest"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
@@ -717,30 +1030,6 @@
      "credit": "Yahoo"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/866074c6d5e8404114e1f49c014a77d3cd1a1617916ec893e639d267239f41df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/911ae41b1e8f90f27ce3daab1bddbd73d4118ba73c394e407580edc8ae929727/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/8f3c9d64d8aa8adf0c25a35eea0854b538d382ba16507aa806e50c432828e7fb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fcf9fd1ec773db0d725f677a31a11b944.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/0384d025b3a7002dbdd70601e91d7370dc5d7debd73d48d4f20e04ca2f758d23/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Ffd439e0d3d322285e66fe9c27b4a3b7f.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
      "via": "Wikimedia Commons",
@@ -763,7 +1052,6 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DftNmIYDUc8",
     "https://www.youtube.com/watch?v=qrR9b5-ymD0"
    ],
    "image_query": "Runway to the Universe Miss Universe 2026",
@@ -794,11 +1082,6 @@
    "social": [
     {
      "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.instagram.com/p/DftNmIYDUc8",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
      "url": "https://www.youtube.com/watch?v=qrR9b5-ymD0",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/qrR9b5-ymD0/hqdefault.jpg",
@@ -811,7 +1094,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 97
+   "score": 102
   },
   {
    "key": "p:unlock coronation night",
@@ -847,13 +1130,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 472,
+     "views": 482,
      "likes": 5,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1156,
+   "views_total": 1166,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -873,7 +1156,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-21T17:24:17.274776+00:00",
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -882,6 +1165,365 @@
     "shares": 0
    },
    "score": 6
+  },
+  {
+   "key": "seed:voto-top30",
+   "id": "voto-top30",
+   "name": "Voto del público: pase directo al Top 30",
+   "contest": "mu",
+   "kind": "campaña oficial",
+   "labels": [
+    "Votación"
+   ],
+   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
+   "refs": [
+    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
+   ],
+   "first_seen": "2026-11-19T01:48:18.895698+00:00",
+   "start": "2026-10-16",
+   "last_activity": "2026-11-21T09:26:00+00:00",
+   "item_ids": [
+    "fa14cce6f4edab",
+    "72ebb2f2494c4d",
+    "eb80f8dd20cf22",
+    "40644443633c5a",
+    "c0c443951dab4b",
+    "fec78f9471594a",
+    "1a434b1b50e5dd",
+    "fe7f3035c4345d",
+    "01d3bf65e146db",
+    "9023167c3eb613",
+    "f69af883d082fa",
+    "dc40137b464b1c",
+    "636ec206b737c2",
+    "4f72b4abf4d0aa",
+    "4e47637f125087",
+    "d4828ee31d2fca",
+    "1a131329873ee2",
+    "38868bd2b4f584",
+    "ee65ad9a2bec6f",
+    "fb89a22c6d9c86",
+    "8bc10ca0d38b7b",
+    "890b20fb345223",
+    "4b0480a32b4035"
+   ],
+   "sources": [
+    "AS Colombia",
+    "AS México",
+    "Banglanews24",
+    "Clarin",
+    "Diario Extra",
+    "El Boyaldía",
+    "El MorroCotudo",
+    "El Observatodo",
+    "El Universo",
+    "TV Azteca",
+    "YouTube · Miss Universe",
+    "elamaule.cl",
+    "elconcecuente.cl",
+    "elnaveghable.cl",
+    "elrepuertero.cl",
+    "oncenoticias.hn",
+    "www.daily-sun.com"
+   ],
+   "n_items": 23,
+   "n_sources": 17,
+   "videos": [
+    {
+     "vid": "uPB2RsdQoWA",
+     "title": "Biggest voting jumps! Miss Universe 2026",
+     "channel": "Miss Universe",
+     "views": 19661,
+     "likes": 0,
+     "published": "2026-11-20T01:38:00+00:00",
+     "official": true
+    },
+    {
+     "vid": "4nT1YmRnImQ",
+     "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
+     "channel": "Miss Universe",
+     "views": 18669,
+     "likes": 0,
+     "published": "2026-11-18T23:26:58+00:00",
+     "official": true
+    },
+    {
+     "vid": "iqRaY9ALzNc",
+     "title": "VOTE NOW!",
+     "channel": "Miss Universe",
+     "views": 8243,
+     "likes": 0,
+     "published": "2026-11-19T01:28:43+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 46573,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/iqRaY9ALzNc/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=iqRaY9ALzNc",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/4nT1YmRnImQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/4nT1YmRnImQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=4nT1YmRnImQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/uPB2RsdQoWA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uPB2RsdQoWA",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://www.clarin.com/img/2026/11/19/ZMKMAXXYH_2000x1500__1.jpg",
+     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
+     "via": "Clarin",
+     "credit": "Clarin"
+    },
+    {
+     "url": "https://www.clarin.com/landings/bundles/landing/img/components/header/clarin_rojo.png?65b8340",
+     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
+     "via": "Clarin",
+     "credit": "Clarin"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/76FQB575Q5CCTMELLDCSJ32XPM.jpg?auth=75987e2da57cc39d0bbf2c3cdfacee58b56dd963e8b87c83f4f70f7ef7dbace5&width=1472&height=828&smart=true",
+     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
+     "via": "AS Colombia",
+     "credit": "AS Colombia"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/UBFTOFLTSRF4HPLVIF2F6FWI4I.jpg?auth=6ed1fb5e3b5d8eb5e9ae7e4111f34ef9eb245c4b0e39ea32040c2069871522dc&width=240&height=240&smart=true",
+     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
+     "via": "AS Colombia",
+     "credit": "AS Colombia"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/K4X5DTMJZ5OKHMBE3K2D5RPJ44.jpg?auth=1ddfe370cd8f7aa096fd68e85bc47b39f24ebabe095d6f4374027cfd2bba64f3&width=240&height=240&smart=true",
+     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
+     "via": "AS Colombia",
+     "credit": "AS Colombia"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.pxOJa7R0YSUhcELtHuvpcg&pid=News",
+     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
+     "via": "Bing (miniatura)",
+     "credit": "AS Colombia"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=1008&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/KYAUXZVK4ZEIPN6UZVL7OTZKAU.jpg?auth=b0abf107e30632dd9b61dd47d28a2e25026586ab9a360fbf23d12dd1380d394e&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/UNCLCPIZQBDPTBWVC6T36UWAQ4.jpg?auth=8d55875cd2a0cfce764c20ae22907efb4cf9c7ff4d07faa71efe67198cf31cd7&width=1472&height=828&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdiarioas%2F2d05b810-fc20-4638-9dd4-8c787570df97.png?auth=e7100c202409d6bf7adec24dfdf304481d571ba1bf2b0c49e168fc7a35bf9f84&width=148&height=148&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/6I46DO6GSVDBZLCJHMXRKZ6AOQ.png?auth=8fc918e9b616bbe38069b082fa755b4fd6add7a8e0739d4c1eb8cf71a6e72b72&width=375",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/AINSOVIA6VA63IYW45CUPJMR2I.jpg?auth=ca475e7af16cd8ba252667ca00425ea1164dabaed6622d741fa1533d367aa3f3&width=240&height=240&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/SV7SHV6D65GPTKIGEY2INTCEJU.jpg?auth=8dc01eaa007f99fde195a69ca9e03633db295acce738ee93d81905f032e06dc3&width=240&height=240&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/563WAIRYCJD23O4HQ7RTIULKWY.jpg?auth=543e704260c0831e897ee39e904607c911c0ea70efd2413fbe224dd93f406356&width=244&height=174&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/W4W7R3AS3FC4VIGHU6Q2XAWMOA.jpg?auth=cb1e1a20e76cbca0f39d727797e9f97dc1366bd239b564bf2cc95e9156a0e905&width=105&height=105&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/IZEESM7YPNH3VOMAOCH2K3AU5A.jpg?auth=3335ef369eb0e844bd2c6a4b566e2187149bb91e26f5708e08616e0c4576f4b1&width=105&height=105&smart=true",
+     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
+     "via": "AS México",
+     "credit": "AS México"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Df-jagHBWxD",
+    "https://www.instagram.com/p/Df5mKppoHee",
+    "https://www.instagram.com/p/Df5yDxMGqRG",
+    "https://www.instagram.com/p/Df6OjdYID2Q",
+    "https://www.instagram.com/reel/Df5breusyDX",
+    "https://www.instagram.com/reel/Df8DXFlPK3l"
+   ],
+   "image_query": "Miss Universe 2026 vote top 30",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-21T15:16:17.266017+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-21T17:16:18.102790+00:00",
+     "url": "https://www.instagram.com/p/Df-jagHBWxD",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-21T17:08:17.724927+00:00",
+     "url": "https://www.instagram.com/p/Df5mKppoHee",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-21T17:08:17.724927+00:00",
+     "url": "https://www.instagram.com/p/Df5yDxMGqRG",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-21T16:52:17.956087+00:00",
+     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-21T17:32:17.512719+00:00",
+     "url": "https://www.instagram.com/reel/Df5breusyDX",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-21T17:16:18.102790+00:00",
+     "url": "https://www.instagram.com/reel/Df8DXFlPK3l",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 62
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -1496,7 +2138,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T16:28:17.744253+00:00",
+     "fetched": "2026-11-21T17:32:17.512719+00:00",
      "url": "https://www.instagram.com/p/Df7q7n_llAo",
      "platform": "Instagram"
     },
@@ -1541,7 +2183,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-18T10:58:00+00:00",
+   "start": "2026-11-18T11:30:00+00:00",
    "last_activity": "2026-11-20T22:47:00+00:00",
    "item_ids": [
     "c90ebbe5a0d3b9",
@@ -1570,14 +2212,12 @@
     "119095a6bc800c",
     "0889904485f8c1",
     "092c25e040beae",
-    "3e1d9cacc1dbcf",
-    "c80f64ff23c15b"
+    "3e1d9cacc1dbcf"
    ],
    "sources": [
     "ABS-CBN on MSN",
     "Diario AS",
     "El Nortero",
-    "El Nuevo Día",
     "El Observatodo",
     "El Universo",
     "El Vocero de Puerto Rico",
@@ -1595,20 +2235,20 @@
     "YouTube · Telemundo Entretenimiento",
     "www.elmorrocotudo.cl"
    ],
-   "n_items": 28,
-   "n_sources": 20,
+   "n_items": 27,
+   "n_sources": 19,
    "videos": [
     {
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2222,
+     "views": 2227,
      "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2222,
+   "views_total": 2227,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -1971,7 +2611,7 @@
      "alt": "https://ts1.mm.bing.net/th?id=OIF.8%2f8fJKt9cHWBwNwneiyI3g&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-21T14:28:17.944384+00:00",
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [
     {
      "fetched": "2026-11-21T17:00:17.918928+00:00",
@@ -1989,7 +2629,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T16:28:17.744253+00:00",
+     "fetched": "2026-11-21T17:32:17.512719+00:00",
      "url": "https://www.instagram.com/p/Df2X4lfsgqi",
      "platform": "Instagram"
     },
@@ -2055,7 +2695,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 71
+   "score": 68
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -2109,13 +2749,13 @@
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2222,
+     "views": 2227,
      "likes": 59,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2222,
+   "views_total": 2227,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -2270,102 +2910,102 @@
      "credit": "El Vocero de Puerto Rico"
     },
     {
-     "url": "https://i.ytimg.com/vi/ADluUl95prk/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ADluUl95prk",
+     "url": "https://wallpapercave.com/wp/wp5736153.png",
+     "page": "https://wallpapercave.com/haikyuu-desktop-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.HWo2ofhIYcZ-XhDRqi_O_AHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.mepCb-hHvWRwc8GjoElgCgHaEK&pid=15.1"
     },
     {
-     "url": "https://media.gettyimages.com/id/1444377049/photo/mexico-city-mexico-fred-warner-of-the-san-francisco-49ers-take-the-field-before-the-game.jpg?s=612x612&w=gi&k=20&c=5rNDn5hTX0dBB50CL6u6ADaX_8dE9cDHUwI654hL0xU=",
-     "page": "https://www.gettyimages.com/photos/san-francisco-49ers-v-arizona-cardinals-in-mexico",
+     "url": "https://wallpapercave.com/wp/wp15656710.jpg",
+     "page": "https://wallpapercave.com/haikyuu-4k-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "gettyimages.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LdCanhWV2Jn7YwFsEUbplQAAAA&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.029jWliMC5bibGWB11JqGQHaEK&pid=15.1"
     },
     {
-     "url": "https://c8.alamy.com/comp/2Y73698/san-francisco-49ers-linebacker-fred-warner-54-wears-a-mexican-flag-decal-on-his-helmet-during-an-nfl-football-game-between-the-los-angeles-rams-and-the-san-francisco-49ers-sunday-sept-22-2024-in-inglewood-calif-ap-photokyusung-gong-2Y73698.jpg",
-     "page": "https://www.alamy.com/san-francisco-49ers-linebacker-fred-warner-54-wears-a-mexican-flag-decal-on-his-helmet-during-an-nfl-football-game-between-the-los-angeles-rams-and-the-san-francisco-49ers-sunday-sept-22-2024-in-inglewood-calif-ap-photokyusung-gong-image623946660.html",
+     "url": "https://wallpaperaccess.com/full/2263017.jpg",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.fXpPRF2bLYAybSTL5pGZ9wHaFc&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZEDkaIL-zWR30NaDacRJ-QHaEo&pid=15.1"
     },
     {
-     "url": "https://i.etsystatic.com/56009511/r/il/7625b1/7558781639/il_794xN.7558781639_8g6w.jpg",
-     "page": "https://www.etsy.com/listing/4424808724/fred-warner-54-mexico-flag-patch-limited",
+     "url": "https://wallpapercave.com/wp/wp5428315.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.7saFEHqnH3xqKpMhyNVYgAHaJG&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.yuIgj43kqufEYOs9Yi8odQHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/j_DE00IUBww/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBWKC0wDw==&rs=AOn4CLB9jCT8lhrnzEW_T0uwZTFI3H_CFA",
-     "page": "https://www.youtube.com/shorts/j_DE00IUBww",
+     "url": "https://wallpapercave.com/wp/wp5223199.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JkXgQop6O_Qv0mxQPUx5dgHaFj&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.WT8Y9ymWwE_15TG-OIOHBgHaEK&pid=15.1"
     },
     {
-     "url": "https://www.elfinanciero.com.mx/resizer/dHdufN0QTev2a6EKS_5a2y338vI=/1600x0/filters:format(jpg):quality(70):focal(683x167:693x177)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TG6P27FO7NHTTCRUEWTWSZ5XPI.jpg",
-     "page": "https://www.foxsports.com.mx/2022/10/05/por-que-jugadores-y-staff-de-nfl-portan-banderas-de-varios-paises-como-mexico/",
+     "url": "https://wallpapercave.com/wp/wp5457390.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "foxsports.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.CHy14a6wdQxoYVLA3TnVNwHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dzRMY6zBKlRhTdElhSzi_wHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/kXmPB2TppIU/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=kXmPB2TppIU",
+     "url": "https://wallpapercave.com/wp/wp7072581.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.k4vz1oKefuM3PpR827_XOwHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.vBpHHgTCNQULz7uFIxI_3gHaEK&pid=15.1"
     },
     {
-     "url": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/Cr4HYOoOECQ/0/image.jpg",
-     "page": "https://www.instagram.com/49ersfamilia/",
+     "url": "https://wallpaperaccess.com/full/412204.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "instagram.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.P2gZBA1TcZZCbWWlYS4FJwHaNK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.FXcSSEeav4Vk77MyoN3XqgHaEK&pid=15.1"
     },
     {
-     "url": "https://i.etsystatic.com/56009511/r/il/881385/7510841778/il_794xN.7510841778_5wvl.jpg",
-     "page": "https://www.etsy.com/listing/4424808724/fred-warner-54-mexico-flag-patch-limited",
+     "url": "https://image7.uhdpaper.com/wallpaper/haikyuu-shoyo-hinata-uhdpaper.com-4K-7.2825.jpg",
+     "page": "https://www.uhdpaper.com/2020/08/haikyuu-shoyo-hinata-4k-72825.html",
      "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7poJoLOZ67tyeAljIWnN3QHaIJ&pid=15.1"
+     "credit": "uhdpaper.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.syi_PBSRJ9YqfjG6oSQ8-QHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/8HveyjMcvgo/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8HveyjMcvgo",
+     "url": "https://wallpaperaccess.com/full/4320405.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.xqwYKeKSxWPbukP32KUMPAHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Izyz1qw2U-l8QTPaxxXMHQHaE7&pid=15.1"
     },
     {
-     "url": "https://s.hdnux.com/photos/01/30/33/75/23183206/3/1200x0.jpg",
-     "page": "https://www.sfchronicle.com/sports/annkillion/article/49ers-fred-warner-mexico-city-17596153.php",
+     "url": "https://wallpapercave.com/wp/wp10085309.jpg",
+     "page": "https://wallpapercave.com/4k-haikyuu-anime-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "sfchronicle.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DSAEdHTgkXwYOqvy--y4cQHaFs&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dxYgcx3H4RqNk50DJ_1YhwHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/ChBRiNqOkR8/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ChBRiNqOkR8",
+     "url": "https://wallpaperaccess.com/full/4133469.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.2sweS0C0GxDqyvMyb4PZNQHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cTCgcX_h1_Ow4yzQj7SEcAHaEK&pid=15.1"
     },
     {
-     "url": "https://phantom-marca-us.unidadeditorial.es/db555b43a95ccdf9a326e0088955b16c/resize/1320/f/jpg/assets/multimedia/imagenes/2024/01/29/17065059740577.jpg",
-     "page": "https://us.marca.com/nfl/super-bowl/2024/01/29/65b7347c268e3e6d6f8b459f.html",
+     "url": "https://images2.alphacoders.com/747/thumb-1920-747570.png",
+     "page": "https://aestheticarena.com/haikyuu-4k-desktop-wallpaper/",
      "via": "Bing Imágenes",
-     "credit": "us.marca.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ysRDwYZG4ixfMHQ3-UhkBwHaE8&pid=15.1"
+     "credit": "aestheticarena.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dg7b2FgeJtSMIIkzEFJhvAHaEK&pid=15.1"
     },
     {
-     "url": "https://media.nbcsportsbayarea.com/2024/10/GettyImages-1444376398.jpg?quality=85&strip=all&crop=0px%2C1410px%2C3648px%2C2051px&resize=1200%2C675",
-     "page": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/fred-warner-hispanic-heritage-nfl/1793369/",
+     "url": "https://wallpaperaccess.com/full/3869133.jpg",
+     "page": "https://wallpaperaccess.com/haikyuu-pc",
      "via": "Bing Imágenes",
-     "credit": "nbcsportsbayarea.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.i8yO6WLQdlfbsNomaqNKrwHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.Wock20yL99580LO6YP4nOAHaEo&pid=15.1"
     }
    ],
    "social_urls": [
@@ -2375,105 +3015,105 @@
    "image_query": "Miss Universe 2026 rehearsal",
    "extra_images": [
     {
-     "url": "https://i.ytimg.com/vi/ADluUl95prk/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ADluUl95prk",
+     "url": "https://wallpapercave.com/wp/wp5736153.png",
+     "page": "https://wallpapercave.com/haikyuu-desktop-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.HWo2ofhIYcZ-XhDRqi_O_AHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.mepCb-hHvWRwc8GjoElgCgHaEK&pid=15.1"
     },
     {
-     "url": "https://media.gettyimages.com/id/1444377049/photo/mexico-city-mexico-fred-warner-of-the-san-francisco-49ers-take-the-field-before-the-game.jpg?s=612x612&w=gi&k=20&c=5rNDn5hTX0dBB50CL6u6ADaX_8dE9cDHUwI654hL0xU=",
-     "page": "https://www.gettyimages.com/photos/san-francisco-49ers-v-arizona-cardinals-in-mexico",
+     "url": "https://wallpapercave.com/wp/wp15656710.jpg",
+     "page": "https://wallpapercave.com/haikyuu-4k-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "gettyimages.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LdCanhWV2Jn7YwFsEUbplQAAAA&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.029jWliMC5bibGWB11JqGQHaEK&pid=15.1"
     },
     {
-     "url": "https://c8.alamy.com/comp/2Y73698/san-francisco-49ers-linebacker-fred-warner-54-wears-a-mexican-flag-decal-on-his-helmet-during-an-nfl-football-game-between-the-los-angeles-rams-and-the-san-francisco-49ers-sunday-sept-22-2024-in-inglewood-calif-ap-photokyusung-gong-2Y73698.jpg",
-     "page": "https://www.alamy.com/san-francisco-49ers-linebacker-fred-warner-54-wears-a-mexican-flag-decal-on-his-helmet-during-an-nfl-football-game-between-the-los-angeles-rams-and-the-san-francisco-49ers-sunday-sept-22-2024-in-inglewood-calif-ap-photokyusung-gong-image623946660.html",
+     "url": "https://wallpaperaccess.com/full/2263017.jpg",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.fXpPRF2bLYAybSTL5pGZ9wHaFc&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZEDkaIL-zWR30NaDacRJ-QHaEo&pid=15.1"
     },
     {
-     "url": "https://i.etsystatic.com/56009511/r/il/7625b1/7558781639/il_794xN.7558781639_8g6w.jpg",
-     "page": "https://www.etsy.com/listing/4424808724/fred-warner-54-mexico-flag-patch-limited",
+     "url": "https://wallpapercave.com/wp/wp5428315.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.7saFEHqnH3xqKpMhyNVYgAHaJG&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.yuIgj43kqufEYOs9Yi8odQHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/j_DE00IUBww/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYciBWKC0wDw==&rs=AOn4CLB9jCT8lhrnzEW_T0uwZTFI3H_CFA",
-     "page": "https://www.youtube.com/shorts/j_DE00IUBww",
+     "url": "https://wallpapercave.com/wp/wp5223199.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JkXgQop6O_Qv0mxQPUx5dgHaFj&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.WT8Y9ymWwE_15TG-OIOHBgHaEK&pid=15.1"
     },
     {
-     "url": "https://www.elfinanciero.com.mx/resizer/dHdufN0QTev2a6EKS_5a2y338vI=/1600x0/filters:format(jpg):quality(70):focal(683x167:693x177)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TG6P27FO7NHTTCRUEWTWSZ5XPI.jpg",
-     "page": "https://www.foxsports.com.mx/2022/10/05/por-que-jugadores-y-staff-de-nfl-portan-banderas-de-varios-paises-como-mexico/",
+     "url": "https://wallpapercave.com/wp/wp5457390.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "foxsports.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.CHy14a6wdQxoYVLA3TnVNwHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dzRMY6zBKlRhTdElhSzi_wHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/kXmPB2TppIU/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=kXmPB2TppIU",
+     "url": "https://wallpapercave.com/wp/wp7072581.jpg",
+     "page": "https://wallpapercave.com/haikyuu-pc-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.k4vz1oKefuM3PpR827_XOwHaEK&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.vBpHHgTCNQULz7uFIxI_3gHaEK&pid=15.1"
     },
     {
-     "url": "https://lookaside.fbsbx.com/lookaside/crawler/instagram/Cr4HYOoOECQ/0/image.jpg",
-     "page": "https://www.instagram.com/49ersfamilia/",
+     "url": "https://wallpaperaccess.com/full/412204.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "instagram.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.P2gZBA1TcZZCbWWlYS4FJwHaNK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.FXcSSEeav4Vk77MyoN3XqgHaEK&pid=15.1"
     },
     {
-     "url": "https://i.etsystatic.com/56009511/r/il/881385/7510841778/il_794xN.7510841778_5wvl.jpg",
-     "page": "https://www.etsy.com/listing/4424808724/fred-warner-54-mexico-flag-patch-limited",
+     "url": "https://image7.uhdpaper.com/wallpaper/haikyuu-shoyo-hinata-uhdpaper.com-4K-7.2825.jpg",
+     "page": "https://www.uhdpaper.com/2020/08/haikyuu-shoyo-hinata-4k-72825.html",
      "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7poJoLOZ67tyeAljIWnN3QHaIJ&pid=15.1"
+     "credit": "uhdpaper.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.syi_PBSRJ9YqfjG6oSQ8-QHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/8HveyjMcvgo/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8HveyjMcvgo",
+     "url": "https://wallpaperaccess.com/full/4320405.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.xqwYKeKSxWPbukP32KUMPAHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Izyz1qw2U-l8QTPaxxXMHQHaE7&pid=15.1"
     },
     {
-     "url": "https://s.hdnux.com/photos/01/30/33/75/23183206/3/1200x0.jpg",
-     "page": "https://www.sfchronicle.com/sports/annkillion/article/49ers-fred-warner-mexico-city-17596153.php",
+     "url": "https://wallpapercave.com/wp/wp10085309.jpg",
+     "page": "https://wallpapercave.com/4k-haikyuu-anime-wallpapers",
      "via": "Bing Imágenes",
-     "credit": "sfchronicle.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DSAEdHTgkXwYOqvy--y4cQHaFs&pid=15.1"
+     "credit": "wallpapercave.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dxYgcx3H4RqNk50DJ_1YhwHaEK&pid=15.1"
     },
     {
-     "url": "https://i.ytimg.com/vi/ChBRiNqOkR8/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ChBRiNqOkR8",
+     "url": "https://wallpaperaccess.com/full/4133469.png",
+     "page": "https://wallpaperaccess.com/haikyuu-4k",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.2sweS0C0GxDqyvMyb4PZNQHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cTCgcX_h1_Ow4yzQj7SEcAHaEK&pid=15.1"
     },
     {
-     "url": "https://phantom-marca-us.unidadeditorial.es/db555b43a95ccdf9a326e0088955b16c/resize/1320/f/jpg/assets/multimedia/imagenes/2024/01/29/17065059740577.jpg",
-     "page": "https://us.marca.com/nfl/super-bowl/2024/01/29/65b7347c268e3e6d6f8b459f.html",
+     "url": "https://images2.alphacoders.com/747/thumb-1920-747570.png",
+     "page": "https://aestheticarena.com/haikyuu-4k-desktop-wallpaper/",
      "via": "Bing Imágenes",
-     "credit": "us.marca.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ysRDwYZG4ixfMHQ3-UhkBwHaE8&pid=15.1"
+     "credit": "aestheticarena.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.dg7b2FgeJtSMIIkzEFJhvAHaEK&pid=15.1"
     },
     {
-     "url": "https://media.nbcsportsbayarea.com/2024/10/GettyImages-1444376398.jpg?quality=85&strip=all&crop=0px%2C1410px%2C3648px%2C2051px&resize=1200%2C675",
-     "page": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/fred-warner-hispanic-heritage-nfl/1793369/",
+     "url": "https://wallpaperaccess.com/full/3869133.jpg",
+     "page": "https://wallpaperaccess.com/haikyuu-pc",
      "via": "Bing Imágenes",
-     "credit": "nbcsportsbayarea.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.i8yO6WLQdlfbsNomaqNKrwHaEK&pid=15.1"
+     "credit": "wallpaperaccess.com",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.Wock20yL99580LO6YP4nOAHaEo&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-21T14:28:17.944384+00:00",
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [
     {
      "fetched": "2026-11-21T16:36:17.878291+00:00",
@@ -2506,7 +3146,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T17:15:42.442563+00:00",
-   "start": "2026-11-18T10:58:00+00:00",
+   "start": "2026-11-18T11:30:00+00:00",
    "last_activity": "2026-11-20T19:52:09+00:00",
    "item_ids": [
     "20be2d9e5de105",
@@ -2538,7 +3178,6 @@
     "092c25e040beae",
     "dd17c8ae47572c",
     "3e1d9cacc1dbcf",
-    "c80f64ff23c15b",
     "d1478f2502c0a2",
     "9e33a6ed2c9e3b",
     "16273c7199443d",
@@ -2557,7 +3196,6 @@
     "Diario Las Américas",
     "El Heraldo",
     "El Nortero",
-    "El Nuevo Día",
     "El Observatodo",
     "El Universo",
     "El Vocero de Puerto Rico",
@@ -2580,8 +3218,8 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 41,
-   "n_sources": 27,
+   "n_items": 40,
+   "n_sources": 26,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2876,7 +3514,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T16:28:17.744253+00:00",
+     "fetched": "2026-11-21T17:32:17.512719+00:00",
      "url": "https://www.instagram.com/p/Df2X4lfsgqi",
      "platform": "Instagram"
     },
@@ -2962,7 +3600,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 95
+   "score": 92
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-18",
@@ -2997,13 +3635,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23611,
+     "views": 23542,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23611,
+   "views_total": 23542,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -3116,345 +3754,6 @@
     "shares": 0
    },
    "score": 16
-  },
-  {
-   "key": "seed:voto-top30",
-   "id": "voto-top30",
-   "name": "Voto del público: pase directo al Top 30",
-   "contest": "mu",
-   "kind": "campaña oficial",
-   "labels": [
-    "Votación"
-   ],
-   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
-   "refs": [
-    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
-   ],
-   "first_seen": "2026-11-19T01:48:18.895698+00:00",
-   "start": "2026-10-16",
-   "last_activity": "2026-11-20T18:42:15+00:00",
-   "item_ids": [
-    "72ebb2f2494c4d",
-    "eb80f8dd20cf22",
-    "40644443633c5a",
-    "c0c443951dab4b",
-    "fec78f9471594a",
-    "1a434b1b50e5dd",
-    "fe7f3035c4345d",
-    "01d3bf65e146db",
-    "9023167c3eb613",
-    "f69af883d082fa",
-    "dc40137b464b1c",
-    "636ec206b737c2",
-    "4f72b4abf4d0aa",
-    "4e47637f125087",
-    "d4828ee31d2fca",
-    "1a131329873ee2",
-    "38868bd2b4f584",
-    "ee65ad9a2bec6f",
-    "fb89a22c6d9c86",
-    "8bc10ca0d38b7b",
-    "890b20fb345223",
-    "4b0480a32b4035"
-   ],
-   "sources": [
-    "AS Colombia",
-    "AS México",
-    "Banglanews24",
-    "Diario Extra",
-    "El Boyaldía",
-    "El MorroCotudo",
-    "El Observatodo",
-    "El Universo",
-    "TV Azteca",
-    "YouTube · Miss Universe",
-    "elamaule.cl",
-    "elconcecuente.cl",
-    "elnaveghable.cl",
-    "elrepuertero.cl",
-    "oncenoticias.hn",
-    "www.daily-sun.com"
-   ],
-   "n_items": 22,
-   "n_sources": 16,
-   "videos": [
-    {
-     "vid": "uPB2RsdQoWA",
-     "title": "Biggest voting jumps! Miss Universe 2026",
-     "channel": "Miss Universe",
-     "views": 19695,
-     "likes": 0,
-     "published": "2026-11-20T01:38:00+00:00",
-     "official": true
-    },
-    {
-     "vid": "4nT1YmRnImQ",
-     "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
-     "channel": "Miss Universe",
-     "views": 18691,
-     "likes": 0,
-     "published": "2026-11-18T23:26:58+00:00",
-     "official": true
-    },
-    {
-     "vid": "iqRaY9ALzNc",
-     "title": "VOTE NOW!",
-     "channel": "Miss Universe",
-     "views": 8253,
-     "likes": 0,
-     "published": "2026-11-19T01:28:43+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 46639,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/iqRaY9ALzNc/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=iqRaY9ALzNc",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/4nT1YmRnImQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/4nT1YmRnImQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=4nT1YmRnImQ",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/uPB2RsdQoWA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=uPB2RsdQoWA",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/76FQB575Q5CCTMELLDCSJ32XPM.jpg?auth=75987e2da57cc39d0bbf2c3cdfacee58b56dd963e8b87c83f4f70f7ef7dbace5&width=1472&height=828&smart=true",
-     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
-     "via": "AS Colombia",
-     "credit": "AS Colombia"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/UBFTOFLTSRF4HPLVIF2F6FWI4I.jpg?auth=6ed1fb5e3b5d8eb5e9ae7e4111f34ef9eb245c4b0e39ea32040c2069871522dc&width=240&height=240&smart=true",
-     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
-     "via": "AS Colombia",
-     "credit": "AS Colombia"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/K4X5DTMJZ5OKHMBE3K2D5RPJ44.jpg?auth=1ddfe370cd8f7aa096fd68e85bc47b39f24ebabe095d6f4374027cfd2bba64f3&width=240&height=240&smart=true",
-     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
-     "via": "AS Colombia",
-     "credit": "AS Colombia"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.pxOJa7R0YSUhcELtHuvpcg&pid=News",
-     "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
-     "via": "Bing (miniatura)",
-     "credit": "AS Colombia"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=1008&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/KYAUXZVK4ZEIPN6UZVL7OTZKAU.jpg?auth=b0abf107e30632dd9b61dd47d28a2e25026586ab9a360fbf23d12dd1380d394e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/UNCLCPIZQBDPTBWVC6T36UWAQ4.jpg?auth=8d55875cd2a0cfce764c20ae22907efb4cf9c7ff4d07faa71efe67198cf31cd7&width=1472&height=828&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdiarioas%2F2d05b810-fc20-4638-9dd4-8c787570df97.png?auth=e7100c202409d6bf7adec24dfdf304481d571ba1bf2b0c49e168fc7a35bf9f84&width=148&height=148&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/6I46DO6GSVDBZLCJHMXRKZ6AOQ.png?auth=8fc918e9b616bbe38069b082fa755b4fd6add7a8e0739d4c1eb8cf71a6e72b72&width=375",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/AINSOVIA6VA63IYW45CUPJMR2I.jpg?auth=ca475e7af16cd8ba252667ca00425ea1164dabaed6622d741fa1533d367aa3f3&width=240&height=240&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/SV7SHV6D65GPTKIGEY2INTCEJU.jpg?auth=8dc01eaa007f99fde195a69ca9e03633db295acce738ee93d81905f032e06dc3&width=240&height=240&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/563WAIRYCJD23O4HQ7RTIULKWY.jpg?auth=543e704260c0831e897ee39e904607c911c0ea70efd2413fbe224dd93f406356&width=244&height=174&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/W4W7R3AS3FC4VIGHU6Q2XAWMOA.jpg?auth=cb1e1a20e76cbca0f39d727797e9f97dc1366bd239b564bf2cc95e9156a0e905&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/IZEESM7YPNH3VOMAOCH2K3AU5A.jpg?auth=3335ef369eb0e844bd2c6a4b566e2187149bb91e26f5708e08616e0c4576f4b1&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/como-votar-por-maria-vargas-en-miss-universo-2026-asi-puedes-votar-a-la-representante-mexicana-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Df-jagHBWxD",
-    "https://www.instagram.com/p/Df5mKppoHee",
-    "https://www.instagram.com/p/Df5yDxMGqRG",
-    "https://www.instagram.com/p/Df6OjdYID2Q",
-    "https://www.instagram.com/reel/Df8DXFlPK3l"
-   ],
-   "image_query": "Miss Universe 2026 vote top 30",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-21T15:16:17.266017+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-21T17:16:18.102790+00:00",
-     "url": "https://www.instagram.com/p/Df-jagHBWxD",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.instagram.com/p/Df5mKppoHee",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.instagram.com/p/Df5yDxMGqRG",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T16:52:17.956087+00:00",
-     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:16:18.102790+00:00",
-     "url": "https://www.instagram.com/reel/Df8DXFlPK3l",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 59
   },
   {
    "key": "t:mu:Talento / reto:2026-11-18",
@@ -3724,7 +4023,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-19T15:39:05.502662+00:00",
-   "start": "2026-11-18T10:57:00+00:00",
+   "start": "2026-11-18T12:43:00+00:00",
    "last_activity": "2026-11-20T13:04:00+00:00",
    "item_ids": [
     "725f5951b73da8",
@@ -3741,8 +4040,7 @@
     "ee2c47dc60521b",
     "3816e48aa86b8f",
     "62daec4b9e8652",
-    "9746670e886f83",
-    "d586be74cea1d3"
+    "9746670e886f83"
    ],
    "sources": [
     "Canal Antigua",
@@ -3757,13 +4055,12 @@
     "Extra",
     "Meridiano.net",
     "Revista Caras México",
-    "Yahoo",
     "news.com.au",
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 16,
-   "n_sources": 16,
+   "n_items": 15,
+   "n_sources": 15,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3958,49 +4255,19 @@
      "page": "https://www.caras.com.mx/entretenimiento/miss-universo-2026-cuando-es-donde-ver-candidatas-desfiles-coronacion",
      "via": "Revista Caras México",
      "credit": "Revista Caras México"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/866074c6d5e8404114e1f49c014a77d3cd1a1617916ec893e639d267239f41df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/911ae41b1e8f90f27ce3daab1bddbd73d4118ba73c394e407580edc8ae929727/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/8f3c9d64d8aa8adf0c25a35eea0854b538d382ba16507aa806e50c432828e7fb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fcf9fd1ec773db0d725f677a31a11b944.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/0384d025b3a7002dbdd70601e91d7370dc5d7debd73d48d4f20e04ca2f758d23/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Ffd439e0d3d322285e66fe9c27b4a3b7f.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
     }
    ],
    "social_urls": [
     "https://www.instagram.com/p/Df44zanPn4E",
-    "https://www.instagram.com/p/DftNmIYDUc8",
     "https://www.instagram.com/reel/Df72SRgBraB"
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-21T17:24:17.274776+00:00",
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [
     {
      "fetched": "2026-11-21T17:24:17.274776+00:00",
      "url": "https://www.instagram.com/p/Df44zanPn4E",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.instagram.com/p/DftNmIYDUc8",
      "platform": "Instagram"
     },
     {
@@ -4015,7 +4282,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 48
+   "score": 45
   },
   {
    "key": "seed:bienvenida-aguadilla",
@@ -4047,9 +4314,25 @@
    ],
    "n_items": 4,
    "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "WtMCIvvgKhM",
+     "title": "🔴LIVE | MISS UNIVERSE 2026 - WELCOME PARADE",
+     "channel": "Beauty Play",
+     "views": 55481,
+     "ago": "Transmitido hace 9 días",
+     "official": false
+    }
+   ],
+   "views_total": 55481,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/WtMCIvvgKhM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/WtMCIvvgKhM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=WtMCIvvgKhM",
+     "via": "YouTube (miniatura)",
+     "credit": "Beauty Play"
+    },
     {
      "url": "http://www.bing.com/th?id=ONUT.dAeO75M6Ut4BdV1HLXyrbg&pid=News",
      "page": "https://www.msn.com/es-mx/noticias/otras/estas-concursantes-de-miss-universo-2026-renunciaron-previo-a-la-final-lista-completa-y-por-qu%C3%A9-salieron/ar-AA2heJ1k",
@@ -4169,7 +4452,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 17
   },
   {
    "key": "t:mi:Gala / cena:2026-11-18",
@@ -4361,7 +4644,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-21T14:28:17.944384+00:00",
+   "extra_at": "2026-11-21T17:32:17.512719+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4753,13 +5036,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 6385,
+     "views": 6418,
      "likes": 26,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 6385,
+   "views_total": 6418,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -4831,13 +5114,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 23611,
+     "views": 23542,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 23611,
+   "views_total": 23542,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5034,35 +5317,25 @@
     "bb05a27bdb9183",
     "967a2fbdae6575",
     "8a894f26039815",
-    "9746670e886f83",
-    "d586be74cea1d3"
+    "9746670e886f83"
    ],
    "sources": [
     "El Nortero",
     "El Nuevo Día",
     "El Observatodo",
     "El Universo",
-    "Yahoo",
     "news.com.au",
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 8,
-   "n_sources": 8,
+   "n_items": 7,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "mYsdbLHCgGM",
      "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
      "channel": "Hey Adam G",
-     "views": 260783,
-     "ago": "Transmitido hace 7 días",
-     "official": false
-    },
-    {
-     "vid": "0Wn-d9FTPSk",
-     "title": "🔴LIVE | MISS UNIVERSE 2026 - BEAUTY AT THE BEACH SWIMWEAR FASHION SHOW",
-     "channel": "Beauty Play",
-     "views": 30623,
+     "views": 260840,
      "ago": "Transmitido hace 7 días",
      "official": false
     },
@@ -5070,13 +5343,13 @@
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
-     "views": 12259,
+     "views": 12252,
      "likes": 0,
      "published": "2026-11-16T23:59:14+00:00",
      "official": true
     }
    ],
-   "views_total": 303665,
+   "views_total": 273092,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -5091,13 +5364,6 @@
      "page": "https://www.youtube.com/watch?v=mYsdbLHCgGM",
      "via": "YouTube (miniatura)",
      "credit": "Hey Adam G"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0Wn-d9FTPSk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/0Wn-d9FTPSk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=0Wn-d9FTPSk",
-     "via": "YouTube (miniatura)",
-     "credit": "Beauty Play"
     },
     {
      "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=1005&height=670&quality=75&smart=true",
@@ -5130,30 +5396,6 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/866074c6d5e8404114e1f49c014a77d3cd1a1617916ec893e639d267239f41df/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/911ae41b1e8f90f27ce3daab1bddbd73d4118ba73c394e407580edc8ae929727/lightyear_networkapi/resizefill_w976%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2F6db892e0301509c7e84f582b1a0029cc.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/8f3c9d64d8aa8adf0c25a35eea0854b538d382ba16507aa806e50c432828e7fb/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fcf9fd1ec773db0d725f677a31a11b944.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/0384d025b3a7002dbdd70601e91d7370dc5d7debd73d48d4f20e04ca2f758d23/lightyear_networkapi/resizefill_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Ffd439e0d3d322285e66fe9c27b4a3b7f.png",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-swimsuit-show-ridiculed-185629046.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
      "url": "https://image.slidesharecdn.com/preguntasfrecuentesdelpacienteanticoagulado-120223060909-phpapp02/95/preguntas-frecuentes-del-paciente-anticoagulado-15-728.jpg?cb=1329977749",
      "page": "http://es.slideshare.net/monitormedical/preguntas-frecuentes-del-paciente-anticoagulado",
      "via": "Bing Imágenes",
@@ -5165,7 +5407,6 @@
     "https://www.instagram.com/p/Df3hihmGObY",
     "https://www.instagram.com/p/Df5Ns1tGmkz",
     "https://www.instagram.com/p/Df5mKppoHee",
-    "https://www.instagram.com/p/DftNmIYDUc8",
     "https://www.instagram.com/reel/Df7fXrHsQtq"
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
@@ -5197,11 +5438,6 @@
     },
     {
      "fetched": "2026-11-21T17:08:17.724927+00:00",
-     "url": "https://www.instagram.com/p/DftNmIYDUc8",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-21T17:08:17.724927+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     }
@@ -5212,7 +5448,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 42
+   "score": 37
   },
   {
    "key": "p:yokosuka day trip",
@@ -6076,7 +6312,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6307,7 +6543,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6538,7 +6774,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6685,7 +6921,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6734,7 +6970,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T17:24:17.274776+00:00",
+   "first_seen": "2026-11-21T17:32:17.512719+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
