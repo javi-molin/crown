@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T20:12:25.651482+00:00",
+ "updated": "2026-11-21T20:20:25.663900+00:00",
  "count": 35,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -209,7 +209,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -287,8 +287,9 @@
    "refs": [],
    "first_seen": "2026-11-21T15:16:17.266017+00:00",
    "start": "2026-11-21T00:59:00+00:00",
-   "last_activity": "2026-11-21T20:00:00+00:00",
+   "last_activity": "2026-11-21T20:12:12+00:00",
    "item_ids": [
+    "d043b184f44cac",
     "6b9a8bd6db750f",
     "5cb7fd73478604",
     "81d1450fd3f565",
@@ -301,7 +302,9 @@
     "cf7dd422fbdff2",
     "58ef6eca9c3748",
     "f84750cc2f8e60",
+    "008c00cf69b192",
     "01902f325484fa",
+    "6592d3c661f42f",
     "77b27eda7ec043",
     "5a6af3b1cae24e",
     "65e7532292da08",
@@ -342,17 +345,72 @@
     "Gestión",
     "Meridiano.net",
     "N Digital",
+    "Radio Agricultura",
     "Reporte Indigo",
     "Reporte Índigo",
     "TNT Sports",
     "Telemundo Atlanta",
     "The Manila Times"
    ],
-   "n_items": 34,
-   "n_sources": 22,
+   "n_items": 37,
+   "n_sources": 23,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://assets.radioagricultura.cl/2026/11/FotoJet-2-1024x597.jpg",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2023/09/Temblor-3-304x171.png",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2026/11/colorimetria-304x165.png",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2026/02/close-up-business-womens-meeting-304x203.jpg",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2026/10/Control-de-detencion-768x403.jpg",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2026/02/fragata-768x467.jpg",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl/2026/11/Saiko-foto-referencial-768x432.webp",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "https://assets.radioagricultura.cl{{imagen_post}}",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Radio Agricultura",
+     "credit": "Radio Agricultura"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.hxsKXyFxHcGS7UkzUrpgsQ&pid=News",
+     "page": "https://www.radioagricultura.cl/entretencion/dominga-lopez-miss-universo-2026-horario-desfile-traje-nacional_20261121/",
+     "via": "Bing (miniatura)",
+     "credit": "Radio Agricultura"
+    },
     {
      "url": "https://gestion.pe/resizer/v2/WRSIU4UONNGCFHYR5PIHKBWXKE.jpg?auth=79729144666492c85b4e103d0970a06fca71fb94fa341eebf2056e511ff8e82b&width=980&height=528&quality=75&smart=true",
      "page": "https://gestion.pe/mix/gente/a-que-hora-empieza-y-en-que-canal-transmiten-el-desfile-de-trajes-tipicos-del-miss-universo-2026-en-vivo-hoy-en-mexico-chile-eeuu-venezuela-y-colombia-horarios-y-canales-tv-nnda-nnrt-noticia/",
@@ -387,12 +445,6 @@
      "url": "https://gestion.pe/resizer/v2/AFOWE3VXH5BJNLBY3WIABCHATQ.png?auth=f4c0836605bcbd97b85dd5f21f9b33bd9dcd3603b9b998cf23d6474adb0c2c98&width=140&height=72&quality=75&smart=true",
      "page": "https://gestion.pe/mix/gente/a-que-hora-empieza-y-en-que-canal-transmiten-el-desfile-de-trajes-tipicos-del-miss-universo-2026-en-vivo-hoy-en-mexico-chile-eeuu-venezuela-y-colombia-horarios-y-canales-tv-nnda-nnrt-noticia/",
      "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.Q4GT2ixiorS_CTKMEQptQw&pid=News",
-     "page": "https://gestion.pe/mix/gente/a-que-hora-empieza-y-en-que-canal-transmiten-el-desfile-de-trajes-tipicos-del-miss-universo-2026-en-vivo-hoy-en-mexico-chile-eeuu-venezuela-y-colombia-horarios-y-canales-tv-nnda-nnrt-noticia/",
-     "via": "Bing (miniatura)",
      "credit": "Gestión"
     },
     {
@@ -544,54 +596,6 @@
      "page": "https://mexico.as.com/tikitakas/este-es-el-traje-que-llevara-maria-vargas-la-representante-de-mexico-en-miss-universo-2026-f202611-n/",
      "via": "AS México",
      "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/HSX3UUW6ZNFWZG5AR6OACYAPCQ.jpg?auth=bf8c7d5cbf5b3d1f83a0466db1971d8c17dee39ba37faaa2b9f3634d8ac99ca7&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/este-es-el-traje-que-llevara-maria-vargas-la-representante-de-mexico-en-miss-universo-2026-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/v2/JEDF7YNQSFEVHNJQG2AIUIZF4M.jpg?auth=37b2144c9acd38d16942385dce504c8e32c190f80c648d123995d8e5a6b93297&width=105&height=105&smart=true",
-     "page": "https://mexico.as.com/tikitakas/este-es-el-traje-que-llevara-maria-vargas-la-representante-de-mexico-en-miss-universo-2026-f202611-n/",
-     "via": "AS México",
-     "credit": "AS México"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/6/bb/6bb22448-121f-4ab1-9093-b9a20af5473f/6ada2cd979c01.image.jpg?crop=1600%2C840%2C0%2C112&resize=1200%2C630&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/7/45/745ca66d-12b3-46ec-adfe-e1be32ba7cfc/6b01b931104e0.image.jpg?crop=468%2C468%2C183%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/3/da/3daf1544-7d7e-444e-a875-354dd9b0a37d/6b01b6bc9af4b.image.jpg?crop=1240%2C1240%2C215%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/f/2b/f2b5316e-f9b4-5b4f-a2ff-ea56a3bd6a99/6b01ae90dfe5c.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/d/09/d09d8bec-8fc4-53c8-80da-11c703ff0a37/6b01ae9a7c2a7.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/elvocero.com/content/tncms/assets/v3/editorial/c/83/c83af7e4-71f0-44dd-9804-130b7cd672bf/6ad0e4080348c.image.jpg?crop=1175%2C1175%2C294%2C0&resize=400%2C400&order=crop%2Cresize",
-     "page": "https://www.elvocero.com/escenario/qu-esperar-del-desfile-de-trajes-t-picos-de-miss-universe/article_8c4ecde6-919b-43b4-b70a-a03284b48f43.html",
-     "via": "El Vocero de Puerto Rico",
-     "credit": "El Vocero de Puerto Rico"
     }
    ],
    "social_urls": [
@@ -761,7 +765,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
@@ -771,7 +775,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df9kgJ1kSd9",
      "platform": "Instagram"
     },
@@ -786,7 +790,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/reel/DfXPN_GIY9k",
      "platform": "Instagram"
     },
@@ -803,7 +807,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 78
+   "score": 83
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -1152,7 +1156,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 864774,
+     "views": 865552,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -1161,7 +1165,7 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24551,
+     "views": 24641,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
@@ -1170,13 +1174,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 17056,
+     "views": 18735,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 906381,
+   "views_total": 908928,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -1263,6 +1267,234 @@
    "score": 83
   },
   {
+   "key": "t:mu:Gala / cena:2026-11-21",
+   "id": "t-mu-gala-cena-2026-11-21-6a56b",
+   "name": "Gala / cena · 21–23 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-21T17:40:17.851913+00:00",
+   "start": "2026-11-21T01:01:38+00:00",
+   "last_activity": "2026-11-21T12:00:00+00:00",
+   "item_ids": [
+    "6592d3c661f42f",
+    "674e959828e886",
+    "6f707a6543726b",
+    "a18fc2acc19d7e"
+   ],
+   "sources": [
+    "Canal Antigua",
+    "Diario AS",
+    "La Nación Costa Rica",
+    "Listín Diario"
+   ],
+   "n_items": 4,
+   "n_sources": 4,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.U50xA31q2x0UiaLaLlYHpQ&pid=News",
+     "page": "https://as.com/us/tikitakas/miss-universo-2026-fecha-horario-canal-y-como-seguir-online-la-competencia-desde-usa-f202611-n/",
+     "via": "Bing (miniatura)",
+     "credit": "Diario AS"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-40-oz_a271a4b8-4466-420b-9a93-96fd5da038e0.c7ec570d6dc3b6cc5c031d0b3ef1a35c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.8UiwBw6kGRKj5Xt-eHKKOAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz_fa6894a6-64b3-4916-b837-26eb96bf0fc8.f0d8444152f3d3fb742ed892607e9c5e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+     "page": "https://business.walmart.com/ip/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz/1255007551",
+     "via": "Bing Imágenes",
+     "credit": "business.walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Fyz1XY1fg8QCy934iarAkAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_60491e26-4bec-464a-bc8c-88b8a8246c15.a6e1c014151554bb2c4349a8ae408749.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/seasonal/halloween-candy/1085632_9516159_6041305",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.H-WWydXuHiE8Rzmt4rT8xgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/84763306-6c32-4a6c-a7ce-a9a013372bba.8370c81256718ce199959dbd44db6c93.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound/726481021",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2grg3WKlH3Ew0uerySPO1QHaHX&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb_00befb19-6bac-4c38-a5f4-9aadd5c86bb4.1c58fa5fa69f019a09215fa12b4cfa7a.jpeg",
+     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb/365291825",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.giumPBudIV-mxnyXJnSN8QHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_1fd6764f-243a-45b3-b792-fbe371d56a85.7e2779a393738635100bec8221017e55.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag/13781451770",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uP7dTvyN_x_amwUc9vhbowHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/6c3e6423-9f84-4144-90d1-4d400fd70286.5f72f104a082c695719b39381fef721c.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/shop/Halloween-Candy",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.1azfIqYx345Oi9eTmBSxwAHaKA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Zachary-16-oz-Candy-Corn-Tub-Creamy-Halloween-Candy_b8c34ce9-5328-42d5-85cf-793e77ff8477.385f0e419ae10918a5196b67462bae7b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.LXTg3vqW_9W5UFHEhq_24gHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/eafe591f-b2a2-4af9-9845-d7faab00d52f.80f4ac2d2e97eb99bec1612de10388d7.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/Halloween-Nerds-Candy-Corn-8-oz-Bag-Pack-of-3/830108745",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.T_XOObo33HDH6ewfpGepLgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/d54f65cf-60e9-4d73-9985-8aa74190d7b5.9acca2ab6c0462d1bbcc5421598ece08.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/Candy-Corn-Fall-Halloween-Autumn-Candy-Bulk-2-Pounds/316108787",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2Ex_xPat0w7c77C98P1nkwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag_9ef03c59-1922-417f-94a4-236e01aef81e.c185471c5722fad703324e4bb06c112b.jpeg",
+     "page": "https://www.walmart.com/ip/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag/11470012586",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.bi4VexDwZxrqfJxNfM4iDQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound_7b5c0015-378e-46d4-a71f-df3a2971caa0.4050955c44c2ec5cf31c4630a8fb0b80.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.VW95R2efv0h8EJijats2OAHaHa&pid=15.1"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Df7rX12BNqe"
+   ],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-40-oz_a271a4b8-4466-420b-9a93-96fd5da038e0.c7ec570d6dc3b6cc5c031d0b3ef1a35c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.8UiwBw6kGRKj5Xt-eHKKOAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz_fa6894a6-64b3-4916-b837-26eb96bf0fc8.f0d8444152f3d3fb742ed892607e9c5e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+     "page": "https://business.walmart.com/ip/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz/1255007551",
+     "via": "Bing Imágenes",
+     "credit": "business.walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Fyz1XY1fg8QCy934iarAkAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_60491e26-4bec-464a-bc8c-88b8a8246c15.a6e1c014151554bb2c4349a8ae408749.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/seasonal/halloween-candy/1085632_9516159_6041305",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.H-WWydXuHiE8Rzmt4rT8xgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/84763306-6c32-4a6c-a7ce-a9a013372bba.8370c81256718ce199959dbd44db6c93.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound/726481021",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2grg3WKlH3Ew0uerySPO1QHaHX&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb_00befb19-6bac-4c38-a5f4-9aadd5c86bb4.1c58fa5fa69f019a09215fa12b4cfa7a.jpeg",
+     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb/365291825",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.giumPBudIV-mxnyXJnSN8QHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_1fd6764f-243a-45b3-b792-fbe371d56a85.7e2779a393738635100bec8221017e55.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag/13781451770",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uP7dTvyN_x_amwUc9vhbowHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/6c3e6423-9f84-4144-90d1-4d400fd70286.5f72f104a082c695719b39381fef721c.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/shop/Halloween-Candy",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.1azfIqYx345Oi9eTmBSxwAHaKA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Zachary-16-oz-Candy-Corn-Tub-Creamy-Halloween-Candy_b8c34ce9-5328-42d5-85cf-793e77ff8477.385f0e419ae10918a5196b67462bae7b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.LXTg3vqW_9W5UFHEhq_24gHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/eafe591f-b2a2-4af9-9845-d7faab00d52f.80f4ac2d2e97eb99bec1612de10388d7.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/Halloween-Nerds-Candy-Corn-8-oz-Bag-Pack-of-3/830108745",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.T_XOObo33HDH6ewfpGepLgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/d54f65cf-60e9-4d73-9985-8aa74190d7b5.9acca2ab6c0462d1bbcc5421598ece08.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/ip/Candy-Corn-Fall-Halloween-Autumn-Candy-Bulk-2-Pounds/316108787",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2Ex_xPat0w7c77C98P1nkwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag_9ef03c59-1922-417f-94a4-236e01aef81e.c185471c5722fad703324e4bb06c112b.jpeg",
+     "page": "https://www.walmart.com/ip/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag/11470012586",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.bi4VexDwZxrqfJxNfM4iDQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound_7b5c0015-378e-46d4-a71f-df3a2971caa0.4050955c44c2ec5cf31c4630a8fb0b80.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
+     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.VW95R2efv0h8EJijats2OAHaHa&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-21T19:24:25.541368+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-21T19:48:26.125496+00:00",
+     "url": "https://www.instagram.com/p/Df7rX12BNqe",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 12
+  },
+  {
    "key": "p:unlock coronation night",
    "id": "p-unlock-coronation-night-ac232",
    "name": "Unlock Coronation Night",
@@ -1296,13 +1528,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 620,
+     "views": 626,
      "likes": 8,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1317,
+   "views_total": 1323,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -1401,7 +1633,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 20374,
+     "views": 20408,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1410,7 +1642,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 19083,
+     "views": 19126,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1419,13 +1651,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8433,
+     "views": 8450,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 47890,
+   "views_total": 47984,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -1674,12 +1906,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -1943,232 +2175,6 @@
     "shares": 0
    },
    "score": 13
-  },
-  {
-   "key": "t:mu:Gala / cena:2026-11-21",
-   "id": "t-mu-gala-cena-2026-11-21-6a56b",
-   "name": "Gala / cena · 21–23 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-21T17:40:17.851913+00:00",
-   "start": "2026-11-21T01:01:38+00:00",
-   "last_activity": "2026-11-21T04:00:00+00:00",
-   "item_ids": [
-    "674e959828e886",
-    "6f707a6543726b",
-    "a18fc2acc19d7e"
-   ],
-   "sources": [
-    "Canal Antigua",
-    "La Nación Costa Rica",
-    "Listín Diario"
-   ],
-   "n_items": 3,
-   "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.B5GJTwpEF2TjQeqBaJBFHg&pid=News",
-     "page": "https://listindiario.com/entretenimiento/20261121/viviendo-esto-tanta-ilusion-dice-melissa-nunez-miss-universo-rd-rumbo-final_930999.html",
-     "via": "Bing (miniatura)",
-     "credit": "Listín Diario"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-40-oz_a271a4b8-4466-420b-9a93-96fd5da038e0.c7ec570d6dc3b6cc5c031d0b3ef1a35c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.8UiwBw6kGRKj5Xt-eHKKOAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz_fa6894a6-64b3-4916-b837-26eb96bf0fc8.f0d8444152f3d3fb742ed892607e9c5e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-     "page": "https://business.walmart.com/ip/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz/1255007551",
-     "via": "Bing Imágenes",
-     "credit": "business.walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Fyz1XY1fg8QCy934iarAkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_60491e26-4bec-464a-bc8c-88b8a8246c15.a6e1c014151554bb2c4349a8ae408749.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/seasonal/halloween-candy/1085632_9516159_6041305",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.H-WWydXuHiE8Rzmt4rT8xgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/84763306-6c32-4a6c-a7ce-a9a013372bba.8370c81256718ce199959dbd44db6c93.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound/726481021",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.2grg3WKlH3Ew0uerySPO1QHaHX&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb_00befb19-6bac-4c38-a5f4-9aadd5c86bb4.1c58fa5fa69f019a09215fa12b4cfa7a.jpeg",
-     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb/365291825",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.giumPBudIV-mxnyXJnSN8QHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_1fd6764f-243a-45b3-b792-fbe371d56a85.7e2779a393738635100bec8221017e55.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag/13781451770",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.uP7dTvyN_x_amwUc9vhbowHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/6c3e6423-9f84-4144-90d1-4d400fd70286.5f72f104a082c695719b39381fef721c.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/shop/Halloween-Candy",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.1azfIqYx345Oi9eTmBSxwAHaKA&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Zachary-16-oz-Candy-Corn-Tub-Creamy-Halloween-Candy_b8c34ce9-5328-42d5-85cf-793e77ff8477.385f0e419ae10918a5196b67462bae7b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LXTg3vqW_9W5UFHEhq_24gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/eafe591f-b2a2-4af9-9845-d7faab00d52f.80f4ac2d2e97eb99bec1612de10388d7.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/Halloween-Nerds-Candy-Corn-8-oz-Bag-Pack-of-3/830108745",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.T_XOObo33HDH6ewfpGepLgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/d54f65cf-60e9-4d73-9985-8aa74190d7b5.9acca2ab6c0462d1bbcc5421598ece08.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/Candy-Corn-Fall-Halloween-Autumn-Candy-Bulk-2-Pounds/316108787",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.2Ex_xPat0w7c77C98P1nkwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag_9ef03c59-1922-417f-94a4-236e01aef81e.c185471c5722fad703324e4bb06c112b.jpeg",
-     "page": "https://www.walmart.com/ip/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag/11470012586",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.bi4VexDwZxrqfJxNfM4iDQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound_7b5c0015-378e-46d4-a71f-df3a2971caa0.4050955c44c2ec5cf31c4630a8fb0b80.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.VW95R2efv0h8EJijats2OAHaHa&pid=15.1"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Df7rX12BNqe"
-   ],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-40-oz_a271a4b8-4466-420b-9a93-96fd5da038e0.c7ec570d6dc3b6cc5c031d0b3ef1a35c.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.8UiwBw6kGRKj5Xt-eHKKOAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz_fa6894a6-64b3-4916-b837-26eb96bf0fc8.f0d8444152f3d3fb742ed892607e9c5e.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-     "page": "https://business.walmart.com/ip/Brach-s-Classic-Candy-Corn-Original-Halloween-Candy-Corn-14-oz/1255007551",
-     "via": "Bing Imágenes",
-     "credit": "business.walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Fyz1XY1fg8QCy934iarAkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_60491e26-4bec-464a-bc8c-88b8a8246c15.a6e1c014151554bb2c4349a8ae408749.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/seasonal/halloween-candy/1085632_9516159_6041305",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.H-WWydXuHiE8Rzmt4rT8xgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/84763306-6c32-4a6c-a7ce-a9a013372bba.8370c81256718ce199959dbd44db6c93.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound/726481021",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.2grg3WKlH3Ew0uerySPO1QHaHX&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb_00befb19-6bac-4c38-a5f4-9aadd5c86bb4.1c58fa5fa69f019a09215fa12b4cfa7a.jpeg",
-     "page": "https://www.walmart.com/ip/SweetGourmet-Halloween-Mellowcreme-Candy-Corn-5lb/365291825",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.giumPBudIV-mxnyXJnSN8QHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag_1fd6764f-243a-45b3-b792-fbe371d56a85.7e2779a393738635100bec8221017e55.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/2-pack-Brach-s-Classic-Candy-Corn-Halloween-Candy-11-oz-Bag/13781451770",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.uP7dTvyN_x_amwUc9vhbowHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/6c3e6423-9f84-4144-90d1-4d400fd70286.5f72f104a082c695719b39381fef721c.jpeg?odnHeight=784&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/shop/Halloween-Candy",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.1azfIqYx345Oi9eTmBSxwAHaKA&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Zachary-16-oz-Candy-Corn-Tub-Creamy-Halloween-Candy_b8c34ce9-5328-42d5-85cf-793e77ff8477.385f0e419ae10918a5196b67462bae7b.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LXTg3vqW_9W5UFHEhq_24gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/eafe591f-b2a2-4af9-9845-d7faab00d52f.80f4ac2d2e97eb99bec1612de10388d7.jpeg?odnHeight=288&odnWidth=288&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/Halloween-Nerds-Candy-Corn-8-oz-Bag-Pack-of-3/830108745",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.T_XOObo33HDH6ewfpGepLgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/asr/d54f65cf-60e9-4d73-9985-8aa74190d7b5.9acca2ab6c0462d1bbcc5421598ece08.jpeg?odnHeight=576&odnWidth=576&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/ip/Candy-Corn-Fall-Halloween-Autumn-Candy-Bulk-2-Pounds/316108787",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.2Ex_xPat0w7c77C98P1nkwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag_9ef03c59-1922-417f-94a4-236e01aef81e.c185471c5722fad703324e4bb06c112b.jpeg",
-     "page": "https://www.walmart.com/ip/Nerds-Candy-Corn-Halloween-Candy-8-oz-Bag/11470012586",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.bi4VexDwZxrqfJxNfM4iDQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i5.walmartimages.com/seo/SweetGourmet-Halloween-Mellowcreme-Classic-Candy-Corn-1-Pound_7b5c0015-378e-46d4-a71f-df3a2971caa0.4050955c44c2ec5cf31c4630a8fb0b80.jpeg?odnHeight=580&odnWidth=580&odnBg=FFFFFF",
-     "page": "https://www.walmart.com/browse/food/candy-corn/976759_1096070_6041305_7246423",
-     "via": "Bing Imágenes",
-     "credit": "walmart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.VW95R2efv0h8EJijats2OAHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-21T19:24:25.541368+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-21T19:48:26.125496+00:00",
-     "url": "https://www.instagram.com/p/Df7rX12BNqe",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 9
   },
   {
    "key": "t:mu:Entrevistas:2026-11-18",
@@ -2533,7 +2539,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df72HSSm0lY",
      "platform": "Instagram"
     },
@@ -2640,13 +2646,13 @@
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2410,
+     "views": 2433,
      "likes": 61,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2410,
+   "views_total": 2433,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -3072,7 +3078,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -3147,13 +3153,13 @@
      "vid": "HQFV6HoTHOE",
      "title": "Hello Universe! 💫 Un sneak peek desde los ensayos para el Desfile de Traje Típico de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2410,
+     "views": 2433,
      "likes": 61,
      "published": "2026-11-20T21:26:17+00:00",
      "official": true
     }
    ],
-   "views_total": 2410,
+   "views_total": 2433,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
@@ -3898,12 +3904,12 @@
    "extra_at": "2026-11-21T17:48:17.894520+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Dej5RsYTiC-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df25AVGmwx-",
      "platform": "Instagram"
     },
@@ -3918,27 +3924,27 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df8IWx6kjI1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/DfuW3w0FStZ",
      "platform": "Instagram"
     },
@@ -3958,7 +3964,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/reel/Df3qV3MxpC9",
      "platform": "Instagram"
     },
@@ -3973,7 +3979,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     },
@@ -4029,13 +4035,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24551,
+     "views": 24641,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 24551,
+   "views_total": 24641,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5057,25 +5063,9 @@
    ],
    "n_items": 4,
    "n_sources": 4,
-   "videos": [
-    {
-     "vid": "F0H8ejJayL8",
-     "title": "Miss Universe 2026 Turns Aguadilla Into a Runway! | Miss Universe 2026",
-     "channel": "Miss Universe",
-     "views": 174866,
-     "ago": "hace 9 días",
-     "official": false
-    }
-   ],
-   "views_total": 174866,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/F0H8ejJayL8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/F0H8ejJayL8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=F0H8ejJayL8",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT.dAeO75M6Ut4BdV1HLXyrbg&pid=News",
      "page": "https://www.msn.com/es-mx/noticias/otras/estas-concursantes-de-miss-universo-2026-renunciaron-previo-a-la-final-lista-completa-y-por-qu%C3%A9-salieron/ar-AA2heJ1k",
@@ -5166,7 +5156,7 @@
    ],
    "image_query": "Miss Universe 2026 Aguadilla welcome parade",
    "extra_images": [],
-   "extra_at": "2026-11-21T20:12:25.651482+00:00",
+   "extra_at": "2026-11-21T20:20:25.663900+00:00",
    "social": [
     {
      "fetched": "2026-11-21T19:56:26.030308+00:00",
@@ -5180,7 +5170,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 23
+   "score": 15
   },
   {
    "key": "t:me:Tour / visita:2026-11-18",
@@ -5648,13 +5638,13 @@
      "vid": "uHgMateuSZE",
      "title": "Fatima visits San Juan's Children Hospital | Miss Universe",
      "channel": "Miss Universe",
-     "views": 24551,
+     "views": 24641,
      "likes": 0,
      "published": "2026-11-19T04:48:07+00:00",
      "official": true
     }
    ],
-   "views_total": 24551,
+   "views_total": 24641,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uHgMateuSZE/maxresdefault.jpg",
@@ -5866,14 +5856,6 @@
    "n_sources": 7,
    "videos": [
     {
-     "vid": "mYsdbLHCgGM",
-     "title": "Miss Universe 2026 Beauty And The Beach Show @ Caribe Hotel",
-     "channel": "Hey Adam G",
-     "views": 261381,
-     "ago": "Transmitido hace 7 días",
-     "official": false
-    },
-    {
      "vid": "RRFpY4TaoWk",
      "title": "BEAUTY AT THE BEACH | Miss Universe",
      "channel": "Miss Universe",
@@ -5883,7 +5865,7 @@
      "official": true
     }
    ],
-   "views_total": 273755,
+   "views_total": 12374,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/RRFpY4TaoWk/maxresdefault.jpg",
@@ -5891,13 +5873,6 @@
      "page": "https://www.youtube.com/watch?v=RRFpY4TaoWk",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/mYsdbLHCgGM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/mYsdbLHCgGM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=mYsdbLHCgGM",
-     "via": "YouTube (miniatura)",
-     "credit": "Hey Adam G"
     },
     {
      "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=1005&height=670&quality=75&smart=true",
@@ -6124,22 +6099,22 @@
    "extra_at": "2026-11-21T20:12:25.651482+00:00",
    "social": [
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df3hihmGObY",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5Ns1tGmkz",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/p/Df5mKppoHee",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-21T19:16:25.706862+00:00",
+     "fetched": "2026-11-21T20:20:25.663900+00:00",
      "url": "https://www.instagram.com/reel/Df7fXrHsQtq",
      "platform": "Instagram"
     }
@@ -6150,7 +6125,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 24
   },
   {
    "key": "p:yokosuka day trip",
@@ -6196,7 +6171,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Yokosuka Day Trip",
    "extra_images": [],
-   "extra_at": "2026-11-21T20:12:25.651482+00:00",
+   "extra_at": "2026-11-21T20:20:25.663900+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -6537,7 +6512,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6628,7 +6603,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6803,7 +6778,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6816,7 +6791,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-21T20:12:25.651482+00:00",
+   "extra_at": "2026-11-21T20:20:25.663900+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6836,7 +6811,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6849,7 +6824,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-21T20:12:25.651482+00:00",
+   "extra_at": "2026-11-21T20:20:25.663900+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6869,7 +6844,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-21T20:12:25.651482+00:00",
+   "first_seen": "2026-11-21T20:20:25.663900+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
