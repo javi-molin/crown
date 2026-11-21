@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-21T00:43:53.213589+00:00",
+ "run_at": "2026-11-21T00:51:53.305230+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,13 +28,13 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 70,
+   "items": 34,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 46,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 92,
    "error": null
   },
   {
@@ -154,7 +154,7 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -220,13 +220,13 @@
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 11,
+   "items": 7,
    "error": "76 cuentas sincronizadas en total · 39 candidatas · 90 organizaciones"
   },
   {
@@ -316,13 +316,13 @@
   {
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
-   "items": 0,
-   "error": "1 usuarios probados en esta vuelta · 1946 en total"
+   "items": 1,
+   "error": "4 usuarios probados en esta vuelta · 1950 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
    "ok": true,
-   "items": 39,
+   "items": 40,
    "error": "0 menciones revisadas en esta vuelta; 90 organizaciones nacionales"
   },
   {
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 898,
-   "error": "92 candidatas · descartadas: 1214 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 29 promoción / votación / afiche"
+   "error": "92 candidatas · descartadas: 1213 fuera de fecha, 29 no habla de ella ni del concurso, 0 hashtag / no oficial, 29 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -382,7 +382,7 @@
   {
    "source": "Redes de cada candidata (Instagram confirmado por API, TikTok comprobado)",
    "ok": true,
-   "items": 45,
+   "items": 46,
    "error": "20 con TikTok · 90 con cuenta de su organización nacional · 197 candidatas"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 942,
+ "new_items": 817,
  "total_items": 900
 }
