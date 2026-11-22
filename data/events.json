@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T03:32:34.497551+00:00",
+ "updated": "2026-11-22T03:40:34.869329+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -216,12 +216,13 @@
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
    "start": "2026-11-20T21:26:17+00:00",
-   "last_activity": "2026-11-22T03:04:09+00:00",
+   "last_activity": "2026-11-22T03:39:51+00:00",
    "item_ids": [
     "dd6df663e98515",
     "4f5e985c00dd1d",
     "44edeb95cc8f8a",
     "c90ebbe5a0d3b9",
+    "167f0f375b30f0",
     "1bca22b012a382",
     "ecebb285b65b8f",
     "43f7f63bba2d3c",
@@ -328,6 +329,7 @@
     "ac14cd8ddf6d66",
     "47c38d971f39a7",
     "9f2ce9cca7159d",
+    "b69a8a6173c162",
     "660f5fe7dd6e61",
     "2d980966934e74",
     "4328968f3a041a",
@@ -335,9 +337,7 @@
     "ab3f2e82cf49cd",
     "9861889d0d617a",
     "3b679fc21532f1",
-    "14547de82dc7af",
-    "5cd10745c0c112",
-    "17d792a335253f"
+    "14547de82dc7af"
    ],
    "sources": [
     "24 horas",
@@ -346,6 +346,7 @@
     "ADN Radio",
     "AS México",
     "Agencia de Periodismo Investigativo",
+    "Agencia de Periodismo Investigativo on MSN",
     "Canal Antigua",
     "Chic Magazine",
     "CiberCuba",
@@ -378,17 +379,16 @@
     "MILENIO",
     "Mega.cl",
     "Meganoticias",
-    "Meridiano.net",
-    "Metro Ecuador"
+    "Meridiano.net"
    ],
-   "n_items": 184,
-   "n_sources": 72,
+   "n_items": 186,
+   "n_sources": 73,
    "videos": [
     {
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 868848,
+     "views": 877658,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
@@ -397,7 +397,7 @@
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 757986,
+     "views": 776415,
      "ago": "Transmitido hace 2 h",
      "official": false
     },
@@ -405,7 +405,7 @@
      "vid": "EeH0AN8JMkI",
      "title": "PLAYTIME ENTERTAINMENT PRESENTA: DESFILE DE TRAJES TÍPICOS DE MISS UNIVERSE 2026 | ¡EN VIVO Y GRA...",
      "channel": "PlayTime Entertainment",
-     "views": 634551,
+     "views": 639527,
      "ago": "Transmitido hace 3 h",
      "official": false
     },
@@ -413,7 +413,15 @@
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 170111,
+     "views": 171672,
+     "ago": "Transmitido hace 2 h",
+     "official": false
+    },
+    {
+     "vid": "GYkhoTRvw3I",
+     "title": "MISS UNIVERSO 2026: DESFILE DE TRAJES TIPICOS  FULL SHOW!",
+     "channel": "Julian Cuartas TV",
+     "views": 84952,
      "ago": "Transmitido hace 2 h",
      "official": false
     },
@@ -421,7 +429,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 19345,
+     "views": 22060,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -430,7 +438,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 4410,
+     "views": 4715,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -439,8 +447,8 @@
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 3125,
-     "likes": 82,
+     "views": 3648,
+     "likes": 98,
      "published": "2026-11-22T01:34:37+00:00",
      "official": true
     },
@@ -448,8 +456,8 @@
      "vid": "ZcVTTbCnWKo",
      "title": "Clara Vegas 🇨🇴 le revela a Aleska Génesis un dato curioso sobre su Traje Típico 👀 #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1683,
-     "likes": 170,
+     "views": 1774,
+     "likes": 180,
      "published": "2026-11-22T01:58:45+00:00",
      "official": true
     },
@@ -457,7 +465,7 @@
      "vid": "T1RDAMEmovk",
      "title": "¡Imponente! 🇯🇵 Miss Japón, Sayuki Ito, luce su Traje Típico tras bambalinas #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 1157,
+     "views": 1214,
      "likes": 11,
      "published": "2026-11-22T01:04:25+00:00",
      "official": true
@@ -466,8 +474,8 @@
      "vid": "n_P2YVD6-V4",
      "title": "⚾🇻🇪 ¡Un homenaje que llena de orgullo con el traje típico de Clara Vegas!#Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1126,
-     "likes": 60,
+     "views": 1192,
+     "likes": 63,
      "published": "2026-11-22T01:50:20+00:00",
      "official": true
     },
@@ -475,8 +483,8 @@
      "vid": "b8F2zGHqZgc",
      "title": "Miss Nicaragua 🇳🇮 Jasmine Blandford con traje típico inspirado en El Palo de Mayo #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 1111,
-     "likes": 72,
+     "views": 1164,
+     "likes": 74,
      "published": "2026-11-22T01:37:25+00:00",
      "official": true
     },
@@ -484,7 +492,7 @@
      "vid": "hj2rsixXymI",
      "title": "Miss Paraguay 🇵🇾 Gretha Matiauda quiere conocer tu opinión sobre su Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 651,
+     "views": 704,
      "likes": 11,
      "published": "2026-11-22T01:09:23+00:00",
      "official": true
@@ -493,8 +501,8 @@
      "vid": "1LgKNw8bpPY",
      "title": "Jennifer Barreto, Miss Puerto Rico 🇵🇷 la anfitriona deleita con su Traje Típico en #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 624,
-     "likes": 14,
+     "views": 655,
+     "likes": 17,
      "published": "2026-11-22T02:18:58+00:00",
      "official": true
     },
@@ -502,7 +510,7 @@
      "vid": "SsmOddDYGuM",
      "title": "La flora y fauna de Panamá 🇵🇦 en el Traje Típico de Gabriela González del Valle #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 616,
+     "views": 646,
      "likes": 12,
      "published": "2026-11-22T01:06:44+00:00",
      "official": true
@@ -511,7 +519,7 @@
      "vid": "ov7BEzi181c",
      "title": "🇪🇸 ✨ Miss España, Susana Medina nos cuenta sobre su Traje Típico #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 462,
+     "views": 481,
      "likes": 8,
      "published": "2026-11-22T02:07:43+00:00",
      "official": true
@@ -520,7 +528,7 @@
      "vid": "71n5Auqk89Y",
      "title": "El poder hecho traje 🇺🇸 Justus Kelley honra a las mujeres con su Traje Típico #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 330,
+     "views": 353,
      "likes": 4,
      "published": "2026-11-22T02:01:51+00:00",
      "official": true
@@ -529,7 +537,7 @@
      "vid": "0XOFT4s3G2A",
      "title": "Miss Uruguay 🇺🇾 Lucía Piñeyro con un Traje Típico inspirado en el carnaval #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 303,
+     "views": 321,
      "likes": 6,
      "published": "2026-11-22T01:35:41+00:00",
      "official": true
@@ -544,7 +552,7 @@
      "official": true
     }
    ],
-   "views_total": 2466439,
+   "views_total": 2589151,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -659,6 +667,13 @@
      "credit": "Miss Universe"
     },
     {
+     "url": "https://i.ytimg.com/vi/EeH0AN8JMkI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/EeH0AN8JMkI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=EeH0AN8JMkI",
+     "via": "YouTube (miniatura)",
+     "credit": "PlayTime Entertainment"
+    },
+    {
      "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
@@ -666,11 +681,11 @@
      "credit": "Canal Antigua"
     },
     {
-     "url": "https://i.ytimg.com/vi/EeH0AN8JMkI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EeH0AN8JMkI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EeH0AN8JMkI",
+     "url": "https://i.ytimg.com/vi/GYkhoTRvw3I/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/GYkhoTRvw3I/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=GYkhoTRvw3I",
      "via": "YouTube (miniatura)",
-     "credit": "PlayTime Entertainment"
+     "credit": "Julian Cuartas TV"
     },
     {
      "url": "https://i.ytimg.com/vi/8mLmfFhlqYE/maxresdefault.jpg",
@@ -811,12 +826,6 @@
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/los-momentos-mas-impactantes-del-desfile-de-trajes-nacionales-de-miss-universe-2026/",
      "via": "Bing (miniatura)",
      "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/DHRO/luisa-pineda-traje-tipico-miss-unive_16198722_20261121193539.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/mejores-trajes-tipicos-nacionales-espectaculares-miss-universo-2026-national-costume-PH32711943",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
@@ -849,7 +858,7 @@
    ],
    "image_query": "Miss Universe 2026 Desfile De Traje",
    "extra_images": [],
-   "extra_at": "2026-11-22T03:32:34.497551+00:00",
+   "extra_at": "2026-11-22T03:40:34.869329+00:00",
    "social": [
     {
      "fetched": "2026-11-22T03:08:34.494432+00:00",
@@ -922,7 +931,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/p/DgBeQEiDSey",
      "platform": "Instagram"
     },
@@ -990,7 +999,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 454
+   "score": 464
   },
   {
    "key": "seed:voto-top30",
@@ -1051,7 +1060,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21608,
+     "views": 21613,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1060,7 +1069,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 20204,
+     "views": 20223,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1069,13 +1078,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8948,
+     "views": 8970,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 50760,
+   "views_total": 50806,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -1447,7 +1456,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 19345,
+     "views": 22060,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -1456,13 +1465,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 4410,
+     "views": 4715,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 23755,
+   "views_total": 26775,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -1698,10 +1707,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "167f0f375b30f0",
     "1bca22b012a382",
     "ecebb285b65b8f",
     "43f7f63bba2d3c",
@@ -1820,8 +1830,7 @@
     "f94b767102acf1",
     "f84750cc2f8e60",
     "8e0fa4d9b2cd1d",
-    "94f763770da88f",
-    "5465c15799624f"
+    "94f763770da88f"
    ],
    "sources": [
     "24 horas",
@@ -1886,7 +1895,7 @@
     "elsalvador.com",
     "minuto60"
    ],
-   "n_items": 151,
+   "n_items": 152,
    "n_sources": 61,
    "videos": [],
    "views_total": 0,
@@ -2101,7 +2110,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 276
+   "score": 277
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -2118,13 +2127,13 @@
    "start": "2026-11-21T01:00:00+00:00",
    "last_activity": "2026-11-21T19:33:00+00:00",
    "item_ids": [
-    "e056a8cd2866ba",
     "db542e908bbdda",
     "5bdda67908ff3e",
     "3253734efd4bb6",
     "e9bc922fb2490d",
     "674e959828e886",
-    "e5a6c3015d491e"
+    "e5a6c3015d491e",
+    "e056a8cd2866ba"
    ],
    "sources": [
     "El Nuevo Día",
@@ -2138,48 +2147,6 @@
    "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/IUBRBHMI6VCA5NP2HWHXADQHWM.jpg?auth=a261beb6ec98389fd0d59438abb5aca6651859929838430e68e64855df5eec68&quality=75&width=1200&height=717&focal=2597%2C403",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.2UHI8Vq9LJ_RMhVtdxXllw&pid=News",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
-     "via": "Bing (miniatura)",
-     "credit": "El Nuevo Día"
-    },
     {
      "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/ERIL/luisa-pineda-miss-honduras-universo_16197179_20261121152217.jpg",
      "page": "https://www.laprensa.hn/fotogalerias/farandula/candidata-luisa-pineda-favorita-top-10-miss-universo-2026-honduras-JH32710191",
@@ -2247,7 +2214,43 @@
      "credit": "El Nuevo Día"
     },
     {
+     "url": "http://www.bing.com/th?id=ONUT.4d8R9iFPTDq0nTMTRTQWpQ&pid=News",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/videos/miss-universe-2026-en-puerto-rico-asi-sera-el-escenario-del-certamen-de-los-75-anos-294831/",
+     "via": "Bing (miniatura)",
+     "credit": "El Nuevo Día"
+    },
+    {
      "url": "https://www.elnuevodia.com/resizer/v2/JPRTG43LNJAXPJLVBWRD2AHEKI.JPG?auth=2dd14723845e483b1ebacdc43171ab5fb818c6412e2e09a9fecc0b5503f4331e&quality=75&width=1200&height=717&focal=2859%2C1179",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/asi-sera-el-escenario-de-miss-universe-2026-ronald-day-revela-los-detalles-en-entrevista-exclusiva-con-el-nuevo-dia/",
      "via": "El Nuevo Día",
      "credit": "El Nuevo Día"
@@ -2293,6 +2296,12 @@
      "page": "https://www.panamaamerica.com.pa/variedades/gabriela-gonzalez-como-le-fue-en-la-entrevista-con-el-jurado-de-miss-universo-1282396",
      "via": "Panamá América",
      "credit": "Panamá América"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/IUBRBHMI6VCA5NP2HWHXADQHWM.jpg?auth=a261beb6ec98389fd0d59438abb5aca6651859929838430e68e64855df5eec68&quality=75&width=1200&height=717&focal=2597%2C403",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/this-is-what-the-miss-universe-2026-stage-will-look-like-puerto-rico-will-be-able-to-see-where-all-the-money-has-been-invested/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-10.hjc-dems-staff-report-epstein-and-trump.pdf/page1-960px-2026-10.hjc-dems-staff-report-epstein-and-trump.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2448,7 +2457,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 911880,
+     "views": 912586,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -2457,13 +2466,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 97988,
+     "views": 98492,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 1009868,
+   "views_total": 1011078,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -2567,7 +2576,7 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 1102,
+     "views": 1117,
      "likes": 12,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
@@ -2582,7 +2591,7 @@
      "official": true
     }
    ],
-   "views_total": 1809,
+   "views_total": 1824,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -3154,7 +3163,7 @@
      "credit": "House Committee on the Judiciary"
     }
    ],
-   "extra_at": "2026-11-22T00:36:34.597095+00:00",
+   "extra_at": "2026-11-22T03:40:34.869329+00:00",
    "social": [
     {
      "fetched": "2026-11-22T03:32:34.497551+00:00",
@@ -3207,7 +3216,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-21T23:48:25.288758+00:00",
-   "start": "2026-11-19T13:08:00+00:00",
+   "start": "2026-11-19T14:13:49+00:00",
    "last_activity": "2026-11-20T22:47:00+00:00",
    "item_ids": [
     "80af0fcfb1bc7c",
@@ -3232,8 +3241,7 @@
     "2a8f2a0f4538fa",
     "ac106876a9e2c5",
     "a52aee3d1f4bf3",
-    "59fc57459cf90b",
-    "367b7a1973b5c8"
+    "59fc57459cf90b"
    ],
    "sources": [
     "ABS-CBN on MSN",
@@ -3253,7 +3261,7 @@
     "elamaule.cl",
     "www.elmorrocotudo.cl"
    ],
-   "n_items": 24,
+   "n_items": 23,
    "n_sources": 16,
    "videos": [],
    "views_total": 0,
@@ -3566,7 +3574,7 @@
    "extra_at": "2026-11-22T02:52:34.453076+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/p/Df-iPSgBZ5d",
      "platform": "Instagram"
     },
@@ -3576,7 +3584,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/p/Df-kesEl7iC",
      "platform": "Instagram"
     },
@@ -3596,17 +3604,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df-CRP-FOje",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df-eEc0mTW5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -3616,12 +3624,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -3631,7 +3639,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -3647,7 +3655,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 59
+   "score": 58
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -4046,7 +4054,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T17:15:42.442563+00:00",
-   "start": "2026-11-19T13:08:00+00:00",
+   "start": "2026-11-19T13:39:00+00:00",
    "last_activity": "2026-11-20T19:52:09+00:00",
    "item_ids": [
     "20be2d9e5de105",
@@ -4074,7 +4082,6 @@
     "a3d5313f4a1359",
     "bb05a27bdb9183",
     "967a2fbdae6575",
-    "367b7a1973b5c8",
     "8529bcba468631",
     "989d893854b082",
     "d145a5a5e21f86",
@@ -4116,7 +4123,7 @@
     "www.elmorrocotudo.cl",
     "www.elquehaydecierto.cl"
    ],
-   "n_items": 39,
+   "n_items": 38,
    "n_sources": 25,
    "videos": [],
    "views_total": 0,
@@ -4434,7 +4441,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df2c1ckCXba",
      "platform": "Instagram"
     },
@@ -4449,12 +4456,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7Pv_QnAg-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7eyEbkzcY",
      "platform": "Instagram"
     },
@@ -4464,7 +4471,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T02:36:34.521227+00:00",
+     "fetched": "2026-11-22T03:40:34.869329+00:00",
      "url": "https://www.instagram.com/reel/Df7pxOzhr5Y",
      "platform": "Instagram"
     },
@@ -4480,7 +4487,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 89
+   "score": 88
   },
   {
    "key": "t:mu:Votación:2026-11-18",
@@ -4523,13 +4530,13 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21608,
+     "views": 21613,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
     }
    ],
-   "views_total": 21608,
+   "views_total": 21613,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -5177,9 +5184,25 @@
    ],
    "n_items": 3,
    "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "F0H8ejJayL8",
+     "title": "Miss Universe 2026 Turns Aguadilla Into a Runway! | Miss Universe 2026",
+     "channel": "Miss Universe",
+     "views": 179411,
+     "ago": "hace 9 días",
+     "official": false
+    }
+   ],
+   "views_total": 179411,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/F0H8ejJayL8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/F0H8ejJayL8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=F0H8ejJayL8",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
     {
      "url": "http://www.bing.com/th?id=ONUT.dAeO75M6Ut4BdV1HLXyrbg&pid=News",
      "page": "https://www.msn.com/es-mx/noticias/otras/estas-concursantes-de-miss-universo-2026-renunciaron-previo-a-la-final-lista-completa-y-por-qu%C3%A9-salieron/ar-AA2heJ1k",
@@ -5475,7 +5498,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 20
   },
   {
    "key": "t:me:Tour / visita:2026-11-18",
@@ -6220,7 +6243,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6233,7 +6256,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-22T03:32:34.497551+00:00",
+   "extra_at": "2026-11-22T03:40:34.869329+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6253,7 +6276,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6266,7 +6289,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-22T03:32:34.497551+00:00",
+   "extra_at": "2026-11-22T03:40:34.869329+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6286,7 +6309,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6517,7 +6540,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6748,7 +6771,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T03:32:34.497551+00:00",
+   "first_seen": "2026-11-22T03:40:34.869329+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
