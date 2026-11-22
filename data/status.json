@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-22T20:53:09.224107+00:00",
+ "run_at": "2026-11-22T21:01:09.202481+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -10,19 +10,19 @@
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
-   "ok": true,
-   "items": 75,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 73,
    "error": null
   },
   {
@@ -52,13 +52,13 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 95,
+   "items": 96,
    "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 87,
+   "items": 50,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 26,
+   "items": 27,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 35,
+   "items": 74,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
@@ -226,7 +226,7 @@
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 3,
+   "items": 1,
    "error": null
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 922,
+ "new_items": 829,
  "total_items": 900
 }
