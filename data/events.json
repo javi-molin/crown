@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T09:32:44.431478+00:00",
- "count": 26,
+ "updated": "2026-11-22T09:40:44.382180+00:00",
+ "count": 27,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -230,6 +230,7 @@
     "deb68fa863e308",
     "08dfdbec8e1774",
     "01dd9174e9bf30",
+    "af19082ab4bebd",
     "39fd85c33fb420",
     "3e3be67d15e468",
     "758a96b862fbc5",
@@ -336,8 +337,7 @@
     "edf5e2cbc5be16",
     "f5ae895d227d07",
     "4ec5f028c66bb1",
-    "f889979776c618",
-    "b2cbdde7eecaaf"
+    "f889979776c618"
    ],
    "sources": [
     "24 horas",
@@ -351,7 +351,6 @@
     "Canal Antigua",
     "Chic Magazine",
     "CiberCuba",
-    "DZRH",
     "Daily Tribune",
     "Demokratis.co.id",
     "Diario AS",
@@ -379,16 +378,17 @@
     "HOLA.com on MSN",
     "Infobae",
     "La Nación Costa Rica",
-    "La Prensa Gráfica"
+    "La Prensa Gráfica",
+    "Listín Diario"
    ],
-   "n_items": 220,
-   "n_sources": 84,
+   "n_items": 219,
+   "n_sources": 82,
    "videos": [
     {
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 1001826,
+     "views": 1002931,
      "ago": "Transmitido hace 8 h",
      "official": false
     },
@@ -396,7 +396,7 @@
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 949535,
+     "views": 950073,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
@@ -405,7 +405,7 @@
      "vid": "EeH0AN8JMkI",
      "title": "PLAYTIME ENTERTAINMENT PRESENTA: DESFILE DE TRAJES TÍPICOS DE MISS UNIVERSE 2026 | ¡EN VIVO Y GRA...",
      "channel": "PlayTime Entertainment",
-     "views": 811111,
+     "views": 812083,
      "ago": "Transmitido hace 9 h",
      "official": false
     },
@@ -422,7 +422,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 53026,
+     "views": 53261,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -458,7 +458,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 9758,
+     "views": 9818,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -563,7 +563,7 @@
      "official": true
     }
    ],
-   "views_total": 3157266,
+   "views_total": 3160176,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -692,18 +692,18 @@
      "credit": "Miss Universe"
     },
     {
-     "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
-     "via": "YouTube (miniatura)",
-     "credit": "Canal Antigua"
-    },
-    {
      "url": "https://i.ytimg.com/vi/EeH0AN8JMkI/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/EeH0AN8JMkI/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=EeH0AN8JMkI",
      "via": "YouTube (miniatura)",
      "credit": "PlayTime Entertainment"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
+     "via": "YouTube (miniatura)",
+     "credit": "Canal Antigua"
     },
     {
      "url": "https://i.ytimg.com/vi/8mLmfFhlqYE/maxresdefault.jpg",
@@ -860,8 +860,6 @@
     "https://www.instagram.com/p/DgBgjQ8DFOa",
     "https://www.instagram.com/p/DgBgpniMTUH",
     "https://www.instagram.com/p/DgBhRFjjZiu",
-    "https://www.instagram.com/p/DgBkmB5tKK6",
-    "https://www.instagram.com/p/DgBp-YfpvHv",
     "https://www.instagram.com/reel/Dcw0KGOIfK-",
     "https://www.instagram.com/reel/DezSOz7I6yg",
     "https://www.instagram.com/reel/DfXPN_GIY9k",
@@ -869,7 +867,9 @@
     "https://www.instagram.com/reel/DgBa8mhudSB",
     "https://www.instagram.com/reel/DgBaxf5MEzQ",
     "https://www.instagram.com/reel/DgBdsZ4FQyV",
-    "https://www.instagram.com/reel/DgBgpniMTUH"
+    "https://www.youtube.com/watch?v=H67iW5iKBZM",
+    "https://www.youtube.com/watch?v=ml9GnESwcWw",
+    "https://www.youtube.com/watch?v=videoseries"
    ],
    "image_query": "Miss Universe 2026 Desfile De Traje",
    "extra_images": [
@@ -909,7 +909,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/p/Df7rX12BNqe",
      "platform": "Instagram"
     },
@@ -919,12 +919,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/p/Df_ZrhIMvFj",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/p/DgAgpY3kY2-",
      "platform": "Instagram"
     },
@@ -984,16 +984,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T09:32:44.431478+00:00",
-     "url": "https://www.instagram.com/p/DgBkmB5tKK6",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T09:32:44.431478+00:00",
-     "url": "https://www.instagram.com/p/DgBp-YfpvHv",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-22T08:44:44.416857+00:00",
      "url": "https://www.instagram.com/reel/Dcw0KGOIfK-",
      "platform": "Instagram"
@@ -1029,9 +1019,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T09:32:44.431478+00:00",
-     "url": "https://www.instagram.com/reel/DgBgpniMTUH",
-     "platform": "Instagram"
+     "fetched": "2026-11-22T08:44:44.416857+00:00",
+     "url": "https://www.youtube.com/watch?v=H67iW5iKBZM",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/H67iW5iKBZM/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-22T08:44:44.416857+00:00",
+     "url": "https://www.youtube.com/watch?v=ml9GnESwcWw",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/ml9GnESwcWw/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-22T09:24:44.473231+00:00",
+     "url": "https://www.youtube.com/watch?v=videoseries",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/videoseries/hqdefault.jpg"
     }
    ],
    "social_totals": {
@@ -1040,7 +1043,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 548
+   "score": 544
   },
   {
    "key": "seed:voto-top30",
@@ -1104,7 +1107,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 22031,
+     "views": 22037,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1113,7 +1116,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 20699,
+     "views": 20706,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1122,13 +1125,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 9190,
+     "views": 9195,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 51920,
+   "views_total": 51938,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -1423,7 +1426,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-22T06:36:44.621482+00:00",
+   "extra_at": "2026-11-22T09:40:44.382180+00:00",
    "social": [
     {
      "fetched": "2026-11-22T09:16:45.214249+00:00",
@@ -1500,7 +1503,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 53026,
+     "views": 53261,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -1509,13 +1512,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 9758,
+     "views": 9818,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 62784,
+   "views_total": 63079,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -1695,7 +1698,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -1707,6 +1710,7 @@
     "deb68fa863e308",
     "08dfdbec8e1774",
     "01dd9174e9bf30",
+    "af19082ab4bebd",
     "39fd85c33fb420",
     "3e3be67d15e468",
     "758a96b862fbc5",
@@ -1817,8 +1821,7 @@
     "f889979776c618",
     "6b9a8bd6db750f",
     "10a2e43798cda8",
-    "7feb336e04815d",
-    "2c2c2109a438e7"
+    "7feb336e04815d"
    ],
    "sources": [
     "24 horas",
@@ -1895,7 +1898,7 @@
     "philstarlife",
     "sdpnoticias"
    ],
-   "n_items": 185,
+   "n_items": 186,
    "n_sources": 73,
    "videos": [],
    "views_total": 0,
@@ -1928,7 +1931,239 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 334
+   "score": 335
+  },
+  {
+   "key": "t:me:Trajes típicos:2026-11-21",
+   "id": "t-me-trajes-tipicos-2026-11-21-7d207",
+   "name": "Trajes típicos · 21–23 nov",
+   "contest": "me",
+   "kind": "detectado",
+   "labels": [
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
+   "start": "2026-11-21T15:59:00+00:00",
+   "last_activity": "2026-11-21T19:49:00+00:00",
+   "item_ids": [
+    "2c2c2109a438e7",
+    "cfadc615364727",
+    "a70479a0cbd0df"
+   ],
+   "sources": [
+    "El Nuevo Día",
+    "The Manila Times",
+    "philstarlife"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/56KDSANYH5D53ASPEXVZB3HLEY.jpg?auth=2ac94a55edd4fdaf30778113437723b47919d31dc8fe95f7d4ec914279051eb0&quality=75&width=1200&height=717&focal=2986%2C2260",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.Dj3SU-l9U6EXqoHS9uy0Bw&pid=News",
+     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
+     "via": "Bing (miniatura)",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/top%20national%20costumes%20miss%20u%202026%20inner%20image.jpg",
+     "page": "https://philstarlife.com/style/760436-miss-universe-2026-best-national-costumes",
+     "via": "philstarlife",
+     "credit": "philstarlife"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/SnapInsta-Ai_4035625449235625080-fotor-20261122135248.jpg",
+     "page": "https://philstarlife.com/style/760436-miss-universe-2026-best-national-costumes",
+     "via": "philstarlife",
+     "credit": "philstarlife"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/SnapInsta-Ai_4035648477751181610-fotor-20261122141432.jpg",
+     "page": "https://philstarlife.com/style/760436-miss-universe-2026-best-national-costumes",
+     "via": "philstarlife",
+     "credit": "philstarlife"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/SnapInsta-Ai_4035648461603235845-fotor-2026112214327.jpg",
+     "page": "https://philstarlife.com/style/760436-miss-universe-2026-best-national-costumes",
+     "via": "philstarlife",
+     "credit": "philstarlife"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/pat_temp/SnapInsta-Ai_4035742208072444400-fotor-20261122163634.jpg",
+     "page": "https://philstarlife.com/style/760436-miss-universe-2026-best-national-costumes",
+     "via": "philstarlife",
+     "credit": "philstarlife"
+    },
+    {
+     "url": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=852&q=75&f=webp",
+     "page": "https://www.manilatimes.net/2026/11/22/entertainment-lifestyle/show-times/bea-millan-windorski-brings-cordillera-heritage-to-miss-universe-stage/2475601",
+     "via": "The Manila Times",
+     "credit": "The Manila Times"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf/page1-960px-12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:12-10-1982_(case_file_115110)_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Blue_Book_Magazine_1930-08.pdf/page1-330px-Blue_Book_Magazine_1930-08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Book_Magazine_1930-08.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nVarious"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf/page1-960px-Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_(SIC)_codes_(IA_federalinformati66nati).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nNational Bureau of Standards"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gandhi_-_The_Wheel_of_fortune.djvu/page1-1280px-Gandhi_-_The_Wheel_of_fortune.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Wheel_of_fortune.djvu",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Mahatma Gandhi"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Jean Giraudoux"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgBkmB5tKK6",
+    "https://www.instagram.com/p/DgBp-YfpvHv",
+    "https://www.instagram.com/reel/DgBgpniMTUH",
+    "https://www.instagram.com/reel/DgBkmB5tKK6"
+   ],
+   "image_query": "Miss Earth 2026 national costume",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf/page1-960px-12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:12-10-1982_(case_file_115110)_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Blue_Book_Magazine_1930-08.pdf/page1-330px-Blue_Book_Magazine_1930-08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Blue_Book_Magazine_1930-08.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nVarious"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf/page1-960px-Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_(SIC)_codes_(IA_federalinformati66nati).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nNational Bureau of Standards"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gandhi_-_The_Wheel_of_fortune.djvu/page1-1280px-Gandhi_-_The_Wheel_of_fortune.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Wheel_of_fortune.djvu",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Mahatma Gandhi"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Jean Giraudoux"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    }
+   ],
+   "extra_at": "2026-11-22T09:40:44.382180+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-22T09:32:44.431478+00:00",
+     "url": "https://www.instagram.com/p/DgBkmB5tKK6",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T09:32:44.431478+00:00",
+     "url": "https://www.instagram.com/p/DgBp-YfpvHv",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T09:32:44.431478+00:00",
+     "url": "https://www.instagram.com/reel/DgBgpniMTUH",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
+     "url": "https://www.instagram.com/reel/DgBkmB5tKK6",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 9
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -2230,7 +2465,7 @@
    "extra_at": "2026-11-22T08:12:44.852380+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/p/Df7rX12BNqe",
      "platform": "Instagram"
     },
@@ -2289,7 +2524,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 930956,
+     "views": 931124,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -2298,13 +2533,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 112611,
+     "views": 112691,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 1043567,
+   "views_total": 1043815,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -2373,7 +2608,7 @@
      "credit": "The Indian Listener: The Indian State Broadcasting Service"
     }
    ],
-   "extra_at": "2026-11-22T06:36:44.621482+00:00",
+   "extra_at": "2026-11-22T09:40:44.382180+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2408,13 +2643,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 1483,
+     "views": 1494,
      "likes": 15,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 1483,
+   "views_total": 1494,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -2818,7 +3053,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/reel/Df8Levrto97",
      "platform": "Instagram"
     },
@@ -3456,7 +3691,7 @@
    "extra_at": "2026-11-22T09:16:45.214249+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T08:36:44.780813+00:00",
+     "fetched": "2026-11-22T09:40:44.382180+00:00",
      "url": "https://www.instagram.com/reel/Df72SRgBraB",
      "platform": "Instagram"
     },
@@ -3515,13 +3750,13 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 22031,
+     "views": 22037,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
     }
    ],
-   "views_total": 22031,
+   "views_total": 22037,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -3810,7 +4045,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 fashion show runway",
    "extra_images": [],
-   "extra_at": "2026-11-22T09:32:44.431478+00:00",
+   "extra_at": "2026-11-22T09:40:44.382180+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4264,13 +4499,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 7435,
+     "views": 7445,
      "likes": 28,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 7435,
+   "views_total": 7445,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -4317,7 +4552,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4366,7 +4601,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4597,7 +4832,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4606,209 +4841,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7CSYWBFPXNMV5MOYSEW6ULXWNU.jpg",
-     "page": "https://www.reuters.com/technology/openai-offer-users-up-20000-reporting-bugs-2023-04-11/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UIPUThitIxDWY07SRIJf0AHaFB&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK.jpg",
-     "page": "https://www.tomsguide.com/news/chatgpt",
-     "via": "Bing Imágenes",
-     "credit": "tomsguide.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.fvl8hOWKa7ihBmrAwMaSbwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://wing.com.br/Loja/Imagens/chatgptassistente4520239400656.jpg",
-     "page": "http://boabolsa.com.br/844061/533/chat-gpt-o-que-e-como-funciona-e-como-usar",
-     "via": "Bing Imágenes",
-     "credit": "boabolsa.com.br",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.wkDTGyCcARf6P5gXHyYUQQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/1678606142_GPT_4_Segera_Dirilis_Lebih_Canggih_dari_ChatGPT_dan_Bisa_Bikin_Video.jpeg",
-     "page": "https://www.notebookcheck.org/OpenAI-lanza-ChatGPT-4-con-nuevas-e-impresionantes-funciones.701413.0.html",
-     "via": "Bing Imágenes",
-     "credit": "notebookcheck.org",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.FBxNXl8t_opbMBG3ZM2GPgHaFZ&pid=15.1"
-    },
-    {
-     "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/02/24/16772593986872.jpg",
-     "page": "https://www.elmundo.es/tecnologia/2023/02/24/63f8edfdfc6c8392358b459b.html",
-     "via": "Bing Imágenes",
-     "credit": "elmundo.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.pWulE7Mt9_EDH0AyQCleTwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://assets.entrepreneur.com/content/3x2/2000/1693342407-openai-chatgpt-enterprise-0823-g1246494152.jpg?format=pjeg&auto=webp",
-     "page": "https://www.entrepreneur.com/es/noticias/openai-lanza-chatgpt-enterprise-el-chatbot-exclusivo-para/458224",
-     "via": "Bing Imágenes",
-     "credit": "entrepreneur.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.arJiXBoXlSJxbkfwZcWKhAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://images.hindustantimes.com/tech/img/2023/01/14/960x540/OPENAI-CHATGPT-29_1673677367866_1673677367866_1673677380619_1673677380619.jpg",
-     "page": "https://tech.hindustantimes.com/tech/news/openai-gives-chatgpt-the-ability-to-speak-in-five-different-voices-71695658987619.html",
-     "via": "Bing Imágenes",
-     "credit": "tech.hindustantimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.naSSphIRdaXAF1gSnqKN6AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.tribune.com.pk/media/images/ChatGPT1675827254-0/ChatGPT1675827254-0.jpg",
-     "page": "https://tribune.com.pk/story/2417539/openai-to-introduce-chatgpt-app-for-ios",
-     "via": "Bing Imágenes",
-     "credit": "tribune.com.pk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.2Q_g3Xx-khSeHuzHypvSlwHaFC&pid=15.1"
-    },
-    {
-     "url": "https://wearearch.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2FOpen%2520AI%2520Chat%2520GPT%2520on%2520Phone&w=3840&q=70",
-     "page": "https://wearearch.com/blog/openai-unveils-a-new-era-of-customisation-for-chatgpt",
-     "via": "Bing Imágenes",
-     "credit": "wearearch.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ws1M94iNOJfqgzTlMn9FSwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://cdn.neowin.com/news/images/uploaded/2023/05/1683188731_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai.jpg",
-     "page": "https://www.neowin.net/news/openai-has-announced-chatgpt-enterprise-with-unlimited-gpt-4-access/",
-     "via": "Bing Imágenes",
-     "credit": "neowin.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.PjJma_gns0iHC31BRIlXvAHaE8&pid=15.1"
-    },
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1XB1ae.img?w=768&h=432&m=6",
-     "page": "https://www.msn.com/en-us/news/technology/chatgpt-apps-are-here-what-openai-s-new-apps-sdk-means-for-marketers-and-developers/ar-AA1XBmQI",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.EHgyaf23WmuoJmX8xPiT5wHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/42RR6uPaPaDdqSphZK8xiJ.jpg",
-     "page": "https://global.techradar.com/es-mx/news/ChatGPT-llega-a-los-smartwatch",
-     "via": "Bing Imágenes",
-     "credit": "global.techradar.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.vaZqxsfmeM8wzXMy9248ZQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://gagadget.com/media/uploads2/chatgpt-translate-1920w-1080hjpg.webp",
-     "page": "https://gagadget.com/en/692268-openai-launched-its-own-chatgpt-translate-translator-without-an-official-announcement/",
-     "via": "Bing Imágenes",
-     "credit": "gagadget.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.U9X1Fu-NguwGysh6UynB4AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/mvqLq8rahgnvHjHKeHJ6wE.jpg",
-     "page": "https://www.inkl.com/news/chatgpt-explained-everything-you-need-to-know-about-the-ai-chatbot",
-     "via": "Bing Imágenes",
-     "credit": "inkl.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.s0mZnasjeFKT6V3fWXhSkwHaEK&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
-   "extra_images": [
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/7CSYWBFPXNMV5MOYSEW6ULXWNU.jpg",
-     "page": "https://www.reuters.com/technology/openai-offer-users-up-20000-reporting-bugs-2023-04-11/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UIPUThitIxDWY07SRIJf0AHaFB&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/7FnxdYvdQ3Ugo3WjnKaYiK.jpg",
-     "page": "https://www.tomsguide.com/news/chatgpt",
-     "via": "Bing Imágenes",
-     "credit": "tomsguide.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.fvl8hOWKa7ihBmrAwMaSbwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://wing.com.br/Loja/Imagens/chatgptassistente4520239400656.jpg",
-     "page": "http://boabolsa.com.br/844061/533/chat-gpt-o-que-e-como-funciona-e-como-usar",
-     "via": "Bing Imágenes",
-     "credit": "boabolsa.com.br",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.wkDTGyCcARf6P5gXHyYUQQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/1678606142_GPT_4_Segera_Dirilis_Lebih_Canggih_dari_ChatGPT_dan_Bisa_Bikin_Video.jpeg",
-     "page": "https://www.notebookcheck.org/OpenAI-lanza-ChatGPT-4-con-nuevas-e-impresionantes-funciones.701413.0.html",
-     "via": "Bing Imágenes",
-     "credit": "notebookcheck.org",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.FBxNXl8t_opbMBG3ZM2GPgHaFZ&pid=15.1"
-    },
-    {
-     "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2023/02/24/16772593986872.jpg",
-     "page": "https://www.elmundo.es/tecnologia/2023/02/24/63f8edfdfc6c8392358b459b.html",
-     "via": "Bing Imágenes",
-     "credit": "elmundo.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.pWulE7Mt9_EDH0AyQCleTwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://assets.entrepreneur.com/content/3x2/2000/1693342407-openai-chatgpt-enterprise-0823-g1246494152.jpg?format=pjeg&auto=webp",
-     "page": "https://www.entrepreneur.com/es/noticias/openai-lanza-chatgpt-enterprise-el-chatbot-exclusivo-para/458224",
-     "via": "Bing Imágenes",
-     "credit": "entrepreneur.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.arJiXBoXlSJxbkfwZcWKhAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://images.hindustantimes.com/tech/img/2023/01/14/960x540/OPENAI-CHATGPT-29_1673677367866_1673677367866_1673677380619_1673677380619.jpg",
-     "page": "https://tech.hindustantimes.com/tech/news/openai-gives-chatgpt-the-ability-to-speak-in-five-different-voices-71695658987619.html",
-     "via": "Bing Imágenes",
-     "credit": "tech.hindustantimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.naSSphIRdaXAF1gSnqKN6AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.tribune.com.pk/media/images/ChatGPT1675827254-0/ChatGPT1675827254-0.jpg",
-     "page": "https://tribune.com.pk/story/2417539/openai-to-introduce-chatgpt-app-for-ios",
-     "via": "Bing Imágenes",
-     "credit": "tribune.com.pk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.2Q_g3Xx-khSeHuzHypvSlwHaFC&pid=15.1"
-    },
-    {
-     "url": "https://wearearch.com/_next/image?url=%2Fapi%2Fmedia%2Ffile%2FOpen%2520AI%2520Chat%2520GPT%2520on%2520Phone&w=3840&q=70",
-     "page": "https://wearearch.com/blog/openai-unveils-a-new-era-of-customisation-for-chatgpt",
-     "via": "Bing Imágenes",
-     "credit": "wearearch.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ws1M94iNOJfqgzTlMn9FSwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://cdn.neowin.com/news/images/uploaded/2023/05/1683188731_image-of-hand-holding-an-ai-face-looking-at-the-words-chatgpt-openai.jpg",
-     "page": "https://www.neowin.net/news/openai-has-announced-chatgpt-enterprise-with-unlimited-gpt-4-access/",
-     "via": "Bing Imágenes",
-     "credit": "neowin.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.PjJma_gns0iHC31BRIlXvAHaE8&pid=15.1"
-    },
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1XB1ae.img?w=768&h=432&m=6",
-     "page": "https://www.msn.com/en-us/news/technology/chatgpt-apps-are-here-what-openai-s-new-apps-sdk-means-for-marketers-and-developers/ar-AA1XBmQI",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.EHgyaf23WmuoJmX8xPiT5wHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/42RR6uPaPaDdqSphZK8xiJ.jpg",
-     "page": "https://global.techradar.com/es-mx/news/ChatGPT-llega-a-los-smartwatch",
-     "via": "Bing Imágenes",
-     "credit": "global.techradar.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.vaZqxsfmeM8wzXMy9248ZQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://gagadget.com/media/uploads2/chatgpt-translate-1920w-1080hjpg.webp",
-     "page": "https://gagadget.com/en/692268-openai-launched-its-own-chatgpt-translate-translator-without-an-official-announcement/",
-     "via": "Bing Imágenes",
-     "credit": "gagadget.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.U9X1Fu-NguwGysh6UynB4AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/mvqLq8rahgnvHjHKeHJ6wE.jpg",
-     "page": "https://www.inkl.com/news/chatgpt-explained-everything-you-need-to-know-about-the-ai-chatbot",
-     "via": "Bing Imágenes",
-     "credit": "inkl.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.s0mZnasjeFKT6V3fWXhSkwHaEK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-22T06:36:44.621482+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-22T09:40:44.382180+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4828,7 +4865,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -4877,7 +4914,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T09:32:44.431478+00:00",
+   "first_seen": "2026-11-22T09:40:44.382180+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
