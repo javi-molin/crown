@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-22T08:12:44.852380+00:00",
+ "run_at": "2026-11-22T08:20:45.001925+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -9,9 +9,9 @@
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universo polémica",
@@ -39,9 +39,9 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": true,
-   "items": 36,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
@@ -75,9 +75,9 @@
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
-   "ok": true,
-   "items": 29,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Earth Philippines December",
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 13,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 18,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 15,
+   "items": 14,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 7,
+   "items": 5,
    "error": null
   },
   {
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 208,
+   "items": 212,
    "error": null
   }
  ],
- "new_items": 865,
+ "new_items": 807,
  "total_items": 900
 }
