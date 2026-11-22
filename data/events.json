@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:01:26.704197+00:00",
+ "updated": "2026-11-22T23:09:25.811385+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,10 +176,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
+    "cd5792e3d30995",
     "34cfb9a681d111",
     "1ddbaf311448f2",
     "9ca0eda25522c7",
@@ -254,7 +255,7 @@
     "primicias",
     "radioimagina"
    ],
-   "n_items": 41,
+   "n_items": 42,
    "n_sources": 30,
    "videos": [],
    "views_total": 0,
@@ -271,7 +272,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 104
+   "score": 105
   },
   {
    "key": "t:mu:Preliminar:2026-11-21",
@@ -287,8 +288,9 @@
    "refs": [],
    "first_seen": "2026-11-22T14:20:54.470519+00:00",
    "start": "2026-11-21T07:33:00+00:00",
-   "last_activity": "2026-11-22T22:51:23+00:00",
+   "last_activity": "2026-11-22T22:58:04+00:00",
    "item_ids": [
+    "cd5792e3d30995",
     "34cfb9a681d111",
     "1ddbaf311448f2",
     "9ca0eda25522c7",
@@ -344,6 +346,7 @@
     "cec77c1c47f174",
     "83952976517c1f",
     "1e05d60a400392",
+    "01c250ff41598f",
     "bcc274b00e0914",
     "c7a4d99e9dbc92",
     "0f2da48c6fe9b8",
@@ -392,14 +395,14 @@
     "primicias",
     "radioimagina"
    ],
-   "n_items": 61,
+   "n_items": 63,
    "n_sources": 39,
    "videos": [
     {
      "vid": "cM_PTy3wmWk",
      "title": "EN VIVO de la Competencia Preliminar 👑🇵🇷💓 #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 92,
+     "views": 134,
      "likes": 0,
      "published": "2026-11-22T22:36:56+00:00",
      "official": true
@@ -408,7 +411,7 @@
      "vid": "_7fUHeb8ns4",
      "title": "Clovis está listo para cubrir la Competencia Preliminar desde el Choliceo 🇵🇷 #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 76,
+     "views": 90,
      "likes": 3,
      "published": "2026-11-22T22:30:06+00:00",
      "official": true
@@ -417,14 +420,30 @@
      "vid": "eJM-snwi4no",
      "title": "👑💫 Yamilex ya está lista para vivir la Competencia Preliminar de #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 11,
+     "views": 13,
      "likes": 0,
      "published": "2026-11-22T22:51:23+00:00",
      "official": true
+    },
+    {
+     "vid": "nZ7Verr8h4s",
+     "title": "🎤 Olga Tañón lista para encender el escenario de la Preliminar con su ritmo y sabor #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 10,
+     "likes": 0,
+     "published": "2026-11-22T22:58:04+00:00",
+     "official": true
     }
    ],
-   "views_total": 179,
+   "views_total": 247,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/nZ7Verr8h4s/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/nZ7Verr8h4s/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=nZ7Verr8h4s",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
     {
      "url": "https://i.ytimg.com/vi/eJM-snwi4no/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/eJM-snwi4no/hqdefault.jpg",
@@ -661,12 +680,6 @@
      "page": "https://www.elheraldo.hn/videos/entretenimiento/luisa-pineda-se-prepara-para-el-desfile-preliminar-en-traje-de-bano-de-miss-universo-2026-HH32714726",
      "via": "El Heraldo",
      "credit": "El Heraldo"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/aYvFKlRR/poster.jpg?width=720",
-     "page": "https://www.elheraldo.hn/videos/entretenimiento/luisa-pineda-se-prepara-para-el-desfile-preliminar-en-traje-de-bano-de-miss-universo-2026-HH32714726",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
@@ -720,22 +733,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DfqSNz2h9kH",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgAh94aIPZL",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBYbVeICWR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBiWmUDiV9",
      "platform": "Instagram"
     },
@@ -750,7 +763,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgDwnUihOWn",
      "platform": "Instagram"
     },
@@ -782,7 +795,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 142
+   "score": 144
   },
   {
    "key": "p:desfile de traje",
@@ -970,7 +983,7 @@
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 1123857,
+     "views": 1125183,
      "ago": "Transmitido hace 22 h",
      "official": false
     },
@@ -978,7 +991,7 @@
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 987758,
+     "views": 988369,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
@@ -987,7 +1000,7 @@
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 240230,
+     "views": 240963,
      "ago": "Transmitido hace 22 h",
      "official": false
     },
@@ -995,8 +1008,8 @@
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 93685,
-     "likes": 690,
+     "views": 95779,
+     "likes": 694,
      "published": "2026-11-22T01:34:37+00:00",
      "official": true
     },
@@ -1004,7 +1017,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 75390,
+     "views": 75838,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -1013,7 +1026,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 15006,
+     "views": 15030,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -1022,8 +1035,8 @@
      "vid": "PREP0Ptdoy8",
      "title": "¡Representando el folklor dominicano con orgullo! Melissa Núñez 🇩🇴 en Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 13939,
-     "likes": 264,
+     "views": 13989,
+     "likes": 267,
      "published": "2026-11-22T00:59:01+00:00",
      "official": true
     },
@@ -1031,8 +1044,8 @@
      "vid": "SsmOddDYGuM",
      "title": "La flora y fauna de Panamá 🇵🇦 en el Traje Típico de Gabriela González del Valle #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 12731,
-     "likes": 63,
+     "views": 13146,
+     "likes": 64,
      "published": "2026-11-22T01:06:44+00:00",
      "official": true
     },
@@ -1040,7 +1053,7 @@
      "vid": "71n5Auqk89Y",
      "title": "El poder hecho traje 🇺🇸 Justus Kelley honra a las mujeres con su Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 11867,
+     "views": 11974,
      "likes": 36,
      "published": "2026-11-22T02:01:51+00:00",
      "official": true
@@ -1049,26 +1062,17 @@
      "vid": "b8F2zGHqZgc",
      "title": "Miss Nicaragua 🇳🇮 Jasmine Blandford con traje típico inspirado en El Palo de Mayo #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 9374,
-     "likes": 279,
+     "views": 9407,
+     "likes": 292,
      "published": "2026-11-22T01:37:25+00:00",
-     "official": true
-    },
-    {
-     "vid": "HLld1OMEqGo",
-     "title": "🇭🇳 ¡No es magia, es Miss Honduras, Luisa Paola Pineda con su Traje Típico en #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 7823,
-     "likes": 134,
-     "published": "2026-11-22T00:55:22+00:00",
      "official": true
     },
     {
      "vid": "0XOFT4s3G2A",
      "title": "Miss Uruguay 🇺🇾 Lucía Piñeyro con un Traje Típico inspirado en el carnaval #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 7572,
-     "likes": 25,
+     "views": 7707,
+     "likes": 26,
      "published": "2026-11-22T01:35:41+00:00",
      "official": true
     },
@@ -1076,7 +1080,7 @@
      "vid": "vYNjGtTAnww",
      "title": "National Costume BTS | Miss Universe",
      "channel": "Miss Universe",
-     "views": 6747,
+     "views": 7609,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -1085,7 +1089,7 @@
      "vid": "Q8A-HS1sxfI",
      "title": "🇵🇪 ¡Miss Perú, Luren Márquez, tiene energía de sobra al lucir su Traje Típico! #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 5877,
+     "views": 5905,
      "likes": 80,
      "published": "2026-11-22T00:57:14+00:00",
      "official": true
@@ -1094,7 +1098,7 @@
      "vid": "T1RDAMEmovk",
      "title": "¡Imponente! 🇯🇵 Miss Japón, Sayuki Ito, luce su Traje Típico tras bambalinas #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 5301,
+     "views": 5362,
      "likes": 46,
      "published": "2026-11-22T01:04:25+00:00",
      "official": true
@@ -1103,7 +1107,7 @@
      "vid": "hj2rsixXymI",
      "title": "Miss Paraguay 🇵🇾 Gretha Matiauda quiere conocer tu opinión sobre su Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 2577,
+     "views": 2585,
      "likes": 32,
      "published": "2026-11-22T01:09:23+00:00",
      "official": true
@@ -1118,7 +1122,7 @@
      "official": true
     }
    ],
-   "views_total": 2619734,
+   "views_total": 2618846,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -1194,13 +1198,6 @@
      "url": "https://i.ytimg.com/vi/Q8A-HS1sxfI/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/Q8A-HS1sxfI/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=Q8A-HS1sxfI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/HLld1OMEqGo/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/HLld1OMEqGo/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=HLld1OMEqGo",
      "via": "YouTube (miniatura)",
      "credit": "Telemundo Entretenimiento"
     },
@@ -1379,6 +1376,12 @@
      "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-venezuela-rinde-homenaje-al-clasico-mundial-su-traje-tipico-n5405676",
      "via": "Diario Las Américas",
      "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/4d8919225bdfb2ee06562aca1dd453eb/adjuntos/216/imagenes/100/288/0100288423/116x65/smart/miss-peru-2026.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-venezuela-rinde-homenaje-al-clasico-mundial-su-traje-tipico-n5405676",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
     }
    ],
    "social_urls": [
@@ -1527,7 +1530,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/Df-jagHBWxD",
      "platform": "Instagram"
     },
@@ -1557,7 +1560,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBaNgUIJ8v",
      "platform": "Instagram"
     },
@@ -1587,12 +1590,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBgjQ8DFOa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBgpniMTUH",
      "platform": "Instagram"
     },
@@ -1612,7 +1615,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBiWmUDiV9",
      "platform": "Instagram"
     },
@@ -2163,6 +2166,7 @@
     "799c4eaf2f5323",
     "c3c16477dfd968",
     "0cabcb5bf2e014",
+    "01c250ff41598f",
     "bcc274b00e0914",
     "c7a4d99e9dbc92",
     "af0c7271c83277",
@@ -2216,7 +2220,7 @@
     "mexico",
     "primicias"
    ],
-   "n_items": 32,
+   "n_items": 33,
    "n_sources": 23,
    "videos": [],
    "views_total": 0,
@@ -2481,10 +2485,10 @@
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/Df-jagHBWxD",
      "platform": "Instagram"
     },
@@ -2509,7 +2513,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBiWmUDiV9",
      "platform": "Instagram"
     },
@@ -2519,12 +2523,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBl1TFIgh_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgDwnUihOWn",
      "platform": "Instagram"
     },
@@ -2567,7 +2571,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 81
+   "score": 82
   },
   {
    "key": "seed:voto-top30",
@@ -2611,8 +2615,7 @@
     "7de2b0a0e0c128",
     "fec78f9471594a",
     "1a434b1b50e5dd",
-    "fe7f3035c4345d",
-    "01d3bf65e146db"
+    "fe7f3035c4345d"
    ],
    "sources": [
     "AS Colombia",
@@ -2623,7 +2626,6 @@
     "EL TERRITORIO",
     "El Comercio",
     "El Heraldo",
-    "El Universo",
     "En Cancha",
     "Revista Semana",
     "Semana",
@@ -2633,20 +2635,20 @@
     "infodelestero",
     "oncenoticias.hn"
    ],
-   "n_items": 27,
-   "n_sources": 17,
+   "n_items": 26,
+   "n_sources": 16,
    "videos": [
     {
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 9694,
+     "views": 9707,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 9694,
+   "views_total": 9707,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -2848,30 +2850,6 @@
      "credit": "AS Colombia"
     },
     {
-     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=1008&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/KYAUXZVK4ZEIPN6UZVL7OTZKAU.jpg?auth=b0abf107e30632dd9b61dd47d28a2e25026586ab9a360fbf23d12dd1380d394e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
      "via": "Wikimedia Commons",
@@ -2891,6 +2869,27 @@
      "via": "Wikimedia Commons",
      "license": "CC BY-SA 4.0",
      "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
    "social_urls": [
@@ -2903,7 +2902,6 @@
     "https://www.instagram.com/p/DeV3znYHASa",
     "https://www.instagram.com/p/DeVnuB8Mh1c",
     "https://www.instagram.com/p/DeWSnLvsRAI",
-    "https://www.instagram.com/p/Df-jagHBWxD",
     "https://www.instagram.com/p/Df4jqi_G9R4",
     "https://www.instagram.com/p/Df5yDxMGqRG",
     "https://www.instagram.com/p/DfirgglRWDt",
@@ -2915,7 +2913,6 @@
     "https://www.instagram.com/reel/DT07ca2jn_X",
     "https://www.instagram.com/reel/Df2j3_ds9-S",
     "https://www.instagram.com/reel/Df5breusyDX",
-    "https://www.instagram.com/reel/Df8DXFlPK3l",
     "https://www.instagram.com/reel/DgAOrkAhQMX",
     "https://www.instagram.com/reel/DgBt9AYtJvc",
     "https://www.instagram.com/reel/DgCHkNLzcr3",
@@ -3016,11 +3013,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/p/Df-jagHBWxD",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-22T23:01:26.704197+00:00",
      "url": "https://www.instagram.com/p/Df4jqi_G9R4",
      "platform": "Instagram"
@@ -3036,22 +3028,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgAOrkAhQMX",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgAVCX8RmWE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgBiWmUDiV9",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
      "platform": "Instagram"
     },
@@ -3076,12 +3068,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/reel/Df8DXFlPK3l",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/reel/DgAOrkAhQMX",
      "platform": "Instagram"
     },
@@ -3091,7 +3078,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
      "platform": "Instagram"
     },
@@ -3101,16 +3088,18 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.youtube.com/watch?v=MbTUgZqLgI8",
      "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/MbTUgZqLgI8/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/MbTUgZqLgI8/hqdefault.jpg",
+     "error": "HTTP Error 429: Too Many Requests"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
+     "fetched": "2026-11-22T23:09:25.811385+00:00",
      "url": "https://www.youtube.com/watch?v=o0xJxrRzhdI",
      "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/o0xJxrRzhdI/hqdefault.jpg"
+     "thumb": "https://i.ytimg.com/vi/o0xJxrRzhdI/hqdefault.jpg",
+     "error": "HTTP Error 429: Too Many Requests"
     }
    ],
    "social_totals": {
@@ -3119,7 +3108,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 64
+   "score": 61
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -3150,7 +3139,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3186,13 +3175,13 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 1253,
+     "views": 1262,
      "likes": 9,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
     }
    ],
-   "views_total": 1253,
+   "views_total": 1262,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -3212,7 +3201,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3554,7 +3543,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 75390,
+     "views": 75838,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -3563,13 +3552,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 15006,
+     "views": 15030,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 90396,
+   "views_total": 90868,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -3589,7 +3578,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 National Costume Show Sneak Peek",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3608,7 +3597,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -3836,11 +3825,209 @@
    "n_sources": 97,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://d6isf1yxni2j5.cloudfront.net/large_origen_dia_de_accion_de_gracias_729b928786.jpg",
+     "page": "https://www.info7.mx/internacional/como-se-origino-el-dia-de-accion-de-gracias/3396778531",
+     "via": "Bing Imágenes",
+     "credit": "info7.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.wGkpLOJHM8TZ5e141Vw2dAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/1353689320/es/vector/la-historia-de-la-celebración-del-día-de-acción-de-gracias.jpg?s=1024x1024&w=is&k=20&c=_TIRbYT2FDts5cwh_ya_ocHpT1ieKDM0okjcND1Dkf4=",
+     "page": "https://www.istockphoto.com/es/vector/la-historia-de-la-celebración-del-día-de-acción-de-gracias-gm1353689320-428718222",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP._OcS9t8BAV_P-qp4yi1R7QHaEo&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/4e/b2/7b/4eb27b32fe832a52866fdc1289bfffe6.jpg",
+     "page": "https://www.pinterest.com/pin/458170962075481897/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.pT__iZ7BUosx8SqU7fpF6gHaI4&pid=15.1"
+    },
+    {
+     "url": "https://phantom-marca-mx.unidadeditorial.es/cdfd5bd3521848c58bc55d9953d22bd0/resize/1320/f/jpg/mx/assets/multimedia/imagenes/2024/11/27/17327326916935.jpg",
+     "page": "https://www.marca.com/mx/actualidad/2024/11/27/67475cef46163f616e8b457f.html",
+     "via": "Bing Imágenes",
+     "credit": "marca.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.wMb9oemvpwIDeiAq8WIEqwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cdn.venngage.com/template/thumbnail/full/2bce5bcb-735b-42bc-ab71-5df4408a7cdb.webp",
+     "page": "https://es.venngage.com/templates/infographics/the-history-of-thanksgiving-2bce5bcb-735b-42bc-ab71-5df4408a7cdb",
+     "via": "Bing Imágenes",
+     "credit": "es.venngage.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.8eI9xBJi6GyZkAdH-m_OzgHaJl&pid=15.1"
+    },
+    {
+     "url": "https://4.bp.blogspot.com/-fAAMpXPxbsI/Up-tVQIkCMI/AAAAAAAADus/wUjGnozDkJc/s1600/Thanksgiving+History.jpg",
+     "page": "https://actividadesymasbyteacherindigo.blogspot.com/2013/11/historia-de-el-dia-de-accion-de-gracias.html",
+     "via": "Bing Imágenes",
+     "credit": "actividadesymasbyteacherindigo.blogspot.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.T1IpsxbOF_w5Nt7zGKbwkgHaLQ&pid=15.1"
+    },
+    {
+     "url": "http://c.files.bbci.co.uk/4A27/production/_104438981_gettyimages-481655521-1.jpg",
+     "page": "https://unomindo.blogspot.com/2021/04/historia-del-accion-de-gracias.html",
+     "via": "Bing Imágenes",
+     "credit": "unomindo.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.BH2jel4wYVZWOgrqLYn6GgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7709650011449085214&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@caballerolegendario9/video/7709650011449085214",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.kR7V2SPlzGhdkR78YNwLiw&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca.brightspotcdn.com/ec/14/61f5537e4bd593c33e07479493ae/thanksgiving-verdadera-historia-del-dia-de-accion-de-gracias.jpg",
+     "page": "https://www.revistacentral.com.mx/ponte-al-dia/thanksgiving-verdadera-historia-del-dia-de-accion-de-gracias",
+     "via": "Bing Imágenes",
+     "credit": "revistacentral.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iSoXZGq5dYRQYKh2BWZtsAHaEp&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-1-f.scribdassets.com/img/document/816600464/original/7d719eff61/1?v=1",
+     "page": "https://es.scribd.com/document/816600464/Historia-Del-Dia-de-Accion-de-Gracias-Escrita",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.vhzlsG6_ZWJoVsYu-K__3AHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/p8vEDs8MD7M/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=p8vEDs8MD7M",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZJBT8P-3cVOKIK_yEALYJgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca-chiapas-prod.web.arc-cdn.net/resizer/v2/V3ZSYRFO4ZH3NKR7WPVYG74PTU.jpeg?smart=true&auth=3e74337612840b764b820754e17128a3a19895e66ceed8a58c5db35eebbb781f&width=1920&height=1080",
+     "page": "https://www.aztecachiapas.com/noticias/prepara-el-pavo-accion-de-gracias-2026-ya-tiene-fecha-cuando-se-celebra/",
+     "via": "Bing Imágenes",
+     "credit": "aztecachiapas.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.K5kIt3nw5RuMLObCAXwSpQ&pid=15.1"
+    },
+    {
+     "url": "https://default-sites.s3.us-east-005.backblazeb2.com/entries/thumbnails/entry-1579932-del-festin-de-1621-a-los-globos-de-macys-las-verdades-y-mitos-del-dia-de-accion-de-gracias-db3f5bd5.jpg",
+     "page": "https://radiomatik.com/noticias/news/1579932/del-festin-de-1621-a-los-globos-de-macys-las-verdades-y-mitos-del-dia-de-accion-de-gracias",
+     "via": "Bing Imágenes",
+     "credit": "radiomatik.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.o%2frZywE6Vn9nXi5A6Blyng&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca-baja-california-prod.web.arc-cdn.net/resizer/v2/EOQGDBX2QVEHZJDA3BLQJW2GF4.jpg?auth=8d1f0e00315c1dc736e4e2fe9bb1c33266c0f885ba415fefbf6301ff9014f272&width=1280&height=720",
+     "page": "https://www.tvaztecabajacalifornia.com/noticias/thanksgiving-la-historia-de-luto-que-pocos-conocen-detras-del-dia-de-accion-de-gracias/",
+     "via": "Bing Imágenes",
+     "credit": "tvaztecabajacalifornia.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.ovz493EeLHMXLhb1bCckRw&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_images": [
+    {
+     "url": "https://d6isf1yxni2j5.cloudfront.net/large_origen_dia_de_accion_de_gracias_729b928786.jpg",
+     "page": "https://www.info7.mx/internacional/como-se-origino-el-dia-de-accion-de-gracias/3396778531",
+     "via": "Bing Imágenes",
+     "credit": "info7.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.wGkpLOJHM8TZ5e141Vw2dAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://media.istockphoto.com/id/1353689320/es/vector/la-historia-de-la-celebración-del-día-de-acción-de-gracias.jpg?s=1024x1024&w=is&k=20&c=_TIRbYT2FDts5cwh_ya_ocHpT1ieKDM0okjcND1Dkf4=",
+     "page": "https://www.istockphoto.com/es/vector/la-historia-de-la-celebración-del-día-de-acción-de-gracias-gm1353689320-428718222",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP._OcS9t8BAV_P-qp4yi1R7QHaEo&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/4e/b2/7b/4eb27b32fe832a52866fdc1289bfffe6.jpg",
+     "page": "https://www.pinterest.com/pin/458170962075481897/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.pT__iZ7BUosx8SqU7fpF6gHaI4&pid=15.1"
+    },
+    {
+     "url": "https://phantom-marca-mx.unidadeditorial.es/cdfd5bd3521848c58bc55d9953d22bd0/resize/1320/f/jpg/mx/assets/multimedia/imagenes/2024/11/27/17327326916935.jpg",
+     "page": "https://www.marca.com/mx/actualidad/2024/11/27/67475cef46163f616e8b457f.html",
+     "via": "Bing Imágenes",
+     "credit": "marca.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.wMb9oemvpwIDeiAq8WIEqwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cdn.venngage.com/template/thumbnail/full/2bce5bcb-735b-42bc-ab71-5df4408a7cdb.webp",
+     "page": "https://es.venngage.com/templates/infographics/the-history-of-thanksgiving-2bce5bcb-735b-42bc-ab71-5df4408a7cdb",
+     "via": "Bing Imágenes",
+     "credit": "es.venngage.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.8eI9xBJi6GyZkAdH-m_OzgHaJl&pid=15.1"
+    },
+    {
+     "url": "https://4.bp.blogspot.com/-fAAMpXPxbsI/Up-tVQIkCMI/AAAAAAAADus/wUjGnozDkJc/s1600/Thanksgiving+History.jpg",
+     "page": "https://actividadesymasbyteacherindigo.blogspot.com/2013/11/historia-de-el-dia-de-accion-de-gracias.html",
+     "via": "Bing Imágenes",
+     "credit": "actividadesymasbyteacherindigo.blogspot.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.T1IpsxbOF_w5Nt7zGKbwkgHaLQ&pid=15.1"
+    },
+    {
+     "url": "http://c.files.bbci.co.uk/4A27/production/_104438981_gettyimages-481655521-1.jpg",
+     "page": "https://unomindo.blogspot.com/2021/04/historia-del-accion-de-gracias.html",
+     "via": "Bing Imágenes",
+     "credit": "unomindo.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.BH2jel4wYVZWOgrqLYn6GgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7709650011449085214&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@caballerolegendario9/video/7709650011449085214",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.kR7V2SPlzGhdkR78YNwLiw&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca.brightspotcdn.com/ec/14/61f5537e4bd593c33e07479493ae/thanksgiving-verdadera-historia-del-dia-de-accion-de-gracias.jpg",
+     "page": "https://www.revistacentral.com.mx/ponte-al-dia/thanksgiving-verdadera-historia-del-dia-de-accion-de-gracias",
+     "via": "Bing Imágenes",
+     "credit": "revistacentral.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iSoXZGq5dYRQYKh2BWZtsAHaEp&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-1-f.scribdassets.com/img/document/816600464/original/7d719eff61/1?v=1",
+     "page": "https://es.scribd.com/document/816600464/Historia-Del-Dia-de-Accion-de-Gracias-Escrita",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.vhzlsG6_ZWJoVsYu-K__3AHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/p8vEDs8MD7M/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=p8vEDs8MD7M",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZJBT8P-3cVOKIK_yEALYJgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca-chiapas-prod.web.arc-cdn.net/resizer/v2/V3ZSYRFO4ZH3NKR7WPVYG74PTU.jpeg?smart=true&auth=3e74337612840b764b820754e17128a3a19895e66ceed8a58c5db35eebbb781f&width=1920&height=1080",
+     "page": "https://www.aztecachiapas.com/noticias/prepara-el-pavo-accion-de-gracias-2026-ya-tiene-fecha-cuando-se-celebra/",
+     "via": "Bing Imágenes",
+     "credit": "aztecachiapas.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.K5kIt3nw5RuMLObCAXwSpQ&pid=15.1"
+    },
+    {
+     "url": "https://default-sites.s3.us-east-005.backblazeb2.com/entries/thumbnails/entry-1579932-del-festin-de-1621-a-los-globos-de-macys-las-verdades-y-mitos-del-dia-de-accion-de-gracias-db3f5bd5.jpg",
+     "page": "https://radiomatik.com/noticias/news/1579932/del-festin-de-1621-a-los-globos-de-macys-las-verdades-y-mitos-del-dia-de-accion-de-gracias",
+     "via": "Bing Imágenes",
+     "credit": "radiomatik.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.o%2frZywE6Vn9nXi5A6Blyng&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca-baja-california-prod.web.arc-cdn.net/resizer/v2/EOQGDBX2QVEHZJDA3BLQJW2GF4.jpg?auth=8d1f0e00315c1dc736e4e2fe9bb1c33266c0f885ba415fefbf6301ff9014f272&width=1280&height=720",
+     "page": "https://www.tvaztecabajacalifornia.com/noticias/thanksgiving-la-historia-de-luto-que-pocos-conocen-detras-del-dia-de-accion-de-gracias/",
+     "via": "Bing Imágenes",
+     "credit": "tvaztecabajacalifornia.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.ovz493EeLHMXLhb1bCckRw&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4118,7 +4305,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 960320,
+     "views": 960621,
      "ago": "Transmitido hace 4 días",
      "official": false
     },
@@ -4126,21 +4313,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 127558,
+     "views": 127690,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
-    },
-    {
-     "vid": "DiAKzUWOe5U",
-     "title": "Miss Universe 2026 BEST in RUNWAY TO THE UNIVERSE: Who Stole the Show?",
-     "channel": "Miss Universe Predictions",
-     "views": 59346,
-     "ago": "hace 4 días",
-     "official": false
     }
    ],
-   "views_total": 1147224,
+   "views_total": 1088311,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -4155,13 +4334,6 @@
      "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/DiAKzUWOe5U/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/DiAKzUWOe5U/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=DiAKzUWOe5U",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe Predictions"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.o6a3SirwCgkBMaanIyGlcw&pid=News",
@@ -4224,7 +4396,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 72
+   "score": 69
   },
   {
    "key": "t:mu:Entrevistas:2026-11-18",
@@ -4385,7 +4557,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-22T18:13:09.339376+00:00",
-   "start": "2026-11-20T14:47:00+00:00",
+   "start": "2026-11-20T16:00:00+00:00",
    "last_activity": "2026-11-20T22:47:00+00:00",
    "item_ids": [
     "80af0fcfb1bc7c",
@@ -4393,7 +4565,6 @@
     "9e33a6ed2c9e3b",
     "2511968e0757bb",
     "b6e5e402fbf4f2",
-    "01d3bf65e146db",
     "20be2d9e5de105"
    ],
    "sources": [
@@ -4403,7 +4574,7 @@
     "Telemundo Atlanta",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 7,
+   "n_items": 6,
    "n_sources": 5,
    "videos": [],
    "views_total": 0,
@@ -4531,30 +4702,6 @@
      "credit": "Telemundo Atlanta"
     },
     {
-     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=1008&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/KYAUXZVK4ZEIPN6UZVL7OTZKAU.jpg?auth=b0abf107e30632dd9b61dd47d28a2e25026586ab9a360fbf23d12dd1380d394e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf/page1-1280px-1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Transportation._Commodity_Transportation_survey_(IA_1967censusoftran31unse).pdf",
      "via": "Wikimedia Commons",
@@ -4599,12 +4746,10 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/Df-iPSgBZ5d",
-    "https://www.instagram.com/p/Df-jagHBWxD",
     "https://www.instagram.com/p/Df-kesEl7iC",
     "https://www.instagram.com/p/Df2X4lfsgqi",
     "https://www.instagram.com/reel/Df-CRP-FOje",
-    "https://www.instagram.com/reel/Df-eEc0mTW5",
-    "https://www.instagram.com/reel/Df8DXFlPK3l"
+    "https://www.instagram.com/reel/Df-eEc0mTW5"
    ],
    "image_query": "Miss Universe 2026 national costume",
    "extra_images": [
@@ -4659,11 +4804,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/p/Df-jagHBWxD",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-22T22:53:08.469285+00:00",
      "url": "https://www.instagram.com/p/Df-kesEl7iC",
      "platform": "Instagram"
@@ -4682,11 +4822,6 @@
      "fetched": "2026-11-22T22:53:08.469285+00:00",
      "url": "https://www.instagram.com/reel/Df-eEc0mTW5",
      "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/reel/Df8DXFlPK3l",
-     "platform": "Instagram"
     }
    ],
    "social_totals": {
@@ -4695,7 +4830,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 20
+   "score": 19
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -4817,7 +4952,7 @@
    ],
    "image_query": "Miss Universe 2026 rehearsal",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "social": [
     {
      "fetched": "2026-11-22T22:29:08.643113+00:00",
@@ -4845,22 +4980,20 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-22T00:20:35.040427+00:00",
-   "start": "2026-11-20T14:47:00+00:00",
+   "start": "2026-11-20T17:22:00+00:00",
    "last_activity": "2026-11-20T18:42:15+00:00",
    "item_ids": [
     "fec78f9471594a",
     "1a434b1b50e5dd",
-    "fe7f3035c4345d",
-    "01d3bf65e146db"
+    "fe7f3035c4345d"
    ],
    "sources": [
     "AS Colombia",
-    "El Universo",
     "TV Azteca",
     "oncenoticias.hn"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4887,30 +5020,6 @@
      "page": "https://colombia.as.com/tikitakas/como-votar-por-maria-alejandra-lopez-en-miss-universo-2026-asi-puedes-votar-a-la-representante-colombiana-f202611-n/",
      "via": "Bing (miniatura)",
      "credit": "AS Colombia"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=1008&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/E2FK34633BCUFHJAMZ4GNDBU5E.jpg?auth=c547984af005e0a6c09812f2229086e23b9bb32ed813a90d6c2724bfcd642c03&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/KYAUXZVK4ZEIPN6UZVL7OTZKAU.jpg?auth=b0abf107e30632dd9b61dd47d28a2e25026586ab9a360fbf23d12dd1380d394e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/este-es-el-traje-nacional-de-la-ecuatoriana-dalia-bucaram-para-la-competencia-de-miss-universo-2026-su-inspiracion-y-significado-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4956,9 +5065,7 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/Df-jagHBWxD",
-    "https://www.instagram.com/p/Df5yDxMGqRG",
-    "https://www.instagram.com/reel/Df8DXFlPK3l"
+    "https://www.instagram.com/p/Df5yDxMGqRG"
    ],
    "image_query": "Miss Universe 2026 vote",
    "extra_images": [
@@ -5008,18 +5115,8 @@
    "extra_at": "2026-11-22T21:49:09.058006+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/p/Df-jagHBWxD",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-22T23:01:26.704197+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T22:05:08.659374+00:00",
-     "url": "https://www.instagram.com/reel/Df8DXFlPK3l",
      "platform": "Instagram"
     }
    ],
@@ -5029,7 +5126,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 9
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5040,7 +5137,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5053,7 +5150,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5073,7 +5170,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5297,7 +5394,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5310,7 +5407,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-22T23:01:26.704197+00:00",
+   "extra_at": "2026-11-22T23:09:25.811385+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5330,7 +5427,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5363,7 +5460,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T23:01:26.704197+00:00",
+   "first_seen": "2026-11-22T23:09:25.811385+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
