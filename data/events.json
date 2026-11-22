@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:56:54.557123+00:00",
+ "updated": "2026-11-22T16:04:54.394859+00:00",
  "count": 29,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -184,6 +184,7 @@
     "d0980faa0bf49a",
     "ac90a1c336d2f6",
     "450167f45b1898",
+    "49922cfb2a1897",
     "11b80536d8b194",
     "bd7bb556657b5d",
     "c621b43a258614"
@@ -191,13 +192,14 @@
    "sources": [
     "Diario AS",
     "El Financiero",
+    "Meridiano.net",
     "Metro Puerto Rico",
     "Reporte Indigo",
     "Reporte Índigo",
     "primicias"
    ],
-   "n_items": 7,
-   "n_sources": 6,
+   "n_items": 8,
+   "n_sources": 7,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -213,7 +215,829 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 22
+   "score": 25
+  },
+  {
+   "key": "p:desfile de traje",
+   "id": "p-desfile-de-traje-df1c2",
+   "name": "Desfile De Traje",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Tour / visita",
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-20T21:39:53.152267+00:00",
+   "start": "2026-11-20T21:26:17+00:00",
+   "last_activity": "2026-11-22T15:55:00+00:00",
+   "item_ids": [
+    "dd6df663e98515",
+    "4f5e985c00dd1d",
+    "44edeb95cc8f8a",
+    "c90ebbe5a0d3b9",
+    "bce972d2d689f3",
+    "927113138f0453",
+    "0adf2732c078f9",
+    "e55a80979b7430",
+    "f631ec107ddd7e",
+    "54d3d87cae6284",
+    "900e228555e525",
+    "31359df2524f69",
+    "ab42a3f5cc81fa",
+    "fa31853aa7ba70",
+    "2391cbb537cf01",
+    "88f86fa6931a73",
+    "efcaaf7076a4c4",
+    "a4ff2029e12d70",
+    "ff8fbcba819b91",
+    "648346840eda27",
+    "90f5c9a1ea0c39",
+    "0c53a6e88c71f4",
+    "c1ddaa060f5eea",
+    "deb68fa863e308",
+    "85025a5b8a8113",
+    "08dfdbec8e1774",
+    "01dd9174e9bf30",
+    "af19082ab4bebd",
+    "0417bcfcf3d3e7",
+    "39fd85c33fb420",
+    "3e3be67d15e468",
+    "9608680044b057",
+    "3873253d9e05c8",
+    "758a96b862fbc5",
+    "fb9c58e7296101",
+    "44cb0705cf751e",
+    "410024d6f5c19d",
+    "b51585dd6a54e8",
+    "a3ca3e34a2d729",
+    "5533ea5c0d512a",
+    "e197b2bdab4744",
+    "167f0f375b30f0",
+    "1bca22b012a382",
+    "88dfecdfc5de46",
+    "ecebb285b65b8f",
+    "43f7f63bba2d3c",
+    "11039eb7f2044c",
+    "0a3141673d00fe",
+    "eb4715625af458",
+    "c621b43a258614",
+    "d69270e7553f44",
+    "e35efae847f894",
+    "f68d95e3cdc77b",
+    "67497bda3a56e1",
+    "70d944ee857fe9",
+    "f7ca6e13fde517",
+    "4e243adba2c4fc",
+    "922db55f799237",
+    "5253d5f4598ad3",
+    "1d5a858c3a5bcd",
+    "e84b94272a9594",
+    "cd674e8bba7f63",
+    "389e2d2022a7b0",
+    "41e9247905025c",
+    "218271a81edc35",
+    "f26fcaf232a8a1",
+    "d57acf726883fd",
+    "ce79fabc2894dd",
+    "abdae52a89496b",
+    "ea2fbc13e5c845",
+    "f683f7e7407434",
+    "afbc0a98b52c2a",
+    "835cc4c213be2f",
+    "6e52484d6408e0",
+    "b095ad6dc7c893",
+    "64d3f0d37281d7",
+    "fa7d692128625b",
+    "27d7b9f73fc011",
+    "633f80c1bd2f88",
+    "4441011e8cd420",
+    "94844ee29c27f3",
+    "9efa79075d0ee2",
+    "26eedb97dd6166",
+    "5372417c0dd635",
+    "394aff8d22ca20",
+    "59406ea88bcece",
+    "5e3c66055e55c3",
+    "2454eddbcf84f1",
+    "2fb9503164dd6b",
+    "a10a5ad16f013e",
+    "bf50c5d49c4daf",
+    "f27772927cd43b",
+    "3b3c4566045685",
+    "40dd624361cca4",
+    "2682308ad999dc",
+    "6abb483091f78b",
+    "a2c8d6bc358297",
+    "51cfcf70341c01",
+    "c053333dce4cfc",
+    "03a58825b8b871",
+    "16824b696aa4dc",
+    "65d4137690bd0a",
+    "87c3268744dfe0",
+    "e6dd4a66f90e42",
+    "0c62d32d0d03b6",
+    "b497766309618f",
+    "5c3ab9d24c02f7",
+    "43531d91f4bed2",
+    "15c4978fb02b0e",
+    "d4b692e22e70f2",
+    "2e944c7b89f9b9",
+    "f4acf6d69e4a59",
+    "e0b492895080de",
+    "09011081863b97",
+    "0cd9c53a10b1cb",
+    "9009223308f080",
+    "1cf41a3f056752",
+    "60bead7afa7210",
+    "92c1db63b84abd",
+    "793a0b8c88583f"
+   ],
+   "sources": [
+    "24 horas",
+    "24 horas on MSN",
+    "24horas",
+    "ABS-CBN",
+    "ADN Radio",
+    "AS México",
+    "Agencia de Periodismo Investigativo",
+    "Agencia de Periodismo Investigativo on MSN",
+    "Chic Magazine",
+    "CiberCuba",
+    "Daily Tribune",
+    "Demokratis.co.id",
+    "Diario AS",
+    "Diario El País",
+    "Diario La Prensa Riobamba",
+    "Diario Las Américas",
+    "Diario Primicia",
+    "ELHERALDO.CO",
+    "Eje Central",
+    "El Comercio",
+    "El Comercio Perú",
+    "El Día",
+    "El Financiero",
+    "El Heraldo",
+    "El Imparcial",
+    "El Nacional",
+    "El Nuevo Día",
+    "El Telégrafo (por eliminar)",
+    "El Universo",
+    "El Vocero de Puerto Rico",
+    "Emisoras Unidas",
+    "En Cancha",
+    "Extra",
+    "Facebook",
+    "GMA Network",
+    "Gestión",
+    "Guatemala.com",
+    "HOLA.com",
+    "HOLA.com on MSN",
+    "Infobae"
+   ],
+   "n_items": 247,
+   "n_sources": 92,
+   "videos": [
+    {
+     "vid": "PfSAdnnUn4s",
+     "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
+     "channel": "Canal Antigua",
+     "views": 1033598,
+     "ago": "Transmitido hace 15 h",
+     "official": false
+    },
+    {
+     "vid": "VTZdfe78o1E",
+     "title": "MISS UNIVERSE  2026 | National Costume",
+     "channel": "Miss Universe",
+     "views": 969376,
+     "likes": 0,
+     "published": "2026-11-21T23:03:40+00:00",
+     "official": true
+    },
+    {
+     "vid": "EeH0AN8JMkI",
+     "title": "PLAYTIME ENTERTAINMENT PRESENTA: DESFILE DE TRAJES TÍPICOS DE MISS UNIVERSE 2026 | ¡EN VIVO Y GRA...",
+     "channel": "PlayTime Entertainment",
+     "views": 872262,
+     "ago": "Transmitido hace 15 h",
+     "official": false
+    },
+    {
+     "vid": "HxgbkuzggFA",
+     "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
+     "channel": "Telemundo Entretenimiento",
+     "views": 226586,
+     "likes": 2299,
+     "published": "2026-11-22T00:52:44+00:00",
+     "official": true
+    },
+    {
+     "vid": "tXSkVH4adZk",
+     "title": "National Costume Show Sneak Peek | Miss Universe",
+     "channel": "Miss Universe",
+     "views": 61937,
+     "likes": 0,
+     "published": "2026-11-22T00:47:01+00:00",
+     "official": true
+    },
+    {
+     "vid": "EKzvBJH5Uz8",
+     "title": "Miss Universo 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
+     "channel": "Telemundo Entretenimiento",
+     "views": 49542,
+     "likes": 413,
+     "published": "2026-11-22T01:34:37+00:00",
+     "official": true
+    },
+    {
+     "vid": "zv_xydsngjU",
+     "title": "Fe, arte y tradición en un solo traje típico. Miss Ecuador 🇪🇨 Dalia Bucaram #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 33881,
+     "likes": 112,
+     "published": "2026-11-22T00:17:16+00:00",
+     "official": true
+    },
+    {
+     "vid": "EIDLFUr2qSY",
+     "title": "Dominga López, Miss Chile 🇨🇱 alzó el vuelo como una gaviota con su Traje Típico #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 18535,
+     "likes": 506,
+     "published": "2026-11-22T00:15:14+00:00",
+     "official": true
+    },
+    {
+     "vid": "S_RA3e_Cjro",
+     "title": "DESFILE DE TRAJE TÍPICO MISS UNIVERSE 2026 - LUREN MARQUEZ MISS PERÚ 2026",
+     "channel": "Miss Perú Oficial",
+     "views": 13115,
+     "ago": "hace 14 h",
+     "official": false
+    },
+    {
+     "vid": "84UO16AZdSM",
+     "title": "National Costume Show day!",
+     "channel": "Miss Universe",
+     "views": 12131,
+     "likes": 0,
+     "published": "2026-11-22T00:12:37+00:00",
+     "official": true
+    },
+    {
+     "vid": "gOuSu9M7Evw",
+     "title": "Miss Guatemala 🇬🇹 Adelina Castillo honra su identidad con su Traje Típico #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 10191,
+     "likes": 70,
+     "published": "2026-11-22T00:53:24+00:00",
+     "official": true
+    },
+    {
+     "vid": "PREP0Ptdoy8",
+     "title": "¡Representando el folklor dominicano con orgullo! Melissa Núñez 🇩🇴 en Traje Típico #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 8641,
+     "likes": 192,
+     "published": "2026-11-22T00:59:01+00:00",
+     "official": true
+    },
+    {
+     "vid": "b8F2zGHqZgc",
+     "title": "Miss Nicaragua 🇳🇮 Jasmine Blandford con traje típico inspirado en El Palo de Mayo #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 7021,
+     "likes": 148,
+     "published": "2026-11-22T01:37:25+00:00",
+     "official": true
+    },
+    {
+     "vid": "HLld1OMEqGo",
+     "title": "🇭🇳 ¡No es magia, es Miss Honduras, Luisa Paola Pineda con su Traje Típico en #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 5765,
+     "likes": 100,
+     "published": "2026-11-22T00:55:22+00:00",
+     "official": true
+    },
+    {
+     "vid": "SsmOddDYGuM",
+     "title": "La flora y fauna de Panamá 🇵🇦 en el Traje Típico de Gabriela González del Valle #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 4611,
+     "likes": 29,
+     "published": "2026-11-22T01:06:44+00:00",
+     "official": true
+    },
+    {
+     "vid": "Q8A-HS1sxfI",
+     "title": "🇵🇪 ¡Miss Perú, Luren Márquez, tiene energía de sobra al lucir su Traje Típico! #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 4395,
+     "likes": 64,
+     "published": "2026-11-22T00:57:14+00:00",
+     "official": true
+    },
+    {
+     "vid": "71n5Auqk89Y",
+     "title": "El poder hecho traje 🇺🇸 Justus Kelley honra a las mujeres con su Traje Típico #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 4045,
+     "likes": 21,
+     "published": "2026-11-22T02:01:51+00:00",
+     "official": true
+    },
+    {
+     "vid": "0XOFT4s3G2A",
+     "title": "Miss Uruguay 🇺🇾 Lucía Piñeyro con un Traje Típico inspirado en el carnaval #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 3908,
+     "likes": 18,
+     "published": "2026-11-22T01:35:41+00:00",
+     "official": true
+    },
+    {
+     "vid": "T1RDAMEmovk",
+     "title": "¡Imponente! 🇯🇵 Miss Japón, Sayuki Ito, luce su Traje Típico tras bambalinas #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 3442,
+     "likes": 32,
+     "published": "2026-11-22T01:04:25+00:00",
+     "official": true
+    },
+    {
+     "vid": "hj2rsixXymI",
+     "title": "Miss Paraguay 🇵🇾 Gretha Matiauda quiere conocer tu opinión sobre su Traje Típico #MissUniverso",
+     "channel": "Telemundo Entretenimiento",
+     "views": 1792,
+     "likes": 22,
+     "published": "2026-11-22T01:09:23+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 3344774,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/HxgbkuzggFA/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=HxgbkuzggFA",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/71n5Auqk89Y/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/71n5Auqk89Y/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=71n5Auqk89Y",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/b8F2zGHqZgc/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/b8F2zGHqZgc/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=b8F2zGHqZgc",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/0XOFT4s3G2A/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/0XOFT4s3G2A/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=0XOFT4s3G2A",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/EKzvBJH5Uz8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/EKzvBJH5Uz8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=EKzvBJH5Uz8",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/hj2rsixXymI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/hj2rsixXymI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=hj2rsixXymI",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/SsmOddDYGuM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/SsmOddDYGuM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=SsmOddDYGuM",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/T1RDAMEmovk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/T1RDAMEmovk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=T1RDAMEmovk",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/PREP0Ptdoy8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/PREP0Ptdoy8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=PREP0Ptdoy8",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Q8A-HS1sxfI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/Q8A-HS1sxfI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Q8A-HS1sxfI",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/HLld1OMEqGo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/HLld1OMEqGo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=HLld1OMEqGo",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/gOuSu9M7Evw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/gOuSu9M7Evw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=gOuSu9M7Evw",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/tXSkVH4adZk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=tXSkVH4adZk",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/zv_xydsngjU/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/zv_xydsngjU/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=zv_xydsngjU",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/EIDLFUr2qSY/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/EIDLFUr2qSY/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=EIDLFUr2qSY",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/84UO16AZdSM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/84UO16AZdSM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=84UO16AZdSM",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/ejKFwAPg44c/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/ejKFwAPg44c/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=ejKFwAPg44c",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/VTZdfe78o1E/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/VTZdfe78o1E/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=VTZdfe78o1E",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/EeH0AN8JMkI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/EeH0AN8JMkI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=EeH0AN8JMkI",
+     "via": "YouTube (miniatura)",
+     "credit": "PlayTime Entertainment"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
+     "via": "YouTube (miniatura)",
+     "credit": "Canal Antigua"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/S_RA3e_Cjro/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Perú Oficial"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8mLmfFhlqYE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8mLmfFhlqYE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8mLmfFhlqYE",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/7_G1B4M9jG4/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/7_G1B4M9jG4/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=7_G1B4M9jG4",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/HQFV6HoTHOE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=HQFV6HoTHOE",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/BLM4VB5YIVCAXKHW2DBKTYR6KE.jpg?auth=05fafd3fe5cb1765dfa2295b3af22089f99b00d481e9bee27afd5c9701cea945&smart=true&quality=75&width=1280&height=720",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/DE5ICCAMX5G53DRVXTCUNOP24U.jpeg?auth=03fc720bcd83a116b8f42ee329e238d7ceaae0172d102b6724c9864cf0232a67&smart=true&quality=75&width=768",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/MUIVEM5UYVHZZFSY3JEGSCPXK4.png?auth=d64b617ec7bd3a082588fefbc5ee452e78ad79378af78b4f59a6d1d7b96ae814&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/I4F4XPYMIJFIZOT24JQIXVVJII.jpeg?auth=9d093d9bacf4a33cda816255df3e991024666a32e3a1e5905a8be1a5f7f1be5b&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/3XXNZIV4TNA4DEERBFKZPQ2SFM.png?auth=fbcb693bdaf2a9c7c6c035a8cc2a2b89c6f99ccf84210781d09c9f74f452e381&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/OWCIBOHX6BFKLGZVMTHIBSKXUA.jpeg?auth=ccbbb8e1e82d70b24e2eb70de9972343ca75a6e44661e4fc12ae1f357a465639&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/KGXQSQ7D4VFEHB5XNMX2NQVDNA.jpeg?auth=b243f8f23c32feec68b60c6e54ba887ddc5ab3a6a6c5633da041d1a682a1f036&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/23IHR72PFZH2JKIHJFS3SWVXUQ.png?auth=ee944104a0d68de3febbc62e5ccb4ed76284db1f71331167cef7edfcf9a62aa3&smart=true&quality=75&width=768",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/33GIYKIIHVBE5O34D2G2YYHXZY.jpg?auth=3673edc75a9761e6ebd4516fc30f7fd6a5608008f826013ca2b8033f6814324c&smart=true&quality=75&width=768",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.1iPxk-359PmL7KgOloExLg&pid=News",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
+     "via": "Bing (miniatura)",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://infodelestero.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwp253i6j%2Fproduction%2F6eccb7c2727fce21b162b70d5a85e65ac6318641-637x360.png%3Frect%3D62%2C0%2C514%2C360%26w%3D280%26h%3D196%26q%3D70&w=3840&q=75",
+     "page": "https://infodelestero.com/2026/11/22/miss-universo-2026-daiana-pereyra-la-representante-argentina-causo-sensacion-con-su-traje-tipico",
+     "via": "infodelestero",
+     "credit": "infodelestero"
+    },
+    {
+     "url": "https://www.infobae.com/resizer/v2/LWAH57NY6ZE2DGMPROC7PB3WCY.jpg?auth=e7d0229e58942bbd63ca8fe4269064dce13a63bd5d2d40e1e2a4c8d62670cb9b&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/peru/2026/11/22/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/22/miss-universo-dominga-lopez-desfila-en-traje-tipico_537007_1_6b02ec31bf538.jpg?d=1200x675",
+     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/22/dominga-lopez-traje_536993_4_6b02a3423b2e3.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/21/caravana-navidena-coca-cola_536959_1_6b01a3b2c6070.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/20/naya-facil_536859_4_6b0048196701a.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Dct5YGWDLvh",
+    "https://www.instagram.com/p/DeicqxvONge",
+    "https://www.instagram.com/p/Df-jagHBWxD",
+    "https://www.instagram.com/p/Df5mKppoHee",
+    "https://www.instagram.com/p/Df6OjdYID2Q",
+    "https://www.instagram.com/p/Df9kgJ1kSd9",
+    "https://www.instagram.com/p/Df_ZrhIMvFj",
+    "https://www.instagram.com/p/DgAgpY3kY2-",
+    "https://www.instagram.com/p/DgBaNgUIJ8v",
+    "https://www.instagram.com/p/DgBb3ySM5Wm",
+    "https://www.instagram.com/p/DgBb4EVEQ-x",
+    "https://www.instagram.com/p/DgBbPG0KC8R",
+    "https://www.instagram.com/p/DgBdmUJDQf4",
+    "https://www.instagram.com/p/DgBeQEiDSey",
+    "https://www.instagram.com/p/DgBgjQ8DFOa",
+    "https://www.instagram.com/p/DgBgpniMTUH",
+    "https://www.instagram.com/p/DgBhRFjjZiu",
+    "https://www.instagram.com/p/DgBi5myjSCN",
+    "https://www.instagram.com/p/DgBiWmUDiV9",
+    "https://www.instagram.com/p/DgBjvDYGwJw",
+    "https://www.instagram.com/p/DgCodZqFmw3",
+    "https://www.instagram.com/reel/Dcw0KGOIfK-",
+    "https://www.instagram.com/reel/DezSOz7I6yg",
+    "https://www.instagram.com/reel/DfXPN_GIY9k",
+    "https://www.instagram.com/reel/DgBDjbCBhxK",
+    "https://www.instagram.com/reel/DgBa8mhudSB",
+    "https://www.instagram.com/reel/DgBaxf5MEzQ",
+    "https://www.instagram.com/reel/DgBdsZ4FQyV",
+    "https://www.instagram.com/reel/DgBjrnONHIw",
+    "https://www.instagram.com/reel/DgBp-YfpvHv"
+   ],
+   "image_query": "Miss Universe 2026 Desfile De Traje",
+   "extra_images": [],
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-22T15:56:54.557123+00:00",
+     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:16:54.577327+00:00",
+     "url": "https://www.instagram.com/p/DeicqxvONge",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:40:55.280988+00:00",
+     "url": "https://www.instagram.com/p/Df-jagHBWxD",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:32:54.670356+00:00",
+     "url": "https://www.instagram.com/p/Df5mKppoHee",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:16:54.577327+00:00",
+     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:32:54.670356+00:00",
+     "url": "https://www.instagram.com/p/Df9kgJ1kSd9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
+     "url": "https://www.instagram.com/p/Df_ZrhIMvFj",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
+     "url": "https://www.instagram.com/p/DgAgpY3kY2-",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:40:55.280988+00:00",
+     "url": "https://www.instagram.com/p/DgBaNgUIJ8v",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:56:54.557123+00:00",
+     "url": "https://www.instagram.com/p/DgBb3ySM5Wm",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:48:55.355708+00:00",
+     "url": "https://www.instagram.com/p/DgBb4EVEQ-x",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:48:55.355708+00:00",
+     "url": "https://www.instagram.com/p/DgBbPG0KC8R",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/p/DgBdmUJDQf4",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:24:54.876758+00:00",
+     "url": "https://www.instagram.com/p/DgBeQEiDSey",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:40:55.280988+00:00",
+     "url": "https://www.instagram.com/p/DgBgjQ8DFOa",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:40:55.280988+00:00",
+     "url": "https://www.instagram.com/p/DgBgpniMTUH",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/p/DgBhRFjjZiu",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:24:54.876758+00:00",
+     "url": "https://www.instagram.com/p/DgBi5myjSCN",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:40:55.280988+00:00",
+     "url": "https://www.instagram.com/p/DgBiWmUDiV9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
+     "url": "https://www.instagram.com/p/DgCodZqFmw3",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/reel/Dcw0KGOIfK-",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/reel/DezSOz7I6yg",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:32:54.670356+00:00",
+     "url": "https://www.instagram.com/reel/DfXPN_GIY9k",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/reel/DgBDjbCBhxK",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/reel/DgBa8mhudSB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:56:54.557123+00:00",
+     "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:08:54.425935+00:00",
+     "url": "https://www.instagram.com/reel/DgBdsZ4FQyV",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:24:54.876758+00:00",
+     "url": "https://www.instagram.com/reel/DgBjrnONHIw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-22T15:24:54.876758+00:00",
+     "url": "https://www.instagram.com/reel/DgBp-YfpvHv",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 601
   },
   {
    "key": "t:mu:Preliminar:2026-11-21",
@@ -235,6 +1059,7 @@
     "d0980faa0bf49a",
     "ac90a1c336d2f6",
     "450167f45b1898",
+    "49922cfb2a1897",
     "11b80536d8b194",
     "bd7bb556657b5d",
     "059906455ee800",
@@ -258,6 +1083,7 @@
     "En Cancha",
     "FMDOS",
     "Meganoticias",
+    "Meridiano.net",
     "Metro Puerto Rico",
     "Philstar.com",
     "Reporte Indigo",
@@ -266,8 +1092,8 @@
     "minuto60",
     "primicias"
    ],
-   "n_items": 19,
-   "n_sources": 13,
+   "n_items": 20,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -276,6 +1102,18 @@
      "page": "https://www.primicias.ec/entretenimiento/tv-streaming/miss-universo2026-dalia-bucaram-ecuador-preliminar-youtube-137676/",
      "via": "Bing (miniatura)",
      "credit": "primicias"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795360884498.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-hora-y-donde-ver-la-gala-preliminar-en-venezuela-2026112211310",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795360884498.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-hora-y-donde-ver-la-gala-preliminar-en-venezuela-2026112211310",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
     },
     {
      "url": "https://img.asmedia.epimg.net/resizer/v2/DTEFO4W4UVID7P6Q5FO653VCZA.jpg?auth=0d2def17e1a58f939f8010a2979c218fdf7a453840bb4ddded879bb1d64b247a&width=1472&height=828&smart=true",
@@ -536,7 +1374,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 45
+   "score": 48
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -828,7 +1666,7 @@
    "extra_at": "2026-11-22T14:20:54.470519+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
      "url": "https://www.instagram.com/p/Df7rX12BNqe",
      "platform": "Instagram"
     },
@@ -847,828 +1685,6 @@
     "shares": 0
    },
    "score": 23
-  },
-  {
-   "key": "p:desfile de traje",
-   "id": "p-desfile-de-traje-df1c2",
-   "name": "Desfile De Traje",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Tour / visita",
-    "Trajes típicos"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-20T21:26:17+00:00",
-   "last_activity": "2026-11-22T14:55:47+00:00",
-   "item_ids": [
-    "dd6df663e98515",
-    "4f5e985c00dd1d",
-    "44edeb95cc8f8a",
-    "c90ebbe5a0d3b9",
-    "927113138f0453",
-    "0adf2732c078f9",
-    "e55a80979b7430",
-    "f631ec107ddd7e",
-    "54d3d87cae6284",
-    "900e228555e525",
-    "31359df2524f69",
-    "ab42a3f5cc81fa",
-    "fa31853aa7ba70",
-    "2391cbb537cf01",
-    "88f86fa6931a73",
-    "efcaaf7076a4c4",
-    "a4ff2029e12d70",
-    "ff8fbcba819b91",
-    "648346840eda27",
-    "90f5c9a1ea0c39",
-    "0c53a6e88c71f4",
-    "c1ddaa060f5eea",
-    "deb68fa863e308",
-    "85025a5b8a8113",
-    "08dfdbec8e1774",
-    "01dd9174e9bf30",
-    "af19082ab4bebd",
-    "0417bcfcf3d3e7",
-    "39fd85c33fb420",
-    "3e3be67d15e468",
-    "9608680044b057",
-    "3873253d9e05c8",
-    "758a96b862fbc5",
-    "fb9c58e7296101",
-    "44cb0705cf751e",
-    "410024d6f5c19d",
-    "b51585dd6a54e8",
-    "a3ca3e34a2d729",
-    "5533ea5c0d512a",
-    "e197b2bdab4744",
-    "167f0f375b30f0",
-    "1bca22b012a382",
-    "88dfecdfc5de46",
-    "ecebb285b65b8f",
-    "43f7f63bba2d3c",
-    "11039eb7f2044c",
-    "0a3141673d00fe",
-    "eb4715625af458",
-    "c621b43a258614",
-    "d69270e7553f44",
-    "e35efae847f894",
-    "f68d95e3cdc77b",
-    "67497bda3a56e1",
-    "70d944ee857fe9",
-    "f7ca6e13fde517",
-    "4e243adba2c4fc",
-    "922db55f799237",
-    "5253d5f4598ad3",
-    "1d5a858c3a5bcd",
-    "e84b94272a9594",
-    "cd674e8bba7f63",
-    "389e2d2022a7b0",
-    "41e9247905025c",
-    "218271a81edc35",
-    "f26fcaf232a8a1",
-    "d57acf726883fd",
-    "ce79fabc2894dd",
-    "abdae52a89496b",
-    "ea2fbc13e5c845",
-    "f683f7e7407434",
-    "afbc0a98b52c2a",
-    "835cc4c213be2f",
-    "6e52484d6408e0",
-    "b095ad6dc7c893",
-    "64d3f0d37281d7",
-    "fa7d692128625b",
-    "27d7b9f73fc011",
-    "633f80c1bd2f88",
-    "4441011e8cd420",
-    "94844ee29c27f3",
-    "9efa79075d0ee2",
-    "26eedb97dd6166",
-    "5372417c0dd635",
-    "394aff8d22ca20",
-    "59406ea88bcece",
-    "5e3c66055e55c3",
-    "2454eddbcf84f1",
-    "2fb9503164dd6b",
-    "a10a5ad16f013e",
-    "bf50c5d49c4daf",
-    "f27772927cd43b",
-    "3b3c4566045685",
-    "40dd624361cca4",
-    "2682308ad999dc",
-    "6abb483091f78b",
-    "a2c8d6bc358297",
-    "51cfcf70341c01",
-    "c053333dce4cfc",
-    "03a58825b8b871",
-    "16824b696aa4dc",
-    "65d4137690bd0a",
-    "87c3268744dfe0",
-    "e6dd4a66f90e42",
-    "0c62d32d0d03b6",
-    "b497766309618f",
-    "5c3ab9d24c02f7",
-    "43531d91f4bed2",
-    "15c4978fb02b0e",
-    "d4b692e22e70f2",
-    "2e944c7b89f9b9",
-    "f4acf6d69e4a59",
-    "e0b492895080de",
-    "09011081863b97",
-    "0cd9c53a10b1cb",
-    "9009223308f080",
-    "1cf41a3f056752",
-    "60bead7afa7210",
-    "92c1db63b84abd",
-    "793a0b8c88583f",
-    "69607b91a51c30"
-   ],
-   "sources": [
-    "24 horas",
-    "24 horas on MSN",
-    "24horas",
-    "ABS-CBN",
-    "ADN Radio",
-    "AS México",
-    "Agencia de Periodismo Investigativo",
-    "Agencia de Periodismo Investigativo on MSN",
-    "Chic Magazine",
-    "CiberCuba",
-    "Daily Tribune",
-    "Demokratis.co.id",
-    "Diario AS",
-    "Diario El País",
-    "Diario La Prensa Riobamba",
-    "Diario Primicia",
-    "ELHERALDO.CO",
-    "Eje Central",
-    "El Comercio",
-    "El Comercio Perú",
-    "El Día",
-    "El Financiero",
-    "El Heraldo",
-    "El Imparcial",
-    "El Nacional",
-    "El Nuevo Día",
-    "El Telégrafo (por eliminar)",
-    "El Universo",
-    "El Vocero de Puerto Rico",
-    "Emisoras Unidas",
-    "En Cancha",
-    "Extra",
-    "Facebook",
-    "GMA Network",
-    "Gestión",
-    "Guatemala.com",
-    "HOLA.com",
-    "HOLA.com on MSN",
-    "Infobae",
-    "Instagram"
-   ],
-   "n_items": 246,
-   "n_sources": 91,
-   "videos": [
-    {
-     "vid": "PfSAdnnUn4s",
-     "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
-     "channel": "Canal Antigua",
-     "views": 1032837,
-     "ago": "Transmitido hace 15 h",
-     "official": false
-    },
-    {
-     "vid": "VTZdfe78o1E",
-     "title": "MISS UNIVERSE  2026 | National Costume",
-     "channel": "Miss Universe",
-     "views": 969010,
-     "likes": 0,
-     "published": "2026-11-21T23:03:40+00:00",
-     "official": true
-    },
-    {
-     "vid": "EeH0AN8JMkI",
-     "title": "PLAYTIME ENTERTAINMENT PRESENTA: DESFILE DE TRAJES TÍPICOS DE MISS UNIVERSE 2026 | ¡EN VIVO Y GRA...",
-     "channel": "PlayTime Entertainment",
-     "views": 870559,
-     "ago": "Transmitido hace 15 h",
-     "official": false
-    },
-    {
-     "vid": "HxgbkuzggFA",
-     "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
-     "channel": "Telemundo Entretenimiento",
-     "views": 226437,
-     "likes": 2298,
-     "published": "2026-11-22T00:52:44+00:00",
-     "official": true
-    },
-    {
-     "vid": "tXSkVH4adZk",
-     "title": "National Costume Show Sneak Peek | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 61765,
-     "likes": 0,
-     "published": "2026-11-22T00:47:01+00:00",
-     "official": true
-    },
-    {
-     "vid": "EKzvBJH5Uz8",
-     "title": "Miss Universo 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
-     "channel": "Telemundo Entretenimiento",
-     "views": 48911,
-     "likes": 408,
-     "published": "2026-11-22T01:34:37+00:00",
-     "official": true
-    },
-    {
-     "vid": "zv_xydsngjU",
-     "title": "Fe, arte y tradición en un solo traje típico. Miss Ecuador 🇪🇨 Dalia Bucaram #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 34124,
-     "likes": 112,
-     "published": "2026-11-22T00:17:16+00:00",
-     "official": true
-    },
-    {
-     "vid": "EIDLFUr2qSY",
-     "title": "Dominga López, Miss Chile 🇨🇱 alzó el vuelo como una gaviota con su Traje Típico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 18447,
-     "likes": 504,
-     "published": "2026-11-22T00:15:14+00:00",
-     "official": true
-    },
-    {
-     "vid": "84UO16AZdSM",
-     "title": "National Costume Show day!",
-     "channel": "Miss Universe",
-     "views": 12074,
-     "likes": 0,
-     "published": "2026-11-22T00:12:37+00:00",
-     "official": true
-    },
-    {
-     "vid": "gOuSu9M7Evw",
-     "title": "Miss Guatemala 🇬🇹 Adelina Castillo honra su identidad con su Traje Típico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 10099,
-     "likes": 70,
-     "published": "2026-11-22T00:53:24+00:00",
-     "official": true
-    },
-    {
-     "vid": "PREP0Ptdoy8",
-     "title": "¡Representando el folklor dominicano con orgullo! Melissa Núñez 🇩🇴 en Traje Típico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 8595,
-     "likes": 189,
-     "published": "2026-11-22T00:59:01+00:00",
-     "official": true
-    },
-    {
-     "vid": "b8F2zGHqZgc",
-     "title": "Miss Nicaragua 🇳🇮 Jasmine Blandford con traje típico inspirado en El Palo de Mayo #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 7007,
-     "likes": 147,
-     "published": "2026-11-22T01:37:25+00:00",
-     "official": true
-    },
-    {
-     "vid": "HLld1OMEqGo",
-     "title": "🇭🇳 ¡No es magia, es Miss Honduras, Luisa Paola Pineda con su Traje Típico en #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 5749,
-     "likes": 100,
-     "published": "2026-11-22T00:55:22+00:00",
-     "official": true
-    },
-    {
-     "vid": "SsmOddDYGuM",
-     "title": "La flora y fauna de Panamá 🇵🇦 en el Traje Típico de Gabriela González del Valle #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 4571,
-     "likes": 29,
-     "published": "2026-11-22T01:06:44+00:00",
-     "official": true
-    },
-    {
-     "vid": "Q8A-HS1sxfI",
-     "title": "🇵🇪 ¡Miss Perú, Luren Márquez, tiene energía de sobra al lucir su Traje Típico! #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 4352,
-     "likes": 64,
-     "published": "2026-11-22T00:57:14+00:00",
-     "official": true
-    },
-    {
-     "vid": "71n5Auqk89Y",
-     "title": "El poder hecho traje 🇺🇸 Justus Kelley honra a las mujeres con su Traje Típico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 3998,
-     "likes": 21,
-     "published": "2026-11-22T02:01:51+00:00",
-     "official": true
-    },
-    {
-     "vid": "0XOFT4s3G2A",
-     "title": "Miss Uruguay 🇺🇾 Lucía Piñeyro con un Traje Típico inspirado en el carnaval #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 3858,
-     "likes": 17,
-     "published": "2026-11-22T01:35:41+00:00",
-     "official": true
-    },
-    {
-     "vid": "T1RDAMEmovk",
-     "title": "¡Imponente! 🇯🇵 Miss Japón, Sayuki Ito, luce su Traje Típico tras bambalinas #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 3414,
-     "likes": 32,
-     "published": "2026-11-22T01:04:25+00:00",
-     "official": true
-    },
-    {
-     "vid": "hj2rsixXymI",
-     "title": "Miss Paraguay 🇵🇾 Gretha Matiauda quiere conocer tu opinión sobre su Traje Típico #MissUniverso",
-     "channel": "Telemundo Entretenimiento",
-     "views": 1790,
-     "likes": 22,
-     "published": "2026-11-22T01:09:23+00:00",
-     "official": true
-    },
-    {
-     "vid": "ejKFwAPg44c",
-     "title": "MISS UNIVERSE  2026 | National Costume",
-     "channel": "Miss Universe",
-     "views": 0,
-     "likes": 0,
-     "published": "2026-11-21T23:01:57+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 3327597,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/HxgbkuzggFA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=HxgbkuzggFA",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/71n5Auqk89Y/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/71n5Auqk89Y/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=71n5Auqk89Y",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/b8F2zGHqZgc/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/b8F2zGHqZgc/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=b8F2zGHqZgc",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0XOFT4s3G2A/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/0XOFT4s3G2A/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=0XOFT4s3G2A",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EKzvBJH5Uz8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EKzvBJH5Uz8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EKzvBJH5Uz8",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/hj2rsixXymI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/hj2rsixXymI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=hj2rsixXymI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/SsmOddDYGuM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/SsmOddDYGuM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=SsmOddDYGuM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/T1RDAMEmovk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/T1RDAMEmovk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=T1RDAMEmovk",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/PREP0Ptdoy8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/PREP0Ptdoy8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=PREP0Ptdoy8",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/Q8A-HS1sxfI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/Q8A-HS1sxfI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Q8A-HS1sxfI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/HLld1OMEqGo/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/HLld1OMEqGo/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=HLld1OMEqGo",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/gOuSu9M7Evw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/gOuSu9M7Evw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=gOuSu9M7Evw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/tXSkVH4adZk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=tXSkVH4adZk",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/zv_xydsngjU/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/zv_xydsngjU/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=zv_xydsngjU",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EIDLFUr2qSY/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EIDLFUr2qSY/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EIDLFUr2qSY",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/84UO16AZdSM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/84UO16AZdSM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=84UO16AZdSM",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/ejKFwAPg44c/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/ejKFwAPg44c/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ejKFwAPg44c",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/VTZdfe78o1E/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/VTZdfe78o1E/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=VTZdfe78o1E",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
-     "via": "YouTube (miniatura)",
-     "credit": "Canal Antigua"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EeH0AN8JMkI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EeH0AN8JMkI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EeH0AN8JMkI",
-     "via": "YouTube (miniatura)",
-     "credit": "PlayTime Entertainment"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/8mLmfFhlqYE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8mLmfFhlqYE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8mLmfFhlqYE",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/7_G1B4M9jG4/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/7_G1B4M9jG4/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=7_G1B4M9jG4",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/HQFV6HoTHOE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/HQFV6HoTHOE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=HQFV6HoTHOE",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/BLM4VB5YIVCAXKHW2DBKTYR6KE.jpg?auth=05fafd3fe5cb1765dfa2295b3af22089f99b00d481e9bee27afd5c9701cea945&smart=true&quality=75&width=1280&height=720",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/DE5ICCAMX5G53DRVXTCUNOP24U.jpeg?auth=03fc720bcd83a116b8f42ee329e238d7ceaae0172d102b6724c9864cf0232a67&smart=true&quality=75&width=768",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/MUIVEM5UYVHZZFSY3JEGSCPXK4.png?auth=d64b617ec7bd3a082588fefbc5ee452e78ad79378af78b4f59a6d1d7b96ae814&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/I4F4XPYMIJFIZOT24JQIXVVJII.jpeg?auth=9d093d9bacf4a33cda816255df3e991024666a32e3a1e5905a8be1a5f7f1be5b&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/3XXNZIV4TNA4DEERBFKZPQ2SFM.png?auth=fbcb693bdaf2a9c7c6c035a8cc2a2b89c6f99ccf84210781d09c9f74f452e381&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/OWCIBOHX6BFKLGZVMTHIBSKXUA.jpeg?auth=ccbbb8e1e82d70b24e2eb70de9972343ca75a6e44661e4fc12ae1f357a465639&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/KGXQSQ7D4VFEHB5XNMX2NQVDNA.jpeg?auth=b243f8f23c32feec68b60c6e54ba887ddc5ab3a6a6c5633da041d1a682a1f036&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/23IHR72PFZH2JKIHJFS3SWVXUQ.png?auth=ee944104a0d68de3febbc62e5ccb4ed76284db1f71331167cef7edfcf9a62aa3&smart=true&quality=75&width=768",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/33GIYKIIHVBE5O34D2G2YYHXZY.jpg?auth=3673edc75a9761e6ebd4516fc30f7fd6a5608008f826013ca2b8033f6814324c&smart=true&quality=75&width=768",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.1iPxk-359PmL7KgOloExLg&pid=News",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-se-destaca-en-miss-universe-2026-con-un-traje-inspirado-en-las-esmeraldas-2235.html",
-     "via": "Bing (miniatura)",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://infodelestero.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fwp253i6j%2Fproduction%2F6eccb7c2727fce21b162b70d5a85e65ac6318641-637x360.png%3Frect%3D62%2C0%2C514%2C360%26w%3D280%26h%3D196%26q%3D70&w=3840&q=75",
-     "page": "https://infodelestero.com/2026/11/22/miss-universo-2026-daiana-pereyra-la-representante-argentina-causo-sensacion-con-su-traje-tipico",
-     "via": "infodelestero",
-     "credit": "infodelestero"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/LWAH57NY6ZE2DGMPROC7PB3WCY.jpg?auth=e7d0229e58942bbd63ca8fe4269064dce13a63bd5d2d40e1e2a4c8d62670cb9b&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/peru/2026/11/22/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/22/miss-universo-dominga-lopez-desfila-en-traje-tipico_537007_1_6b02ec31bf538.jpg?d=1200x675",
-     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
-     "via": "Meganoticias",
-     "credit": "Meganoticias"
-    },
-    {
-     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/22/dominga-lopez-traje_536993_4_6b02a3423b2e3.jpg?d=110x110",
-     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
-     "via": "Meganoticias",
-     "credit": "Meganoticias"
-    },
-    {
-     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/21/caravana-navidena-coca-cola_536959_1_6b01a3b2c6070.jpg?d=110x110",
-     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
-     "via": "Meganoticias",
-     "credit": "Meganoticias"
-    },
-    {
-     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/20/naya-facil_536859_4_6b0048196701a.jpg?d=110x110",
-     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
-     "via": "Meganoticias",
-     "credit": "Meganoticias"
-    },
-    {
-     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/21/meli-noto-comparte-tierna-sesio-de-fotos-con-su-hija_536979_1_6b01fcfcd5be4.jpg?d=110x110",
-     "page": "https://www.meganoticias.cl/tendencias/537007-dominga-lopez-explica-su-homenaje-al-festival-de-vina-en-el-miss-universo-una-oda-al-arte-22-11-2026.html",
-     "via": "Meganoticias",
-     "credit": "Meganoticias"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/DeicqxvONge",
-    "https://www.instagram.com/p/Df-jagHBWxD",
-    "https://www.instagram.com/p/Df5mKppoHee",
-    "https://www.instagram.com/p/Df6OjdYID2Q",
-    "https://www.instagram.com/p/Df9kgJ1kSd9",
-    "https://www.instagram.com/p/Df_ZrhIMvFj",
-    "https://www.instagram.com/p/DgAgpY3kY2-",
-    "https://www.instagram.com/p/DgBaNgUIJ8v",
-    "https://www.instagram.com/p/DgBb3ySM5Wm",
-    "https://www.instagram.com/p/DgBb4EVEQ-x",
-    "https://www.instagram.com/p/DgBbPG0KC8R",
-    "https://www.instagram.com/p/DgBdmUJDQf4",
-    "https://www.instagram.com/p/DgBeQEiDSey",
-    "https://www.instagram.com/p/DgBgjQ8DFOa",
-    "https://www.instagram.com/p/DgBgpniMTUH",
-    "https://www.instagram.com/p/DgBhRFjjZiu",
-    "https://www.instagram.com/p/DgBi5myjSCN",
-    "https://www.instagram.com/p/DgBiWmUDiV9",
-    "https://www.instagram.com/p/DgBjvDYGwJw",
-    "https://www.instagram.com/p/DgCodZqFmw3",
-    "https://www.instagram.com/reel/Dcw0KGOIfK-",
-    "https://www.instagram.com/reel/DezSOz7I6yg",
-    "https://www.instagram.com/reel/DfXPN_GIY9k",
-    "https://www.instagram.com/reel/DgBDjbCBhxK",
-    "https://www.instagram.com/reel/DgBa8mhudSB",
-    "https://www.instagram.com/reel/DgBaxf5MEzQ",
-    "https://www.instagram.com/reel/DgBdsZ4FQyV",
-    "https://www.instagram.com/reel/DgBjrnONHIw",
-    "https://www.instagram.com/reel/DgBp-YfpvHv"
-   ],
-   "image_query": "Miss Universe 2026 Desfile De Traje",
-   "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-22T15:56:54.557123+00:00",
-     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:16:54.577327+00:00",
-     "url": "https://www.instagram.com/p/DeicqxvONge",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:40:55.280988+00:00",
-     "url": "https://www.instagram.com/p/Df-jagHBWxD",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:32:54.670356+00:00",
-     "url": "https://www.instagram.com/p/Df5mKppoHee",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:16:54.577327+00:00",
-     "url": "https://www.instagram.com/p/Df6OjdYID2Q",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:32:54.670356+00:00",
-     "url": "https://www.instagram.com/p/Df9kgJ1kSd9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
-     "url": "https://www.instagram.com/p/Df_ZrhIMvFj",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
-     "url": "https://www.instagram.com/p/DgAgpY3kY2-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:40:55.280988+00:00",
-     "url": "https://www.instagram.com/p/DgBaNgUIJ8v",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:56:54.557123+00:00",
-     "url": "https://www.instagram.com/p/DgBb3ySM5Wm",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:48:55.355708+00:00",
-     "url": "https://www.instagram.com/p/DgBb4EVEQ-x",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:48:55.355708+00:00",
-     "url": "https://www.instagram.com/p/DgBbPG0KC8R",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/p/DgBdmUJDQf4",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:24:54.876758+00:00",
-     "url": "https://www.instagram.com/p/DgBeQEiDSey",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:40:55.280988+00:00",
-     "url": "https://www.instagram.com/p/DgBgjQ8DFOa",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:40:55.280988+00:00",
-     "url": "https://www.instagram.com/p/DgBgpniMTUH",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/p/DgBhRFjjZiu",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:24:54.876758+00:00",
-     "url": "https://www.instagram.com/p/DgBi5myjSCN",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:40:55.280988+00:00",
-     "url": "https://www.instagram.com/p/DgBiWmUDiV9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
-     "url": "https://www.instagram.com/p/DgCodZqFmw3",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/reel/Dcw0KGOIfK-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/reel/DezSOz7I6yg",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:32:54.670356+00:00",
-     "url": "https://www.instagram.com/reel/DfXPN_GIY9k",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/reel/DgBDjbCBhxK",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/reel/DgBa8mhudSB",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:56:54.557123+00:00",
-     "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:08:54.425935+00:00",
-     "url": "https://www.instagram.com/reel/DgBdsZ4FQyV",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:24:54.876758+00:00",
-     "url": "https://www.instagram.com/reel/DgBjrnONHIw",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-22T15:24:54.876758+00:00",
-     "url": "https://www.instagram.com/reel/DgBp-YfpvHv",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 597
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -1691,6 +1707,7 @@
     "189eb8e940aebf",
     "1c9b4f34ac5d8d",
     "450167f45b1898",
+    "49922cfb2a1897",
     "90f5c9a1ea0c39",
     "ab0399b40b7e80",
     "4f7d6e5ff78ba2",
@@ -1715,11 +1732,12 @@
     "La Nación Costa Rica",
     "Listín Diario",
     "MDZ Online",
+    "Meridiano.net",
     "Metro Puerto Rico",
     "primicias"
    ],
-   "n_items": 17,
-   "n_sources": 11,
+   "n_items": 18,
+   "n_sources": 12,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1728,6 +1746,18 @@
      "page": "https://www.mdzol.com/estilo/2026/11/22/miss-universo-2026-una-peligrosa-pasarela-sobre-la-arena-en-puerto-rico-genero-fuertes-criticas-1995810.html",
      "via": "Bing (miniatura)",
      "credit": "MDZ Online"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795360884498.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-hora-y-donde-ver-la-gala-preliminar-en-venezuela-2026112211310",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795360884498.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-hora-y-donde-ver-la-gala-preliminar-en-venezuela-2026112211310",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
     },
     {
      "url": "https://www.elpais.com.co/resizer/v2/BLM4VB5YIVCAXKHW2DBKTYR6KE.jpg?auth=05fafd3fe5cb1765dfa2295b3af22089f99b00d481e9bee27afd5c9701cea945&smart=true&quality=75&width=1280&height=720",
@@ -1836,6 +1866,104 @@
      "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/en-vivo-gala-de-traje-nacional-de-miss-universo-2026-nota/",
      "via": "El Universo",
      "credit": "El Universo"
+    },
+    {
+     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
+     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
+     "via": "Bing Imágenes",
+     "credit": "toolerific.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
+    },
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/high resolution birds/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free jpeg images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature%20wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
+     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/drone images png/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
     }
    ],
    "social_urls": [
@@ -1852,8 +1980,107 @@
     "https://www.youtube.com/watch?v=PfSAdnnUn4s"
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
+   "extra_images": [
+    {
+     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
+     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
+     "via": "Bing Imágenes",
+     "credit": "toolerific.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
+    },
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/high resolution birds/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free jpeg images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature%20wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
+     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/drone images png/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "social": [
     {
      "fetched": "2026-11-22T15:40:55.280988+00:00",
@@ -1861,7 +2088,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
      "url": "https://www.instagram.com/p/Df7rX12BNqe",
      "platform": "Instagram"
     },
@@ -1918,7 +2145,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 42
+   "score": 45
   },
   {
    "key": "p:unlock coronation night",
@@ -1946,13 +2173,13 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 478,
+     "views": 504,
      "likes": 6,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
     }
    ],
-   "views_total": 478,
+   "views_total": 504,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -1972,7 +2199,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2040,7 +2267,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 20976,
+     "views": 20978,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -2049,13 +2276,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 9360,
+     "views": 9367,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 30336,
+   "views_total": 30345,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/iqRaY9ALzNc/maxresdefault.jpg",
@@ -2544,7 +2771,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 61765,
+     "views": 61937,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -2553,13 +2780,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 12074,
+     "views": 12131,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 73839,
+   "views_total": 74068,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -2579,7 +2806,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 National Costume Show Sneak Peek",
    "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2598,10 +2825,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "bce972d2d689f3",
     "927113138f0453",
     "0adf2732c078f9",
     "e55a80979b7430",
@@ -2720,8 +2948,7 @@
     "4f5e985c00dd1d",
     "b34cc9500a6dc2",
     "44edeb95cc8f8a",
-    "f38b52626eed49",
-    "49e6d603639d54"
+    "f38b52626eed49"
    ],
    "sources": [
     "24 horas",
@@ -2736,6 +2963,7 @@
     "DZRH",
     "Daily Tribune",
     "Demokratis.co.id",
+    "Diario Las Américas",
     "Diario Primicia",
     "ELHERALDO.CO",
     "Eje Central",
@@ -2810,8 +3038,8 @@
     "philstarlife",
     "sdpnoticias"
    ],
-   "n_items": 212,
-   "n_sources": 85,
+   "n_items": 213,
+   "n_sources": 86,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3025,7 +3253,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 385
+   "score": 388
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -3246,7 +3474,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
      "url": "https://www.instagram.com/reel/DgBkmB5tKK6",
      "platform": "Instagram"
     }
@@ -3298,13 +3526,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 120612,
+     "views": 120770,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 120612,
+   "views_total": 120770,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -3654,7 +3882,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
      "url": "https://www.instagram.com/reel/Df8Levrto97",
      "platform": "Instagram"
     },
@@ -3684,7 +3912,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-22T08:36:44.780813+00:00",
-   "start": "2026-11-20T02:46:00+00:00",
+   "start": "2026-11-20T05:04:50+00:00",
    "last_activity": "2026-11-20T22:47:00+00:00",
    "item_ids": [
     "20be2d9e5de105",
@@ -3699,7 +3927,6 @@
     "9e77b8125452bf",
     "2eedaa9f664761",
     "a7ae171684974c",
-    "2c645ff7b8c664",
     "80af0fcfb1bc7c",
     "c90ebbe5a0d3b9",
     "9e33a6ed2c9e3b",
@@ -3721,7 +3948,7 @@
     "Telemundo Atlanta",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 19,
+   "n_items": 18,
    "n_sources": 12,
    "videos": [],
    "views_total": 0,
@@ -4045,7 +4272,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 43
+   "score": 42
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-18",
@@ -4445,7 +4672,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T02:03:15.738738+00:00",
-   "start": "2026-11-20T02:59:00+00:00",
+   "start": "2026-11-20T06:57:00+00:00",
    "last_activity": "2026-11-20T21:26:17+00:00",
    "item_ids": [
     "c90ebbe5a0d3b9",
@@ -4456,8 +4683,7 @@
     "1a4462925c1290",
     "b0d3ec8741fa31",
     "638db3a106b1ac",
-    "1b1f7ed8e08b71",
-    "080feac0bab7fa"
+    "1b1f7ed8e08b71"
    ],
    "sources": [
     "El Heraldo",
@@ -4466,12 +4692,11 @@
     "People en Español",
     "Prensa Libre",
     "Primera Hora",
-    "Red Uno de Bolivia",
     "Yahoo en Español Vida y Estilo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 10,
-   "n_sources": 9,
+   "n_items": 9,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4572,12 +4797,6 @@
      "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/una-de-las-grandes-favoritas-de-miss-universe-se-lesiona-en-medio-de-los-ensayos/",
      "via": "Primera Hora",
      "credit": "Primera Hora"
-    },
-    {
-     "url": "https://pxcdn.reduno.com.bo/reduno/112026/1795183018926.webp?extw=jpg&cw=600&ch=365",
-     "page": "https://www.reduno.com.bo/internacional/miss-universo-2026-enfrenta-otro-incidente-representante-de-francia-sufre-lesion-a-dias-de-la-final-2026112010421",
-     "via": "Red Uno de Bolivia",
-     "credit": "Red Uno de Bolivia"
     },
     {
      "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
@@ -4786,7 +5005,7 @@
    "extra_at": "2026-11-22T14:36:54.578995+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T15:00:54.679969+00:00",
+     "fetched": "2026-11-22T16:04:54.394859+00:00",
      "url": "https://www.instagram.com/reel/Df72SRgBraB",
      "platform": "Instagram"
     },
@@ -4802,7 +5021,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 31
+   "score": 28
   },
   {
    "key": "t:mu:Votación:2026-11-18",
@@ -5041,7 +5260,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 fashion show runway",
    "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5086,7 +5305,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Aguadilla welcome parade",
    "extra_images": [],
-   "extra_at": "2026-11-22T15:56:54.557123+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5105,7 +5324,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5336,7 +5555,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5560,7 +5779,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5791,7 +6010,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5804,7 +6023,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-22T15:32:54.670356+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5824,7 +6043,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T15:56:54.557123+00:00",
+   "first_seen": "2026-11-22T16:04:54.394859+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
@@ -5927,7 +6146,7 @@
      "credit": "ADenisse-WMF"
     }
    ],
-   "extra_at": "2026-11-22T13:00:55.433271+00:00",
+   "extra_at": "2026-11-22T16:04:54.394859+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
