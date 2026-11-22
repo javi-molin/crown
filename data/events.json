@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:16:35.246992+00:00",
- "count": 33,
+ "updated": "2026-11-22T01:24:34.666047+00:00",
+ "count": 32,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -176,7 +176,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -215,14 +215,16 @@
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
    "start": "2026-11-20T21:26:17+00:00",
-   "last_activity": "2026-11-22T01:12:36+00:00",
+   "last_activity": "2026-11-22T01:18:11+00:00",
    "item_ids": [
     "dd6df663e98515",
     "4f5e985c00dd1d",
     "44edeb95cc8f8a",
     "c90ebbe5a0d3b9",
+    "f26fcaf232a8a1",
     "ce79fabc2894dd",
     "ea2fbc13e5c845",
+    "f683f7e7407434",
     "afbc0a98b52c2a",
     "b095ad6dc7c893",
     "64d3f0d37281d7",
@@ -236,6 +238,7 @@
     "394aff8d22ca20",
     "59406ea88bcece",
     "5e3c66055e55c3",
+    "2454eddbcf84f1",
     "2fb9503164dd6b",
     "bf50c5d49c4daf",
     "3b3c4566045685",
@@ -293,13 +296,16 @@
     "9f2ce9cca7159d",
     "2d980966934e74",
     "4328968f3a041a",
+    "8dbb093721887e",
     "ab3f2e82cf49cd",
+    "9861889d0d617a",
     "5cd10745c0c112",
     "17d792a335253f",
     "eece260c50cef4",
     "2999887b6349ae",
     "cf7dd422fbdff2",
     "c517c1ae6819f2",
+    "2586955e0512ef",
     "09161c153af85d",
     "ef00eef353d306",
     "58ef6eca9c3748",
@@ -330,13 +336,7 @@
     "fc9255180e5243",
     "f23eea755c7940",
     "74cfc26fb53559",
-    "d975135b73b31c",
-    "7f1b0451e1335d",
-    "736ffb3c1565be",
-    "057cd3ed5881c1",
-    "9d31f45b14707f",
-    "5bdda67908ff3e",
-    "5611b3a0559a0e"
+    "d975135b73b31c"
    ],
    "sources": [
     "24 horas",
@@ -365,6 +365,7 @@
     "GMA Network",
     "Gestión",
     "Guatemala.com",
+    "HOLA.com",
     "HOLA.com on MSN",
     "La Nación Costa Rica",
     "La Prensa Gráfica",
@@ -377,17 +378,16 @@
     "Metro Ecuador",
     "Metro.Style",
     "Milenio on MSN",
-    "Minuto60",
-    "N Digital"
+    "Minuto60"
    ],
-   "n_items": 134,
-   "n_sources": 59,
+   "n_items": 140,
+   "n_sources": 61,
    "videos": [
     {
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 652557,
+     "views": 693107,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
@@ -396,16 +396,16 @@
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 67769,
-     "ago": "Transmitido hace 29 min",
+     "views": 90869,
+     "ago": "Transmitido hace 37 min",
      "official": false
     },
     {
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 33933,
-     "likes": 1661,
+     "views": 43827,
+     "likes": 1696,
      "published": "2026-11-22T00:52:44+00:00",
      "official": true
     },
@@ -413,7 +413,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3171,
+     "views": 3664,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -422,8 +422,8 @@
      "vid": "EIDLFUr2qSY",
      "title": "Dominga López, Miss Chile 🇨🇱 alzó el vuelo como una gaviota con su Traje Típico #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 2393,
-     "likes": 98,
+     "views": 2771,
+     "likes": 115,
      "published": "2026-11-22T00:15:14+00:00",
      "official": true
     },
@@ -431,8 +431,8 @@
      "vid": "R-HgqtJUrxE",
      "title": "María Alejandra López, Miss Colombia 🇨🇴 con Traje Típico inspirado en el Eje Cafetero #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1986,
-     "likes": 73,
+     "views": 2204,
+     "likes": 84,
      "published": "2026-11-22T00:12:48+00:00",
      "official": true
     },
@@ -440,8 +440,8 @@
      "vid": "zv_xydsngjU",
      "title": "Fe, arte y tradición en un solo traje típico. Miss Ecuador 🇪🇨 Dalia Bucaram #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1579,
-     "likes": 43,
+     "views": 1683,
+     "likes": 45,
      "published": "2026-11-22T00:17:16+00:00",
      "official": true
     },
@@ -449,8 +449,8 @@
      "vid": "tgsvQOZv3g0",
      "title": "Mia Dio, Miss Cuba 🇨🇺 sorprende con su Traje Típico La Dama de la Libertad #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1321,
-     "likes": 39,
+     "views": 1426,
+     "likes": 44,
      "published": "2026-11-22T00:07:33+00:00",
      "official": true
     },
@@ -458,7 +458,7 @@
      "vid": "0PuEw1EuPb8",
      "title": "Valeria Mena, Miss Bolivia 🇧🇴 y el ‘El Espejo del Cielo’ con su Traje Típico #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1265,
+     "views": 1346,
      "likes": 22,
      "published": "2026-11-21T23:54:30+00:00",
      "official": true
@@ -467,8 +467,8 @@
      "vid": "mIBxZO4rS-M",
      "title": "Bianty Rojer-Gomperts, Miss Curazao 🇨🇼 nos muestra su traje típico tras el desfile #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 1168,
-     "likes": 7,
+     "views": 1219,
+     "likes": 8,
      "published": "2026-11-22T00:00:10+00:00",
      "official": true
     },
@@ -476,7 +476,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 944,
+     "views": 1050,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -485,8 +485,8 @@
      "vid": "PREP0Ptdoy8",
      "title": "¡Representando el folklor dominicano con orgullo! Melissa Núñez 🇩🇴 en Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 476,
-     "likes": 12,
+     "views": 818,
+     "likes": 17,
      "published": "2026-11-22T00:59:01+00:00",
      "official": true
     },
@@ -494,8 +494,8 @@
      "vid": "HLld1OMEqGo",
      "title": "🇭🇳 ¡No es magia, es Miss Honduras, Luisa Paola Pineda con su Traje Típico en #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 452,
-     "likes": 19,
+     "views": 651,
+     "likes": 26,
      "published": "2026-11-22T00:55:22+00:00",
      "official": true
     },
@@ -503,8 +503,8 @@
      "vid": "gOuSu9M7Evw",
      "title": "Miss Guatemala 🇬🇹 Adelina Castillo honra su identidad con su Traje Típico #Miss Universo",
      "channel": "Telemundo Entretenimiento",
-     "views": 432,
-     "likes": 9,
+     "views": 591,
+     "likes": 11,
      "published": "2026-11-22T00:53:24+00:00",
      "official": true
     },
@@ -512,8 +512,8 @@
      "vid": "Q8A-HS1sxfI",
      "title": "🇵🇪 ¡Miss Perú, Luren Márquez, tiene energía de sobra al lucir su Traje Típico! #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 363,
-     "likes": 8,
+     "views": 540,
+     "likes": 11,
      "published": "2026-11-22T00:57:14+00:00",
      "official": true
     },
@@ -521,8 +521,8 @@
      "vid": "T1RDAMEmovk",
      "title": "¡Imponente! 🇯🇵 Miss Japón, Sayuki Ito, luce su Traje Típico tras bambalinas #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 116,
-     "likes": 0,
+     "views": 232,
+     "likes": 1,
      "published": "2026-11-22T01:04:25+00:00",
      "official": true
     },
@@ -530,8 +530,8 @@
      "vid": "SsmOddDYGuM",
      "title": "La flora y fauna de Panamá 🇵🇦 en el Traje Típico de Gabriela González del Valle #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 82,
-     "likes": 3,
+     "views": 165,
+     "likes": 5,
      "published": "2026-11-22T01:06:44+00:00",
      "official": true
     },
@@ -539,8 +539,8 @@
      "vid": "hj2rsixXymI",
      "title": "Miss Paraguay 🇵🇾 Gretha Matiauda quiere conocer tu opinión sobre su Traje Típico #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 57,
-     "likes": 0,
+     "views": 136,
+     "likes": 2,
      "published": "2026-11-22T01:09:23+00:00",
      "official": true
     },
@@ -554,7 +554,7 @@
      "official": true
     }
    ],
-   "views_total": 770064,
+   "views_total": 846299,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -953,7 +953,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/p/DeicqxvONge",
      "platform": "Instagram"
     },
@@ -968,7 +968,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -1066,7 +1066,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 293
+   "score": 307
   },
   {
    "key": "p:national costume show sneak peek",
@@ -1094,7 +1094,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 3171,
+     "views": 3664,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -1103,13 +1103,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 944,
+     "views": 1050,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 4115,
+   "views_total": 4714,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -1129,7 +1129,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 National Costume Show Sneak Peek",
    "extra_images": [],
-   "extra_at": "2026-11-22T01:16:35.246992+00:00",
+   "extra_at": "2026-11-22T01:24:34.666047+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1148,12 +1148,14 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "f26fcaf232a8a1",
     "ce79fabc2894dd",
     "ea2fbc13e5c845",
+    "f683f7e7407434",
     "afbc0a98b52c2a",
     "b095ad6dc7c893",
     "64d3f0d37281d7",
@@ -1168,6 +1170,7 @@
     "394aff8d22ca20",
     "59406ea88bcece",
     "5e3c66055e55c3",
+    "2454eddbcf84f1",
     "2fb9503164dd6b",
     "bf50c5d49c4daf",
     "3b3c4566045685",
@@ -1221,7 +1224,10 @@
     "9f2ce9cca7159d",
     "2d980966934e74",
     "4328968f3a041a",
+    "8dbb093721887e",
     "ab3f2e82cf49cd",
+    "9861889d0d617a",
+    "2586955e0512ef",
     "ef00eef353d306",
     "58ef6eca9c3748",
     "f94b767102acf1",
@@ -1276,6 +1282,7 @@
     "GMA Network",
     "Gestión",
     "Guatemala.com",
+    "HOLA.com",
     "HOLA.com on MSN",
     "La Prensa Gráfica",
     "MARCA",
@@ -1303,12 +1310,13 @@
     "Teletrece",
     "The Manila Times",
     "Vogue Philippines",
+    "XEVA",
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento",
     "minuto60"
    ],
-   "n_items": 105,
-   "n_sources": 47,
+   "n_items": 111,
+   "n_sources": 49,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1522,7 +1530,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 202
+   "score": 212
   },
   {
    "key": "seed:voto-top30",
@@ -1583,7 +1591,7 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21251,
+     "views": 21287,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
@@ -1592,7 +1600,7 @@
      "vid": "4nT1YmRnImQ",
      "title": "VOTE NOW to advance your delegate to the Top 30| Miss Universe",
      "channel": "Miss Universe",
-     "views": 19822,
+     "views": 19849,
      "likes": 0,
      "published": "2026-11-18T23:26:58+00:00",
      "official": true
@@ -1601,13 +1609,13 @@
      "vid": "iqRaY9ALzNc",
      "title": "VOTE NOW!",
      "channel": "Miss Universe",
-     "views": 8777,
+     "views": 8802,
      "likes": 0,
      "published": "2026-11-19T01:28:43+00:00",
      "official": true
     }
    ],
-   "views_total": 49850,
+   "views_total": 49938,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -1925,7 +1933,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -1976,8 +1984,7 @@
     "be7f8504191879",
     "7a844ffbab0ed8",
     "09c5818242bf23",
-    "a77969161f7005",
-    "2540479892f808"
+    "a77969161f7005"
    ],
    "sources": [
     "Africanews on MSN",
@@ -1985,18 +1992,17 @@
     "Inquirer.net",
     "Inquirer.net - Philippines Entertainment News",
     "News.com.au",
-    "Sloboden Pechat",
     "South China Morning Post",
     "YouTube · Miss Universe"
    ],
-   "n_items": 8,
-   "n_sources": 8,
+   "n_items": 7,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 893871,
+     "views": 894489,
      "likes": 0,
      "published": "2026-11-18T02:39:45+00:00",
      "official": true
@@ -2005,13 +2011,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 68881,
+     "views": 71548,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 962752,
+   "views_total": 966037,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -2088,7 +2094,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 75
+   "score": 72
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -2374,7 +2380,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.youtube.com/watch?v=8ckrb3dgi4I",
      "platform": "YouTube",
      "views": 198,
@@ -2414,7 +2420,7 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 843,
+     "views": 859,
      "likes": 11,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
@@ -2429,7 +2435,7 @@
      "official": true
     }
    ],
-   "views_total": 1543,
+   "views_total": 1559,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Ab4MqXh-Gbc/maxresdefault.jpg",
@@ -2449,7 +2455,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-22T01:16:35.246992+00:00",
+   "extra_at": "2026-11-22T01:24:34.666047+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2814,7 +2820,7 @@
    "extra_at": "2026-11-22T00:36:34.597095+00:00",
    "social": [
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/p/DeLTxBmjnvu",
      "platform": "Instagram"
     },
@@ -2829,12 +2835,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/reel/Df5zeVPJ8Yf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/reel/Df71ZHPQVDW",
      "platform": "Instagram"
     },
@@ -2844,7 +2850,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/reel/Df8sMUhBqMs",
      "platform": "Instagram"
     }
@@ -2882,6 +2888,7 @@
     "725f5951b73da8",
     "6dd9406159b7c8",
     "a7ae171684974c",
+    "65cfdd56a3c40e",
     "5798afaeb82fd7",
     "16273c7199443d",
     "8a2a057f192465",
@@ -2901,6 +2908,7 @@
     "Diario AS",
     "El Nortero",
     "El Observatodo",
+    "El Repuertero",
     "El Universo",
     "El Vocero de Puerto Rico",
     "Emisoras Unidas",
@@ -2913,8 +2921,8 @@
     "YouTube · Telemundo Entretenimiento",
     "www.elmorrocotudo.cl"
    ],
-   "n_items": 23,
-   "n_sources": 15,
+   "n_items": 24,
+   "n_sources": 16,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3307,7 +3315,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 56
+   "score": 59
   },
   {
    "key": "t:mu:Ensayos:2026-11-18",
@@ -4251,140 +4259,6 @@
    "score": 95
   },
   {
-   "key": "t:mu:Causa / caridad:2026-11-18",
-   "id": "t-mu-causa-caridad-2026-11-18-767b4",
-   "name": "Causa / caridad · 18–20 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Causa / caridad"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-19T04:58:38.887772+00:00",
-   "start": "2026-11-19T07:33:00+00:00",
-   "last_activity": "2026-11-20T19:49:54+00:00",
-   "item_ids": [
-    "82b8318fcd14ac",
-    "050aff3d10ab2b",
-    "19edd479bdb2ff"
-   ],
-   "sources": [
-    "HOLA",
-    "People en Español",
-    "Revista Mercado"
-   ],
-   "n_items": 3,
-   "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.E20vAO9_xJ5ZkG_tRsKDWg&pid=News",
-     "page": "https://revistamercado.do/lifestyle/andrea-meza-miss-universo-2020-es-llevada-de-emergencia-al-hospital-lo-que-se-sabe-de-su-salud/",
-     "via": "Bing (miniatura)",
-     "credit": "Revista Mercado"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu/page1-1920px-The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Collected_Works_of_Mahatma_Gandhi,_vol._27.djvu",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Mahatma Gandhi"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nSanborn, F. B"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Creator:Blanche Watson"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Rabindranath Tagore and others"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 charity visit",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu/page1-1920px-The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Collected_Works_of_Mahatma_Gandhi,_vol._27.djvu",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Mahatma Gandhi"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nSanborn, F. B"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Creator:Blanche Watson"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Rabindranath Tagore and others"
-    }
-   ],
-   "extra_at": "2026-11-22T00:36:34.597095+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 9
-  },
-  {
    "key": "t:mu:Votación:2026-11-18",
    "id": "t-mu-votacion-2026-11-18-94a41",
    "name": "Votación · 18–20 nov",
@@ -4427,13 +4301,13 @@
      "vid": "uPB2RsdQoWA",
      "title": "Biggest voting jumps! Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21251,
+     "views": 21287,
      "likes": 0,
      "published": "2026-11-20T01:38:00+00:00",
      "official": true
     }
    ],
-   "views_total": 21251,
+   "views_total": 21287,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/uPB2RsdQoWA/maxresdefault.jpg",
@@ -4651,7 +4525,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-22T00:20:35.040427+00:00",
+     "fetched": "2026-11-22T01:24:34.666047+00:00",
      "url": "https://www.instagram.com/p/Df6OjdYID2Q",
      "platform": "Instagram"
     },
@@ -4681,26 +4555,24 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-22T00:28:35.301329+00:00",
-   "start": "2026-11-19T08:00:00+00:00",
+   "start": "2026-11-19T10:48:18+00:00",
    "last_activity": "2026-11-20T18:16:00+00:00",
    "item_ids": [
     "efb2ef28dced80",
     "7a844ffbab0ed8",
     "09c5818242bf23",
     "9746670e886f83",
-    "a77969161f7005",
-    "2540479892f808"
+    "a77969161f7005"
    ],
    "sources": [
     "Africanews on MSN",
     "Digg",
     "Inquirer.net - Philippines Entertainment News",
     "News.com.au",
-    "Sloboden Pechat",
     "news.com.au"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4919,7 +4791,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 18
+   "score": 15
   },
   {
    "key": "t:mu:Talento / reto:2026-11-18",
@@ -5221,7 +5093,7 @@
      "vid": "8TWbd7e9kvo",
      "title": "FUKUSHIMA TOUR | Miss International 2026",
      "channel": "Miss International",
-     "views": 2223,
+     "views": 2221,
      "likes": 24,
      "published": "2026-11-19T14:11:55+00:00",
      "official": true
@@ -5236,7 +5108,7 @@
      "official": true
     }
    ],
-   "views_total": 4008,
+   "views_total": 4006,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8TWbd7e9kvo/maxresdefault.jpg",
@@ -5993,13 +5865,13 @@
      "vid": "54LQDWfQsHQ",
      "title": "Unlock EXCLUSIVE Access to Coronation Night 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 6853,
+     "views": 6861,
      "likes": 27,
      "published": "2026-11-20T00:00:04+00:00",
      "official": true
     }
    ],
-   "views_total": 6853,
+   "views_total": 6861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/54LQDWfQsHQ/maxresdefault.jpg",
@@ -6062,13 +5934,13 @@
      "vid": "Upmk6ipYuwo",
      "title": "YOKOSUKA DAY TRIP | Miss International 2026",
      "channel": "Miss International",
-     "views": 438,
+     "views": 436,
      "likes": 12,
      "published": "2026-11-19T14:31:36+00:00",
      "official": true
     }
    ],
-   "views_total": 438,
+   "views_total": 436,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Upmk6ipYuwo/maxresdefault.jpg",
@@ -6150,7 +6022,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Niigata Tour",
    "extra_images": [],
-   "extra_at": "2026-11-22T01:16:35.246992+00:00",
+   "extra_at": "2026-11-22T01:24:34.666047+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -6185,25 +6057,9 @@
    ],
    "n_items": 2,
    "n_sources": 2,
-   "videos": [
-    {
-     "vid": "KYdzhQzMHVE",
-     "title": "Behind The Scenes of the official 2026 photos | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 65177,
-     "ago": "hace 5 días",
-     "official": false
-    }
-   ],
-   "views_total": 65177,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/KYdzhQzMHVE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/KYdzhQzMHVE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=KYdzhQzMHVE",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT._hXPnRyqj-r4ouLercW6lw&pid=News",
      "page": "https://entertainment.inquirer.net/690684/miss-international-2026-delegates-serve-face-in-official-portraits",
@@ -6419,7 +6275,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 9
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -6430,7 +6286,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6479,7 +6335,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6492,7 +6348,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-22T01:16:35.246992+00:00",
+   "extra_at": "2026-11-22T01:24:34.666047+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6512,7 +6368,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6561,7 +6417,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6792,7 +6648,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-22T01:16:35.246992+00:00",
+   "first_seen": "2026-11-22T01:24:34.666047+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
