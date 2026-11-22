@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-22T00:20:35.040427+00:00",
+ "run_at": "2026-11-22T00:28:35.301329+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,13 +16,13 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 100,
+   "items": 74,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 78,
+   "items": 79,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 47,
+   "items": 46,
    "error": null
   },
   {
@@ -52,7 +52,7 @@
   {
    "source": "Google News · Miss Universo favoritas",
    "ok": true,
-   "items": 94,
+   "items": 93,
    "error": null
   },
   {
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 53,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 73,
+   "items": 100,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -172,19 +172,19 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 0,
+   "items": 18,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 4,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 10,
+   "items": 13,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -358,14 +358,14 @@
   {
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
-   "items": 937,
+   "items": 946,
    "error": "92 candidatas · descartadas: 1160 fuera de fecha, 30 no habla de ella ni del concurso, 0 hashtag / no oficial, 30 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 16,
-   "error": "2378 imágenes en el espejo"
+   "items": 18,
+   "error": "2396 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 220,
+   "items": 224,
    "error": null
   }
  ],
- "new_items": 939,
+ "new_items": 896,
  "total_items": 900
 }
