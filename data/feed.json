@@ -1,8 +1,24 @@
 {
- "updated": "2026-11-22T04:52:34.807099+00:00",
- "new_this_run": 915,
+ "updated": "2026-11-22T05:00:34.820873+00:00",
+ "new_this_run": 865,
  "count": 900,
  "items": [
+  {
+   "id": "8ac197fba79cc7",
+   "type": "news",
+   "title": "Miss Universo 2026, cuándo es la final y qué galas habrá antes",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVB6bExiTTFXMktZRVNUOFFCci1CX3lDY2lneUV2UFZhQzJCRTQzMm1DUTYtM0F5enNXdU5nNklZaXR0dkZ4V1M3Nm40dEFjVUZWS2JIODVVZXMwVEtfWmVPaHhwQ3NYRm1wTkM1bHcxQXZvQXJ5UkE5eTZGMVo0SHB4ZDAtM3h5UXBQOENKVTMzVVNBaDlnQ3NJMlVPTGg1Zm00?oc=5",
+   "source": "Baja News",
+   "published": "2026-11-22T04:52:39+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [],
+   "first_seen": "2026-11-22T05:00:34.820873+00:00"
+  },
   {
    "id": "fb9c58e7296101",
    "type": "news",
@@ -959,7 +975,9 @@
    "contests": [
     "mu"
    ],
-   "tags": [],
+   "tags": [
+    "resultados"
+   ],
    "query": "\"Miss Universo 2026\"",
    "who": [],
    "first_seen": "2026-11-22T01:40:34.937821+00:00"
@@ -2978,6 +2996,33 @@
    "query": "\"Miss Universo 2026\"",
    "who": [],
    "first_seen": "2026-11-21T20:44:25.400809+00:00"
+  },
+  {
+   "id": "e7022771a1b668",
+   "type": "news",
+   "title": "María Vargas, la modelo, empresaria y escritora que representa a México en Miss Universo 2026",
+   "summary": "La jalisciense de 28 años estudió Negocios Internacionales, ha participado en distintos certámenes de belleza y publicó un libro en el que aborda las críticas y experiencias que ha enfrentado ...",
+   "link": "https://www.msn.com/es-mx/entretenimiento/general/mar%C3%ADa-vargas-la-modelo-empresaria-y-escritora-que-representa-a-m%C3%A9xico-en-miss-universo-2026/ar-AA2hWvXm",
+   "direct": true,
+   "source": "EL IMPARCIAL on MSN",
+   "published": "2026-11-21T20:30:46+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "polemica"
+   ],
+   "thumb": null,
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Mexico",
+     "name": "María Vargas"
+    }
+   ],
+   "first_seen": "2026-11-22T05:00:34.820873+00:00"
   },
   {
    "id": "1346f043ed053a",
@@ -18697,52 +18742,6 @@
    "query": "\"Miss Universe 2026\"",
    "who": [],
    "first_seen": "2026-11-19T15:23:05.867720+00:00"
-  },
-  {
-   "id": "edbf6a858885f9",
-   "type": "news",
-   "title": "Miss Universe 2026 : Garance Authié forcée par le corps médical de se retirer après un accident",
-   "summary": "À cinq jours de la finale de Miss Univers, Garance Authié s’est blessée et doit passer des examens médicaux, a annoncé son comité.",
-   "link": "https://www.public.fr/miss-universe-2026-garance-authie-forcee-par-le-corps-medical-de-se-retirer-apres-un-accident",
-   "direct": true,
-   "source": "Public.fr",
-   "published": "2026-11-19T14:32:00+00:00",
-   "lang": "en",
-   "contests": [
-    "mi",
-    "mu"
-   ],
-   "tags": [
-    "polemica"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.B5L-Ekc8xgw8ssXUMqAilg&pid=News",
-   "query": "Miss International 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "France",
-     "name": "Garance Authié"
-    }
-   ],
-   "first_seen": "2026-11-21T07:24:09.362549+00:00"
-  },
-  {
-   "id": "ca026666316644",
-   "type": "video",
-   "title": "YOKOSUKA DAY TRIP | Miss International 2026",
-   "link": "https://www.youtube.com/watch?v=Upmk6ipYuwo",
-   "source": "YouTube · Miss International",
-   "published": "2026-11-19T14:31:36+00:00",
-   "contests": [
-    "mi"
-   ],
-   "tags": [
-    "video"
-   ],
-   "thumb": "https://i.ytimg.com/vi/Upmk6ipYuwo/hqdefault.jpg",
-   "official": true,
-   "who": [],
-   "first_seen": "2026-11-19T14:43:07.366082+00:00"
   }
  ]
 }
