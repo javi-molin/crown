@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-22T09:48:44.721733+00:00",
+ "run_at": "2026-11-22T09:56:44.644814+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -64,7 +64,7 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 49,
+   "items": 100,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 34,
    "error": null
   },
   {
@@ -94,13 +94,13 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 72,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 13,
+   "items": 12,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 88,
+   "items": 100,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   },
   {
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 14,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 0,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 14,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 6,
    "error": null
   },
   {
@@ -306,6 +306,12 @@
    "ok": true,
    "items": 23,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -388,10 +394,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 213,
+   "items": 209,
    "error": null
   }
  ],
- "new_items": 900,
+ "new_items": 958,
  "total_items": 900
 }
