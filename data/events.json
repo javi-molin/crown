@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:25:44.924846+00:00",
+ "updated": "2026-11-23T13:33:44.667312+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -181,12 +181,15 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T08:53:35.693911+00:00",
-   "start": "2026-11-21T17:58:00+00:00",
-   "last_activity": "2026-11-23T13:12:20+00:00",
+   "start": "2026-11-21T18:53:00+00:00",
+   "last_activity": "2026-11-23T13:30:15+00:00",
    "item_ids": [
     "e4152aab5aeb1d",
     "eb4f0fb1d45ba5",
     "dc19dad92c7699",
+    "337a17eb94fa50",
+    "47f72716e79e1d",
+    "2e9d6e1bcc9166",
     "09b5a883d49f15",
     "bf65617ec82716",
     "523498a4640634",
@@ -197,6 +200,7 @@
     "512fa8a54e3d22",
     "31e95ee4d67b06",
     "a72d88fe0350d8",
+    "1fff5245cd4b43",
     "77650e0791580d",
     "37f113e6f11e99",
     "fb4ea217447104",
@@ -299,11 +303,7 @@
     "c65d67e5850682",
     "a4f0a47b53aa79",
     "e49a153c2bf549",
-    "cce0e25e912ec4",
-    "1aba16a312c944",
-    "d7a04337cb9ad2",
-    "bcebfe7c7f374d",
-    "3a17745f56d459"
+    "cce0e25e912ec4"
    ],
    "sources": [
     "24 horas",
@@ -326,6 +326,8 @@
     "El Colombiano on MSN",
     "El Comercio",
     "El Dia.com.do",
+    "El Diario",
+    "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Financiero",
     "El Heraldo",
     "El Mostrador",
@@ -343,18 +345,16 @@
     "Howl.Link",
     "Infobae",
     "Informe21",
-    "Instagram",
-    "Interaksyon",
-    "LA PRENSA"
+    "Instagram"
    ],
-   "n_items": 214,
-   "n_sources": 85,
+   "n_items": 217,
+   "n_sources": 88,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 633641,
+     "views": 633771,
      "ago": "Transmitido hace 11 h",
      "official": false
     },
@@ -371,16 +371,16 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 39511,
-     "ago": "hace 10 h",
+     "views": 39656,
+     "ago": "hace 11 h",
      "official": false
     },
     {
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 15786,
-     "ago": "hace 11 h",
+     "views": 15806,
+     "ago": "hace 12 h",
      "official": false
     },
     {
@@ -393,7 +393,7 @@
      "official": true
     }
    ],
-   "views_total": 745248,
+   "views_total": 745543,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -431,10 +431,10 @@
      "credit": "Telemundo Entretenimiento"
     },
     {
-     "url": "http://www.bing.com/th?id=ONUT.2ygsll0vAwnts6ZlSRGuww&pid=News",
-     "page": "https://www.msn.com/es-co/noticias/otras/mar%C3%ADa-alejandra-l%C3%B3pez-sali%C3%B3-con-un-vestido-negro-en-miss-universo-2026-y-revel%C3%B3-la-historia-detr%C3%A1s-de-su-elecci%C3%B3n/ar-AA2i2Kab",
+     "url": "http://www.bing.com/th?id=ONUT.NR1ZREl43S6IJRK0u8Pf6w&pid=News",
+     "page": "https://www.eldiario.com.co/actualidad/maria-alejandra-lopez-brillo-en-la-preliminar-de-miss-universo-2026/",
      "via": "Bing (miniatura)",
-     "credit": "El Colombiano on MSN"
+     "credit": "El Diario"
     },
     {
      "url": "https://estaticos.elcolombiano.com/binrepository/568x430/0c0/1280d720/none/11101/NQGE/captura-de-pantalla-2026-11-23-06291_52201219_20261123064746.png",
@@ -755,7 +755,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -820,7 +820,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
      "platform": "Instagram"
     },
@@ -845,7 +845,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.youtube.com/watch?v=videoseries",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/videoseries/hqdefault.jpg",
@@ -858,7 +858,528 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 424
+   "score": 433
+  },
+  {
+   "key": "seed:beauty-at-the-beach",
+   "id": "beauty-at-the-beach",
+   "name": "Beauty at the Beach (pasarela sobre la arena)",
+   "contest": "mu",
+   "kind": "evento (no oficial de MUO)",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": "Pasarela de traje de baño sobre la arena del Caribe Hilton. Varias candidatas casi se caen; MUO se desligó y la productora pidió disculpas.",
+   "refs": [
+    "https://www.hola.com/us/entertainment/20261116935333/miss-universe-runway-event-contestants-at-risk/"
+   ],
+   "first_seen": "2026-11-22T12:44:54.920585+00:00",
+   "start": "2026-11-13",
+   "last_activity": "2026-11-23T13:30:15+00:00",
+   "item_ids": [
+    "b16ccc15c1c0b7",
+    "189eb8e940aebf",
+    "337a17eb94fa50",
+    "a2cc8cd6ed3baf",
+    "1fff5245cd4b43",
+    "587b90f7de6d33",
+    "0a3d3366338ae3",
+    "c878a195587422",
+    "95863f43195e6f",
+    "37ce0ddfcdf2e3",
+    "950b77f70ac4d5",
+    "3ea956f0546982",
+    "1a57d5f985ad12",
+    "845cee22b18f1c",
+    "137fbc3934bc6f",
+    "f7ca2f7897c225",
+    "acf139abc71ee2",
+    "f1d6486051f7c2",
+    "799c4eaf2f5323",
+    "c3c16477dfd968",
+    "c65d67e5850682",
+    "a4f0a47b53aa79",
+    "d7a04337cb9ad2",
+    "0cabcb5bf2e014",
+    "01c250ff41598f",
+    "ddb91329c53fea",
+    "e60147a2889794",
+    "3edf115a5bcc3c",
+    "db3effda6b625d",
+    "bcc274b00e0914",
+    "c7a4d99e9dbc92",
+    "196dbf9143d9c2",
+    "e1301f7a9da7d5",
+    "17a036556dce2d",
+    "af0c7271c83277",
+    "1c9b4f34ac5d8d",
+    "4cd0ff0ce4456f",
+    "b43f40c5b687ec",
+    "450167f45b1898",
+    "49922cfb2a1897",
+    "90f5c9a1ea0c39",
+    "ab0399b40b7e80",
+    "4f7d6e5ff78ba2",
+    "c621b43a258614",
+    "92c1db63b84abd",
+    "69607b91a51c30",
+    "f3b0ebe9308c1f",
+    "53c6100680d683",
+    "50b632124d62bd",
+    "3562dcd4d516b7",
+    "76423a4e05bd58",
+    "691239878f3cab",
+    "11b80536d8b194",
+    "bd7bb556657b5d",
+    "87c3268744dfe0"
+   ],
+   "sources": [
+    "Agencia de Periodismo Investigativo",
+    "Agencia de Periodismo Investigativo on MSN",
+    "Caracol TV",
+    "Chic Magazine",
+    "Diario AS",
+    "Diario El País",
+    "Diario Las Américas",
+    "El Comercio",
+    "El Dia.com.do",
+    "El Diario",
+    "El Heraldo",
+    "El Nacional",
+    "El Tiempo",
+    "El Tiempo on MSN",
+    "El Universo",
+    "Facebook",
+    "Howl.Link",
+    "Infobae",
+    "LA PRENSA",
+    "La Nación Costa Rica",
+    "MDZ Online",
+    "MILENIO",
+    "Meridiano.net",
+    "Metro Ecuador on MSN",
+    "Metro Puerto Rico",
+    "Milenio on MSN",
+    "Prensa Libre",
+    "Reporte Indigo",
+    "Reporte Índigo",
+    "Revista Caras México",
+    "Telemundo",
+    "YouTube · Telemundo Entretenimiento",
+    "lanoticiadebarinas",
+    "mexico",
+    "primicias",
+    "wapa.tv",
+    "www.laprensa.hn"
+   ],
+   "n_items": 55,
+   "n_sources": 37,
+   "videos": [
+    {
+     "vid": "quLHTBghoEw",
+     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
+     "channel": "Telemundo Entretenimiento y Telemundo",
+     "views": 39656,
+     "ago": "hace 11 h",
+     "official": false
+    }
+   ],
+   "views_total": 39656,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.ohl52AmmJbDGLUWrxK-BDA&pid=News",
+     "page": "https://www.mdzol.com/estilo/2026/11/22/miss-universo-2026-una-peligrosa-pasarela-sobre-la-arena-en-puerto-rico-genero-fuertes-criticas-1995810.html",
+     "via": "Bing (miniatura)",
+     "credit": "MDZ Online"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/RQEROnB9CaY/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/RQEROnB9CaY/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=RQEROnB9CaY",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/fG9F5ktvock/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/fG9F5ktvock/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=fG9F5ktvock",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/VGTM/copia-de-1260-x-945-65_16207410_20261122222703.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1600x1200/1c0/1600d1200/none/11004/TUKC/copia-de-1260-x-945-65_16207410_20261122222703.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/FLAY/every-gown-has-its-moment-3_16207616_20261122222707.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/ASFS/evening-gown-magic_16207629_20261122222729.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/NHTM/copia-de-1260-x-945-66_16207645_20261122223834.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/HRRC/glamour-at-its-finest_16207617_20261122222708.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/VJRS/made-for-this-moment_16207615_20261122222704.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/TEEB/the-universe-is-dressed-to-impress_16207622_20261122222718.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/KTIV/our-delegates-are-owning-the-spotlig_16207618_20261122222710.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/VKAY/every-gown-has-its-moment-2_16207619_20261122222712.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/9/3e/93e20244-1af7-4341-a8f8-9362f09d5701/6b03a698ac219.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/3678511e-b939-11ed-8535-57bdf0713b09.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/4c8cda10-b939-11ed-8535-2b2b036b2590.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/8d5cbea6-5eea-11ed-8537-fb3ed8c08546.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/2bee9ed0-6752-11ed-8535-7fba1705bfef.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/79a4241c-6b6f-11ed-8535-d7ad7532028c.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/c/55/c551c00b-cb07-5c02-af21-9889c99500c3/6b03acb830004.image.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/e19bba74-5ee7-11ed-8538-83af61210e85.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/e19c9746-5ee7-11ed-8539-fba58a44ac40.png",
+     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
+     "via": "wapa.tv",
+     "credit": "wapa.tv"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/675x900/0c0/0d0/none/11004/VALT/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1600x2133/0c0/1600d1200/none/11004/RLAB/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/896x1194/0c0/0d0/none/11004/VALJ/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/OTIV/our-delegates-are-owning-the-spotlig_16207294_20261122204655.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/PMTM/copia-de-1260-x-945-63_16206732_20261122204657.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/KFTM/copia-de-1260-x-945-64_16207300_20261122204803.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x632/0c0/0d0/none/11004/REGB/galeriasentretenimiento-una_16207295_20261122204657.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1136x595/0c0/0d0/none/11004/EEGS/galeriasentretenimiento-una_16207296_20261122204658.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/TKTM/copia-de-1260-x-945-61_16207297_20261122204658.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x628/0c0/0d0/none/11004/GEGR/galeriasentretenimiento-una_16207298_20261122204700.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/RRBD/luisa-traje-de-gala_16206138_20261122191833.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c135/1200d630/none/45933/XECV/luisa-traje-de-gala_16206138_20261122191833.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/HVVC/preliminar-traje-de-bano-miss-univer_16206251_20261122185524.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/OJEQ/luisa-traje-de-gala_16206138_20261122191833.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/UBCT/traje-tipico-miss-universo_16205288_20261122174321.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/SCDW/cartel-del-diablo_16202514_20261122142348.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/SRBE/luisa-paola-pineda_16205794_20261122182115.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DfiP41jNDVm",
+    "https://www.instagram.com/p/DgBiWmUDiV9",
+    "https://www.instagram.com/p/DgBjL7BhQOB",
+    "https://www.instagram.com/p/DgBjvDYGwJw",
+    "https://www.instagram.com/p/DgBl1TFIgh_",
+    "https://www.instagram.com/p/DgDwnUihOWn",
+    "https://www.instagram.com/reel/Df2y5hph6dw",
+    "https://www.instagram.com/reel/DgBaxf5MEzQ",
+    "https://www.youtube.com/watch?v=PfSAdnnUn4s"
+   ],
+   "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
+   "extra_images": [
+    {
+     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adulador.png",
+     "page": "https://www.definiciones-de.com/Sinonimos/de/adulador.php",
+     "via": "Bing Imágenes",
+     "credit": "definiciones-de.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.DV1sOE8DVDQl2GlFNga2nQHaIy&pid=15.1"
+    },
+    {
+     "url": "https://cdn.buscapalabra.com/images/sinonimos/adulador_1.jpg",
+     "page": "https://www.buscapalabra.com/sinonimos-y-antonimos.html?palabra=adulador&sinonimos=true&antonimos=true",
+     "via": "Bing Imágenes",
+     "credit": "buscapalabra.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RmAaJ8EZRqw1-ZNFPcrPxwHaKD&pid=15.1"
+    },
+    {
+     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adular.png",
+     "page": "https://www.definiciones-de.com/Sinonimos/de/adular.php",
+     "via": "Bing Imágenes",
+     "credit": "definiciones-de.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.gnh6gNzY6YLJUoPQVBhuuQHaIy&pid=15.1"
+    },
+    {
+     "url": "https://sinoscopio.com/poster/posters/f6/sinonimo-adulador-02b603.png",
+     "page": "https://sinoscopio.com/sinonimos/adulador/",
+     "via": "Bing Imágenes",
+     "credit": "sinoscopio.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.UabDBbIDePXboMrBrPXnjgHaD4&pid=15.1"
+    },
+    {
+     "url": "https://og.escreva.ai/synonyms/adulador",
+     "page": "https://escreva.ai/palavra/adulador/",
+     "via": "Bing Imágenes",
+     "credit": "escreva.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-vDkNZ4mJV8x67ddxVSVkAHaFL&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/783230070/original/3014bf9506/1?v=1",
+     "page": "https://es.scribd.com/document/783230070/ADULADOR",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.gqR3r6MpBjkc3wAvDy3NiQHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://s.dicio.com.br/adulador.png",
+     "page": "https://www.dicio.com.br/adulador/",
+     "via": "Bing Imágenes",
+     "credit": "dicio.com.br",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ak-HmVBG1UBM3JYm5cT6sgHaD4&pid=15.1"
+    },
+    {
+     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adulaciones.png",
+     "page": "https://www.definiciones-de.com/Sinonimos/de/adulaciones.php",
+     "via": "Bing Imágenes",
+     "credit": "definiciones-de.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.RhGLAk8sIUvs8PCaHrJYdgHaIy&pid=15.1"
+    },
+    {
+     "url": "https://sinoscopio.com/poster/posters/1a/sinonimo-adular-fc6d74.png",
+     "page": "https://sinoscopio.com/sinonimos/adular/",
+     "via": "Bing Imágenes",
+     "credit": "sinoscopio.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ryxVCTb0N9EWEqRibp6NWwHaD4&pid=15.1"
+    },
+    {
+     "url": "https://og.escreva.ai/word/adulador",
+     "page": "https://escreva.ai/palavra/adulador/",
+     "via": "Bing Imágenes",
+     "credit": "escreva.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cNwUg3Dr48Z5g5JHHbjV6QHaFL&pid=15.1"
+    },
+    {
+     "url": "https://www.definiciones-de.com/preimagen_sinonimo/elogiador.png",
+     "page": "https://www.definiciones-de.com/Sinonimos/de/elogiador.php",
+     "via": "Bing Imágenes",
+     "credit": "definiciones-de.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.XEn_24rJ1jmhL2ArWeRVuwHaIy&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T11:33:44.887496+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T12:45:44.619434+00:00",
+     "url": "https://www.instagram.com/p/DfiP41jNDVm",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:01:44.921726+00:00",
+     "url": "https://www.instagram.com/p/DgBiWmUDiV9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:09:44.447681+00:00",
+     "url": "https://www.instagram.com/p/DgBjL7BhQOB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
+     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:01:44.921726+00:00",
+     "url": "https://www.instagram.com/p/DgBl1TFIgh_",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:01:44.921726+00:00",
+     "url": "https://www.instagram.com/p/DgDwnUihOWn",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T12:45:44.619434+00:00",
+     "url": "https://www.instagram.com/reel/Df2y5hph6dw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T13:17:44.561353+00:00",
+     "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T12:53:45.149981+00:00",
+     "url": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
+     "error": "HTTP Error 429: Too Many Requests",
+     "views": 1274255,
+     "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES"
+    }
+   ],
+   "social_totals": {
+    "views": 1274255,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 133
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -1092,7 +1613,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-21T17:38:00+00:00",
+   "start": "2026-11-21T18:00:00+00:00",
    "last_activity": "2026-11-23T10:57:07+00:00",
    "item_ids": [
     "dd6df663e98515",
@@ -1258,14 +1779,14 @@
     "Gestión",
     "Infobae"
    ],
-   "n_items": 222,
-   "n_sources": 95,
+   "n_items": 220,
+   "n_sources": 94,
    "videos": [
     {
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 1413311,
+     "views": 1413367,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -1282,7 +1803,7 @@
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 278257,
+     "views": 278280,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -1290,7 +1811,7 @@
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 185840,
+     "views": 185893,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1340,7 +1861,7 @@
      "official": true
     }
    ],
-   "views_total": 3185785,
+   "views_total": 3185917,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -1750,7 +2271,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -1800,7 +2321,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
      "platform": "YouTube",
      "error": "HTTP Error 429: Too Many Requests",
@@ -1828,7 +2349,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 574
+   "score": 570
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -2013,7 +2534,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 633641,
+     "views": 633771,
      "ago": "Transmitido hace 11 h",
      "official": false
     },
@@ -2030,20 +2551,20 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 39511,
-     "ago": "hace 10 h",
+     "views": 39656,
+     "ago": "hace 11 h",
      "official": false
     },
     {
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 15786,
-     "ago": "hace 11 h",
+     "views": 15806,
+     "ago": "hace 12 h",
      "official": false
     }
    ],
-   "views_total": 744516,
+   "views_total": 744811,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -2313,10 +2834,10 @@
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T13:25:44.924846+00:00",
+   "extra_at": "2026-11-23T13:33:44.667312+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     }
@@ -2328,523 +2849,6 @@
     "shares": 0
    },
    "score": 252
-  },
-  {
-   "key": "seed:beauty-at-the-beach",
-   "id": "beauty-at-the-beach",
-   "name": "Beauty at the Beach (pasarela sobre la arena)",
-   "contest": "mu",
-   "kind": "evento (no oficial de MUO)",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": "Pasarela de traje de baño sobre la arena del Caribe Hilton. Varias candidatas casi se caen; MUO se desligó y la productora pidió disculpas.",
-   "refs": [
-    "https://www.hola.com/us/entertainment/20261116935333/miss-universe-runway-event-contestants-at-risk/"
-   ],
-   "first_seen": "2026-11-22T12:44:54.920585+00:00",
-   "start": "2026-11-13",
-   "last_activity": "2026-11-23T06:23:00+00:00",
-   "item_ids": [
-    "b16ccc15c1c0b7",
-    "189eb8e940aebf",
-    "a2cc8cd6ed3baf",
-    "587b90f7de6d33",
-    "0a3d3366338ae3",
-    "c878a195587422",
-    "95863f43195e6f",
-    "37ce0ddfcdf2e3",
-    "950b77f70ac4d5",
-    "3ea956f0546982",
-    "1a57d5f985ad12",
-    "845cee22b18f1c",
-    "137fbc3934bc6f",
-    "f7ca2f7897c225",
-    "acf139abc71ee2",
-    "f1d6486051f7c2",
-    "799c4eaf2f5323",
-    "c3c16477dfd968",
-    "c65d67e5850682",
-    "a4f0a47b53aa79",
-    "d7a04337cb9ad2",
-    "0cabcb5bf2e014",
-    "01c250ff41598f",
-    "ddb91329c53fea",
-    "e60147a2889794",
-    "3edf115a5bcc3c",
-    "db3effda6b625d",
-    "bcc274b00e0914",
-    "c7a4d99e9dbc92",
-    "196dbf9143d9c2",
-    "e1301f7a9da7d5",
-    "17a036556dce2d",
-    "af0c7271c83277",
-    "1c9b4f34ac5d8d",
-    "4cd0ff0ce4456f",
-    "b43f40c5b687ec",
-    "450167f45b1898",
-    "49922cfb2a1897",
-    "90f5c9a1ea0c39",
-    "ab0399b40b7e80",
-    "4f7d6e5ff78ba2",
-    "c621b43a258614",
-    "92c1db63b84abd",
-    "69607b91a51c30",
-    "f3b0ebe9308c1f",
-    "53c6100680d683",
-    "50b632124d62bd",
-    "3562dcd4d516b7",
-    "76423a4e05bd58",
-    "691239878f3cab",
-    "11b80536d8b194",
-    "bd7bb556657b5d",
-    "87c3268744dfe0"
-   ],
-   "sources": [
-    "Agencia de Periodismo Investigativo",
-    "Agencia de Periodismo Investigativo on MSN",
-    "Caracol TV",
-    "Chic Magazine",
-    "Diario AS",
-    "Diario El País",
-    "Diario Las Américas",
-    "El Comercio",
-    "El Dia.com.do",
-    "El Heraldo",
-    "El Nacional",
-    "El Tiempo",
-    "El Tiempo on MSN",
-    "El Universo",
-    "Facebook",
-    "Infobae",
-    "LA PRENSA",
-    "La Nación Costa Rica",
-    "MDZ Online",
-    "MILENIO",
-    "Meridiano.net",
-    "Metro Ecuador on MSN",
-    "Metro Puerto Rico",
-    "Milenio on MSN",
-    "Prensa Libre",
-    "Reporte Indigo",
-    "Reporte Índigo",
-    "Revista Caras México",
-    "Telemundo",
-    "YouTube · Telemundo Entretenimiento",
-    "lanoticiadebarinas",
-    "mexico",
-    "primicias",
-    "wapa.tv",
-    "www.laprensa.hn"
-   ],
-   "n_items": 53,
-   "n_sources": 35,
-   "videos": [
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 39511,
-     "ago": "hace 10 h",
-     "official": false
-    }
-   ],
-   "views_total": 39511,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.ohl52AmmJbDGLUWrxK-BDA&pid=News",
-     "page": "https://www.mdzol.com/estilo/2026/11/22/miss-universo-2026-una-peligrosa-pasarela-sobre-la-arena-en-puerto-rico-genero-fuertes-criticas-1995810.html",
-     "via": "Bing (miniatura)",
-     "credit": "MDZ Online"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/RQEROnB9CaY/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/RQEROnB9CaY/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=RQEROnB9CaY",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/fG9F5ktvock/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/fG9F5ktvock/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=fG9F5ktvock",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/VGTM/copia-de-1260-x-945-65_16207410_20261122222703.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1600x1200/1c0/1600d1200/none/11004/TUKC/copia-de-1260-x-945-65_16207410_20261122222703.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/FLAY/every-gown-has-its-moment-3_16207616_20261122222707.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/ASFS/evening-gown-magic_16207629_20261122222729.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/NHTM/copia-de-1260-x-945-66_16207645_20261122223834.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/HRRC/glamour-at-its-finest_16207617_20261122222708.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/VJRS/made-for-this-moment_16207615_20261122222704.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/TEEB/the-universe-is-dressed-to-impress_16207622_20261122222718.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/KTIV/our-delegates-are-owning-the-spotlig_16207618_20261122222710.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/VKAY/every-gown-has-its-moment-2_16207619_20261122222712.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/la-competencia-preliminar-de-miss-universo-2026-se-convierte-en-un-desfile-de-gala-historico-ME32720268",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/9/3e/93e20244-1af7-4341-a8f8-9362f09d5701/6b03a698ac219.preview.png?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/3678511e-b939-11ed-8535-57bdf0713b09.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/4c8cda10-b939-11ed-8535-2b2b036b2590.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/8d5cbea6-5eea-11ed-8537-fb3ed8c08546.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/2bee9ed0-6752-11ed-8535-7fba1705bfef.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/79a4241c-6b6f-11ed-8535-d7ad7532028c.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/assets/v3/editorial/c/55/c551c00b-cb07-5c02-af21-9889c99500c3/6b03acb830004.image.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/e19bba74-5ee7-11ed-8538-83af61210e85.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://bloximages.newyork1.vip.townnews.com/wapa.tv/content/tncms/custom/image/e19c9746-5ee7-11ed-8539-fba58a44ac40.png",
-     "page": "https://wapa.tv/galerias/programas/majestuosa-jennifer-barreto-en-la-pasarela-de-traje-de-gala-en-la-preliminar-de-miss/collection_93e20244-1af7-4341-a8f8-9362f09d5701.html",
-     "via": "wapa.tv",
-     "credit": "wapa.tv"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/675x900/0c0/0d0/none/11004/VALT/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1600x2133/0c0/1600d1200/none/11004/RLAB/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/896x1194/0c0/0d0/none/11004/VALJ/luisapineda-b-vestido-de-noc_16207317_20261122205219.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/OTIV/our-delegates-are-owning-the-spotlig_16207294_20261122204655.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/PMTM/copia-de-1260-x-945-63_16206732_20261122204657.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/KFTM/copia-de-1260-x-945-64_16207300_20261122204803.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x632/0c0/0d0/none/11004/REGB/galeriasentretenimiento-una_16207295_20261122204657.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1136x595/0c0/0d0/none/11004/EEGS/galeriasentretenimiento-una_16207296_20261122204658.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/TKTM/copia-de-1260-x-945-61_16207297_20261122204658.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.laprensa.hn/binrepository/1200x628/0c0/0d0/none/11004/GEGR/galeriasentretenimiento-una_16207298_20261122204700.jpg",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/luisa-pineda-toda-una-reina-en-miss-universo-2026-con-hermoso-vestido-de-gala-PE32720087",
-     "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/RRBD/luisa-traje-de-gala_16206138_20261122191833.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c135/1200d630/none/45933/XECV/luisa-traje-de-gala_16206138_20261122191833.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/HVVC/preliminar-traje-de-bano-miss-univer_16206251_20261122185524.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/OJEQ/luisa-traje-de-gala_16206138_20261122191833.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/UBCT/traje-tipico-miss-universo_16205288_20261122174321.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/SCDW/cartel-del-diablo_16202514_20261122142348.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/SRBE/luisa-paola-pineda_16205794_20261122182115.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/miss-universo-2026-luisa-pineda-traje-gala-vestido-miss-honduras-PH32718887",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DfiP41jNDVm",
-    "https://www.instagram.com/p/DgBiWmUDiV9",
-    "https://www.instagram.com/p/DgBjL7BhQOB",
-    "https://www.instagram.com/p/DgBjvDYGwJw",
-    "https://www.instagram.com/p/DgBl1TFIgh_",
-    "https://www.instagram.com/p/DgDwnUihOWn",
-    "https://www.instagram.com/reel/Df2y5hph6dw",
-    "https://www.instagram.com/reel/DgBaxf5MEzQ",
-    "https://www.youtube.com/watch?v=PfSAdnnUn4s"
-   ],
-   "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [
-    {
-     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adulador.png",
-     "page": "https://www.definiciones-de.com/Sinonimos/de/adulador.php",
-     "via": "Bing Imágenes",
-     "credit": "definiciones-de.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DV1sOE8DVDQl2GlFNga2nQHaIy&pid=15.1"
-    },
-    {
-     "url": "https://cdn.buscapalabra.com/images/sinonimos/adulador_1.jpg",
-     "page": "https://www.buscapalabra.com/sinonimos-y-antonimos.html?palabra=adulador&sinonimos=true&antonimos=true",
-     "via": "Bing Imágenes",
-     "credit": "buscapalabra.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.RmAaJ8EZRqw1-ZNFPcrPxwHaKD&pid=15.1"
-    },
-    {
-     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adular.png",
-     "page": "https://www.definiciones-de.com/Sinonimos/de/adular.php",
-     "via": "Bing Imágenes",
-     "credit": "definiciones-de.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.gnh6gNzY6YLJUoPQVBhuuQHaIy&pid=15.1"
-    },
-    {
-     "url": "https://sinoscopio.com/poster/posters/f6/sinonimo-adulador-02b603.png",
-     "page": "https://sinoscopio.com/sinonimos/adulador/",
-     "via": "Bing Imágenes",
-     "credit": "sinoscopio.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.UabDBbIDePXboMrBrPXnjgHaD4&pid=15.1"
-    },
-    {
-     "url": "https://og.escreva.ai/synonyms/adulador",
-     "page": "https://escreva.ai/palavra/adulador/",
-     "via": "Bing Imágenes",
-     "credit": "escreva.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-vDkNZ4mJV8x67ddxVSVkAHaFL&pid=15.1"
-    },
-    {
-     "url": "https://imgv2-2-f.scribdassets.com/img/document/783230070/original/3014bf9506/1?v=1",
-     "page": "https://es.scribd.com/document/783230070/ADULADOR",
-     "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.gqR3r6MpBjkc3wAvDy3NiQHaJ4&pid=15.1"
-    },
-    {
-     "url": "https://s.dicio.com.br/adulador.png",
-     "page": "https://www.dicio.com.br/adulador/",
-     "via": "Bing Imágenes",
-     "credit": "dicio.com.br",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ak-HmVBG1UBM3JYm5cT6sgHaD4&pid=15.1"
-    },
-    {
-     "url": "https://www.definiciones-de.com/preimagen_sinonimo/adulaciones.png",
-     "page": "https://www.definiciones-de.com/Sinonimos/de/adulaciones.php",
-     "via": "Bing Imágenes",
-     "credit": "definiciones-de.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.RhGLAk8sIUvs8PCaHrJYdgHaIy&pid=15.1"
-    },
-    {
-     "url": "https://sinoscopio.com/poster/posters/1a/sinonimo-adular-fc6d74.png",
-     "page": "https://sinoscopio.com/sinonimos/adular/",
-     "via": "Bing Imágenes",
-     "credit": "sinoscopio.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ryxVCTb0N9EWEqRibp6NWwHaD4&pid=15.1"
-    },
-    {
-     "url": "https://og.escreva.ai/word/adulador",
-     "page": "https://escreva.ai/palavra/adulador/",
-     "via": "Bing Imágenes",
-     "credit": "escreva.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.cNwUg3Dr48Z5g5JHHbjV6QHaFL&pid=15.1"
-    },
-    {
-     "url": "https://www.definiciones-de.com/preimagen_sinonimo/elogiador.png",
-     "page": "https://www.definiciones-de.com/Sinonimos/de/elogiador.php",
-     "via": "Bing Imágenes",
-     "credit": "definiciones-de.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.XEn_24rJ1jmhL2ArWeRVuwHaIy&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T11:33:44.887496+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T12:45:44.619434+00:00",
-     "url": "https://www.instagram.com/p/DfiP41jNDVm",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T13:01:44.921726+00:00",
-     "url": "https://www.instagram.com/p/DgBiWmUDiV9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T13:09:44.447681+00:00",
-     "url": "https://www.instagram.com/p/DgBjL7BhQOB",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
-     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T13:01:44.921726+00:00",
-     "url": "https://www.instagram.com/p/DgBl1TFIgh_",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T13:01:44.921726+00:00",
-     "url": "https://www.instagram.com/p/DgDwnUihOWn",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T12:45:44.619434+00:00",
-     "url": "https://www.instagram.com/reel/Df2y5hph6dw",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T13:17:44.561353+00:00",
-     "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T12:53:45.149981+00:00",
-     "url": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
-     "error": "HTTP Error 429: Too Many Requests",
-     "views": 1274255,
-     "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES"
-    }
-   ],
-   "social_totals": {
-    "views": 1274255,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 127
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -3240,47 +3244,47 @@
    "extra_at": "2026-11-23T13:17:44.561353+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DHW0MWnRirP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DTyREPOD9-K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DVKENbNkafb",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/Da7QR7kCZcm",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DcXRGLPM034",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DcXa4EeN1mV",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DeV3znYHASa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DeWSnLvsRAI",
      "platform": "Instagram"
     },
@@ -3290,7 +3294,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/p/DfirgglRWDt",
      "platform": "Instagram"
     },
@@ -3315,12 +3319,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/reel/C922JzihsxJ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T12:29:45.016777+00:00",
+     "fetched": "2026-11-23T13:33:44.667312+00:00",
      "url": "https://www.instagram.com/reel/DT07ca2jn_X",
      "platform": "Instagram"
     },
@@ -3466,10 +3470,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
+    "337a17eb94fa50",
+    "47f72716e79e1d",
+    "2e9d6e1bcc9166",
     "09b5a883d49f15",
     "bf65617ec82716",
     "523498a4640634",
@@ -3480,6 +3487,7 @@
     "512fa8a54e3d22",
     "31e95ee4d67b06",
     "a72d88fe0350d8",
+    "1fff5245cd4b43",
     "77650e0791580d",
     "37f113e6f11e99",
     "fb4ea217447104",
@@ -3585,11 +3593,7 @@
     "cce0e25e912ec4",
     "1aba16a312c944",
     "d7a04337cb9ad2",
-    "bcebfe7c7f374d",
-    "3a17745f56d459",
-    "b5704c2bd9f9e3",
-    "25950dc0504fda",
-    "58f37c0e1aec61"
+    "bcebfe7c7f374d"
    ],
    "sources": [
     "24 horas",
@@ -3605,6 +3609,8 @@
     "EL DÍA - Noticias de Bolivia para el mundo",
     "Eje Central",
     "El Dia.com.do",
+    "El Diario",
+    "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Financiero",
     "El Heraldo",
     "El Mostrador",
@@ -3624,6 +3630,7 @@
     "Interaksyon",
     "LA PRENSA",
     "La Nación Costa Rica",
+    "La Verdad - La Verdad",
     "MARCA",
     "Mega.cl",
     "Meganoticias",
@@ -3662,15 +3669,15 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 166,
-   "n_sources": 69,
+   "n_items": 170,
+   "n_sources": 72,
    "videos": [],
    "views_total": 0,
    "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T13:25:44.924846+00:00",
+   "extra_at": "2026-11-23T13:33:44.667312+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3679,7 +3686,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 307
+   "score": 317
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -4061,7 +4068,7 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "extra_at": "2026-11-23T10:29:45.292918+00:00",
+   "extra_at": "2026-11-23T13:33:44.667312+00:00",
    "social": [
     {
      "fetched": "2026-11-23T13:17:44.561353+00:00",
@@ -4251,13 +4258,13 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 5416,
+     "views": 5440,
      "likes": 22,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
     }
    ],
-   "views_total": 5416,
+   "views_total": 5440,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -4496,7 +4503,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 National Costume Show Sneak Peek",
    "extra_images": [],
-   "extra_at": "2026-11-23T13:25:44.924846+00:00",
+   "extra_at": "2026-11-23T13:33:44.667312+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4515,7 +4522,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4682,7 +4689,6 @@
     "Meganoticias",
     "Metro.Style",
     "Milenio",
-    "Milenio on MSN",
     "Minuto60",
     "N Digital",
     "News18",
@@ -4724,8 +4730,8 @@
     "mega-asia",
     "philstarlife"
    ],
-   "n_items": 199,
-   "n_sources": 82,
+   "n_items": 197,
+   "n_sources": 81,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4757,7 +4763,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 366
+   "score": 362
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4768,7 +4774,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4817,7 +4823,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4830,7 +4836,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-23T13:25:44.924846+00:00",
+   "extra_at": "2026-11-23T13:33:44.667312+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4850,7 +4856,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4899,7 +4905,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -4948,7 +4954,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T13:25:44.924846+00:00",
+   "first_seen": "2026-11-23T13:33:44.667312+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
