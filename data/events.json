@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T16:37:56.034830+00:00",
- "count": 23,
+ "updated": "2026-11-23T16:45:55.885166+00:00",
+ "count": 24,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -179,7 +179,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T01:11:35+00:00",
+   "start": "2026-11-22T01:27:24+00:00",
    "last_activity": "2026-11-23T16:22:08+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -187,13 +187,16 @@
     "8e6a423055992f",
     "ad5321b491cf7d",
     "047149e3f9bb9f",
+    "4c9e28e405cc31",
     "b7f73d6009c7d1",
+    "7696926936d8b3",
     "72ec16076ef646",
     "d1fa520e3a6c95",
     "960cf70ff8c0c8",
     "ed1a50e75b8703",
     "4b0a4d91aa16f1",
     "40a1b5b181aaa1",
+    "a07005bdad1698",
     "638a96c9319ab6",
     "0027e003184661",
     "3d0aada931ca45",
@@ -298,10 +301,7 @@
     "f7ca6e13fde517",
     "4e243adba2c4fc",
     "922db55f799237",
-    "004e7094aa5cf0",
-    "5253d5f4598ad3",
-    "1d5a858c3a5bcd",
-    "e84b94272a9594"
+    "004e7094aa5cf0"
    ],
    "sources": [
     "ABS-CBN",
@@ -319,6 +319,7 @@
     "El Colombiano",
     "El Colombiano on MSN",
     "El Día",
+    "El Financiero",
     "El Heraldo",
     "El Imparcial",
     "El Informador",
@@ -327,7 +328,6 @@
     "El Pitazo",
     "El Reporte Diario",
     "El Universal",
-    "El Vocero de Puerto Rico",
     "En Cancha",
     "Epicentro Chile",
     "FMDOS — La radio de los dos",
@@ -337,22 +337,22 @@
     "Instagram",
     "Interaksyon",
     "Khaleej Times",
-    "La Tribuna",
     "MARCA",
     "Mega.cl",
     "Meganoticias",
     "Metro Puerto Rico",
     "Metro.Style",
-    "Milenio"
+    "Milenio",
+    "Noticias al Día y a la Hora"
    ],
-   "n_items": 130,
+   "n_items": 126,
    "n_sources": 69,
    "videos": [
     {
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 187007,
+     "views": 187200,
      "ago": "hace 1 día",
      "official": false
     },
@@ -360,7 +360,7 @@
      "vid": "vYNjGtTAnww",
      "title": "National Costume BTS | Miss Universe",
      "channel": "Miss Universe",
-     "views": 73701,
+     "views": 73762,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -369,13 +369,13 @@
      "vid": "mwlZ5XoFe8g",
      "title": "MISS UNIVERSE  2026 | National Costume Pre Show",
      "channel": "Miss Universe",
-     "views": 33855,
-     "likes": 84,
+     "views": 34017,
+     "likes": 85,
      "published": "2026-11-23T01:24:02+00:00",
      "official": true
     }
    ],
-   "views_total": 294563,
+   "views_total": 294979,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
@@ -399,10 +399,70 @@
      "credit": "Telemundo Entretenimiento y Telemundo"
     },
     {
-     "url": "http://www.bing.com/th?id=ONUT.s9a-g0wA3fORAx83tG4wXA&pid=News",
-     "page": "https://www.msn.com/es-mx/entretenimiento/celebridades/miss-m%C3%A9xico-deslumbra-en-bikini-azul-y-con-traje-t%C3%ADpico-de-flamencos-en-miss-universo-2026/ar-AA2i3ZK0",
+     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/cdc4754b8c73a48cb65f49c6882bb24d39110cf43697a0d2b15e00ed3975cd64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F51456e724e3aecfc56c305a36730c009.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3db413ffaa67b575abccd269b8fd023f3c20f8890fb660ac1819c7fcd7e02437/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F1d794fb06ba3cd682d98bc5fdb27f1db.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/5159fe9fb74ef687c2cf15c7b471fa1c4806a0a317a624b347321e915a79137a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F2b09ee1706729cd4a7caef441e4e112d.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.JUj6lEsBfx2TLE3gY2PO0A&pid=News",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
      "via": "Bing (miniatura)",
-     "credit": "UnoTV on MSN"
+     "credit": "Yahoo"
     },
     {
      "url": "https://media.diariolasamericas.com/p/d4aa13dc8e924e982fadad6f6b332544/adjuntos/216/imagenes/100/288/0100288862/1200x675/smart/miss-cuba-miss-universo-2026.png",
@@ -478,6 +538,60 @@
      "credit": "EMOL"
     },
     {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/J2TD6CQCHREJBOKAPNV7KZS75I.jpg?smart=true&auth=6ce31154212585258018ee9b560b9941ded87b630ca5b26ec7ff28d7f24fc4e3&width=1200&height=630",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/5JCTHYLDJZD4LC775PHXHXIROM.jpg?smart=true&auth=1de779c79cf3dcae6ec5d4bce361ac99d4720cff7b2834e0ddb8eefffcef2db3&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/RLRMSBKOKRHN3OKR6OWIBM7YJ4.jpg?smart=true&auth=76d2dc4eb7134e6975ecbc29d646e3f2a76c0afe60c8baf9174f889f208a5c6a&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/VZ4O4WU45FGIFBT3NTZPQ7PIEI.png?smart=true&auth=3345093f66f56e1a12673d42887144eb08c8217d2021ba60f7834ce4efa8623a&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/3PRC72Q3W5C3BGC3VNMGEXT3EA.jpg?smart=true&auth=c083ca1422740277144bfd93963033f718514da44ecdb2b64868a3700d36dfa6&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/A6PKYVV7UNFERNFNVQUOBQQO6E.jpg?smart=true&auth=d755cebf4cd1be3f55c324a5cd9be0df1e14c3dc5fb9a3045d259111d0aa0ee5&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/OESH7ZXBHNA2XNTH2N72DXV6GQ.png?smart=true&auth=fc79c8e5d587cdd10318a851fdb98c1f819b1a90728ad77fbad2974bf2d2dbb7&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/MFRV2NHMUZBDXDD4VNYQIATVL4.jpg?smart=true&auth=ecf9471a195b00cc02eec210fef4bf442569c3b3b3b05480d3b4a7846f9f8db2&width=200&height=112&quality=85",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/3P525AQTXJEW3IV4RDXMVPI3NA.jpg?smart=true&auth=9bd51c0b7c8c0d31d73c6945c98843827f9e4a603f067d17a94c833d215f916c&width=200&height=112&quality=85",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
      "url": "https://f.rpp-noticias.io/2026/11/22/304430_1932039.jpg?width=1200&quality=85",
      "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
      "via": "RPP Noticias",
@@ -506,129 +620,18 @@
      "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
      "via": "RPP Noticias",
      "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/08/290729_1927203.jpg?width=160&quality=60",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/22/441644_1932033.jpg?width=160&quality=60",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/20/004600_1931253.jpg?width=160&quality=60",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/21/nnie-yaipen-2026-11-21-18-13-16-29417-1931772mp4_1931773.jpg?width=160&quality=60",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/EHyxIXpA/poster.jpg?width=1280",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/yxMiChQi/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/GW98I9tE/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/15xv6B50/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/nm4yRFTZ/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/tkViiThB/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/zYmSoLPP/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/odcWD5W9/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/ailhmnb1/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/GXAOSpdj/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/luren-marquez-deslumbro-con-su-traje-tipico-inspirado-en-el-oasis-de-ica-en-el-miss-universo-2026/EHyxIXpA/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/R4MOEDVVAVBIXPVMSHKDHSPZVE.png?auth=2306f6839045e4962b57deb3838ff2d945c07cf070e59456d77795729616dea9&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/peru/2026/11/23/luren-marquez-revela-la-promesa-que-cumplio-con-su-traje-tipico-en-miss-universo-2026/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/GFVV/traje-tipico-miss-universo_16205288_20261122174321.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/1200d630/none/45933/UBCL/traje-tipico-miss-universo_16205288_20261122174321.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/849x1280/0c0/0d0/none/45933/XFFY/guatemala-2_16205319_20261122172808.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/849x1280/0c0/0d0/none/45933/GCPC/guatemala_16205320_20261122172809.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
+    "https://www.instagram.com/p/DROs-XZE8xP",
+    "https://www.instagram.com/p/Der2h_iik-E",
     "https://www.instagram.com/p/DgBgjQ8DFOa",
     "https://www.instagram.com/p/DgBgpniMTUH",
     "https://www.instagram.com/p/DgBhDpsBiZt",
     "https://www.instagram.com/p/DgBjvDYGwJw",
     "https://www.instagram.com/p/DgBkmB5tKK6",
     "https://www.instagram.com/p/DgBp-YfpvHv",
+    "https://www.instagram.com/p/DgBtx8oO79V",
     "https://www.instagram.com/p/DgCN1yWpZ95",
     "https://www.instagram.com/p/DgCodZqFmw3",
     "https://www.instagram.com/p/DgEIGmQiHTf",
@@ -637,6 +640,7 @@
     "https://www.instagram.com/reel/DgBjrnONHIw",
     "https://www.instagram.com/reel/DgBkmB5tKK6",
     "https://www.instagram.com/reel/DgBt9AYtJvc",
+    "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgDPzZwEk2q",
     "https://www.instagram.com/reel/DgEAJykzVMe",
     "https://www.youtube.com/watch?v=2rMpxV9aOoc",
@@ -656,6 +660,16 @@
    "extra_at": "2026-11-23T13:49:44.670807+00:00",
    "social": [
     {
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
+     "url": "https://www.instagram.com/p/DROs-XZE8xP",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
+     "url": "https://www.instagram.com/p/Der2h_iik-E",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-23T16:05:45.182057+00:00",
      "url": "https://www.instagram.com/p/DgBgjQ8DFOa",
      "platform": "Instagram"
@@ -671,7 +685,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -683,6 +697,11 @@
     {
      "fetched": "2026-11-23T16:29:56.110386+00:00",
      "url": "https://www.instagram.com/p/DgBp-YfpvHv",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
+     "url": "https://www.instagram.com/p/DgBtx8oO79V",
      "platform": "Instagram"
     },
     {
@@ -726,6 +745,11 @@
      "platform": "Instagram"
     },
     {
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
+     "url": "https://www.instagram.com/reel/DgBtx8oO79V",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-23T16:29:56.110386+00:00",
      "url": "https://www.instagram.com/reel/DgDPzZwEk2q",
      "platform": "Instagram"
@@ -736,7 +760,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
      "platform": "YouTube",
      "error": "HTTP Error 429: Too Many Requests",
@@ -764,7 +788,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 285
+   "score": 281
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -789,6 +813,7 @@
     "5599f34d92676c",
     "a4f0a47b53aa79",
     "fe2e2de8c6f713",
+    "6b20605c824873",
     "ad5321b491cf7d",
     "0196740579222e",
     "9cb8e27df3b9f2",
@@ -813,6 +838,7 @@
     "52189dc701e92c",
     "512fa8a54e3d22",
     "3eaef9012b303c",
+    "98293860e468f1",
     "4114f84eeef3ee",
     "4323f66acec0c8",
     "1c7b3fe4a98499",
@@ -902,9 +928,7 @@
     "0de449ac61b0e8",
     "acf139abc71ee2",
     "3c71988aef4e2e",
-    "8448a3cdfa5f64",
-    "9fd1290010ce59",
-    "f1d6486051f7c2"
+    "8448a3cdfa5f64"
    ],
    "sources": [
     "24 horas",
@@ -948,14 +972,14 @@
     "El Tiempo on MSN",
     "El Universal"
    ],
-   "n_items": 254,
+   "n_items": 256,
    "n_sources": 112,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 637514,
+     "views": 637905,
      "ago": "Transmitido hace 14 h",
      "official": false
     },
@@ -963,7 +987,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 56708,
+     "views": 56490,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -972,7 +996,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44076,
+     "views": 44536,
      "ago": "hace 14 h",
      "official": false
     },
@@ -994,7 +1018,7 @@
      "official": true
     }
    ],
-   "views_total": 755493,
+   "views_total": 756126,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1060,6 +1084,12 @@
      "page": "https://www.lateja.cr/farandula/directora-de-miss-universe-costa-rica-dijo-esto-de/JKDXBSWCIZATVD5WNNER2HTLVQ/story/",
      "via": "Bing (miniatura)",
      "credit": "La Teja"
+    },
+    {
+     "url": "https://assets.videoplatform.tv/end/2026/11/23/294850_lo-de-hoy-preliminar-de-miss-universe-2026-en-puerto-rico-esa-mujer-estaba-flotando/still_1912d96517fbbca06539ea5480a67ec2.jpg",
+     "page": "https://www.elnuevodia.com/noticias/politica/videos/lo-de-hoy-preliminar-de-miss-universe-2026-en-puerto-rico-esa-mujer-estaba-flotando-294850/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
     },
     {
      "url": "https://www.informador.mx/__export/1795443410383/sites/elinformador/img/2026/11/23/miss_uni.jpg_1012785412.jpg",
@@ -1234,12 +1264,6 @@
      "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
      "via": "Caracol Televisión",
      "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/ae6c064/2147483647/strip/true/crop/1263x720+17+0/resize/200x114!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd4%2F3d%2F65d51ae64ceba4eed16135138839%2Fgiovanny-ayala-y-maria-gomez.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
     }
    ],
    "social_urls": [
@@ -1275,8 +1299,37 @@
     "https://www.instagram.com/reel/DgEFgVxBRdL"
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
-   "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.ytimg.com/vi/eLGoR7RWtl0/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eLGoR7RWtl0",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.GKXKnfyx_qln-LMRCtJ2LQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Nr_pGqkY23w/maxresdefault.jpg",
+     "page": "https://www.eluniversal.com.mx/techbit/como-saber-quien-entra-o-mira-tu-perfil-de-facebook/",
+     "via": "Bing Imágenes",
+     "credit": "eluniversal.com.mx",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.wE64zHgsvz6VBhaDB6DPIwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.blogs.es/fb945e/config-movil/1366_2000.jpg",
+     "page": "https://www.xataka.com/basics/como-saber-quien-entra-donde-tu-cuenta-facebook",
+     "via": "Bing Imágenes",
+     "credit": "xataka.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.NsB53b-1jFikEwOqyCrqJAHaPO&pid=15.1"
+    },
+    {
+     "url": "https://i.blogs.es/74bb4d/activar-restringir-perfil-facebook/650_1200.jpeg",
+     "page": "https://www.xataka.com.mx/basics/como-restringir-perfil-facebook-pc-celular-para-tener-mayor-privacidad",
+     "via": "Bing Imágenes",
+     "credit": "xataka.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.gHu4eUk5g3sy5P-nlI_8UAHaFI&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "social": [
     {
      "fetched": "2026-11-23T16:37:56.034830+00:00",
@@ -1329,7 +1382,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -1409,7 +1462,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
      "platform": "Instagram"
     },
@@ -1435,7 +1488,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 518
+   "score": 520
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -1567,12 +1620,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44076,
+     "views": 44536,
      "ago": "hace 14 h",
      "official": false
     }
    ],
-   "views_total": 44076,
+   "views_total": 44536,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1835,7 +1888,7 @@
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "social": [
     {
      "fetched": "2026-11-23T15:57:45.024539+00:00",
@@ -1848,7 +1901,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -2486,32 +2539,32 @@
    "extra_at": "2026-11-23T16:21:56.051093+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DHW0MWnRirP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DTyREPOD9-K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DVKENbNkafb",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/Da7QR7kCZcm",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DcXRGLPM034",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DcXa4EeN1mV",
      "platform": "Instagram"
     },
@@ -2521,17 +2574,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DeV3znYHASa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DeWSnLvsRAI",
      "platform": "Instagram"
     },
@@ -2541,7 +2594,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/p/DfirgglRWDt",
      "platform": "Instagram"
     },
@@ -2561,12 +2614,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/reel/C922JzihsxJ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/reel/DT07ca2jn_X",
      "platform": "Instagram"
     },
@@ -2800,7 +2853,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 637514,
+     "views": 637905,
      "ago": "Transmitido hace 14 h",
      "official": false
     },
@@ -2808,7 +2861,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 56708,
+     "views": 56490,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -2817,7 +2870,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44076,
+     "views": 44536,
      "ago": "hace 14 h",
      "official": false
     },
@@ -2830,7 +2883,7 @@
      "official": false
     }
    ],
-   "views_total": 754698,
+   "views_total": 755331,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3136,7 +3189,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T15:41:44.465015+00:00",
+     "fetched": "2026-11-23T16:45:55.885166+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
      "platform": "Instagram"
     },
@@ -3186,6 +3239,127 @@
     "shares": 0
    },
    "score": 261
+  },
+  {
+   "key": "t:mu:Desfile de moda:2026-11-21",
+   "id": "t-mu-desfile-de-moda-2026-11-21-6d0d2",
+   "name": "Desfile de moda · 21–23 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Desfile de moda"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "start": "2026-11-22T10:53:00+00:00",
+   "last_activity": "2026-11-23T08:26:00+00:00",
+   "item_ids": [
+    "7696926936d8b3",
+    "4001eec22d42c5",
+    "5c76270f7b4afd"
+   ],
+   "sources": [
+    "Facebook",
+    "Philstar Life",
+    "Yahoo"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/cdc4754b8c73a48cb65f49c6882bb24d39110cf43697a0d2b15e00ed3975cd64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F51456e724e3aecfc56c305a36730c009.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3db413ffaa67b575abccd269b8fd023f3c20f8890fb660ac1819c7fcd7e02437/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F1d794fb06ba3cd682d98bc5fdb27f1db.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/5159fe9fb74ef687c2cf15c7b471fa1c4806a0a317a624b347321e915a79137a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F2b09ee1706729cd4a7caef441e4e112d.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.JUj6lEsBfx2TLE3gY2PO0A&pid=News",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Bing (miniatura)",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%20-%201200x630-200kb.jpeg",
+     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
+     "via": "Philstar Life",
+     "credit": "Philstar Life"
+    },
+    {
+     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%2023-%201200x630.png",
+     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
+     "via": "Philstar Life",
+     "credit": "Philstar Life"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 fashion show runway",
+   "extra_images": [],
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 9
   },
   {
    "key": "t:mi:Trajes típicos:2026-11-21",
@@ -3677,11 +3851,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
     "fe2e2de8c6f713",
+    "6b20605c824873",
     "ad5321b491cf7d",
     "0196740579222e",
     "9cb8e27df3b9f2",
@@ -3705,6 +3880,7 @@
     "3aa1e1cd952e14",
     "512fa8a54e3d22",
     "3eaef9012b303c",
+    "98293860e468f1",
     "4114f84eeef3ee",
     "4323f66acec0c8",
     "1c7b3fe4a98499",
@@ -3798,9 +3974,7 @@
     "295eb48232efe0",
     "ccb7b271f24f6b",
     "cd5792e3d30995",
-    "34cfb9a681d111",
-    "330ee860d24f08",
-    "1ddbaf311448f2"
+    "34cfb9a681d111"
    ],
    "sources": [
     "24 horas",
@@ -3891,7 +4065,7 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 194,
+   "n_items": 196,
    "n_sources": 87,
    "videos": [],
    "views_total": 0,
@@ -3899,7 +4073,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3908,7 +4082,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 371
+   "score": 373
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -3939,7 +4113,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4174,7 +4348,7 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 5743,
+     "views": 5781,
      "likes": 23,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
@@ -4183,13 +4357,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 3292,
+     "views": 3361,
      "likes": 29,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 9035,
+   "views_total": 9142,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -4209,7 +4383,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4228,7 +4402,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4236,7 +4410,9 @@
     "8e6a423055992f",
     "ad5321b491cf7d",
     "047149e3f9bb9f",
+    "4c9e28e405cc31",
     "b7f73d6009c7d1",
+    "7696926936d8b3",
     "72ec16076ef646",
     "d1fa520e3a6c95",
     "5729ef89ff2613",
@@ -4337,14 +4513,7 @@
     "e84b94272a9594",
     "cd674e8bba7f63",
     "389e2d2022a7b0",
-    "41e9247905025c",
-    "843438b6d3c49e",
-    "218271a81edc35",
-    "f26fcaf232a8a1",
-    "d57acf726883fd",
-    "ce79fabc2894dd",
-    "abdae52a89496b",
-    "ea2fbc13e5c845"
+    "41e9247905025c"
    ],
    "sources": [
     "ABS-CBN",
@@ -4363,7 +4532,6 @@
     "El Nacional",
     "El Nuevo Día",
     "El Pitazo",
-    "El Vocero de Puerto Rico",
     "En Cancha",
     "FMDOS — La radio de los dos",
     "Facebook",
@@ -4372,7 +4540,6 @@
     "Interaksyon",
     "International Business Times UK",
     "Khaleej Times",
-    "La Tribuna",
     "MARCA",
     "Mega.cl",
     "Meganoticias",
@@ -4393,6 +4560,7 @@
     "Roya News",
     "Roya News English",
     "SoyChile.cl",
+    "Telemundo",
     "Telemundo Houston",
     "Telemundo San Diego",
     "Teletrece",
@@ -4406,15 +4574,15 @@
     "lanoticiadebarinas",
     "m360.cl"
    ],
-   "n_items": 113,
-   "n_sources": 58,
+   "n_items": 108,
+   "n_sources": 57,
    "videos": [],
    "views_total": 0,
    "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4423,7 +4591,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 232
+   "score": 225
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4434,7 +4602,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4447,7 +4615,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:37:56.034830+00:00",
+   "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4467,7 +4635,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4500,7 +4668,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4533,7 +4701,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -4694,7 +4862,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:37:56.034830+00:00",
+   "first_seen": "2026-11-23T16:45:55.885166+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
