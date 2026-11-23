@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:34:05.822313+00:00",
+ "updated": "2026-11-23T23:42:05.967087+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -168,1090 +168,6 @@
    "score": 3
   },
   {
-   "key": "p:traje de gala en la preliminar",
-   "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
-   "name": "Traje De Gala En La Preliminar",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Gala / cena",
-    "Preliminar",
-    "Traje de baño"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T15:45:00+00:00",
-   "last_activity": "2026-11-23T23:15:07+00:00",
-   "item_ids": [
-    "37ce0ddfcdf2e3",
-    "5599f34d92676c",
-    "a4f0a47b53aa79",
-    "f254c2c54acc92",
-    "f6f85a4ee2b695",
-    "a2fb269272421a",
-    "fd1d0c4d4c999e",
-    "af3bd931fff94e",
-    "5825312fd6cc63",
-    "908700188452d3",
-    "5fd8f5152b4b58",
-    "34b9daca5388ec",
-    "cfb50969e326b7",
-    "fe2e2de8c6f713",
-    "6b20605c824873",
-    "2724720c48a7f6",
-    "ad5321b491cf7d",
-    "0196740579222e",
-    "891311078f097f",
-    "c65557e774815d",
-    "9cb8e27df3b9f2",
-    "68c43d5cfd36f5",
-    "ad5fa1cffa1303",
-    "d2eb1e4052e09a",
-    "3a7b3d672b46ea",
-    "3b7e7cd3321175",
-    "d7d4f38bec8c37",
-    "6c5fc8bd5c0989",
-    "062866eab54b1c",
-    "5dedef3c59e3fb",
-    "c3b40e1f2158f9",
-    "337a17eb94fa50",
-    "47f72716e79e1d",
-    "2e9d6e1bcc9166",
-    "09b5a883d49f15",
-    "bf65617ec82716",
-    "523498a4640634",
-    "b87d2644263aab",
-    "23fd9d663a56b4",
-    "4c89a4853ebce7",
-    "414536a7da32f5",
-    "bc6a53622db3fa",
-    "cf2731fbfe95c5",
-    "6a2afbd99d5336",
-    "2fdcb820131df3",
-    "b2ef86e9afdce4",
-    "e1d1fed2ae9244",
-    "aa5ae68c14f17b",
-    "519384f1110942",
-    "20db1c7ab00253",
-    "3c4642dfb440a3",
-    "3aa1e1cd952e14",
-    "52189dc701e92c",
-    "512fa8a54e3d22",
-    "3eaef9012b303c",
-    "98293860e468f1",
-    "4114f84eeef3ee",
-    "4323f66acec0c8",
-    "1c7b3fe4a98499",
-    "31e95ee4d67b06",
-    "c8d8ff6c15f4d4",
-    "23471bf7e2b521",
-    "b4dd5557ea4983",
-    "a72d88fe0350d8",
-    "1fff5245cd4b43",
-    "77650e0791580d",
-    "37f113e6f11e99",
-    "fb4ea217447104",
-    "c878a195587422",
-    "e51bc8f78e1c8d",
-    "d123fb097f60da",
-    "397300076bdbdc",
-    "23951b33ac0c38",
-    "8b432528f7c5f9",
-    "ed1a50e75b8703",
-    "6359026c6d705e",
-    "940b42ed2d1463",
-    "27e791243c5c31",
-    "01a6c68fdce28f",
-    "a1a706ebcedccb",
-    "f5095293f0f5ba",
-    "d3791537658210",
-    "d9f7ba013c0805",
-    "040bfcba907828",
-    "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a",
-    "10b96b587aca9b",
-    "bf18ddd33141aa",
-    "479865ad166d59",
-    "48e93213602e8c",
-    "17e8d2e79e2e0a",
-    "10d9b44a70ca64",
-    "aad28376e589e3",
-    "bc8aa73adfab53",
-    "b2926894b2753e",
-    "4713b1b9ea8c7e",
-    "e302aa20fe7d41",
-    "950b77f70ac4d5",
-    "753242c73f86e5",
-    "6cd329165e23bb",
-    "07fb1bfde4bd5c",
-    "bb0bcb12cb7923",
-    "3e891778ca49d2",
-    "952db44f21e7df",
-    "879d1c3bc8c5a6",
-    "d4deae200bfe0c",
-    "ebf6bea0cfc270",
-    "7a84c94acf08c1",
-    "604b2172c5cf6c",
-    "65a71d2c138efb",
-    "4c99dff5e906e1",
-    "734f45d24cc966",
-    "55180fe04c1413",
-    "0cd5774c0c5641",
-    "89a7298da38a5d",
-    "5dbf0286192a0e",
-    "5ff41e568107de",
-    "2a7a56c57c6f8e",
-    "3511282fc1bba8",
-    "a132303a778fdc"
-   ],
-   "sources": [
-    ".: El Sol de Margarita :.",
-    "24 horas on MSN",
-    "24horas",
-    "ABS-CBN",
-    "AS México",
-    "Agencia de Periodismo Investigativo",
-    "Agencia de Periodismo Investigativo on MSN",
-    "Artículo 66",
-    "BioBioChile",
-    "Canal Antigua",
-    "Caracol TV",
-    "Caracol Televisión",
-    "Chic Magazine",
-    "CiberCuba",
-    "Clx Icons",
-    "DUPLOS.CL",
-    "Diario El Centro",
-    "Diario El País",
-    "Diario Extra",
-    "Diario Las Américas",
-    "Diario Libre",
-    "EL DÍA - Noticias de Bolivia para el mundo",
-    "EMOL",
-    "Eje Central",
-    "El Colombiano",
-    "El Colombiano on MSN",
-    "El Comercio Perú",
-    "El Dia.com.do",
-    "El Diario",
-    "El Diario - Noticias Pereira, Colombia y el Mundo",
-    "El Heraldo",
-    "El Impulso",
-    "El Informador",
-    "El Mostrador",
-    "El Nacional",
-    "El Nuevo Día",
-    "El País",
-    "El Reporte Diario",
-    "El Universal",
-    "El Universo"
-   ],
-   "n_items": 249,
-   "n_sources": 109,
-   "videos": [
-    {
-     "vid": "oqIDvzfAKBI",
-     "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
-     "channel": "Telemundo Entretenimiento",
-     "views": 647559,
-     "ago": "Transmitido hace 21 h",
-     "official": false
-    },
-    {
-     "vid": "kdbVKox8QKU",
-     "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 58744,
-     "likes": 0,
-     "published": "2026-11-22T23:19:42+00:00",
-     "official": true
-    },
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 56588,
-     "ago": "hace 21 h",
-     "official": false
-    },
-    {
-     "vid": "z6WL1geI6Uk",
-     "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 20084,
-     "ago": "hace 22 h",
-     "official": false
-    },
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 0,
-     "likes": 3,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 782975,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/z6WL1geI6Uk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=z6WL1geI6Uk",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/kdbVKox8QKU/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/kdbVKox8QKU/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=kdbVKox8QKU",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://www.hola.com/horizon/landscape/1200/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/1ae2e4e7c9ae-917866244186577516300279814069487186797446621n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/4139532b6544-919634547186610083400451362641207344370864041n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/66d7d4f325c7-811664960186252689230371736075148044654110613nok.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.rvqZjbtUOQy_PSBv-navYA&pid=News",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "Bing (miniatura)",
-     "credit": "HOLA.com"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/I3TPNCTJINDGDGBSO56HWXAQ7Y.JPG?auth=b55516aa600519834383a04fb67311a7ff42d6f0365aca227e6a1aed5b12b1b7&quality=75&width=1200&height=717&focal=2026%2C1269",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/B4DDQY5PANGWLNEBKBKAG3JAA4.JPG?auth=593cf2d9c62518cc6e3b1583b0e6a21a6239c6b67a5adb8072006239fcaaba9b&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/M4DIK7MX7RDERMGMKCPIM5CZOA.JPG?auth=dc69489a6651156193cf4a1a7a302e7106d6ad99b36c9e2315d3195839f25843&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/6BZNTLKWERDHLFTJVUMDNMLHZU.JPG?auth=436eebe45f4946a820714ab887a4b65383da1b9835c9cb03c715e4a1d6f85ec3&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
-     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
-     "via": "Publimetro",
-     "credit": "Publimetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/d54ed2667553be2332fbc64671e58c4b/adjuntos/311/imagenes/019/164/0019164278/1200x675/smart/gabriela-gonzalez.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/20012342ef6f41ccebce9df22f06ac53/adjuntos/311/imagenes/019/164/0019164278/855x0/smart/gabriela-gonzalez.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/aa7edf0100e32ac3ebec6d77fd72191a/adjuntos/311/imagenes/019/164/0019164062/195x110/smart/miss-universe-2025-fatima-bosch.jpg",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/9c236c1e282745bf33383db874cafe73/adjuntos/311/imagenes/019/108/0019108316/1200x675/smart/sorteo-la-loteria-fiscal-regional.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/63b6d6842b597d2ee91216a8e02be67d/adjuntos/311/imagenes/019/164/0019164264/525x295/smart/comision-mineria.jpg",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/bd73189b037307e96d3627ae5ba53568/adjuntos/311/imagenes/018/813/0018813409/525x295/smart/copa-airlines-latinoamerica.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/1d6b24fa297c0744f98bb9df8805fe73/adjuntos/311/imagenes/019/082/0019082313/525x295/smart/idaan-evalua-operaciones-la-potabilizadora-chilibre.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/1aa505b32d365c7f01b1f0d39ece6a80/adjuntos/311/imagenes/018/688/0018688858/525x295/smart/css-pago-jubilados-y-pensionados.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/9e109332a0162d6a8f69b547533e660c/adjuntos/311/imagenes/019/067/0019067529/525x295/smart/agroferias-del-ima.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://media.telemetro.com/p/6daaf59f828bf44c4df995f0201f0076/adjuntos/311/imagenes/019/125/0019125379/1200x675/smart/panama-black-wekeend.png",
-     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
-     "via": "Telemetro",
-     "credit": "Telemetro"
-    },
-    {
-     "url": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/senorita-colombia.jpg?itok=cA4kgguO",
-     "page": "https://www.lapatria.com/entretenimiento/del-eje-cafetero-miss-universo-maria-alejandra-lopez-la-colombiana-que-deslumbra-en",
-     "via": "La Patria",
-     "credit": "La Patria"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/JKFWVQHCTNCLFH7R2NYQ3BV76E.JPG?auth=79eae10e7bf062780065011647e306fe847196c1d007850ca84992149c90d288&quality=75&width=1200&height=717&focal=2480%2C736",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://static1.squarespace.com/static/6765a6f4ed3c016135be51da/67f4f64fb442a563cde4b33e/6af5f5f8df3c754d1d65cfaa/1794517256874/%C2%BFQu%C3%A9+lleva+en+su+cartera+Florencia+Araneda+Desde+sus+esenciales+de+belleza+hasta+un+curioso+amuleto+de+la+suerte.png?format=1500w",
-     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
-     "via": "FMDOS",
-     "credit": "FMDOS"
-    },
-    {
-     "url": "https://www.adnradio.cl/resizer/v2/Q2JNU5PUXRCWLC4PLQKUXQSJNY.jpg?auth=efa60f90ac04e4dae997fd796a0684797061a7df1855215c6bb0b41ea1c10cbb&quality=70&width=1200&height=675&focal=672,459",
-     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
-     "via": "FMDOS",
-     "credit": "FMDOS"
-    },
-    {
-     "url": "https://los40.cl/resizer/v2/5LMZ2QCTWBDPHPNGRF4OI3TSJ4.jpg?auth=618c77e3f60fc15fcecc407fb3c5504aa16bf596a9fbac0e10b9627b89345e14&quality=70&width=1200&height=675&smart=true",
-     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
-     "via": "FMDOS",
-     "credit": "FMDOS"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/2JVEECGKDFBTTJWUDQFNJSBJTY.jfif?auth=754366d044f7eb7349d731133cd6592b25ea92077adad89cbf987970c6187d32&smart=true&quality=75&width=1280&height=720",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/OG2FYI64L5HDZFN2A7BQKOXKK4.jpg?auth=fd77764aa2a4fa2576dcfcd682b335cf27ac3f5f7cd8ebf306af367e2a13a86a&smart=true&quality=75&width=768",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/VEBPTP72BBFTLPQQYLARHBQUGQ.jpg?auth=c5592098c1f50e039d41056f3326ed06aeb031c14bfaee0e34cedc7431151af8&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    },
-    {
-     "url": "https://www.elpais.com.co/resizer/v2/QUHL4ASBLRFTVBB3WVRGYJHUII.jpeg?auth=690ba5958a37f445a67361a14c5e13a89e109195f563969ef4831f9c88f8ae84&smart=true&quality=75&width=240",
-     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
-     "via": "Diario El País",
-     "credit": "Diario El País"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/Df5yDxMGqRG",
-    "https://www.instagram.com/p/DgBjvDYGwJw",
-    "https://www.instagram.com/p/DgByE_sERl8",
-    "https://www.instagram.com/p/DgD7wDOJTVm",
-    "https://www.instagram.com/p/DgDXsLdEStB",
-    "https://www.instagram.com/p/DgD_xMljUCc",
-    "https://www.instagram.com/p/DgECLicjQOA",
-    "https://www.instagram.com/p/DgEDDh5hhAv",
-    "https://www.instagram.com/p/DgEDOC6JpDF",
-    "https://www.instagram.com/p/DgEIGmQiHTf",
-    "https://www.instagram.com/p/DgEJTChMTrl",
-    "https://www.instagram.com/p/DgEJmU_hd3d",
-    "https://www.instagram.com/p/DgELcfUmVzt",
-    "https://www.instagram.com/p/DgELpxHje4O",
-    "https://www.instagram.com/p/DgELtRyhp7_",
-    "https://www.instagram.com/p/DgEM596mDN9",
-    "https://www.instagram.com/p/DgEMwqLjRYi",
-    "https://www.instagram.com/p/DgENzI1DKX2",
-    "https://www.instagram.com/p/DgEQq96DdQ4",
-    "https://www.instagram.com/p/DgEkkGrEUpM",
-    "https://www.instagram.com/p/DgEqKEjB77H",
-    "https://www.instagram.com/p/DgGDBNxvTVQ",
-    "https://www.instagram.com/reel/DgCHkNLzcr3",
-    "https://www.instagram.com/reel/DgD-1alBslr",
-    "https://www.instagram.com/reel/DgD80ydM3gC",
-    "https://www.instagram.com/reel/DgD9ov-vIKs",
-    "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.instagram.com/reel/DgEAfisxCAp",
-    "https://www.instagram.com/reel/DgEBhS1MTs-"
-   ],
-   "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
-   "extra_images": [
-    {
-     "url": "https://i.pinimg.com/originals/7e/ee/b8/7eeeb825d0e0b7ee59a4f9a7fa491384.jpg",
-     "page": "https://www.pinterest.es/pin/459437599470374020/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.XcBOTFIBiFvjRmc2jaNHrAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/IGnH-U0SlGY/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=IGnH-U0SlGY",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TyQDzCrNY2iOTw0q5-29wgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/31/90/30/319030587306166565d1c8290d5f9c66.jpg",
-     "page": "https://ar.pinterest.com/pin/667588344760486584/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.vyihnxRDQDZ2vI4jZRA1SgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn0.uncomo.com/es/posts/8/2/8/como_dibujar_una_estrella_paso_a_paso_32828_orig.jpg",
-     "page": "https://www.mundodeportivo.com/uncomo/artes/video/como-dibujar-una-estrella-paso-a-paso-32828.html",
-     "via": "Bing Imágenes",
-     "credit": "mundodeportivo.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.roAZZDd28keLUgyunUy0rgHaEf&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/w5Mj1b7bLJg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=w5Mj1b7bLJg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.HdtCenNAtWfpegPUdMiOuQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/jAFNYzifi_E/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=jAFNYzifi_E",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.KqPiAIEainxCS1UDbk2AXAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/LbvNQ7QrhCc/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=LbvNQ7QrhCc",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.d2gqvfaE-Yz_bQRvMp1IwAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/5SvdASIXzP8/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=5SvdASIXzP8",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.WBQi28H7qW_Oqdjvc5dE3gHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.wikihow.com/images/2/29/Draw-a-Star-Step-20-Version-5.jpg",
-     "page": "https://es.wikihow.com/dibujar-una-estrella",
-     "via": "Bing Imágenes",
-     "credit": "es.wikihow.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.4fN-6s5wOnmsXwtCIrtDEwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_191755-972.jpg?w=1800",
-     "page": "https://www.freepik.es/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_266401544.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.cX_cO7lgUAtFiHLYxlzbmAHaIS&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/cf/de/f7/cfdef7f03add75ed0a832f80cae12061.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.m-BvcQ365BKgIzDEdELcbwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/ae/a1/76/aea17686cc14f6185b98d2826bf11920.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.OZHNoW90eywnAnEWK9e3sgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/a2/7e/bd/a27ebd021641e04979947e287c7ceb4b.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/como-dibujar-una-estrella-paso-a-paso/924746883179/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lbIRmyb4GevK6fYVVCWR3wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://coloringonly.com/es/images/imgcolor/Estrella-Facil.jpg",
-     "page": "https://coloringonly.com/es/pages/estrella-animada/",
-     "via": "Bing Imágenes",
-     "credit": "coloringonly.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.UXR-CkMVo_Cj5To1YNhciQHaKf&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T22:14:05.664923+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:34:05.822313+00:00",
-     "url": "https://www.instagram.com/p/Df5yDxMGqRG",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:10:05.835071+00:00",
-     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
-     "url": "https://www.instagram.com/p/DgByE_sERl8",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:18:06.260118+00:00",
-     "url": "https://www.instagram.com/p/DgD7wDOJTVm",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgDXsLdEStB",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgD_xMljUCc",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgECLicjQOA",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEDDh5hhAv",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
-     "url": "https://www.instagram.com/p/DgEDOC6JpDF",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEIGmQiHTf",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEJTChMTrl",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:02:06.194155+00:00",
-     "url": "https://www.instagram.com/p/DgEJmU_hd3d",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgELcfUmVzt",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgELpxHje4O",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgELtRyhp7_",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
-     "url": "https://www.instagram.com/p/DgEM596mDN9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:26:05.810253+00:00",
-     "url": "https://www.instagram.com/p/DgENzI1DKX2",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:10:05.835071+00:00",
-     "url": "https://www.instagram.com/p/DgEqKEjB77H",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:18:06.260118+00:00",
-     "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
-     "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:34:05.822313+00:00",
-     "url": "https://www.instagram.com/reel/DgD-1alBslr",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:46:05.560554+00:00",
-     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:26:05.810253+00:00",
-     "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/reel/DgEAJykzVMe",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T23:10:05.835071+00:00",
-     "url": "https://www.instagram.com/reel/DgEAfisxCAp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:46:05.560554+00:00",
-     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 509
-  },
-  {
-   "key": "seed:voto-top30",
-   "id": "voto-top30",
-   "name": "Voto del público: pase directo al Top 30",
-   "contest": "mu",
-   "kind": "campaña oficial",
-   "labels": [
-    "Votación"
-   ],
-   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
-   "refs": [
-    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
-   ],
-   "first_seen": "2026-11-19T01:48:18.895698+00:00",
-   "start": "2026-10-16",
-   "last_activity": "2026-11-23T23:00:00+00:00",
-   "item_ids": [
-    "9695f941000ed7",
-    "45f6f34e7caa72",
-    "b8999438f7c7ff",
-    "00a77aa09fb693",
-    "7443600d3b5410",
-    "4e158d75dfbba2",
-    "9019d706d27434",
-    "addc28a77d9cb9",
-    "2aa40afe742500",
-    "9daa64e5c29e05",
-    "1467fd8181185a",
-    "c88074d4c76f20",
-    "062866eab54b1c",
-    "571d7fc488f0b4",
-    "bdc26ac3591482",
-    "4e5d9ea6a35501",
-    "5e01d0a616cd9e",
-    "c4715d0c0b1d69",
-    "6518b92aa5234c",
-    "ec9fc97d023ced",
-    "3e751bdc913761",
-    "1e5c47f5a4305d",
-    "27e791243c5c31",
-    "a8f9224cef6e3c",
-    "2e657256f76835"
-   ],
-   "sources": [
-    "BioBioChile",
-    "Diario El Centro",
-    "Diario El Día",
-    "El Comercio",
-    "El Comercio Perú",
-    "En Cancha",
-    "Infobae",
-    "MARCA",
-    "Minuto60",
-    "Noticias Caracol",
-    "Publimetro",
-    "Revista Semana",
-    "Telediario México on MSN",
-    "Teletrece",
-    "minuto60"
-   ],
-   "n_items": 25,
-   "n_sources": 15,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://www.infobae.com/resizer/v2/C5RDEWMA3JDYDFUQWH43RZVC4Y.jpeg?auth=bcf9fdda6a0c7d4eba04d5a33bf769d1fce71a4c625a53c48e4532048a0be708&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.F963jizVUb4OSFneCrK-sg&pid=News",
-     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
-     "via": "Bing (miniatura)",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/LF46GNU4NZAVZAB5IMGTJY6ODA.jpg?auth=be53b14f4eaad17152d7783812861d5964db54c8c53f36d5cd9c21d5bf89bee8&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/3OHJJ655RZC6RJ4NL6XAW35YCU.jpg?auth=4092f9aba202b8dc989f23e55051d8d85640b5a6767b7f82a6d79883a6f61cd6&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/G7CXTYL5VJENFO54MW26VT6TRI.png?auth=2b1c7aa7e3f80aedd0526086d0b6b6cfb891707fd5dbd61ef2865e9080b04e8e&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-luren-marquez-de-peru-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-peruana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
-     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
-     "via": "Publimetro",
-     "credit": "Publimetro"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/lg.webp?_v=v3-38",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/md.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/md.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/00/2870009_5c41f7717ba754287cd5d00ac6f42a76dfd34d6a1e8c1a5fc3729093ab226fb0/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/91/2869101_14984290bb73040f75e2db8b30d73d4bac40e9df788a22149c9e36016cd225d7/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/79/2867988_83c4af57d7a1967c61f72abc8ccb792a9aade22d3f397b10afdf6efcb920dea9/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/66/2866605_bfb68b92b187b8acba38757dca21bc1c0cb5ebb1b34ec343dfe135db691e4a85/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/65/2866575_2f15a5d9999cf96ec745e6d8c41affa0d1310788b0e8d6ad605ee7a4c7c1d1bb/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872945_344a5648855d8252731a9b5f265147ef273ccb1327ae5286a5a511b9d4243711/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_twitter.jpg",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_350.webp",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://www.minuto60.com/_next/image?url=https%3A%2F%2Fd33tk5b80rpokn.cloudfront.net%2Fnoticias%2Fandres_botero.png&w=256&q=75",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/Dct5YGWDLvh"
-   ],
-   "image_query": "Miss Universe 2026 vote top 30",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-23T22:30:06.132272+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T22:54:05.965161+00:00",
-     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 58
-  },
-  {
    "key": "p:completa del desfile de traje",
    "id": "p-completa-del-desfile-de-traje-f97b3",
    "name": "Completa Del Desfile De Traje",
@@ -1264,9 +180,10 @@
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-22T15:55:00+00:00",
-   "last_activity": "2026-11-23T21:52:00+00:00",
+   "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
+    "8cf0fc6990ed16",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -1330,6 +247,7 @@
     "ABS-CBN",
     "Artículo 66",
     "BellaNaija",
+    "BioBioChile",
     "Business Insider",
     "Caretas",
     "Clx Icons",
@@ -1365,17 +283,16 @@
     "Telemundo San Diego",
     "The Indian Express",
     "UnoTV on MSN",
-    "Yahoo",
-    "YouTube · Miss Universe"
+    "Yahoo"
    ],
-   "n_items": 59,
-   "n_sources": 41,
+   "n_items": 60,
+   "n_sources": 42,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 77601,
+     "views": 77853,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -1399,7 +316,7 @@
      "official": true
     }
    ],
-   "views_total": 77601,
+   "views_total": 77853,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1659,107 +576,8 @@
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
    "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
-   "extra_images": [
-    {
-     "url": "https://i.ytimg.com/vi/fJTB9HnddYs/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=fJTB9HnddYs",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.5E3hajGDOj9Nvolm1RVp2QHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/5GUZHNeVmX0/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=5GUZHNeVmX0",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.fJwR9LOj5xCQdCtcDFRp9QHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/uXmQ4Yg6hLc/maxresdefault.jpg",
-     "page": "https://heiko-stritzke.de/youtube-en-espanol-gratis-100-peliculas-de-dibujos-animados-en-espanol/",
-     "via": "Bing Imágenes",
-     "credit": "heiko-stritzke.de",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.y9RGaS9d8yV74wT7D6mpQAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/A02hbZSX5ok/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=A02hbZSX5ok",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.laxQ6VekTWK5sCfOD50vsAHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/3xHMEFMoty4/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=3xHMEFMoty4",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ryRXkHN9il8fqpT3kos4ogHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/FqBYMwbrWFE/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=FqBYMwbrWFE",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.4jN_0mXPIV9rh46MmTNhPwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://s1.eestatic.com/2022/05/11/elandroidelibre/aplicaciones/671692852_224217141_1706x960.jpg",
-     "page": "https://www.elespanol.com/elandroidelibre/aplicaciones/20220511/youtube-tv-apuesta-espanol-spanish-plan-plus/671682848_0.html",
-     "via": "Bing Imágenes",
-     "credit": "elespanol.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DVnrS82Vyf1Ldf4y5DjH1AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/4Ivab5ARIj0/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=4Ivab5ARIj0",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.mCaMRJulLEChAw7AFIIV0gHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EmdI9wH9yoI/maxresdefault.jpg",
-     "page": "https://dharmastation.org/youtube-espanol-youtube-peliculas-gratis-castellano-completas/",
-     "via": "Bing Imágenes",
-     "credit": "dharmastation.org",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.xqaP2oltTxyj0AtWgmN7ygHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/3Gexda2AaSA/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=3Gexda2AaSA",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.rSA-_NroaHdCDLVPUTxAGgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/gMsACiUVUz8/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=gMsACiUVUz8",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.wlP7t71BAoWHxXgW3e2WQgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/XjnchW3kv0Y/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=XjnchW3kv0Y",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.WmF4EwpeUIqUTnHQSHDv3AHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/6CG4ncHYOzk/maxresdefault.jpg",
-     "page": "https://trend.funchalmarathon.com/youtube-en-espanol-peliculas-completas-gratis/",
-     "via": "Bing Imágenes",
-     "credit": "trend.funchalmarathon.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.k-Bu-k9M8OIsXom-DT6-zwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/X-Hwh0A22bk/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=X-Hwh0A22bk",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.O8_gjRVzhlnieJzaLxxHewHaEK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-23T23:42:05.967087+00:00",
    "social": [
     {
      "fetched": "2026-11-23T23:10:05.835071+00:00",
@@ -1808,7 +626,7 @@
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
@@ -1820,7 +638,1083 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 147
+   "score": 150
+  },
+  {
+   "key": "seed:voto-top30",
+   "id": "voto-top30",
+   "name": "Voto del público: pase directo al Top 30",
+   "contest": "mu",
+   "kind": "campaña oficial",
+   "labels": [
+    "Votación"
+   ],
+   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
+   "refs": [
+    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
+   ],
+   "first_seen": "2026-11-19T01:48:18.895698+00:00",
+   "start": "2026-10-16",
+   "last_activity": "2026-11-23T23:33:21+00:00",
+   "item_ids": [
+    "8cf0fc6990ed16",
+    "9695f941000ed7",
+    "45f6f34e7caa72",
+    "b8999438f7c7ff",
+    "00a77aa09fb693",
+    "7443600d3b5410",
+    "4e158d75dfbba2",
+    "9019d706d27434",
+    "addc28a77d9cb9",
+    "2aa40afe742500",
+    "9daa64e5c29e05",
+    "1467fd8181185a",
+    "c88074d4c76f20",
+    "062866eab54b1c",
+    "571d7fc488f0b4",
+    "bdc26ac3591482",
+    "4e5d9ea6a35501",
+    "5e01d0a616cd9e",
+    "c4715d0c0b1d69",
+    "6518b92aa5234c",
+    "ec9fc97d023ced",
+    "3e751bdc913761",
+    "1e5c47f5a4305d",
+    "27e791243c5c31",
+    "a8f9224cef6e3c",
+    "2e657256f76835"
+   ],
+   "sources": [
+    "BioBioChile",
+    "Diario El Centro",
+    "Diario El Día",
+    "El Comercio",
+    "El Comercio Perú",
+    "En Cancha",
+    "Infobae",
+    "MARCA",
+    "Minuto60",
+    "Noticias Caracol",
+    "Publimetro",
+    "Revista Semana",
+    "Telediario México on MSN",
+    "Teletrece",
+    "minuto60"
+   ],
+   "n_items": 26,
+   "n_sources": 15,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.infobae.com/resizer/v2/C5RDEWMA3JDYDFUQWH43RZVC4Y.jpeg?auth=bcf9fdda6a0c7d4eba04d5a33bf769d1fce71a4c625a53c48e4532048a0be708&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.F963jizVUb4OSFneCrK-sg&pid=News",
+     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
+     "via": "Bing (miniatura)",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/LF46GNU4NZAVZAB5IMGTJY6ODA.jpg?auth=be53b14f4eaad17152d7783812861d5964db54c8c53f36d5cd9c21d5bf89bee8&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/3OHJJ655RZC6RJ4NL6XAW35YCU.jpg?auth=4092f9aba202b8dc989f23e55051d8d85640b5a6767b7f82a6d79883a6f61cd6&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/G7CXTYL5VJENFO54MW26VT6TRI.png?auth=2b1c7aa7e3f80aedd0526086d0b6b6cfb891707fd5dbd61ef2865e9080b04e8e&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-luren-marquez-de-peru-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-peruana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
+     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
+     "via": "Publimetro",
+     "credit": "Publimetro"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/lg.webp?_v=v3-38",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/md.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/md.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/00/2870009_5c41f7717ba754287cd5d00ac6f42a76dfd34d6a1e8c1a5fc3729093ab226fb0/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/91/2869101_14984290bb73040f75e2db8b30d73d4bac40e9df788a22149c9e36016cd225d7/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/79/2867988_83c4af57d7a1967c61f72abc8ccb792a9aade22d3f397b10afdf6efcb920dea9/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/66/2866605_bfb68b92b187b8acba38757dca21bc1c0cb5ebb1b34ec343dfe135db691e4a85/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/65/2866575_2f15a5d9999cf96ec745e6d8c41affa0d1310788b0e8d6ad605ee7a4c7c1d1bb/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872945_344a5648855d8252731a9b5f265147ef273ccb1327ae5286a5a511b9d4243711/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_twitter.jpg",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_350.webp",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://www.minuto60.com/_next/image?url=https%3A%2F%2Fd33tk5b80rpokn.cloudfront.net%2Fnoticias%2Fandres_botero.png&w=256&q=75",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Dct5YGWDLvh"
+   ],
+   "image_query": "Miss Universe 2026 vote top 30",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-23T22:30:06.132272+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 59
+  },
+  {
+   "key": "p:traje de gala en la preliminar",
+   "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
+   "name": "Traje De Gala En La Preliminar",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Gala / cena",
+    "Preliminar",
+    "Traje de baño"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T02:37:26.080370+00:00",
+   "start": "2026-11-22T15:45:00+00:00",
+   "last_activity": "2026-11-23T23:15:07+00:00",
+   "item_ids": [
+    "37ce0ddfcdf2e3",
+    "5599f34d92676c",
+    "a4f0a47b53aa79",
+    "f254c2c54acc92",
+    "f6f85a4ee2b695",
+    "a2fb269272421a",
+    "fd1d0c4d4c999e",
+    "af3bd931fff94e",
+    "5825312fd6cc63",
+    "908700188452d3",
+    "5fd8f5152b4b58",
+    "34b9daca5388ec",
+    "cfb50969e326b7",
+    "fe2e2de8c6f713",
+    "6b20605c824873",
+    "2724720c48a7f6",
+    "ad5321b491cf7d",
+    "0196740579222e",
+    "891311078f097f",
+    "c65557e774815d",
+    "9cb8e27df3b9f2",
+    "68c43d5cfd36f5",
+    "ad5fa1cffa1303",
+    "d2eb1e4052e09a",
+    "3a7b3d672b46ea",
+    "3b7e7cd3321175",
+    "d7d4f38bec8c37",
+    "6c5fc8bd5c0989",
+    "062866eab54b1c",
+    "5dedef3c59e3fb",
+    "c3b40e1f2158f9",
+    "337a17eb94fa50",
+    "47f72716e79e1d",
+    "2e9d6e1bcc9166",
+    "09b5a883d49f15",
+    "bf65617ec82716",
+    "523498a4640634",
+    "b87d2644263aab",
+    "23fd9d663a56b4",
+    "4c89a4853ebce7",
+    "414536a7da32f5",
+    "bc6a53622db3fa",
+    "cf2731fbfe95c5",
+    "6a2afbd99d5336",
+    "2fdcb820131df3",
+    "b2ef86e9afdce4",
+    "e1d1fed2ae9244",
+    "aa5ae68c14f17b",
+    "519384f1110942",
+    "20db1c7ab00253",
+    "3c4642dfb440a3",
+    "3aa1e1cd952e14",
+    "52189dc701e92c",
+    "512fa8a54e3d22",
+    "3eaef9012b303c",
+    "98293860e468f1",
+    "4114f84eeef3ee",
+    "4323f66acec0c8",
+    "1c7b3fe4a98499",
+    "31e95ee4d67b06",
+    "c8d8ff6c15f4d4",
+    "23471bf7e2b521",
+    "b4dd5557ea4983",
+    "a72d88fe0350d8",
+    "1fff5245cd4b43",
+    "77650e0791580d",
+    "37f113e6f11e99",
+    "fb4ea217447104",
+    "c878a195587422",
+    "e51bc8f78e1c8d",
+    "d123fb097f60da",
+    "397300076bdbdc",
+    "23951b33ac0c38",
+    "8b432528f7c5f9",
+    "ed1a50e75b8703",
+    "6359026c6d705e",
+    "940b42ed2d1463",
+    "27e791243c5c31",
+    "01a6c68fdce28f",
+    "a1a706ebcedccb",
+    "f5095293f0f5ba",
+    "d3791537658210",
+    "d9f7ba013c0805",
+    "040bfcba907828",
+    "4b0a4d91aa16f1",
+    "9bb50bc2d1eb3a",
+    "10b96b587aca9b",
+    "bf18ddd33141aa",
+    "479865ad166d59",
+    "48e93213602e8c",
+    "17e8d2e79e2e0a",
+    "10d9b44a70ca64",
+    "aad28376e589e3",
+    "bc8aa73adfab53",
+    "b2926894b2753e",
+    "4713b1b9ea8c7e",
+    "e302aa20fe7d41",
+    "950b77f70ac4d5",
+    "753242c73f86e5",
+    "6cd329165e23bb",
+    "07fb1bfde4bd5c",
+    "bb0bcb12cb7923",
+    "3e891778ca49d2",
+    "952db44f21e7df",
+    "879d1c3bc8c5a6",
+    "d4deae200bfe0c",
+    "ebf6bea0cfc270",
+    "7a84c94acf08c1",
+    "604b2172c5cf6c",
+    "65a71d2c138efb",
+    "4c99dff5e906e1",
+    "734f45d24cc966",
+    "55180fe04c1413",
+    "0cd5774c0c5641",
+    "89a7298da38a5d",
+    "5dbf0286192a0e",
+    "5ff41e568107de",
+    "2a7a56c57c6f8e",
+    "3511282fc1bba8",
+    "a132303a778fdc"
+   ],
+   "sources": [
+    ".: El Sol de Margarita :.",
+    "24 horas on MSN",
+    "24horas",
+    "ABS-CBN",
+    "AS México",
+    "Agencia de Periodismo Investigativo",
+    "Agencia de Periodismo Investigativo on MSN",
+    "Artículo 66",
+    "BioBioChile",
+    "Canal Antigua",
+    "Caracol TV",
+    "Caracol Televisión",
+    "Chic Magazine",
+    "CiberCuba",
+    "Clx Icons",
+    "DUPLOS.CL",
+    "Diario El Centro",
+    "Diario El País",
+    "Diario Extra",
+    "Diario Las Américas",
+    "Diario Libre",
+    "EL DÍA - Noticias de Bolivia para el mundo",
+    "EMOL",
+    "Eje Central",
+    "El Colombiano",
+    "El Colombiano on MSN",
+    "El Comercio Perú",
+    "El Dia.com.do",
+    "El Diario",
+    "El Diario - Noticias Pereira, Colombia y el Mundo",
+    "El Heraldo",
+    "El Impulso",
+    "El Informador",
+    "El Mostrador",
+    "El Nacional",
+    "El Nuevo Día",
+    "El País",
+    "El Reporte Diario",
+    "El Universal",
+    "El Universo"
+   ],
+   "n_items": 248,
+   "n_sources": 109,
+   "videos": [
+    {
+     "vid": "kdbVKox8QKU",
+     "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
+     "channel": "Miss Universe",
+     "views": 58860,
+     "likes": 0,
+     "published": "2026-11-22T23:19:42+00:00",
+     "official": true
+    },
+    {
+     "vid": "quLHTBghoEw",
+     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
+     "channel": "Telemundo Entretenimiento y Telemundo",
+     "views": 56925,
+     "ago": "hace 21 h",
+     "official": false
+    },
+    {
+     "vid": "z6WL1geI6Uk",
+     "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
+     "channel": "Telemundo Entretenimiento y Telemundo",
+     "views": 20142,
+     "ago": "hace 22 h",
+     "official": false
+    },
+    {
+     "vid": "8fBUD_d-bVM",
+     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
+     "channel": "Telemundo Entretenimiento",
+     "views": 0,
+     "likes": 3,
+     "published": "2026-11-23T19:25:03+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 135927,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/z6WL1geI6Uk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=z6WL1geI6Uk",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/kdbVKox8QKU/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/kdbVKox8QKU/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=kdbVKox8QKU",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://www.hola.com/horizon/landscape/1200/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/1ae2e4e7c9ae-917866244186577516300279814069487186797446621n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/4139532b6544-919634547186610083400451362641207344370864041n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/66d7d4f325c7-811664960186252689230371736075148044654110613nok.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.rvqZjbtUOQy_PSBv-navYA&pid=News",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "Bing (miniatura)",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/I3TPNCTJINDGDGBSO56HWXAQ7Y.JPG?auth=b55516aa600519834383a04fb67311a7ff42d6f0365aca227e6a1aed5b12b1b7&quality=75&width=1200&height=717&focal=2026%2C1269",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/B4DDQY5PANGWLNEBKBKAG3JAA4.JPG?auth=593cf2d9c62518cc6e3b1583b0e6a21a6239c6b67a5adb8072006239fcaaba9b&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/M4DIK7MX7RDERMGMKCPIM5CZOA.JPG?auth=dc69489a6651156193cf4a1a7a302e7106d6ad99b36c9e2315d3195839f25843&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/6BZNTLKWERDHLFTJVUMDNMLHZU.JPG?auth=436eebe45f4946a820714ab887a4b65383da1b9835c9cb03c715e4a1d6f85ec3&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
+     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
+     "via": "Publimetro",
+     "credit": "Publimetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/d54ed2667553be2332fbc64671e58c4b/adjuntos/311/imagenes/019/164/0019164278/1200x675/smart/gabriela-gonzalez.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/20012342ef6f41ccebce9df22f06ac53/adjuntos/311/imagenes/019/164/0019164278/855x0/smart/gabriela-gonzalez.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/aa7edf0100e32ac3ebec6d77fd72191a/adjuntos/311/imagenes/019/164/0019164062/195x110/smart/miss-universe-2025-fatima-bosch.jpg",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/9c236c1e282745bf33383db874cafe73/adjuntos/311/imagenes/019/108/0019108316/1200x675/smart/sorteo-la-loteria-fiscal-regional.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/63b6d6842b597d2ee91216a8e02be67d/adjuntos/311/imagenes/019/164/0019164264/525x295/smart/comision-mineria.jpg",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/bd73189b037307e96d3627ae5ba53568/adjuntos/311/imagenes/018/813/0018813409/525x295/smart/copa-airlines-latinoamerica.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/1d6b24fa297c0744f98bb9df8805fe73/adjuntos/311/imagenes/019/082/0019082313/525x295/smart/idaan-evalua-operaciones-la-potabilizadora-chilibre.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/1aa505b32d365c7f01b1f0d39ece6a80/adjuntos/311/imagenes/018/688/0018688858/525x295/smart/css-pago-jubilados-y-pensionados.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/9e109332a0162d6a8f69b547533e660c/adjuntos/311/imagenes/019/067/0019067529/525x295/smart/agroferias-del-ima.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/6daaf59f828bf44c4df995f0201f0076/adjuntos/311/imagenes/019/125/0019125379/1200x675/smart/panama-black-wekeend.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/senorita-colombia.jpg?itok=cA4kgguO",
+     "page": "https://www.lapatria.com/entretenimiento/del-eje-cafetero-miss-universo-maria-alejandra-lopez-la-colombiana-que-deslumbra-en",
+     "via": "La Patria",
+     "credit": "La Patria"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/JKFWVQHCTNCLFH7R2NYQ3BV76E.JPG?auth=79eae10e7bf062780065011647e306fe847196c1d007850ca84992149c90d288&quality=75&width=1200&height=717&focal=2480%2C736",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://static1.squarespace.com/static/6765a6f4ed3c016135be51da/67f4f64fb442a563cde4b33e/6af5f5f8df3c754d1d65cfaa/1794517256874/%C2%BFQu%C3%A9+lleva+en+su+cartera+Florencia+Araneda+Desde+sus+esenciales+de+belleza+hasta+un+curioso+amuleto+de+la+suerte.png?format=1500w",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "https://www.adnradio.cl/resizer/v2/Q2JNU5PUXRCWLC4PLQKUXQSJNY.jpg?auth=efa60f90ac04e4dae997fd796a0684797061a7df1855215c6bb0b41ea1c10cbb&quality=70&width=1200&height=675&focal=672,459",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "https://los40.cl/resizer/v2/5LMZ2QCTWBDPHPNGRF4OI3TSJ4.jpg?auth=618c77e3f60fc15fcecc407fb3c5504aa16bf596a9fbac0e10b9627b89345e14&quality=70&width=1200&height=675&smart=true",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/2JVEECGKDFBTTJWUDQFNJSBJTY.jfif?auth=754366d044f7eb7349d731133cd6592b25ea92077adad89cbf987970c6187d32&smart=true&quality=75&width=1280&height=720",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/OG2FYI64L5HDZFN2A7BQKOXKK4.jpg?auth=fd77764aa2a4fa2576dcfcd682b335cf27ac3f5f7cd8ebf306af367e2a13a86a&smart=true&quality=75&width=768",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/VEBPTP72BBFTLPQQYLARHBQUGQ.jpg?auth=c5592098c1f50e039d41056f3326ed06aeb031c14bfaee0e34cedc7431151af8&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/QUHL4ASBLRFTVBB3WVRGYJHUII.jpeg?auth=690ba5958a37f445a67361a14c5e13a89e109195f563969ef4831f9c88f8ae84&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    },
+    {
+     "url": "https://www.elpais.com.co/resizer/v2/WBORGQJKLVAV3L7YDEIC6HTCAM.jpg?auth=d4ddb0a1f17a37d941857e89206a882d175ec2ca7c701ee1040d2d4b86931080&smart=true&quality=75&width=240",
+     "page": "https://www.elpais.com.co/entretenimiento/maria-alejandra-lopez-deslumbro-en-la-preliminar-de-miss-universo-2026-entre-las-favoritas-de-los-expertos-2331.html",
+     "via": "Diario El País",
+     "credit": "Diario El País"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Dct5YGWDLvh",
+    "https://www.instagram.com/p/Df5yDxMGqRG",
+    "https://www.instagram.com/p/DgBjvDYGwJw",
+    "https://www.instagram.com/p/DgByE_sERl8",
+    "https://www.instagram.com/p/DgD7wDOJTVm",
+    "https://www.instagram.com/p/DgDXsLdEStB",
+    "https://www.instagram.com/p/DgD_xMljUCc",
+    "https://www.instagram.com/p/DgECLicjQOA",
+    "https://www.instagram.com/p/DgEDDh5hhAv",
+    "https://www.instagram.com/p/DgEDOC6JpDF",
+    "https://www.instagram.com/p/DgEIGmQiHTf",
+    "https://www.instagram.com/p/DgEJTChMTrl",
+    "https://www.instagram.com/p/DgEJmU_hd3d",
+    "https://www.instagram.com/p/DgELcfUmVzt",
+    "https://www.instagram.com/p/DgELpxHje4O",
+    "https://www.instagram.com/p/DgELtRyhp7_",
+    "https://www.instagram.com/p/DgEM596mDN9",
+    "https://www.instagram.com/p/DgEMwqLjRYi",
+    "https://www.instagram.com/p/DgENzI1DKX2",
+    "https://www.instagram.com/p/DgEQq96DdQ4",
+    "https://www.instagram.com/p/DgEkkGrEUpM",
+    "https://www.instagram.com/p/DgEqKEjB77H",
+    "https://www.instagram.com/p/DgGDBNxvTVQ",
+    "https://www.instagram.com/reel/DgCHkNLzcr3",
+    "https://www.instagram.com/reel/DgD-1alBslr",
+    "https://www.instagram.com/reel/DgD80ydM3gC",
+    "https://www.instagram.com/reel/DgD9ov-vIKs",
+    "https://www.instagram.com/reel/DgEAJykzVMe",
+    "https://www.instagram.com/reel/DgEAfisxCAp",
+    "https://www.instagram.com/reel/DgEBhS1MTs-"
+   ],
+   "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/originals/7e/ee/b8/7eeeb825d0e0b7ee59a4f9a7fa491384.jpg",
+     "page": "https://www.pinterest.es/pin/459437599470374020/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.XcBOTFIBiFvjRmc2jaNHrAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/IGnH-U0SlGY/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=IGnH-U0SlGY",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.TyQDzCrNY2iOTw0q5-29wgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/31/90/30/319030587306166565d1c8290d5f9c66.jpg",
+     "page": "https://ar.pinterest.com/pin/667588344760486584/",
+     "via": "Bing Imágenes",
+     "credit": "ar.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vyihnxRDQDZ2vI4jZRA1SgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdn0.uncomo.com/es/posts/8/2/8/como_dibujar_una_estrella_paso_a_paso_32828_orig.jpg",
+     "page": "https://www.mundodeportivo.com/uncomo/artes/video/como-dibujar-una-estrella-paso-a-paso-32828.html",
+     "via": "Bing Imágenes",
+     "credit": "mundodeportivo.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.roAZZDd28keLUgyunUy0rgHaEf&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/w5Mj1b7bLJg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=w5Mj1b7bLJg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.HdtCenNAtWfpegPUdMiOuQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/jAFNYzifi_E/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=jAFNYzifi_E",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.KqPiAIEainxCS1UDbk2AXAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/LbvNQ7QrhCc/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=LbvNQ7QrhCc",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.d2gqvfaE-Yz_bQRvMp1IwAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/5SvdASIXzP8/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=5SvdASIXzP8",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WBQi28H7qW_Oqdjvc5dE3gHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.wikihow.com/images/2/29/Draw-a-Star-Step-20-Version-5.jpg",
+     "page": "https://es.wikihow.com/dibujar-una-estrella",
+     "via": "Bing Imágenes",
+     "credit": "es.wikihow.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.4fN-6s5wOnmsXwtCIrtDEwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_191755-972.jpg?w=1800",
+     "page": "https://www.freepik.es/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_266401544.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cX_cO7lgUAtFiHLYxlzbmAHaIS&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/cf/de/f7/cfdef7f03add75ed0a832f80cae12061.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.m-BvcQ365BKgIzDEdELcbwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/ae/a1/76/aea17686cc14f6185b98d2826bf11920.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.OZHNoW90eywnAnEWK9e3sgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/a2/7e/bd/a27ebd021641e04979947e287c7ceb4b.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-una-estrella-paso-a-paso/924746883179/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lbIRmyb4GevK6fYVVCWR3wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://coloringonly.com/es/images/imgcolor/Estrella-Facil.jpg",
+     "page": "https://coloringonly.com/es/pages/estrella-animada/",
+     "via": "Bing Imágenes",
+     "credit": "coloringonly.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.UXR-CkMVo_Cj5To1YNhciQHaKf&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T22:14:05.664923+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:34:05.822313+00:00",
+     "url": "https://www.instagram.com/p/Df5yDxMGqRG",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:10:05.835071+00:00",
+     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
+     "url": "https://www.instagram.com/p/DgByE_sERl8",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:18:06.260118+00:00",
+     "url": "https://www.instagram.com/p/DgD7wDOJTVm",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgDXsLdEStB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgD_xMljUCc",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgECLicjQOA",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEDDh5hhAv",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
+     "url": "https://www.instagram.com/p/DgEDOC6JpDF",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEIGmQiHTf",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEJTChMTrl",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:02:06.194155+00:00",
+     "url": "https://www.instagram.com/p/DgEJmU_hd3d",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgELcfUmVzt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgELpxHje4O",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgELtRyhp7_",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
+     "url": "https://www.instagram.com/p/DgEM596mDN9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:26:05.810253+00:00",
+     "url": "https://www.instagram.com/p/DgENzI1DKX2",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:10:05.835071+00:00",
+     "url": "https://www.instagram.com/p/DgEqKEjB77H",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:18:06.260118+00:00",
+     "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
+     "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:34:05.822313+00:00",
+     "url": "https://www.instagram.com/reel/DgD-1alBslr",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:46:05.560554+00:00",
+     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:26:05.810253+00:00",
+     "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:54:05.965161+00:00",
+     "url": "https://www.instagram.com/reel/DgEAJykzVMe",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T23:10:05.835071+00:00",
+     "url": "https://www.instagram.com/reel/DgEAfisxCAp",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:46:05.560554+00:00",
+     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 475
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -2120,7 +2014,7 @@
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 77601,
+     "views": 77853,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -2135,7 +2029,7 @@
      "official": true
     }
    ],
-   "views_total": 77601,
+   "views_total": 77853,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2441,7 +2335,7 @@
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
@@ -2750,7 +2644,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T23:42:05.967087+00:00",
    "social": [
     {
      "fetched": "2026-11-23T22:54:05.965161+00:00",
@@ -2872,12 +2766,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 56588,
+     "views": 56925,
      "ago": "hace 21 h",
      "official": false
     }
    ],
-   "views_total": 56588,
+   "views_total": 56925,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3246,7 +3140,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
      "platform": "Instagram"
     },
@@ -3256,26 +3150,26 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.instagram.com/reel/DgERYqdBFKD",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.instagram.com/reel/DgEcIzbuFCk",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 351652,
+     "views": 351885,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 351652,
+    "views": 351885,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -3462,18 +3356,10 @@
    "n_sources": 52,
    "videos": [
     {
-     "vid": "oqIDvzfAKBI",
-     "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
-     "channel": "Telemundo Entretenimiento",
-     "views": 647559,
-     "ago": "Transmitido hace 21 h",
-     "official": false
-    },
-    {
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 58744,
+     "views": 58860,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -3482,7 +3368,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 56588,
+     "views": 56925,
      "ago": "hace 21 h",
      "official": false
     },
@@ -3490,12 +3376,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 20084,
+     "views": 20142,
      "ago": "hace 22 h",
      "official": false
     }
    ],
-   "views_total": 782975,
+   "views_total": 135927,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3503,13 +3389,6 @@
      "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "via": "YouTube (miniatura)",
      "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
@@ -3725,6 +3604,13 @@
      "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
+     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
      "url": "https://i.ytimg.com/vi/WIOKI0QUq6U/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/WIOKI0QUq6U/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=WIOKI0QUq6U",
@@ -3811,7 +3697,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
      "platform": "Instagram"
     },
@@ -3831,26 +3717,26 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.instagram.com/reel/DgERYqdBFKD",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T22:38:05.431850+00:00",
+     "fetched": "2026-11-23T23:42:05.967087+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 351652,
+     "views": 351885,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 351652,
+    "views": 351885,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 263
+   "score": 230
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -3864,22 +3750,20 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T22:30:06.132272+00:00",
-   "start": "2026-11-22T15:42:00+00:00",
+   "start": "2026-11-23T13:52:00+00:00",
    "last_activity": "2026-11-23T13:52:00+00:00",
    "item_ids": [
     "18bf36ce1a9307",
     "7ee661eaccc797",
-    "c65ebe8be3071a",
-    "2c2c2109a438e7"
+    "c65ebe8be3071a"
    ],
    "sources": [
     "Business Insider Africa",
-    "El Nuevo Día",
     "Insider",
     "Yahoo"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3966,42 +3850,6 @@
      "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/wildest-national-costumes-2026-miss-215216257.html",
      "via": "Yahoo",
      "credit": "Yahoo"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/56KDSANYH5D53ASPEXVZB3HLEY.jpg?auth=2ac94a55edd4fdaf30778113437723b47919d31dc8fe95f7d4ec914279051eb0&quality=75&width=1200&height=717&focal=2986%2C2260",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf/page1-960px-12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4174,7 +4022,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 9
   },
   {
    "key": "t:mu:Entrevistas:2026-11-21",
@@ -4312,7 +4160,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4861,10 +4709,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "8cf0fc6990ed16",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "af3bd931fff94e",
@@ -4911,12 +4760,12 @@
     "5497dedd334f4f",
     "824c8e7759f0ce",
     "043435349654ca",
-    "bce972d2d689f3",
-    "2c2c2109a438e7"
+    "bce972d2d689f3"
    ],
    "sources": [
     "Artículo 66",
     "BellaNaija",
+    "BioBioChile",
     "Business Insider",
     "Business Insider Africa",
     "Caretas",
@@ -4924,7 +4773,6 @@
     "Diario Correo",
     "Diario Las Américas",
     "El Nacional",
-    "El Nuevo Día",
     "El Pitazo",
     "Fashion Times UK",
     "HOLA",
@@ -5175,7 +5023,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5224,7 +5072,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5273,7 +5121,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5504,7 +5352,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5553,7 +5401,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T23:34:05.822313+00:00",
+   "first_seen": "2026-11-23T23:42:05.967087+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
