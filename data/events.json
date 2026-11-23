@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T20:21:55.776793+00:00",
- "count": 25,
+ "updated": "2026-11-23T20:29:55.831254+00:00",
+ "count": 26,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -181,12 +181,13 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T10:33:00+00:00",
+   "start": "2026-11-22T11:00:00+00:00",
    "last_activity": "2026-11-23T20:02:14+00:00",
    "item_ids": [
     "37ce0ddfcdf2e3",
     "5599f34d92676c",
     "a4f0a47b53aa79",
+    "af3bd931fff94e",
     "5825312fd6cc63",
     "908700188452d3",
     "5fd8f5152b4b58",
@@ -302,8 +303,7 @@
     "e4152aab5aeb1d",
     "eb4f0fb1d45ba5",
     "dc19dad92c7699",
-    "7e819859201a8f",
-    "bf2d8c77fde412"
+    "7e819859201a8f"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -347,14 +347,14 @@
     "El Reporte Diario",
     "El Tiempo"
    ],
-   "n_items": 255,
-   "n_sources": 110,
+   "n_items": 254,
+   "n_sources": 109,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 641504,
+     "views": 641696,
      "ago": "Transmitido hace 18 h",
      "official": false
     },
@@ -371,7 +371,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 50434,
+     "views": 50576,
      "ago": "hace 17 h",
      "official": false
     },
@@ -379,12 +379,21 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17978,
-     "ago": "hace 18 h",
+     "views": 18081,
+     "ago": "hace 19 h",
      "official": false
+    },
+    {
+     "vid": "8fBUD_d-bVM",
+     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
+     "channel": "Telemundo Entretenimiento",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-23T19:25:03+00:00",
+     "official": true
     }
    ],
-   "views_total": 767748,
+   "views_total": 768185,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -392,6 +401,13 @@
      "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "via": "YouTube (miniatura)",
      "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
@@ -623,12 +639,6 @@
      "page": "https://www.elheraldo.co/sociedad/2026/11/23/asi-fue-el-vestido-de-gala-que-lucio-maria-alejandra-lopez-en-la-preliminar-de-miss-universo-2026/",
      "via": "El Heraldo",
      "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.lateja.cr/resizer/v2/Q2UKQXBA7FAL5NA4MEXZFDH7W4.jpg?smart=true&auth=f25a3d24bf84ed23cb7a9aadede1dc61ff192572cc9f30eb146657a831fe93ef&width=1440",
-     "page": "https://www.lateja.cr/farandula/directora-de-miss-universe-costa-rica-dijo-esto-de/JKDXBSWCIZATVD5WNNER2HTLVQ/story/",
-     "via": "La Teja",
-     "credit": "La Teja"
     }
    ],
    "social_urls": [
@@ -665,7 +675,7 @@
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:21:55.776793+00:00",
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "social": [
     {
      "fetched": "2026-11-23T19:41:55.367730+00:00",
@@ -683,7 +693,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
      "platform": "Instagram"
     },
@@ -698,7 +708,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/p/DgDwnUihOWn",
      "platform": "Instagram"
     },
@@ -708,7 +718,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/p/DgEDOC6JpDF",
      "platform": "Instagram"
     },
@@ -738,7 +748,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/p/DgEM596mDN9",
      "platform": "Instagram"
     },
@@ -763,7 +773,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
      "platform": "Instagram"
     },
@@ -808,7 +818,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
      "platform": "Instagram"
     },
@@ -824,7 +834,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 516
+   "score": 513
   },
   {
    "key": "seed:voto-top30",
@@ -1168,6 +1178,502 @@
    "score": 44
   },
   {
+   "key": "p:completa del desfile de traje",
+   "id": "p-completa-del-desfile-de-traje-f97b3",
+   "name": "Completa Del Desfile De Traje",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
+   "start": "2026-11-22T11:11:00+00:00",
+   "last_activity": "2026-11-23T19:25:03+00:00",
+   "item_ids": [
+    "af3bd931fff94e",
+    "5d415ffd8a1789",
+    "042e845d46aab7",
+    "8e6a423055992f",
+    "ad5321b491cf7d",
+    "95ffb0af381526",
+    "047149e3f9bb9f",
+    "a6e883a97a28db",
+    "4c9e28e405cc31",
+    "0c9820b5de0382",
+    "b7f73d6009c7d1",
+    "7696926936d8b3",
+    "72ec16076ef646",
+    "703909d5b23b18",
+    "8f84aebb548a6e",
+    "32ecd1243cc833",
+    "d1fa520e3a6c95",
+    "08f17075d21b2a",
+    "960cf70ff8c0c8",
+    "ed1a50e75b8703",
+    "01a6c68fdce28f",
+    "4b0a4d91aa16f1",
+    "40a1b5b181aaa1",
+    "a07005bdad1698",
+    "f7693b6a50cc70",
+    "638a96c9319ab6",
+    "0027e003184661",
+    "3d0aada931ca45",
+    "af9936c5afe6ab",
+    "cff533e8a305c1",
+    "1ab2b38d748028",
+    "44ddffc2be4895",
+    "394aff8d22ca20",
+    "c3c16477dfd968",
+    "58454fabedb264",
+    "180952a1762223",
+    "5c41de094d619f",
+    "b4ca7f00009885",
+    "68d979caf887c0",
+    "76754e4d0d6b0b",
+    "162cb71c11506e",
+    "3a17745f56d459",
+    "0f6247e885f159",
+    "5fba5e348a3149",
+    "996bcf2e5dd60c",
+    "5497dedd334f4f",
+    "824c8e7759f0ce",
+    "043435349654ca",
+    "bce972d2d689f3",
+    "8feba2e56f677b",
+    "ffaabc97ab634e",
+    "927113138f0453",
+    "379b52ef3b1b99",
+    "60abe616418766",
+    "0adf2732c078f9",
+    "af0c7271c83277",
+    "e55a80979b7430",
+    "3124945886ce0c",
+    "f631ec107ddd7e",
+    "c73076a7c6d516",
+    "eec3712ba2f5c1",
+    "1c72ab200f84fb",
+    "54d3d87cae6284",
+    "900e228555e525",
+    "ce79fabc2894dd",
+    "1c2523265058e0",
+    "291d2b925ebd6d",
+    "31359df2524f69",
+    "ab42a3f5cc81fa",
+    "cac031ece9e677",
+    "ad45e3c2c45244",
+    "c8b64ee087e28d",
+    "0855a5457d289f",
+    "ffefee5963145f"
+   ],
+   "sources": [
+    "ABS-CBN",
+    "Artículo 66",
+    "Caretas",
+    "Clx Icons",
+    "Diario AS",
+    "Diario Correo",
+    "Diario Las Américas",
+    "ELHERALDO.CO",
+    "EMOL",
+    "El Financiero",
+    "El Heraldo",
+    "El Informador",
+    "El Nacional",
+    "El Pitazo",
+    "El Reporte Diario",
+    "El Universal",
+    "En Cancha",
+    "FMDOS — La radio de los dos",
+    "Facebook",
+    "Fashion Times UK",
+    "HOLA",
+    "Infobae",
+    "Instagram",
+    "Interaksyon",
+    "Khaleej Times",
+    "Listín Diario",
+    "MARCA",
+    "Mega.cl",
+    "Metro.Style",
+    "Nueva Mujer on MSN",
+    "Outlook Luxe",
+    "Parade on MSN",
+    "Puranoticia.cl",
+    "RPP Noticias",
+    "Radio Corazón — La Número Uno",
+    "Radio Imagina",
+    "Roya News",
+    "Telemundo",
+    "Telemundo Houston",
+    "Telemundo San Diego"
+   ],
+   "n_items": 74,
+   "n_sources": 49,
+   "videos": [
+    {
+     "vid": "vYNjGtTAnww",
+     "title": "What You DIDN'T See at the Miss Universe 2026 National Costume Show!",
+     "channel": "Miss Universe",
+     "views": 75116,
+     "likes": 0,
+     "published": "2026-11-22T19:52:58+00:00",
+     "official": true
+    },
+    {
+     "vid": "8fBUD_d-bVM",
+     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
+     "channel": "Telemundo Entretenimiento",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-23T19:25:03+00:00",
+     "official": true
+    },
+    {
+     "vid": "UDILgaOsKGQ",
+     "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
+     "channel": "Miss Universe",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-22T19:57:38+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 75116,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/UDILgaOsKGQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/vYNjGtTAnww/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/vYNjGtTAnww/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=vYNjGtTAnww",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.sSYjv3BSq_0K8OJiLPmjxg&pid=News",
+     "page": "https://caretas.pe/ellosellas/luren-marquez-traje-tipico-ica-miss-universe-2026/",
+     "via": "Bing (miniatura)",
+     "credit": "Caretas"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/cdc4754b8c73a48cb65f49c6882bb24d39110cf43697a0d2b15e00ed3975cd64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F51456e724e3aecfc56c305a36730c009.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/3db413ffaa67b575abccd269b8fd023f3c20f8890fb660ac1819c7fcd7e02437/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F1d794fb06ba3cd682d98bc5fdb27f1db.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/5159fe9fb74ef687c2cf15c7b471fa1c4806a0a317a624b347321e915a79137a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F2b09ee1706729cd4a7caef441e4e112d.jpg",
+     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
+     "via": "Yahoo",
+     "credit": "Yahoo"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/d4aa13dc8e924e982fadad6f6b332544/adjuntos/216/imagenes/100/288/0100288862/1200x675/smart/miss-cuba-miss-universo-2026.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/861a6b640c4409fa68ffb448c702863f/adjuntos/216/imagenes/100/288/0100288862/855x0/smart/miss-cuba-miss-universo-2026.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/a26aa6764d3dbaa9782db550a1a81b80/adjuntos/216/imagenes/100/288/0100288845/116x65/smart/mia-dio-gala-preliminiar.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/aaf78051f4dd414f8abc71cdb26899b0/adjuntos/216/imagenes/100/288/0100288825/116x65/smart/mia-dio-gala-traje-tipico.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/87589066f5b68929f287eba02eba519e/adjuntos/216/imagenes/100/288/0100288621/afp__20261122__2306280780__v1__midres__intermiamicfvcolumbuscrewaudi2026mlscupplayof.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/bc862a1255c0e3bc351adb445639b58f/adjuntos/216/imagenes/100/286/0100286288/116x65/smart/netanyahu-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/cda591dc6446618963a08c3b2f034e7f/adjuntos/216/imagenes/100/250/0100250956/116x65/smart/aviones-cazas-eeuu-portaviones-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/436dcbeaa2a7732e67f7c54a8ad4fef3/adjuntos/216/imagenes/100/262/0100262752/corte-inmigracion-cola.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/46ffc88948508ccf2518441d220d1656/adjuntos/216/imagenes/100/275/0100275234/116x65/smart/afp__20260812__c4ja3ty__v1__highres__colombiaearthquakeaftermath-1.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/e656c38dee667b8aeef4056b81129082/adjuntos/216/imagenes/100/288/0100288854/855x0/smart/rescate-inundaciones-3.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-miss-cuba-exige-libertad-desfile-trajes-tipicos-n5405723",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://diariocorreo.pe/resizer/v2/2QTCED4NBZCQNAVGE5OBGE4MLQ.jpg?auth=86172397a856a8d49faa29a6faefac067f6e227e3de050e9011d712407efe93f&width=980&height=528&quality=75&smart=true",
+     "page": "https://diariocorreo.pe/edicion/ica/luren-marquez-deslumbro-en-el-miss-universe-2026-con-el-traje-tipico-oasis-de-ica-noticia/",
+     "via": "Diario Correo",
+     "credit": "Diario Correo"
+    },
+    {
+     "url": "https://diariocorreo.pe/resizer/v2/M23TJZMZQFD5RF7C4XKYNZ52QU.jpg?auth=d4690b7498f5642bd0db10b7501a25e7ffd3356630ce512ba8a1f910ac408476&width=914&height=1280&quality=75&smart=true",
+     "page": "https://diariocorreo.pe/edicion/ica/luren-marquez-deslumbro-en-el-miss-universe-2026-con-el-traje-tipico-oasis-de-ica-noticia/",
+     "via": "Diario Correo",
+     "credit": "Diario Correo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/1g0F-7M_1i0/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/1g0F-7M_1i0/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=1g0F-7M_1i0",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://static.emol.cl/emol50/Fotos/2026/11/23/file_20261123105046.jpg",
+     "page": "https://www.emol.com/noticias/Tendencias/2026/11/23/1217899/dominga-lopez-preliminares-miss-universo.html",
+     "via": "EMOL",
+     "credit": "EMOL"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/J2TD6CQCHREJBOKAPNV7KZS75I.jpg?smart=true&auth=6ce31154212585258018ee9b560b9941ded87b630ca5b26ec7ff28d7f24fc4e3&width=1200&height=630",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/5JCTHYLDJZD4LC775PHXHXIROM.jpg?smart=true&auth=1de779c79cf3dcae6ec5d4bce361ac99d4720cff7b2834e0ddb8eefffcef2db3&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/RLRMSBKOKRHN3OKR6OWIBM7YJ4.jpg?smart=true&auth=76d2dc4eb7134e6975ecbc29d646e3f2a76c0afe60c8baf9174f889f208a5c6a&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/VZ4O4WU45FGIFBT3NTZPQ7PIEI.png?smart=true&auth=3345093f66f56e1a12673d42887144eb08c8217d2021ba60f7834ce4efa8623a&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/3PRC72Q3W5C3BGC3VNMGEXT3EA.jpg?smart=true&auth=c083ca1422740277144bfd93963033f718514da44ecdb2b64868a3700d36dfa6&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/A6PKYVV7UNFERNFNVQUOBQQO6E.jpg?smart=true&auth=d755cebf4cd1be3f55c324a5cd9be0df1e14c3dc5fb9a3045d259111d0aa0ee5&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/OESH7ZXBHNA2XNTH2N72DXV6GQ.png?smart=true&auth=fc79c8e5d587cdd10318a851fdb98c1f819b1a90728ad77fbad2974bf2d2dbb7&width=800&height=450",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/MFRV2NHMUZBDXDD4VNYQIATVL4.jpg?smart=true&auth=ecf9471a195b00cc02eec210fef4bf442569c3b3b3b05480d3b4a7846f9f8db2&width=200&height=112&quality=85",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://www.elfinanciero.com.mx/resizer/v2/3P525AQTXJEW3IV4RDXMVPI3NA.jpg?smart=true&auth=9bd51c0b7c8c0d31d73c6945c98843827f9e4a603f067d17a94c833d215f916c&width=200&height=112&quality=85",
+     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
+     "via": "El Financiero",
+     "credit": "El Financiero"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/mwlZ5XoFe8g/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=mwlZ5XoFe8g",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Miss Universe"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/22/304430_1932039.jpg?width=1200&quality=85",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
+     "via": "RPP Noticias",
+     "credit": "RPP Noticias"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/22/1932040miss-peru-1.jpg?width=860&quality=80",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
+     "via": "RPP Noticias",
+     "credit": "RPP Noticias"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DROs-XZE8xP",
+    "https://www.instagram.com/p/Der2h_iik-E",
+    "https://www.instagram.com/p/DgBjvDYGwJw",
+    "https://www.instagram.com/p/DgBtx8oO79V",
+    "https://www.instagram.com/p/DgEIGmQiHTf",
+    "https://www.instagram.com/reel/DgBjrnONHIw",
+    "https://www.instagram.com/reel/DgBtx8oO79V",
+    "https://www.instagram.com/reel/DgEAJykzVMe",
+    "https://www.youtube.com/watch?v=2rMpxV9aOoc",
+    "https://www.youtube.com/watch?v=S_RA3e_Cjro",
+    "https://www.youtube.com/watch?v=sH1MV7WNoYs"
+   ],
+   "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
+   "extra_images": [],
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.instagram.com/p/DROs-XZE8xP",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.instagram.com/p/Der2h_iik-E",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.instagram.com/p/DgBjvDYGwJw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.instagram.com/p/DgBtx8oO79V",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "url": "https://www.instagram.com/p/DgEIGmQiHTf",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:49:56.298723+00:00",
+     "url": "https://www.instagram.com/reel/DgBjrnONHIw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.instagram.com/reel/DgBtx8oO79V",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "url": "https://www.instagram.com/reel/DgEAJykzVMe",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:57:55.897359+00:00",
+     "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
+     "platform": "YouTube",
+     "error": "HTTP Error 429: Too Many Requests",
+     "thumb": "https://i.ytimg.com/vi/2rMpxV9aOoc/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
+     "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 178
+  },
+  {
    "key": "t:mi:Preliminar:2026-11-21",
    "id": "t-mi-preliminar-2026-11-21-6e035",
    "name": "Preliminar · 21–23 nov",
@@ -1398,13 +1904,11 @@
    "name": "National Costume Pre Show",
    "contest": "mu",
    "kind": "oficial",
-   "labels": [
-    "Trajes típicos"
-   ],
+   "labels": [],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T10:31:00+00:00",
+   "start": "2026-11-22T11:11:00+00:00",
    "last_activity": "2026-11-23T19:00:00+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -1479,8 +1983,7 @@
     "ad45e3c2c45244",
     "c8b64ee087e28d",
     "0855a5457d289f",
-    "ffefee5963145f",
-    "cdfd1871238c0f"
+    "ffefee5963145f"
    ],
    "sources": [
     "ABS-CBN",
@@ -1524,8 +2027,8 @@
     "Telemundo Houston",
     "Telemundo San Diego"
    ],
-   "n_items": 74,
-   "n_sources": 50,
+   "n_items": 73,
+   "n_sources": 49,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
@@ -1872,7 +2375,7 @@
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
@@ -1884,7 +2387,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 180
+   "score": 177
   },
   {
    "key": "t:mu:Desfile de moda:2026-11-21",
@@ -1898,22 +2401,20 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T16:45:55.885166+00:00",
-   "start": "2026-11-22T10:53:00+00:00",
+   "start": "2026-11-23T02:23:56+00:00",
    "last_activity": "2026-11-23T18:12:17+00:00",
    "item_ids": [
     "7a844ffbab0ed8",
     "7696926936d8b3",
-    "4001eec22d42c5",
-    "5c76270f7b4afd"
+    "4001eec22d42c5"
    ],
    "sources": [
     "Digg",
     "Facebook",
-    "Philstar Life",
     "Yahoo"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1984,18 +2485,6 @@
      "credit": "Yahoo"
     },
     {
-     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%20-%201200x630-200kb.jpeg",
-     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
-     "via": "Philstar Life",
-     "credit": "Philstar Life"
-    },
-    {
-     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%2023-%201200x630.png",
-     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
-     "via": "Philstar Life",
-     "credit": "Philstar Life"
-    },
-    {
      "url": "https://cdn.content.tuigroup.com/adamtui/2016_9/23_2/6e5a8069-03ea-4574-852f-a68a00267373/LZR_PDC_9127WebOriginalCompressed.jpg?i10c=img.resize(width:1080);img.crop(width:1080%2Cheight:608)",
      "page": "https://www.tuiholidays.ie/f/attraction/Lanzarote/Go-rockpooling-on-Matagorda-Beach-999266",
      "via": "Bing Imágenes",
@@ -2022,7 +2511,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 9
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-21",
@@ -2294,12 +2783,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 50434,
+     "views": 50576,
      "ago": "hace 17 h",
      "official": false
     }
    ],
-   "views_total": 50434,
+   "views_total": 50576,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -2557,7 +3046,7 @@
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:21:55.776793+00:00",
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "social": [
     {
      "fetched": "2026-11-23T19:57:55.897359+00:00",
@@ -2565,7 +3054,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/p/DgDwnUihOWn",
      "platform": "Instagram"
     },
@@ -2575,7 +3064,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
      "platform": "Instagram"
     },
@@ -2585,26 +3074,26 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgERYqdBFKD",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgEcIzbuFCk",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 350719,
+     "views": 351048,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 350719,
+    "views": 351048,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -2794,7 +3283,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 641504,
+     "views": 641696,
      "ago": "Transmitido hace 18 h",
      "official": false
     },
@@ -2811,7 +3300,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 50434,
+     "views": 50576,
      "ago": "hace 17 h",
      "official": false
     },
@@ -2819,12 +3308,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17978,
-     "ago": "hace 18 h",
+     "views": 18081,
+     "ago": "hace 19 h",
      "official": false
     }
    ],
-   "views_total": 767748,
+   "views_total": 768185,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3140,7 +3629,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
      "platform": "Instagram"
     },
@@ -3160,21 +3649,21 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.instagram.com/reel/DgERYqdBFKD",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:25:56.096202+00:00",
+     "fetched": "2026-11-23T20:29:55.831254+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 350719,
+     "views": 351048,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 350719,
+    "views": 351048,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -3380,33 +3869,19 @@
     "40d7c490d1262f",
     "361023dbd1f3f5",
     "594e8ff7ddbdc5",
-    "88cd1de7085527",
-    "5c76270f7b4afd"
+    "88cd1de7085527"
    ],
    "sources": [
     "CRÍTICA",
     "Facebook",
     "Mega.cl",
-    "Philstar Life",
     "SunStar Publishing Inc."
    ],
-   "n_items": 6,
-   "n_sources": 5,
+   "n_items": 5,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%20-%201200x630-200kb.jpeg",
-     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
-     "via": "Philstar Life",
-     "credit": "Philstar Life"
-    },
-    {
-     "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%2023-%201200x630.png",
-     "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
-     "via": "Philstar Life",
-     "credit": "Philstar Life"
-    },
     {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
@@ -3462,7 +3937,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 19
+   "score": 16
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -3473,10 +3948,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
+    "af3bd931fff94e",
     "5825312fd6cc63",
     "908700188452d3",
     "5fd8f5152b4b58",
@@ -3595,8 +4071,7 @@
     "e2ec3460ae049f",
     "6f49bb2803b263",
     "248df28afe8d69",
-    "25a927cf98776b",
-    "d572e7fd2fe52d"
+    "25a927cf98776b"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -3661,7 +4136,6 @@
     "N+",
     "N+ Noticias",
     "Panamá América",
-    "Philstar Life",
     "Prensa Libre",
     "Primera Hora",
     "Página 7",
@@ -3687,8 +4161,8 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 198,
-   "n_sources": 87,
+   "n_items": 197,
+   "n_sources": 86,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3846,7 +4320,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 375
+   "score": 372
   },
   {
    "key": "p:one unforgettable night",
@@ -4214,7 +4688,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:21:55.776793+00:00",
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4233,10 +4707,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "af3bd931fff94e",
     "5d415ffd8a1789",
     "042e845d46aab7",
     "8e6a423055992f",
@@ -4338,7 +4813,7 @@
     "lanoticiadebarinas",
     "m360.cl"
    ],
-   "n_items": 59,
+   "n_items": 60,
    "n_sources": 39,
    "videos": [],
    "views_total": 0,
@@ -4553,7 +5028,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 140
+   "score": 141
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4564,7 +5039,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4577,7 +5052,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:21:55.776793+00:00",
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4597,7 +5072,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4828,7 +5303,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4837,209 +5312,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://thumbs.dreamstime.com/b/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-174003623.jpg",
-     "page": "https://www.dreamstime.com/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-image174003623",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-_W7q9WFEmVt3SlPk9TsDwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/f0030374/800wm/F0030374-Rod_shaped_bacillus_bacteria.jpg",
-     "page": "https://www.sciencephoto.com/media/206305/view",
-     "via": "Bing Imágenes",
-     "credit": "sciencephoto.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.L6dQYswQqqaIV4dm3GMU0QHaFV&pid=15.1"
-    },
-    {
-     "url": "https://as2.ftcdn.net/jpg/03/34/13/23/1000_F_334132370_M3msUvH5Vl7PDl3mLk3FOaRKKgnbEtHR.jpg",
-     "page": "https://stock.adobe.com/in/images/rod-shaped-bacteria-morphology-arrangements-of-bacilli-single-bacillus-diplobacillus-streptobacillus-palisades-microbiology-vector-illustration-in-flat-style-isolated-over-white-background/334132370",
-     "via": "Bing Imágenes",
-     "credit": "stock.adobe.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-n1dSsSsh5-gVjfjTYalQwHaFj&pid=15.1"
-    },
-    {
-     "url": "https://www.datocms-assets.com/75080/1695143410-bacillus.jpg",
-     "page": "https://www.brewingindustryguide.com/bacillus-mostly-harmless-until-it-s-not",
-     "via": "Bing Imágenes",
-     "credit": "brewingindustryguide.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.tRBffEE5UUiRSBVnaxc9LgHaD2&pid=15.1"
-    },
-    {
-     "url": "http://images.fineartamerica.com/images-medium-large/bacillus-subtilis-bacteria-sem-steve-gschmeissner.jpg",
-     "page": "https://lookfordiagnosis.com/mesh_info.php?term=bacillus+subtilis&lang=4",
-     "via": "Bing Imágenes",
-     "credit": "lookfordiagnosis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.S6QxCuZYMDWF0hiuN5ZuvQHaFv&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/c0435825/800wm/C0435825-Bacillus_subtilis,_SEM.jpg",
-     "page": "https://edu.einblicke-altenburg.de/bacillus-subtilis-medium-bacillus-subtilis-wofur-ist-das-bakterium-gut/",
-     "via": "Bing Imágenes",
-     "credit": "edu.einblicke-altenburg.de",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.zTz9Ih-z53YR6Lw0J_gMsgHaGZ&pid=15.1"
-    },
-    {
-     "url": "https://trungtamthuoc.com/images/others/bacillus-111-4768.jpg",
-     "page": "https://trungtamthuoc.com/hoat-chat/bacillus",
-     "via": "Bing Imágenes",
-     "credit": "trungtamthuoc.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.u_XLBBCMFWlhUVkUQG-GeAHaGB&pid=15.1"
-    },
-    {
-     "url": "https://www.hygiena.com/_next/image?url=https:%2F%2Fcdn.bfldr.com%2FVZSMQ4LE%2Fat%2F99sfgfwfgj3q8jqg6fv84x%2FMibi_Art_-_Bacillus_01.jpg%3Fdrupal-image-style%3Dhero_image%26width%3D2400%26height%3D1600%26itok%3DuFySb8_8&w=3840&q=75",
-     "page": "https://www.hygiena.com/food-safety/pathogen-detection/bacillus",
-     "via": "Bing Imágenes",
-     "credit": "hygiena.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.5DcTBZB0vM9xgYOlZrDvtgHaE8&pid=15.1"
-    },
-    {
-     "url": "https://www.oercommons.org/editor/images/40889",
-     "page": "https://oercommons.org/courseware/lesson/89974/overview",
-     "via": "Bing Imágenes",
-     "credit": "oercommons.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.FUas9HxvN9OoKlOH8RbHdQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/z/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-174003628.jpg",
-     "page": "https://cartoondealer.com/image/174003623/bacillus-gram-positive-stain-under-microscope-view-bacillus-rod-shaped-bacteria.html",
-     "via": "Bing Imágenes",
-     "credit": "cartoondealer.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Sg-pd1-DFI3QT80sYcvBVQHaFW&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/c0082937/800wm/C0082937-Rod_shaped_bacteria.jpg",
-     "page": "https://kaos-antibakteri.blogspot.com/2023/04/bacillus-under-microscope.html",
-     "via": "Bing Imágenes",
-     "credit": "kaos-antibakteri.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.weFHdusbGOw4O23Z9mTX4AHaEy&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/BX53B0/rod-shaped-bacillus-bacteria-BX53B0.jpg",
-     "page": "https://www.alamy.com/stock-photo/bacillus-bacteria.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.nQbRRIT0oUcmM3Gkz1zfZwHaK_&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/9e/9e/61/9e9e613a7495c94231058f8e835c2394.jpg",
-     "page": "https://www.pinterest.es/pin/548102217131806964/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DoCIJ8n3w5fTN36-mHzC_wHaHJ&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/PR1RMX/bacillus-megaterium-bacterial-colony-coloured-scanning-electron-micrograph-sem-this-rod-shaped-gram-positive-bacteria-is-found-in-soil-it-is-one-of-the-biggest-bacterial-cells-measuring-up-to-four-micrometres-in-length-because-of-this-it-is-a-popular-organism-for-bacterial-research-magnification-x2000-when-printed-at-10-centimetres-wide-PR1RMX.jpg",
-     "page": "https://storage.googleapis.com/diyjoehradefhe/single-bacillus-bacteria-examples.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.AJVH9ZaE8GSvWvPMcv5mEgHaG2&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
-   "extra_images": [
-    {
-     "url": "https://thumbs.dreamstime.com/b/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-174003623.jpg",
-     "page": "https://www.dreamstime.com/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-image174003623",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-_W7q9WFEmVt3SlPk9TsDwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/f0030374/800wm/F0030374-Rod_shaped_bacillus_bacteria.jpg",
-     "page": "https://www.sciencephoto.com/media/206305/view",
-     "via": "Bing Imágenes",
-     "credit": "sciencephoto.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.L6dQYswQqqaIV4dm3GMU0QHaFV&pid=15.1"
-    },
-    {
-     "url": "https://as2.ftcdn.net/jpg/03/34/13/23/1000_F_334132370_M3msUvH5Vl7PDl3mLk3FOaRKKgnbEtHR.jpg",
-     "page": "https://stock.adobe.com/in/images/rod-shaped-bacteria-morphology-arrangements-of-bacilli-single-bacillus-diplobacillus-streptobacillus-palisades-microbiology-vector-illustration-in-flat-style-isolated-over-white-background/334132370",
-     "via": "Bing Imágenes",
-     "credit": "stock.adobe.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-n1dSsSsh5-gVjfjTYalQwHaFj&pid=15.1"
-    },
-    {
-     "url": "https://www.datocms-assets.com/75080/1695143410-bacillus.jpg",
-     "page": "https://www.brewingindustryguide.com/bacillus-mostly-harmless-until-it-s-not",
-     "via": "Bing Imágenes",
-     "credit": "brewingindustryguide.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.tRBffEE5UUiRSBVnaxc9LgHaD2&pid=15.1"
-    },
-    {
-     "url": "http://images.fineartamerica.com/images-medium-large/bacillus-subtilis-bacteria-sem-steve-gschmeissner.jpg",
-     "page": "https://lookfordiagnosis.com/mesh_info.php?term=bacillus+subtilis&lang=4",
-     "via": "Bing Imágenes",
-     "credit": "lookfordiagnosis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.S6QxCuZYMDWF0hiuN5ZuvQHaFv&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/c0435825/800wm/C0435825-Bacillus_subtilis,_SEM.jpg",
-     "page": "https://edu.einblicke-altenburg.de/bacillus-subtilis-medium-bacillus-subtilis-wofur-ist-das-bakterium-gut/",
-     "via": "Bing Imágenes",
-     "credit": "edu.einblicke-altenburg.de",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.zTz9Ih-z53YR6Lw0J_gMsgHaGZ&pid=15.1"
-    },
-    {
-     "url": "https://trungtamthuoc.com/images/others/bacillus-111-4768.jpg",
-     "page": "https://trungtamthuoc.com/hoat-chat/bacillus",
-     "via": "Bing Imágenes",
-     "credit": "trungtamthuoc.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.u_XLBBCMFWlhUVkUQG-GeAHaGB&pid=15.1"
-    },
-    {
-     "url": "https://www.hygiena.com/_next/image?url=https:%2F%2Fcdn.bfldr.com%2FVZSMQ4LE%2Fat%2F99sfgfwfgj3q8jqg6fv84x%2FMibi_Art_-_Bacillus_01.jpg%3Fdrupal-image-style%3Dhero_image%26width%3D2400%26height%3D1600%26itok%3DuFySb8_8&w=3840&q=75",
-     "page": "https://www.hygiena.com/food-safety/pathogen-detection/bacillus",
-     "via": "Bing Imágenes",
-     "credit": "hygiena.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.5DcTBZB0vM9xgYOlZrDvtgHaE8&pid=15.1"
-    },
-    {
-     "url": "https://www.oercommons.org/editor/images/40889",
-     "page": "https://oercommons.org/courseware/lesson/89974/overview",
-     "via": "Bing Imágenes",
-     "credit": "oercommons.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.FUas9HxvN9OoKlOH8RbHdQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/z/bacillus-gram-positive-stain-under-microscope-view-rod-shaped-bacteria-174003628.jpg",
-     "page": "https://cartoondealer.com/image/174003623/bacillus-gram-positive-stain-under-microscope-view-bacillus-rod-shaped-bacteria.html",
-     "via": "Bing Imágenes",
-     "credit": "cartoondealer.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Sg-pd1-DFI3QT80sYcvBVQHaFW&pid=15.1"
-    },
-    {
-     "url": "https://media.sciencephoto.com/image/c0082937/800wm/C0082937-Rod_shaped_bacteria.jpg",
-     "page": "https://kaos-antibakteri.blogspot.com/2023/04/bacillus-under-microscope.html",
-     "via": "Bing Imágenes",
-     "credit": "kaos-antibakteri.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.weFHdusbGOw4O23Z9mTX4AHaEy&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/BX53B0/rod-shaped-bacillus-bacteria-BX53B0.jpg",
-     "page": "https://www.alamy.com/stock-photo/bacillus-bacteria.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.nQbRRIT0oUcmM3Gkz1zfZwHaK_&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/9e/9e/61/9e9e613a7495c94231058f8e835c2394.jpg",
-     "page": "https://www.pinterest.es/pin/548102217131806964/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DoCIJ8n3w5fTN36-mHzC_wHaHJ&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/PR1RMX/bacillus-megaterium-bacterial-colony-coloured-scanning-electron-micrograph-sem-this-rod-shaped-gram-positive-bacteria-is-found-in-soil-it-is-one-of-the-biggest-bacterial-cells-measuring-up-to-four-micrometres-in-length-because-of-this-it-is-a-popular-organism-for-bacterial-research-magnification-x2000-when-printed-at-10-centimetres-wide-PR1RMX.jpg",
-     "page": "https://storage.googleapis.com/diyjoehradefhe/single-bacillus-bacteria-examples.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.AJVH9ZaE8GSvWvPMcv5mEgHaG2&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T17:25:55.517390+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5059,7 +5336,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5072,7 +5349,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:21:55.776793+00:00",
+   "extra_at": "2026-11-23T20:29:55.831254+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5092,7 +5369,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:21:55.776793+00:00",
+   "first_seen": "2026-11-23T20:29:55.831254+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
