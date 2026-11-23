@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T14:37:45.156760+00:00",
+ "run_at": "2026-11-23T14:45:44.630599+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 78,
+   "items": 100,
    "error": null
   },
   {
@@ -33,9 +33,9 @@
   },
   {
    "source": "Google News · Miss Universe national costume gown",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 53,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
@@ -58,19 +58,19 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 89,
+   "items": 51,
    "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
-   "ok": true,
-   "items": 53,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 40,
+   "items": 41,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 50,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 6,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 6,
+   "items": 11,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "3002 imágenes en el espejo"
+   "items": 1,
+   "error": "3003 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 238,
+   "items": 242,
    "error": null
   }
  ],
- "new_items": 872,
+ "new_items": 820,
  "total_items": 900
 }
