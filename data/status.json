@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T15:01:44.576888+00:00",
+ "run_at": "2026-11-23T15:09:44.836708+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -39,9 +39,9 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 43,
+   "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
@@ -51,9 +51,9 @@
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe hot picks",
@@ -64,20 +64,20 @@
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 0,
+   "items": 53,
    "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 41,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 28,
+   "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 18,
+   "items": 20,
    "error": null
   },
   {
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 0,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 11,
+   "items": 16,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 22,
+   "items": 18,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 242,
+   "items": 240,
    "error": null
   }
  ],
- "new_items": 638,
+ "new_items": 825,
  "total_items": 900
 }
