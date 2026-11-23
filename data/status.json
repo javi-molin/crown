@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T21:49:56.096361+00:00",
+ "run_at": "2026-11-23T21:58:05.652245+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,19 +16,19 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 74,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 80,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 42,
+   "items": 91,
    "error": null
   },
   {
@@ -58,19 +58,19 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 52,
+   "items": 51,
    "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 51,
    "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 43,
+   "items": 54,
    "error": null
   },
   {
@@ -82,31 +82,31 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 73,
+   "items": 35,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 50,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 62,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 46,
+   "items": 13,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 100,
+   "items": 101,
    "error": null
   },
   {
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 0,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 16,
+   "items": 14,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 14,
+   "items": 13,
    "error": null
   },
   {
@@ -213,9 +213,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": true,
-   "items": 11,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss International 2026 · en-US",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 5,
+   "items": 2,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 24,
+   "items": 25,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 11,
+   "items": 15,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -326,10 +332,10 @@
    "error": "0 menciones revisadas en esta vuelta; 90 organizaciones nacionales"
   },
   {
-   "source": "Galería · Bing por candidata (12/834 celdas)",
-   "ok": false,
-   "items": 4,
-   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
+   "source": "Galería · Bing por candidata (16/834 celdas)",
+   "ok": true,
+   "items": 23,
+   "error": null
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -359,7 +365,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1035,
-   "error": "92 candidatas · descartadas: 1119 fuera de fecha, 31 no habla de ella ni del concurso, 0 hashtag / no oficial, 34 promoción / votación / afiche"
+   "error": "92 candidatas · descartadas: 1118 fuera de fecha, 31 no habla de ella ni del concurso, 0 hashtag / no oficial, 34 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +398,6 @@
    "error": null
   }
  ],
- "new_items": 941,
+ "new_items": 1040,
  "total_items": 900
 }
