@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:01:55.909129+00:00",
+ "updated": "2026-11-23T19:09:55.628104+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -168,6 +168,231 @@
    "score": 3
   },
   {
+   "key": "t:mi:Preliminar:2026-11-21",
+   "id": "t-mi-preliminar-2026-11-21-6e035",
+   "name": "Preliminar · 21–23 nov",
+   "contest": "mi",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena",
+    "Preliminar",
+    "Traje de baño"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T08:37:35.181492+00:00",
+   "start": "2026-11-22T11:54:00+00:00",
+   "last_activity": "2026-11-23T19:03:56+00:00",
+   "item_ids": [
+    "e2f14a28cf3797",
+    "f32466ae9eafcc",
+    "1248bb05773853",
+    "d83808fb9ee33a",
+    "6d0219b7e5b8bb",
+    "f03da51c99b0be",
+    "e398cf429e8b0d",
+    "547efecefa0c2b",
+    "e4a0be13704476",
+    "18027defd9be68",
+    "ec9a64d042d06c",
+    "4612e7c0c4ef61",
+    "ccb7b271f24f6b",
+    "12bc0fcd01b9c4",
+    "2e5dde2e364052",
+    "0f6f736357c0cc",
+    "07baf1de3bb3bc",
+    "45c46996930f7e",
+    "50b632124d62bd",
+    "53c6100680d683"
+   ],
+   "sources": [
+    "24horas",
+    "Agencia de Periodismo Investigativo",
+    "Agencia de Periodismo Investigativo on MSN",
+    "DZRH",
+    "Facebook",
+    "GMA Network",
+    "Infobae",
+    "Instagram",
+    "Meridiano.net",
+    "PhilNews",
+    "Philstar Life",
+    "Página 7",
+    "dzrh"
+   ],
+   "n_items": 20,
+   "n_sources": 13,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://dzrh-bucket.s3.ap-southeast-1.amazonaws.com/featuredimage/2026/11/VflfvS3pfp7kuearcsffb.jpeg",
+     "page": "https://www.dzrh.com.ph/post/katrina-johnson-stuns-in-miss-international-2026-preliminary-competition",
+     "via": "dzrh",
+     "credit": "dzrh"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.BKTOVumqedIcDc9WMYRTxg&pid=News",
+     "page": "https://philstarlife.com/celebrity/333995-katrina-johnson-stuns-2026-miss-international-preliminary-swimsuit-competition",
+     "via": "Bing (miniatura)",
+     "credit": "Philstar Life"
+    },
+    {
+     "url": "https://www.agenciapi.co/sites/default/files/2026-11/Antes%20%2833%29.jpg",
+     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
+     "via": "Agencia de Periodismo Investigativo",
+     "credit": "Agencia de Periodismo Investigativo"
+    },
+    {
+     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_3.png",
+     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
+     "via": "Agencia de Periodismo Investigativo",
+     "credit": "Agencia de Periodismo Investigativo"
+    },
+    {
+     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_4.png",
+     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
+     "via": "Agencia de Periodismo Investigativo",
+     "credit": "Agencia de Periodismo Investigativo"
+    },
+    {
+     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_5.png",
+     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
+     "via": "Agencia de Periodismo Investigativo",
+     "credit": "Agencia de Periodismo Investigativo"
+    },
+    {
+     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_6.png",
+     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
+     "via": "Agencia de Periodismo Investigativo",
+     "credit": "Agencia de Periodismo Investigativo"
+    },
+    {
+     "url": "https://www.infobae.com/resizer/v2/ZZBTWXJ2KBFWNK4QYRXRNLHUBE.jpg?auth=f5239a71621309526deacc7063a4087cc482f43c438a04eb0d0644b1e0da11a0&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/colombia/2026/11/23/miss-universo-2026-maria-alejandra-lopez-impacto-con-su-vestido-de-gala-y-desfile-en-traje-de-bano/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DfypQVgmOl1",
+    "https://www.instagram.com/reel/DgE9dNvRE4c",
+    "https://www.instagram.com/reel/DgEsUDyx-nn"
+   ],
+   "image_query": "Miss International 2026 preliminary competition",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    }
+   ],
+   "extra_at": "2026-11-23T17:49:55.419036+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "url": "https://www.instagram.com/p/DfypQVgmOl1",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "url": "https://www.instagram.com/reel/DgE9dNvRE4c",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 46
+  },
+  {
    "key": "p:traje de gala en la preliminar",
    "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
    "name": "Traje De Gala En La Preliminar",
@@ -176,14 +401,13 @@
    "labels": [
     "Gala / cena",
     "Preliminar",
-    "Talento / reto",
     "Traje de baño",
     "Trajes típicos"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T06:51:00+00:00",
+   "start": "2026-11-22T07:02:00+00:00",
    "last_activity": "2026-11-23T18:27:53+00:00",
    "item_ids": [
     "37ce0ddfcdf2e3",
@@ -213,6 +437,7 @@
     "414536a7da32f5",
     "6a2afbd99d5336",
     "2fdcb820131df3",
+    "b2ef86e9afdce4",
     "e1d1fed2ae9244",
     "aa5ae68c14f17b",
     "519384f1110942",
@@ -304,8 +529,7 @@
     "9b0a7b5f991a59",
     "1368a97089cc67",
     "410cee405c3f23",
-    "7088487e42ef05",
-    "e2ec3460ae049f"
+    "7088487e42ef05"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -349,15 +573,15 @@
     "El Tiempo",
     "El Universal"
    ],
-   "n_items": 259,
-   "n_sources": 110,
+   "n_items": 258,
+   "n_sources": 109,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 639011,
-     "ago": "Transmitido hace 16 h",
+     "views": 639142,
+     "ago": "Transmitido hace 17 h",
      "official": false
     },
     {
@@ -373,7 +597,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 47871,
+     "views": 48052,
      "ago": "hace 16 h",
      "official": false
     },
@@ -381,12 +605,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17265,
+     "views": 17372,
      "ago": "hace 17 h",
      "official": false
     }
    ],
-   "views_total": 761534,
+   "views_total": 761953,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -417,15 +641,75 @@
      "credit": "Miss Universe"
     },
     {
+     "url": "https://www.laprensa.hn/binrepository/1600x1200/0c0/1600d1200/none/11004/NYLC/copia-de-1260-x-945-69_16210900_20261123124743.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/MRTM/copia-de-1260-x-945-69_16210900_20261123124743.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/RFTM/copia-de-1260-x-945-65_16211044_20261123124744.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/VTIV/our-delegates-are-owning-the-spotlig_16211046_20261123124746.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/MKTM/copia-de-1260-x-945-71_16211048_20261123124747.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1500/0c0/0d0/none/11004/EEAH/the-golden-seas-of-sulu-for-my-p_16211068_20261123124812.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/LLTM/copia-de-1260-x-945-72_16211079_20261123125350.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/IMTM/copia-de-1260-x-945-73_16211084_20261123125634.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x900/0c0/0d0/none/11004/JFTM/copia-de-1260-x-945-74_16211086_20261123125635.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/PBEC/the-gowns-are-gowning_16211090_20261123125638.jpg",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "LA PRENSA",
+     "credit": "LA PRENSA"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.F3jmq6La8t_KuOt7PHxWBQ&pid=News",
+     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
+     "via": "Bing (miniatura)",
+     "credit": "LA PRENSA"
+    },
+    {
      "url": "https://www.midiario.com/resizer/v2/O72Q3QCNTZDT5EWCYUQGPUDAEU.jpg?auth=bd1330bb2735260b59aff76828d1fd70b1c40407682873fd1ad8c6734d95af3a&width=1200",
      "page": "https://www.midiario.com/farandula/aqui-tambien-veo-a-una-reina-miss-panama-brilla-en-la-preliminar-de-miss-universo-y-revela-como-enfrenta-la-final/",
      "via": "Mi Diario",
-     "credit": "Mi Diario"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.T9PN_McfuEiEj-sk-YDJMw&pid=News",
-     "page": "https://www.midiario.com/farandula/aqui-tambien-veo-a-una-reina-miss-panama-brilla-en-la-preliminar-de-miss-universo-y-revela-como-enfrenta-la-final/",
-     "via": "Bing (miniatura)",
      "credit": "Mi Diario"
     },
     {
@@ -571,76 +855,12 @@
      "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
      "via": "El Informador",
      "credit": "El Informador"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/QSSBOPCP7NFOVC52GHJ5ZMZUJM.jpg?auth=54ef9026e049a35b75b5290cef5b411483fea1e58d60fd9ed9e54b2438c10132&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/peru/2026/11/23/luren-marquez-en-la-preliminar-del-miss-universo-2026-asi-fue-su-pasarela-en-traje-de-bano-y-gala/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/OcGCnT0G/poster.jpg?width=1280",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/9A7nyFOU/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/NJi3k2cV/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/6hUml74C/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/TwTb5LkM/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/q9RN62yl/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/EHyxIXpA/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/yxMiChQi/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://cdn.jwplayer.com/v2/media/GW98I9tE/poster.jpg?width=720",
-     "page": "https://www.infobae.com/video/entretenimiento/presentacion-de-luren-marquez-en-traje-de-gala-durante-la-preliminar-de-miss-universo-2026/OcGCnT0G/",
-     "via": "Infobae",
-     "credit": "Infobae"
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/CLkksdFBlzj",
     "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/Df-YqnMoF_o",
     "https://www.instagram.com/p/Df5yDxMGqRG",
-    "https://www.instagram.com/p/DfhRxYIGxXm",
     "https://www.instagram.com/p/DfqSNz2h9kH",
-    "https://www.instagram.com/p/DfxDIcpGwyF",
     "https://www.instagram.com/p/DgAh94aIPZL",
     "https://www.instagram.com/p/DgBYbVeICWR",
     "https://www.instagram.com/p/DgBjL7BhQOB",
@@ -662,8 +882,12 @@
     "https://www.instagram.com/reel/Df8LtJGPIr6",
     "https://www.instagram.com/reel/DgBaxf5MEzQ",
     "https://www.instagram.com/reel/DgBjrnONHIw",
-    "https://www.instagram.com/reel/DgBtmNJgdE7",
-    "https://www.instagram.com/reel/DgCHkNLzcr3"
+    "https://www.instagram.com/reel/DgCHkNLzcr3",
+    "https://www.instagram.com/reel/DgD-1alBslr",
+    "https://www.instagram.com/reel/DgD80ydM3gC",
+    "https://www.instagram.com/reel/DgD8rO3Bl3D",
+    "https://www.instagram.com/reel/DgD9ov-vIKs",
+    "https://www.instagram.com/reel/DgEAJykzVMe"
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
    "extra_images": [
@@ -699,18 +923,8 @@
    "extra_at": "2026-11-23T16:45:55.885166+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T18:45:55.913049+00:00",
-     "url": "https://www.instagram.com/p/CLkksdFBlzj",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T18:37:56.093368+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T18:45:55.913049+00:00",
-     "url": "https://www.instagram.com/p/Df-YqnMoF_o",
      "platform": "Instagram"
     },
     {
@@ -719,18 +933,8 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:45:55.913049+00:00",
-     "url": "https://www.instagram.com/p/DfhRxYIGxXm",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T18:21:56.091079+00:00",
      "url": "https://www.instagram.com/p/DfqSNz2h9kH",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T18:45:55.913049+00:00",
-     "url": "https://www.instagram.com/p/DfxDIcpGwyF",
      "platform": "Instagram"
     },
     {
@@ -764,7 +968,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/p/DgDaLjHt1cR",
      "platform": "Instagram"
     },
@@ -814,7 +1018,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/p/DgENzI1DKX2",
      "platform": "Instagram"
     },
@@ -839,13 +1043,33 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:45:55.913049+00:00",
-     "url": "https://www.instagram.com/reel/DgBtmNJgdE7",
+     "fetched": "2026-11-23T18:21:56.091079+00:00",
+     "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:21:56.091079+00:00",
-     "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
+     "fetched": "2026-11-23T18:13:55.439142+00:00",
+     "url": "https://www.instagram.com/reel/DgD-1alBslr",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
+     "url": "https://www.instagram.com/reel/DgD8rO3Bl3D",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
+     "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T18:37:56.093368+00:00",
+     "url": "https://www.instagram.com/reel/DgEAJykzVMe",
      "platform": "Instagram"
     }
    ],
@@ -855,7 +1079,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 520
+   "score": 517
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-21",
@@ -1023,7 +1247,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T06:52:00+00:00",
+   "start": "2026-11-22T07:08:00+00:00",
    "last_activity": "2026-11-23T16:22:08+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -1111,8 +1335,7 @@
     "0cb98abba8de4e",
     "90f5c9a1ea0c39",
     "9a15ce49c11270",
-    "8979d07a9c72a0",
-    "ed5464ac68fa61"
+    "8979d07a9c72a0"
    ],
    "sources": [
     "ABS-CBN",
@@ -1152,12 +1375,12 @@
     "Nueva Mujer on MSN",
     "Outlook Luxe",
     "Parade on MSN",
-    "Periódico elCaribe",
     "Philstar Life",
-    "Puranoticia.cl"
+    "Puranoticia.cl",
+    "RPP Noticias"
    ],
-   "n_items": 87,
-   "n_sources": 59,
+   "n_items": 86,
+   "n_sources": 58,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
@@ -1564,7 +1787,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 211
+   "score": 208
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -1691,12 +1914,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 47871,
+     "views": 48052,
      "ago": "hace 16 h",
      "official": false
     }
    ],
-   "views_total": 47871,
+   "views_total": 48052,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -2086,229 +2309,6 @@
     "shares": 0
    },
    "score": 151
-  },
-  {
-   "key": "t:mi:Preliminar:2026-11-21",
-   "id": "t-mi-preliminar-2026-11-21-6e035",
-   "name": "Preliminar · 21–23 nov",
-   "contest": "mi",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena",
-    "Preliminar",
-    "Traje de baño"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T08:37:35.181492+00:00",
-   "start": "2026-11-22T11:54:00+00:00",
-   "last_activity": "2026-11-23T15:15:45+00:00",
-   "item_ids": [
-    "f32466ae9eafcc",
-    "1248bb05773853",
-    "d83808fb9ee33a",
-    "6d0219b7e5b8bb",
-    "f03da51c99b0be",
-    "e398cf429e8b0d",
-    "547efecefa0c2b",
-    "e4a0be13704476",
-    "18027defd9be68",
-    "ec9a64d042d06c",
-    "4612e7c0c4ef61",
-    "ccb7b271f24f6b",
-    "12bc0fcd01b9c4",
-    "2e5dde2e364052",
-    "0f6f736357c0cc",
-    "07baf1de3bb3bc",
-    "45c46996930f7e",
-    "50b632124d62bd",
-    "53c6100680d683"
-   ],
-   "sources": [
-    "24horas",
-    "Agencia de Periodismo Investigativo",
-    "Agencia de Periodismo Investigativo on MSN",
-    "DZRH",
-    "Facebook",
-    "GMA Network",
-    "Infobae",
-    "Instagram",
-    "PhilNews",
-    "Philstar Life",
-    "Página 7",
-    "dzrh"
-   ],
-   "n_items": 19,
-   "n_sources": 12,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://dzrh-bucket.s3.ap-southeast-1.amazonaws.com/featuredimage/2026/11/VflfvS3pfp7kuearcsffb.jpeg",
-     "page": "https://www.dzrh.com.ph/post/katrina-johnson-stuns-in-miss-international-2026-preliminary-competition",
-     "via": "dzrh",
-     "credit": "dzrh"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.BKTOVumqedIcDc9WMYRTxg&pid=News",
-     "page": "https://philstarlife.com/celebrity/333995-katrina-johnson-stuns-2026-miss-international-preliminary-swimsuit-competition",
-     "via": "Bing (miniatura)",
-     "credit": "Philstar Life"
-    },
-    {
-     "url": "https://www.agenciapi.co/sites/default/files/2026-11/Antes%20%2833%29.jpg",
-     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
-     "via": "Agencia de Periodismo Investigativo",
-     "credit": "Agencia de Periodismo Investigativo"
-    },
-    {
-     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_3.png",
-     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
-     "via": "Agencia de Periodismo Investigativo",
-     "credit": "Agencia de Periodismo Investigativo"
-    },
-    {
-     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_4.png",
-     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
-     "via": "Agencia de Periodismo Investigativo",
-     "credit": "Agencia de Periodismo Investigativo"
-    },
-    {
-     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_5.png",
-     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
-     "via": "Agencia de Periodismo Investigativo",
-     "credit": "Agencia de Periodismo Investigativo"
-    },
-    {
-     "url": "https://www.agenciapi.co/sites/default/files/inline-images/Screenshot_6.png",
-     "page": "https://www.agenciapi.co/noticia/entretenimiento/miss-universo-2026-las-15-favoritas-la-corona-tras-el-desfile-en-traje-de-bano-y-gala",
-     "via": "Agencia de Periodismo Investigativo",
-     "credit": "Agencia de Periodismo Investigativo"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/ZZBTWXJ2KBFWNK4QYRXRNLHUBE.jpg?auth=f5239a71621309526deacc7063a4087cc482f43c438a04eb0d0644b1e0da11a0&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/colombia/2026/11/23/miss-universo-2026-maria-alejandra-lopez-impacto-con-su-vestido-de-gala-y-desfile-en-traje-de-bano/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DfypQVgmOl1",
-    "https://www.instagram.com/reel/DgE9dNvRE4c",
-    "https://www.instagram.com/reel/DgEsUDyx-nn"
-   ],
-   "image_query": "Miss International 2026 preliminary competition",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    }
-   ],
-   "extra_at": "2026-11-23T17:49:55.419036+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
-     "url": "https://www.instagram.com/p/DfypQVgmOl1",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
-     "url": "https://www.instagram.com/reel/DgE9dNvRE4c",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
-     "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 43
   },
   {
    "key": "seed:voto-top30",
@@ -2957,8 +2957,8 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 639011,
-     "ago": "Transmitido hace 16 h",
+     "views": 639142,
+     "ago": "Transmitido hace 17 h",
      "official": false
     },
     {
@@ -2974,7 +2974,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 47871,
+     "views": 48052,
      "ago": "hace 16 h",
      "official": false
     },
@@ -2982,12 +2982,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17265,
+     "views": 17372,
      "ago": "hace 17 h",
      "official": false
     }
    ],
-   "views_total": 761534,
+   "views_total": 761953,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3625,27 +3625,27 @@
    "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/reel/DgBb6WUTzd1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/reel/DgBeBhDxcwM",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/reel/DgBj6flR-7K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/reel/DgBxrv9O_YR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:05:56.534970+00:00",
+     "fetched": "2026-11-23T19:09:55.628104+00:00",
      "url": "https://www.instagram.com/reel/DgD2pewgMAa",
      "platform": "Instagram"
     }
@@ -3772,7 +3772,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3800,6 +3800,7 @@
     "414536a7da32f5",
     "6a2afbd99d5336",
     "2fdcb820131df3",
+    "b2ef86e9afdce4",
     "e1d1fed2ae9244",
     "aa5ae68c14f17b",
     "519384f1110942",
@@ -3894,8 +3895,7 @@
     "7332669d6fdcdb",
     "0de449ac61b0e8",
     "acf139abc71ee2",
-    "3c71988aef4e2e",
-    "8448a3cdfa5f64"
+    "3c71988aef4e2e"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -3987,7 +3987,7 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 199,
+   "n_items": 200,
    "n_sources": 88,
    "videos": [],
    "views_total": 0,
@@ -3995,7 +3995,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:01:55.909129+00:00",
+   "extra_at": "2026-11-23T19:09:55.628104+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4004,7 +4004,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 378
+   "score": 379
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -4468,7 +4468,7 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 5950,
+     "views": 5965,
      "likes": 23,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
@@ -4477,13 +4477,13 @@
      "vid": "Ab4MqXh-Gbc",
      "title": "The Grand Finale Is Almost Here! Unlock Coronation Night LIVE 👑 | Miss International 2026",
      "channel": "Miss International",
-     "views": 3451,
+     "views": 3456,
      "likes": 29,
      "published": "2026-11-21T10:00:07+00:00",
      "official": true
     }
    ],
-   "views_total": 9401,
+   "views_total": 9421,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -4503,7 +4503,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:01:55.909129+00:00",
+   "extra_at": "2026-11-23T19:09:55.628104+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4522,7 +4522,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4592,8 +4592,7 @@
     "a4ff2029e12d70",
     "ff8fbcba819b91",
     "648346840eda27",
-    "0cb98abba8de4e",
-    "ed5464ac68fa61"
+    "0cb98abba8de4e"
    ],
    "sources": [
     "Artículo 66",
@@ -4621,7 +4620,6 @@
     "News18",
     "Nueva Mujer on MSN",
     "Outlook Luxe",
-    "Periódico elCaribe",
     "Philstar Life",
     "Puranoticia.cl",
     "RPP Noticias",
@@ -4641,8 +4639,8 @@
     "lanoticiadebarinas",
     "m360.cl"
    ],
-   "n_items": 68,
-   "n_sources": 44,
+   "n_items": 67,
+   "n_sources": 43,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4856,7 +4854,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 159
+   "score": 156
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4867,7 +4865,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4880,7 +4878,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:01:55.909129+00:00",
+   "extra_at": "2026-11-23T19:09:55.628104+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4900,7 +4898,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5131,7 +5129,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5362,7 +5360,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5375,7 +5373,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:01:55.909129+00:00",
+   "extra_at": "2026-11-23T19:09:55.628104+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5395,7 +5393,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:01:55.909129+00:00",
+   "first_seen": "2026-11-23T19:09:55.628104+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
