@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:37:55.478158+00:00",
+ "updated": "2026-11-23T20:45:55.983358+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -181,7 +181,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T11:35:00+00:00",
+   "start": "2026-11-22T12:15:00+00:00",
    "last_activity": "2026-11-23T20:02:14+00:00",
    "item_ids": [
     "37ce0ddfcdf2e3",
@@ -212,6 +212,7 @@
     "09b5a883d49f15",
     "bf65617ec82716",
     "523498a4640634",
+    "b87d2644263aab",
     "23fd9d663a56b4",
     "4c89a4853ebce7",
     "414536a7da32f5",
@@ -234,6 +235,7 @@
     "4323f66acec0c8",
     "1c7b3fe4a98499",
     "31e95ee4d67b06",
+    "c8d8ff6c15f4d4",
     "23471bf7e2b521",
     "b4dd5557ea4983",
     "a72d88fe0350d8",
@@ -301,9 +303,7 @@
     "137fbc3934bc6f",
     "c30ebe70cdc9dd",
     "6c86531666a095",
-    "44f5a4b55ff1a0",
-    "e4152aab5aeb1d",
-    "eb4f0fb1d45ba5"
+    "44f5a4b55ff1a0"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -347,14 +347,14 @@
     "El Reporte Diario",
     "El Tiempo"
    ],
-   "n_items": 254,
-   "n_sources": 109,
+   "n_items": 256,
+   "n_sources": 110,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 642050,
+     "views": 642456,
      "ago": "Transmitido hace 18 h",
      "official": false
     },
@@ -371,7 +371,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 51023,
+     "views": 51445,
      "ago": "hace 18 h",
      "official": false
     },
@@ -379,7 +379,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 18137,
+     "views": 18283,
      "ago": "hace 19 h",
      "official": false
     },
@@ -393,7 +393,7 @@
      "official": true
     }
    ],
-   "views_total": 769125,
+   "views_total": 770099,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -431,6 +431,18 @@
      "credit": "Miss Universe"
     },
     {
+     "url": "https://www.lapatria.com/sites/default/files/styles/opengraph_1200x630/public/noticia/2026-11/senorita-colombia.jpg?itok=cA4kgguO",
+     "page": "https://www.lapatria.com/entretenimiento/del-eje-cafetero-miss-universo-maria-alejandra-lopez-la-colombiana-que-deslumbra-en",
+     "via": "La Patria",
+     "credit": "La Patria"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.0CZM7IbZt-vVnoy_xmWAqw&pid=News",
+     "page": "https://www.lapatria.com/entretenimiento/del-eje-cafetero-miss-universo-maria-alejandra-lopez-la-colombiana-que-deslumbra-en",
+     "via": "Bing (miniatura)",
+     "credit": "La Patria"
+    },
+    {
      "url": "https://www.elnuevodia.com/resizer/v2/JKFWVQHCTNCLFH7R2NYQ3BV76E.JPG?auth=79eae10e7bf062780065011647e306fe847196c1d007850ca84992149c90d288&quality=75&width=1200&height=717&focal=2480%2C736",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
      "via": "El Nuevo Día",
@@ -464,12 +476,6 @@
      "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
      "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.IvQiORDYT03dpkjCRL6ZOw&pid=News",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
-     "via": "Bing (miniatura)",
      "credit": "El Nuevo Día"
     },
     {
@@ -633,12 +639,6 @@
      "page": "https://www.elheraldo.hn/entretenimiento/luisa-pineda-agradece-a-honduras-tras-preliminar-de-miss-universo-OE32724569",
      "via": "El Heraldo",
      "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/GFYY/petro-x-suspender-cuenta_16208580_20261123085639.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/luisa-pineda-agradece-a-honduras-tras-preliminar-de-miss-universo-OE32724569",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
@@ -647,38 +647,38 @@
     "https://www.instagram.com/p/DgBjvDYGwJw",
     "https://www.instagram.com/p/DgByE_sERl8",
     "https://www.instagram.com/p/DgDXsLdEStB",
+    "https://www.instagram.com/p/DgD_xMljUCc",
     "https://www.instagram.com/p/DgDaLjHt1cR",
     "https://www.instagram.com/p/DgDwnUihOWn",
+    "https://www.instagram.com/p/DgECLicjQOA",
     "https://www.instagram.com/p/DgEDDh5hhAv",
     "https://www.instagram.com/p/DgEDOC6JpDF",
     "https://www.instagram.com/p/DgEIGmQiHTf",
     "https://www.instagram.com/p/DgEJTChMTrl",
     "https://www.instagram.com/p/DgEJmU_hd3d",
     "https://www.instagram.com/p/DgELcfUmVzt",
+    "https://www.instagram.com/p/DgELpxHje4O",
     "https://www.instagram.com/p/DgELtRyhp7_",
     "https://www.instagram.com/p/DgEM596mDN9",
+    "https://www.instagram.com/p/DgEMwqLjRYi",
     "https://www.instagram.com/p/DgENzI1DKX2",
+    "https://www.instagram.com/p/DgEQq96DdQ4",
+    "https://www.instagram.com/p/DgEkkGrEUpM",
     "https://www.instagram.com/p/DgEqKEjB77H",
-    "https://www.instagram.com/reel/Df8LtJGPIr6",
-    "https://www.instagram.com/reel/DgBaxf5MEzQ",
     "https://www.instagram.com/reel/DgCHkNLzcr3",
     "https://www.instagram.com/reel/DgD-1alBslr",
     "https://www.instagram.com/reel/DgD80ydM3gC",
     "https://www.instagram.com/reel/DgD8rO3Bl3D",
     "https://www.instagram.com/reel/DgD9ov-vIKs",
     "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.instagram.com/reel/DgEAfisxCAp",
-    "https://www.instagram.com/reel/DgEBhS1MTs-",
-    "https://www.instagram.com/reel/DgEEC0qPpN1",
-    "https://www.instagram.com/reel/DgEFgVxBRdL",
-    "https://www.instagram.com/reel/DgEFmBxvajg"
+    "https://www.instagram.com/reel/DgEAfisxCAp"
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
      "platform": "Instagram"
     },
@@ -698,8 +698,13 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgDXsLdEStB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgD_xMljUCc",
      "platform": "Instagram"
     },
     {
@@ -713,7 +718,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgECLicjQOA",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEDDh5hhAv",
      "platform": "Instagram"
     },
@@ -723,12 +733,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEIGmQiHTf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEJTChMTrl",
      "platform": "Instagram"
     },
@@ -738,12 +748,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgELcfUmVzt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgELpxHje4O",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgELtRyhp7_",
      "platform": "Instagram"
     },
@@ -753,23 +768,28 @@
      "platform": "Instagram"
     },
     {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-23T20:13:56.172419+00:00",
      "url": "https://www.instagram.com/p/DgENzI1DKX2",
      "platform": "Instagram"
     },
     {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
+     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-23T19:57:55.897359+00:00",
      "url": "https://www.instagram.com/p/DgEqKEjB77H",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T20:21:55.776793+00:00",
-     "url": "https://www.instagram.com/reel/Df8LtJGPIr6",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T19:57:55.897359+00:00",
-     "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
     {
@@ -798,33 +818,13 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/reel/DgEAJykzVMe",
      "platform": "Instagram"
     },
     {
      "fetched": "2026-11-23T19:57:55.897359+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T20:37:55.478158+00:00",
-     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T20:21:55.776793+00:00",
-     "url": "https://www.instagram.com/reel/DgEEC0qPpN1",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T20:29:55.831254+00:00",
-     "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T20:21:55.776793+00:00",
-     "url": "https://www.instagram.com/reel/DgEFmBxvajg",
      "platform": "Instagram"
     }
    ],
@@ -834,7 +834,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 513
+   "score": 517
   },
   {
    "key": "seed:voto-top30",
@@ -1136,7 +1136,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
      "platform": "Instagram"
     },
@@ -1191,7 +1191,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-22T11:23:14+00:00",
+   "start": "2026-11-22T11:40:12+00:00",
    "last_activity": "2026-11-23T19:25:03+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -1261,12 +1261,7 @@
     "ce79fabc2894dd",
     "1c2523265058e0",
     "291d2b925ebd6d",
-    "31359df2524f69",
-    "ab42a3f5cc81fa",
-    "cac031ece9e677",
-    "ad45e3c2c45244",
-    "c8b64ee087e28d",
-    "0855a5457d289f"
+    "31359df2524f69"
    ],
    "sources": [
     "ABS-CBN",
@@ -1285,7 +1280,6 @@
     "El Pitazo",
     "El Reporte Diario",
     "El Universal",
-    "En Cancha",
     "FMDOS — La radio de los dos",
     "Facebook",
     "Fashion Times UK",
@@ -1298,7 +1292,6 @@
     "MARCA",
     "Mega.cl",
     "Metro.Style",
-    "Nueva Mujer on MSN",
     "Outlook Luxe",
     "Parade on MSN",
     "Puranoticia.cl",
@@ -1308,10 +1301,12 @@
     "Roya News",
     "Telemundo",
     "Telemundo Houston",
-    "Telemundo San Diego"
+    "Telemundo San Diego",
+    "The Indian Express",
+    "UnoTV on MSN"
    ],
-   "n_items": 73,
-   "n_sources": 49,
+   "n_items": 68,
+   "n_sources": 46,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
@@ -1596,7 +1591,6 @@
     "https://www.instagram.com/p/DgEIGmQiHTf",
     "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.youtube.com/watch?v=2rMpxV9aOoc",
     "https://www.youtube.com/watch?v=S_RA3e_Cjro",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
@@ -1719,7 +1713,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEIGmQiHTf",
      "platform": "Instagram"
     },
@@ -1729,19 +1723,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/reel/DgEAJykzVMe",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:57:55.897359+00:00",
-     "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
-     "platform": "YouTube",
-     "error": "HTTP Error 429: Too Many Requests",
-     "thumb": "https://i.ytimg.com/vi/2rMpxV9aOoc/hqdefault.jpg"
-    },
-    {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
@@ -1759,7 +1746,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 177
+   "score": 166
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -1996,7 +1983,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T11:23:14+00:00",
+   "start": "2026-11-22T11:40:12+00:00",
    "last_activity": "2026-11-23T19:00:00+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -2065,12 +2052,7 @@
     "ce79fabc2894dd",
     "1c2523265058e0",
     "291d2b925ebd6d",
-    "31359df2524f69",
-    "ab42a3f5cc81fa",
-    "cac031ece9e677",
-    "ad45e3c2c45244",
-    "c8b64ee087e28d",
-    "0855a5457d289f"
+    "31359df2524f69"
    ],
    "sources": [
     "ABS-CBN",
@@ -2089,7 +2071,6 @@
     "El Pitazo",
     "El Reporte Diario",
     "El Universal",
-    "En Cancha",
     "FMDOS — La radio de los dos",
     "Facebook",
     "Fashion Times UK",
@@ -2102,7 +2083,6 @@
     "MARCA",
     "Mega.cl",
     "Metro.Style",
-    "Nueva Mujer on MSN",
     "Outlook Luxe",
     "Parade on MSN",
     "Puranoticia.cl",
@@ -2112,10 +2092,12 @@
     "Roya News",
     "Telemundo",
     "Telemundo Houston",
-    "Telemundo San Diego"
+    "Telemundo San Diego",
+    "The Indian Express",
+    "UnoTV on MSN"
    ],
-   "n_items": 72,
-   "n_sources": 49,
+   "n_items": 67,
+   "n_sources": 46,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
@@ -2390,7 +2372,6 @@
     "https://www.instagram.com/p/DgEIGmQiHTf",
     "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.youtube.com/watch?v=2rMpxV9aOoc",
     "https://www.youtube.com/watch?v=S_RA3e_Cjro",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
@@ -2422,7 +2403,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEIGmQiHTf",
      "platform": "Instagram"
     },
@@ -2432,19 +2413,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/reel/DgEAJykzVMe",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:57:55.897359+00:00",
-     "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
-     "platform": "YouTube",
-     "error": "HTTP Error 429: Too Many Requests",
-     "thumb": "https://i.ytimg.com/vi/2rMpxV9aOoc/hqdefault.jpg"
-    },
-    {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
@@ -2462,7 +2436,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 176
+   "score": 165
   },
   {
    "key": "t:mu:Desfile de moda:2026-11-21",
@@ -2729,7 +2703,7 @@
    "extra_at": "2026-11-23T20:37:55.478158+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/reel/Dcp4YykJiHR",
      "platform": "Instagram"
     }
@@ -2858,12 +2832,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 51023,
+     "views": 51445,
      "ago": "hace 18 h",
      "official": false
     }
    ],
-   "views_total": 51023,
+   "views_total": 51445,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3121,7 +3095,7 @@
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "social": [
     {
      "fetched": "2026-11-23T19:57:55.897359+00:00",
@@ -3358,7 +3332,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 642050,
+     "views": 642456,
      "ago": "Transmitido hace 18 h",
      "official": false
     },
@@ -3375,7 +3349,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 51023,
+     "views": 51445,
      "ago": "hace 18 h",
      "official": false
     },
@@ -3383,12 +3357,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 18137,
+     "views": 18283,
      "ago": "hace 19 h",
      "official": false
     }
    ],
-   "views_total": 769125,
+   "views_total": 770099,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3679,7 +3653,7 @@
    "extra_at": "2026-11-23T18:05:56.534970+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/p/DgEIGmQiHTf",
      "platform": "Instagram"
     },
@@ -3689,7 +3663,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T19:41:55.367730+00:00",
+     "fetched": "2026-11-23T20:45:55.983358+00:00",
      "url": "https://www.instagram.com/reel/DgEAJykzVMe",
      "platform": "Instagram"
     },
@@ -4023,7 +3997,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4071,6 +4045,7 @@
     "4323f66acec0c8",
     "1c7b3fe4a98499",
     "31e95ee4d67b06",
+    "c8d8ff6c15f4d4",
     "b4dd5557ea4983",
     "a72d88fe0350d8",
     "1fff5245cd4b43",
@@ -4145,8 +4120,7 @@
     "410cee405c3f23",
     "7088487e42ef05",
     "e2ec3460ae049f",
-    "6f49bb2803b263",
-    "248df28afe8d69"
+    "6f49bb2803b263"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -4232,12 +4206,11 @@
     "YouTube · Telemundo Entretenimiento",
     "analizamaule.cl",
     "mexico",
-    "minuto60",
     "wapa.tv",
     "www.laprensa.hn"
    ],
    "n_items": 196,
-   "n_sources": 86,
+   "n_sources": 85,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4395,7 +4368,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 371
+   "score": 369
   },
   {
    "key": "p:one unforgettable night",
@@ -4491,209 +4464,11 @@
    "n_sources": 1,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "http://4.bp.blogspot.com/-4HKW3zVbR9U/UBqr7j76TKI/AAAAAAAAUjQ/swW5NyEOSJo/s1600/Mapa+de+Colombia+(10).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0QmcaEB1nMy3--20PIpqfwHaIp&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/mapa-politico-detallado-colombia_509477-1869.jpg",
-     "page": "https://www.freepik.es/vector-premium/mapa-politico-detallado-colombia_328986989.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-IZGlo-3t9E4JN7MVRrZeQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.mapsofindia.com/world-map/colombia/colombia-departments-and-capital-map.jpg",
-     "page": "https://map.jace.org.uk/printable-map-of-colombia",
-     "via": "Bing Imágenes",
-     "credit": "map.jace.org.uk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UZphUOVDEALHpnalIbiRQQHaKi&pid=15.1"
-    },
-    {
-     "url": "https://lh3.googleusercontent.com/-Dm2uIjef5rM/TXPnJctm83I/AAAAAAAACbw/Qyl2lf3ZpGk/s1600/mapa-politico-colombia.jpg",
-     "page": "https://elantroposofista.blogspot.com/2011/03/todos-los-mapas-de-colombia-online.html",
-     "via": "Bing Imágenes",
-     "credit": "elantroposofista.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.1xYnvR71eBSxC100AJyFKwHaKY&pid=15.1"
-    },
-    {
-     "url": "https://www.mapas-del-mundo.net/mapas/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001.jpg",
-     "page": "https://www.mapas-del-mundo.net/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001",
-     "via": "Bing Imágenes",
-     "credit": "mapas-del-mundo.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y85vgsiTZSMFLZiyaSbaNAHaIz&pid=15.1"
-    },
-    {
-     "url": "http://4.bp.blogspot.com/-ZBuehxWWAZo/UBqr5h01vII/AAAAAAAAUjA/ynl-9EjpjrQ/s1600/Mapa+de+Colombia+(1).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ktY5yRItltNEgGkkl1loAQHaKY&pid=15.1"
-    },
-    {
-     "url": "https://ontheworldmap.com/es/colombia/mapa-de-colombia.jpg",
-     "page": "https://ontheworldmap.com/es/colombia/",
-     "via": "Bing Imágenes",
-     "credit": "ontheworldmap.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hywYhWTs3WWa4XYm-RfN_wHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://www.burningcompass.com/countries/colombia/maps/mapa-del-departamento-de-colombia.jpg",
-     "page": "https://www.burningcompass.com/countries/colombia/mapa-del-departamento-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "burningcompass.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cvHbIyjMzUgwXm-5LJWKwAHaI2&pid=15.1"
-    },
-    {
-     "url": "http://2.bp.blogspot.com/-m_tVn9XNDeM/UBqsGLaYHSI/AAAAAAAAUlA/Nv1MW3u9NP0/s1600/Mapa+de+Colombia+(6).jpg",
-     "page": "https://www.lahistoriaconmapas.com/atlas/maps-bing/croquis-del-mapa-politico-de-colombia.htm",
-     "via": "Bing Imágenes",
-     "credit": "lahistoriaconmapas.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G3MlzdLiT9Neojd9UjHX1wHaJv&pid=15.1"
-    },
-    {
-     "url": "https://st.depositphotos.com/2353733/54426/v/1600/depositphotos_544263040-stock-illustration-colorful-colombia-political-map-clearly.jpg",
-     "page": "https://depositphotos.com/es/vector/colorful-colombia-political-map-clearly-labeled-separated-layers-vector-illustration-544263040.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.IPKuGS7PbIeu63QGfghASAHaJo&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/f6/8a/40/f68a40ac17e8a01ca5aee00508cfdaf8.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/mapa-colombia-dibujo/945311293104/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.6O7L3VtQDOEt2-GBOS7LEwHaIl&pid=15.1"
-    },
-    {
-     "url": "https://st3.depositphotos.com/5183619/18077/v/1600/depositphotos_180773348-stock-illustration-colombia-map-and-flag-detailed.jpg",
-     "page": "https://depositphotos.com/es/vector/colombia-map-and-flag-detailed-vector-illustration-180773348.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.s6DIjS1cxoXj3leiV0pDngHaKX&pid=15.1"
-    },
-    {
-     "url": "https://3.bp.blogspot.com/-BAvNLrUjNMs/VQkujDtHJNI/AAAAAAABBlI/3FJT_AjVaw8/s1600/COLOMBIA%2B(COLOMBIA)1.jpg",
-     "page": "https://hispanopress.blogspot.com/2015/04/colombia-mapas-geograficos-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "hispanopress.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.a48GHboRoA1wVIOQgIumPgHaJY&pid=15.1"
-    },
-    {
-     "url": "https://cdn.dislexiatips.com/imagenes/mapa-politico-interactivo-colombia.png",
-     "page": "https://juegos.dislexiatips.com/2021/09/mapa-politico-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "juegos.dislexiatips.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpyUY_mSCbbm32uXmuRP_gHaJk&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [
-    {
-     "url": "http://4.bp.blogspot.com/-4HKW3zVbR9U/UBqr7j76TKI/AAAAAAAAUjQ/swW5NyEOSJo/s1600/Mapa+de+Colombia+(10).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0QmcaEB1nMy3--20PIpqfwHaIp&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/mapa-politico-detallado-colombia_509477-1869.jpg",
-     "page": "https://www.freepik.es/vector-premium/mapa-politico-detallado-colombia_328986989.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-IZGlo-3t9E4JN7MVRrZeQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.mapsofindia.com/world-map/colombia/colombia-departments-and-capital-map.jpg",
-     "page": "https://map.jace.org.uk/printable-map-of-colombia",
-     "via": "Bing Imágenes",
-     "credit": "map.jace.org.uk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UZphUOVDEALHpnalIbiRQQHaKi&pid=15.1"
-    },
-    {
-     "url": "https://lh3.googleusercontent.com/-Dm2uIjef5rM/TXPnJctm83I/AAAAAAAACbw/Qyl2lf3ZpGk/s1600/mapa-politico-colombia.jpg",
-     "page": "https://elantroposofista.blogspot.com/2011/03/todos-los-mapas-de-colombia-online.html",
-     "via": "Bing Imágenes",
-     "credit": "elantroposofista.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.1xYnvR71eBSxC100AJyFKwHaKY&pid=15.1"
-    },
-    {
-     "url": "https://www.mapas-del-mundo.net/mapas/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001.jpg",
-     "page": "https://www.mapas-del-mundo.net/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001",
-     "via": "Bing Imágenes",
-     "credit": "mapas-del-mundo.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y85vgsiTZSMFLZiyaSbaNAHaIz&pid=15.1"
-    },
-    {
-     "url": "http://4.bp.blogspot.com/-ZBuehxWWAZo/UBqr5h01vII/AAAAAAAAUjA/ynl-9EjpjrQ/s1600/Mapa+de+Colombia+(1).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ktY5yRItltNEgGkkl1loAQHaKY&pid=15.1"
-    },
-    {
-     "url": "https://ontheworldmap.com/es/colombia/mapa-de-colombia.jpg",
-     "page": "https://ontheworldmap.com/es/colombia/",
-     "via": "Bing Imágenes",
-     "credit": "ontheworldmap.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hywYhWTs3WWa4XYm-RfN_wHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://www.burningcompass.com/countries/colombia/maps/mapa-del-departamento-de-colombia.jpg",
-     "page": "https://www.burningcompass.com/countries/colombia/mapa-del-departamento-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "burningcompass.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cvHbIyjMzUgwXm-5LJWKwAHaI2&pid=15.1"
-    },
-    {
-     "url": "http://2.bp.blogspot.com/-m_tVn9XNDeM/UBqsGLaYHSI/AAAAAAAAUlA/Nv1MW3u9NP0/s1600/Mapa+de+Colombia+(6).jpg",
-     "page": "https://www.lahistoriaconmapas.com/atlas/maps-bing/croquis-del-mapa-politico-de-colombia.htm",
-     "via": "Bing Imágenes",
-     "credit": "lahistoriaconmapas.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G3MlzdLiT9Neojd9UjHX1wHaJv&pid=15.1"
-    },
-    {
-     "url": "https://st.depositphotos.com/2353733/54426/v/1600/depositphotos_544263040-stock-illustration-colorful-colombia-political-map-clearly.jpg",
-     "page": "https://depositphotos.com/es/vector/colorful-colombia-political-map-clearly-labeled-separated-layers-vector-illustration-544263040.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.IPKuGS7PbIeu63QGfghASAHaJo&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/f6/8a/40/f68a40ac17e8a01ca5aee00508cfdaf8.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/mapa-colombia-dibujo/945311293104/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.6O7L3VtQDOEt2-GBOS7LEwHaIl&pid=15.1"
-    },
-    {
-     "url": "https://st3.depositphotos.com/5183619/18077/v/1600/depositphotos_180773348-stock-illustration-colombia-map-and-flag-detailed.jpg",
-     "page": "https://depositphotos.com/es/vector/colombia-map-and-flag-detailed-vector-illustration-180773348.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.s6DIjS1cxoXj3leiV0pDngHaKX&pid=15.1"
-    },
-    {
-     "url": "https://3.bp.blogspot.com/-BAvNLrUjNMs/VQkujDtHJNI/AAAAAAABBlI/3FJT_AjVaw8/s1600/COLOMBIA%2B(COLOMBIA)1.jpg",
-     "page": "https://hispanopress.blogspot.com/2015/04/colombia-mapas-geograficos-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "hispanopress.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.a48GHboRoA1wVIOQgIumPgHaJY&pid=15.1"
-    },
-    {
-     "url": "https://cdn.dislexiatips.com/imagenes/mapa-politico-interactivo-colombia.png",
-     "page": "https://juegos.dislexiatips.com/2021/09/mapa-politico-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "juegos.dislexiatips.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpyUY_mSCbbm32uXmuRP_gHaJk&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T17:41:56.354637+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4712,7 +4487,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4770,11 +4545,7 @@
     "ce79fabc2894dd",
     "1c2523265058e0",
     "291d2b925ebd6d",
-    "31359df2524f69",
-    "ab42a3f5cc81fa",
-    "cac031ece9e677",
-    "c8b64ee087e28d",
-    "0855a5457d289f"
+    "31359df2524f69"
    ],
    "sources": [
     "Artículo 66",
@@ -4787,7 +4558,6 @@
     "El Nacional",
     "El Nuevo Día",
     "El Pitazo",
-    "En Cancha",
     "FMDOS — La radio de los dos",
     "Facebook",
     "Fashion Times UK",
@@ -4799,7 +4569,6 @@
     "Mega.cl",
     "Metro.Style",
     "News18",
-    "Nueva Mujer on MSN",
     "Outlook Luxe",
     "Puranoticia.cl",
     "RPP Noticias",
@@ -4809,7 +4578,6 @@
     "Telemundo",
     "Telemundo Houston",
     "Telemundo San Diego",
-    "The Filipino Times",
     "UnoTV on MSN",
     "Yahoo",
     "YouTube · Miss Universe",
@@ -4817,8 +4585,8 @@
     "lanoticiadebarinas",
     "m360.cl"
    ],
-   "n_items": 59,
-   "n_sources": 39,
+   "n_items": 55,
+   "n_sources": 36,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5032,7 +4800,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 140
+   "score": 130
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5043,7 +4811,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5056,7 +4824,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5076,7 +4844,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5307,7 +5075,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5320,7 +5088,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5340,7 +5108,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5353,7 +5121,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T20:37:55.478158+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5373,7 +5141,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T20:37:55.478158+00:00",
+   "first_seen": "2026-11-23T20:45:55.983358+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
@@ -5472,7 +5240,7 @@
      "credit": "ADenisse-WMF"
     }
    ],
-   "extra_at": "2026-11-23T17:41:56.354637+00:00",
+   "extra_at": "2026-11-23T20:45:55.983358+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
