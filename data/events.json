@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23T21:58:05.652245+00:00",
- "count": 25,
+ "updated": "2026-11-23T22:06:05.519566+00:00",
+ "count": 24,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -189,6 +189,7 @@
     "042e845d46aab7",
     "8e6a423055992f",
     "ad5321b491cf7d",
+    "2a2e123a153b9c",
     "95ffb0af381526",
     "b6a1459cc49516",
     "047149e3f9bb9f",
@@ -196,6 +197,7 @@
     "4c9e28e405cc31",
     "0c9820b5de0382",
     "b7f73d6009c7d1",
+    "022674c258f7d9",
     "7696926936d8b3",
     "72ec16076ef646",
     "703909d5b23b18",
@@ -278,7 +280,9 @@
     "Listín Diario",
     "MARCA",
     "Mega.cl",
+    "Meridiano.net",
     "Metro.Style",
+    "News18",
     "Outlook Luxe",
     "Panamá América",
     "Parade on MSN",
@@ -287,12 +291,10 @@
     "Radio Corazón — La Número Uno",
     "Radio Imagina",
     "Roya News",
-    "Telemundo",
-    "Telemundo Houston",
-    "Telemundo San Diego"
+    "Telemundo"
    ],
-   "n_items": 66,
-   "n_sources": 46,
+   "n_items": 68,
+   "n_sources": 48,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
@@ -308,7 +310,7 @@
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 0,
-     "likes": 1,
+     "likes": 2,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     },
@@ -346,6 +348,24 @@
      "credit": "Miss Universe"
     },
     {
+     "url": "https://pxcdn.meridiano.net/112026/1795470314419.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/clara-vegas-traje-tipico-en-honor-al-clasico-mundial-entre-los-mejores-del-miss-universo-2026112317410",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795470314419.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/clara-vegas-traje-tipico-en-honor-al-clasico-mundial-entre-los-mejores-del-miss-universo-2026112317410",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.YMud0wp9oXzX8sEax7u4PA&pid=News",
+     "page": "https://meridiano.net/farandula/clara-vegas-traje-tipico-en-honor-al-clasico-mundial-entre-los-mejores-del-miss-universo-2026112317410",
+     "via": "Bing (miniatura)",
+     "credit": "Meridiano.net"
+    },
+    {
      "url": "https://www.eluniverso.com/resizer/v2/KOBYFVJKOJCLXG6Z5NEPTRPCGU.png?auth=e539d7bed23318b2fa5c82c619ffdd18a4928bebc1057e9eb027f7d5dbacc6a1&width=948&height=670&quality=75&smart=true",
      "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
      "via": "El Universo",
@@ -368,12 +388,6 @@
      "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
      "via": "El Universo",
      "credit": "El Universo"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.sSYjv3BSq_0K8OJiLPmjxg&pid=News",
-     "page": "https://caretas.pe/ellosellas/luren-marquez-traje-tipico-ica-miss-universe-2026/",
-     "via": "Bing (miniatura)",
-     "credit": "Caretas"
     },
     {
      "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
@@ -555,18 +569,6 @@
      "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
      "via": "El Financiero",
      "credit": "El Financiero"
-    },
-    {
-     "url": "https://www.elfinanciero.com.mx/resizer/v2/3PRC72Q3W5C3BGC3VNMGEXT3EA.jpg?smart=true&auth=c083ca1422740277144bfd93963033f718514da44ecdb2b64868a3700d36dfa6&width=800&height=450",
-     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
-     "via": "El Financiero",
-     "credit": "El Financiero"
-    },
-    {
-     "url": "https://www.elfinanciero.com.mx/resizer/v2/A6PKYVV7UNFERNFNVQUOBQQO6E.jpg?smart=true&auth=d755cebf4cd1be3f55c324a5cd9be0df1e14c3dc5fb9a3045d259111d0aa0ee5&width=800&height=450",
-     "page": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/23/vestido-de-miss-israel-causa-controversia-entre-el-publico-en-miss-universe-2026/",
-     "via": "El Financiero",
-     "credit": "El Financiero"
     }
    ],
    "social_urls": [
@@ -685,17 +687,17 @@
    "extra_at": "2026-11-23T20:37:55.478158+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DROs-XZE8xP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/Der2h_iik-E",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DgBtx8oO79V",
      "platform": "Instagram"
     },
@@ -705,7 +707,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/reel/DgBtx8oO79V",
      "platform": "Instagram"
     },
@@ -743,7 +745,389 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 164
+   "score": 170
+  },
+  {
+   "key": "seed:voto-top30",
+   "id": "voto-top30",
+   "name": "Voto del público: pase directo al Top 30",
+   "contest": "mu",
+   "kind": "campaña oficial",
+   "labels": [
+    "Votación"
+   ],
+   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
+   "refs": [
+    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
+   ],
+   "first_seen": "2026-11-19T01:48:18.895698+00:00",
+   "start": "2026-10-16",
+   "last_activity": "2026-11-23T21:44:00+00:00",
+   "item_ids": [
+    "9695f941000ed7",
+    "45f6f34e7caa72",
+    "c8e3c0d21e015b",
+    "6ecdf2fd4cf2f1",
+    "00a77aa09fb693",
+    "7443600d3b5410",
+    "4e158d75dfbba2",
+    "9019d706d27434",
+    "9daa64e5c29e05",
+    "c88074d4c76f20",
+    "062866eab54b1c",
+    "571d7fc488f0b4",
+    "bdc26ac3591482",
+    "4e5d9ea6a35501",
+    "5e01d0a616cd9e",
+    "c4715d0c0b1d69",
+    "6518b92aa5234c",
+    "ec9fc97d023ced",
+    "3e751bdc913761",
+    "1e5c47f5a4305d",
+    "27e791243c5c31",
+    "a8f9224cef6e3c",
+    "2e657256f76835"
+   ],
+   "sources": [
+    "BioBioChile",
+    "Diario El Centro",
+    "Diario El Día",
+    "El Comercio",
+    "El Comercio Perú",
+    "En Cancha",
+    "Infobae",
+    "MARCA",
+    "Minuto60",
+    "Noticias Caracol",
+    "Publimetro",
+    "Revista Semana",
+    "Semana",
+    "Semana on MSN",
+    "Telediario México on MSN",
+    "Teletrece",
+    "minuto60"
+   ],
+   "n_items": 23,
+   "n_sources": 17,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.infobae.com/resizer/v2/C5RDEWMA3JDYDFUQWH43RZVC4Y.jpeg?auth=bcf9fdda6a0c7d4eba04d5a33bf769d1fce71a4c625a53c48e4532048a0be708&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.F963jizVUb4OSFneCrK-sg&pid=News",
+     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
+     "via": "Bing (miniatura)",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://www.semana.com/resizer/v2/V3QTO5WUZFBJ7MFFNLZUU6BDOM.jpg?auth=bf098c6848a4273bf692b6361f1734578746206349478adbb322c8d1c8d1db3a&smart=true&quality=75&width=1280&height=720",
+     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
+     "via": "Semana",
+     "credit": "Semana"
+    },
+    {
+     "url": "https://www.semana.com/resizer/v2/YIII52VK3FCOZEEFHFUSWWMLUA.jpg?smart=true&auth=717f8495810070e4027a1a60a497cdb67fb60f6ac7f482a88192e8631a140b8e&width=128&height=128",
+     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
+     "via": "Semana",
+     "credit": "Semana"
+    },
+    {
+     "url": "https://www.semana.com/resizer/v2/YN52SWPATJAFNCBHZMUVORSPC4.jpg?auth=b37d74365795c14da13aaa7b1b0b031f84ba4245eaaf6a6575093d746108579d&width=1280&height=720",
+     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
+     "via": "Semana",
+     "credit": "Semana"
+    },
+    {
+     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
+     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
+     "via": "Publimetro",
+     "credit": "Publimetro"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/lg.webp?_v=v3-38",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/md.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/md.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/00/2870009_5c41f7717ba754287cd5d00ac6f42a76dfd34d6a1e8c1a5fc3729093ab226fb0/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/91/2869101_14984290bb73040f75e2db8b30d73d4bac40e9df788a22149c9e36016cd225d7/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/79/2867988_83c4af57d7a1967c61f72abc8ccb792a9aade22d3f397b10afdf6efcb920dea9/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/66/2866605_bfb68b92b187b8acba38757dca21bc1c0cb5ebb1b34ec343dfe135db691e4a85/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/65/2866575_2f15a5d9999cf96ec745e6d8c41affa0d1310788b0e8d6ad605ee7a4c7c1d1bb/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872945_344a5648855d8252731a9b5f265147ef273ccb1327ae5286a5a511b9d4243711/xs.webp",
+     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
+     "via": "Diario El Día",
+     "credit": "Diario El Día"
+    },
+    {
+     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_twitter.jpg",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_350.webp",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://www.minuto60.com/_next/image?url=https%3A%2F%2Fd33tk5b80rpokn.cloudfront.net%2Fnoticias%2Fandres_botero.png&w=256&q=75",
+     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
+     "via": "minuto60",
+     "credit": "minuto60"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DHW0MWnRirP",
+    "https://www.instagram.com/p/DTyREPOD9-K",
+    "https://www.instagram.com/p/DVKENbNkafb",
+    "https://www.instagram.com/p/Da7QR7kCZcm",
+    "https://www.instagram.com/p/DcXRGLPM034",
+    "https://www.instagram.com/p/DcXa4EeN1mV",
+    "https://www.instagram.com/p/Dct5YGWDLvh",
+    "https://www.instagram.com/p/DeV3znYHASa",
+    "https://www.instagram.com/p/DeVnuB8Mh1c",
+    "https://www.instagram.com/p/DeWSnLvsRAI",
+    "https://www.instagram.com/p/DfirgglRWDt",
+    "https://www.instagram.com/reel/C922JzihsxJ",
+    "https://www.instagram.com/reel/DT07ca2jn_X"
+   ],
+   "image_query": "Miss Universe 2026 vote top 30",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-23T19:25:56.096202+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DHW0MWnRirP",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DTyREPOD9-K",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DVKENbNkafb",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/Da7QR7kCZcm",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DcXRGLPM034",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DcXa4EeN1mV",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T21:49:56.096361+00:00",
+     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DeV3znYHASa",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DeWSnLvsRAI",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/p/DfirgglRWDt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/reel/C922JzihsxJ",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
+     "url": "https://www.instagram.com/reel/DT07ca2jn_X",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 60
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -754,6 +1138,7 @@
    "labels": [
     "Gala / cena",
     "Preliminar",
+    "Talento / reto",
     "Traje de baño"
    ],
    "desc": null,
@@ -925,15 +1310,15 @@
     "El Reporte Diario",
     "El Universal"
    ],
-   "n_items": 256,
+   "n_items": 257,
    "n_sources": 111,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 644512,
-     "ago": "Transmitido hace 19 h",
+     "views": 644779,
+     "ago": "Transmitido hace 20 h",
      "official": false
     },
     {
@@ -949,7 +1334,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53510,
+     "views": 53835,
      "ago": "hace 19 h",
      "official": false
     },
@@ -957,7 +1342,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 18912,
+     "views": 19018,
      "ago": "hace 20 h",
      "official": false
     },
@@ -966,12 +1351,12 @@
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 0,
-     "likes": 1,
+     "likes": 2,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 775273,
+   "views_total": 775971,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1253,7 +1638,7 @@
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "social": [
     {
      "fetched": "2026-11-23T21:49:56.096361+00:00",
@@ -1266,7 +1651,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -1361,7 +1746,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DgEqKEjB77H",
      "platform": "Instagram"
     },
@@ -1396,7 +1781,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
      "platform": "Instagram"
     },
@@ -1412,387 +1797,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 519
-  },
-  {
-   "key": "seed:voto-top30",
-   "id": "voto-top30",
-   "name": "Voto del público: pase directo al Top 30",
-   "contest": "mu",
-   "kind": "campaña oficial",
-   "labels": [
-    "Votación"
-   ],
-   "desc": "La candidata más votada en missuniverseorg.com/vote o en la app MU Fan entra directo al Top 30. También se vota mejor traje típico, traje de baño y gala.",
-   "refs": [
-    "https://www.elnuevodia.com/entretenimiento/farandula/notas/miss-universe-abre-votaciones-para-seleccion-de-una-de-las-30-semifinalistas-asi-puedes-apoyar-a-tu-favorita/"
-   ],
-   "first_seen": "2026-11-19T01:48:18.895698+00:00",
-   "start": "2026-10-16",
-   "last_activity": "2026-11-23T21:00:00+00:00",
-   "item_ids": [
-    "9695f941000ed7",
-    "45f6f34e7caa72",
-    "c8e3c0d21e015b",
-    "6ecdf2fd4cf2f1",
-    "7443600d3b5410",
-    "4e158d75dfbba2",
-    "9019d706d27434",
-    "9daa64e5c29e05",
-    "c88074d4c76f20",
-    "062866eab54b1c",
-    "571d7fc488f0b4",
-    "bdc26ac3591482",
-    "4e5d9ea6a35501",
-    "5e01d0a616cd9e",
-    "c4715d0c0b1d69",
-    "6518b92aa5234c",
-    "ec9fc97d023ced",
-    "3e751bdc913761",
-    "1e5c47f5a4305d",
-    "27e791243c5c31",
-    "a8f9224cef6e3c",
-    "2e657256f76835"
-   ],
-   "sources": [
-    "BioBioChile",
-    "Diario El Centro",
-    "Diario El Día",
-    "El Comercio",
-    "El Comercio Perú",
-    "En Cancha",
-    "Infobae",
-    "MARCA",
-    "Minuto60",
-    "Noticias Caracol",
-    "Publimetro",
-    "Revista Semana",
-    "Semana",
-    "Semana on MSN",
-    "Telediario México on MSN",
-    "minuto60"
-   ],
-   "n_items": 22,
-   "n_sources": 16,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://www.infobae.com/resizer/v2/C5RDEWMA3JDYDFUQWH43RZVC4Y.jpeg?auth=bcf9fdda6a0c7d4eba04d5a33bf769d1fce71a4c625a53c48e4532048a0be708&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.F963jizVUb4OSFneCrK-sg&pid=News",
-     "page": "https://www.infobae.com/colombia/2026/11/23/como-votar-por-maria-alejandra-lopez-rumbo-a-miss-universo-2026-asi-puede-apoyar-a-la-representante-colombiana-de-forma-gratuita/",
-     "via": "Bing (miniatura)",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://www.semana.com/resizer/v2/V3QTO5WUZFBJ7MFFNLZUU6BDOM.jpg?auth=bf098c6848a4273bf692b6361f1734578746206349478adbb322c8d1c8d1db3a&smart=true&quality=75&width=1280&height=720",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
-    },
-    {
-     "url": "https://www.semana.com/resizer/v2/YIII52VK3FCOZEEFHFUSWWMLUA.jpg?smart=true&auth=717f8495810070e4027a1a60a497cdb67fb60f6ac7f482a88192e8631a140b8e&width=128&height=128",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
-    },
-    {
-     "url": "https://www.semana.com/resizer/v2/YN52SWPATJAFNCBHZMUVORSPC4.jpg?auth=b37d74365795c14da13aaa7b1b0b031f84ba4245eaaf6a6575093d746108579d&width=1280&height=720",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
-    },
-    {
-     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
-     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
-     "via": "Publimetro",
-     "credit": "Publimetro"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/lg.webp?_v=v3-38",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/md.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872961_c7f219890243fb60620adaa316469ae298b297950041a42470269d56260243a1/md.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/08/2870863_03cfdfe7d19781f7d1ee1709b4da71a50a921a535f2789c85288aeecfa01e197/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/00/2870009_5c41f7717ba754287cd5d00ac6f42a76dfd34d6a1e8c1a5fc3729093ab226fb0/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/91/2869101_14984290bb73040f75e2db8b30d73d4bac40e9df788a22149c9e36016cd225d7/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/79/2867988_83c4af57d7a1967c61f72abc8ccb792a9aade22d3f397b10afdf6efcb920dea9/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/66/2866605_bfb68b92b187b8acba38757dca21bc1c0cb5ebb1b34ec343dfe135db691e4a85/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/86/65/2866575_2f15a5d9999cf96ec745e6d8c41affa0d1310788b0e8d6ad605ee7a4c7c1d1bb/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://diarioeldia-s3.cdn.net.ar/s3i233/2026/11/diarioeldia/images/02/87/29/2872945_344a5648855d8252731a9b5f265147ef273ccb1327ae5286a5a511b9d4243711/xs.webp",
-     "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
-     "via": "Diario El Día",
-     "credit": "Diario El Día"
-    },
-    {
-     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_twitter.jpg",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://d33tk5b80rpokn.cloudfront.net/images/se-puede-pagar-por-maria-alejandra-lopez-en-miss-universo-2026-estas-son-las-tarifas-20261123-084401_20261123_084401_350.webp",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://www.minuto60.com/_next/image?url=https%3A%2F%2Fd33tk5b80rpokn.cloudfront.net%2Fnoticias%2Fandres_botero.png&w=256&q=75",
-     "page": "https://www.minuto60.com/entretenimiento-cultura/cuanto-vale-votar-maria-alejandra-lopez-miss-universo-2026/19427",
-     "via": "minuto60",
-     "credit": "minuto60"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DHW0MWnRirP",
-    "https://www.instagram.com/p/DTyREPOD9-K",
-    "https://www.instagram.com/p/DVKENbNkafb",
-    "https://www.instagram.com/p/Da7QR7kCZcm",
-    "https://www.instagram.com/p/DcXRGLPM034",
-    "https://www.instagram.com/p/DcXa4EeN1mV",
-    "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/DeV3znYHASa",
-    "https://www.instagram.com/p/DeVnuB8Mh1c",
-    "https://www.instagram.com/p/DeWSnLvsRAI",
-    "https://www.instagram.com/p/DfirgglRWDt",
-    "https://www.instagram.com/reel/C922JzihsxJ",
-    "https://www.instagram.com/reel/DT07ca2jn_X"
-   ],
-   "image_query": "Miss Universe 2026 vote top 30",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-23T19:25:56.096202+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DHW0MWnRirP",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DTyREPOD9-K",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DVKENbNkafb",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/Da7QR7kCZcm",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DcXRGLPM034",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DcXa4EeN1mV",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:49:56.096361+00:00",
-     "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DeV3znYHASa",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DeWSnLvsRAI",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/p/DfirgglRWDt",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/reel/C922JzihsxJ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
-     "url": "https://www.instagram.com/reel/DT07ca2jn_X",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 57
+   "score": 520
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -2394,17 +2399,17 @@
    "extra_at": "2026-11-23T19:57:55.897359+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DROs-XZE8xP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/Der2h_iik-E",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DgBtx8oO79V",
      "platform": "Instagram"
     },
@@ -2414,7 +2419,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/reel/DgBtx8oO79V",
      "platform": "Instagram"
     },
@@ -2538,12 +2543,209 @@
      "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
      "via": "Bing (miniatura)",
      "credit": "Yahoo"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/sadat12010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.vASBc5Q9ET60CA3Z2-8uhwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/tulsa001.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_2.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.gWVQ2Fg6MeBg23z_QrHyWQHaCx&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/sker2006.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_2.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Z-0_5w2pDYNftMoXtAI1OQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/oc2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.iCXrQb-Kv5iUe_QruDCDrgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/torpe_032x.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_3.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.6uAjTHsCS3Ytu8eiZtuR8gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/hek2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.2LLRhf8aZhM0p-MpkJFIzQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/eratik2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.Y7JciBnm3X5fKAlP6bmPCQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://preview.redd.it/redu-tulsa-oklahoma-graffiti-v0-uifffc1c0lhc1.jpeg?width=1080&crop=smart&auto=webp&s=963692792a9717ac69a90449ad6127b44faa010b",
+     "page": "https://www.reddit.com/r/GraffitiTagging/comments/1amr8wb/redu_tulsa_oklahoma_graffiti/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y1IcFcuyb0PBAvMrZQm3dQHaJ1&pid=15.1"
+    },
+    {
+     "url": "https://preview.redd.it/boost-tulsa-oklahoma-graffiti-v0-twtif3mcs3ic1.jpeg?width=1080&crop=smart&auto=webp&s=d9e9e029dc1ccf885fefa447535da14f90f3a038",
+     "page": "https://www.reddit.com/r/GraffitiTagging/comments/1aou3kl/boost_tulsa_oklahoma_graffiti/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.i7i8wBwWqfZYQD9acU7p2gHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/bowzr2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.xp-NPe8k9VftgDA1qivQwQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.redd.it/4ezoosbsc04c1.png",
+     "page": "https://www.reddit.com/r/Graffiti/comments/189lmqn/beca_yaxer_tulsa_ok/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.AjLTkyWLZHy2IupR1-TynAHaNn&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/bowzr_swank2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.OLGmZM3RW8AvdhXNgYT0TQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/graffiti-style-coop-ale-works-mural-unidentified-artist-habit-mural-festival-tulsa-oklahoma-pictured-graffiti-264266358.jpg",
+     "page": "https://www.dreamstime.com/graffiti-style-coop-ale-works-mural-unidentified-artist-habit-mural-festival-tulsa-oklahoma-pictured-graffiti-image264266358",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.CvpbNjknptsvuRv59bZeowHaFq&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/sker12010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tDUtd1vyFXtDe2jbLdSvkgHaFj&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 fashion show runway",
-   "extra_images": [],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
+   "extra_images": [
+    {
+     "url": "https://www.graffiti.org/tulsa/sadat12010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.vASBc5Q9ET60CA3Z2-8uhwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/tulsa001.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_2.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.gWVQ2Fg6MeBg23z_QrHyWQHaCx&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/sker2006.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_2.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Z-0_5w2pDYNftMoXtAI1OQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/oc2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.explicit.bing.net/th?id=OIP.iCXrQb-Kv5iUe_QruDCDrgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/torpe_032x.jpg",
+     "page": "https://www.graffiti.org/tulsa/tulsa_3.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.6uAjTHsCS3Ytu8eiZtuR8gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/hek2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.2LLRhf8aZhM0p-MpkJFIzQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/eratik2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.explicit.bing.net/th?id=OIP.Y7JciBnm3X5fKAlP6bmPCQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://preview.redd.it/redu-tulsa-oklahoma-graffiti-v0-uifffc1c0lhc1.jpeg?width=1080&crop=smart&auto=webp&s=963692792a9717ac69a90449ad6127b44faa010b",
+     "page": "https://www.reddit.com/r/GraffitiTagging/comments/1amr8wb/redu_tulsa_oklahoma_graffiti/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y1IcFcuyb0PBAvMrZQm3dQHaJ1&pid=15.1"
+    },
+    {
+     "url": "https://preview.redd.it/boost-tulsa-oklahoma-graffiti-v0-twtif3mcs3ic1.jpeg?width=1080&crop=smart&auto=webp&s=d9e9e029dc1ccf885fefa447535da14f90f3a038",
+     "page": "https://www.reddit.com/r/GraffitiTagging/comments/1aou3kl/boost_tulsa_oklahoma_graffiti/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.i7i8wBwWqfZYQD9acU7p2gHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/bowzr2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts2.explicit.bing.net/th?id=OIP.xp-NPe8k9VftgDA1qivQwQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.redd.it/4ezoosbsc04c1.png",
+     "page": "https://www.reddit.com/r/Graffiti/comments/189lmqn/beca_yaxer_tulsa_ok/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.AjLTkyWLZHy2IupR1-TynAHaNn&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/bowzr_swank2010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.OLGmZM3RW8AvdhXNgYT0TQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/z/graffiti-style-coop-ale-works-mural-unidentified-artist-habit-mural-festival-tulsa-oklahoma-pictured-graffiti-264266358.jpg",
+     "page": "https://www.dreamstime.com/graffiti-style-coop-ale-works-mural-unidentified-artist-habit-mural-festival-tulsa-oklahoma-pictured-graffiti-image264266358",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.CvpbNjknptsvuRv59bZeowHaFq&pid=15.1"
+    },
+    {
+     "url": "https://www.graffiti.org/tulsa/sker12010.jpg",
+     "page": "https://www.graffiti.org/tulsa/index.html",
+     "via": "Bing Imágenes",
+     "credit": "graffiti.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tDUtd1vyFXtDe2jbLdSvkgHaFj&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2819,12 +3021,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53510,
+     "views": 53835,
      "ago": "hace 19 h",
      "official": false
     }
    ],
-   "views_total": 53510,
+   "views_total": 53835,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3081,11 +3283,110 @@
     "https://www.youtube.com/watch?v=sqiMbXhYbNw"
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
+   "extra_images": [
+    {
+     "url": "https://http2.mlstatic.com/D_NQ_NP_863211-MLB82051395956_022025-O.webp",
+     "page": "https://www.mercadolivre.com.br/modulo-6es7321-1bl00-0aa0--entradas-digitais-simatic-siemens/up/MLBU3007729936",
+     "via": "Bing Imágenes",
+     "credit": "mercadolivre.com.br",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0Eby4PDuXxBK1Dii2c3xsQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://plgautomation.com/cdn/shop/files/5.webp?v=1774403194&width=533",
+     "page": "https://plgautomation.com/collections/siemens-plc-replacement-parts",
+     "via": "Bing Imágenes",
+     "credit": "plgautomation.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ADf3jKPGVoPfWLKoDtEecQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.amikong.com/fckeditfile/image/1774591062.jpg",
+     "page": "https://www.amikong.com/Siemens/Siemens-Simatic-S7/S7-300/6es7321-1bl00-0aa0",
+     "via": "Bing Imágenes",
+     "credit": "amikong.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.OqWaP4OSCwTCwsaZaK2R-wHaHa&pid=15.1"
+    },
+    {
+     "url": "https://images.kempstoncontrols.com/i/xlrg/b250e9f68bfd7ebb28ff473fd4f9627e.jpg",
+     "page": "https://www.kempstoncontrols.ie/6ES7321-1BL00-0AA0/Siemens/sku/2012910",
+     "via": "Bing Imágenes",
+     "credit": "kempstoncontrols.ie",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.V4kfKmMRMGDerGfZ6Wg1QAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://cdn.manomano.com/images/images_products/11017755/L/59129176_1.jpg",
+     "page": "https://www.manomano.es/p/mdulo-de-es-siemens-6es7321-1bl00-0aa0-simatic-s7-300-negro-40076537",
+     "via": "Bing Imágenes",
+     "credit": "manomano.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RE7VfZeaqhHpd5xOtLzUXgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://http2.mlstatic.com/D_NQ_NP_844662-MLB78074175674_082024-O.webp",
+     "page": "https://www.mercadolivre.com.br/modulo-siemens-original-6es73211bl000aa0-novo/up/MLBU1979199963",
+     "via": "Bing Imágenes",
+     "credit": "mercadolivre.com.br",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.7Gwn3w56xDOkW2d5Cix25QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://http2.mlstatic.com/D_NQ_NP_964653-MLB74082879450_012024-O.webp",
+     "page": "https://www.mercadolivre.com.br/modulo-simatic-6es73211bl000aa0-32-ent-dig-24vcc-siemens/up/MLBU1971860600",
+     "via": "Bing Imágenes",
+     "credit": "mercadolivre.com.br",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.bz3ngySpcSXbLqjruBnkRAHaFK&pid=15.1"
+    },
+    {
+     "url": "https://www.amikong.com/fckeditfile/image/1774591026.jpg",
+     "page": "https://www.amikong.com/Siemens/Siemens-Simatic-S7/S7-300/6es7321-1bl00-0aa0",
+     "via": "Bing Imágenes",
+     "credit": "amikong.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cU2ce6J5KRwls582siApdwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://content.maxodeals.com/magento-images/catalog/product/a/b/abd116d8f3ef85cfe49962a56b65cc4f.jpg",
+     "page": "https://www.maxodeals.com/mdenglish/6es7321-1bl00-0aa0-39697x0468",
+     "via": "Bing Imágenes",
+     "credit": "maxodeals.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5T43m8d3peZSY74qUWRfpAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://cdn11.bigcommerce.com/s-8r7qx8yjia/images/stencil/1280x1280/products/71731/239455/46%2520-%25206ES7321-1BL00-0AA0%2520%25282%2529__69373.1723031030.jpg?c=1",
+     "page": "https://axxacnc.com/plc-digital-input-module-6es7321-1bl00-0aa0-siemens-for-s7-300-used/",
+     "via": "Bing Imágenes",
+     "credit": "axxacnc.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.q4DHbmHmJ_rvAd9GI3ikLQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.apterauto.com/uploadfile/202306/12/0480d41acd19179baeed2f861c960e82_medium.jpg",
+     "page": "https://www.apterauto.com/siemens-6es7321-1bl00-0aa0-simatic-s7-300-digital-input-module_p5598.html",
+     "via": "Bing Imágenes",
+     "credit": "apterauto.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.97Co0APbR-Glak4QVkAwhwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://cdn11.bigcommerce.com/s-8r7qx8yjia/images/stencil/1280w/products/71731/239454/46%2520-%25206ES7321-1BL00-0AA0%2520%25281%2529__44705.1723031030.jpg?c=1",
+     "page": "https://axxacnc.com/plc-digital-input-module-6es7321-1bl00-0aa0-siemens-for-s7-300-used/",
+     "via": "Bing Imágenes",
+     "credit": "axxacnc.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.4ymUMK7ylCFoRVeSxfWp4AHaHa&pid=15.1"
+    },
+    {
+     "url": "https://5.imimg.com/data5/SELLER/Default/2024/4/407228181/CN/WS/QQ/115245261/6es7321-1bl00-0aa0-1000x1000.jpg",
+     "page": "https://www.indiamart.com/proddetail/6es7321-1bl00-0aa0-siemens-plc-module-simatic-s7-300-digital-input-sm-321-2853780982891.html",
+     "via": "Bing Imágenes",
+     "credit": "indiamart.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.mKU07O7enHtSAQCOlyBUKQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.runtoelectronic.com/cdn/shop/products/3c80a9615c335445e5cea5148c22a6e1_2048x2048.jpg?v=1657781771",
+     "page": "https://www.runtoelectronic.com/products/siemens-6es7321-1bl00-0aa0-digital-input-module",
+     "via": "Bing Imágenes",
+     "credit": "runtoelectronic.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.1ybyOQBxFCyXtRA6BvjThAHaHa&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -3319,8 +3620,8 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 644512,
-     "ago": "Transmitido hace 19 h",
+     "views": 644779,
+     "ago": "Transmitido hace 20 h",
      "official": false
     },
     {
@@ -3336,7 +3637,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53510,
+     "views": 53835,
      "ago": "hace 19 h",
      "official": false
     },
@@ -3344,12 +3645,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 18912,
+     "views": 19018,
      "ago": "hace 20 h",
      "official": false
     }
    ],
-   "views_total": 775273,
+   "views_total": 775971,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3655,7 +3956,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T21:01:55.779474+00:00",
+     "fetched": "2026-11-23T22:06:05.519566+00:00",
      "url": "https://www.instagram.com/reel/DgEAfisxCAp",
      "platform": "Instagram"
     },
@@ -3707,300 +4008,6 @@
    "score": 262
   },
   {
-   "key": "t:me:Trajes típicos:2026-11-21",
-   "id": "t-me-trajes-tipicos-2026-11-21-7d207",
-   "name": "Trajes típicos · 21–23 nov",
-   "contest": "me",
-   "kind": "detectado",
-   "labels": [
-    "Trajes típicos"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
-   "start": "2026-11-22T13:11:00+00:00",
-   "last_activity": "2026-11-23T13:52:00+00:00",
-   "item_ids": [
-    "18bf36ce1a9307",
-    "2c2c2109a438e7",
-    "a915b67d606231"
-   ],
-   "sources": [
-    "El Nuevo Día",
-    "Insider",
-    "telemundo62"
-   ],
-   "n_items": 3,
-   "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://i.insider.com/6b0457900b69407d788a58ec?width=1200&format=jpeg",
-     "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
-     "via": "Insider",
-     "credit": "Insider"
-    },
-    {
-     "url": "https://i.insider.com/6b0457c40b69407d788a58f3?width=700",
-     "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
-     "via": "Insider",
-     "credit": "Insider"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.kn6pfXQBVxcOWMMLonqGdQ&pid=News",
-     "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
-     "via": "Bing (miniatura)",
-     "credit": "Insider"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/56KDSANYH5D53ASPEXVZB3HLEY.jpg?auth=2ac94a55edd4fdaf30778113437723b47919d31dc8fe95f7d4ec914279051eb0&quality=75&width=1200&height=717&focal=2986%2C2260",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/english/entertainment/story/the-most-memorable-moments-from-the-miss-universe-2026-national-costume-parade/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://media.telemundo62.com/2026/11/crown-miss-universe-2026-GettyImages-2304339593-copy.jpg?quality=85&strip=all&resize=1200%2C675",
-     "page": "https://www.telemundo62.com/entretenimiento/miss-universo-2026-cuando-como-ver-concurso-en-vivo/2621873/",
-     "via": "telemundo62",
-     "credit": "telemundo62"
-    },
-    {
-     "url": "https://media.telemundo62.com/2019/09/1920_Philladelphia-3.png?fit=1920%2C416&quality=85&strip=all&w=1300&h=144&crop=1",
-     "page": "https://www.telemundo62.com/entretenimiento/miss-universo-2026-cuando-como-ver-concurso-en-vivo/2621873/",
-     "via": "telemundo62",
-     "credit": "telemundo62"
-    },
-    {
-     "url": "https://media.telemundo62.com/2026/11/GettyImages-2237918659.jpg?quality=85&strip=all&fit=7303%2C4869&w=330&h=186&crop=1",
-     "page": "https://www.telemundo62.com/entretenimiento/miss-universo-2026-cuando-como-ver-concurso-en-vivo/2621873/",
-     "via": "telemundo62",
-     "credit": "telemundo62"
-    },
-    {
-     "url": "https://media.telemundo62.com/2026/11/efe_8d53047175822ee6dada2ca5f36762ad5748561bw.jpg?quality=85&strip=all&fit=1920%2C1280&w=330&h=186&crop=1",
-     "page": "https://www.telemundo62.com/entretenimiento/miss-universo-2026-cuando-como-ver-concurso-en-vivo/2621873/",
-     "via": "telemundo62",
-     "credit": "telemundo62"
-    },
-    {
-     "url": "https://cdn.revolutionparts.io/images/996a7fa078cc36c46d02f9af3bef918b/b971c53dd09ef4c1efb8401ff5bcf9a0.jpg",
-     "page": "https://www.tascaparts.com/oem-parts/ford-vacuum-pump-dg9z2a451a",
-     "via": "Bing Imágenes",
-     "credit": "tascaparts.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.YuSztMyqdolinsISLqczdAHaGc&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf/page1-960px-12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:12-10-1982_(case_file_115110)_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Blue_Book_Magazine_1930-08.pdf/page1-330px-Blue_Book_Magazine_1930-08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Blue_Book_Magazine_1930-08.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nVarious"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf/page1-960px-Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_(SIC)_codes_(IA_federalinformati66nati).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nNational Bureau of Standards"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gandhi_-_The_Wheel_of_fortune.djvu/page1-1280px-Gandhi_-_The_Wheel_of_fortune.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Wheel_of_fortune.djvu",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Mahatma Gandhi"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Jean Giraudoux"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DezSOz7I6yg",
-    "https://www.instagram.com/p/DfaGKslj-s_",
-    "https://www.instagram.com/p/DgAyKylIOqh",
-    "https://www.instagram.com/p/DgB6kQ9uYx5",
-    "https://www.instagram.com/p/DgB9v3dkUBd",
-    "https://www.instagram.com/p/DgBEY_XOJUE",
-    "https://www.instagram.com/p/DgBGqowIe2h",
-    "https://www.instagram.com/p/DgBbx2_RLtF",
-    "https://www.instagram.com/p/DgBh-mNADAr",
-    "https://www.instagram.com/p/DgBjOzTjZ53",
-    "https://www.instagram.com/p/DgBklBeJvnW",
-    "https://www.instagram.com/p/DgBs6C4JTEQ"
-   ],
-   "image_query": "Miss Earth 2026 national costume",
-   "extra_images": [
-    {
-     "url": "https://cdn.revolutionparts.io/images/996a7fa078cc36c46d02f9af3bef918b/b971c53dd09ef4c1efb8401ff5bcf9a0.jpg",
-     "page": "https://www.tascaparts.com/oem-parts/ford-vacuum-pump-dg9z2a451a",
-     "via": "Bing Imágenes",
-     "credit": "tascaparts.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.YuSztMyqdolinsISLqczdAHaGc&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf/page1-960px-12-10-1982_%28case_file_115110%29_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:12-10-1982_(case_file_115110)_-_DPLA_-_788fd0f026fd31ad488df2075e184cf4.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Blue_Book_Magazine_1930-08.pdf/page1-330px-Blue_Book_Magazine_1930-08.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Blue_Book_Magazine_1930-08.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nVarious"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf/page1-960px-Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_%28SIC%29_codes_%28IA_federalinformati66nati%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Federal_Information_Processing_Standards_Publication-_standard_industrial_classification_(SIC)_codes_(IA_federalinformati66nati).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nNational Bureau of Standards"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Gandhi_-_The_Wheel_of_fortune.djvu/page1-1280px-Gandhi_-_The_Wheel_of_fortune.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Gandhi_-_The_Wheel_of_fortune.djvu",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Mahatma Gandhi"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Jean Giraudoux"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    }
-   ],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DezSOz7I6yg",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DfaGKslj-s_",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgAyKylIOqh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgB9v3dkUBd",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBEY_XOJUE",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBGqowIe2h",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBbx2_RLtF",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBh-mNADAr",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBjOzTjZ53",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBklBeJvnW",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T21:58:05.652245+00:00",
-     "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 9
-  },
-  {
    "key": "seed:runway-to-the-universe",
    "id": "runway-to-the-universe",
    "name": "Runway to the Universe (desfile de moda)",
@@ -4029,25 +4036,9 @@
    ],
    "n_items": 4,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "Rrun4KRn71Q",
-     "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
-     "channel": "Miss Universe",
-     "views": 1112880,
-     "ago": "Transmitido hace 5 días",
-     "official": false
-    }
-   ],
-   "views_total": 1112880,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/Rrun4KRn71Q/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
@@ -4103,7 +4094,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 68
+   "score": 13
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4114,7 +4105,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4621,7 +4612,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4631,6 +4622,7 @@
     "042e845d46aab7",
     "8e6a423055992f",
     "ad5321b491cf7d",
+    "2a2e123a153b9c",
     "18bf36ce1a9307",
     "95ffb0af381526",
     "047149e3f9bb9f",
@@ -4638,6 +4630,7 @@
     "4c9e28e405cc31",
     "0c9820b5de0382",
     "b7f73d6009c7d1",
+    "022674c258f7d9",
     "7696926936d8b3",
     "72ec16076ef646",
     "d1fa520e3a6c95",
@@ -4697,7 +4690,9 @@
     "International Business Times UK",
     "Khaleej Times",
     "Mega.cl",
+    "Meridiano.net",
     "Metro.Style",
+    "News18",
     "Outlook Luxe",
     "Puranoticia.cl",
     "RPP Noticias",
@@ -4713,8 +4708,8 @@
     "YouTube · Telemundo Entretenimiento",
     "lanoticiadebarinas"
    ],
-   "n_items": 50,
-   "n_sources": 35,
+   "n_items": 52,
+   "n_sources": 37,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4928,7 +4923,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 123
+   "score": 129
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4939,7 +4934,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4988,7 +4983,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4997,209 +4992,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "http://4.bp.blogspot.com/-4HKW3zVbR9U/UBqr7j76TKI/AAAAAAAAUjQ/swW5NyEOSJo/s1600/Mapa+de+Colombia+(10).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0QmcaEB1nMy3--20PIpqfwHaIp&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/mapa-politico-detallado-colombia_509477-1869.jpg",
-     "page": "https://www.freepik.es/vector-premium/mapa-politico-detallado-colombia_328986989.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-IZGlo-3t9E4JN7MVRrZeQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.mapsofindia.com/world-map/colombia/colombia-departments-and-capital-map.jpg",
-     "page": "https://map.jace.org.uk/printable-map-of-colombia",
-     "via": "Bing Imágenes",
-     "credit": "map.jace.org.uk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UZphUOVDEALHpnalIbiRQQHaKi&pid=15.1"
-    },
-    {
-     "url": "https://lh3.googleusercontent.com/-Dm2uIjef5rM/TXPnJctm83I/AAAAAAAACbw/Qyl2lf3ZpGk/s1600/mapa-politico-colombia.jpg",
-     "page": "https://elantroposofista.blogspot.com/2011/03/todos-los-mapas-de-colombia-online.html",
-     "via": "Bing Imágenes",
-     "credit": "elantroposofista.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.1xYnvR71eBSxC100AJyFKwHaKY&pid=15.1"
-    },
-    {
-     "url": "https://www.mapas-del-mundo.net/mapas/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001.jpg",
-     "page": "https://www.mapas-del-mundo.net/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001",
-     "via": "Bing Imágenes",
-     "credit": "mapas-del-mundo.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y85vgsiTZSMFLZiyaSbaNAHaIz&pid=15.1"
-    },
-    {
-     "url": "http://4.bp.blogspot.com/-ZBuehxWWAZo/UBqr5h01vII/AAAAAAAAUjA/ynl-9EjpjrQ/s1600/Mapa+de+Colombia+(1).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ktY5yRItltNEgGkkl1loAQHaKY&pid=15.1"
-    },
-    {
-     "url": "https://ontheworldmap.com/es/colombia/mapa-de-colombia.jpg",
-     "page": "https://ontheworldmap.com/es/colombia/",
-     "via": "Bing Imágenes",
-     "credit": "ontheworldmap.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hywYhWTs3WWa4XYm-RfN_wHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://www.burningcompass.com/countries/colombia/maps/mapa-del-departamento-de-colombia.jpg",
-     "page": "https://www.burningcompass.com/countries/colombia/mapa-del-departamento-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "burningcompass.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cvHbIyjMzUgwXm-5LJWKwAHaI2&pid=15.1"
-    },
-    {
-     "url": "http://2.bp.blogspot.com/-m_tVn9XNDeM/UBqsGLaYHSI/AAAAAAAAUlA/Nv1MW3u9NP0/s1600/Mapa+de+Colombia+(6).jpg",
-     "page": "https://www.lahistoriaconmapas.com/atlas/maps-bing/croquis-del-mapa-politico-de-colombia.htm",
-     "via": "Bing Imágenes",
-     "credit": "lahistoriaconmapas.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G3MlzdLiT9Neojd9UjHX1wHaJv&pid=15.1"
-    },
-    {
-     "url": "https://st.depositphotos.com/2353733/54426/v/1600/depositphotos_544263040-stock-illustration-colorful-colombia-political-map-clearly.jpg",
-     "page": "https://depositphotos.com/es/vector/colorful-colombia-political-map-clearly-labeled-separated-layers-vector-illustration-544263040.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.IPKuGS7PbIeu63QGfghASAHaJo&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/f6/8a/40/f68a40ac17e8a01ca5aee00508cfdaf8.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/mapa-colombia-dibujo/945311293104/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.6O7L3VtQDOEt2-GBOS7LEwHaIl&pid=15.1"
-    },
-    {
-     "url": "https://st3.depositphotos.com/5183619/18077/v/1600/depositphotos_180773348-stock-illustration-colombia-map-and-flag-detailed.jpg",
-     "page": "https://depositphotos.com/es/vector/colombia-map-and-flag-detailed-vector-illustration-180773348.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.s6DIjS1cxoXj3leiV0pDngHaKX&pid=15.1"
-    },
-    {
-     "url": "https://3.bp.blogspot.com/-BAvNLrUjNMs/VQkujDtHJNI/AAAAAAABBlI/3FJT_AjVaw8/s1600/COLOMBIA%2B(COLOMBIA)1.jpg",
-     "page": "https://hispanopress.blogspot.com/2015/04/colombia-mapas-geograficos-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "hispanopress.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.a48GHboRoA1wVIOQgIumPgHaJY&pid=15.1"
-    },
-    {
-     "url": "https://cdn.dislexiatips.com/imagenes/mapa-politico-interactivo-colombia.png",
-     "page": "https://juegos.dislexiatips.com/2021/09/mapa-politico-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "juegos.dislexiatips.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpyUY_mSCbbm32uXmuRP_gHaJk&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [
-    {
-     "url": "http://4.bp.blogspot.com/-4HKW3zVbR9U/UBqr7j76TKI/AAAAAAAAUjQ/swW5NyEOSJo/s1600/Mapa+de+Colombia+(10).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0QmcaEB1nMy3--20PIpqfwHaIp&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/mapa-politico-detallado-colombia_509477-1869.jpg",
-     "page": "https://www.freepik.es/vector-premium/mapa-politico-detallado-colombia_328986989.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.-IZGlo-3t9E4JN7MVRrZeQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.mapsofindia.com/world-map/colombia/colombia-departments-and-capital-map.jpg",
-     "page": "https://map.jace.org.uk/printable-map-of-colombia",
-     "via": "Bing Imágenes",
-     "credit": "map.jace.org.uk",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UZphUOVDEALHpnalIbiRQQHaKi&pid=15.1"
-    },
-    {
-     "url": "https://lh3.googleusercontent.com/-Dm2uIjef5rM/TXPnJctm83I/AAAAAAAACbw/Qyl2lf3ZpGk/s1600/mapa-politico-colombia.jpg",
-     "page": "https://elantroposofista.blogspot.com/2011/03/todos-los-mapas-de-colombia-online.html",
-     "via": "Bing Imágenes",
-     "credit": "elantroposofista.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.1xYnvR71eBSxC100AJyFKwHaKY&pid=15.1"
-    },
-    {
-     "url": "https://www.mapas-del-mundo.net/mapas/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001.jpg",
-     "page": "https://www.mapas-del-mundo.net/america-del-sur/colombia/detallado-mapa-politico-y-administrativo-de-colombia-con-relieve-carreteras-y-principales-ciudades-2001",
-     "via": "Bing Imágenes",
-     "credit": "mapas-del-mundo.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y85vgsiTZSMFLZiyaSbaNAHaIz&pid=15.1"
-    },
-    {
-     "url": "http://4.bp.blogspot.com/-ZBuehxWWAZo/UBqr5h01vII/AAAAAAAAUjA/ynl-9EjpjrQ/s1600/Mapa+de+Colombia+(1).jpg",
-     "page": "http://colombiasinpalabras.blogspot.com/2012/08/mapas-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "colombiasinpalabras.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ktY5yRItltNEgGkkl1loAQHaKY&pid=15.1"
-    },
-    {
-     "url": "https://ontheworldmap.com/es/colombia/mapa-de-colombia.jpg",
-     "page": "https://ontheworldmap.com/es/colombia/",
-     "via": "Bing Imágenes",
-     "credit": "ontheworldmap.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hywYhWTs3WWa4XYm-RfN_wHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://www.burningcompass.com/countries/colombia/maps/mapa-del-departamento-de-colombia.jpg",
-     "page": "https://www.burningcompass.com/countries/colombia/mapa-del-departamento-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "burningcompass.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cvHbIyjMzUgwXm-5LJWKwAHaI2&pid=15.1"
-    },
-    {
-     "url": "http://2.bp.blogspot.com/-m_tVn9XNDeM/UBqsGLaYHSI/AAAAAAAAUlA/Nv1MW3u9NP0/s1600/Mapa+de+Colombia+(6).jpg",
-     "page": "https://www.lahistoriaconmapas.com/atlas/maps-bing/croquis-del-mapa-politico-de-colombia.htm",
-     "via": "Bing Imágenes",
-     "credit": "lahistoriaconmapas.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G3MlzdLiT9Neojd9UjHX1wHaJv&pid=15.1"
-    },
-    {
-     "url": "https://st.depositphotos.com/2353733/54426/v/1600/depositphotos_544263040-stock-illustration-colorful-colombia-political-map-clearly.jpg",
-     "page": "https://depositphotos.com/es/vector/colorful-colombia-political-map-clearly-labeled-separated-layers-vector-illustration-544263040.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.IPKuGS7PbIeu63QGfghASAHaJo&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/f6/8a/40/f68a40ac17e8a01ca5aee00508cfdaf8.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/mapa-colombia-dibujo/945311293104/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.6O7L3VtQDOEt2-GBOS7LEwHaIl&pid=15.1"
-    },
-    {
-     "url": "https://st3.depositphotos.com/5183619/18077/v/1600/depositphotos_180773348-stock-illustration-colombia-map-and-flag-detailed.jpg",
-     "page": "https://depositphotos.com/es/vector/colombia-map-and-flag-detailed-vector-illustration-180773348.html",
-     "via": "Bing Imágenes",
-     "credit": "depositphotos.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.s6DIjS1cxoXj3leiV0pDngHaKX&pid=15.1"
-    },
-    {
-     "url": "https://3.bp.blogspot.com/-BAvNLrUjNMs/VQkujDtHJNI/AAAAAAABBlI/3FJT_AjVaw8/s1600/COLOMBIA%2B(COLOMBIA)1.jpg",
-     "page": "https://hispanopress.blogspot.com/2015/04/colombia-mapas-geograficos-de-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "hispanopress.blogspot.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.a48GHboRoA1wVIOQgIumPgHaJY&pid=15.1"
-    },
-    {
-     "url": "https://cdn.dislexiatips.com/imagenes/mapa-politico-interactivo-colombia.png",
-     "page": "https://juegos.dislexiatips.com/2021/09/mapa-politico-colombia.html",
-     "via": "Bing Imágenes",
-     "credit": "juegos.dislexiatips.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpyUY_mSCbbm32uXmuRP_gHaJk&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-23T19:01:55.909129+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5219,7 +5016,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5228,11 +5025,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/c/c2/Toki_(Shinobazu).png/revision/latest/scale-to-width-down/1200?cb=20150626184151",
+     "page": "https://naruto.fandom.com/wiki/Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.0KnT4g52ns1DBpsbcbp3AQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lh4.googleusercontent.com/dea1IhS0wfZf6jqO1hreYdHl2w8_syFU0Boizye1pYyQPakxE-M0p0HMzhs900Vw6WpqCrPQ1hS24C5OvDV0li6u5wcm7XgJP0nF3cLNudBJr6rP71jVWF5sLV1rdT3gz53aqtFLayozl65glTJLBuCqRMRjvzKSAB1RjNtewj4Rwrd8fsFDI0vwuEnR",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MdknVmgdW-2GmxHFsa21dgHaEp&pid=15.1"
+    },
+    {
+     "url": "https://lh7-us.googleusercontent.com/dWJd_6EcRJQ4Y1Q3GM6iqfLJsfvmbfhSNn8J47cdZRVm0yUxeOAX6RKbsK-WBnnokNpFmhJ-hd1djXWcwUQIW73tfXj7CSL7yeXO7txH587GXu6xRMeKgfPA24_2eurTXgANuqQWN4udjUWUDtXzPA",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.pVWrmFpaNuvprE2hGG0hMQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/e/e7/Armoured_Toki.jpg/revision/latest?cb=20140821161716&path-prefix=pl",
+     "page": "https://naruto.fandom.com/pl/wiki/Toki",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.SPOtpgoCVQ1-uNqWncKhPwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/0/0f/Braço_de_Perfuração_Mecânica.png/revision/latest?cb=20140508182403&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Equipamentos_de_Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6DhqpiDlrBnUttIeauO6CQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/d/d1/Toki_(HD).png/revision/latest/scale-to-width-down/1200?cb=20160213210331&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Galeria_de_Toki",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.UzUbvbXWNIgr9cV2F-oSMwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lh5.googleusercontent.com/j_btEuvGMuN38TRCvWkghvjwgqSlP_tIZKVSvOky7KgMQ0FESuCw_JmAmAokM06qkXFPMVq3JqwsbEtatNHs9FLQJN8jBFDO6D7XyeuLx6OhRgodVI50KccgTag36aTe2q45agS6xe-cWztAR7z8ynt_kaRCD-v1W6SM1_8NZAE2RPNxn4DP1LqmShlk",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.E9pQXo8w-XQ05ANNdTX3dAHaEj&pid=15.1"
+    },
+    {
+     "url": "https://lh6.googleusercontent.com/BNKdaE9KPdlbZTmy8ts-A5Yx_vN3vivOfbIaOZOgNs7CdzS1rrgclxss8Cxt9qEaQgPlUhyxBg4WGnbku_KiTO6cW92qP2SEbJq8jgfl_njXTA9KtTrHXTTmfJMjgit7n8Aab72_xMzeItwhwBtQ6stVPKQouqpfGeEt3N6OQVgg2ofPMtupLpewAY-0",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ABhCRFTuSHkQ9Npeec19vAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/d/de/Técnica_de_Correr_em_Obstáculos_(Monju_e_Toki_-_Anime).png/revision/latest/scale-to-width-down/1200?cb=20250116054254&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Jutsu_de_Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.kyjVc6YxTJAxNKfYtezqHAHaFi&pid=15.1"
+    },
+    {
+     "url": "https://lh3.googleusercontent.com/QWzQaWrcXlJLN6Ew1aBFlUce22iPXBUBccX_Q9OW8ke_i_XUaTQyhIgmYBfVtQ72FG6bOvF54IxWJ6VqRYEJymLEe2bnYWj-W26WY3v0LPH7eVYZeV6Afm1g4pmkKDfyqHlmRwnzWk5aK9z01_t_NvTZGf9ZTU6c2oA7lUWQuLr5aAUynrAuLQaZpwzm",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.7QI7nz-S_D1REy6VcqESjQHaEf&pid=15.1"
+    },
+    {
+     "url": "https://lh7-us.googleusercontent.com/-l2j4_Yylvbr18TlPOYP2WqpoWqx8oU8gXAK3Uw1NEr1M6L22FZfE8HBeYzg4HC52jMIbTn79LArzw1L8qPBggbZOfo_UsRZVpmMTDkX-JK3ujNLVA3pqLEgG6gqFkzFlEB2sHw8l-77PDdj6SSU2g",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.jxiXKvpZJzpuigqVKkWpMAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/_U7K22q6t40/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=_U7K22q6t40",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP._moSvOlu-daZ6OdEmc6UOgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lh5.googleusercontent.com/-bPuP9dPBdPcybqNd2Yk1eWn5DhUjQLgmM34-rlfZ2s6ERz-a8rLDikLkG5twoAtH83A7WStTtvD0V9PQiN0KCS6uAUEgKY0aJrQWwlW4SYZ9ETs9yxzldZRHthSmg67mIXqZNPJXQ-azWF_vDw6w56lhn5phkZUo7QH3FBh-KKLgVctAKTE88BqDsEJ",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.C-Devu1xynBvB47SfY-SjwHaEf&pid=15.1"
+    },
+    {
+     "url": "https://cdn.myanimelist.net/images/characters/14/556781.jpg",
+     "page": "https://myanimelist.net/character/252911/Toki",
+     "via": "Bing Imágenes",
+     "credit": "myanimelist.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.W-eTu3ArexTrPe3K6wVrSAAAAA&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
-   "extra_images": [],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
+   "extra_images": [
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/c/c2/Toki_(Shinobazu).png/revision/latest/scale-to-width-down/1200?cb=20150626184151",
+     "page": "https://naruto.fandom.com/wiki/Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.0KnT4g52ns1DBpsbcbp3AQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lh4.googleusercontent.com/dea1IhS0wfZf6jqO1hreYdHl2w8_syFU0Boizye1pYyQPakxE-M0p0HMzhs900Vw6WpqCrPQ1hS24C5OvDV0li6u5wcm7XgJP0nF3cLNudBJr6rP71jVWF5sLV1rdT3gz53aqtFLayozl65glTJLBuCqRMRjvzKSAB1RjNtewj4Rwrd8fsFDI0vwuEnR",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MdknVmgdW-2GmxHFsa21dgHaEp&pid=15.1"
+    },
+    {
+     "url": "https://lh7-us.googleusercontent.com/dWJd_6EcRJQ4Y1Q3GM6iqfLJsfvmbfhSNn8J47cdZRVm0yUxeOAX6RKbsK-WBnnokNpFmhJ-hd1djXWcwUQIW73tfXj7CSL7yeXO7txH587GXu6xRMeKgfPA24_2eurTXgANuqQWN4udjUWUDtXzPA",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.pVWrmFpaNuvprE2hGG0hMQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/e/e7/Armoured_Toki.jpg/revision/latest?cb=20140821161716&path-prefix=pl",
+     "page": "https://naruto.fandom.com/pl/wiki/Toki",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.SPOtpgoCVQ1-uNqWncKhPwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/0/0f/Braço_de_Perfuração_Mecânica.png/revision/latest?cb=20140508182403&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Equipamentos_de_Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6DhqpiDlrBnUttIeauO6CQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/d/d1/Toki_(HD).png/revision/latest/scale-to-width-down/1200?cb=20160213210331&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Galeria_de_Toki",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.UzUbvbXWNIgr9cV2F-oSMwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://lh5.googleusercontent.com/j_btEuvGMuN38TRCvWkghvjwgqSlP_tIZKVSvOky7KgMQ0FESuCw_JmAmAokM06qkXFPMVq3JqwsbEtatNHs9FLQJN8jBFDO6D7XyeuLx6OhRgodVI50KccgTag36aTe2q45agS6xe-cWztAR7z8ynt_kaRCD-v1W6SM1_8NZAE2RPNxn4DP1LqmShlk",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.E9pQXo8w-XQ05ANNdTX3dAHaEj&pid=15.1"
+    },
+    {
+     "url": "https://lh6.googleusercontent.com/BNKdaE9KPdlbZTmy8ts-A5Yx_vN3vivOfbIaOZOgNs7CdzS1rrgclxss8Cxt9qEaQgPlUhyxBg4WGnbku_KiTO6cW92qP2SEbJq8jgfl_njXTA9KtTrHXTTmfJMjgit7n8Aab72_xMzeItwhwBtQ6stVPKQouqpfGeEt3N6OQVgg2ofPMtupLpewAY-0",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ABhCRFTuSHkQ9Npeec19vAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/naruto/images/d/de/Técnica_de_Correr_em_Obstáculos_(Monju_e_Toki_-_Anime).png/revision/latest/scale-to-width-down/1200?cb=20250116054254&path-prefix=pt-br",
+     "page": "https://naruto.fandom.com/pt-br/wiki/Jutsu_de_Toki_(Shinobazu)",
+     "via": "Bing Imágenes",
+     "credit": "naruto.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.kyjVc6YxTJAxNKfYtezqHAHaFi&pid=15.1"
+    },
+    {
+     "url": "https://lh3.googleusercontent.com/QWzQaWrcXlJLN6Ew1aBFlUce22iPXBUBccX_Q9OW8ke_i_XUaTQyhIgmYBfVtQ72FG6bOvF54IxWJ6VqRYEJymLEe2bnYWj-W26WY3v0LPH7eVYZeV6Afm1g4pmkKDfyqHlmRwnzWk5aK9z01_t_NvTZGf9ZTU6c2oA7lUWQuLr5aAUynrAuLQaZpwzm",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.7QI7nz-S_D1REy6VcqESjQHaEf&pid=15.1"
+    },
+    {
+     "url": "https://lh7-us.googleusercontent.com/-l2j4_Yylvbr18TlPOYP2WqpoWqx8oU8gXAK3Uw1NEr1M6L22FZfE8HBeYzg4HC52jMIbTn79LArzw1L8qPBggbZOfo_UsRZVpmMTDkX-JK3ujNLVA3pqLEgG6gqFkzFlEB2sHw8l-77PDdj6SSU2g",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.jxiXKvpZJzpuigqVKkWpMAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/_U7K22q6t40/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=_U7K22q6t40",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP._moSvOlu-daZ6OdEmc6UOgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://lh5.googleusercontent.com/-bPuP9dPBdPcybqNd2Yk1eWn5DhUjQLgmM34-rlfZ2s6ERz-a8rLDikLkG5twoAtH83A7WStTtvD0V9PQiN0KCS6uAUEgKY0aJrQWwlW4SYZ9ETs9yxzldZRHthSmg67mIXqZNPJXQ-azWF_vDw6w56lhn5phkZUo7QH3FBh-KKLgVctAKTE88BqDsEJ",
+     "page": "https://wiki.sportskeeda.com/naruto/toki-shinobazu-in-naruto",
+     "via": "Bing Imágenes",
+     "credit": "wiki.sportskeeda.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.C-Devu1xynBvB47SfY-SjwHaEf&pid=15.1"
+    },
+    {
+     "url": "https://cdn.myanimelist.net/images/characters/14/556781.jpg",
+     "page": "https://myanimelist.net/character/252911/Toki",
+     "via": "Bing Imágenes",
+     "credit": "myanimelist.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.W-eTu3ArexTrPe3K6wVrSAAAAA&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5252,7 +5247,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5265,7 +5260,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T21:58:05.652245+00:00",
+   "extra_at": "2026-11-23T22:06:05.519566+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5285,7 +5280,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T21:58:05.652245+00:00",
+   "first_seen": "2026-11-23T22:06:05.519566+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
