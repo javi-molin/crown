@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:45:55.885166+00:00",
+ "updated": "2026-11-23T16:53:55.767564+00:00",
  "count": 24,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -179,7 +179,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T01:27:24+00:00",
+   "start": "2026-11-22T01:35:41+00:00",
    "last_activity": "2026-11-23T16:22:08+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -235,6 +235,7 @@
     "1c72ab200f84fb",
     "54d3d87cae6284",
     "900e228555e525",
+    "ce79fabc2894dd",
     "1c2523265058e0",
     "291d2b925ebd6d",
     "31359df2524f69",
@@ -300,8 +301,7 @@
     "70d944ee857fe9",
     "f7ca6e13fde517",
     "4e243adba2c4fc",
-    "922db55f799237",
-    "004e7094aa5cf0"
+    "922db55f799237"
    ],
    "sources": [
     "ABS-CBN",
@@ -345,17 +345,9 @@
     "Milenio",
     "Noticias al Día y a la Hora"
    ],
-   "n_items": 126,
-   "n_sources": 69,
+   "n_items": 124,
+   "n_sources": 68,
    "videos": [
-    {
-     "vid": "EKzvBJH5Uz8",
-     "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 187200,
-     "ago": "hace 1 día",
-     "official": false
-    },
     {
      "vid": "vYNjGtTAnww",
      "title": "National Costume BTS | Miss Universe",
@@ -375,7 +367,7 @@
      "official": true
     }
    ],
-   "views_total": 294979,
+   "views_total": 107779,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
@@ -390,13 +382,6 @@
      "page": "https://www.youtube.com/watch?v=vYNjGtTAnww",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/EKzvBJH5Uz8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EKzvBJH5Uz8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EKzvBJH5Uz8",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
     },
     {
      "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
@@ -620,6 +605,12 @@
      "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
      "via": "RPP Noticias",
      "credit": "RPP Noticias"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/08/290729_1927203.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
+     "via": "RPP Noticias",
+     "credit": "RPP Noticias"
     }
    ],
    "social_urls": [
@@ -657,7 +648,7 @@
      "credit": "\nAppalachian State University"
     }
    ],
-   "extra_at": "2026-11-23T13:49:44.670807+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [
     {
      "fetched": "2026-11-23T16:45:55.885166+00:00",
@@ -788,7 +779,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 281
+   "score": 268
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -979,7 +970,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 637905,
+     "views": 638043,
      "ago": "Transmitido hace 14 h",
      "official": false
     },
@@ -996,7 +987,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44536,
+     "views": 44440,
      "ago": "hace 14 h",
      "official": false
     },
@@ -1004,7 +995,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 16400,
+     "views": 16632,
      "ago": "hace 15 h",
      "official": false
     },
@@ -1018,7 +1009,7 @@
      "official": true
     }
    ],
-   "views_total": 756126,
+   "views_total": 756400,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1620,12 +1611,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44536,
+     "views": 44440,
      "ago": "hace 14 h",
      "official": false
     }
    ],
-   "views_total": 44536,
+   "views_total": 44440,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1888,7 +1879,7 @@
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [
     {
      "fetched": "2026-11-23T15:57:45.024539+00:00",
@@ -2853,7 +2844,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 637905,
+     "views": 638043,
      "ago": "Transmitido hace 14 h",
      "official": false
     },
@@ -2870,7 +2861,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 44536,
+     "views": 44440,
      "ago": "hace 14 h",
      "official": false
     },
@@ -2878,12 +2869,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 16400,
+     "views": 16632,
      "ago": "hace 15 h",
      "official": false
     }
    ],
-   "views_total": 755331,
+   "views_total": 755605,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3351,7 +3342,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 fashion show runway",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3411,104 +3402,6 @@
      "credit": "International Business Times UK"
     },
     {
-     "url": "http://www.publicdomainpictures.net/pictures/190000/velka/black-background-1468370534d5s.jpg",
-     "page": "http://www.publicdomainpictures.net/view-image.php?image=180807&picture=&jazyk=ES",
-     "via": "Bing Imágenes",
-     "credit": "publicdomainpictures.net",
-     "alt": "https://ts3.explicit.bing.net/th?id=OIP.ONTBkMeqkIX_86MB4QQYNwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/imagen-completamente-negra_14117-598295.jpg?w=1060",
-     "page": "https://www.freepik.es/fotos-premium/imagen-completamente-negra_224946913.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.AUOeJmh9awOwwdVFYL2jugHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/60/ef/24/60ef2487bb2e29cde96cea529af17c4d.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/imagen-negra-de-fondo/940473418735/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.xmqw7fzz-bQieMyz64y7cgHaMV&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/fondo-negro-abstracto-textura-primer-plano-color-negro_41969-11523.jpg",
-     "page": "https://www.freepik.es/fotos/textura-melamina-negra/2",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.vRrt0ihL_OEuI9fcyOxy9AHaE7&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/foto-gratis/fondo-pantalla-patron-fondo-abstracto-grunge-negro-foto-gratis_1340-33848.jpg",
-     "page": "https://www.freepik.es/foto-gratis/fondo-pantalla-patron-fondo-abstracto-grunge-negro-foto-gratis_40685516.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Eg5jGmUh8JIJ3HT3aVvR1gHaE7&pid=15.1"
-    },
-    {
-     "url": "https://cdn.pixabay.com/photo/2015/09/29/15/12/stars-964022_1280.png",
-     "page": "https://pixabay.com/es/images/search/fondo negro solido/",
-     "via": "Bing Imágenes",
-     "credit": "pixabay.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.AeJy4Ri0NHTE9p7lLNudSwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/fondo-textura-negra-fondo-negro-abstracto-patron-negro_672416-231.jpg",
-     "page": "https://www.freepik.es/vector-premium/fondo-textura-negra-fondo-negro-abstracto-patron-negro_73625862.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.xcjjw7B95e5tulmyamCnLwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.fundacioncruzblanca.org/sites/default/files/negro-5686e4bf3df78ccc15019c28.jpg",
-     "page": "https://www.fundacioncruzblanca.org/file/136",
-     "via": "Bing Imágenes",
-     "credit": "fundacioncruzblanca.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.I-Rc4GBMM0tHp3XxuuLxEgHaEo&pid=15.1"
-    },
-    {
-     "url": "https://static.vecteezy.com/system/resources/previews/001/906/862/large_2x/black-texture-background-free-photo.jpg",
-     "page": "https://es.vecteezy.com/foto/1906862-fondo-textura-negro",
-     "via": "Bing Imágenes",
-     "credit": "es.vecteezy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ZHUM1hnOQuFdoBaiQ-MW-AHaD9&pid=15.1"
-    },
-    {
-     "url": "https://cdn.pixabay.com/photo/2024/02/26/19/39/monochrome-image-8598798_1280.jpg",
-     "page": "https://pixabay.com/es/images/search/imagen negra/",
-     "via": "Bing Imágenes",
-     "credit": "pixabay.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.hondM0tO9KWUCAh_ifxckwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/41/d4/c5/41d4c5368fed4cb98693e5b428cb96cd.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/fotos-de-perfil-color-negro/935101402776/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.qRMn9Ig6B7Du7RcfSYrrQQHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.vecteezy.com/system/resources/previews/012/833/282/non_2x/modern-black-texture-background-free-vector.jpg",
-     "page": "https://es.vecteezy.com/arte-vectorial/12833282-fondo-de-textura-negra-moderna",
-     "via": "Bing Imágenes",
-     "credit": "es.vecteezy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.4UkH2Ku-F5QZsDvWXzPM8gHaEc&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/foto-gratis/fondo-oscuro-abstracto_1048-1920.jpg",
-     "page": "https://www.freepik.es/fotos-vectores-gratis/fondo-pantalla-negro",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.4VSGEjdwvCqvXETX8PaS3QHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/46/bb/23/46bb23686c7f48db0fb399722c976eee.jpg",
-     "page": "https://yeisonkim.com/imagen-totalmente-negra-1000-free-imagen-negra-amp-black-images/",
-     "via": "Bing Imágenes",
-     "credit": "yeisonkim.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.u24oJHryu6UkbweJH2tpLwHaJ3&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
      "via": "Wikimedia Commons",
@@ -3561,104 +3454,6 @@
    "image_query": "Miss International 2026 national costume",
    "extra_images": [
     {
-     "url": "http://www.publicdomainpictures.net/pictures/190000/velka/black-background-1468370534d5s.jpg",
-     "page": "http://www.publicdomainpictures.net/view-image.php?image=180807&picture=&jazyk=ES",
-     "via": "Bing Imágenes",
-     "credit": "publicdomainpictures.net",
-     "alt": "https://ts3.explicit.bing.net/th?id=OIP.ONTBkMeqkIX_86MB4QQYNwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/imagen-completamente-negra_14117-598295.jpg?w=1060",
-     "page": "https://www.freepik.es/fotos-premium/imagen-completamente-negra_224946913.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.AUOeJmh9awOwwdVFYL2jugHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/60/ef/24/60ef2487bb2e29cde96cea529af17c4d.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/imagen-negra-de-fondo/940473418735/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.xmqw7fzz-bQieMyz64y7cgHaMV&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/fondo-negro-abstracto-textura-primer-plano-color-negro_41969-11523.jpg",
-     "page": "https://www.freepik.es/fotos/textura-melamina-negra/2",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.vRrt0ihL_OEuI9fcyOxy9AHaE7&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/foto-gratis/fondo-pantalla-patron-fondo-abstracto-grunge-negro-foto-gratis_1340-33848.jpg",
-     "page": "https://www.freepik.es/foto-gratis/fondo-pantalla-patron-fondo-abstracto-grunge-negro-foto-gratis_40685516.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Eg5jGmUh8JIJ3HT3aVvR1gHaE7&pid=15.1"
-    },
-    {
-     "url": "https://cdn.pixabay.com/photo/2015/09/29/15/12/stars-964022_1280.png",
-     "page": "https://pixabay.com/es/images/search/fondo negro solido/",
-     "via": "Bing Imágenes",
-     "credit": "pixabay.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.AeJy4Ri0NHTE9p7lLNudSwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/vector-premium/fondo-textura-negra-fondo-negro-abstracto-patron-negro_672416-231.jpg",
-     "page": "https://www.freepik.es/vector-premium/fondo-textura-negra-fondo-negro-abstracto-patron-negro_73625862.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.xcjjw7B95e5tulmyamCnLwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.fundacioncruzblanca.org/sites/default/files/negro-5686e4bf3df78ccc15019c28.jpg",
-     "page": "https://www.fundacioncruzblanca.org/file/136",
-     "via": "Bing Imágenes",
-     "credit": "fundacioncruzblanca.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.I-Rc4GBMM0tHp3XxuuLxEgHaEo&pid=15.1"
-    },
-    {
-     "url": "https://static.vecteezy.com/system/resources/previews/001/906/862/large_2x/black-texture-background-free-photo.jpg",
-     "page": "https://es.vecteezy.com/foto/1906862-fondo-textura-negro",
-     "via": "Bing Imágenes",
-     "credit": "es.vecteezy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ZHUM1hnOQuFdoBaiQ-MW-AHaD9&pid=15.1"
-    },
-    {
-     "url": "https://cdn.pixabay.com/photo/2024/02/26/19/39/monochrome-image-8598798_1280.jpg",
-     "page": "https://pixabay.com/es/images/search/imagen negra/",
-     "via": "Bing Imágenes",
-     "credit": "pixabay.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.hondM0tO9KWUCAh_ifxckwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/41/d4/c5/41d4c5368fed4cb98693e5b428cb96cd.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/fotos-de-perfil-color-negro/935101402776/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.qRMn9Ig6B7Du7RcfSYrrQQHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.vecteezy.com/system/resources/previews/012/833/282/non_2x/modern-black-texture-background-free-vector.jpg",
-     "page": "https://es.vecteezy.com/arte-vectorial/12833282-fondo-de-textura-negra-moderna",
-     "via": "Bing Imágenes",
-     "credit": "es.vecteezy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.4UkH2Ku-F5QZsDvWXzPM8gHaEc&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/foto-gratis/fondo-oscuro-abstracto_1048-1920.jpg",
-     "page": "https://www.freepik.es/fotos-vectores-gratis/fondo-pantalla-negro",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.4VSGEjdwvCqvXETX8PaS3QHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/46/bb/23/46bb23686c7f48db0fb399722c976eee.jpg",
-     "page": "https://yeisonkim.com/imagen-totalmente-negra-1000-free-imagen-negra-amp-black-images/",
-     "via": "Bing Imágenes",
-     "credit": "yeisonkim.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.u24oJHryu6UkbweJH2tpLwHaJ3&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
      "via": "Wikimedia Commons",
@@ -3701,7 +3496,7 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "extra_at": "2026-11-23T13:49:44.670807+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [
     {
      "fetched": "2026-11-23T15:57:45.024539+00:00",
@@ -3851,7 +3646,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4073,7 +3868,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4113,7 +3908,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4383,7 +4178,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4402,7 +4197,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4450,6 +4245,7 @@
     "022674c258f7d9",
     "54d3d87cae6284",
     "900e228555e525",
+    "ce79fabc2894dd",
     "1c2523265058e0",
     "291d2b925ebd6d",
     "31359df2524f69",
@@ -4510,10 +4306,7 @@
     "922db55f799237",
     "5253d5f4598ad3",
     "1d5a858c3a5bcd",
-    "e84b94272a9594",
-    "cd674e8bba7f63",
-    "389e2d2022a7b0",
-    "41e9247905025c"
+    "e84b94272a9594"
    ],
    "sources": [
     "ABS-CBN",
@@ -4556,7 +4349,6 @@
     "Radio Corazón — La Número Uno",
     "Radio Imagina",
     "Remolacha",
-    "Revista Caras México",
     "Roya News",
     "Roya News English",
     "SoyChile.cl",
@@ -4574,15 +4366,15 @@
     "lanoticiadebarinas",
     "m360.cl"
    ],
-   "n_items": 108,
-   "n_sources": 57,
+   "n_items": 106,
+   "n_sources": 56,
    "videos": [],
    "views_total": 0,
    "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [],
-   "extra_at": "2026-11-23T16:45:55.885166+00:00",
+   "extra_at": "2026-11-23T16:53:55.767564+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4591,7 +4383,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 225
+   "score": 221
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4602,7 +4394,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4635,7 +4427,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4668,7 +4460,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4701,7 +4493,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -4862,7 +4654,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T16:45:55.885166+00:00",
+   "first_seen": "2026-11-23T16:53:55.767564+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
