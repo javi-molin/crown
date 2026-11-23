@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T07:01:35.022722+00:00",
+ "updated": "2026-11-23T07:09:35.045579+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -505,6 +505,7 @@
     "d123fb097f60da",
     "397300076bdbdc",
     "6359026c6d705e",
+    "940b42ed2d1463",
     "f5095293f0f5ba",
     "d3791537658210",
     "d9f7ba013c0805",
@@ -534,6 +535,7 @@
     "55180fe04c1413",
     "0cd5774c0c5641",
     "89a7298da38a5d",
+    "5dbf0286192a0e",
     "5ff41e568107de",
     "2a7a56c57c6f8e",
     "3511282fc1bba8",
@@ -611,9 +613,7 @@
     "f4d5ef6121effb",
     "e1301f7a9da7d5",
     "e9e01af29320b6",
-    "6fd0a3be64dd22",
-    "6629d2a8ffc5ba",
-    "84f09ae14ac938"
+    "6fd0a3be64dd22"
    ],
    "sources": [
     "24 horas",
@@ -657,14 +657,22 @@
     "Mega.cl",
     "Meganoticias"
    ],
-   "n_items": 187,
+   "n_items": 189,
    "n_sources": 74,
    "videos": [
+    {
+     "vid": "oqIDvzfAKBI",
+     "title": "Competencia Preliminar del Miss Universe 2026 | POV Acceso Exclusivo",
+     "channel": "Telemundo Entretenimiento",
+     "views": 615423,
+     "ago": "Transmitido hace 5 h",
+     "official": false
+    },
     {
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 52157,
+     "views": 52344,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -673,29 +681,21 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universe 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 26207,
+     "views": 26852,
      "ago": "hace 4 h",
-     "official": false
-    },
-    {
-     "vid": "z6WL1geI6Uk",
-     "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universe 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 11889,
-     "ago": "hace 5 h",
      "official": false
     },
     {
      "vid": "cPk1sMOqySY",
      "title": "Miss Universo 2026: belleza y seguridad en traje de baño | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 541,
+     "views": 552,
      "likes": 2,
      "published": "2026-11-23T03:19:41+00:00",
      "official": true
     }
    ],
-   "views_total": 90794,
+   "views_total": 695171,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -705,11 +705,11 @@
      "credit": "Telemundo Entretenimiento y Telemundo"
     },
     {
-     "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/z6WL1geI6Uk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=z6WL1geI6Uk",
+     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
+     "credit": "Telemundo Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/kdbVKox8QKU/maxresdefault.jpg",
@@ -729,13 +729,6 @@
      "url": "https://i.ytimg.com/vi/H3jnD14RHLA/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/H3jnD14RHLA/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=H3jnD14RHLA",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
      "via": "YouTube (miniatura)",
      "credit": "YouTube · Telemundo Entretenimiento"
     },
@@ -771,6 +764,13 @@
      "url": "https://i.ytimg.com/vi/8TBFz_g-mFI/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/8TBFz_g-mFI/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=8TBFz_g-mFI",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/z6WL1geI6Uk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=z6WL1geI6Uk",
      "via": "YouTube (miniatura)",
      "credit": "YouTube · Telemundo Entretenimiento"
     },
@@ -1036,7 +1036,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -1091,7 +1091,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.youtube.com/watch?v=videoseries",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/videoseries/hqdefault.jpg",
@@ -1104,7 +1104,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 342
+   "score": 374
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -1219,12 +1219,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universe 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 26207,
+     "views": 26852,
      "ago": "hace 4 h",
      "official": false
     }
    ],
-   "views_total": 26207,
+   "views_total": 26852,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1523,7 +1523,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DgBdmUJDQf4",
      "platform": "Instagram"
     },
@@ -1553,7 +1553,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DezSOz7I6yg",
      "platform": "Instagram"
     },
@@ -1563,7 +1563,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DgBa8mhudSB",
      "platform": "Instagram"
     },
@@ -1573,7 +1573,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DgBdsZ4FQyV",
      "platform": "Instagram"
     },
@@ -1607,7 +1607,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-21T12:37:00+00:00",
+   "start": "2026-11-21T12:40:00+00:00",
    "last_activity": "2026-11-23T03:56:36+00:00",
    "item_ids": [
     "dd6df663e98515",
@@ -1773,14 +1773,14 @@
     "FMDOS — La radio de los dos",
     "Facebook"
    ],
-   "n_items": 266,
-   "n_sources": 106,
+   "n_items": 264,
+   "n_sources": 104,
    "videos": [
     {
      "vid": "PfSAdnnUn4s",
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
      "channel": "Canal Antigua",
-     "views": 1402673,
+     "views": 1403322,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -1788,7 +1788,7 @@
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
      "channel": "Miss Universe",
-     "views": 1042960,
+     "views": 1043155,
      "likes": 0,
      "published": "2026-11-21T23:03:40+00:00",
      "official": true
@@ -1797,7 +1797,7 @@
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 178497,
+     "views": 179321,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1805,7 +1805,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 121743,
+     "views": 122060,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -1814,7 +1814,7 @@
      "vid": "vYNjGtTAnww",
      "title": "National Costume BTS | Miss Universe",
      "channel": "Miss Universe",
-     "views": 70047,
+     "views": 70198,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -1823,7 +1823,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 26214,
+     "views": 26248,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -1832,7 +1832,7 @@
      "vid": "mwlZ5XoFe8g",
      "title": "MISS UNIVERSE  2026 | National Costume Pre Show",
      "channel": "Miss Universe",
-     "views": 23173,
+     "views": 23765,
      "likes": 69,
      "published": "2026-11-23T01:24:02+00:00",
      "official": true
@@ -1847,7 +1847,7 @@
      "official": true
     }
    ],
-   "views_total": 2865307,
+   "views_total": 2868069,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
@@ -2104,14 +2104,11 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/Df-jagHBWxD",
-    "https://www.instagram.com/p/DgBaNgUIJ8v",
     "https://www.instagram.com/p/DgBb3ySM5Wm",
     "https://www.instagram.com/p/DgBb4EVEQ-x",
     "https://www.instagram.com/p/DgBbPG0KC8R",
     "https://www.instagram.com/p/DgBdmUJDQf4",
     "https://www.instagram.com/p/DgBeQEiDSey",
-    "https://www.instagram.com/p/DgBgjQ8DFOa",
-    "https://www.instagram.com/p/DgBgpniMTUH",
     "https://www.instagram.com/p/DgBhDpsBiZt",
     "https://www.instagram.com/p/DgBhRFjjZiu",
     "https://www.instagram.com/p/DgBi5myjSCN",
@@ -2152,11 +2149,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:37:35.114658+00:00",
-     "url": "https://www.instagram.com/p/DgBaNgUIJ8v",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T06:53:34.600554+00:00",
      "url": "https://www.instagram.com/p/DgBb3ySM5Wm",
      "platform": "Instagram"
@@ -2172,7 +2164,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DgBdmUJDQf4",
      "platform": "Instagram"
     },
@@ -2182,22 +2174,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:37:35.114658+00:00",
-     "url": "https://www.instagram.com/p/DgBgjQ8DFOa",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T06:37:35.114658+00:00",
-     "url": "https://www.instagram.com/p/DgBgpniMTUH",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T06:29:35.263380+00:00",
      "url": "https://www.instagram.com/p/DgBhDpsBiZt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DgBhRFjjZiu",
      "platform": "Instagram"
     },
@@ -2212,7 +2194,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DgBjvDYGwJw",
      "platform": "Instagram"
     },
@@ -2227,17 +2209,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DgBDjbCBhxK",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DgBa8mhudSB",
      "platform": "Instagram"
     },
@@ -2247,7 +2229,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DgBdsZ4FQyV",
      "platform": "Instagram"
     },
@@ -2272,14 +2254,14 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.youtube.com/watch?v=2rMpxV9aOoc",
      "platform": "YouTube",
      "error": "HTTP Error 429: Too Many Requests",
      "thumb": "https://i.ytimg.com/vi/2rMpxV9aOoc/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.youtube.com/watch?v=H67iW5iKBZM",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/H67iW5iKBZM/hqdefault.jpg",
@@ -2301,7 +2283,7 @@
      "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.youtube.com/watch?v=videoseries",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/videoseries/hqdefault.jpg",
@@ -2314,7 +2296,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 624
+   "score": 618
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -2361,7 +2343,7 @@
      "vid": "Rrun4KRn71Q",
      "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
      "channel": "Miss Universe",
-     "views": 1062635,
+     "views": 1063217,
      "ago": "Transmitido hace 5 días",
      "official": false
     },
@@ -2369,13 +2351,13 @@
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 134978,
+     "views": 135010,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 1197613,
+   "views_total": 1198227,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
@@ -2470,104 +2452,6 @@
      "credit": "South China Morning Post"
     },
     {
-     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
-     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
-     "via": "Bing Imágenes",
-     "credit": "toolerific.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/natural/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
-    },
-    {
-     "url": "https://image.moge.ai/screen/impossible-images.jpg",
-     "page": "https://moge.ai/product/impossible-images",
-     "via": "Bing Imágenes",
-     "credit": "moge.ai",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature background images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
-     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
-     "via": "Bing Imágenes",
-     "credit": "bc.classicjapcycles.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature%20wallpaper/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/scenery/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/high resolution birds/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/free jpeg images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/landscape/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/drone images png/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature and environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
-     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
-    },
-    {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
      "via": "Wikimedia Commons",
@@ -2593,104 +2477,6 @@
    "image_query": "Runway to the Universe Miss Universe 2026",
    "extra_images": [
     {
-     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
-     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
-     "via": "Bing Imágenes",
-     "credit": "toolerific.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/natural/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
-    },
-    {
-     "url": "https://image.moge.ai/screen/impossible-images.jpg",
-     "page": "https://moge.ai/product/impossible-images",
-     "via": "Bing Imágenes",
-     "credit": "moge.ai",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature background images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
-     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
-     "via": "Bing Imágenes",
-     "credit": "bc.classicjapcycles.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature%20wallpaper/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/scenery/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/high resolution birds/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/free jpeg images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/landscape/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/440731/pexels-photo-440731.jpeg?cs=srgb&dl=pexels-ákos-szabó-440731.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1zIwY9hrcRVit24BKtTZcAHaD6&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/drone images png/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature and environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/computer-sits-center-surrounded-multiple-images-images-show-different-scenes-landscapes-abstract-art-light-428796573.jpg",
-     "page": "https://www.dreamstime.com/photos-images/gooning-images.html",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.lu_AhpFkTLlQ_yXPwMcCsQHaFw&pid=15.1"
-    },
-    {
      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
      "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
      "via": "Wikimedia Commons",
@@ -2712,7 +2498,7 @@
      "credit": "The Indian Listener: The Indian State Broadcasting Service"
     }
    ],
-   "extra_at": "2026-11-23T04:05:25.503453+00:00",
+   "extra_at": "2026-11-23T07:09:35.045579+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2952,46 +2738,88 @@
      "credit": "El Comercio"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+     "url": "http://barrieaircraft.com/images/bell-206-jetranger-01.jpg",
+     "page": "http://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xWWf6h7QNo8VsRZuFgJ7SAHaE4&pid=15.1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "116th United States Congress"
+     "url": "https://barrieaircraft.com/images/bell-206-jetranger-05.jpg",
+     "page": "https://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6sfHsElvOrkCZHVjuB0kIAHaE9&pid=15.1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
+     "url": "http://barrieaircraft.com/images/bell-206-jetranger-06.jpg",
+     "page": "http://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.YAo4mquckEhG1GhrGrHY7wHaE8&pid=15.1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+     "url": "https://barrieaircraft.com/images/bell-206-jetranger-03.jpg",
+     "page": "https://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pD34seRlgTATvdzz4wnPCQHaE8&pid=15.1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
+     "url": "https://images.squarespace-cdn.com/content/v1/6557f67a35b4fb36d28f7f2a/105874c2-0a03-452e-996c-575694b20583/DSC_0853.jpeg",
+     "page": "https://www.columbiahelicopters.ca/bell-206b-jet-ranger",
+     "via": "Bing Imágenes",
+     "credit": "columbiahelicopters.ca",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.14BG_-qyoeVh77_xSaJsLwHaE8&pid=15.1"
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+     "url": "https://imgproc.airliners.net/photos/airliners/8/1/0/0976018-v40-10.jpg",
+     "page": "https://www.airliners.net/aircraft-data/bell-206-jetranger/71",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.gQVggNuwJknMJaZRNB_5pwHaFM&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/2/5/8/2117852.jpg?v=v40",
+     "page": "https://www.airliners.net/photo/Argentina-Army/Bell-206B-3-JetRanger-III/2117852",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cf_QjmHRm9oStVdOctS2xAHaFo&pid=15.1"
+    },
+    {
+     "url": "https://www.flugzeuginfo.net/acimages/206b3_kp.jpg",
+     "page": "https://www.flugzeuginfo.net/acdata_php/acdata_206ab_en.php",
+     "via": "Bing Imágenes",
+     "credit": "flugzeuginfo.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.NkEm12y-0P5n5wzWQ3lRswHaFj&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/7/2/9/6997927.jpg?v=v40b1632fdc2",
+     "page": "https://www.airliners.net/photo/Heli-Service/Bell-206B-3-JetRanger-III/6997927",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rqde2hAaSbrhJ1qJhqBCEQHaE-&pid=15.1"
+    },
+    {
+     "url": "https://www.helicopassion.com/images/heliexpo24/B206/USA2024AB1499h.jpg",
+     "page": "https://www.helicopassion.com/fr/01/heliexpo24-27.htm",
+     "via": "Bing Imágenes",
+     "credit": "helicopassion.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Lm8um9o4MyMyrszoDeHs6wHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wixstatic.com/media/f57485_7b0d3d5c87fc4dfea36292c8ba84fdb6~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f57485_7b0d3d5c87fc4dfea36292c8ba84fdb6~mv2.jpg",
+     "page": "https://www.flightlineweekly.com/post/bell-206-jetranger-the-little-helicopter-that-conquered-the-world",
+     "via": "Bing Imágenes",
+     "credit": "flightlineweekly.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HO-gxmEpm6jLACZpilr8TwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://www.remotehelicopters.com/images/galleries/bell-206b-iii-jet-ranger-220525031829-223.jpeg",
+     "page": "https://www.remotehelicopters.com/fleet/bell-206b-iii-jet-ranger-4/",
+     "via": "Bing Imágenes",
+     "credit": "remotehelicopters.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.7Y-Wi1Y4GiII2T7ylDGoZQHaFj&pid=15.1"
     }
    ],
    "social_urls": [
@@ -3024,6 +2852,104 @@
    "image_query": "Miss Universe 2026 vote top 30",
    "extra_images": [
     {
+     "url": "http://barrieaircraft.com/images/bell-206-jetranger-01.jpg",
+     "page": "http://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xWWf6h7QNo8VsRZuFgJ7SAHaE4&pid=15.1"
+    },
+    {
+     "url": "https://barrieaircraft.com/images/bell-206-jetranger-05.jpg",
+     "page": "https://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.6sfHsElvOrkCZHVjuB0kIAHaE9&pid=15.1"
+    },
+    {
+     "url": "http://barrieaircraft.com/images/bell-206-jetranger-06.jpg",
+     "page": "http://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.YAo4mquckEhG1GhrGrHY7wHaE8&pid=15.1"
+    },
+    {
+     "url": "https://barrieaircraft.com/images/bell-206-jetranger-03.jpg",
+     "page": "https://barrieaircraft.com/bell-206-jetranger.html",
+     "via": "Bing Imágenes",
+     "credit": "barrieaircraft.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pD34seRlgTATvdzz4wnPCQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.squarespace-cdn.com/content/v1/6557f67a35b4fb36d28f7f2a/105874c2-0a03-452e-996c-575694b20583/DSC_0853.jpeg",
+     "page": "https://www.columbiahelicopters.ca/bell-206b-jet-ranger",
+     "via": "Bing Imágenes",
+     "credit": "columbiahelicopters.ca",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.14BG_-qyoeVh77_xSaJsLwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/8/1/0/0976018-v40-10.jpg",
+     "page": "https://www.airliners.net/aircraft-data/bell-206-jetranger/71",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.gQVggNuwJknMJaZRNB_5pwHaFM&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/2/5/8/2117852.jpg?v=v40",
+     "page": "https://www.airliners.net/photo/Argentina-Army/Bell-206B-3-JetRanger-III/2117852",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.cf_QjmHRm9oStVdOctS2xAHaFo&pid=15.1"
+    },
+    {
+     "url": "https://www.flugzeuginfo.net/acimages/206b3_kp.jpg",
+     "page": "https://www.flugzeuginfo.net/acdata_php/acdata_206ab_en.php",
+     "via": "Bing Imágenes",
+     "credit": "flugzeuginfo.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.NkEm12y-0P5n5wzWQ3lRswHaFj&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/7/2/9/6997927.jpg?v=v40b1632fdc2",
+     "page": "https://www.airliners.net/photo/Heli-Service/Bell-206B-3-JetRanger-III/6997927",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rqde2hAaSbrhJ1qJhqBCEQHaE-&pid=15.1"
+    },
+    {
+     "url": "https://www.helicopassion.com/images/heliexpo24/B206/USA2024AB1499h.jpg",
+     "page": "https://www.helicopassion.com/fr/01/heliexpo24-27.htm",
+     "via": "Bing Imágenes",
+     "credit": "helicopassion.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Lm8um9o4MyMyrszoDeHs6wHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wixstatic.com/media/f57485_7b0d3d5c87fc4dfea36292c8ba84fdb6~mv2.jpg/v1/fill/w_980,h_653,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f57485_7b0d3d5c87fc4dfea36292c8ba84fdb6~mv2.jpg",
+     "page": "https://www.flightlineweekly.com/post/bell-206-jetranger-the-little-helicopter-that-conquered-the-world",
+     "via": "Bing Imágenes",
+     "credit": "flightlineweekly.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HO-gxmEpm6jLACZpilr8TwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://www.remotehelicopters.com/images/galleries/bell-206b-iii-jet-ranger-220525031829-223.jpeg",
+     "page": "https://www.remotehelicopters.com/fleet/bell-206b-iii-jet-ranger-4/",
+     "via": "Bing Imágenes",
+     "credit": "remotehelicopters.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.7Y-Wi1Y4GiII2T7ylDGoZQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://aircharterservice-globalcontent-live.cphostaccess.com/images/aircraft-guide-images/private/bell20206b20ex20pic_tcm36-3766.jpg",
+     "page": "https://www.aircharterservice.ch/de/informationen-zu-flugzeugen/privatflugzeugen/bellhelicoptertextron-usa/bell206bjetranger",
+     "via": "Bing Imágenes",
+     "credit": "aircharterservice.ch",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.FO1oXmKrEIddNO8rnG7ZAgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://imgproc.airliners.net/photos/airliners/4/9/5/2812594.jpg?v=v40",
+     "page": "https://www.airliners.net/photo/Untitled/Bell-206B-2-JetRanger-II/2812594",
+     "via": "Bing Imágenes",
+     "credit": "airliners.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.PYZ0tHbD63p75BkPPXQtggHaE3&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
      "via": "Wikimedia Commons",
@@ -3066,50 +2992,50 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-23T04:05:25.503453+00:00",
+   "extra_at": "2026-11-23T07:09:35.045579+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DHW0MWnRirP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DTyREPOD9-K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DVKENbNkafb",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/Da7QR7kCZcm",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DcXRGLPM034",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DcXa4EeN1mV",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DeV3znYHASa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DeWSnLvsRAI",
      "platform": "Instagram"
     },
@@ -3124,7 +3050,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/p/DfirgglRWDt",
      "platform": "Instagram"
     },
@@ -3149,12 +3075,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/C922JzihsxJ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T06:05:34.865597+00:00",
+     "fetched": "2026-11-23T07:09:35.045579+00:00",
      "url": "https://www.instagram.com/reel/DT07ca2jn_X",
      "platform": "Instagram"
     },
@@ -3236,7 +3162,7 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 26214,
+     "views": 26248,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
@@ -3245,13 +3171,13 @@
      "vid": "mwlZ5XoFe8g",
      "title": "MISS UNIVERSE  2026 | National Costume Pre Show",
      "channel": "Miss Universe",
-     "views": 23173,
+     "views": 23765,
      "likes": 69,
      "published": "2026-11-23T01:24:02+00:00",
      "official": true
     }
    ],
-   "views_total": 49387,
+   "views_total": 50013,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
@@ -3305,7 +3231,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3318,6 +3244,7 @@
     "d123fb097f60da",
     "397300076bdbdc",
     "6359026c6d705e",
+    "940b42ed2d1463",
     "f5095293f0f5ba",
     "d3791537658210",
     "d9f7ba013c0805",
@@ -3348,6 +3275,7 @@
     "55180fe04c1413",
     "0cd5774c0c5641",
     "89a7298da38a5d",
+    "5dbf0286192a0e",
     "5ff41e568107de",
     "2a7a56c57c6f8e",
     "3511282fc1bba8",
@@ -3426,9 +3354,7 @@
     "6fd0a3be64dd22",
     "6629d2a8ffc5ba",
     "84f09ae14ac938",
-    "438854644e80d2",
-    "9901b9301e6236",
-    "3562dcd4d516b7"
+    "438854644e80d2"
    ],
    "sources": [
     "24 horas",
@@ -3492,7 +3418,7 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 144,
+   "n_items": 146,
    "n_sources": 60,
    "videos": [],
    "views_total": 0,
@@ -3707,7 +3633,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 267
+   "score": 269
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -4211,13 +4137,13 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 3743,
+     "views": 3845,
      "likes": 19,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
     }
    ],
-   "views_total": 3743,
+   "views_total": 3845,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -4623,7 +4549,7 @@
      "vid": "tXSkVH4adZk",
      "title": "National Costume Show Sneak Peek | Miss Universe",
      "channel": "Miss Universe",
-     "views": 121743,
+     "views": 122060,
      "likes": 0,
      "published": "2026-11-22T00:47:01+00:00",
      "official": true
@@ -4632,13 +4558,13 @@
      "vid": "84UO16AZdSM",
      "title": "National Costume Show day!",
      "channel": "Miss Universe",
-     "views": 26214,
+     "views": 26248,
      "likes": 0,
      "published": "2026-11-22T00:12:37+00:00",
      "official": true
     }
    ],
-   "views_total": 147957,
+   "views_total": 148308,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/tXSkVH4adZk/maxresdefault.jpg",
@@ -4692,7 +4618,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4873,7 +4799,6 @@
     "Noticias al Día y a la Hora",
     "Nueva Mujer on MSN",
     "Periódico elCaribe",
-    "Philstar Life",
     "Philstar.com",
     "Primera Hora",
     "Primicias",
@@ -4891,7 +4816,6 @@
     "Roya News English",
     "Sabes.cl",
     "SoyChile.cl",
-    "T13",
     "TNT Sports",
     "Telemundo",
     "Telemundo Houston",
@@ -4914,8 +4838,8 @@
     "philstarlife",
     "sdpnoticias"
    ],
-   "n_items": 234,
-   "n_sources": 95,
+   "n_items": 232,
+   "n_sources": 93,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5129,7 +5053,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 427
+   "score": 421
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5140,7 +5064,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5371,7 +5295,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5595,7 +5519,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5826,7 +5750,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6057,7 +5981,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T07:01:35.022722+00:00",
+   "first_seen": "2026-11-23T07:09:35.045579+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [
