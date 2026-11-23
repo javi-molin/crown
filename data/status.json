@@ -1,22 +1,22 @@
 {
- "run_at": "2026-11-23T21:33:55.919260+00:00",
+ "run_at": "2026-11-23T21:41:55.445852+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 102,
    "error": null
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 99,
+   "items": 101,
    "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 100,
+   "items": 74,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 53,
+   "items": 54,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 89,
+   "items": 52,
    "error": null
   },
   {
@@ -160,38 +160,38 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 18,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 11,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
-   "ok": false,
+   "ok": true,
    "items": 0,
-   "error": "sin ytInitialData"
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 14,
+   "items": 10,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 228,
+   "items": 234,
    "error": null
   }
  ],
- "new_items": 935,
+ "new_items": 873,
  "total_items": 900
 }
