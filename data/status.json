@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-23T10:13:35.392328+00:00",
+ "run_at": "2026-11-23T10:21:35.442718+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -15,9 +15,9 @@
   },
   {
    "source": "Google News · Miss Universo polémica",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe controversy",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 39,
+   "items": 87,
    "error": null
   },
   {
@@ -51,14 +51,14 @@
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 53,
+   "items": 52,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 35,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 65,
+   "items": 64,
    "error": null
   },
   {
@@ -160,19 +160,19 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 0,
+   "items": 16,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 14,
+   "items": 16,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -364,7 +364,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": "2988 imágenes en el espejo"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 906,
+ "new_items": 738,
  "total_items": 900
 }
