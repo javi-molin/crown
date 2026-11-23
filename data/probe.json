@@ -1,17 +1,17 @@
 {
- "at": "2026-11-23T16:53:55.767564+00:00",
+ "at": "2026-11-23T19:57:55.897359+00:00",
  "results": [
   {
    "url": "https://missuniverseorg.com/vote",
-   "len": 81221,
+   "len": 81243,
    "title": "Vote for Miss Universe: Participate in Miss Universe Voting",
    "iframes": [
     "javascript: window.frameElement.getAttribute(&quot;srcdoc&quot;);"
    ],
    "scripts": [
-    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/a2177960c2801f14/script.js",
-    "//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.3.8.js",
-    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/4818175a777acdf9/script.js",
+    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/b3d652c8c574a48b/script.js",
+    "//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.4.0.js",
+    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/30b97168c57e22ea/script.js",
     "//img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js"
    ],
    "endpoints": [
@@ -36,17 +36,18 @@
     "2026"
    ],
    "script_endpoints": {
-    "https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.3.8.js": [
-     "https://maps.googleapis.com/maps/api/geocode/json?"
+    "https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.4.0.js": [
+     "https://maps.googleapis.com/maps/api/geocode/json?",
+     "https://maps.googleapis.com/maps/api/js"
     ],
-    "https://img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/4818175a777acdf9/script.js": [
+    "https://img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/30b97168c57e22ea/script.js": [
      "(menciona choicely)"
     ]
    }
   },
   {
    "url": "https://missuniverseorg.com/",
-   "len": 166796,
+   "len": 176289,
    "title": "Latest Miss Universe News and Events - Empowering Women",
    "iframes": [
     "javascript: window.frameElement.getAttribute(&quot;srcdoc&quot;);",
@@ -56,9 +57,9 @@
     "https://youtube.com/embed/F0H8ejJayL8?rel=0&amp;showinfo=0&amp;si=RzgpBgoQ57rtClkD&amp;autoplay=0&amp;loop=0&amp;muted=0&amp;controls=1"
    ],
    "scripts": [
-    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/e3c4a3f7df773d67/script.js",
-    "//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.3.8.js",
-    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/fbde9fee03a45e88/script.js",
+    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/2f58ac8da7d6f498/script.js",
+    "//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.4.0.js",
+    "//img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/959b5a28f8a4f10a/script.js",
     "//img1.wsimg.com/signals/js/clients/scc-c2/scc-c2.min.js"
    ],
    "endpoints": [],
@@ -89,10 +90,11 @@
     "2026"
    ],
    "script_endpoints": {
-    "https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.3.8.js": [
-     "https://maps.googleapis.com/maps/api/geocode/json?"
+    "https://img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.7.4.0.js": [
+     "https://maps.googleapis.com/maps/api/geocode/json?",
+     "https://maps.googleapis.com/maps/api/js"
     ],
-    "https://img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/fbde9fee03a45e88/script.js": [
+    "https://img1.wsimg.com/blobby/go/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/gpub/959b5a28f8a4f10a/script.js": [
      "(menciona choicely)"
     ]
    }
