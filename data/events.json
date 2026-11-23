@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T04:37:26.339636+00:00",
+ "updated": "2026-11-23T04:45:35.505574+00:00",
  "count": 25,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -289,6 +289,7 @@
     "d2bfcf59d13c15",
     "196dbf9143d9c2",
     "2f49fc75bc8a4a",
+    "f4d5ef6121effb",
     "6fd0a3be64dd22",
     "6629d2a8ffc5ba",
     "84f09ae14ac938",
@@ -302,8 +303,7 @@
     "76423a4e05bd58",
     "c7441474620f53",
     "eec3712ba2f5c1",
-    "27770ee509beb3",
-    "d738e45bd0df34"
+    "27770ee509beb3"
    ],
    "sources": [
     "24 horas",
@@ -347,15 +347,15 @@
     "Metro Ecuador",
     "Metro Ecuador on MSN"
    ],
-   "n_items": 174,
-   "n_sources": 68,
+   "n_items": 175,
+   "n_sources": 69,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universe 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 547117,
-     "likes": 2925,
+     "views": 557928,
+     "likes": 2936,
      "published": "2026-11-23T02:12:22+00:00",
      "official": true
     },
@@ -363,7 +363,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 47094,
+     "views": 46608,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -372,8 +372,8 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universe 2026",
      "channel": "Telemundo Entretenimiento",
-     "views": 4992,
-     "likes": 122,
+     "views": 5506,
+     "likes": 131,
      "published": "2026-11-23T02:31:06+00:00",
      "official": true
     },
@@ -381,7 +381,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universe 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 4053,
+     "views": 4966,
      "ago": "hace 3 h",
      "official": false
     },
@@ -389,7 +389,7 @@
      "vid": "H3jnD14RHLA",
      "title": "¡Brilla como el sol de su bandera! 🇺🇾🌟Miss Uruguay comparte lo que vivió #Preliminar #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 645,
+     "views": 685,
      "likes": 21,
      "published": "2026-11-23T02:36:47+00:00",
      "official": true
@@ -398,13 +398,13 @@
      "vid": "cPk1sMOqySY",
      "title": "Miss Universo 2026: belleza y seguridad en traje de baño | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 137,
+     "views": 152,
      "likes": 1,
      "published": "2026-11-23T03:19:41+00:00",
      "official": true
     }
    ],
-   "views_total": 604038,
+   "views_total": 615845,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -793,7 +793,7 @@
    "extra_at": "2026-11-23T03:41:25.729079+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
      "platform": "Instagram"
     },
@@ -858,7 +858,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
@@ -886,7 +886,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 343
+   "score": 346
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -994,13 +994,13 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universe 2026",
      "channel": "Telemundo Entretenimiento",
-     "views": 4992,
-     "likes": 122,
+     "views": 5506,
+     "likes": 131,
      "published": "2026-11-23T02:31:06+00:00",
      "official": true
     }
    ],
-   "views_total": 4992,
+   "views_total": 5506,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1329,7 +1329,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
@@ -1368,7 +1368,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-20T21:39:53.152267+00:00",
-   "start": "2026-11-21T09:19:00+00:00",
+   "start": "2026-11-21T09:30:00+00:00",
    "last_activity": "2026-11-23T03:56:36+00:00",
    "item_ids": [
     "dd6df663e98515",
@@ -1534,9 +1534,17 @@
     "Epicentro Chile",
     "FMDOS — La radio de los dos"
    ],
-   "n_items": 281,
+   "n_items": 279,
    "n_sources": 109,
    "videos": [
+    {
+     "vid": "PfSAdnnUn4s",
+     "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES",
+     "channel": "Canal Antigua",
+     "views": 1363454,
+     "ago": "Transmitido hace 1 día",
+     "official": false
+    },
     {
      "vid": "VTZdfe78o1E",
      "title": "MISS UNIVERSE  2026 | National Costume",
@@ -1550,7 +1558,7 @@
      "vid": "HxgbkuzggFA",
      "title": "Desfile de Traje Típico de Miss Universe 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 268070,
+     "views": 269310,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -1558,7 +1566,7 @@
      "vid": "EKzvBJH5Uz8",
      "title": "Miss Universe 2026: Así lucieron las candidatas latinas en Traje Típico | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 154739,
+     "views": 158518,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1575,7 +1583,7 @@
      "vid": "vYNjGtTAnww",
      "title": "National Costume BTS | Miss Universe",
      "channel": "Miss Universe",
-     "views": 65944,
+     "views": 65535,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -1593,7 +1601,7 @@
      "vid": "mwlZ5XoFe8g",
      "title": "MISS UNIVERSE  2026 | National Costume Pre Show",
      "channel": "Miss Universe",
-     "views": 12838,
+     "views": 11888,
      "likes": 64,
      "published": "2026-11-23T01:24:02+00:00",
      "official": true
@@ -1602,7 +1610,7 @@
      "vid": "1g0F-7M_1i0",
      "title": "Cultura, historia y fantasía: las latinas deslumbran con sus trajes típicos en Miss Universe 2026",
      "channel": "Telemundo Entretenimiento",
-     "views": 20,
+     "views": 28,
      "likes": 0,
      "published": "2026-11-23T03:56:36+00:00",
      "official": true
@@ -1617,7 +1625,7 @@
      "official": true
     }
    ],
-   "views_total": 1679499,
+   "views_total": 3046621,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/HxgbkuzggFA/maxresdefault.jpg",
@@ -1681,6 +1689,13 @@
      "page": "https://www.youtube.com/watch?v=VTZdfe78o1E",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/PfSAdnnUn4s/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/PfSAdnnUn4s/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=PfSAdnnUn4s",
+     "via": "YouTube (miniatura)",
+     "credit": "Canal Antigua"
     },
     {
      "url": "https://i.ytimg.com/vi/8mLmfFhlqYE/maxresdefault.jpg",
@@ -1863,17 +1878,10 @@
      "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
      "via": "El Heraldo",
      "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/849x1280/0c0/0d0/none/45933/OOLQ/el-salvador-2_16205296_20261122172413.jpg",
-     "page": "https://www.elheraldo.hn/fotogalerias/entretenimiento/los-trajes-tipicos-centroamericanas-miss-universo-2026-honduras-guatemala-nicaragua-EH32718084",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
     "https://www.instagram.com/p/Df-jagHBWxD",
-    "https://www.instagram.com/p/Df_ZrhIMvFj",
     "https://www.instagram.com/p/DgAgpY3kY2-",
     "https://www.instagram.com/p/DgBaNgUIJ8v",
     "https://www.instagram.com/p/DgBb3ySM5Wm",
@@ -1901,7 +1909,8 @@
     "https://www.instagram.com/reel/DgDPzZwEk2q",
     "https://www.youtube.com/watch?v=2rMpxV9aOoc",
     "https://www.youtube.com/watch?v=H67iW5iKBZM",
-    "https://www.youtube.com/watch?v=PfSAdnnUn4s"
+    "https://www.youtube.com/watch?v=PfSAdnnUn4s",
+    "https://www.youtube.com/watch?v=S_RA3e_Cjro"
    ],
    "image_query": "Miss Universe 2026 Desfile De Traje",
    "extra_images": [
@@ -2013,11 +2022,6 @@
     },
     {
      "fetched": "2026-11-23T03:49:25.551780+00:00",
-     "url": "https://www.instagram.com/p/Df_ZrhIMvFj",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T03:49:25.551780+00:00",
      "url": "https://www.instagram.com/p/DgAgpY3kY2-",
      "platform": "Instagram"
     },
@@ -2027,7 +2031,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/DgBb3ySM5Wm",
      "platform": "Instagram"
     },
@@ -2112,7 +2116,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
@@ -2137,7 +2141,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgDPzZwEk2q",
      "platform": "Instagram"
     },
@@ -2162,6 +2166,12 @@
      "error": "HTTP Error 429: Too Many Requests",
      "views": 1274255,
      "title": "👑🔴EN DIRECTO | MISS UNIVERSE 2026 DESFILE DE TRAJES NACIONALES"
+    },
+    {
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
+     "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
     }
    ],
    "social_totals": {
@@ -2170,7 +2180,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 585
+   "score": 652
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -2214,36 +2224,21 @@
    "n_sources": 8,
    "videos": [
     {
-     "vid": "Rrun4KRn71Q",
-     "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
-     "channel": "Miss Universe",
-     "views": 1040647,
-     "ago": "Transmitido hace 5 días",
-     "official": false
-    },
-    {
      "vid": "9tArjIG7FCU",
      "title": "BTS RUNWAY TO THE UNIVERSE | Miss Universe",
      "channel": "Miss Universe",
-     "views": 133346,
+     "views": 133245,
      "likes": 0,
      "published": "2026-11-21T15:40:26+00:00",
      "official": true
     }
    ],
-   "views_total": 1173993,
+   "views_total": 133245,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/9tArjIG7FCU/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/9tArjIG7FCU/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=9tArjIG7FCU",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/Rrun4KRn71Q/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
     },
@@ -2576,7 +2571,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 34
   },
   {
    "key": "seed:voto-top30",
@@ -2603,7 +2598,6 @@
     "2bd495c560f77a",
     "15ea4b36ddaf79",
     "1f6d662e65051b",
-    "fa14cce6f4edab",
     "a8f9224cef6e3c",
     "2e657256f76835",
     "d53263a736413b",
@@ -2621,7 +2615,6 @@
    ],
    "sources": [
     "AS Colombia",
-    "Clarin",
     "Clarin.com",
     "Diario AS",
     "Diario La Prensa Riobamba",
@@ -2636,8 +2629,8 @@
     "Vistazo",
     "infodelestero"
    ],
-   "n_items": 23,
-   "n_sources": 15,
+   "n_items": 22,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2742,18 +2735,6 @@
      "page": "https://as.com/us/tikitakas/como-votar-por-justus-kelley-en-miss-universo-2026-asi-puedes-votar-a-la-representante-de-usa-f202611-n/",
      "via": "Diario AS",
      "credit": "Diario AS"
-    },
-    {
-     "url": "https://www.clarin.com/img/2026/11/19/ZMKMAXXYH_2000x1500__1.jpg",
-     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
-     "via": "Clarin",
-     "credit": "Clarin"
-    },
-    {
-     "url": "https://www.clarin.com/landings/bundles/landing/img/components/header/clarin_rojo.png?65b8340",
-     "page": "https://www.clarin.com/internacional/miss-universe-2026-votar-candidata-favorita-necesita-llegar-corona_0_F6ZUPE3tgg.html",
-     "via": "Clarin",
-     "credit": "Clarin"
     },
     {
      "url": "https://elterritorio-s3.cdn.net.ar/s3i233/2026/11/elterritorio/images/02/87/20/2872007_b7e91618c720e6ba2d6319fe1263c565128bc305cdf315b55f8eea137ed64d50/lg.webp?_v=v3-610",
@@ -2884,7 +2865,6 @@
     "https://www.instagram.com/reel/C922JzihsxJ",
     "https://www.instagram.com/reel/DT07ca2jn_X",
     "https://www.instagram.com/reel/Df2j3_ds9-S",
-    "https://www.instagram.com/reel/Df5breusyDX",
     "https://www.instagram.com/reel/DgAOrkAhQMX",
     "https://www.instagram.com/reel/DgBt9AYtJvc",
     "https://www.instagram.com/reel/DgCHkNLzcr3",
@@ -3035,11 +3015,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
-     "url": "https://www.instagram.com/reel/Df5breusyDX",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T04:29:25.540474+00:00",
      "url": "https://www.instagram.com/reel/DgAOrkAhQMX",
      "platform": "Instagram"
@@ -3055,7 +3030,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgDPzZwEk2q",
      "platform": "Instagram"
     },
@@ -3084,7 +3059,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 56
+   "score": 53
   },
   {
    "key": "p:national costume pre show",
@@ -3121,13 +3096,13 @@
      "vid": "mwlZ5XoFe8g",
      "title": "MISS UNIVERSE  2026 | National Costume Pre Show",
      "channel": "Miss Universe",
-     "views": 12838,
+     "views": 11888,
      "likes": 64,
      "published": "2026-11-23T01:24:02+00:00",
      "official": true
     }
    ],
-   "views_total": 37891,
+   "views_total": 36941,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/mwlZ5XoFe8g/maxresdefault.jpg",
@@ -3181,7 +3156,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3594,11 +3569,27 @@
    "n_sources": 1,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.pinimg.com/originals/86/3f/db/863fdb2f88e56e85210fbadd9d4266fb.jpg",
+     "page": "https://www.pinterest.com/pin/32-gummy-bears-for-gummy-dude-youtube--689613761693733602/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.DBNwC6d8ohjXnqRItzuTEAHaFj&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [],
-   "extra_at": "2026-11-23T04:37:26.339636+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/originals/86/3f/db/863fdb2f88e56e85210fbadd9d4266fb.jpg",
+     "page": "https://www.pinterest.com/pin/32-gummy-bears-for-gummy-dude-youtube--689613761693733602/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.DBNwC6d8ohjXnqRItzuTEAHaFj&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T04:45:35.505574+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3846,17 +3837,17 @@
    "extra_at": "2026-11-23T04:21:25.633362+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/DgBkmB5tKK6",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/DgBp-YfpvHv",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/reel/DgBgpniMTUH",
      "platform": "Instagram"
     },
@@ -3900,13 +3891,13 @@
      "vid": "u5lm-fHMG5Q",
      "title": "Who Will Wear the Crown? 👑 Unlock Coronation Night LIVE | Miss International 2026",
      "channel": "Miss International",
-     "views": 2923,
+     "views": 3030,
      "likes": 13,
      "published": "2026-11-22T11:00:13+00:00",
      "official": true
     }
    ],
-   "views_total": 2923,
+   "views_total": 3030,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/u5lm-fHMG5Q/maxresdefault.jpg",
@@ -3921,12 +3912,209 @@
      "page": "https://www.youtube.com/watch?v=Ab4MqXh-Gbc",
      "via": "YouTube (miniatura)",
      "credit": "YouTube · Miss International"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
+     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
+     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
+     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
+     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
-   "extra_images": [],
-   "extra_at": "2026-11-23T04:37:26.339636+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
+     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
+     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
+     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
+     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T04:45:35.505574+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4226,12 +4414,12 @@
    "extra_at": "2026-11-23T04:37:26.339636+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/DgB3PkBDW0V",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T03:41:25.729079+00:00",
+     "fetched": "2026-11-23T04:45:35.505574+00:00",
      "url": "https://www.instagram.com/p/DgBffmozP90",
      "platform": "Instagram"
     }
@@ -4521,7 +4709,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4744,7 +4932,7 @@
     "philstarlife",
     "sdpnoticias"
    ],
-   "n_items": 244,
+   "n_items": 243,
    "n_sources": 96,
    "videos": [],
    "views_total": 0,
@@ -4959,7 +5147,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 439
+   "score": 438
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4970,7 +5158,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4979,11 +5167,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://fotos.perfil.com/2026/04/24/trim/987/555/chernobyl-robot-str-1-2227101.jpg",
+     "page": "https://www.perfil.com/noticias/opinion/cuando-en-chernobyl-fallaron-los-robots.phtml",
+     "via": "Bing Imágenes",
+     "credit": "perfil.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.qKXqUDYlTXvXtm0yuT0j0wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K1DA1A/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K1DA1A.jpg",
+     "page": "https://www.alamy.com/stock-photo/chernobyl-robot.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.SWWDI-oGdLBTwfIIq5bgXwHaFc&pid=15.1"
+    },
+    {
+     "url": "https://www.shutterstock.com/shutterstock/photos/1433635718/display_1500/stock-photo-chernobyl-ukraine-a-museum-of-the-machines-used-to-clean-after-the-reactor-explosion-1433635718.jpg",
+     "page": "https://www.shutterstock.com/ko/search/소형-원자력",
+     "via": "Bing Imágenes",
+     "credit": "shutterstock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.fAvSaukdBoh3V9ILTRvfXgHaFb&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/2JT6Y9Y/space-dedicated-vehicles-used-to-clean-the-nuclear-power-plant-after-the-accident-prypiat-chernobyl-exclusion-zone-ukraine-2JT6Y9Y.jpg",
+     "page": "https://www.alamy.com/space-dedicated-vehicles-used-to-clean-the-nuclear-power-plant-after-the-accident-prypiat-chernobyl-exclusion-zone-ukraine-image479584839.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Vd6pRnN-OgZDQfEQ6QIJWQHaFa&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K06P2N/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K06P2N.jpg",
+     "page": "https://www.alamy.com/stock-photo/chernobyl-robots.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0t42VY_xgSuApvZfqbgDtgHaFc&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/WAFC63/chernobyl-exclusion-zone-chernobyl-town-abandoned-robotic-vehicle-from-attempted-clean-up-WAFC63.jpg",
+     "page": "https://www.alamy.com/chernobyl-exclusion-zone-chernobyl-town-abandoned-robotic-vehicle-from-attempted-clean-up-image264640939.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vZqawK3idU37IEYTepIFQgHaE-&pid=15.1"
+    },
+    {
+     "url": "https://as2.ftcdn.net/v2/jpg/01/57/32/23/1000_F_157322340_Y1lNiRY5cwWompHUgm3agBjF8KZmYsEw.jpg",
+     "page": "https://stock.adobe.com/images/soviet-robots-of-1980-th-exhibition-technology-which-cleared-the-debris-of-the-chernobyl-nuclear-power-plant-chernobyl-kiev-region-ukraine/157322340",
+     "via": "Bing Imágenes",
+     "credit": "stock.adobe.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.fEZ_k0QAIwyCBTt9qQvhIwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K1D9XE/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K1D9XE.jpg",
+     "page": "https://www.alamy.com/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-image155801142.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.T408JRarCVZ8xFP8VJN3JgHaFc&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/7e/cd/70/7ecd70bf6732d8e590d732f6f93a9049.jpg",
+     "page": "https://www.pinterest.com/pin/development-of-nuclear-waste-robotics-from-chernobots-to-iron-man-suits--253186810287099042/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.yJq-rT3nXCczgsCixHyAzQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://l450v.alamy.com/450v/2f8f1gp/robots-and-machines-used-during-liquidation-of-aftermath-of-the-chernobyl-disaster-in-the-ukraine-2f8f1gp.jpg",
+     "page": "https://www.alamy.com/robots-and-machines-used-during-liquidation-of-aftermath-of-the-chernobyl-disaster-in-the-ukraine-image418296645.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.CD7jZU6wTlKYiy4iD7LJaAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/robots-machines-used-liquidation-aftermath-chernobyl-disaster-ukraine-robots-machines-used-205103645.jpg",
+     "page": "https://www.dreamstime.com/robots-machines-used-liquidation-aftermath-chernobyl-disaster-ukraine-robots-machines-used-image205103645",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.58lqSOhspCk-L8Wd2yDdfwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://miro.medium.com/v2/resize:fit:1012/1*EZcLcIoB4KmPqOjeVyYG9g.jpeg",
+     "page": "https://medium.com/eatagram/workers-of-the-nuclear-reactor-in-chernobyl-will-use-robots-819592094fda",
+     "via": "Bing Imágenes",
+     "credit": "medium.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A_LOrqIry3kC9_K8Ssxz4gHaDt&pid=15.1"
+    },
+    {
+     "url": "https://64.media.tumblr.com/6eb6aa4fd5a4b0f41072547c10955cdd/tumblr_nnfopv7RO41r94kvzo1_640.jpg",
+     "page": "https://www.tumblr.com/celtic-tactical/160025046291/the-bio-robots-of-chernobyl-liquidators-tasked",
+     "via": "Bing Imágenes",
+     "credit": "tumblr.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.WrylksjdCRT09zX7-P5QxgHaLB&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca.brightspotcdn.com/dims4/default/c12a12b/2147483647/strip/true/crop/1143x600+29+0/resize/1200x630!/quality/90/?url=http:%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F44%2F75%2F7ea155a047d99a04577144d98058%2Frobots-entrenados-limpiar-chernobyl.jpg",
+     "page": "https://www.adn40.mx/internacional/robots-chernobyl-video-mva-especial",
+     "via": "Bing Imágenes",
+     "credit": "adn40.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.30vEtHubhu1RcohhqhHb7AHaD4&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
-   "extra_images": [],
-   "extra_at": "2026-11-23T04:37:26.339636+00:00",
+   "extra_images": [
+    {
+     "url": "https://fotos.perfil.com/2026/04/24/trim/987/555/chernobyl-robot-str-1-2227101.jpg",
+     "page": "https://www.perfil.com/noticias/opinion/cuando-en-chernobyl-fallaron-los-robots.phtml",
+     "via": "Bing Imágenes",
+     "credit": "perfil.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.qKXqUDYlTXvXtm0yuT0j0wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K1DA1A/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K1DA1A.jpg",
+     "page": "https://www.alamy.com/stock-photo/chernobyl-robot.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.SWWDI-oGdLBTwfIIq5bgXwHaFc&pid=15.1"
+    },
+    {
+     "url": "https://www.shutterstock.com/shutterstock/photos/1433635718/display_1500/stock-photo-chernobyl-ukraine-a-museum-of-the-machines-used-to-clean-after-the-reactor-explosion-1433635718.jpg",
+     "page": "https://www.shutterstock.com/ko/search/소형-원자력",
+     "via": "Bing Imágenes",
+     "credit": "shutterstock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.fAvSaukdBoh3V9ILTRvfXgHaFb&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/2JT6Y9Y/space-dedicated-vehicles-used-to-clean-the-nuclear-power-plant-after-the-accident-prypiat-chernobyl-exclusion-zone-ukraine-2JT6Y9Y.jpg",
+     "page": "https://www.alamy.com/space-dedicated-vehicles-used-to-clean-the-nuclear-power-plant-after-the-accident-prypiat-chernobyl-exclusion-zone-ukraine-image479584839.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Vd6pRnN-OgZDQfEQ6QIJWQHaFa&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K06P2N/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K06P2N.jpg",
+     "page": "https://www.alamy.com/stock-photo/chernobyl-robots.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0t42VY_xgSuApvZfqbgDtgHaFc&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/WAFC63/chernobyl-exclusion-zone-chernobyl-town-abandoned-robotic-vehicle-from-attempted-clean-up-WAFC63.jpg",
+     "page": "https://www.alamy.com/chernobyl-exclusion-zone-chernobyl-town-abandoned-robotic-vehicle-from-attempted-clean-up-image264640939.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vZqawK3idU37IEYTepIFQgHaE-&pid=15.1"
+    },
+    {
+     "url": "https://as2.ftcdn.net/v2/jpg/01/57/32/23/1000_F_157322340_Y1lNiRY5cwWompHUgm3agBjF8KZmYsEw.jpg",
+     "page": "https://stock.adobe.com/images/soviet-robots-of-1980-th-exhibition-technology-which-cleared-the-debris-of-the-chernobyl-nuclear-power-plant-chernobyl-kiev-region-ukraine/157322340",
+     "via": "Bing Imágenes",
+     "credit": "stock.adobe.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.fEZ_k0QAIwyCBTt9qQvhIwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://c8.alamy.com/comp/K1D9XE/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-K1D9XE.jpg",
+     "page": "https://www.alamy.com/an-exhibition-of-soviet-robots-that-dealt-with-the-rubble-after-the-image155801142.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.T408JRarCVZ8xFP8VJN3JgHaFc&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/7e/cd/70/7ecd70bf6732d8e590d732f6f93a9049.jpg",
+     "page": "https://www.pinterest.com/pin/development-of-nuclear-waste-robotics-from-chernobots-to-iron-man-suits--253186810287099042/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.yJq-rT3nXCczgsCixHyAzQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://l450v.alamy.com/450v/2f8f1gp/robots-and-machines-used-during-liquidation-of-aftermath-of-the-chernobyl-disaster-in-the-ukraine-2f8f1gp.jpg",
+     "page": "https://www.alamy.com/robots-and-machines-used-during-liquidation-of-aftermath-of-the-chernobyl-disaster-in-the-ukraine-image418296645.html",
+     "via": "Bing Imágenes",
+     "credit": "alamy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.CD7jZU6wTlKYiy4iD7LJaAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/robots-machines-used-liquidation-aftermath-chernobyl-disaster-ukraine-robots-machines-used-205103645.jpg",
+     "page": "https://www.dreamstime.com/robots-machines-used-liquidation-aftermath-chernobyl-disaster-ukraine-robots-machines-used-image205103645",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.58lqSOhspCk-L8Wd2yDdfwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://miro.medium.com/v2/resize:fit:1012/1*EZcLcIoB4KmPqOjeVyYG9g.jpeg",
+     "page": "https://medium.com/eatagram/workers-of-the-nuclear-reactor-in-chernobyl-will-use-robots-819592094fda",
+     "via": "Bing Imágenes",
+     "credit": "medium.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A_LOrqIry3kC9_K8Ssxz4gHaDt&pid=15.1"
+    },
+    {
+     "url": "https://64.media.tumblr.com/6eb6aa4fd5a4b0f41072547c10955cdd/tumblr_nnfopv7RO41r94kvzo1_640.jpg",
+     "page": "https://www.tumblr.com/celtic-tactical/160025046291/the-bio-robots-of-chernobyl-liquidators-tasked",
+     "via": "Bing Imágenes",
+     "credit": "tumblr.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.WrylksjdCRT09zX7-P5QxgHaLB&pid=15.1"
+    },
+    {
+     "url": "https://tvazteca.brightspotcdn.com/dims4/default/c12a12b/2147483647/strip/true/crop/1143x600+29+0/resize/1200x630!/quality/90/?url=http:%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F44%2F75%2F7ea155a047d99a04577144d98058%2Frobots-entrenados-limpiar-chernobyl.jpg",
+     "page": "https://www.adn40.mx/internacional/robots-chernobyl-video-mva-especial",
+     "via": "Bing Imágenes",
+     "credit": "adn40.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.30vEtHubhu1RcohhqhHb7AHaD4&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T04:45:35.505574+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5003,7 +5389,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5227,7 +5613,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5240,7 +5626,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T04:37:26.339636+00:00",
+   "extra_at": "2026-11-23T04:45:35.505574+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5260,7 +5646,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5269,11 +5655,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://static.wikia.nocookie.net/babytv/images/d/dd/LittleYellowBunny.webp/revision/latest?cb=20240328040624",
+     "page": "https://babytv.fandom.com/wiki/Rabbit_Habit",
+     "via": "Bing Imágenes",
+     "credit": "babytv.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.in5iYvUfcyx8cIkrAQz2YQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/df/91/48/df9148cd3fb9f7397135fa32391d1242.jpg",
+     "page": "https://www.pinterest.com/pin/rabbits--720013059200946702/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xIHdu59zdsuQRovRPJTiGQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/AONjC8YTIzs/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=AONjC8YTIzs",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.iUcai-JAlWRSiQryjFZbAgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/jR165575g3w/maxresdefault.jpg",
+     "page": "https://chordify.net/pt-BR/chords/babytv-babytv-rabbit-jack-el-conejo-resfriado-ravedj-robot-costea",
+     "via": "Bing Imágenes",
+     "credit": "chordify.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.XVnE2yH-ViH-vnro-vDjGwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/babytvchannel/images/f/f2/Rabbitflash.png/revision/latest?cb=20230610174100",
+     "page": "https://babytvchannel.fandom.com/wiki/Rabbit_Habit/Gallery",
+     "via": "Bing Imágenes",
+     "credit": "babytvchannel.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.CBzN7W8F4sucIENWMgtV3AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/OIRxk6zX8Q0/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=OIRxk6zX8Q0",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpvFf5uk7RostRPmOsjpMQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Sgf2vAooa4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGA8gZShLMA8=&rs=AOn4CLBE2FgF0duBlJQlP95usFJjr6FUog",
+     "page": "https://www.youtube.com/watch?v=3Sgf2vAooa4",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uPQqkJXISUZfQsolufeLLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/YbhHLwQuDfg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGD0gZSgPMA8=&rs=AOn4CLAZsj7VIjwE5KBRBoViQgG-0BnlNw",
+     "page": "https://www.youtube.com/watch?v=YbhHLwQuDfg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.rwOxmdNw9mFMukLo04wlqwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/P3o7U6o21Us/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUyhlMA8=&rs=AOn4CLAxGse6OKngP1a3wNDUbZMj4k6RPg",
+     "page": "https://www.youtube.com/watch?v=P3o7U6o21Us",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ydeyL9_cMYFArLjEiCrX8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://s2.dmcdn.net/v/UpD3j1a9v4lPfZg99/x120",
+     "page": "https://www.dailymotion.com/video/x8jnink",
+     "via": "Bing Imágenes",
+     "credit": "dailymotion.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.QiuYfjgTghAtzrlP-HHL5wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3h9VjwdMypw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGFYgcigRMA8=&rs=AOn4CLB365eX2EeYJGJj0QM0TfOqyTuJcQ",
+     "page": "https://www.youtube.com/watch?v=3h9VjwdMypw",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ERIcStVeTnR5z0r-6hOipwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bNxihlCgIPA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOCgTMA8=&rs=AOn4CLDJ4Z-ajTDBY2GNXmUg070iuHzWRg",
+     "page": "https://www.youtube.com/watch?v=bNxihlCgIPA",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EZVfvFHDLedVCIwd_TN21QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/AONjC8YTIzs/sddefault.jpg",
+     "page": "https://kidvideo.org/video/in-the-animal-world-learn-fun-facts-about-rabbits-babytv-i100042.html",
+     "via": "Bing Imágenes",
+     "credit": "kidvideo.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.hl5nRdF5VRo9uJQqYPeBOQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/1ik8kEtipJk/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=1ik8kEtipJk",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PNyri9Dh254Oz-h0fBi17gHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
-   "extra_images": [],
-   "extra_at": "2026-11-23T04:37:26.339636+00:00",
+   "extra_images": [
+    {
+     "url": "https://static.wikia.nocookie.net/babytv/images/d/dd/LittleYellowBunny.webp/revision/latest?cb=20240328040624",
+     "page": "https://babytv.fandom.com/wiki/Rabbit_Habit",
+     "via": "Bing Imágenes",
+     "credit": "babytv.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.in5iYvUfcyx8cIkrAQz2YQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/df/91/48/df9148cd3fb9f7397135fa32391d1242.jpg",
+     "page": "https://www.pinterest.com/pin/rabbits--720013059200946702/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.xIHdu59zdsuQRovRPJTiGQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/AONjC8YTIzs/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=AONjC8YTIzs",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.iUcai-JAlWRSiQryjFZbAgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/jR165575g3w/maxresdefault.jpg",
+     "page": "https://chordify.net/pt-BR/chords/babytv-babytv-rabbit-jack-el-conejo-resfriado-ravedj-robot-costea",
+     "via": "Bing Imágenes",
+     "credit": "chordify.net",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.XVnE2yH-ViH-vnro-vDjGwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/babytvchannel/images/f/f2/Rabbitflash.png/revision/latest?cb=20230610174100",
+     "page": "https://babytvchannel.fandom.com/wiki/Rabbit_Habit/Gallery",
+     "via": "Bing Imágenes",
+     "credit": "babytvchannel.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.CBzN7W8F4sucIENWMgtV3AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/OIRxk6zX8Q0/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=OIRxk6zX8Q0",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lpvFf5uk7RostRPmOsjpMQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Sgf2vAooa4/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGA8gZShLMA8=&rs=AOn4CLBE2FgF0duBlJQlP95usFJjr6FUog",
+     "page": "https://www.youtube.com/watch?v=3Sgf2vAooa4",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uPQqkJXISUZfQsolufeLLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/YbhHLwQuDfg/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGD0gZSgPMA8=&rs=AOn4CLAZsj7VIjwE5KBRBoViQgG-0BnlNw",
+     "page": "https://www.youtube.com/watch?v=YbhHLwQuDfg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.rwOxmdNw9mFMukLo04wlqwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/P3o7U6o21Us/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gUyhlMA8=&rs=AOn4CLAxGse6OKngP1a3wNDUbZMj4k6RPg",
+     "page": "https://www.youtube.com/watch?v=P3o7U6o21Us",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ydeyL9_cMYFArLjEiCrX8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://s2.dmcdn.net/v/UpD3j1a9v4lPfZg99/x120",
+     "page": "https://www.dailymotion.com/video/x8jnink",
+     "via": "Bing Imágenes",
+     "credit": "dailymotion.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.QiuYfjgTghAtzrlP-HHL5wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3h9VjwdMypw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGFYgcigRMA8=&rs=AOn4CLB365eX2EeYJGJj0QM0TfOqyTuJcQ",
+     "page": "https://www.youtube.com/watch?v=3h9VjwdMypw",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ERIcStVeTnR5z0r-6hOipwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bNxihlCgIPA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOCgTMA8=&rs=AOn4CLDJ4Z-ajTDBY2GNXmUg070iuHzWRg",
+     "page": "https://www.youtube.com/watch?v=bNxihlCgIPA",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EZVfvFHDLedVCIwd_TN21QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/AONjC8YTIzs/sddefault.jpg",
+     "page": "https://kidvideo.org/video/in-the-animal-world-learn-fun-facts-about-rabbits-babytv-i100042.html",
+     "via": "Bing Imágenes",
+     "credit": "kidvideo.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.hl5nRdF5VRo9uJQqYPeBOQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/1ik8kEtipJk/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=1ik8kEtipJk",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PNyri9Dh254Oz-h0fBi17gHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T04:45:35.505574+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5293,13 +5877,17 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T04:37:26.339636+00:00",
+   "first_seen": "2026-11-23T04:45:35.505574+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
-   "item_ids": [],
-   "sources": [],
-   "n_items": 0,
-   "n_sources": 0,
+   "item_ids": [
+    "45ed688ba5ac64"
+   ],
+   "sources": [
+    "YouTube · GrandTV"
+   ],
+   "n_items": 1,
+   "n_sources": 1,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5401,7 +5989,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 3
+   "score": 6
   }
  ]
 }
