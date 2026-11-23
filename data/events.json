@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:06:05.519566+00:00",
+ "updated": "2026-11-23T22:14:05.664923+00:00",
  "count": 24,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -179,7 +179,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-22T13:25:00+00:00",
+   "start": "2026-11-22T13:44:00+00:00",
    "last_activity": "2026-11-23T21:52:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -245,11 +245,7 @@
     "60abe616418766",
     "0adf2732c078f9",
     "af0c7271c83277",
-    "e55a80979b7430",
-    "3124945886ce0c",
-    "f631ec107ddd7e",
-    "c73076a7c6d516",
-    "eec3712ba2f5c1"
+    "e55a80979b7430"
    ],
    "sources": [
     "ABS-CBN",
@@ -270,15 +266,12 @@
     "El Reporte Diario",
     "El Universal",
     "El Universo",
-    "FMDOS — La radio de los dos",
     "Fashion Times UK",
     "HOLA",
     "Infobae",
-    "Instagram",
     "Interaksyon",
     "Khaleej Times",
     "Listín Diario",
-    "MARCA",
     "Mega.cl",
     "Meridiano.net",
     "Metro.Style",
@@ -291,16 +284,19 @@
     "Radio Corazón — La Número Uno",
     "Radio Imagina",
     "Roya News",
-    "Telemundo"
+    "Telemundo",
+    "Telemundo Houston",
+    "Telemundo San Diego",
+    "The Indian Express"
    ],
-   "n_items": 68,
-   "n_sources": 48,
+   "n_items": 64,
+   "n_sources": 45,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 76526,
+     "views": 76721,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -324,7 +320,7 @@
      "official": true
     }
    ],
-   "views_total": 76526,
+   "views_total": 76721,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -745,7 +741,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 170
+   "score": 160
   },
   {
    "key": "seed:voto-top30",
@@ -766,13 +762,12 @@
    "item_ids": [
     "9695f941000ed7",
     "45f6f34e7caa72",
-    "c8e3c0d21e015b",
-    "6ecdf2fd4cf2f1",
     "00a77aa09fb693",
     "7443600d3b5410",
     "4e158d75dfbba2",
     "9019d706d27434",
     "9daa64e5c29e05",
+    "1467fd8181185a",
     "c88074d4c76f20",
     "062866eab54b1c",
     "571d7fc488f0b4",
@@ -801,14 +796,12 @@
     "Noticias Caracol",
     "Publimetro",
     "Revista Semana",
-    "Semana",
-    "Semana on MSN",
     "Telediario México on MSN",
     "Teletrece",
     "minuto60"
    ],
-   "n_items": 23,
-   "n_sources": 17,
+   "n_items": 22,
+   "n_sources": 15,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -825,22 +818,28 @@
      "credit": "Infobae"
     },
     {
-     "url": "https://www.semana.com/resizer/v2/V3QTO5WUZFBJ7MFFNLZUU6BDOM.jpg?auth=bf098c6848a4273bf692b6361f1734578746206349478adbb322c8d1c8d1db3a&smart=true&quality=75&width=1280&height=720",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
+     "url": "https://elcomercio.pe/resizer/v2/G7CXTYL5VJENFO54MW26VT6TRI.png?auth=2b1c7aa7e3f80aedd0526086d0b6b6cfb891707fd5dbd61ef2865e9080b04e8e&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
     },
     {
-     "url": "https://www.semana.com/resizer/v2/YIII52VK3FCOZEEFHFUSWWMLUA.jpg?smart=true&auth=717f8495810070e4027a1a60a497cdb67fb60f6ac7f482a88192e8631a140b8e&width=128&height=128",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
     },
     {
-     "url": "https://www.semana.com/resizer/v2/YN52SWPATJAFNCBHZMUVORSPC4.jpg?auth=b37d74365795c14da13aaa7b1b0b031f84ba4245eaaf6a6575093d746108579d&width=1280&height=720",
-     "page": "https://www.semana.com/gente/articulo/asi-puede-votar-desde-colombia-por-maria-alejandra-lopez-en-miss-universo-2026-el-camino-para-llegar-al-top-30-de-semifinalistas/202645/",
-     "via": "Semana",
-     "credit": "Semana"
+     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
     },
     {
      "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
@@ -849,19 +848,7 @@
      "credit": "Publimetro"
     },
     {
-     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
      "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
      "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-justus-kelley-de-estados-unidos-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-estadounidense-nnda-nnrt-noticia/",
      "via": "El Comercio",
      "credit": "El Comercio"
@@ -994,19 +981,7 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DHW0MWnRirP",
-    "https://www.instagram.com/p/DTyREPOD9-K",
-    "https://www.instagram.com/p/DVKENbNkafb",
-    "https://www.instagram.com/p/Da7QR7kCZcm",
-    "https://www.instagram.com/p/DcXRGLPM034",
-    "https://www.instagram.com/p/DcXa4EeN1mV",
-    "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/DeV3znYHASa",
-    "https://www.instagram.com/p/DeVnuB8Mh1c",
-    "https://www.instagram.com/p/DeWSnLvsRAI",
-    "https://www.instagram.com/p/DfirgglRWDt",
-    "https://www.instagram.com/reel/C922JzihsxJ",
-    "https://www.instagram.com/reel/DT07ca2jn_X"
+    "https://www.instagram.com/p/Dct5YGWDLvh"
    ],
    "image_query": "Miss Universe 2026 vote top 30",
    "extra_images": [
@@ -1056,68 +1031,8 @@
    "extra_at": "2026-11-23T19:25:56.096202+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DHW0MWnRirP",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DTyREPOD9-K",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DVKENbNkafb",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/Da7QR7kCZcm",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DcXRGLPM034",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DcXa4EeN1mV",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-23T21:49:56.096361+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DeV3znYHASa",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DeWSnLvsRAI",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/p/DfirgglRWDt",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/reel/C922JzihsxJ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-23T22:06:05.519566+00:00",
-     "url": "https://www.instagram.com/reel/DT07ca2jn_X",
      "platform": "Instagram"
     }
    ],
@@ -1127,7 +1042,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 60
+   "score": 55
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -1138,13 +1053,12 @@
    "labels": [
     "Gala / cena",
     "Preliminar",
-    "Talento / reto",
     "Traje de baño"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T13:25:00+00:00",
+   "start": "2026-11-22T13:50:00+00:00",
    "last_activity": "2026-11-23T21:21:29+00:00",
    "item_ids": [
     "37ce0ddfcdf2e3",
@@ -1310,14 +1224,14 @@
     "El Reporte Diario",
     "El Universal"
    ],
-   "n_items": 257,
-   "n_sources": 111,
+   "n_items": 254,
+   "n_sources": 110,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 644779,
+     "views": 644927,
      "ago": "Transmitido hace 20 h",
      "official": false
     },
@@ -1325,7 +1239,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 58339,
+     "views": 58431,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -1334,7 +1248,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53835,
+     "views": 53976,
      "ago": "hace 19 h",
      "official": false
     },
@@ -1342,7 +1256,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 19018,
+     "views": 19107,
      "ago": "hace 20 h",
      "official": false
     },
@@ -1356,7 +1270,7 @@
      "official": true
     }
    ],
-   "views_total": 775971,
+   "views_total": 776441,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -1637,8 +1551,107 @@
     "https://www.instagram.com/reel/DgEBhS1MTs-"
    ],
    "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
-   "extra_images": [],
-   "extra_at": "2026-11-23T22:06:05.519566+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/originals/7e/ee/b8/7eeeb825d0e0b7ee59a4f9a7fa491384.jpg",
+     "page": "https://www.pinterest.es/pin/459437599470374020/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.XcBOTFIBiFvjRmc2jaNHrAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/IGnH-U0SlGY/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=IGnH-U0SlGY",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.TyQDzCrNY2iOTw0q5-29wgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/31/90/30/319030587306166565d1c8290d5f9c66.jpg",
+     "page": "https://ar.pinterest.com/pin/667588344760486584/",
+     "via": "Bing Imágenes",
+     "credit": "ar.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vyihnxRDQDZ2vI4jZRA1SgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdn0.uncomo.com/es/posts/8/2/8/como_dibujar_una_estrella_paso_a_paso_32828_orig.jpg",
+     "page": "https://www.mundodeportivo.com/uncomo/artes/video/como-dibujar-una-estrella-paso-a-paso-32828.html",
+     "via": "Bing Imágenes",
+     "credit": "mundodeportivo.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.roAZZDd28keLUgyunUy0rgHaEf&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/w5Mj1b7bLJg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=w5Mj1b7bLJg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.HdtCenNAtWfpegPUdMiOuQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/jAFNYzifi_E/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=jAFNYzifi_E",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.KqPiAIEainxCS1UDbk2AXAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/LbvNQ7QrhCc/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=LbvNQ7QrhCc",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.d2gqvfaE-Yz_bQRvMp1IwAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/5SvdASIXzP8/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=5SvdASIXzP8",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.WBQi28H7qW_Oqdjvc5dE3gHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.wikihow.com/images/2/29/Draw-a-Star-Step-20-Version-5.jpg",
+     "page": "https://es.wikihow.com/dibujar-una-estrella",
+     "via": "Bing Imágenes",
+     "credit": "es.wikihow.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.4fN-6s5wOnmsXwtCIrtDEwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_191755-972.jpg?w=1800",
+     "page": "https://www.freepik.es/vector-premium/como-dibujar-estrellas-paso-paso-aprender-educacion-infantil-libro-colorear_266401544.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cX_cO7lgUAtFiHLYxlzbmAHaIS&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/cf/de/f7/cfdef7f03add75ed0a832f80cae12061.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.m-BvcQ365BKgIzDEdELcbwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/ae/a1/76/aea17686cc14f6185b98d2826bf11920.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-estrellas-paso-a-paso/910618364647/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.OZHNoW90eywnAnEWK9e3sgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/a2/7e/bd/a27ebd021641e04979947e287c7ceb4b.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/como-dibujar-una-estrella-paso-a-paso/924746883179/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lbIRmyb4GevK6fYVVCWR3wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://coloringonly.com/es/images/imgcolor/Estrella-Facil.jpg",
+     "page": "https://coloringonly.com/es/pages/estrella-animada/",
+     "via": "Bing Imágenes",
+     "credit": "coloringonly.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.UXR-CkMVo_Cj5To1YNhciQHaKf&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-23T22:14:05.664923+00:00",
    "social": [
     {
      "fetched": "2026-11-23T21:49:56.096361+00:00",
@@ -1797,7 +1810,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 520
+   "score": 515
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -2001,7 +2014,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T13:25:00+00:00",
+   "start": "2026-11-22T13:44:00+00:00",
    "last_activity": "2026-11-23T19:00:00+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -2059,11 +2072,7 @@
     "60abe616418766",
     "0adf2732c078f9",
     "af0c7271c83277",
-    "e55a80979b7430",
-    "3124945886ce0c",
-    "f631ec107ddd7e",
-    "c73076a7c6d516",
-    "eec3712ba2f5c1"
+    "e55a80979b7430"
    ],
    "sources": [
     "ABS-CBN",
@@ -2082,15 +2091,12 @@
     "El Pitazo",
     "El Reporte Diario",
     "El Universal",
-    "FMDOS — La radio de los dos",
     "Fashion Times UK",
     "HOLA",
     "Infobae",
-    "Instagram",
     "Interaksyon",
     "Khaleej Times",
     "Listín Diario",
-    "MARCA",
     "Mega.cl",
     "Metro.Style",
     "Outlook Luxe",
@@ -2105,16 +2111,19 @@
     "Telemundo San Diego",
     "The Indian Express",
     "UnoTV on MSN",
-    "Yahoo"
+    "Yahoo",
+    "YouTube · Miss Universe",
+    "YouTube · Telemundo Entretenimiento",
+    "lanoticiadebarinas"
    ],
-   "n_items": 60,
-   "n_sources": 43,
+   "n_items": 56,
+   "n_sources": 40,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 76526,
+     "views": 76721,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -2129,7 +2138,7 @@
      "official": true
     }
    ],
-   "views_total": 76526,
+   "views_total": 76721,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2447,7 +2456,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 152
+   "score": 142
   },
   {
    "key": "t:mu:Desfile de moda:2026-11-21",
@@ -3021,12 +3030,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53835,
+     "views": 53976,
      "ago": "hace 19 h",
      "official": false
     }
    ],
-   "views_total": 53835,
+   "views_total": 53976,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3620,7 +3629,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 644779,
+     "views": 644927,
      "ago": "Transmitido hace 20 h",
      "official": false
     },
@@ -3628,7 +3637,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 58339,
+     "views": 58431,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -3637,7 +3646,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 53835,
+     "views": 53976,
      "ago": "hace 19 h",
      "official": false
     },
@@ -3645,12 +3654,12 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 19018,
+     "views": 19107,
      "ago": "hace 20 h",
      "official": false
     }
    ],
-   "views_total": 775971,
+   "views_total": 776441,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -4105,7 +4114,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4291,7 +4300,6 @@
     "Minuto60",
     "Music Mundial",
     "N+",
-    "N+ Noticias",
     "Panamá América",
     "Prensa Libre",
     "Primera Hora",
@@ -4318,8 +4326,8 @@
     "wapa.tv",
     "www.laprensa.hn"
    ],
-   "n_items": 196,
-   "n_sources": 86,
+   "n_items": 194,
+   "n_sources": 85,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4477,7 +4485,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 371
+   "score": 367
   },
   {
    "key": "p:one unforgettable night",
@@ -4612,7 +4620,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4666,8 +4674,7 @@
     "60abe616418766",
     "0adf2732c078f9",
     "af0c7271c83277",
-    "e55a80979b7430",
-    "3124945886ce0c"
+    "e55a80979b7430"
    ],
    "sources": [
     "Artículo 66",
@@ -4681,7 +4688,6 @@
     "El Nacional",
     "El Nuevo Día",
     "El Pitazo",
-    "FMDOS — La radio de los dos",
     "Fashion Times UK",
     "HOLA",
     "Infobae",
@@ -4708,8 +4714,8 @@
     "YouTube · Telemundo Entretenimiento",
     "lanoticiadebarinas"
    ],
-   "n_items": 52,
-   "n_sources": 37,
+   "n_items": 51,
+   "n_sources": 36,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4923,7 +4929,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 129
+   "score": 126
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4934,7 +4940,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4983,7 +4989,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4996,7 +5002,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-23T22:06:05.519566+00:00",
+   "extra_at": "2026-11-23T22:14:05.664923+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5016,7 +5022,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5247,7 +5253,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5260,7 +5266,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T22:06:05.519566+00:00",
+   "extra_at": "2026-11-23T22:14:05.664923+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5280,7 +5286,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T22:06:05.519566+00:00",
+   "first_seen": "2026-11-23T22:14:05.664923+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
