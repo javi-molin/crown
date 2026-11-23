@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T19:25:56.096202+00:00",
+ "updated": "2026-11-23T19:33:56.315637+00:00",
  "count": 26,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [],
@@ -182,7 +182,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T07:31:00+00:00",
+   "start": "2026-11-22T07:45:00+00:00",
    "last_activity": "2026-11-23T19:20:49+00:00",
    "item_ids": [
     "37ce0ddfcdf2e3",
@@ -192,6 +192,7 @@
     "908700188452d3",
     "5fd8f5152b4b58",
     "34b9daca5388ec",
+    "cfb50969e326b7",
     "fe2e2de8c6f713",
     "6b20605c824873",
     "ad5321b491cf7d",
@@ -211,6 +212,7 @@
     "bf65617ec82716",
     "523498a4640634",
     "414536a7da32f5",
+    "bc6a53622db3fa",
     "6a2afbd99d5336",
     "2fdcb820131df3",
     "b2ef86e9afdce4",
@@ -302,9 +304,7 @@
     "7e819859201a8f",
     "bf2d8c77fde412",
     "6e10f7dd27178e",
-    "9b0a7b5f991a59",
-    "1368a97089cc67",
-    "410cee405c3f23"
+    "9b0a7b5f991a59"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -342,20 +342,20 @@
     "El Mostrador",
     "El Nacional",
     "El Nuevo Día",
+    "El País",
     "El Pitazo",
     "El Reporte Diario",
     "El Tiempo",
-    "El Universal",
-    "El Universo"
+    "El Universal"
    ],
-   "n_items": 256,
-   "n_sources": 108,
+   "n_items": 258,
+   "n_sources": 109,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 639785,
+     "views": 639946,
      "ago": "Transmitido hace 17 h",
      "official": false
     },
@@ -372,20 +372,20 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 48695,
-     "ago": "hace 16 h",
+     "views": 48843,
+     "ago": "hace 17 h",
      "official": false
     },
     {
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17467,
-     "ago": "hace 17 h",
+     "views": 17544,
+     "ago": "hace 18 h",
      "official": false
     }
    ],
-   "views_total": 763475,
+   "views_total": 763861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -414,6 +414,30 @@
      "page": "https://www.youtube.com/watch?v=kdbVKox8QKU",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://static1.squarespace.com/static/6765a6f4ed3c016135be51da/67f4f64fb442a563cde4b33e/6af5f5f8df3c754d1d65cfaa/1794517256874/%C2%BFQu%C3%A9+lleva+en+su+cartera+Florencia+Araneda+Desde+sus+esenciales+de+belleza+hasta+un+curioso+amuleto+de+la+suerte.png?format=1500w",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "https://www.adnradio.cl/resizer/v2/Q2JNU5PUXRCWLC4PLQKUXQSJNY.jpg?auth=efa60f90ac04e4dae997fd796a0684797061a7df1855215c6bb0b41ea1c10cbb&quality=70&width=1200&height=675&focal=672,459",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "https://los40.cl/resizer/v2/5LMZ2QCTWBDPHPNGRF4OI3TSJ4.jpg?auth=618c77e3f60fc15fcecc407fb3c5504aa16bf596a9fbac0e10b9627b89345e14&quality=70&width=1200&height=675&smart=true",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "FMDOS",
+     "credit": "FMDOS"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.YYMVEXeNk45rO1YWhL3J0g&pid=News",
+     "page": "https://www.fmdos.cl/noticias/dominga-lopez-deslumbro-en-miss-universo-2026-con-vestido-inspirado-en-el-universo-estos-son-sus-detalles/",
+     "via": "Bing (miniatura)",
+     "credit": "FMDOS"
     },
     {
      "url": "https://www.laprensa.hn/binrepository/1600x1200/0c0/1600d1200/none/11004/NYLC/copia-de-1260-x-945-69_16210900_20261123124743.jpg",
@@ -473,12 +497,6 @@
      "url": "https://www.laprensa.hn/binrepository/1200x1600/0c0/0d0/none/11004/PBEC/the-gowns-are-gowning_16211090_20261123125638.jpg",
      "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
      "via": "LA PRENSA",
-     "credit": "LA PRENSA"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.F3jmq6La8t_KuOt7PHxWBQ&pid=News",
-     "page": "https://www.laprensa.hn/fotogalerias/farandula/los-momentos-vestidos-marcaron-preliminar-miss-universo-2026-NE32724823",
-     "via": "Bing (miniatura)",
      "credit": "LA PRENSA"
     },
     {
@@ -612,24 +630,6 @@
      "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
      "via": "El Informador",
      "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795442319152/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_de_baxo.png_644189360.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795442570196/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_de_gala.png_667277385.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/export/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_tipico.png_157488745.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
     }
    ],
    "social_urls": [
@@ -723,7 +723,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/p/DgBjL7BhQOB",
      "platform": "Instagram"
     },
@@ -828,7 +828,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgD80ydM3gC",
      "platform": "Instagram"
     },
@@ -854,7 +854,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 513
+   "score": 517
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -1058,17 +1058,17 @@
    "extra_at": "2026-11-23T17:49:55.419036+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/p/DfypQVgmOl1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgE9dNvRE4c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
      "platform": "Instagram"
     }
@@ -1837,7 +1837,6 @@
     "4cd0ff0ce4456f",
     "b43f40c5b687ec",
     "450167f45b1898",
-    "49922cfb2a1897",
     "53c6100680d683",
     "50b632124d62bd",
     "3562dcd4d516b7",
@@ -1868,7 +1867,6 @@
     "La Nación Costa Rica",
     "MDZ Online",
     "MILENIO",
-    "Meridiano.net",
     "Metro Ecuador on MSN",
     "Metro Puerto Rico",
     "Milenio on MSN",
@@ -1884,21 +1882,22 @@
     "lanoticiadebarinas",
     "mexico",
     "primicias",
-    "wapa.tv"
+    "wapa.tv",
+    "www.laprensa.hn"
    ],
-   "n_items": 58,
-   "n_sources": 41,
+   "n_items": 57,
+   "n_sources": 40,
    "videos": [
     {
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 48695,
-     "ago": "hace 16 h",
+     "views": 48843,
+     "ago": "hace 17 h",
      "official": false
     }
    ],
-   "views_total": 48695,
+   "views_total": 48843,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -2217,7 +2216,7 @@
    "extra_at": "2026-11-23T17:01:56.332383+00:00",
    "social": [
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/p/DgBjL7BhQOB",
      "platform": "Instagram"
     },
@@ -2271,7 +2270,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 145
+   "score": 142
   },
   {
    "key": "seed:voto-top30",
@@ -2919,7 +2918,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 639785,
+     "views": 639946,
      "ago": "Transmitido hace 17 h",
      "official": false
     },
@@ -2936,20 +2935,20 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 48695,
-     "ago": "hace 16 h",
+     "views": 48843,
+     "ago": "hace 17 h",
      "official": false
     },
     {
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 17467,
-     "ago": "hace 17 h",
+     "views": 17544,
+     "ago": "hace 18 h",
      "official": false
     }
    ],
-   "views_total": 763475,
+   "views_total": 763861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3245,7 +3244,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgD80ydM3gC",
      "platform": "Instagram"
     },
@@ -3260,7 +3259,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
      "platform": "Instagram"
     },
@@ -3275,12 +3274,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-23T18:29:55.692287+00:00",
+     "fetched": "2026-11-23T19:33:56.315637+00:00",
      "url": "https://www.instagram.com/reel/DgENV4kBN3o",
      "platform": "Instagram"
     },
@@ -3653,25 +3652,9 @@
    ],
    "n_items": 6,
    "n_sources": 5,
-   "videos": [
-    {
-     "vid": "Rrun4KRn71Q",
-     "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
-     "channel": "Miss Universe",
-     "views": 1104391,
-     "ago": "Transmitido hace 5 días",
-     "official": false
-    }
-   ],
-   "views_total": 1104391,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/Rrun4KRn71Q/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
     {
      "url": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/H/bea%20-%201200x630-200kb.jpeg",
      "page": "https://philstarlife.com/celebrity/806906-bea-millan-windorski-miss-universe-2026-swimsuit-competition",
@@ -3739,7 +3722,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 74
+   "score": 19
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -3750,7 +3733,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3758,6 +3741,7 @@
     "908700188452d3",
     "5fd8f5152b4b58",
     "34b9daca5388ec",
+    "cfb50969e326b7",
     "fe2e2de8c6f713",
     "6b20605c824873",
     "ad5321b491cf7d",
@@ -3872,8 +3856,7 @@
     "25a927cf98776b",
     "d572e7fd2fe52d",
     "7332669d6fdcdb",
-    "0de449ac61b0e8",
-    "acf139abc71ee2"
+    "0de449ac61b0e8"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -3904,6 +3887,7 @@
     "El Mostrador",
     "El Nacional",
     "El Nuevo Día",
+    "El País",
     "El Reporte Diario",
     "El Universal",
     "El Universo",
@@ -3926,7 +3910,6 @@
     "MARCA",
     "Mega.cl",
     "Meganoticias",
-    "Meridiano.net",
     "Metro Ecuador",
     "Metro Ecuador on MSN",
     "Metro Puerto Rico",
@@ -4692,7 +4675,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Unlock Coronation Night",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:25:56.096202+00:00",
+   "extra_at": "2026-11-23T19:33:56.315637+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4711,7 +4694,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5056,7 +5039,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5069,7 +5052,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:25:56.096202+00:00",
+   "extra_at": "2026-11-23T19:33:56.315637+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5089,7 +5072,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5320,7 +5303,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5551,7 +5534,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5564,7 +5547,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-23T19:25:56.096202+00:00",
+   "extra_at": "2026-11-23T19:33:56.315637+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5584,7 +5567,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T19:25:56.096202+00:00",
+   "first_seen": "2026-11-23T19:33:56.315637+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
