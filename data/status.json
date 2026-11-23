@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-23T21:09:55.619062+00:00",
+ "run_at": "2026-11-23T21:17:56.345575+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 102,
+   "items": 92,
    "error": null
   },
   {
@@ -40,13 +40,13 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 42,
+   "items": 43,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 100,
+   "items": 99,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 63,
+   "items": 28,
    "error": null
   },
   {
@@ -166,31 +166,31 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 0,
+   "items": 15,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 0,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 15,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 3,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 20,
+   "items": 23,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -327,9 +327,9 @@
   },
   {
    "source": "Galería · Bing por candidata (12/834 celdas)",
-   "ok": true,
-   "items": 8,
-   "error": null
+   "ok": false,
+   "items": 4,
+   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "3022 imágenes en el espejo"
+   "items": 1,
+   "error": "3023 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 223,
+   "items": 228,
    "error": null
   }
  ],
- "new_items": 847,
+ "new_items": 817,
  "total_items": 900
 }
