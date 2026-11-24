@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T19:42:33.351696+00:00",
- "count": 29,
+ "updated": "2026-11-24T19:50:34.014987+00:00",
+ "count": 30,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,19 +110,21 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
     "e18907c86261d5",
-    "a487635195184b"
+    "a487635195184b",
+    "6f46c9b306e4d2"
    ],
    "sources": [
     "Facebook",
-    "Inquirer.net"
+    "Inquirer.net",
+    "Inquirer.net - Philippines Entertainment News"
    ],
-   "n_items": 2,
-   "n_sources": 2,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -138,7 +140,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 9
+   "score": 12
   },
   {
    "key": "agenda:mu:final-y-coronacion",
@@ -149,10 +151,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "9a720165ef0831",
+    "14d910e912dd21",
     "4fc4714d5a6be4",
     "cf8d45cdfe8bb6",
     "733e3fe735a480",
@@ -235,8 +239,10 @@
     "533a459e19e5ad",
     "e55373789e87fb",
     "6dea49a0b12430",
+    "7c8aead19c9331",
     "589e2403daad00",
     "0377ac6e8bbfb2",
+    "3dd29dfb12b0ea",
     "a487635195184b",
     "070611fd8c8d31",
     "6324bfe05ac0f2",
@@ -268,11 +274,7 @@
     "769531e0d5c4f7",
     "4cf6ea4d0a4217",
     "d2ea33ccb98bec",
-    "55e2c573f3a749",
-    "a5a34ef7d30ba5",
-    "8594232d1d65da",
-    "cb5e04e0d00f53",
-    "8e2cad42e4b0b1"
+    "55e2c573f3a749"
    ],
    "sources": [
     "24 horas",
@@ -295,6 +297,7 @@
     "Detroit Free Press",
     "Diario El Mundo",
     "Diario Primicia",
+    "EL DEBER",
     "EL PAÍS",
     "Eje Central",
     "El Ancasti",
@@ -316,6 +319,7 @@
     "El Universal",
     "El Universo",
     "Ellas.pa",
+    "Enfoque Digital TV",
     "Facebook",
     "GMA Network",
     "Gestión",
@@ -352,6 +356,7 @@
     "Prensa Libre",
     "Preview.ph",
     "Publimetro",
+    "Radio Agricultura",
     "Reporte Indigo",
     "Reporte Índigo",
     "Revista Caretas",
@@ -373,6 +378,7 @@
     "https://www.elmonitoredomex.com/",
     "m360.cl",
     "retodiario",
+    "tunota",
     "www.elmagallanews.cl",
     "www.elnortero.cl",
     "www.elrancahuaso.cl",
@@ -380,8 +386,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 175,
-   "n_sources": 104,
+   "n_items": 180,
+   "n_sources": 108,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -397,7 +403,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 386
+   "score": 399
   },
   {
    "key": "p:the big night",
@@ -562,11 +568,153 @@
    "n_sources": 1,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/028/707/505/large/hospital-nurses-fix-electrodes-on-patient-limbs-for-cardiology-tests-and-equipment-doctor-prepares-a-male-patient-for-the-removal-of-a-cardiogram-the-doctor-fastens-electrodes-to-the-patient-insta-free-video.jpg",
+     "page": "https://es.vecteezy.com/video/28707505-hospital-enfermeras-reparar-electrodos-en-paciente-extremidades-para-cardiologia-pruebas-y-equipo-medico-prepara-un-masculino-paciente-para-el-eliminacion-de-un-cardiograma-el-medico-sujeta-electrodos-a-el-paciente-insta",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.riMaH92F4KCFgFozxiJ21wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-1-f.scribdassets.com/img/document/651447312/original/35d5806da5/1?v=1",
+     "page": "https://es.scribd.com/document/651447312/Electricidad-del-corazon",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HwmVkcRNsEa8ko66HrFZPAHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/028/051/115/original/hospital-nurses-fix-electrodes-on-patient-limbs-for-cardiology-tests-and-equipment-doctor-prepares-a-male-patient-for-the-removal-of-a-cardiogram-the-doctor-fastens-electrodes-to-the-patient-insta-free-video.jpg",
+     "page": "https://es.vecteezy.com/video/28051115-hospital-enfermeras-reparar-electrodos-en-paciente-extremidades-para-cardiologia-pruebas-y-equipo-medico-prepara-un-masculino-paciente-para-el-eliminacion-de-un-cardiograma-el-medico-sujeta-electrodos-a-el-paciente-insta",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pz8MoEQ4ZtquZIoWQcjxfAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://3.bp.blogspot.com/-MswI-mtNNp4/W6reCQKM-gI/AAAAAAAABBQ/7P-LRnc3hQU0zqshPP58DZdMfpUYFfsDACLcBGAs/s1600/INSTALACIONES_ELECTRICAS_PARA_USO_HOSPITALARIO03.jpg",
+     "page": "https://electricidad-lagomaggiore.blogspot.com/2018/09/instalaciones-electricas-para-uso.html",
+     "via": "Bing Imágenes",
+     "credit": "electricidad-lagomaggiore.blogspot.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.hlGJcPbCImyajwdQMwFwPwHaEQ&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/rJqjxEkH4Uo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgUShlMA8=&rs=AOn4CLBolNwAVmHPAF01ptuRlvUjtJWE4Q",
+     "page": "https://www.youtube.com/watch?v=rJqjxEkH4Uo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2d0e2B55WH6zg8x4EOfR6gHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Qd3GAD8S2CQ/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Qd3GAD8S2CQ",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.wjZFuOBbOdUMiiGH_5lrUwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/cuidado-integral-del-paciente-critico-240706084857-51f8090c/85/Cuidado-Integral-del-Paciente-Critico-pptx-6-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/cuidado-integral-del-paciente-critico-pptx/270092282",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Nd5FjUT0XD-i9Zrcwhv5sAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://screenshots.scribd.com/Scribd/252_100_85/189/86026258/5.jpeg",
+     "page": "https://es.scribd.com/doc/86026258/Aplicacion-de-la-electricidad-en-la-medicina",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.k0Ghd_tQCf_1VOqahaTuEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/229529643/original/e50831aef5/1?v=1",
+     "page": "https://es.scribd.com/document/229529643/Electricidad-Cuerpo-Humano-y-Medicina",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.9zapwOA1qbxuMp5H_66A9QHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://0701.static.prezi.com/preview/v2/3ho5fzqlywtwoq43pf4zv4r6qx6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+     "page": "https://prezi.com/p/rzprwvchplxa/sistema-electrico-del-corazon/",
+     "via": "Bing Imágenes",
+     "credit": "prezi.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.f5EwJFhn1zDk5tpr09u9rAHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [],
-   "extra_at": "2026-11-24T19:42:33.351696+00:00",
+   "extra_images": [
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/028/707/505/large/hospital-nurses-fix-electrodes-on-patient-limbs-for-cardiology-tests-and-equipment-doctor-prepares-a-male-patient-for-the-removal-of-a-cardiogram-the-doctor-fastens-electrodes-to-the-patient-insta-free-video.jpg",
+     "page": "https://es.vecteezy.com/video/28707505-hospital-enfermeras-reparar-electrodos-en-paciente-extremidades-para-cardiologia-pruebas-y-equipo-medico-prepara-un-masculino-paciente-para-el-eliminacion-de-un-cardiograma-el-medico-sujeta-electrodos-a-el-paciente-insta",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.riMaH92F4KCFgFozxiJ21wHaEK&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-1-f.scribdassets.com/img/document/651447312/original/35d5806da5/1?v=1",
+     "page": "https://es.scribd.com/document/651447312/Electricidad-del-corazon",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HwmVkcRNsEa8ko66HrFZPAHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://static.vecteezy.com/system/resources/thumbnails/028/051/115/original/hospital-nurses-fix-electrodes-on-patient-limbs-for-cardiology-tests-and-equipment-doctor-prepares-a-male-patient-for-the-removal-of-a-cardiogram-the-doctor-fastens-electrodes-to-the-patient-insta-free-video.jpg",
+     "page": "https://es.vecteezy.com/video/28051115-hospital-enfermeras-reparar-electrodos-en-paciente-extremidades-para-cardiologia-pruebas-y-equipo-medico-prepara-un-masculino-paciente-para-el-eliminacion-de-un-cardiograma-el-medico-sujeta-electrodos-a-el-paciente-insta",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pz8MoEQ4ZtquZIoWQcjxfAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://3.bp.blogspot.com/-MswI-mtNNp4/W6reCQKM-gI/AAAAAAAABBQ/7P-LRnc3hQU0zqshPP58DZdMfpUYFfsDACLcBGAs/s1600/INSTALACIONES_ELECTRICAS_PARA_USO_HOSPITALARIO03.jpg",
+     "page": "https://electricidad-lagomaggiore.blogspot.com/2018/09/instalaciones-electricas-para-uso.html",
+     "via": "Bing Imágenes",
+     "credit": "electricidad-lagomaggiore.blogspot.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.hlGJcPbCImyajwdQMwFwPwHaEQ&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/rJqjxEkH4Uo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgUShlMA8=&rs=AOn4CLBolNwAVmHPAF01ptuRlvUjtJWE4Q",
+     "page": "https://www.youtube.com/watch?v=rJqjxEkH4Uo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2d0e2B55WH6zg8x4EOfR6gHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/Qd3GAD8S2CQ/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Qd3GAD8S2CQ",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.wjZFuOBbOdUMiiGH_5lrUwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://image.slidesharecdn.com/cuidado-integral-del-paciente-critico-240706084857-51f8090c/85/Cuidado-Integral-del-Paciente-Critico-pptx-6-320.jpg",
+     "page": "https://es.slideshare.net/slideshow/cuidado-integral-del-paciente-critico-pptx/270092282",
+     "via": "Bing Imágenes",
+     "credit": "es.slideshare.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Nd5FjUT0XD-i9Zrcwhv5sAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://screenshots.scribd.com/Scribd/252_100_85/189/86026258/5.jpeg",
+     "page": "https://es.scribd.com/doc/86026258/Aplicacion-de-la-electricidad-en-la-medicina",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.k0Ghd_tQCf_1VOqahaTuEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/229529643/original/e50831aef5/1?v=1",
+     "page": "https://es.scribd.com/document/229529643/Electricidad-Cuerpo-Humano-y-Medicina",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.9zapwOA1qbxuMp5H_66A9QHaJ4&pid=15.1"
+    },
+    {
+     "url": "https://0701.static.prezi.com/preview/v2/3ho5fzqlywtwoq43pf4zv4r6qx6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+     "page": "https://prezi.com/p/rzprwvchplxa/sistema-electrico-del-corazon/",
+     "via": "Bing Imágenes",
+     "credit": "prezi.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.f5EwJFhn1zDk5tpr09u9rAHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T19:50:34.014987+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1231,13 +1379,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2685,
-     "likes": 86,
+     "views": 3142,
+     "likes": 101,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2685,
+   "views_total": 3142,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2375,7 +2523,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 32108,
+     "views": 32253,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2384,13 +2532,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 25082,
+     "views": 25428,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 57190,
+   "views_total": 57681,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2639,6 +2787,175 @@
    "score": 32
   },
   {
+   "key": "t:me:Llegada / bienvenida:2026-11-24",
+   "id": "t-me-llegada-bienvenida-2026-11-24-51587",
+   "name": "Llegada / bienvenida · 24–26 nov",
+   "contest": "me",
+   "kind": "detectado",
+   "labels": [
+    "Llegada / bienvenida"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "start": "2026-11-24T00:06:00+00:00",
+   "last_activity": "2026-11-24T11:32:00+00:00",
+   "item_ids": [
+    "288217bb8d6a5f",
+    "9ad91a2d6b7567",
+    "a8c239845d5c7b"
+   ],
+   "sources": [
+    "Las Provincias",
+    "Yahoo Finance"
+   ],
+   "n_items": 3,
+   "n_sources": 2,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://s3.ppllstatics.com/comun/img/2014/autor/autor-483-foto-3.jpeg?width=90",
+     "page": "https://www.lasprovincias.es/sociedad/miss-universo-2026-bea-millanwindorski-modelo-representa-20261124203242-nt.html",
+     "via": "Las Provincias",
+     "credit": "Las Provincias"
+    },
+    {
+     "url": "https://s1.ppllstatics.com/rc/www/multimedia/modulos/2026/11/23/PARIS-DANI-MENDEZ-U46461040247Kiq-467x262@RC.jpg",
+     "page": "https://www.lasprovincias.es/sociedad/miss-universo-2026-bea-millanwindorski-modelo-representa-20261124203242-nt.html",
+     "via": "Las Provincias",
+     "credit": "Las Provincias"
+    },
+    {
+     "url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/plantillas/media/2026/ranking-empresas-U201892271949v6C-U201659646566My-325x228@Las%20Provincias.jpg",
+     "page": "https://www.lasprovincias.es/sociedad/miss-universo-2026-bea-millanwindorski-modelo-representa-20261124203242-nt.html",
+     "via": "Las Provincias",
+     "credit": "Las Provincias"
+    },
+    {
+     "url": "https://s2.ppllstatics.com/lasprovincias/www/multimedia/plantillas/media/2026/miClub-kpsG-U201659646566My-325x228@Las%20Provincias.jpg",
+     "page": "https://www.lasprovincias.es/sociedad/miss-universo-2026-bea-millanwindorski-modelo-representa-20261124203242-nt.html",
+     "via": "Las Provincias",
+     "credit": "Las Provincias"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.XbtMqXwAq6lR36iH80V_uQ&pid=News",
+     "page": "https://www.lasprovincias.es/sociedad/miss-universo-2026-bea-millanwindorski-modelo-representa-20261124203242-nt.html",
+     "via": "Bing (miniatura)",
+     "credit": "Las Provincias"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/32714b975ce0190e733da8872e97217f2f7b2cdd39d3b91b0a64cb5d824a204a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fe48e86dda35543079ee2080fd9208b73.png",
+     "page": "https://finance.yahoo.com/markets/stocks/articles/zhihu-zh-q3-2026-earnings-181650696.html",
+     "via": "Yahoo Finance",
+     "credit": "Yahoo Finance"
+    },
+    {
+     "url": "https://s.yimg.com/lo/mysterio/api/4a6f7cb92163b99d7f0a5ec37bf66d77b8d9eaaeb196df5d0321352d49f2d6ae/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Faccesswire.ca%2Fa9ad447d114fa016ab25970de609b818.jpg",
+     "page": "https://finance.yahoo.com/economy/policy/articles/thai-lgbtqia-organizations-welcome-pride-080600352.html",
+     "via": "Yahoo Finance",
+     "credit": "Yahoo Finance"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%28Presidential_Activities_and_Principle_New_Events%29_%282_of_3%29_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf/page1-960px-%28Presidential_Activities_and_Principle_New_Events%29_%282_of_3%29_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Presidential_Activities_and_Principle_New_Events)_(2_of_3)_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Anecdotalist_%28Color_Reporter%29_File_%282_of_3%29_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf/page1-960px-Anecdotalist_%28Color_Reporter%29_File_%282_of_3%29_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Anecdotalist_(Color_Reporter)_File_(2_of_3)_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Memoranda_for_D.L.C._%28Dwight_L._Chapin%29_Sept._1969-May_1970_%282_of_3%29_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf/page1-960px-Memoranda_for_D.L.C._%28Dwight_L._Chapin%29_Sept._1969-May_1970_%282_of_3%29_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Memoranda_for_D.L.C._(Dwight_L._Chapin)_Sept._1969-May_1970_(2_of_3)_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Secret_of_the_Old_Clock_%281930%29.pdf/page1-960px-The_Secret_of_the_Old_Clock_%281930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nMildred Benson (1905-2002) as Carolyn Keene"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/WHSF-_Returned%2C_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf/page1-960px-WHSF-_Returned%2C_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Earth 2026 arrival welcome",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/%28Presidential_Activities_and_Principle_New_Events%29_%282_of_3%29_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf/page1-960px-%28Presidential_Activities_and_Principle_New_Events%29_%282_of_3%29_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Presidential_Activities_and_Principle_New_Events)_(2_of_3)_-_DPLA_-_e09867f6c97c44f4913c8b09931f0f0f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Anecdotalist_%28Color_Reporter%29_File_%282_of_3%29_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf/page1-960px-Anecdotalist_%28Color_Reporter%29_File_%282_of_3%29_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Anecdotalist_(Color_Reporter)_File_(2_of_3)_-_DPLA_-_f84bace096a28c83d853ad8e13e83cf9.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Memoranda_for_D.L.C._%28Dwight_L._Chapin%29_Sept._1969-May_1970_%282_of_3%29_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf/page1-960px-Memoranda_for_D.L.C._%28Dwight_L._Chapin%29_Sept._1969-May_1970_%282_of_3%29_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Memoranda_for_D.L.C._(Dwight_L._Chapin)_Sept._1969-May_1970_(2_of_3)_-_DPLA_-_217f9203927a14fd4c16f9be341267bd.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/The_Secret_of_the_Old_Clock_%281930%29.pdf/page1-960px-The_Secret_of_the_Old_Clock_%281930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Secret_of_the_Old_Clock_(1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nMildred Benson (1905-2002) as Carolyn Keene"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/WHSF-_Returned%2C_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf/page1-960px-WHSF-_Returned%2C_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_21-8_-_DPLA_-_f79abbaeeb5895e775fe1b80564741f1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-24T19:50:34.014987+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 7
+  },
+  {
    "key": "t:mi:Gala / cena:2026-11-24",
    "id": "t-mi-gala-cena-2026-11-24-6109e",
    "name": "Gala / cena · 24–26 nov",
@@ -2654,19 +2971,27 @@
    "last_activity": "2026-11-24T10:19:00+00:00",
    "item_ids": [
     "a487635195184b",
+    "6f46c9b306e4d2",
     "cab464992ccf70",
     "9ceb15222aac20"
    ],
    "sources": [
     "Inquirer.net",
+    "Inquirer.net - Philippines Entertainment News",
     "Meridiano.net",
     "Ouest-France"
    ],
-   "n_items": 3,
-   "n_sources": 3,
+   "n_items": 4,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.XaRKI_akN527o-9ZQHKIiQ&pid=News",
+     "page": "https://entertainment.inquirer.net/691237/what-to-know-about-miss-international-2026s-final-gala-in-japan",
+     "via": "Bing (miniatura)",
+     "credit": "Inquirer.net - Philippines Entertainment News"
+    },
     {
      "url": "https://pxcdn.meridiano.net/112026/1795477871216.jpg?&cw=1200&ch=630",
      "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
@@ -2678,12 +3003,6 @@
      "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
      "via": "Meridiano.net",
      "credit": "Meridiano.net"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.QtRxoO9ckCjK_OKuVH1dSQ&pid=News",
-     "page": "https://www.ouest-france.fr/le-mag/mode-et-beaute/le-mans-fashion-show-2026-un-defile-de-mode-international-avec-une-touche-latine-et-miss-angleterre-2027-invitee-ff59ea4c-e721-11f1-bd4e-6f30b8f49e21",
-     "via": "Bing (miniatura)",
-     "credit": "Ouest-France"
     },
     {
      "url": "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-7.png",
@@ -2978,7 +3297,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 9
+   "score": 12
   },
   {
    "key": "t:mi:Traje de baño:2026-11-24",
@@ -3129,13 +3448,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 443834,
+     "views": 446224,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 443834,
+   "views_total": 446224,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3925,7 +4244,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T13:12:20+00:00",
+   "start": "2026-11-23T13:26:05+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3967,7 +4286,6 @@
     "337a17eb94fa50",
     "47f72716e79e1d",
     "2e9d6e1bcc9166",
-    "09b5a883d49f15",
     "d1d6d051c0daab",
     "f590005e2ceaec",
     "a4e31d66d47c25",
@@ -4011,7 +4329,6 @@
     "HOLA.com",
     "Howl.Link",
     "Infobae",
-    "Instagram",
     "La Verdad - La Verdad",
     "Listín Diario",
     "Meganoticias",
@@ -4023,22 +4340,23 @@
     "Publimetro",
     "RPP",
     "Telediario México on MSN",
-    "Telemetro"
+    "Telemetro",
+    "Vietnam.vn"
    ],
-   "n_items": 54,
-   "n_sources": 44,
+   "n_items": 53,
+   "n_sources": 43,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2685,
-     "likes": 86,
+     "views": 3142,
+     "likes": 101,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2685,
+   "views_total": 3142,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4404,7 +4722,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 145
+   "score": 142
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4472,13 +4790,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2685,
-     "likes": 86,
+     "views": 3142,
+     "likes": 101,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2685,
+   "views_total": 3142,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -5218,7 +5536,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5264,8 +5582,7 @@
     "c3b40e1f2158f9",
     "337a17eb94fa50",
     "47f72716e79e1d",
-    "2e9d6e1bcc9166",
-    "09b5a883d49f15"
+    "2e9d6e1bcc9166"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5288,7 +5605,6 @@
     "HOLA.com",
     "Howl.Link",
     "Infobae",
-    "Instagram",
     "La Verdad - La Verdad",
     "Listín Diario",
     "Meganoticias",
@@ -5304,8 +5620,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 44,
-   "n_sources": 35,
+   "n_items": 43,
+   "n_sources": 34,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5519,7 +5835,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 117
+   "score": 114
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5530,7 +5846,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5626,7 +5942,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5675,7 +5991,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5906,7 +6222,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6123,7 +6439,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:42:33.351696+00:00",
+   "first_seen": "2026-11-24T19:50:34.014987+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
