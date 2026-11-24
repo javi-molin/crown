@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:10:23.773985+00:00",
+ "updated": "2026-11-24T13:18:24.059914+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "d12acbeff11fb0",
     "b586e66fe7f290",
     "12d47e3d29cd8d",
     "4f102bd187d493",
@@ -249,7 +250,7 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 57,
+   "n_items": 58,
    "n_sources": 36,
    "videos": [],
    "views_total": 0,
@@ -266,7 +267,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 132
+   "score": 133
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -465,29 +466,67 @@
    "item_ids": [
     "0875d634262de6",
     "f385e6bd0a18f3",
+    "d203d71789de0e",
     "2ee6983fd51208",
     "72424c1e917654"
    ],
    "sources": [
     "Diario Las Américas",
+    "Gestión",
     "Milenio on MSN"
    ],
-   "n_items": 4,
-   "n_sources": 2,
+   "n_items": 5,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.ngUwNRTgPTtjNcbbqcEmCg&pid=News",
-     "page": "https://www.msn.com/es-mx/estilo-de-vida/other/d%C3%B3nde-ver-la-final-de-miss-universo-2026-en-vivo-desde-m%C3%A9xico-link-para-apoyar-a-mar%C3%ADa-vargas/ar-AA2i51wf",
+     "url": "https://gestion.pe/resizer/v2/7J6NS37H2NDFVOEOTHKQGPSMXE.png?auth=743729914209d34cb753c2bd404dc76ec3b6bad99421a5972eaf8a2649740772&width=980&height=528&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/UAFABMRRE5F3XM25JFDN6ZL5UY.jpg?auth=0e371ea109e978320d999484dfc0cab76f1f5e5350d56b305644b26941ad28fc&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/YHRRUKT5F5BQZGIUJCXPZ4DNCY.png?auth=24917ac40a1b721715d2a71cba87e23a9a8381e3c9b01bc74dee9eb6b43e13b7&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/Y7ZX5R5YYVHCJNVLI2FTPZROX4.jpg?auth=311be864a8d7f9badc0504974794e82685a220343f869fb5512843e35455488e&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.kV84XcWLCIrKmK_8hdV7og&pid=News",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
      "via": "Bing (miniatura)",
-     "credit": "Milenio on MSN"
+     "credit": "Gestión"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T13:10:23.773985+00:00",
+   "extra_at": "2026-11-24T13:18:24.059914+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -495,7 +534,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 8
+   "score": 11
   },
   {
    "key": "p:crown confidential",
@@ -536,7 +575,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 17904,
+     "views": 18350,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -545,13 +584,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 11858,
+     "views": 12250,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 29762,
+   "views_total": 30600,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -751,13 +790,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 287598,
+     "views": 292430,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 287598,
+   "views_total": 292430,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1180,8 +1219,7 @@
     "ffaabc97ab634e",
     "d1fa520e3a6c95",
     "08f17075d21b2a",
-    "960cf70ff8c0c8",
-    "ed1a50e75b8703"
+    "960cf70ff8c0c8"
    ],
    "sources": [
     "2001online",
@@ -1219,14 +1257,13 @@
     "Telediario México on MSN",
     "Telemundo",
     "Teletrece",
-    "The Indian Express",
     "UnoTV on MSN",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento",
     "minuto60"
    ],
-   "n_items": 59,
-   "n_sources": 40,
+   "n_items": 58,
+   "n_sources": 39,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -1569,7 +1606,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 142
+   "score": 139
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -1927,7 +1964,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T13:10:23.773985+00:00",
+   "extra_at": "2026-11-24T13:18:24.059914+00:00",
    "social": [
     {
      "fetched": "2026-11-24T12:46:23.397151+00:00",
@@ -2031,18 +2068,18 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgELcfUmVzt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
@@ -2078,7 +2115,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T03:30:00+00:00",
+   "start": "2026-11-23T03:52:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2164,7 +2201,6 @@
     "397300076bdbdc",
     "23951b33ac0c38",
     "8b432528f7c5f9",
-    "ed1a50e75b8703",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2175,7 +2211,6 @@
     "a2cc8cd6ed3baf",
     "587b90f7de6d33",
     "48112429ee19db",
-    "5be9551cccdb4a",
     "506033d3e41d61",
     "b6d65ebaee4bd7",
     "8cf0fc6990ed16",
@@ -2223,8 +2258,8 @@
     "La Teja",
     "La Verdad - La Verdad"
    ],
-   "n_items": 99,
-   "n_sources": 66,
+   "n_items": 97,
+   "n_sources": 65,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -2670,7 +2705,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/p/DgENzI1DKX2",
      "platform": "Instagram"
     },
@@ -2690,7 +2725,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
      "platform": "Instagram"
     },
@@ -2700,7 +2735,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgEEC0qPpN1",
      "platform": "Instagram"
     },
@@ -2715,7 +2750,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgELcfUmVzt",
      "platform": "Instagram"
     },
@@ -2725,17 +2760,17 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgF163yzZSr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/reel/DgFgIipRDFw",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
@@ -2747,13 +2782,13 @@
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
@@ -2773,7 +2808,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 234
+   "score": 230
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -2787,7 +2822,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T03:30:00+00:00",
+   "start": "2026-11-23T03:56:36+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -2827,8 +2862,7 @@
     "ffaabc97ab634e",
     "d1fa520e3a6c95",
     "08f17075d21b2a",
-    "960cf70ff8c0c8",
-    "ed1a50e75b8703"
+    "960cf70ff8c0c8"
    ],
    "sources": [
     "2001online",
@@ -2856,13 +2890,12 @@
     "RPP",
     "Radio Agricultura",
     "Telemundo",
-    "The Indian Express",
     "UnoTV on MSN",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 39,
-   "n_sources": 29,
+   "n_items": 38,
+   "n_sources": 28,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3200,7 +3233,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 100
+   "score": 97
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -3215,7 +3248,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T08:37:35.181492+00:00",
-   "start": "2026-11-23T03:34:00+00:00",
+   "start": "2026-11-23T06:12:43+00:00",
    "last_activity": "2026-11-23T19:07:41+00:00",
    "item_ids": [
     "79a88b0b3e228d",
@@ -3233,7 +3266,6 @@
     "e4a0be13704476",
     "18027defd9be68",
     "ec9a64d042d06c",
-    "4612e7c0c4ef61",
     "07baf1de3bb3bc",
     "45c46996930f7e",
     "d67e412d2c0d1c"
@@ -3247,11 +3279,10 @@
     "PhilNews",
     "Philstar Life",
     "Rádio Itatiaia",
-    "dzrh",
     "tuoitre.vn"
    ],
-   "n_items": 19,
-   "n_sources": 10,
+   "n_items": 18,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3272,12 +3303,6 @@
      "page": "https://meridiano.net/farandula/valeria-di-martino-impacta-en-la-competencia-preliminar-del-miss-international-2026112314590",
      "via": "Bing (miniatura)",
      "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://dzrh-bucket.s3.ap-southeast-1.amazonaws.com/featuredimage/2026/11/VflfvS3pfp7kuearcsffb.jpeg",
-     "page": "https://www.dzrh.com.ph/post/katrina-johnson-stuns-in-miss-international-2026-preliminary-competition",
-     "via": "dzrh",
-     "credit": "dzrh"
     },
     {
      "url": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808-86-269-1085-2177-crop-1795479571393294548497.jpg",
@@ -3353,8 +3378,6 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DfypQVgmOl1",
-    "https://www.instagram.com/reel/DgE9dNvRE4c",
     "https://www.instagram.com/reel/DgEsUDyx-nn"
    ],
    "image_query": "Miss International 2026 preliminary competition",
@@ -3406,16 +3429,6 @@
    "social": [
     {
      "fetched": "2026-11-24T12:38:23.782201+00:00",
-     "url": "https://www.instagram.com/p/DfypQVgmOl1",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:38:23.782201+00:00",
-     "url": "https://www.instagram.com/reel/DgE9dNvRE4c",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
      "platform": "Instagram"
     }
@@ -3426,7 +3439,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 36
   },
   {
    "key": "t:mi:Entrevistas:2026-11-21",
@@ -3618,12 +3631,12 @@
    "extra_at": "2026-11-24T13:02:23.821318+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/p/DfdmXW1jfZ2",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "fetched": "2026-11-24T13:18:24.059914+00:00",
      "url": "https://www.instagram.com/p/DfkGkHwlp1V",
      "platform": "Instagram"
     }
@@ -5039,7 +5052,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5220,7 +5233,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5336,7 +5349,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5427,7 +5440,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5658,7 +5671,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5889,7 +5902,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:10:23.773985+00:00",
+   "first_seen": "2026-11-24T13:18:24.059914+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
