@@ -1,11 +1,11 @@
 {
- "run_at": "2026-11-24T06:46:14.857645+00:00",
+ "run_at": "2026-11-24T06:54:14.506457+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
@@ -16,14 +16,14 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 79,
+   "items": 80,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 81,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 75,
+   "items": 44,
    "error": null
   },
   {
@@ -58,19 +58,19 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 52,
+   "items": 90,
    "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
    "ok": true,
-   "items": 49,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 55,
+   "items": 45,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 34,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 44,
+   "items": 13,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 2,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 2,
+   "items": 4,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 7,
+   "items": 11,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1006,
+ "new_items": 1057,
  "total_items": 900
 }
