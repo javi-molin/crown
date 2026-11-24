@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:50:34.014987+00:00",
+ "updated": "2026-11-24T19:58:34.228758+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -151,13 +151,14 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "9a720165ef0831",
     "14d910e912dd21",
     "4fc4714d5a6be4",
+    "c914d8ae4b9788",
     "cf8d45cdfe8bb6",
     "733e3fe735a480",
     "49082a3e3b9193",
@@ -273,8 +274,7 @@
     "9a373f67639c2a",
     "769531e0d5c4f7",
     "4cf6ea4d0a4217",
-    "d2ea33ccb98bec",
-    "55e2c573f3a749"
+    "d2ea33ccb98bec"
    ],
    "sources": [
     "24 horas",
@@ -357,6 +357,7 @@
     "Preview.ph",
     "Publimetro",
     "Radio Agricultura",
+    "Radio Imagina",
     "Reporte Indigo",
     "Reporte Índigo",
     "Revista Caretas",
@@ -386,8 +387,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 180,
-   "n_sources": 108,
+   "n_items": 181,
+   "n_sources": 109,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -403,7 +404,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 399
+   "score": 402
   },
   {
    "key": "p:the big night",
@@ -1335,8 +1336,7 @@
     "16bd9bab11c10b",
     "ad5321b491cf7d",
     "2a2e123a153b9c",
-    "95ffb0af381526",
-    "b6a1459cc49516"
+    "95ffb0af381526"
    ],
    "sources": [
     "2001online",
@@ -1372,20 +1372,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 40,
+   "n_items": 39,
    "n_sources": 32,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 3142,
-     "likes": 101,
+     "views": 3967,
+     "likes": 108,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 3142,
+   "views_total": 3967,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1551,30 +1551,6 @@
      "credit": "Meridiano.net"
     },
     {
-     "url": "https://www.eluniverso.com/resizer/v2/KOBYFVJKOJCLXG6Z5NEPTRPCGU.png?auth=e539d7bed23318b2fa5c82c619ffdd18a4928bebc1057e9eb027f7d5dbacc6a1&width=948&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/M4UX42PY7RBS7PM5AVDUAGYNJE.png?auth=32d369647560e6831495d24824ce620b765c1bb0b777d197c60b31b314da7613&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2SPNQY3H4VHYTHGNV3BKUSKTQU.jpg?auth=3a4b87f50da99b2c3f041eb2dcd147b7887676dafc2aff480cce02c490ee000a&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2D3KKFTKIFFR5JMWW2YGQTEWEY.png?auth=cadddd82c2c13bb71df6f17c6a44dbbe6ea6b19895b912cab5e4a4d796d84a3e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
      "via": "Wikimedia Commons",
@@ -1619,9 +1595,7 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/DgFhYugkQt8",
-    "https://www.instagram.com/p/DgGoER2Dcs9",
-    "https://www.instagram.com/reel/DgF6qFrhEyU",
-    "https://www.instagram.com/reel/DgF_BPzByah"
+    "https://www.instagram.com/p/DgGoER2Dcs9"
    ],
    "image_query": "Miss Universe 2026 vote top 30",
    "extra_images": [
@@ -1668,7 +1642,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-24T16:54:33.884331+00:00",
+   "extra_at": "2026-11-24T19:58:34.228758+00:00",
    "social": [
     {
      "fetched": "2026-11-24T19:18:33.724458+00:00",
@@ -1679,16 +1653,6 @@
      "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/reel/DgF6qFrhEyU",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/reel/DgF_BPzByah",
-     "platform": "Instagram"
     }
    ],
    "social_totals": {
@@ -1697,7 +1661,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 107
+   "score": 106
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -2022,7 +1986,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:54:33.932140+00:00",
+     "fetched": "2026-11-24T19:58:34.228758+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
      "platform": "Instagram"
     },
@@ -2103,55 +2067,9 @@
    ],
    "n_items": 6,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "bOQPhh12lBo",
-     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
-     "channel": "Hi Along",
-     "views": 24866,
-     "ago": "hace 9 días",
-     "official": false
-    },
-    {
-     "vid": "eNW-a9sHZso",
-     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
-     "channel": "Hi Along",
-     "views": 6637,
-     "ago": "hace 6 días",
-     "official": false
-    },
-    {
-     "vid": "sBc2cmDSTWE",
-     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
-     "channel": "SNOW SIN FILTRO",
-     "views": 3883,
-     "ago": "hace 9 días",
-     "official": false
-    }
-   ],
-   "views_total": 35386,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
-     "via": "YouTube (miniatura)",
-     "credit": "SNOW SIN FILTRO"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
      "page": "https://www.critica.com.pa/show/panama-brilla-en-japon-rumbo-la-final-del-miss-international-2026-520420",
@@ -2477,7 +2395,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 15
   },
   {
    "key": "p:crown confidential",
@@ -2523,7 +2441,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 32253,
+     "views": 32626,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2532,13 +2450,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 25428,
+     "views": 25706,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 57681,
+   "views_total": 58332,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -3448,13 +3366,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 446224,
+     "views": 450235,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 446224,
+   "views_total": 450235,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -4350,13 +4268,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 3142,
-     "likes": 101,
+     "views": 3967,
+     "likes": 108,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 3142,
+   "views_total": 3967,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4736,7 +4654,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T13:26:00+00:00",
+   "start": "2026-11-23T13:33:52+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4759,8 +4677,7 @@
     "ad5321b491cf7d",
     "2a2e123a153b9c",
     "23c6af8b4fd044",
-    "95ffb0af381526",
-    "b6a1459cc49516"
+    "95ffb0af381526"
    ],
    "sources": [
     "2001online",
@@ -4783,20 +4700,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 22,
+   "n_items": 21,
    "n_sources": 19,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 3142,
-     "likes": 101,
+     "views": 3967,
+     "likes": 108,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 3142,
+   "views_total": 3967,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4974,30 +4891,6 @@
      "credit": "Meridiano.net"
     },
     {
-     "url": "https://www.eluniverso.com/resizer/v2/KOBYFVJKOJCLXG6Z5NEPTRPCGU.png?auth=e539d7bed23318b2fa5c82c619ffdd18a4928bebc1057e9eb027f7d5dbacc6a1&width=948&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/M4UX42PY7RBS7PM5AVDUAGYNJE.png?auth=32d369647560e6831495d24824ce620b765c1bb0b777d197c60b31b314da7613&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2SPNQY3H4VHYTHGNV3BKUSKTQU.jpg?auth=3a4b87f50da99b2c3f041eb2dcd147b7887676dafc2aff480cce02c490ee000a&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2D3KKFTKIFFR5JMWW2YGQTEWEY.png?auth=cadddd82c2c13bb71df6f17c6a44dbbe6ea6b19895b912cab5e4a4d796d84a3e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf/page1-1280px-1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Transportation._Commodity_Transportation_survey_(IA_1967censusoftran31unse).pdf",
      "via": "Wikimedia Commons",
@@ -5041,7 +4934,6 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
     "https://www.youtube.com/watch?v=GntH78xRlX4"
    ],
@@ -5094,11 +4986,6 @@
    "social": [
     {
      "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/reel/DgF6qFrhEyU",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     },
@@ -5115,7 +5002,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 63
+   "score": 62
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -5456,7 +5343,7 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "extra_at": "2026-11-24T16:54:33.884331+00:00",
+   "extra_at": "2026-11-24T19:58:34.228758+00:00",
    "social": [
     {
      "fetched": "2026-11-24T19:18:33.724458+00:00",
@@ -5536,7 +5423,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5846,7 +5733,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5942,7 +5829,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5991,7 +5878,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6222,7 +6109,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6439,7 +6326,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:50:34.014987+00:00",
+   "first_seen": "2026-11-24T19:58:34.228758+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
