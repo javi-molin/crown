@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:22:23.325812+00:00",
+ "updated": "2026-11-24T14:30:23.638326+00:00",
  "count": 31,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "4f206d3fcf54d1",
     "642e49b5145742",
     "f9479b1f772a7b",
     "edf8bdfc69bb85",
@@ -173,12 +174,15 @@
     "531d169161f5b5",
     "91536525a60d1e",
     "533a459e19e5ad",
+    "a487635195184b",
     "6324bfe05ac0f2",
     "ffbff0a0081c92",
     "947424f16ba7ea",
     "1bbb195750a038",
     "5da124c3d706f9",
+    "55e2c573f3a749",
     "a5a34ef7d30ba5",
+    "8594232d1d65da",
     "6347b16aa9030d",
     "e9552ff3579ec2",
     "5b6f3845a242a6",
@@ -233,6 +237,8 @@
     "24horas",
     "CRÍTICA",
     "Clarin.com",
+    "Clx Icons",
+    "Cooperativa.cl",
     "Debate on MSN",
     "Detroit Free Press",
     "Diario El Mundo",
@@ -252,6 +258,7 @@
     "Gestión",
     "Imagen del Golfo",
     "Infobae",
+    "Inquirer.net",
     "La Hora",
     "MARCA",
     "MILENIO",
@@ -277,8 +284,8 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 74,
-   "n_sources": 47,
+   "n_items": 78,
+   "n_sources": 50,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -294,148 +301,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 171
-  },
-  {
-   "key": "seed:mi-natcos",
-   "id": "mi-natcos",
-   "name": "Miss International · Trajes típicos",
-   "contest": "mi",
-   "kind": "evento oficial",
-   "labels": [
-    "Preliminar"
-   ],
-   "desc": "Desfile de trajes típicos de Miss International 2026 (premiere en YouTube).",
-   "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
-   "start": "2026-11-14",
-   "last_activity": "2026-11-24T14:15:02+00:00",
-   "item_ids": [
-    "bc5aee39b643c5",
-    "79daeb27d478f9",
-    "014fa516d9a6b7"
-   ],
-   "sources": [
-    "Facebook",
-    "YouTube · Miss International"
-   ],
-   "n_items": 3,
-   "n_sources": 2,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/aOQ2kGMbRzk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/aOQ2kGMbRzk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=aOQ2kGMbRzk",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Miss International"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/upA-ZPa1USI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/upA-ZPa1USI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=upA-ZPa1USI",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Miss International"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf/page1-960px-May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf/page1-960px-November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss International 2026 national costume",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
-     "via": "Wikimedia Commons",
-     "license": "CC BY 3.0",
-     "credit": "GrandTV"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf/page1-960px-May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf/page1-960px-November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Department of State. Agency for International Development. Office of Personnel A"
-    }
-   ],
-   "extra_at": "2026-11-24T14:22:23.325812+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 10
+   "score": 181
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -450,8 +316,9 @@
    "refs": [],
    "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-24T04:16:00+00:00",
-   "last_activity": "2026-11-24T14:06:00+00:00",
+   "last_activity": "2026-11-24T14:20:15+00:00",
    "item_ids": [
+    "4f206d3fcf54d1",
     "642e49b5145742",
     "0875d634262de6",
     "f385e6bd0a18f3",
@@ -460,13 +327,14 @@
     "72424c1e917654"
    ],
    "sources": [
+    "Clx Icons",
     "Diario Las Américas",
     "El Nuevo Día",
     "Gestión",
     "Milenio on MSN"
    ],
-   "n_items": 6,
-   "n_sources": 4,
+   "n_items": 7,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -700,7 +568,194 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 14
+   "score": 17
+  },
+  {
+   "key": "seed:mi-natcos",
+   "id": "mi-natcos",
+   "name": "Miss International · Trajes típicos",
+   "contest": "mi",
+   "kind": "evento oficial",
+   "labels": [
+    "Preliminar"
+   ],
+   "desc": "Desfile de trajes típicos de Miss International 2026 (premiere en YouTube).",
+   "refs": [],
+   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "start": "2026-11-14",
+   "last_activity": "2026-11-24T14:15:02+00:00",
+   "item_ids": [
+    "bc5aee39b643c5",
+    "79daeb27d478f9",
+    "014fa516d9a6b7"
+   ],
+   "sources": [
+    "Facebook",
+    "YouTube · Miss International"
+   ],
+   "n_items": 3,
+   "n_sources": 2,
+   "videos": [
+    {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 24728,
+     "ago": "hace 9 días",
+     "official": false
+    },
+    {
+     "vid": "eNW-a9sHZso",
+     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
+     "channel": "Hi Along",
+     "views": 6529,
+     "ago": "hace 6 días",
+     "official": false
+    },
+    {
+     "vid": "sBc2cmDSTWE",
+     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
+     "channel": "SNOW SIN FILTRO",
+     "views": 3836,
+     "ago": "hace 8 días",
+     "official": false
+    }
+   ],
+   "views_total": 35093,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/aOQ2kGMbRzk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/aOQ2kGMbRzk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=aOQ2kGMbRzk",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Miss International"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/upA-ZPa1USI/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/upA-ZPa1USI/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=upA-ZPa1USI",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Miss International"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf/page1-960px-May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf/page1-960px-November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss International 2026 national costume",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Ruby,_Jack)_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf/page1-960px-JGR-Flag%2C_American_%283_of_3%29_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Flag,_American_(3_of_3)_-_DPLA_-_101d85001fff8aabf6ae813de954d340.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf/page1-960px-May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:May_-_June_1962_-_DPLA_-_4d7778d1afcb509b2f175d5316751b06.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf/page1-960px-November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:November_1961_-_DPLA_-_19f370327836f9576eb1362cae3dfae7.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Department of State. Agency for International Development. Office of Personnel A"
+    }
+   ],
+   "extra_at": "2026-11-24T14:22:23.325812+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 11
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -1480,7 +1535,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 20450,
+     "views": 20810,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1489,13 +1544,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 13856,
+     "views": 14309,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 34306,
+   "views_total": 35119,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -1843,13 +1898,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 318006,
+     "views": 321039,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 318006,
+   "views_total": 321039,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1891,7 +1946,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 40
   },
   {
    "key": "p:international emmy awards",
@@ -2520,7 +2575,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T12:30:23.826343+00:00",
-   "start": "2026-11-23T05:25:00+00:00",
+   "start": "2026-11-23T05:53:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "d1d6d051c0daab",
@@ -2556,8 +2611,7 @@
     "1c7b3fe4a98499",
     "b4dd5557ea4983",
     "f68b8bdc64bbc6",
-    "a236b95cd43b14",
-    "1fff5245cd4b43"
+    "a236b95cd43b14"
    ],
    "sources": [
     "24 horas on MSN",
@@ -2566,7 +2620,6 @@
     "CiberCuba",
     "Diario El Centro",
     "El Comercio Perú",
-    "El Diario",
     "El Heraldo",
     "El Informador",
     "El Universo",
@@ -2584,8 +2637,8 @@
     "minuto60",
     "unitel"
    ],
-   "n_items": 35,
-   "n_sources": 23,
+   "n_items": 34,
+   "n_sources": 22,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2965,7 +3018,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T13:26:23.744497+00:00",
+     "fetched": "2026-11-24T14:30:23.638326+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -3092,7 +3145,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 81
+   "score": 78
   },
   {
    "key": "p:completa del desfile de traje",
@@ -3108,7 +3161,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T05:25:00+00:00",
+   "start": "2026-11-23T05:50:40+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3184,7 +3237,6 @@
     "23471bf7e2b521",
     "b4dd5557ea4983",
     "a72d88fe0350d8",
-    "1fff5245cd4b43",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -3214,7 +3266,6 @@
     "Diario El País",
     "Diario Las Américas",
     "El Comercio Perú",
-    "El Diario",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Heraldo",
     "El Impulso",
@@ -3238,10 +3289,11 @@
     "La Teja",
     "La Verdad - La Verdad",
     "Listín Diario",
-    "MSN"
+    "MSN",
+    "Meganoticias"
    ],
-   "n_items": 86,
-   "n_sources": 61,
+   "n_items": 85,
+   "n_sources": 60,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3627,7 +3679,7 @@
    "extra_at": "2026-11-24T12:46:23.397151+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T13:26:23.744497+00:00",
+     "fetched": "2026-11-24T14:30:23.638326+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -3760,7 +3812,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 211
+   "score": 208
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4617,22 +4669,20 @@
     "1c7b3fe4a98499",
     "b4dd5557ea4983",
     "f68b8bdc64bbc6",
-    "a236b95cd43b14",
-    "1fff5245cd4b43"
+    "a236b95cd43b14"
    ],
    "sources": [
     "24 horas on MSN",
     "Caracol Televisión",
     "El Comercio Perú",
-    "El Diario",
     "El Informador",
     "HOLA.com",
     "Howl.Link",
     "Infobae",
     "Primicias"
    ],
-   "n_items": 13,
-   "n_sources": 9,
+   "n_items": 12,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5000,7 +5050,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 34
+   "score": 31
   },
   {
    "key": "t:me:Votación:2026-11-21",
@@ -5806,7 +5856,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5879,8 +5929,7 @@
     "31e95ee4d67b06",
     "c8d8ff6c15f4d4",
     "b4dd5557ea4983",
-    "a72d88fe0350d8",
-    "1fff5245cd4b43"
+    "a72d88fe0350d8"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5895,7 +5944,6 @@
     "Diario El País",
     "Diario Las Américas",
     "El Comercio Perú",
-    "El Diario",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Heraldo",
     "El Impulso",
@@ -5934,8 +5982,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 71,
-   "n_sources": 50,
+   "n_items": 70,
+   "n_sources": 49,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5967,7 +6015,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 174
+   "score": 171
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5978,7 +6026,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -6273,7 +6321,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6322,7 +6370,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6331,209 +6379,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://static.wixstatic.com/media/c384d1_6cd73f49dd194b39b882af0d1711c33f~mv2.jpg/v1/fill/w_600,h_600,al_c,q_80,enc_avif,quality_auto/c384d1_6cd73f49dd194b39b882af0d1711c33f~mv2.jpg",
-     "page": "https://www.dulceriasanjose.com/product-page/bisagra-1414-bajo-c-25-pz-inix",
-     "via": "Bing Imágenes",
-     "credit": "dulceriasanjose.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.mE928RKKKo1IMp-d6tqhEwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://static.wixstatic.com/media/c384d1_e930c11a77cd4a0381bffce5e3a93e9c~mv2.jpg/v1/fill/w_600,h_600,al_c,q_80,enc_auto/c384d1_e930c11a77cd4a0381bffce5e3a93e9c~mv2.jpg",
-     "page": "https://www.dulceriasanjose.com/product-page/bisagra-1414-bajo-c-25-pz-inix",
-     "via": "Bing Imágenes",
-     "credit": "dulceriasanjose.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.30HEfmxE2H1Czo88ES4UKgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.elreymp.com/web/image/product.product/82549/image_1024/[CBT1-0386] CONTENEDOR BISAGRA TRANSPARENTE 1414-43 INIX?unique=87bb5fe",
-     "page": "https://www.elreymp.com/shop/cbt1-0386-contenedor-bisagra-transparente-1414-43-inix-88078",
-     "via": "Bing Imágenes",
-     "credit": "elreymp.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.8t__QgdzSfA1BClOeoQLJwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://static.wixstatic.com/media/b4ebcb_8322b93a68fc46fd85e7d9824a841b6f~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4ebcb_8322b93a68fc46fd85e7d9824a841b6f~mv2.png",
-     "page": "https://www.lacondesamateriasprimas.com/product-page/domo-bisagra-1414b-inix-cj500pz",
-     "via": "Bing Imágenes",
-     "credit": "lacondesamateriasprimas.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.M7hmm6Urv33kDuZHopAovwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_891664-MLM74822664956_032024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/charola-bisagra-151444-inix-50-piezas/up/MLMU963751145",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.AMeLsx_TljpxZIU0uTrcYQHaFL&pid=15.1"
-    },
-    {
-     "url": "https://todoherrajes.com.do/cdn/shop/files/BisagrasTH3X32MM2BBSS.jpg?v=1695998519",
-     "page": "https://todoherrajes.com.do/products/bisagra-inoxidable-th",
-     "via": "Bing Imágenes",
-     "credit": "todoherrajes.com.do",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.KAI10ymLOqGvygsSgu8N2AHaHE&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_777887-MLM78659565568_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-14x14cm-altura-3cm-c500-pzas/up/MLMU804591779",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.OEvBYsl8tu-GBggwfudiYgHaDi&pid=15.1"
-    },
-    {
-     "url": "https://www.imnasa.com/img/p/27934/17424/original/bisagra-inox-3-bisagras-imnasa-ref-44250754.webp",
-     "page": "https://www.imnasa.com/es/bisagras/bisagra-inox-3-44250754",
-     "via": "Bing Imágenes",
-     "credit": "imnasa.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.6NzW1FB5KoqWdyJM2hOCAAHaF3&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_949290-MLM78659683196_092024-O-contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas.webp",
-     "page": "https://articulo.mercadolibre.com.mx/MLM-3344120632-contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas-_JM",
-     "via": "Bing Imágenes",
-     "credit": "articulo.mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GKH0hm5wborpsOw1ZkTXJwHaD1&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_742339-MLM78894073729_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas/up/MLMU804974647",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.iL_0JmtKkI7NuBvZaRFURgHaHU&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_915263-MLM78894463769_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-17x14cm-altura-5cm-c500-pzas/up/MLMU808670352",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.4SLAkKHsbjL24ZcY_7sQugHaGt&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_764870-MLM70710788540_072023-O.webp",
-     "page": "https://www.mercadolibre.com.mx/charola-bisagra-transparente-de-15x14cm-inix-caja-250pzs/up/MLMU918401750",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ku8pdnw1jRRqmdRUn_TFzwHaHL&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_857372-MLM79993848809_102024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-inix-241654-poliestireno-250-pzas-24x16-cm/up/MLMU883986092",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.3vwB6NEBp8PcnfiHcm6fyQHaGB&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_714600-MLA105602684924_012026-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas/up/MLMU804974647",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.rEeXDM7o5rC1YTwm4AfLhQHaHa&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [
-    {
-     "url": "https://static.wixstatic.com/media/c384d1_6cd73f49dd194b39b882af0d1711c33f~mv2.jpg/v1/fill/w_600,h_600,al_c,q_80,enc_avif,quality_auto/c384d1_6cd73f49dd194b39b882af0d1711c33f~mv2.jpg",
-     "page": "https://www.dulceriasanjose.com/product-page/bisagra-1414-bajo-c-25-pz-inix",
-     "via": "Bing Imágenes",
-     "credit": "dulceriasanjose.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.mE928RKKKo1IMp-d6tqhEwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://static.wixstatic.com/media/c384d1_e930c11a77cd4a0381bffce5e3a93e9c~mv2.jpg/v1/fill/w_600,h_600,al_c,q_80,enc_auto/c384d1_e930c11a77cd4a0381bffce5e3a93e9c~mv2.jpg",
-     "page": "https://www.dulceriasanjose.com/product-page/bisagra-1414-bajo-c-25-pz-inix",
-     "via": "Bing Imágenes",
-     "credit": "dulceriasanjose.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.30HEfmxE2H1Czo88ES4UKgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.elreymp.com/web/image/product.product/82549/image_1024/[CBT1-0386] CONTENEDOR BISAGRA TRANSPARENTE 1414-43 INIX?unique=87bb5fe",
-     "page": "https://www.elreymp.com/shop/cbt1-0386-contenedor-bisagra-transparente-1414-43-inix-88078",
-     "via": "Bing Imágenes",
-     "credit": "elreymp.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.8t__QgdzSfA1BClOeoQLJwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://static.wixstatic.com/media/b4ebcb_8322b93a68fc46fd85e7d9824a841b6f~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/b4ebcb_8322b93a68fc46fd85e7d9824a841b6f~mv2.png",
-     "page": "https://www.lacondesamateriasprimas.com/product-page/domo-bisagra-1414b-inix-cj500pz",
-     "via": "Bing Imágenes",
-     "credit": "lacondesamateriasprimas.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.M7hmm6Urv33kDuZHopAovwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_891664-MLM74822664956_032024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/charola-bisagra-151444-inix-50-piezas/up/MLMU963751145",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.AMeLsx_TljpxZIU0uTrcYQHaFL&pid=15.1"
-    },
-    {
-     "url": "https://todoherrajes.com.do/cdn/shop/files/BisagrasTH3X32MM2BBSS.jpg?v=1695998519",
-     "page": "https://todoherrajes.com.do/products/bisagra-inoxidable-th",
-     "via": "Bing Imágenes",
-     "credit": "todoherrajes.com.do",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.KAI10ymLOqGvygsSgu8N2AHaHE&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_777887-MLM78659565568_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-14x14cm-altura-3cm-c500-pzas/up/MLMU804591779",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.OEvBYsl8tu-GBggwfudiYgHaDi&pid=15.1"
-    },
-    {
-     "url": "https://www.imnasa.com/img/p/27934/17424/original/bisagra-inox-3-bisagras-imnasa-ref-44250754.webp",
-     "page": "https://www.imnasa.com/es/bisagras/bisagra-inox-3-44250754",
-     "via": "Bing Imágenes",
-     "credit": "imnasa.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.6NzW1FB5KoqWdyJM2hOCAAHaF3&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_949290-MLM78659683196_092024-O-contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas.webp",
-     "page": "https://articulo.mercadolibre.com.mx/MLM-3344120632-contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas-_JM",
-     "via": "Bing Imágenes",
-     "credit": "articulo.mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GKH0hm5wborpsOw1ZkTXJwHaD1&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_742339-MLM78894073729_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas/up/MLMU804974647",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.iL_0JmtKkI7NuBvZaRFURgHaHU&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_915263-MLM78894463769_092024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-17x14cm-altura-5cm-c500-pzas/up/MLMU808670352",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.4SLAkKHsbjL24ZcY_7sQugHaGt&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_764870-MLM70710788540_072023-O.webp",
-     "page": "https://www.mercadolibre.com.mx/charola-bisagra-transparente-de-15x14cm-inix-caja-250pzs/up/MLMU918401750",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Ku8pdnw1jRRqmdRUn_TFzwHaHL&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_857372-MLM79993848809_102024-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-inix-241654-poliestireno-250-pzas-24x16-cm/up/MLMU883986092",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.3vwB6NEBp8PcnfiHcm6fyQHaGB&pid=15.1"
-    },
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_714600-MLA105602684924_012026-O.webp",
-     "page": "https://www.mercadolibre.com.mx/contenedor-comida-inix-bisagra-15x14cm-altura-8cm-c250-pzas/up/MLMU804974647",
-     "via": "Bing Imágenes",
-     "credit": "mercadolibre.com.mx",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.rEeXDM7o5rC1YTwm4AfLhQHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T11:26:23.548876+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T14:30:23.638326+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -6553,7 +6403,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6784,7 +6634,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:22:23.325812+00:00",
+   "first_seen": "2026-11-24T14:30:23.638326+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
