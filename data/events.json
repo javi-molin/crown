@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:10:41.632087+00:00",
+ "updated": "2026-11-24T21:18:41.742679+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -155,16 +155,18 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "345f291ed196aa",
     "2a811dbe6fa669",
+    "ce2e3266221dfb",
     "cd3e040eb6ceff",
     "0030d5a01359a6",
     "d001bd0993a7de",
     "ec6fde3ff2585e",
+    "99e7b24f7a64c2",
     "81be2976543034",
     "efac2931cf5586",
     "66fb8170b13df3",
@@ -184,6 +186,7 @@
     "667f7d9ea2926d",
     "6bff2b931d6c9a",
     "0113d8cc1a6cf2",
+    "979b210c1fa79f",
     "2864dd9c86d9f2",
     "7019436ad484c1",
     "7cb6b69ceda50c",
@@ -194,6 +197,7 @@
     "0e55fe882241f6",
     "86b69dd12569af",
     "aea859aabddddf",
+    "3362db3fceb914",
     "a15f05cd8bb98b",
     "9a6d3a091d139d",
     "f706b8fa696fc5",
@@ -241,8 +245,13 @@
     "e9b980181138e3",
     "d0a5f151cebc8d",
     "d12acbeff11fb0",
+    "e62ac2940dba41",
+    "d7cda114722a41",
     "852a10e3f0abec",
     "1aded992685e86",
+    "ed63072c867f6c",
+    "6eed77c0b0255d",
+    "b8a744cc997ab6",
     "22f53e92fcc8a7",
     "6debc80e4373ec",
     "b586e66fe7f290",
@@ -269,16 +278,7 @@
     "e55373789e87fb",
     "6dea49a0b12430",
     "7c8aead19c9331",
-    "d6eb174cb9791d",
-    "589e2403daad00",
-    "0377ac6e8bbfb2",
-    "3dd29dfb12b0ea",
-    "a487635195184b",
-    "070611fd8c8d31",
-    "6324bfe05ac0f2",
-    "150a4159447f55",
-    "704ecd9b1f5d6d",
-    "bb1563ae876256"
+    "d6eb174cb9791d"
    ],
    "sources": [
     "24 horas",
@@ -324,6 +324,7 @@
     "El Siglo de Torreón",
     "El Universal",
     "El Universo",
+    "El Vocero de Puerto Rico",
     "Ellas.pa",
     "Enfoque Digital TV",
     "Facebook",
@@ -356,6 +357,7 @@
     "Noir Magazine",
     "NotiCel",
     "Noticia al Dia",
+    "Noticias Caracol",
     "Notifalcon",
     "Nueva Rioja",
     "OBemdito",
@@ -375,8 +377,10 @@
     "Soy Carmín",
     "SoyChile.cl",
     "T13",
+    "TNT Sports",
     "Telemedellín",
     "Telemundo",
+    "Telemundo Washington DC",
     "Teletrece",
     "Todo Jujuy",
     "TodoJujuy.com",
@@ -390,6 +394,7 @@
     "elvacanudo.cl",
     "estapasando.cl",
     "https://www.elmonitoredomex.com/",
+    "laopinon.cl",
     "m360.cl",
     "retodiario",
     "tunota",
@@ -400,8 +405,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 212,
-   "n_sources": 118,
+   "n_items": 223,
+   "n_sources": 123,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -417,7 +422,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 451
+   "score": 472
   },
   {
    "key": "p:the big night",
@@ -1330,7 +1335,6 @@
     "4e158d75dfbba2",
     "c8965f39ea070c",
     "28ea3442943f5b",
-    "9019d706d27434",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -1368,20 +1372,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 28,
+   "n_items": 27,
    "n_sources": 24,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8649,
-     "likes": 157,
+     "views": 9410,
+     "likes": 159,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8649,
+   "views_total": 9410,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1597,7 +1601,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 79
+   "score": 78
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1735,6 +1739,7 @@
     "89ee069c77bdd6",
     "4f206d3fcf54d1",
     "642e49b5145742",
+    "d7cda114722a41",
     "0875d634262de6",
     "f385e6bd0a18f3",
     "1f7fb45e0ef68d",
@@ -1763,27 +1768,40 @@
     "Infobae",
     "LA NACION",
     "Latin Times",
+    "Meridiano.net",
     "Metro Puerto Rico",
     "Milenio on MSN",
     "Minuto60",
     "Publimetro",
     "Últimas Noticias"
    ],
-   "n_items": 19,
-   "n_sources": 16,
+   "n_items": 20,
+   "n_sources": 17,
    "videos": [],
    "views_total": 0,
    "images": [
     {
+     "url": "https://pxcdn.meridiano.net/112026/1795553944944.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795553944944.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.ynnaXYEc3VnmMU-GR7Dx-g&pid=News",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
+     "via": "Bing (miniatura)",
+     "credit": "Meridiano.net"
+    },
+    {
      "url": "https://www.infobae.com/resizer/v2/TGEMXXIIMBDPVJOJEACX6FNB2Q.jpg?auth=22131f8b2ada9b9ab042c52cbd93ee68f6e96bbbc3b9b3a489878c3b2bb12f28&smart=true&width=1024&height=512&quality=85",
      "page": "https://www.infobae.com/mexico/2026/11/24/maria-vargas-la-jalisciense-que-busca-heredar-hoy-la-corona-de-fatima-bosch-en-miss-universo-2026/",
      "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.o_Wg0hX6cPNp4YdXqevF7g&pid=News",
-     "page": "https://www.infobae.com/mexico/2026/11/24/maria-vargas-la-jalisciense-que-busca-heredar-hoy-la-corona-de-fatima-bosch-en-miss-universo-2026/",
-     "via": "Bing (miniatura)",
      "credit": "Infobae"
     },
     {
@@ -1983,12 +2001,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.instagram.com/p/DgDXsLdEStB",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.instagram.com/p/DgHFKeSlpee",
      "platform": "Instagram"
     },
@@ -2023,7 +2041,7 @@
     "comments": 26,
     "shares": 545
    },
-   "score": 51
+   "score": 54
   },
   {
    "key": "seed:mi-natcos",
@@ -2067,7 +2085,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 6675,
+     "views": 6710,
      "ago": "hace 6 días",
      "official": false
     },
@@ -2080,7 +2098,7 @@
      "official": false
     }
    ],
-   "views_total": 35424,
+   "views_total": 35459,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
@@ -2280,7 +2298,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 34561,
+     "views": 34900,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2289,13 +2307,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 28062,
+     "views": 28333,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 62623,
+   "views_total": 63233,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2590,13 +2608,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 471641,
+     "views": 476208,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 471641,
+   "views_total": 476208,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2695,7 +2713,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     }
@@ -3626,7 +3644,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T13:34:23.963362+00:00",
-   "start": "2026-11-23T15:03:47+00:00",
+   "start": "2026-11-23T15:51:18+00:00",
    "last_activity": "2026-11-23T23:51:18+00:00",
    "item_ids": [
     "0591b073593bba",
@@ -3638,11 +3656,9 @@
     "28ea3442943f5b",
     "29fe16d93b9cff",
     "ee5a2ca0675a1d",
-    "14fae06fd4d42d",
-    "9019d706d27434"
+    "14fae06fd4d42d"
    ],
    "sources": [
-    "BioBioChile",
     "Diario El Centro",
     "El Comercio Perú",
     "El Nortero",
@@ -3652,8 +3668,8 @@
     "Reporte Índigo",
     "Teletrece"
    ],
-   "n_items": 11,
-   "n_sources": 9,
+   "n_items": 10,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3788,7 +3804,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 29
+   "score": 26
   },
   {
    "key": "p:completa del desfile de traje",
@@ -3803,7 +3819,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T15:00:07+00:00",
+   "start": "2026-11-23T15:17:10+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3829,9 +3845,6 @@
     "2724720c48a7f6",
     "ad5321b491cf7d",
     "0196740579222e",
-    "891311078f097f",
-    "c65557e774815d",
-    "9cb8e27df3b9f2",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "d1d6d051c0daab",
@@ -3842,7 +3855,6 @@
     "e0679bb7c0e255",
     "d5ec02365e0bfe",
     "b907982e24c308",
-    "506033d3e41d61",
     "8cf0fc6990ed16",
     "324cebec8ab952"
    ],
@@ -3858,14 +3870,12 @@
     "El Comercio Perú",
     "El Heraldo",
     "El Informador",
-    "El Nuevo Día",
     "El País",
     "El Siglo",
     "El Universal",
     "El Universo",
     "Facebook",
     "HOLA",
-    "HOLA.com",
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
@@ -3879,20 +3889,20 @@
     "Vistazo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 39,
-   "n_sources": 31,
+   "n_items": 35,
+   "n_sources": 29,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8649,
-     "likes": 157,
+     "views": 9410,
+     "likes": 159,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8649,
+   "views_total": 9410,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4070,79 +4080,75 @@
      "credit": "2001online"
     },
     {
-     "url": "https://www.hola.com/horizon/landscape/1200/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
+     "url": "https://www.eluniverso.com/resizer/v2/FFAM3BUXMBGQJLYQSVZFCXQKW4.png?auth=671f75d2f6e1dc2f3ca7746ad550e1c1adc69af806a924847e0212254c925b1f&width=908&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
     },
     {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/1ae2e4e7c9ae-917866244186577516300279814069487186797446621n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
+     "url": "https://www.eluniverso.com/resizer/v2/KOBYFVJKOJCLXG6Z5NEPTRPCGU.png?auth=e539d7bed23318b2fa5c82c619ffdd18a4928bebc1057e9eb027f7d5dbacc6a1&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
     },
     {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/4139532b6544-919634547186610083400451362641207344370864041n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
+     "url": "https://www.eluniverso.com/resizer/v2/M4UX42PY7RBS7PM5AVDUAGYNJE.png?auth=32d369647560e6831495d24824ce620b765c1bb0b777d197c60b31b314da7613&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
     },
     {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/66d7d4f325c7-811664960186252689230371736075148044654110613nok.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
+     "url": "https://www.eluniverso.com/resizer/v2/2SPNQY3H4VHYTHGNV3BKUSKTQU.jpg?auth=3a4b87f50da99b2c3f041eb2dcd147b7887676dafc2aff480cce02c490ee000a&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
     },
     {
-     "url": "https://www.hola.com/horizon/original_aspect_ratio/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
-     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
-     "via": "HOLA.com",
-     "credit": "HOLA.com"
+     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/UIBB/capturados-5_16215647_20261123171942.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/I3TPNCTJINDGDGBSO56HWXAQ7Y.JPG?auth=b55516aa600519834383a04fb67311a7ff42d6f0365aca227e6a1aed5b12b1b7&quality=75&width=1200&height=717&focal=2026%2C1269",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/1200d630/none/45933/WUKV/capturados-5_16215647_20261123171942.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/B4DDQY5PANGWLNEBKBKAG3JAA4.JPG?auth=593cf2d9c62518cc6e3b1583b0e6a21a6239c6b67a5adb8072006239fcaaba9b&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/1260x945/0c0/0d0/none/45933/UIBG/capturados-5_16215647_20261123171942.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/M4DIK7MX7RDERMGMKCPIM5CZOA.JPG?auth=dc69489a6651156193cf4a1a7a302e7106d6ad99b36c9e2315d3195839f25843&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/DHRH/luisa-pineda-traje-tipico-miss-unive_16198722_20261121193539.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/6BZNTLKWERDHLFTJVUMDNMLHZU.JPG?auth=436eebe45f4946a820714ab887a4b65383da1b9835c9cb03c715e4a1d6f85ec3&quality=75&width=829&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/301x226/0c0/300d225/none/45933/ONRV/luisa-pineda-miss-honduras_16205726_20261122180653.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/XBRI/1_16211841_20261123143018.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     },
     {
-     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
-     "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
+     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/GJBQ/capturados-2_16214143_20261123164051.jpg",
+     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DgD7wDOJTVm",
     "https://www.instagram.com/p/DgEMDnFGgfl",
-    "https://www.instagram.com/p/DgGDBNxvTVQ",
-    "https://www.instagram.com/reel/DgF163yzZSr",
-    "https://www.youtube.com/watch?v=GntH78xRlX4",
-    "https://www.youtube.com/watch?v=quLHTBghoEw"
+    "https://www.youtube.com/watch?v=GntH78xRlX4"
    ],
    "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
    "extra_images": [
@@ -4220,36 +4226,15 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:38:33.393061+00:00",
-     "url": "https://www.instagram.com/p/DgD7wDOJTVm",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T20:22:33.436925+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:38:33.393061+00:00",
-     "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T20:46:34.178916+00:00",
-     "url": "https://www.instagram.com/reel/DgF163yzZSr",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
-    },
-    {
-     "fetched": "2026-11-24T20:46:34.178916+00:00",
-     "url": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
     }
    ],
    "social_totals": {
@@ -4258,7 +4243,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 104
+   "score": 96
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4505,13 +4490,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8649,
-     "likes": 157,
+     "views": 9410,
+     "likes": 159,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8649,
+   "views_total": 9410,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4771,12 +4756,12 @@
    "extra_at": "2026-11-24T21:10:41.632087+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "fetched": "2026-11-24T21:18:41.742679+00:00",
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
@@ -4799,7 +4784,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4831,9 +4816,7 @@
     "16bd9bab11c10b",
     "2724720c48a7f6",
     "ad5321b491cf7d",
-    "0196740579222e",
-    "891311078f097f",
-    "9cb8e27df3b9f2"
+    "0196740579222e"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -4848,7 +4831,6 @@
     "El Universal",
     "Facebook",
     "HOLA",
-    "HOLA.com",
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
@@ -4857,12 +4839,11 @@
     "Noticia al Dia",
     "RPP",
     "RPP Noticias",
-    "Vistazo",
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 31,
-   "n_sources": 24,
+   "n_items": 29,
+   "n_sources": 22,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5076,7 +5057,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 82
+   "score": 76
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5087,7 +5068,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5357,7 +5338,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5532,7 +5513,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5541,209 +5522,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JCV452Q22RIAJNWV7YRM2WZOSE.jpg",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-ALd_UXa_9dQQt18kBF7xgHaFN&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/cX3X0p5zXSM/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=cX3X0p5zXSM",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ny70ebRCmnLS30NcCbbfKwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RXR6RLEDNNKTBEOPYUQHH67AEE.jpg",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP._MTwsLCpPgyTcjKHqK69_wHaFN&pid=15.1"
-    },
-    {
-     "url": "https://www.reuters.com/resizer/v2/X6UJAILY2BKQRHKCGIOEH2RO7U.jpg?auth=5c6aa4a81595ce8b4fe9fda2f1c5642e6fc3d4c96c64f9775cd96c4097061d19&width=1080&quality=80",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lPwDpwA4mR7zF5pSxzUloQHaE_&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/ezNnkb6bemg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ezNnkb6bemg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.YFW5_UsWDKREOq_lwkn0twHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/n06StfdFpcQ/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=n06StfdFpcQ",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MSImvPIxbaFpx1gALr37LwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.fcbarcelona.com/photo-resources/2024/01/14/31206853-63be-49ff-93db-af8406289dd6/_GP23188_1.jpg?width=1200&height=750",
-     "page": "https://www.fcbarcelona.cat/ca/futbol/primer-equip/noticies/3857625/reial-madrid-fc-barcelona-sescapa-la-supercopa-4-1",
-     "via": "Bing Imágenes",
-     "credit": "fcbarcelona.cat",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0CzGWLG-TGp2rBT6iSkv2gHaEo&pid=15.1"
-    },
-    {
-     "url": "https://cdn-media.theathletic.com/2a5FQNkUAi22_4VuWRMyZ1X3s_1440x960.jpg",
-     "page": "https://www.nytimes.com/athletic/live-blogs/real-madrid-barcelona-live-score-updates-result-el-clasico/2a5FQNkUAi22/",
-     "via": "Bing Imágenes",
-     "credit": "nytimes.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.dbh2wjb991_Rf0dR68VG9QHaE8&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/LvK9uQjaJfg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=LvK9uQjaJfg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.RJKqRTdbVq3UISpMevvOHgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/e3bswcippP0/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=e3bswcippP0",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.HNVMFlXomoebWDowvOpYhAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/PzPa__6WV_hmKwdunRBUICM5OOc=/arc-photo-diarioas/eu-central-1-prod/public/HIVHROTPTANRMVLYKQT36BGYW4.jpg",
-     "page": "https://as.com/futbol/copa_del_rey/real-madrid-barcelona-en-directo-ultima-hora-del-clasico-de-la-supercopa-de-espana-en-vivo-n/",
-     "via": "Bing Imágenes",
-     "credit": "as.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.f0mKw6t1Ry0HD3OQg0KhpwHaE7&pid=15.1"
-    },
-    {
-     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/14/17052577896440.jpg",
-     "page": "https://www.marca.com/en/soccer/spanish-supercopa/r-madrid-barcelona/2024/01/14/01_0113_20240114_186_178-live.html",
-     "via": "Bing Imágenes",
-     "credit": "marca.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.p2W2BthxiCWVzNPe8LTy9gHaES&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/2d2YI12E9-U/maxresdefault.jpg",
-     "page": "https://www.elonce.com/videos/929736-real-madrid-4-1-barcelona-resumen-supercopa.htm",
-     "via": "Bing Imágenes",
-     "credit": "elonce.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.EPHRrHB-KHXwYZknMqkGjwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/0BCC/production/_132302030_gettyimages-1925907989.jpg",
-     "page": "https://www.bbc.com/sport/football/67975415",
-     "via": "Bing Imágenes",
-     "credit": "bbc.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.iNaHjrIf-HI5eu_3talB7AHaEK&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JCV452Q22RIAJNWV7YRM2WZOSE.jpg",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-ALd_UXa_9dQQt18kBF7xgHaFN&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/cX3X0p5zXSM/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=cX3X0p5zXSM",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ny70ebRCmnLS30NcCbbfKwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RXR6RLEDNNKTBEOPYUQHH67AEE.jpg",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP._MTwsLCpPgyTcjKHqK69_wHaFN&pid=15.1"
-    },
-    {
-     "url": "https://www.reuters.com/resizer/v2/X6UJAILY2BKQRHKCGIOEH2RO7U.jpg?auth=5c6aa4a81595ce8b4fe9fda2f1c5642e6fc3d4c96c64f9775cd96c4097061d19&width=1080&quality=80",
-     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
-     "via": "Bing Imágenes",
-     "credit": "reuters.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lPwDpwA4mR7zF5pSxzUloQHaE_&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/ezNnkb6bemg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=ezNnkb6bemg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.YFW5_UsWDKREOq_lwkn0twHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/n06StfdFpcQ/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=n06StfdFpcQ",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MSImvPIxbaFpx1gALr37LwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.fcbarcelona.com/photo-resources/2024/01/14/31206853-63be-49ff-93db-af8406289dd6/_GP23188_1.jpg?width=1200&height=750",
-     "page": "https://www.fcbarcelona.cat/ca/futbol/primer-equip/noticies/3857625/reial-madrid-fc-barcelona-sescapa-la-supercopa-4-1",
-     "via": "Bing Imágenes",
-     "credit": "fcbarcelona.cat",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.0CzGWLG-TGp2rBT6iSkv2gHaEo&pid=15.1"
-    },
-    {
-     "url": "https://cdn-media.theathletic.com/2a5FQNkUAi22_4VuWRMyZ1X3s_1440x960.jpg",
-     "page": "https://www.nytimes.com/athletic/live-blogs/real-madrid-barcelona-live-score-updates-result-el-clasico/2a5FQNkUAi22/",
-     "via": "Bing Imágenes",
-     "credit": "nytimes.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.dbh2wjb991_Rf0dR68VG9QHaE8&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/LvK9uQjaJfg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=LvK9uQjaJfg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.RJKqRTdbVq3UISpMevvOHgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/e3bswcippP0/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=e3bswcippP0",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.HNVMFlXomoebWDowvOpYhAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://img.asmedia.epimg.net/resizer/PzPa__6WV_hmKwdunRBUICM5OOc=/arc-photo-diarioas/eu-central-1-prod/public/HIVHROTPTANRMVLYKQT36BGYW4.jpg",
-     "page": "https://as.com/futbol/copa_del_rey/real-madrid-barcelona-en-directo-ultima-hora-del-clasico-de-la-supercopa-de-espana-en-vivo-n/",
-     "via": "Bing Imágenes",
-     "credit": "as.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.f0mKw6t1Ry0HD3OQg0KhpwHaE7&pid=15.1"
-    },
-    {
-     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/14/17052577896440.jpg",
-     "page": "https://www.marca.com/en/soccer/spanish-supercopa/r-madrid-barcelona/2024/01/14/01_0113_20240114_186_178-live.html",
-     "via": "Bing Imágenes",
-     "credit": "marca.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.p2W2BthxiCWVzNPe8LTy9gHaES&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/2d2YI12E9-U/maxresdefault.jpg",
-     "page": "https://www.elonce.com/videos/929736-real-madrid-4-1-barcelona-resumen-supercopa.htm",
-     "via": "Bing Imágenes",
-     "credit": "elonce.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.EPHRrHB-KHXwYZknMqkGjwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/0BCC/production/_132302030_gettyimages-1925907989.jpg",
-     "page": "https://www.bbc.com/sport/football/67975415",
-     "via": "Bing Imágenes",
-     "credit": "bbc.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.iNaHjrIf-HI5eu_3talB7AHaEK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T18:14:34.149354+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T21:18:41.742679+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5763,7 +5546,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5980,7 +5763,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:10:41.632087+00:00",
+   "first_seen": "2026-11-24T21:18:41.742679+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
