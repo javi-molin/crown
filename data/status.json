@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-24T05:42:14.837065+00:00",
+ "run_at": "2026-11-24T05:50:15.149227+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -10,19 +10,19 @@
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 102,
+   "items": 104,
    "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 79,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 80,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 90,
+   "items": 54,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 13,
+   "items": 45,
    "error": null
   },
   {
@@ -166,13 +166,13 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 10,
+   "items": 14,
    "error": null
   },
   {
@@ -214,7 +214,7 @@
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
    "ok": true,
-   "items": 12,
+   "items": 11,
    "error": null
   },
   {
@@ -225,9 +225,9 @@
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 3,
+   "items": 4,
    "error": null
   },
   {
@@ -364,7 +364,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 6,
+   "items": 0,
    "error": "3075 imágenes en el espejo"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1186,
+ "new_items": 1182,
  "total_items": 900
 }
