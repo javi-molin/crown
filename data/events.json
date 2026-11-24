@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:10:33.913129+00:00",
+ "updated": "2026-11-24T17:18:33.943116+00:00",
  "count": 29,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,13 +149,14 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "00d85f195993a4",
     "2dc02e0b3d9c3c",
     "f297fca60746fb",
+    "5bf28d821d4083",
     "d110b929c23279",
     "3be8212aeaf7e7",
     "f3435a3dab9a6a",
@@ -182,6 +183,7 @@
     "4f206d3fcf54d1",
     "91bb17dfaf8bdb",
     "1b00913d88c5da",
+    "dae740de7234de",
     "642e49b5145742",
     "f9479b1f772a7b",
     "4ddd96b752a9cf",
@@ -209,6 +211,7 @@
     "ba711549a638df",
     "947424f16ba7ea",
     "a1d49299ffc7fb",
+    "b12cdf53220eea",
     "469d01ef35d3a6",
     "fb24419f2eb107",
     "17355e874077f2",
@@ -269,10 +272,7 @@
     "eb9931e76498b6",
     "87b3c36b693021",
     "1927b5d7474965",
-    "0c6b2b4f33a7fc",
-    "5acb0326fe4762",
-    "9fcac4f93a8849",
-    "be272b9c3c63be"
+    "0c6b2b4f33a7fc"
    ],
    "sources": [
     "24 horas",
@@ -280,6 +280,7 @@
     "ABC Noticias",
     "ABS-CBN",
     "ADN",
+    "ADN Radio",
     "CRÍTICA",
     "Clarin.com",
     "Clx Icons",
@@ -313,6 +314,7 @@
     "Inquirer.net",
     "Instagram",
     "LA NACION",
+    "LA PRENSA",
     "LMNeuquén",
     "La Hora",
     "La Nación",
@@ -353,8 +355,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 129,
-   "n_sources": 77,
+   "n_items": 132,
+   "n_sources": 79,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -370,7 +372,217 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 286
+   "score": 293
+  },
+  {
+   "key": "t:mu:Causa / caridad:2026-11-24",
+   "id": "t-mu-causa-caridad-2026-11-24-7149c",
+   "name": "Causa / caridad · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Causa / caridad"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
+   "start": "2026-11-24T05:31:00+00:00",
+   "last_activity": "2026-11-24T17:00:00+00:00",
+   "item_ids": [
+    "adee2a172cb70d",
+    "af171b024c6856",
+    "9bc91c5890860e",
+    "f060fd6393d4fb",
+    "7e5df60f36a8d5"
+   ],
+   "sources": [
+    "El Comercio",
+    "El Universo",
+    "Infobae"
+   ],
+   "n_items": 5,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.infobae.com/resizer/v2/UHQPK5GB3FHNHGAWIMCPN2PXAQ.jpg?auth=44558c296ac6082a669738895a26b55b36f02edbaf2e00f7ccb14c0bff4c7405&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/mexico/2026/11/24/miss-universo-2026-los-premios-millonarios-y-lujosos-beneficios-que-recibiria-maria-vargas-si-gana/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.gZeH1_oOiVvcJfXBXLxDBA&pid=News",
+     "page": "https://www.infobae.com/mexico/2026/11/24/miss-universo-2026-los-premios-millonarios-y-lujosos-beneficios-que-recibiria-maria-vargas-si-gana/",
+     "via": "Bing (miniatura)",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/RQS3P5WZMJCSJPKOOFEB7EH2JU.png?auth=296a1dc6a87b75f70519f6a935ab742524bd8ce183a83ff6e656b96be3c666c2&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/respuestas/us/cuanto-ganara-la-nueva-reina-del-miss-universo-2026-estos-son-los-premios-que-recibira-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/respuestas/us/cuanto-ganara-la-nueva-reina-del-miss-universo-2026-estos-son-los-premios-que-recibira-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/DPBT5SVBXVGBDFDK7VEEKQYUPE.jpg?auth=fedd2ece5d41ca1d5a7f162895696aab59fbf9ddfee07f13e6d38489f67b324a&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/respuestas/us/cuanto-ganara-la-nueva-reina-del-miss-universo-2026-estos-son-los-premios-que-recibira-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/QV5VQPGUJZE4LKSSQ7IL2SH5JY.png?auth=70dadd249bd25a028f45a6fa447d4bb97947fd68a431d0e9bb816f9141e47968&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/respuestas/us/cuanto-ganara-la-nueva-reina-del-miss-universo-2026-estos-son-los-premios-que-recibira-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/IIKR3IKMRJHZHDLXMPAN5PR7LE.jpg?auth=c0b7e9c475c82eb61cf4b768e2f209cbbc234e1ba3b4fdaf54db1d222385474d&width=893&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/cuanto-gana-la-miss-universo-2026-sueldo-departamento-en-nueva-york-y-beneficios-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/YTTXRLKXRBCLLP5V4E74X2BVDU.jpg?auth=5bb916f98a38b207a2a3b42f0f39348f8ee6b3e87048dcae8d8be50009d7f5a0&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/cuanto-gana-la-miss-universo-2026-sueldo-departamento-en-nueva-york-y-beneficios-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/6NMMOTMQMVG6PEZSLSVZIJH5OY.png?auth=e0987c3cb335283f6fa0db9834cea8c3e74d05061b0398cbb015d7418bed7b08&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/cuanto-gana-la-miss-universo-2026-sueldo-departamento-en-nueva-york-y-beneficios-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/VQQN7F7NR5CZNMU3U5ALFRUASM.png?auth=85586a26d98ede2619a35e7c97083811f42348823de9eb04ed1d47450973f035&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/cuanto-gana-la-miss-universo-2026-sueldo-departamento-en-nueva-york-y-beneficios-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu/page1-1920px-The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Collected_Works_of_Mahatma_Gandhi,_vol._27.djvu",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Mahatma Gandhi"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Creator:Blanche Watson"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DfoPHAEke4m",
+    "https://www.instagram.com/p/DgD9jlWNF6p",
+    "https://www.instagram.com/reel/DgEhcQEJp_W"
+   ],
+   "image_query": "Miss Universe 2026 charity visit",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu/page1-1920px-The_Collected_Works_of_Mahatma_Gandhi%2C_vol._27.djvu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Collected_Works_of_Mahatma_Gandhi,_vol._27.djvu",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Mahatma Gandhi"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Creator:Blanche Watson"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "extra_at": "2026-11-24T17:18:33.943116+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
+     "url": "https://www.instagram.com/p/DfoPHAEke4m",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
+     "url": "https://www.instagram.com/p/DgD9jlWNF6p",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
+     "url": "https://www.instagram.com/reel/DgEhcQEJp_W",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 11
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -398,6 +610,7 @@
     "74aba6dcb3a5b9",
     "41b517a1d93618",
     "414bc670cc8eb4",
+    "e9e863eaf6fdee",
     "f0d383fed2395e",
     "6f2e68312f1476",
     "6a5fb4fcaa6029",
@@ -426,7 +639,7 @@
     "Reporte Indigo",
     "www.elmartutino.cl"
    ],
-   "n_items": 20,
+   "n_items": 21,
    "n_sources": 16,
    "videos": [],
    "views_total": 0,
@@ -684,24 +897,24 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T16:14:33.611844+00:00",
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
      "url": "https://www.instagram.com/p/DgHB96JBfgN",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T16:14:33.611844+00:00",
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
      "url": "https://www.youtube.com/watch?v=1F6GkeEeT6M",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/1F6GkeEeT6M/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T16:14:33.611844+00:00",
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
      "url": "https://www.youtube.com/watch?v=JWlARKoxzXw",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/JWlARKoxzXw/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T16:14:33.611844+00:00",
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
      "url": "https://www.youtube.com/watch?v=NsRmn4g9O20",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/NsRmn4g9O20/hqdefault.jpg"
@@ -713,7 +926,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 52
+   "score": 53
   },
   {
    "key": "seed:voto-top30",
@@ -1401,6 +1614,13 @@
      "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
      "via": "Gestión",
      "credit": "Gestión"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/5d/57/0c/5d570c5be0cf35a50659e94c882f1729.jpg",
+     "page": "https://co.pinterest.com/pin/630222541617724704/",
+     "via": "Bing Imágenes",
+     "credit": "co.pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.9D95enG3D1lStBMd7jCU%2bQ&pid=15.1"
     }
    ],
    "social_urls": [
@@ -1419,8 +1639,16 @@
     "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605"
    ],
    "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [],
-   "extra_at": "2026-11-24T17:10:33.913129+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/736x/5d/57/0c/5d570c5be0cf35a50659e94c882f1729.jpg",
+     "page": "https://co.pinterest.com/pin/630222541617724704/",
+     "via": "Bing Imágenes",
+     "credit": "co.pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.9D95enG3D1lStBMd7jCU%2bQ&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T17:18:33.943116+00:00",
    "social": [
     {
      "fetched": "2026-11-24T16:30:34.294552+00:00",
@@ -1529,9 +1757,40 @@
    ],
    "n_items": 6,
    "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 24801,
+     "ago": "hace 9 días",
+     "official": false
+    },
+    {
+     "vid": "sBc2cmDSTWE",
+     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
+     "channel": "SNOW SIN FILTRO",
+     "views": 3853,
+     "ago": "hace 8 días",
+     "official": false
+    }
+   ],
+   "views_total": 28654,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
      "page": "https://www.critica.com.pa/show/panama-brilla-en-japon-rumbo-la-final-del-miss-international-2026-520420",
@@ -1661,7 +1920,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 16
   },
   {
    "key": "p:crown confidential",
@@ -3215,7 +3474,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T16:14:33.611844+00:00",
+     "fetched": "2026-11-24T17:18:33.943116+00:00",
      "url": "https://www.instagram.com/p/DgEqKEjB77H",
      "platform": "Instagram",
      "error": "HTTP Error 500: Internal Server Error"
@@ -3247,7 +3506,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T10:04:00+00:00",
+   "start": "2026-11-23T10:25:36+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3304,8 +3563,6 @@
     "b2ef86e9afdce4",
     "9ca0eda25522c7",
     "e1d1fed2ae9244",
-    "aa5ae68c14f17b",
-    "519384f1110942",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -3332,7 +3589,6 @@
     "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
-    "El Heraldo",
     "El Impulso",
     "El Informador",
     "El Mostrador",
@@ -3355,11 +3611,12 @@
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
-    "Mi Diario",
-    "Minuto60"
+    "Minuto60",
+    "Music Mundial",
+    "Noticia al Dia"
    ],
-   "n_items": 65,
-   "n_sources": 54,
+   "n_items": 63,
+   "n_sources": 52,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3611,7 +3868,6 @@
     "https://www.instagram.com/p/DgGDBNxvTVQ",
     "https://www.instagram.com/reel/DgEFmBxvajg",
     "https://www.instagram.com/reel/DgF163yzZSr",
-    "https://www.instagram.com/reel/DgFgIipRDFw",
     "https://www.youtube.com/watch?v=GntH78xRlX4",
     "https://www.youtube.com/watch?v=quLHTBghoEw"
    ],
@@ -3653,11 +3909,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T16:30:34.294552+00:00",
-     "url": "https://www.instagram.com/reel/DgFgIipRDFw",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T17:02:33.760371+00:00",
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
@@ -3676,7 +3927,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 176
+   "score": 170
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4082,28 +4333,24 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T08:37:35.181492+00:00",
-   "start": "2026-11-23T10:10:00+00:00",
+   "start": "2026-11-23T10:59:00+00:00",
    "last_activity": "2026-11-23T19:07:41+00:00",
    "item_ids": [
     "79a88b0b3e228d",
     "e2f14a28cf3797",
     "f32466ae9eafcc",
     "5641776e4019db",
-    "2e5dde2e364052",
     "07baf1de3bb3bc",
-    "45c46996930f7e",
-    "d67e412d2c0d1c"
+    "45c46996930f7e"
    ],
    "sources": [
     "DZRH",
     "Instagram",
     "Meridiano.net",
-    "PhilNews",
-    "Philstar Life",
-    "tuoitre.vn"
+    "PhilNews"
    ],
-   "n_items": 8,
-   "n_sources": 6,
+   "n_items": 6,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4124,36 +4371,6 @@
      "page": "https://meridiano.net/farandula/valeria-di-martino-impacta-en-la-competencia-preliminar-del-miss-international-2026112314590",
      "via": "Bing (miniatura)",
      "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808-86-269-1085-2177-crop-1795479571393294548497.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-3-1795479199871287372425.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9165789411221400073848130293708048554531018439n-17954794742911259356269.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9169451891221402205528130295555509655118787197n-17954794742951636982360.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -4198,9 +4415,7 @@
      "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
     }
    ],
-   "social_urls": [
-    "https://www.instagram.com/reel/DgEsUDyx-nn"
-   ],
+   "social_urls": [],
    "image_query": "Miss International 2026 preliminary competition",
    "extra_images": [
     {
@@ -4247,138 +4462,14 @@
     }
    ],
    "extra_at": "2026-11-24T15:18:34.160616+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T16:54:33.884331+00:00",
-     "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
-     "platform": "Instagram"
-    }
-   ],
+   "social": [],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 20
-  },
-  {
-   "key": "t:mi:Traje de baño:2026-11-21",
-   "id": "t-mi-traje-de-bano-2026-11-21-6101b",
-   "name": "Traje de baño · 21–23 nov",
-   "contest": "mi",
-   "kind": "detectado",
-   "labels": [
-    "Traje de baño"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T15:18:34.160616+00:00",
-   "start": "2026-11-23T10:10:00+00:00",
-   "last_activity": "2026-11-23T15:15:45+00:00",
-   "item_ids": [
-    "07baf1de3bb3bc",
-    "45c46996930f7e",
-    "d67e412d2c0d1c",
-    "2e5dde2e364052"
-   ],
-   "sources": [
-    "Instagram",
-    "PhilNews",
-    "Philstar Life",
-    "tuoitre.vn"
-   ],
-   "n_items": 4,
-   "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808-86-269-1085-2177-crop-1795479571393294548497.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-3-1795479199871287372425.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9165789411221400073848130293708048554531018439n-17954794742911259356269.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9169451891221402205528130295555509655118787197n-17954794742951636982360.jpg",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "tuoitre.vn",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.ko-ONeCFFtNbaJxETxsS_Q&pid=News",
-     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
-     "via": "Bing (miniatura)",
-     "credit": "tuoitre.vn"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/d7/00/6d/d7006d4672e61bf905c5392bc67c3f9f.jpg",
-     "page": "https://ar.pinterest.com/pin/638596422202312134/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.zla6vw3YVGjI3N2leBy7vAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/reel/DgEsUDyx-nn"
-   ],
-   "image_query": "Miss International 2026 swimsuit",
-   "extra_images": [
-    {
-     "url": "https://i.pinimg.com/originals/d7/00/6d/d7006d4672e61bf905c5392bc67c3f9f.jpg",
-     "page": "https://ar.pinterest.com/pin/638596422202312134/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.zla6vw3YVGjI3N2leBy7vAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    }
-   ],
-   "extra_at": "2026-11-24T15:18:34.160616+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T16:54:33.884331+00:00",
-     "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 12
+   "score": 14
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -4753,27 +4844,11 @@
    "n_sources": 1,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://o.quizlet.com/rDU7Q2J4E9T6srfc4l4Q5g.png",
-     "page": "https://quizlet.com/tr/1238281548/ecg-flash-cards/",
-     "via": "Bing Imágenes",
-     "credit": "quizlet.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.kNqvKO6sqPMcMqfhPiVk4Q&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [
-    {
-     "url": "https://o.quizlet.com/rDU7Q2J4E9T6srfc4l4Q5g.png",
-     "page": "https://quizlet.com/tr/1238281548/ecg-flash-cards/",
-     "via": "Bing Imágenes",
-     "credit": "quizlet.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.kNqvKO6sqPMcMqfhPiVk4Q&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T14:14:23.725729+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T17:18:33.943116+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4792,7 +4867,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4849,9 +4924,7 @@
     "2fdcb820131df3",
     "b2ef86e9afdce4",
     "9ca0eda25522c7",
-    "e1d1fed2ae9244",
-    "aa5ae68c14f17b",
-    "519384f1110942"
+    "e1d1fed2ae9244"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -4866,7 +4939,6 @@
     "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
-    "El Heraldo",
     "El Impulso",
     "El Mostrador",
     "El Nuevo Día",
@@ -4885,7 +4957,6 @@
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
-    "Mi Diario",
     "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
@@ -4900,8 +4971,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 56,
-   "n_sources": 45,
+   "n_items": 54,
+   "n_sources": 43,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4933,7 +5004,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 149
+   "score": 143
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -4944,7 +5015,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5009,209 +5080,11 @@
    "n_sources": 25,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://thumbs.dreamstime.com/b/hombre-en-traje-del-hechicero-96800791.jpg",
-     "page": "https://es.dreamstime.com/photos-images/hechicero.html",
-     "via": "Bing Imágenes",
-     "credit": "es.dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.oxOuCWm02sXGPNhF5sE61AHaLH&pid=15.1"
-    },
-    {
-     "url": "https://ae01.alicdn.com/kf/HTB16Pm5XzoIL1JjSZFyq6zFBpXa6/Traje-de-hechicero-oscuro-para-hombres-adultos-T-nica-de-monje-padrino-religioso-disfraz-de-mago.jpg",
-     "page": "https://es.aliexpress.com/item/32827357192.html",
-     "via": "Bing Imágenes",
-     "credit": "es.aliexpress.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Dd0kAVg87MTdemLdqmFghgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ec/98/22/ec98228fd122a8fef713643797d30b45.jpg",
-     "page": "https://www.pinterest.com/pin/43347215159462268/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.sWuMITXf8hVrNyUWeTGeDQHaJo&pid=15.1"
-    },
-    {
-     "url": "https://media.minutouno.com/p/0349b0f827464159fd63db59cdb33f14/adjuntos/150/imagenes/042/833/0042833479/610x0/smart/hechiceros.png",
-     "page": "https://www.minutouno.com/espectaculos/disney-confirmo-cuando-llega-la-temporada-2-los-hechiceros-mas-alla-waverly-place-n6199338",
-     "via": "Bing Imágenes",
-     "credit": "minutouno.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.cglCwYHj0rq1lugJ_XrjcQHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://lumiere-a.akamaihd.net/v1/images/hechiceros_lmg_thumb_copia_64dc69f7.png?region=0,0,1200,675",
-     "page": "https://prensa.disneylatino.com/press-kit/los-hechiceros-más-allá-de-waverly-place-temporada-2",
-     "via": "Bing Imágenes",
-     "credit": "prensa.disneylatino.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.5hs_cDzYnIDj1y-ctEIkVgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdnb.artstation.com/p/assets/images/images/009/052/581/large/felipe-gabriel-lopez-trajes-hechiceros-regular.jpg?1587543286",
-     "page": "https://www.artstation.com/artwork/L6bDl",
-     "via": "Bing Imágenes",
-     "credit": "artstation.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.M-Za2bRF6Gl9fZ9ob3-6HAHaEE&pid=15.1"
-    },
-    {
-     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b66f10b3-1a0a-4898-acea-6730d9dff843/dfdz52o-d8f4f66d-e55f-4582-9243-797c5a72ad5c.png/v1/fill/w_866,h_922,q_70,strp/hechicero_by_julif_art_dfdz52o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MyIsInBhdGgiOiJcL2ZcL2I2NmYxMGIzLTFhMGEtNDg5OC1hY2VhLTY3MzBkOWRmZjg0M1wvZGZkejUyby1kOGY0ZjY2ZC1lNTVmLTQ1ODItOTI0My03OTdjNWE3MmFkNWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lfWZUlR7Uh3aTQMGsSZrsTuKbJMNdjaEN_6tJdv0fqs",
-     "page": "https://www.deviantart.com/julif-art/art/hechicero-930467184",
-     "via": "Bing Imágenes",
-     "credit": "deviantart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.N7fSrU5qWi9CwSfXOdRWvwHaH4&pid=15.1"
-    },
-    {
-     "url": "https://images.halloweencostumes.com/products/42196/1-1/mens-dark-wizard-costume.jpg",
-     "page": "https://www.halloweencostumes.com/buy/mysterious-character-costumes-0abz00a",
-     "via": "Bing Imágenes",
-     "credit": "halloweencostumes.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.xmLGIuvwXvKBPk3Peq9EggHaKl&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/9c/42/ba/9c42ba398506004c9378ca166bdf4911.jpg",
-     "page": "https://www.pinterest.com/pin/3307399720888478/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-Upyq0QOetHaKzTVRZf0ewHaLg&pid=15.1"
-    },
-    {
-     "url": "https://media.milesdefiestas.com/galeria/articulos/disfraz-hechicero_18365_1.jpg",
-     "page": "https://fity.club/lists/suggestions/disfraz-de-vudú-para-hombre/",
-     "via": "Bing Imágenes",
-     "credit": "fity.club",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ffD6ZujQIA5_rqDrplIWXwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://files.vgtimes.com/si/post_133981_es.jpg",
-     "page": "https://es.vgtimes.com/news/133981-eight-cosplayers-transform-into-the-sorceresses-of-the-witcher-in-a-stunning-group-shoot.html",
-     "via": "Bing Imágenes",
-     "credit": "es.vgtimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.-_klToFhTFdGVU6N39wKfQHaEI&pid=15.1"
-    },
-    {
-     "url": "https://www.efeyl.org/421-thickbox_default/vestido-hechicera-mujer.jpg",
-     "page": "https://www.efeyl.org/trajes-medievales/mujer/vestido-hechicera-mujer.html",
-     "via": "Bing Imágenes",
-     "credit": "efeyl.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.n4uasx3d4HOZ_Ngxlp0xggHaFj&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/terrible-hechicería-de-pelo-gris-retrato-una-vieja-hechicera-con-el-largo-y-en-rica-toalla-vestido-negro-contra-un-fondo-vintage-224824344.jpg",
-     "page": "https://es.dreamstime.com/una-hechicera-con-el-pelo-rojo-en-un-sombrero-y-manto-morado-bosque-su-mano-vela-llamas-foto-horizontal-image160815416",
-     "via": "Bing Imágenes",
-     "credit": "es.dreamstime.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.IdXwEa9dDApPOMuEftI4ewHaLH&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/ropa-hechicero-vestido-disfraz_53876-304980.jpg",
-     "page": "https://www.freepik.es/fotos/dnd-hechicero-sobre-fondo-blanco",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JRTHeXWL6R78Yakj_3x9zQHaHa&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [
-    {
-     "url": "https://thumbs.dreamstime.com/b/hombre-en-traje-del-hechicero-96800791.jpg",
-     "page": "https://es.dreamstime.com/photos-images/hechicero.html",
-     "via": "Bing Imágenes",
-     "credit": "es.dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.oxOuCWm02sXGPNhF5sE61AHaLH&pid=15.1"
-    },
-    {
-     "url": "https://ae01.alicdn.com/kf/HTB16Pm5XzoIL1JjSZFyq6zFBpXa6/Traje-de-hechicero-oscuro-para-hombres-adultos-T-nica-de-monje-padrino-religioso-disfraz-de-mago.jpg",
-     "page": "https://es.aliexpress.com/item/32827357192.html",
-     "via": "Bing Imágenes",
-     "credit": "es.aliexpress.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Dd0kAVg87MTdemLdqmFghgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ec/98/22/ec98228fd122a8fef713643797d30b45.jpg",
-     "page": "https://www.pinterest.com/pin/43347215159462268/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.sWuMITXf8hVrNyUWeTGeDQHaJo&pid=15.1"
-    },
-    {
-     "url": "https://media.minutouno.com/p/0349b0f827464159fd63db59cdb33f14/adjuntos/150/imagenes/042/833/0042833479/610x0/smart/hechiceros.png",
-     "page": "https://www.minutouno.com/espectaculos/disney-confirmo-cuando-llega-la-temporada-2-los-hechiceros-mas-alla-waverly-place-n6199338",
-     "via": "Bing Imágenes",
-     "credit": "minutouno.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.cglCwYHj0rq1lugJ_XrjcQHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://lumiere-a.akamaihd.net/v1/images/hechiceros_lmg_thumb_copia_64dc69f7.png?region=0,0,1200,675",
-     "page": "https://prensa.disneylatino.com/press-kit/los-hechiceros-más-allá-de-waverly-place-temporada-2",
-     "via": "Bing Imágenes",
-     "credit": "prensa.disneylatino.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.5hs_cDzYnIDj1y-ctEIkVgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdnb.artstation.com/p/assets/images/images/009/052/581/large/felipe-gabriel-lopez-trajes-hechiceros-regular.jpg?1587543286",
-     "page": "https://www.artstation.com/artwork/L6bDl",
-     "via": "Bing Imágenes",
-     "credit": "artstation.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.M-Za2bRF6Gl9fZ9ob3-6HAHaEE&pid=15.1"
-    },
-    {
-     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b66f10b3-1a0a-4898-acea-6730d9dff843/dfdz52o-d8f4f66d-e55f-4582-9243-797c5a72ad5c.png/v1/fill/w_866,h_922,q_70,strp/hechicero_by_julif_art_dfdz52o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MyIsInBhdGgiOiJcL2ZcL2I2NmYxMGIzLTFhMGEtNDg5OC1hY2VhLTY3MzBkOWRmZjg0M1wvZGZkejUyby1kOGY0ZjY2ZC1lNTVmLTQ1ODItOTI0My03OTdjNWE3MmFkNWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lfWZUlR7Uh3aTQMGsSZrsTuKbJMNdjaEN_6tJdv0fqs",
-     "page": "https://www.deviantart.com/julif-art/art/hechicero-930467184",
-     "via": "Bing Imágenes",
-     "credit": "deviantart.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.N7fSrU5qWi9CwSfXOdRWvwHaH4&pid=15.1"
-    },
-    {
-     "url": "https://images.halloweencostumes.com/products/42196/1-1/mens-dark-wizard-costume.jpg",
-     "page": "https://www.halloweencostumes.com/buy/mysterious-character-costumes-0abz00a",
-     "via": "Bing Imágenes",
-     "credit": "halloweencostumes.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.xmLGIuvwXvKBPk3Peq9EggHaKl&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/9c/42/ba/9c42ba398506004c9378ca166bdf4911.jpg",
-     "page": "https://www.pinterest.com/pin/3307399720888478/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-Upyq0QOetHaKzTVRZf0ewHaLg&pid=15.1"
-    },
-    {
-     "url": "https://media.milesdefiestas.com/galeria/articulos/disfraz-hechicero_18365_1.jpg",
-     "page": "https://fity.club/lists/suggestions/disfraz-de-vudú-para-hombre/",
-     "via": "Bing Imágenes",
-     "credit": "fity.club",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ffD6ZujQIA5_rqDrplIWXwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://files.vgtimes.com/si/post_133981_es.jpg",
-     "page": "https://es.vgtimes.com/news/133981-eight-cosplayers-transform-into-the-sorceresses-of-the-witcher-in-a-stunning-group-shoot.html",
-     "via": "Bing Imágenes",
-     "credit": "es.vgtimes.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.-_klToFhTFdGVU6N39wKfQHaEI&pid=15.1"
-    },
-    {
-     "url": "https://www.efeyl.org/421-thickbox_default/vestido-hechicera-mujer.jpg",
-     "page": "https://www.efeyl.org/trajes-medievales/mujer/vestido-hechicera-mujer.html",
-     "via": "Bing Imágenes",
-     "credit": "efeyl.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.n4uasx3d4HOZ_Ngxlp0xggHaFj&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/terrible-hechicería-de-pelo-gris-retrato-una-vieja-hechicera-con-el-largo-y-en-rica-toalla-vestido-negro-contra-un-fondo-vintage-224824344.jpg",
-     "page": "https://es.dreamstime.com/una-hechicera-con-el-pelo-rojo-en-un-sombrero-y-manto-morado-bosque-su-mano-vela-llamas-foto-horizontal-image160815416",
-     "via": "Bing Imágenes",
-     "credit": "es.dreamstime.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.IdXwEa9dDApPOMuEftI4ewHaLH&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/fotos-premium/ropa-hechicero-vestido-disfraz_53876-304980.jpg",
-     "page": "https://www.freepik.es/fotos/dnd-hechicero-sobre-fondo-blanco",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.JRTHeXWL6R78Yakj_3x9zQHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T14:14:23.725729+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T17:18:33.943116+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5231,7 +5104,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5240,27 +5113,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://img.freepik.com/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_1308-158191.jpg?w=1800",
-     "page": "https://www.freepik.es/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_73611930.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.aloileARvc62BvmXJ1pT-AHaEK&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
-   "extra_images": [
-    {
-     "url": "https://img.freepik.com/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_1308-158191.jpg?w=1800",
-     "page": "https://www.freepik.es/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_73611930.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.aloileARvc62BvmXJ1pT-AHaEK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T14:14:23.725729+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T17:18:33.943116+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5280,7 +5137,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5511,7 +5368,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5742,7 +5599,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:10:33.913129+00:00",
+   "first_seen": "2026-11-24T17:18:33.943116+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
