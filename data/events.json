@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:42:34.224519+00:00",
+ "updated": "2026-11-24T17:50:33.643860+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,7 +149,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -613,6 +613,7 @@
     "348954b1c1287a",
     "944756c2f69670",
     "e9c20abdfee373",
+    "85513b25d43b5e",
     "c8fe7398d07e4c",
     "74aba6dcb3a5b9",
     "41b517a1d93618",
@@ -640,14 +641,15 @@
     "Interaksyon",
     "LA NACION",
     "La Nación",
+    "Lima Limón",
     "MSN",
     "Milenio",
     "Página 7",
     "Reporte Indigo",
     "www.elmartutino.cl"
    ],
-   "n_items": 21,
-   "n_sources": 16,
+   "n_items": 22,
+   "n_sources": 17,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -933,7 +935,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 53
+   "score": 56
   },
   {
    "key": "seed:voto-top30",
@@ -996,8 +998,7 @@
     "047149e3f9bb9f",
     "a6e883a97a28db",
     "4c9e28e405cc31",
-    "0c9820b5de0382",
-    "b7f73d6009c7d1"
+    "0c9820b5de0382"
    ],
    "sources": [
     "2001online",
@@ -1021,7 +1022,6 @@
     "Fashion Times UK",
     "HOLA",
     "International Business Times Singapore",
-    "Khaleej Times",
     "MARCA",
     "Mega.cl",
     "Meridiano.net",
@@ -1037,8 +1037,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 48,
-   "n_sources": 36,
+   "n_items": 47,
+   "n_sources": 35,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1358,7 +1358,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 123
+   "score": 120
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1683,7 +1683,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T16:46:33.410147+00:00",
+     "fetched": "2026-11-24T17:50:33.643860+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
      "platform": "Instagram"
     },
@@ -1766,6 +1766,22 @@
    "n_sources": 3,
    "videos": [
     {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 24804,
+     "ago": "hace 9 días",
+     "official": false
+    },
+    {
+     "vid": "eNW-a9sHZso",
+     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
+     "channel": "Hi Along",
+     "views": 6637,
+     "ago": "hace 6 días",
+     "official": false
+    },
+    {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
@@ -1774,7 +1790,7 @@
      "official": false
     }
    ],
-   "views_total": 3857,
+   "views_total": 35298,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -1782,6 +1798,20 @@
      "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
      "via": "YouTube (miniatura)",
      "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
     },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
@@ -2108,7 +2138,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 16
   },
   {
    "key": "p:crown confidential",
@@ -4201,7 +4231,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T10:57:07+00:00",
+   "start": "2026-11-23T11:55:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4229,8 +4259,7 @@
     "047149e3f9bb9f",
     "a6e883a97a28db",
     "4c9e28e405cc31",
-    "0c9820b5de0382",
-    "b7f73d6009c7d1"
+    "0c9820b5de0382"
    ],
    "sources": [
     "2001online",
@@ -4246,7 +4275,6 @@
     "Fashion Times UK",
     "HOLA",
     "Infobae",
-    "Khaleej Times",
     "MDZ Online",
     "Mega.cl",
     "Meridiano.net",
@@ -4257,8 +4285,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 27,
-   "n_sources": 23,
+   "n_items": 26,
+   "n_sources": 22,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4579,7 +4607,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 76
+   "score": 73
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -5325,7 +5353,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5468,7 +5496,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5499,8 +5527,7 @@
     "047149e3f9bb9f",
     "a6e883a97a28db",
     "4c9e28e405cc31",
-    "0c9820b5de0382",
-    "b7f73d6009c7d1"
+    "0c9820b5de0382"
    ],
    "sources": [
     "2001online",
@@ -5518,7 +5545,6 @@
     "Fashion Times UK",
     "HOLA",
     "Insider",
-    "Khaleej Times",
     "MDZ Online",
     "Mega.cl",
     "Meridiano.net",
@@ -5529,15 +5555,31 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 29,
-   "n_sources": 25,
+   "n_items": 28,
+   "n_sources": 24,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.nationalgeographic.com.es/medio/2020/02/11/erupcion-del-volcan-de-fuego-el-27-de-febrero-de-2016_0abf3632_800x800.jpg",
+     "page": "https://elsolrevista.com/el-puhahonu-el-volcan-de-escudo-mas-grande-del-mundo/",
+     "via": "Bing Imágenes",
+     "credit": "elsolrevista.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.SdV-23DXVTEh5eVotMniAwHaHa&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [],
-   "extra_at": "2026-11-24T17:42:34.224519+00:00",
+   "extra_images": [
+    {
+     "url": "https://www.nationalgeographic.com.es/medio/2020/02/11/erupcion-del-volcan-de-fuego-el-27-de-febrero-de-2016_0abf3632_800x800.jpg",
+     "page": "https://elsolrevista.com/el-puhahonu-el-volcan-de-escudo-mas-grande-del-mundo/",
+     "via": "Bing Imágenes",
+     "credit": "elsolrevista.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.SdV-23DXVTEh5eVotMniAwHaHa&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T17:50:33.643860+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5546,7 +5588,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 82
+   "score": 79
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5557,7 +5599,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5606,7 +5648,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5837,7 +5879,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6068,7 +6110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:42:34.224519+00:00",
+   "first_seen": "2026-11-24T17:50:33.643860+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
