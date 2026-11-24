@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:10:41.606262+00:00",
+ "updated": "2026-11-24T23:18:41.453506+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -157,10 +157,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "f64b324b983410",
     "3d99012b7b8396",
     "d639da83c93dce",
     "ad09194edea0a4",
@@ -186,9 +187,11 @@
     "9cb4df0e92eea1",
     "fb079ad2264a29",
     "502d9e99b14566",
+    "874577cea78a0e",
     "1efc2c73fb69c5",
     "787fb054656f42",
     "c1b9c8e3c4e8ba",
+    "8a8b0198e58bd7",
     "345f291ed196aa",
     "2a811dbe6fa669",
     "ce2e3266221dfb",
@@ -236,6 +239,7 @@
     "7c033b92bcaa70",
     "9d0d71d8fe1614",
     "0e55fe882241f6",
+    "44e63695907cca",
     "86b69dd12569af",
     "aea859aabddddf",
     "3362db3fceb914",
@@ -269,18 +273,14 @@
     "6cc3eb5a4f9918",
     "f7145e591bd640",
     "c2fe224b1b75c8",
+    "0d21b7ab1b8016",
     "a3ed91213292c5",
     "b1fb14b7115c2d",
     "163b76447d3cee",
     "3073edea2f735c",
     "be604c5fb4d998",
     "0f732311b31922",
-    "ecbf68a0396d9b",
-    "8acce46bccb0b2",
-    "cd5088d20f220e",
-    "0675f68902cd7c",
-    "7c5155fbd4f1f8",
-    "f0138b710476bb"
+    "ecbf68a0396d9b"
    ],
    "sources": [
     "24 horas",
@@ -400,6 +400,7 @@
     "SoyChile.cl",
     "T13",
     "TNT Sports",
+    "TV Más",
     "Tele Urban",
     "Telemedellín",
     "Telemundo",
@@ -434,8 +435,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 294,
-   "n_sources": 150,
+   "n_items": 299,
+   "n_sources": 151,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -451,7 +452,176 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 597
+   "score": 604
+  },
+  {
+   "key": "p:one unforgettable night",
+   "id": "p-one-unforgettable-night-2cc6d",
+   "name": "One Unforgettable Night",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T03:26:06.119250+00:00",
+   "start": "2026-11-24T00:30:23+00:00",
+   "last_activity": "2026-11-24T23:09:00+00:00",
+   "item_ids": [
+    "5c41de094d619f",
+    "d6ad0b8dd1afb7",
+    "188ce7669254b4",
+    "afad0375f8e830",
+    "2f385cbbe5ac78",
+    "7ea58ddad63810",
+    "95d195dbe5680c",
+    "3b6e207e8e6d55",
+    "fc312ea5b99564",
+    "c05d52b376a2d1",
+    "9fcac4f93a8849",
+    "90748c0f6d8875",
+    "a75025abdf2c51"
+   ],
+   "sources": [
+    "Bombay Times",
+    "Correo del Caroní",
+    "Diario Las Américas",
+    "Diario Primicia",
+    "Ecuavisa",
+    "Interaksyon",
+    "La Nacion",
+    "N Digital",
+    "Prensa Libre",
+    "Radio Agricultura",
+    "TV Más",
+    "YouTube · Miss Universe",
+    "tvmas.tv"
+   ],
+   "n_items": 13,
+   "n_sources": 13,
+   "videos": [
+    {
+     "vid": "UDILgaOsKGQ",
+     "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
+     "channel": "Miss Universe",
+     "views": 511705,
+     "likes": 0,
+     "published": "2026-11-24T00:30:23+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 511705,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/UDILgaOsKGQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-miss-cuba-desfilo-en-miss-universo-2026-SBQERU4PD5D7DFKLBDT2RWWQVA.jpg?auth=47216177b0bcdb4313b060e57a561d65dbd29fc6f489ff46f2f23cd724addcae&width=420&height=526&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/berta-soler-de-las-damas-de-blanco-prepara-su-S4UJCWTHC5BAHFIQFDYYIKNUOA.jpg?auth=e7ad2da58c0029015e50581cf863090c49113ca1cc286c1206637ad15efade27&width=420&height=241&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.QtZ_xwoqVyJ4p7-fz-T84A&pid=News",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "Bing (miniatura)",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/APOYO-NOTAS-4-8-1024x576.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/Hija-de-Claudia-Conserva-parecido-a-Pollo-Valdivia-468x263.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/Sergio-Lagos-y-Nicole-468x263.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/10/APOYO-NOTAS-33-468x263.png",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv{{imagen_post}}",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgBf5mfvezp",
+    "https://www.instagram.com/reel/DgF_BPzByah"
+   ],
+   "image_query": "Miss Universe 2026 One Unforgettable Night",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    }
+   ],
+   "extra_at": "2026-11-24T21:50:42.225084+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T22:54:41.488128+00:00",
+     "url": "https://www.instagram.com/p/DgBf5mfvezp",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "url": "https://www.instagram.com/reel/DgF_BPzByah",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 67
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -1072,13 +1242,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 18686,
-     "likes": 374,
+     "views": 20861,
+     "likes": 406,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 18686,
+   "views_total": 20861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1393,7 +1563,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 107
+   "score": 108
   },
   {
    "key": "p:crown confidential",
@@ -1756,173 +1926,6 @@
     "shares": 0
    },
    "score": 45
-  },
-  {
-   "key": "p:one unforgettable night",
-   "id": "p-one-unforgettable-night-2cc6d",
-   "name": "One Unforgettable Night",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Trajes típicos"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T03:26:06.119250+00:00",
-   "start": "2026-11-24T00:30:23+00:00",
-   "last_activity": "2026-11-24T20:40:54+00:00",
-   "item_ids": [
-    "5c41de094d619f",
-    "188ce7669254b4",
-    "afad0375f8e830",
-    "2f385cbbe5ac78",
-    "7ea58ddad63810",
-    "95d195dbe5680c",
-    "3b6e207e8e6d55",
-    "fc312ea5b99564",
-    "c05d52b376a2d1",
-    "9fcac4f93a8849",
-    "90748c0f6d8875",
-    "a75025abdf2c51"
-   ],
-   "sources": [
-    "Bombay Times",
-    "Correo del Caroní",
-    "Diario Primicia",
-    "Ecuavisa",
-    "Interaksyon",
-    "La Nacion",
-    "N Digital",
-    "Prensa Libre",
-    "Radio Agricultura",
-    "TV Más",
-    "YouTube · Miss Universe",
-    "tvmas.tv"
-   ],
-   "n_items": 12,
-   "n_sources": 12,
-   "videos": [
-    {
-     "vid": "UDILgaOsKGQ",
-     "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
-     "channel": "Miss Universe",
-     "views": 511705,
-     "likes": 0,
-     "published": "2026-11-24T00:30:23+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 511705,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/UDILgaOsKGQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-miss-cuba-desfilo-en-miss-universo-2026-SBQERU4PD5D7DFKLBDT2RWWQVA.jpg?auth=47216177b0bcdb4313b060e57a561d65dbd29fc6f489ff46f2f23cd724addcae&width=420&height=526&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/berta-soler-de-las-damas-de-blanco-prepara-su-S4UJCWTHC5BAHFIQFDYYIKNUOA.jpg?auth=e7ad2da58c0029015e50581cf863090c49113ca1cc286c1206637ad15efade27&width=420&height=241&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.QtZ_xwoqVyJ4p7-fz-T84A&pid=News",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "Bing (miniatura)",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://media.tvmas.tv/2026/11/APOYO-NOTAS-4-8-1024x576.jpg",
-     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
-     "via": "tvmas.tv",
-     "credit": "tvmas.tv"
-    },
-    {
-     "url": "https://media.tvmas.tv/2026/11/Hija-de-Claudia-Conserva-parecido-a-Pollo-Valdivia-468x263.jpg",
-     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
-     "via": "tvmas.tv",
-     "credit": "tvmas.tv"
-    },
-    {
-     "url": "https://media.tvmas.tv/2026/11/Sergio-Lagos-y-Nicole-468x263.jpg",
-     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
-     "via": "tvmas.tv",
-     "credit": "tvmas.tv"
-    },
-    {
-     "url": "https://media.tvmas.tv/2026/10/APOYO-NOTAS-33-468x263.png",
-     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
-     "via": "tvmas.tv",
-     "credit": "tvmas.tv"
-    },
-    {
-     "url": "https://media.tvmas.tv{{imagen_post}}",
-     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
-     "via": "tvmas.tv",
-     "credit": "tvmas.tv"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nAppalachian State University"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DgBf5mfvezp",
-    "https://www.instagram.com/reel/DgF_BPzByah"
-   ],
-   "image_query": "Miss Universe 2026 One Unforgettable Night",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nAppalachian State University"
-    }
-   ],
-   "extra_at": "2026-11-24T21:50:42.225084+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T22:54:41.488128+00:00",
-     "url": "https://www.instagram.com/p/DgBf5mfvezp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
-     "url": "https://www.instagram.com/reel/DgF_BPzByah",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 64
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -2722,7 +2725,7 @@
      "vid": "bOQPhh12lBo",
      "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
      "channel": "Hi Along",
-     "views": 24897,
+     "views": 24907,
      "ago": "hace 9 días",
      "official": false
     },
@@ -2730,7 +2733,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 6721,
+     "views": 6705,
      "ago": "hace 6 días",
      "official": false
     },
@@ -2738,12 +2741,12 @@
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3911,
+     "views": 3915,
      "ago": "hace 9 días",
      "official": false
     }
    ],
-   "views_total": 35529,
+   "views_total": 35527,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -3240,26 +3243,24 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T09:58:23.913522+00:00",
-   "start": "2026-11-23T19:16:00+00:00",
+   "start": "2026-11-23T19:24:00+00:00",
    "last_activity": "2026-11-24T07:13:00+00:00",
    "item_ids": [
     "218d06ff6938ef",
     "ba80ff6fd15844",
     "f98c5fd89c407f",
     "9dcd69a2e71b57",
-    "57766b7b733abc",
-    "60d3ac2f487df9"
+    "57766b7b733abc"
    ],
    "sources": [
     "Bombay Times",
     "Filmfare",
     "News9Live",
     "NewsX",
-    "The Indian Express",
-    "varietyindia.com"
+    "The Indian Express"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3276,12 +3277,6 @@
      "credit": "Filmfare"
     },
     {
-     "url": "https://variety.blr1.cdn.digitaloceanspaces.com/2026/11/Vir-Das-Fool-Volume-Real-Kashmir-Football-Club.png",
-     "page": "https://varietyindia.com/international-emmy-awards-2026-vir-das-real-kashmir-football-club-miss-out-full-winners-list/",
-     "via": "varietyindia.com",
-     "credit": "varietyindia.com"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania,_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf",
      "via": "Wikimedia Commons",
@@ -3289,9 +3284,7 @@
      "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
     }
    ],
-   "social_urls": [
-    "https://www.youtube.com/watch?v=PZA29QQSRwI"
-   ],
+   "social_urls": [],
    "image_query": "Miss International 2026 International Emmy Awards",
    "extra_images": [
     {
@@ -3303,22 +3296,14 @@
     }
    ],
    "extra_at": "2026-11-24T22:14:41.594027+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T22:46:41.758442+00:00",
-     "url": "https://www.youtube.com/watch?v=PZA29QQSRwI",
-     "platform": "YouTube",
-     "views": 687,
-     "thumb": "https://i.ytimg.com/vi/PZA29QQSRwI/hqdefault.jpg"
-    }
-   ],
+   "social": [],
    "social_totals": {
-    "views": 687,
+    "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 18
+   "score": 15
   },
   {
    "key": "t:mi:Traje de baño:2026-11-24",
@@ -3799,13 +3784,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 18686,
-     "likes": 374,
+     "views": 20861,
+     "likes": 406,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 18686,
+   "views_total": 20861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -3847,7 +3832,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 51
+   "score": 52
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -3952,13 +3937,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 18686,
-     "likes": 374,
+     "views": 20861,
+     "likes": 406,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 18686,
+   "views_total": 20861,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4008,7 +3993,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 24
+   "score": 25
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4019,7 +4004,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4100,10 +4085,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "d6ad0b8dd1afb7",
     "188ce7669254b4",
     "2f385cbbe5ac78",
     "7ea58ddad63810",
@@ -4124,6 +4110,7 @@
     "Bombay Times",
     "Business Insider",
     "Correo del Caroní",
+    "Diario Las Américas",
     "Diario Primicia",
     "MDZ Online",
     "Radio Agricultura",
@@ -4132,8 +4119,8 @@
     "YouTube · Telemundo Entretenimiento",
     "tvmas.tv"
    ],
-   "n_items": 13,
-   "n_sources": 12,
+   "n_items": 14,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4347,7 +4334,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 40
+   "score": 43
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4358,7 +4345,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4533,7 +4520,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4546,7 +4533,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T23:10:41.606262+00:00",
+   "extra_at": "2026-11-24T23:18:41.453506+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4566,7 +4553,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4797,7 +4784,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:10:41.606262+00:00",
+   "first_seen": "2026-11-24T23:18:41.453506+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
