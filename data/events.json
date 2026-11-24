@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T15:10:33.898767+00:00",
- "count": 29,
+ "updated": "2026-11-24T15:18:34.160616+00:00",
+ "count": 30,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "c2fe224b1b75c8",
+    "b1fb14b7115c2d",
+    "163b76447d3cee",
     "3073edea2f735c",
     "4f206d3fcf54d1",
     "91bb17dfaf8bdb",
@@ -230,6 +233,7 @@
     "5acb0326fe4762",
     "9fcac4f93a8849",
     "be272b9c3c63be",
+    "b47d0260088cd8",
     "fb28053a1adbf2",
     "365a1cab7edabc",
     "b4eecabebfc37e",
@@ -247,6 +251,7 @@
     "Cooperativa",
     "Cooperativa.cl",
     "Debate on MSN",
+    "Depor",
     "Detroit Free Press",
     "Diario El Mundo",
     "Eje Central",
@@ -268,6 +273,8 @@
     "Infobae",
     "Inquirer.net",
     "La Hora",
+    "La Nación",
+    "Lmneuquen.com",
     "MARCA",
     "MILENIO",
     "Meganoticias",
@@ -286,6 +293,7 @@
     "TodoJujuy.com",
     "USA TODAY",
     "USA Today",
+    "https://www.elmonitoredomex.com/",
     "www.elmagallanews.cl",
     "www.elnortero.cl",
     "www.elrancahuaso.cl",
@@ -293,8 +301,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 83,
-   "n_sources": 54,
+   "n_items": 87,
+   "n_sources": 58,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -310,7 +318,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 194
+   "score": 206
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -618,20 +626,28 @@
      "vid": "bOQPhh12lBo",
      "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
      "channel": "Hi Along",
-     "views": 24728,
+     "views": 24722,
      "ago": "hace 9 días",
+     "official": false
+    },
+    {
+     "vid": "eNW-a9sHZso",
+     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
+     "channel": "Hi Along",
+     "views": 6549,
+     "ago": "hace 6 días",
      "official": false
     },
     {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3836,
+     "views": 3823,
      "ago": "hace 8 días",
      "official": false
     }
    ],
-   "views_total": 28564,
+   "views_total": 35094,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -644,6 +660,13 @@
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
     },
@@ -1171,26 +1194,9 @@
    ],
    "n_items": 56,
    "n_sources": 39,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 0,
-     "likes": 11,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
+   "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "https://depor.com/resizer/v2/326X7SB6R5E27BXDAGUPIFN6KU.jpg?auth=207ec1831e41c2d240aa46137a330fb46602fad223ec17bf0b97b65e57966c62&width=980&height=528&quality=75&smart=true",
      "page": "https://depor.com/en/us-live/how-to-vote-for-garance-authie-at-miss-universe-2026-heres-how-to-support-miss-france-nnda-nnrt-noticia/",
@@ -1334,6 +1340,13 @@
      "page": "https://www.diarioeldia.cl/noticias/2026/11/23/157704-dominga-lopez-busca-la-corona-cuando-y-donde-ver-la-final-de-miss-universo-2026",
      "via": "Diario El Día",
      "credit": "Diario El Día"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
@@ -1548,7 +1561,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21982,
+     "views": 22265,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1557,13 +1570,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 15363,
+     "views": 15620,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 37345,
+   "views_total": 37885,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -1911,13 +1924,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 336449,
+     "views": 340092,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 336449,
+   "views_total": 340092,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1959,7 +1972,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 40
+   "score": 41
   },
   {
    "key": "p:international emmy awards",
@@ -2036,15 +2049,15 @@
    "extra_at": "2026-11-24T13:02:23.821318+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T14:14:23.725729+00:00",
+     "fetched": "2026-11-24T15:18:34.160616+00:00",
      "url": "https://www.youtube.com/watch?v=PZA29QQSRwI",
      "platform": "YouTube",
-     "views": 668,
+     "views": 672,
      "thumb": "https://i.ytimg.com/vi/PZA29QQSRwI/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 668,
+    "views": 672,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -2560,7 +2573,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T12:30:23.826343+00:00",
-   "start": "2026-11-23T06:13:00+00:00",
+   "start": "2026-11-23T06:18:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "d1d6d051c0daab",
@@ -2590,8 +2603,7 @@
     "3c4642dfb440a3",
     "2ec5200c58bd41",
     "a2cc8cd6ed3baf",
-    "4114f84eeef3ee",
-    "bdaa49bfa624f5"
+    "4114f84eeef3ee"
    ],
    "sources": [
     "Ambito",
@@ -2608,15 +2620,14 @@
     "Milenio on MSN",
     "Noticia al Dia",
     "Panamá América",
-    "Primicias",
     "Publimetro",
     "Vistazo",
     "eju.tv",
     "minuto60",
     "unitel"
    ],
-   "n_items": 29,
-   "n_sources": 20,
+   "n_items": 28,
+   "n_sources": 19,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2870,7 +2881,6 @@
     "https://www.instagram.com/p/DgECLicjQOA",
     "https://www.instagram.com/p/DgEDDh5hhAv",
     "https://www.instagram.com/p/DgEJTChMTrl",
-    "https://www.instagram.com/p/DgEJmU_hd3d",
     "https://www.instagram.com/p/DgELcfUmVzt",
     "https://www.instagram.com/p/DgELpxHje4O",
     "https://www.instagram.com/p/DgELtRyhp7_",
@@ -3030,11 +3040,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
-     "url": "https://www.instagram.com/p/DgEJmU_hd3d",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T14:54:23.516389+00:00",
      "url": "https://www.instagram.com/p/DgELcfUmVzt",
      "platform": "Instagram"
@@ -3114,7 +3119,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 69
+   "score": 66
   },
   {
    "key": "t:mi:Trajes típicos:2026-11-21",
@@ -3350,7 +3355,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T06:10:31+00:00",
+   "start": "2026-11-23T06:18:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3418,7 +3423,6 @@
     "3eaef9012b303c",
     "98293860e468f1",
     "4114f84eeef3ee",
-    "17e8d2e79e2e0a",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -3474,19 +3478,9 @@
     "Meganoticias",
     "Metro.Style"
    ],
-   "n_items": 78,
+   "n_items": 77,
    "n_sources": 58,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 0,
-     "likes": 11,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
+   "videos": [],
    "views_total": 0,
    "images": [
     {
@@ -3494,7 +3488,7 @@
      "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.JZNpjCH2UXTCEvj9mgEdIA&pid=News",
@@ -3870,7 +3864,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T14:14:23.725729+00:00",
+     "fetched": "2026-11-24T15:18:34.160616+00:00",
      "url": "https://www.instagram.com/p/DgD7wDOJTVm",
      "platform": "Instagram"
     },
@@ -3910,7 +3904,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T14:14:23.725729+00:00",
+     "fetched": "2026-11-24T15:18:34.160616+00:00",
      "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
      "platform": "Instagram"
     },
@@ -3985,7 +3979,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 197
+   "score": 196
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4070,31 +4064,21 @@
    ],
    "n_items": 36,
    "n_sources": 27,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 0,
-     "likes": 11,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
+   "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT.fAuEk3KCEngttxFrhWERrg&pid=News",
      "page": "https://www.bombaytimes.com/lifestyle/style/india-s-kaziah-liz-mejo-at-miss-universe-2026-from-national-costume-to-swimsuit-and-evening-gown-see-all-her-looks-view-photos-and-videos/21373",
      "via": "Bing (miniatura)",
      "credit": "Bombay Times"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://f.rpp-noticias.io/2026/11/23/094809_1932356.jpg?width=1200&quality=85",
@@ -4409,13 +4393,12 @@
    "contest": "mi",
    "kind": "detectado",
    "labels": [
-    "Preliminar",
-    "Traje de baño"
+    "Preliminar"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T08:37:35.181492+00:00",
-   "start": "2026-11-23T06:12:43+00:00",
+   "start": "2026-11-23T06:34:03+00:00",
    "last_activity": "2026-11-23T19:07:41+00:00",
    "item_ids": [
     "79a88b0b3e228d",
@@ -4430,9 +4413,6 @@
     "6924ef6978c26c",
     "e398cf429e8b0d",
     "547efecefa0c2b",
-    "e4a0be13704476",
-    "18027defd9be68",
-    "ec9a64d042d06c",
     "07baf1de3bb3bc",
     "45c46996930f7e",
     "d67e412d2c0d1c"
@@ -4448,7 +4428,7 @@
     "Rádio Itatiaia",
     "tuoitre.vn"
    ],
-   "n_items": 18,
+   "n_items": 15,
    "n_sources": 9,
    "videos": [],
    "views_total": 0,
@@ -4592,7 +4572,7 @@
      "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
     }
    ],
-   "extra_at": "2026-11-24T12:14:23.263192+00:00",
+   "extra_at": "2026-11-24T15:18:34.160616+00:00",
    "social": [
     {
      "fetched": "2026-11-24T14:46:23.731016+00:00",
@@ -4606,7 +4586,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 36
+   "score": 33
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -4628,19 +4608,17 @@
     "d2eb1e4052e09a",
     "337a17eb94fa50",
     "a2cc8cd6ed3baf",
-    "4114f84eeef3ee",
-    "bdaa49bfa624f5"
+    "4114f84eeef3ee"
    ],
    "sources": [
     "El Comercio Perú",
     "El Informador",
     "HOLA.com",
     "Howl.Link",
-    "Infobae",
-    "Primicias"
+    "Infobae"
    ],
-   "n_items": 7,
-   "n_sources": 6,
+   "n_items": 6,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4733,21 +4711,212 @@
      "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
      "via": "El Informador",
      "credit": "El Informador"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/V25IGBXRWJNO5JSSRMTA7HIQSI.jpg?auth=78585eff609e4ac30d8dcf7222a7c46a006fc058c2bd09c12d1d024e8b2837c1&height=628&width=1200&quality=80&smart=true",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/V25IGBXRWJNO5JSSRMTA7HIQSI/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.QZs5D0Odc0NqIqPDECAR9QHaD4&pid=15.1"
+    },
+    {
+     "url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/26/USAT/71326056007-afp-afp-33-z-84-hj.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+     "page": "https://www.usatoday.com/picture-gallery/news/nation/2023/10/26/see-the-damage-hurricane-otis-left-behind-in-acapulco/71326369007/",
+     "via": "Bing Imágenes",
+     "credit": "usatoday.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.mkuM3nb8gAp2zdA6LntVWwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PVJFGFBK3JK3RDS63XZKJA4UVQ.jpg",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/XBIGEAIGUJI6RHIUSO32KVUWBQ/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.OZXbiWLrVCC1F8bG_y9fHAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.npr.org/assets/img/2023/10/27/whatsapp-image-2023-10-26-at-2.53.25-pm_slide-0c76147c1a09013ddfe711dc4dd0282354656245-s1200.jpeg",
+     "page": "https://www.npr.org/2023/10/27/1208982615/acapulco-mexico-hurricane-otis",
+     "via": "Bing Imágenes",
+     "credit": "npr.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lIAwsKODq7M367SAjCanhAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/TRCNFO3SHZNMFD4DPX4VXZZRVA.jpg?auth=3bef412ba4358c00c88df9ab3d1504f94028f099c14d53e53d5a4987dd99ce4e&height=628&width=1200&quality=80&smart=true",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/TRCNFO3SHZNMFD4DPX4VXZZRVA/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.T-Q_L3oPeEPezM5q63MR6gHaD4&pid=15.1"
+    },
+    {
+     "url": "https://content.assets.pressassociation.io/AP/2023/10/25/f6776ee4c6134711bb322c5810142246.jpg?w=640",
+     "page": "https://www.heraldscotland.com/news/national/23880118.hurricane-otis-unleashes-massive-flooding-acapulco-mexico/",
+     "via": "Bing Imágenes",
+     "credit": "heraldscotland.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.WwqCvaGoTzKioo7H0J6hngHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/OQMFVVXUGJJODOEMU5KGBB7BCA.jpg?auth=a86d4ea640e21f7d7d1321c51d7fe1120e43e6fcb4363f1cd61f160101d94fc8&width=1920&quality=80",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ET7B8ZQjgD9dzbSrjpz3dgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LUGFBXZTMVOQ5KW22EYYLPWJI4.jpg",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/XBIGEAIGUJI6RHIUSO32KVUWBQ/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.83HTQOugc0feuHCPcBz9ZAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/765d70b89af3e38e80631de36157f73a/adjuntos/216/imagenes/100/092/0100092601/855x0/smart/acapulco-ap-mexicojpg.jpg",
+     "page": "https://www.diariolasamericas.com/america-latina/mexico-anuncia-ayuda-17000-millones-dolares-acapulco-otis-n5345936",
+     "via": "Bing Imágenes",
+     "credit": "diariolasamericas.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vRt6Cy14c8kTDHFmMKxvFgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.asiaone.com/sites/default/files/inline-images/hurricane otis_reuters.png",
+     "page": "https://www.asiaone.com/world/mexicos-acapulco-ravaged-looting-after-hurricane-otis",
+     "via": "Bing Imágenes",
+     "credit": "asiaone.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.BULNJZvwavqvluPjbPWPJAHaFP&pid=15.1"
+    },
+    {
+     "url": "https://s.abcnews.com/images/International/otis-damage_hpMain_20231025-130912.jpg",
+     "page": "https://abcnews.com/International/catastrophic-damage-hurricane-otis-makes-landfall-mexico-category/story?id=104272253",
+     "via": "Bing Imágenes",
+     "credit": "abcnews.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y4Ww6DkEQmNvddZd3lYf6wHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cdn.forbes.com.mx/2023/10/otis-huracan-guerrero-1.webp",
+     "page": "https://forbes.com.mx/hay-11-colombianos-en-acapulco-afectados-por-el-huracan-otis/",
+     "via": "Bing Imágenes",
+     "credit": "forbes.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DoziQl-VZyuhPXSr5VDWvgHaE7&pid=15.1"
+    },
+    {
+     "url": "http://zonacero.com/sites/default/files/styles/1280_x_530_noticia_interna/public/2023-10/Acapulco_0.jpg?h=e955cbbd&itok=85IwdjkI",
+     "page": "https://zonacero.com/mundo/mexico-eleva-39-el-numero-de-muertos-por-el-huracan-otis-en-acapulco",
+     "via": "Bing Imágenes",
+     "credit": "zonacero.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.UIK6sbDgwz6DOyPz2_3GKQHaDR&pid=15.1"
+    },
+    {
+     "url": "https://img.theweek.in/content/dam/week/news/world/images/2023/10/26/Hurricane-otis-mexico-city-reuters.jpg",
+     "page": "https://www.theweek.in/news/world/2023/10/26/mexico-at-least-27-dead-as-hurricane-otis-smashes-acapulco.html",
+     "via": "Bing Imágenes",
+     "credit": "theweek.in",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.nacJPvi9XesHdAcT3WqcogHaEU&pid=15.1"
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DgEJmU_hd3d",
     "https://www.instagram.com/reel/DgEcIzbuFCk"
    ],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [],
-   "extra_at": "2026-11-24T15:10:33.898767+00:00",
-   "social": [
+   "extra_images": [
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
-     "url": "https://www.instagram.com/p/DgEJmU_hd3d",
-     "platform": "Instagram"
+     "url": "https://www.reuters.com/resizer/v2/V25IGBXRWJNO5JSSRMTA7HIQSI.jpg?auth=78585eff609e4ac30d8dcf7222a7c46a006fc058c2bd09c12d1d024e8b2837c1&height=628&width=1200&quality=80&smart=true",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/V25IGBXRWJNO5JSSRMTA7HIQSI/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.QZs5D0Odc0NqIqPDECAR9QHaD4&pid=15.1"
     },
+    {
+     "url": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/10/26/USAT/71326056007-afp-afp-33-z-84-hj.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp",
+     "page": "https://www.usatoday.com/picture-gallery/news/nation/2023/10/26/see-the-damage-hurricane-otis-left-behind-in-acapulco/71326369007/",
+     "via": "Bing Imágenes",
+     "credit": "usatoday.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.mkuM3nb8gAp2zdA6LntVWwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/PVJFGFBK3JK3RDS63XZKJA4UVQ.jpg",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/XBIGEAIGUJI6RHIUSO32KVUWBQ/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.OZXbiWLrVCC1F8bG_y9fHAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://media.npr.org/assets/img/2023/10/27/whatsapp-image-2023-10-26-at-2.53.25-pm_slide-0c76147c1a09013ddfe711dc4dd0282354656245-s1200.jpeg",
+     "page": "https://www.npr.org/2023/10/27/1208982615/acapulco-mexico-hurricane-otis",
+     "via": "Bing Imágenes",
+     "credit": "npr.org",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.lIAwsKODq7M367SAjCanhAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/TRCNFO3SHZNMFD4DPX4VXZZRVA.jpg?auth=3bef412ba4358c00c88df9ab3d1504f94028f099c14d53e53d5a4987dd99ce4e&height=628&width=1200&quality=80&smart=true",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/TRCNFO3SHZNMFD4DPX4VXZZRVA/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.T-Q_L3oPeEPezM5q63MR6gHaD4&pid=15.1"
+    },
+    {
+     "url": "https://content.assets.pressassociation.io/AP/2023/10/25/f6776ee4c6134711bb322c5810142246.jpg?w=640",
+     "page": "https://www.heraldscotland.com/news/national/23880118.hurricane-otis-unleashes-massive-flooding-acapulco-mexico/",
+     "via": "Bing Imágenes",
+     "credit": "heraldscotland.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.WwqCvaGoTzKioo7H0J6hngHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/OQMFVVXUGJJODOEMU5KGBB7BCA.jpg?auth=a86d4ea640e21f7d7d1321c51d7fe1120e43e6fcb4363f1cd61f160101d94fc8&width=1920&quality=80",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ET7B8ZQjgD9dzbSrjpz3dgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/LUGFBXZTMVOQ5KW22EYYLPWJI4.jpg",
+     "page": "https://www.reuters.com/pictures/acapulco-still-reeling-after-hurricane-otis-2023-11-10/XBIGEAIGUJI6RHIUSO32KVUWBQ/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.83HTQOugc0feuHCPcBz9ZAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/765d70b89af3e38e80631de36157f73a/adjuntos/216/imagenes/100/092/0100092601/855x0/smart/acapulco-ap-mexicojpg.jpg",
+     "page": "https://www.diariolasamericas.com/america-latina/mexico-anuncia-ayuda-17000-millones-dolares-acapulco-otis-n5345936",
+     "via": "Bing Imágenes",
+     "credit": "diariolasamericas.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vRt6Cy14c8kTDHFmMKxvFgHaE8&pid=15.1"
+    },
+    {
+     "url": "https://www.asiaone.com/sites/default/files/inline-images/hurricane otis_reuters.png",
+     "page": "https://www.asiaone.com/world/mexicos-acapulco-ravaged-looting-after-hurricane-otis",
+     "via": "Bing Imágenes",
+     "credit": "asiaone.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.BULNJZvwavqvluPjbPWPJAHaFP&pid=15.1"
+    },
+    {
+     "url": "https://s.abcnews.com/images/International/otis-damage_hpMain_20231025-130912.jpg",
+     "page": "https://abcnews.com/International/catastrophic-damage-hurricane-otis-makes-landfall-mexico-category/story?id=104272253",
+     "via": "Bing Imágenes",
+     "credit": "abcnews.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Y4Ww6DkEQmNvddZd3lYf6wHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cdn.forbes.com.mx/2023/10/otis-huracan-guerrero-1.webp",
+     "page": "https://forbes.com.mx/hay-11-colombianos-en-acapulco-afectados-por-el-huracan-otis/",
+     "via": "Bing Imágenes",
+     "credit": "forbes.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DoziQl-VZyuhPXSr5VDWvgHaE7&pid=15.1"
+    },
+    {
+     "url": "http://zonacero.com/sites/default/files/styles/1280_x_530_noticia_interna/public/2023-10/Acapulco_0.jpg?h=e955cbbd&itok=85IwdjkI",
+     "page": "https://zonacero.com/mundo/mexico-eleva-39-el-numero-de-muertos-por-el-huracan-otis-en-acapulco",
+     "via": "Bing Imágenes",
+     "credit": "zonacero.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.UIK6sbDgwz6DOyPz2_3GKQHaDR&pid=15.1"
+    },
+    {
+     "url": "https://img.theweek.in/content/dam/week/news/world/images/2023/10/26/Hurricane-otis-mexico-city-reuters.jpg",
+     "page": "https://www.theweek.in/news/world/2023/10/26/mexico-at-least-27-dead-as-hurricane-otis-smashes-acapulco.html",
+     "via": "Bing Imágenes",
+     "credit": "theweek.in",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.nacJPvi9XesHdAcT3WqcogHaEU&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T15:18:34.160616+00:00",
+   "social": [
     {
      "fetched": "2026-11-24T14:38:23.998003+00:00",
      "url": "https://www.instagram.com/reel/DgEcIzbuFCk",
@@ -4760,7 +4929,127 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 22
+   "score": 19
+  },
+  {
+   "key": "t:mi:Traje de baño:2026-11-21",
+   "id": "t-mi-traje-de-bano-2026-11-21-6101b",
+   "name": "Traje de baño · 21–23 nov",
+   "contest": "mi",
+   "kind": "detectado",
+   "labels": [
+    "Traje de baño"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
+   "start": "2026-11-23T06:34:03+00:00",
+   "last_activity": "2026-11-23T15:15:45+00:00",
+   "item_ids": [
+    "07baf1de3bb3bc",
+    "45c46996930f7e",
+    "d67e412d2c0d1c",
+    "2e5dde2e364052",
+    "547efecefa0c2b"
+   ],
+   "sources": [
+    "Facebook",
+    "Instagram",
+    "PhilNews",
+    "Philstar Life",
+    "tuoitre.vn"
+   ],
+   "n_items": 5,
+   "n_sources": 5,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://cdn2.tuoitre.vn/zoom/1200_630/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808-86-269-1085-2177-crop-1795479571393294548497.jpg",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "tuoitre.vn",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-1795479199874724595808.jpg",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "tuoitre.vn",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/khanh-nhu-3-1795479199871287372425.jpg",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "tuoitre.vn",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9165789411221400073848130293708048554531018439n-17954794742911259356269.jpg",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "tuoitre.vn",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "https://cdn2.tuoitre.vn/thumb_w/730/471584752817336320/2026/11/24/9169451891221402205528130295555509655118787197n-17954794742951636982360.jpg",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "tuoitre.vn",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.ko-ONeCFFtNbaJxETxsS_Q&pid=News",
+     "page": "https://tuoitre.vn/khanh-nhu-trinh-dien-bikini-ghi-diem-tai-ban-ket-miss-international-2026-10026112407231543.htm",
+     "via": "Bing (miniatura)",
+     "credit": "tuoitre.vn"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/d7/00/6d/d7006d4672e61bf905c5392bc67c3f9f.jpg",
+     "page": "https://ar.pinterest.com/pin/638596422202312134/",
+     "via": "Bing Imágenes",
+     "credit": "ar.pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.zla6vw3YVGjI3N2leBy7vAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/reel/DgEsUDyx-nn"
+   ],
+   "image_query": "Miss International 2026 swimsuit",
+   "extra_images": [
+    {
+     "url": "https://i.pinimg.com/originals/d7/00/6d/d7006d4672e61bf905c5392bc67c3f9f.jpg",
+     "page": "https://ar.pinterest.com/pin/638596422202312134/",
+     "via": "Bing Imágenes",
+     "credit": "ar.pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.zla6vw3YVGjI3N2leBy7vAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    }
+   ],
+   "extra_at": "2026-11-24T15:18:34.160616+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T14:46:23.731016+00:00",
+     "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 15
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -5174,7 +5463,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5240,8 +5529,7 @@
     "512fa8a54e3d22",
     "3eaef9012b303c",
     "98293860e468f1",
-    "4114f84eeef3ee",
-    "17e8d2e79e2e0a"
+    "4114f84eeef3ee"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5293,7 +5581,7 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 64,
+   "n_items": 63,
    "n_sources": 48,
    "videos": [],
    "views_total": 0,
@@ -5326,7 +5614,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 163
+   "score": 162
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5337,7 +5625,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5632,7 +5920,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5681,7 +5969,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5912,7 +6200,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6143,7 +6431,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:10:33.898767+00:00",
+   "first_seen": "2026-11-24T15:18:34.160616+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6156,7 +6444,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-24T15:10:33.898767+00:00",
+   "extra_at": "2026-11-24T15:18:34.160616+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
