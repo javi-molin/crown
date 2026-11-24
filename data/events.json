@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T02:30:05.503392+00:00",
+ "updated": "2026-11-24T02:38:05.523759+00:00",
  "count": 27,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,7 +143,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -489,8 +489,7 @@
     "5c41de094d619f",
     "b4ca7f00009885",
     "68d979caf887c0",
-    "76754e4d0d6b0b",
-    "162cb71c11506e"
+    "76754e4d0d6b0b"
    ],
    "sources": [
     "2001online",
@@ -534,14 +533,14 @@
     "Parade on MSN",
     "Publimetro"
    ],
-   "n_items": 79,
-   "n_sources": 54,
+   "n_items": 78,
+   "n_sources": 53,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 80791,
+     "views": 80942,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -550,7 +549,7 @@
      "vid": "UDILgaOsKGQ",
      "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 5931,
+     "views": 6786,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
@@ -560,12 +559,12 @@
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 0,
-     "likes": 8,
+     "likes": 9,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 86722,
+   "views_total": 87728,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -821,7 +820,6 @@
     "https://www.instagram.com/reel/DgEAJykzVMe",
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
-    "https://www.youtube.com/watch?v=S_RA3e_Cjro",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
    "image_query": "Miss Universe 2026 vote top 30",
@@ -1015,12 +1013,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T02:06:06.185824+00:00",
-     "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
-    },
-    {
      "fetched": "2026-11-24T01:50:05.318582+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
@@ -1033,12 +1025,12 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 194
+   "score": 191
   },
   {
-   "key": "p:traje de gala en la preliminar",
-   "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
-   "name": "Traje De Gala En La Preliminar",
+   "key": "p:body tea",
+   "id": "p-body-tea-a8001",
+   "name": "Body Tea",
    "contest": "mu",
    "kind": "oficial",
    "labels": [
@@ -1048,13 +1040,13 @@
    ],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-22T18:30:00+00:00",
+   "first_seen": "2026-11-23T08:53:35.693911+00:00",
+   "start": "2026-11-22T19:07:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
-    "37ce0ddfcdf2e3",
-    "5599f34d92676c",
-    "a4f0a47b53aa79",
+    "e4152aab5aeb1d",
+    "eb4f0fb1d45ba5",
+    "dc19dad92c7699",
     "f254c2c54acc92",
     "f6f85a4ee2b695",
     "a2fb269272421a",
@@ -1147,6 +1139,7 @@
     "10b96b587aca9b",
     "bf18ddd33141aa",
     "479865ad166d59",
+    "37ce0ddfcdf2e3",
     "48e93213602e8c",
     "17e8d2e79e2e0a",
     "10d9b44a70ca64",
@@ -1155,6 +1148,7 @@
     "b2926894b2753e",
     "4713b1b9ea8c7e",
     "e302aa20fe7d41",
+    "5599f34d92676c",
     "950b77f70ac4d5",
     "753242c73f86e5",
     "6cd329165e23bb",
@@ -1169,9 +1163,7 @@
     "604b2172c5cf6c",
     "65a71d2c138efb",
     "4c99dff5e906e1",
-    "734f45d24cc966",
-    "55180fe04c1413",
-    "0cd5774c0c5641"
+    "734f45d24cc966"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -1179,7 +1171,6 @@
     "24 horas on MSN",
     "24horas",
     "ABS-CBN",
-    "AS México",
     "Agencia de Periodismo Investigativo",
     "Ambito",
     "Artículo 66",
@@ -1213,32 +1204,25 @@
     "El Nuevo Día",
     "El País",
     "El Reporte Diario",
-    "El Universal"
+    "El Universal",
+    "El Universo"
    ],
-   "n_items": 229,
-   "n_sources": 105,
+   "n_items": 225,
+   "n_sources": 104,
    "videos": [
-    {
-     "vid": "oqIDvzfAKBI",
-     "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
-     "channel": "Telemundo Entretenimiento",
-     "views": 655966,
-     "ago": "Transmitido hace 1 día",
-     "official": false
-    },
     {
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 66145,
-     "ago": "hace 23 h",
+     "views": 67003,
+     "ago": "hace 1 día",
      "official": false
     },
     {
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 59786,
+     "views": 59867,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -1247,7 +1231,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 24211,
+     "views": 24390,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1256,20 +1240,13 @@
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 0,
-     "likes": 8,
+     "likes": 9,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 806108,
+   "views_total": 151260,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
@@ -1278,11 +1255,11 @@
      "credit": "Telemundo Entretenimiento"
     },
     {
-     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
+     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "Telemundo Entretenimiento y Telemundo"
     },
     {
      "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
@@ -1507,6 +1484,12 @@
      "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
      "via": "Telemetro",
      "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/aa7edf0100e32ac3ebec6d77fd72191a/adjuntos/311/imagenes/019/164/0019164062/195x110/smart/miss-universe-2025-fatima-bosch.jpg",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
     }
    ],
    "social_urls": [
@@ -1541,108 +1524,31 @@
     "https://www.instagram.com/reel/DgEAfisxCAp",
     "https://www.instagram.com/reel/DgEBhS1MTs-"
    ],
-   "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
+   "image_query": "Miss Universe 2026 Body Tea",
    "extra_images": [
     {
-     "url": "https://carwow-es-wp-2.imgix.net/Peugeot-508_SW-2019-1600-c2-1.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1920",
-     "page": "https://www.carwow.es/blog/peugeot-508-sw-medidas-y-maletero",
-     "via": "Bing Imágenes",
-     "credit": "carwow.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.tytS3_pIQSzJNAVy9cnBYwHaEK&pid=15.1"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_%28IA_1967censusofmanu11unse%29.pdf/page1-1280px-1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_%28IA_1967censusofmanu11unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_(IA_1967censusofmanu11unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
     },
     {
-     "url": "https://www.medidasdecoches.com/fotos/interior/peugeot-508-sw-2019-maletero.jpg",
-     "page": "https://peugeot508review.blogspot.com/2019/08/peugeot-508-sw-dimensiones.html",
-     "via": "Bing Imágenes",
-     "credit": "peugeot508review.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.eDsXMlRMRTx692_cjVOqBQHaEK&pid=15.1"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Creator:Blanche Watson"
     },
     {
-     "url": "https://a.ccdn.es/cnet/contents/media/peugeot/508/1229616.jpg/900x505cut/",
-     "page": "https://www.coches.net/noticias/nuevo-peugeot-508-sw-presentacion",
-     "via": "Bing Imágenes",
-     "credit": "coches.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.m_zYxr84T5SVW6rV9whoAgHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20110921_0039/full.jpg",
-     "page": "https://www.km77.com/coches/peugeot/508/2011/sw/imagenes/interiores",
-     "via": "Bing Imágenes",
-     "credit": "km77.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.NFSifODTfdX7EpHpVvCN6wHaE8&pid=15.1"
-    },
-    {
-     "url": "https://cdn.mos.cms.futurecdn.net/jVXQRTaDK5WuE3xr8fYwjL-415-80.jpg",
-     "page": "https://www.wallpaper.com/transportation/the-peugeot-508-sw-continues-a-traditional-mix-of-elegance-efficiency-and-simplicity",
-     "via": "Bing Imágenes",
-     "credit": "wallpaper.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.MAovh528aA2ERORJwdEfaAAAAA&pid=15.1"
-    },
-    {
-     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/10/15/15711469712374.jpg",
-     "page": "https://www.marca.com/motor/modelos-coches/2019/10/15/5da5c6afe2704efe368b45da.html",
-     "via": "Bing Imágenes",
-     "credit": "marca.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.hQH8ofXEIJdMxUX1ZuI36gHaEs&pid=15.1"
-    },
-    {
-     "url": "https://cms-assets.autoscout24.com/uaddx06iwzdz/66PXu2VomecgJ5E1nr8A4V/79a01135651966fdb1f56c7d74476d63/Peugeot-508_SW-2019-1280-c5__1_.jpg?w=1100",
-     "page": "https://www.autoscout24.es/informacion/prueba/peugeot/508/primera-prueba-peugeot-508-hybrid-sw-phev-2020/",
-     "via": "Bing Imágenes",
-     "credit": "autoscout24.es",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.PuRC0ovyF9dRhRxp8Dr1lwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://a.ccdn.es/cnet/contents/media/peugeot/508_hybrid/1262288.jpg/900x505cut/",
-     "page": "https://www.coches.net/videos/peugeot-508-sw-hybrid-gt-line",
-     "via": "Bing Imágenes",
-     "credit": "coches.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.cGi-ifwMUx8MskBbB07BCwHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://s1.abcstatics.com/media/motor/2020/02/17/Peugeot-508_SW-2019-1600-c7-knD--540x285@abc.jpg",
-     "page": "https://www.abc.es/motor/pruebas/abci-peugeot-508-224cv-prueba-familiar-mas-ruge-marca-leon-202002180013_noticia.html",
-     "via": "Bing Imágenes",
-     "credit": "abc.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.e_bOO_v1fZaMymJMkOuWUAHaD7&pid=15.1"
-    },
-    {
-     "url": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20191022_0070/full.jpg",
-     "page": "https://www.km77.com/coches/peugeot/508/2019/sw/imagenes/interiores",
-     "via": "Bing Imágenes",
-     "credit": "km77.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.YzrxICPl9RezOmKJ8H26MAHaE8&pid=15.1"
-    },
-    {
-     "url": "https://hips.hearstapps.com/hmg-prod/images/maletero-508-pse-1631185426.jpg?resize=980:*",
-     "page": "https://www.caranddriver.com/es/pruebas-coches/a37525116/peugeot-508-pse-vs-vw-arteon-r-prueba/",
-     "via": "Bing Imágenes",
-     "credit": "caranddriver.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.6HJQ4XJdFa7djU-dz-XziAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.diariomotor.com/imagenes/2020/11/prueba-contacto-peugeot-508sw-hybrid-noresizing-mdm-21-scaled.jpg?class=XL",
-     "page": "https://www.diariomotor.com/noticia/prueba-contacto-peugeot-508-sw-hybrid-225/",
-     "via": "Bing Imágenes",
-     "credit": "diariomotor.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.o6XflTtae47Wag9gg0OIxgHaE7&pid=15.1"
-    },
-    {
-     "url": "https://images.coches.com/_news_/2014/09/Peugeot-508-SW-2014-MALETERO-1-700x525.jpg",
-     "page": "https://noticias.coches.com/peugeot-508-sw-2014",
-     "via": "Bing Imágenes",
-     "credit": "noticias.coches.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Tj7EFeDmJldWBv4LLDcBeQHaFj&pid=15.1"
-    },
-    {
-     "url": "https://carwow-es-wp-0.imgix.net/Peugeot-408-Maletero-1.jpg",
-     "page": "https://www.carwow.es/blog/comparativa-peugeot-408-vs-peugeot-508",
-     "via": "Bing Imágenes",
-     "credit": "carwow.es",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y9Qk0Zbznmr8NP3fG24PuAHaEK&pid=15.1"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-24T01:18:05.325353+00:00",
+   "extra_at": "2026-11-24T00:14:05.486306+00:00",
    "social": [
     {
      "fetched": "2026-11-24T02:06:06.185824+00:00",
@@ -1740,7 +1646,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T01:34:06.069881+00:00",
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
      "url": "https://www.instagram.com/p/DgENzI1DKX2",
      "platform": "Instagram"
     },
@@ -1775,7 +1681,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T01:34:06.069881+00:00",
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
      "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
      "platform": "Instagram"
     },
@@ -1801,7 +1707,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 482
+   "score": 443
   },
   {
    "key": "p:completa del desfile de traje",
@@ -1815,7 +1721,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-22T18:39:00+00:00",
+   "start": "2026-11-22T19:10:47+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -1823,6 +1729,7 @@
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
+    "a12b365807d0f4",
     "b2d20fb3362bcc",
     "5d415ffd8a1789",
     "158adc3bf0a852",
@@ -1872,8 +1779,7 @@
     "5c41de094d619f",
     "b4ca7f00009885",
     "68d979caf887c0",
-    "76754e4d0d6b0b",
-    "162cb71c11506e"
+    "76754e4d0d6b0b"
    ],
    "sources": [
     "2001online",
@@ -1907,7 +1813,6 @@
     "Outlook Luxe",
     "Parade on MSN",
     "RPP",
-    "RPP Noticias",
     "Radio Agricultura",
     "Telemundo",
     "Telemundo Houston",
@@ -1915,16 +1820,17 @@
     "The Indian Express",
     "UnoTV on MSN",
     "Yahoo",
-    "YouTube · Miss Universe"
+    "YouTube · Miss Universe",
+    "YouTube · Telemundo Entretenimiento"
    ],
    "n_items": 56,
-   "n_sources": 41,
+   "n_sources": 40,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 80791,
+     "views": 80942,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -1933,7 +1839,7 @@
      "vid": "UDILgaOsKGQ",
      "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 5931,
+     "views": 6786,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
@@ -1943,12 +1849,12 @@
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 0,
-     "likes": 8,
+     "likes": 9,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 86722,
+   "views_total": 87728,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2204,7 +2110,6 @@
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
     "https://www.youtube.com/watch?v=GntH78xRlX4",
-    "https://www.youtube.com/watch?v=S_RA3e_Cjro",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
    "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
@@ -2322,12 +2227,6 @@
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T02:06:06.185824+00:00",
-     "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
-    },
-    {
      "fetched": "2026-11-24T01:50:05.318582+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
@@ -2340,7 +2239,746 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 145
+   "score": 143
+  },
+  {
+   "key": "p:traje de gala en la preliminar",
+   "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
+   "name": "Traje De Gala En La Preliminar",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T02:37:26.080370+00:00",
+   "start": "2026-11-23T01:40:00+00:00",
+   "last_activity": "2026-11-23T23:15:07+00:00",
+   "item_ids": [
+    "37ce0ddfcdf2e3",
+    "5599f34d92676c",
+    "f254c2c54acc92",
+    "f6f85a4ee2b695",
+    "a2fb269272421a",
+    "fd1d0c4d4c999e",
+    "af3bd931fff94e",
+    "5825312fd6cc63",
+    "908700188452d3",
+    "5fd8f5152b4b58",
+    "34b9daca5388ec",
+    "af1d75768af530",
+    "158adc3bf0a852",
+    "c396addd6a614f",
+    "cfb50969e326b7",
+    "2cf13dd8052450",
+    "fe2e2de8c6f713",
+    "6b20605c824873",
+    "16bd9bab11c10b",
+    "2724720c48a7f6",
+    "ad5321b491cf7d",
+    "0196740579222e",
+    "891311078f097f",
+    "c65557e774815d",
+    "9cb8e27df3b9f2",
+    "68c43d5cfd36f5",
+    "ad5fa1cffa1303",
+    "d2eb1e4052e09a",
+    "3a7b3d672b46ea",
+    "3b7e7cd3321175",
+    "d7d4f38bec8c37",
+    "6c5fc8bd5c0989",
+    "062866eab54b1c",
+    "5dedef3c59e3fb",
+    "c3b40e1f2158f9",
+    "337a17eb94fa50",
+    "47f72716e79e1d",
+    "2e9d6e1bcc9166",
+    "09b5a883d49f15",
+    "bf65617ec82716",
+    "523498a4640634",
+    "b87d2644263aab",
+    "23fd9d663a56b4",
+    "4c89a4853ebce7",
+    "414536a7da32f5",
+    "bc6a53622db3fa",
+    "cf2731fbfe95c5",
+    "6a2afbd99d5336",
+    "2fdcb820131df3",
+    "b2ef86e9afdce4",
+    "e1d1fed2ae9244",
+    "aa5ae68c14f17b",
+    "519384f1110942",
+    "20db1c7ab00253",
+    "3c4642dfb440a3",
+    "3aa1e1cd952e14",
+    "52189dc701e92c",
+    "e9e01af29320b6",
+    "512fa8a54e3d22",
+    "3eaef9012b303c",
+    "98293860e468f1",
+    "4114f84eeef3ee",
+    "4323f66acec0c8",
+    "1c7b3fe4a98499",
+    "31e95ee4d67b06",
+    "c8d8ff6c15f4d4",
+    "23471bf7e2b521",
+    "b4dd5557ea4983",
+    "a72d88fe0350d8",
+    "1fff5245cd4b43",
+    "77650e0791580d",
+    "37f113e6f11e99",
+    "fb4ea217447104",
+    "c878a195587422",
+    "e51bc8f78e1c8d",
+    "d123fb097f60da",
+    "397300076bdbdc",
+    "23951b33ac0c38",
+    "8b432528f7c5f9",
+    "ed1a50e75b8703",
+    "6359026c6d705e",
+    "940b42ed2d1463",
+    "27e791243c5c31",
+    "01a6c68fdce28f",
+    "a1a706ebcedccb",
+    "f5095293f0f5ba",
+    "d3791537658210",
+    "d9f7ba013c0805",
+    "040bfcba907828",
+    "4b0a4d91aa16f1",
+    "9bb50bc2d1eb3a",
+    "10b96b587aca9b",
+    "bf18ddd33141aa",
+    "479865ad166d59",
+    "48e93213602e8c",
+    "17e8d2e79e2e0a",
+    "10d9b44a70ca64",
+    "aad28376e589e3",
+    "bc8aa73adfab53",
+    "b2926894b2753e",
+    "4713b1b9ea8c7e",
+    "e302aa20fe7d41",
+    "950b77f70ac4d5",
+    "753242c73f86e5",
+    "6cd329165e23bb",
+    "07fb1bfde4bd5c",
+    "bb0bcb12cb7923",
+    "3e891778ca49d2",
+    "952db44f21e7df",
+    "879d1c3bc8c5a6",
+    "d4deae200bfe0c",
+    "ebf6bea0cfc270",
+    "7a84c94acf08c1",
+    "604b2172c5cf6c",
+    "65a71d2c138efb",
+    "4c99dff5e906e1",
+    "734f45d24cc966",
+    "55180fe04c1413",
+    "0cd5774c0c5641"
+   ],
+   "sources": [
+    ".: El Sol de Margarita :.",
+    "2001online",
+    "ABS-CBN",
+    "Artículo 66",
+    "BioBioChile",
+    "Canal Antigua",
+    "Caracol Televisión",
+    "CiberCuba",
+    "Clx Icons",
+    "Diario El País",
+    "Diario Las Américas",
+    "EMOL",
+    "El Colombiano",
+    "El Colombiano on MSN",
+    "El Comercio Perú",
+    "El Diario",
+    "El Diario - Noticias Pereira, Colombia y el Mundo",
+    "El Heraldo",
+    "El Impulso",
+    "El Informador",
+    "El Mostrador",
+    "El Nuevo Día",
+    "El País",
+    "El Universal",
+    "Emol",
+    "En Cancha",
+    "FMDOS",
+    "Facebook",
+    "GMA Network",
+    "HOLA",
+    "HOLA.com",
+    "Howl.Link",
+    "Infobae",
+    "Instagram",
+    "Interaksyon",
+    "LA PRENSA",
+    "La Patria",
+    "La Teja",
+    "La Verdad - La Verdad",
+    "Listín Diario"
+   ],
+   "n_items": 119,
+   "n_sources": 67,
+   "videos": [
+    {
+     "vid": "quLHTBghoEw",
+     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
+     "channel": "Telemundo Entretenimiento y Telemundo",
+     "views": 67003,
+     "ago": "hace 1 día",
+     "official": false
+    },
+    {
+     "vid": "8fBUD_d-bVM",
+     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
+     "channel": "Telemundo Entretenimiento",
+     "views": 0,
+     "likes": 9,
+     "published": "2026-11-23T19:25:03+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 67003,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.JZNpjCH2UXTCEvj9mgEdIA&pid=News",
+     "page": "https://www.msn.com/es-mx/entretenimiento/celebridades/qui%C3%A9n-es-dominga-l%C3%B3pez-miss-chile-se-perfila-como-una-de-las-favoritas-del-miss-universo-2026/ar-AA2i58SE",
+     "via": "Bing (miniatura)",
+     "credit": "Telediario México on MSN"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/23/094809_1932356.jpg?width=1200&quality=85",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/23/431743_1932189.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/04/15/244024_1858198.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/22/304430_1932039.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/23/404840_1932332.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/22/441644_1932033.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/20/004600_1931253.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/23/353535_1932353.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://f.rpp-noticias.io/2026/11/23/340634_1932350.jpg?width=160&quality=60",
+     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-asi-fue-el-desfile-de-luren-marquez-en-traje-de-bano-durante-la-preliminar-noticia-1719390",
+     "via": "RPP",
+     "credit": "RPP"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795476322842/sites/elinformador/img/2026/11/23/corona_miss_universo_version1795476322236.jpg_537406763.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-2026-este-seria-el-jurado-encargado-de-elegir-a-la-nueva-reina-en-puerto-rico-20261123-0120.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795479580414/sites/elinformador/img/2026/11/23/avengers_doomsday_trailer_still_3_version1795479579861.jpg_892008312.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-2026-este-seria-el-jurado-encargado-de-elegir-a-la-nueva-reina-en-puerto-rico-20261123-0120.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795475493280/sites/elinformador/img/2026/11/23/conciertos_pendientes_de_nodal.jpg_1581000519.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-2026-este-seria-el-jurado-encargado-de-elegir-a-la-nueva-reina-en-puerto-rico-20261123-0120.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795467657933/sites/elinformador/img/2026/11/23/chiara_ferragni_2_crop1795467511734.jpg_584182542.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-2026-este-seria-el-jurado-encargado-de-elegir-a-la-nueva-reina-en-puerto-rico-20261123-0120.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795476322842/sites/elinformador/img/2026/11/23/corona_miss_universo_version1795476322236.jpg_658128262.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-2026-este-seria-el-jurado-encargado-de-elegir-a-la-nueva-reina-en-puerto-rico-20261123-0120.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1795475500-asi-fue-pasarela-mia-dio-traje-bano-gala-preliminar-miss-universo-2026.jpg",
+     "page": "https://www.cibercuba.com/noticias/2026-11-24-u208487-e208487-s27065-nid346470-asi-fue-pasarela-mia-dio-traje-bano-gala",
+     "via": "CiberCuba",
+     "credit": "CiberCuba"
+    },
+    {
+     "url": "https://cdn0.celebritax.com/sites/default/files/app-cc-descargar.jpg",
+     "page": "https://www.cibercuba.com/noticias/2026-11-24-u208487-e208487-s27065-nid346470-asi-fue-pasarela-mia-dio-traje-bano-gala",
+     "via": "CiberCuba",
+     "credit": "CiberCuba"
+    },
+    {
+     "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+     "page": "https://2001online.com/farandula/venezuela-conquista-la-preliminar-del-miss-universo-el-traje-tipico-de-clara-vegas-entra-en-el-top-15-de-los-mas-votados-2026112319260",
+     "via": "2001online",
+     "credit": "2001online"
+    },
+    {
+     "url": "https://www.hola.com/horizon/landscape/1200/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/1ae2e4e7c9ae-917866244186577516300279814069487186797446621n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/4139532b6544-919634547186610083400451362641207344370864041n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/66d7d4f325c7-811664960186252689230371736075148044654110613nok.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.hola.com/horizon/original_aspect_ratio/ae58d257ab81-812696868186362913850451362623351266845530507n.jpg",
+     "page": "https://www.hola.com/us-es/celebrities/20261123936742/alessandra-villegas-reaccion-polemica-comentarios-miss-universe-2026-competencia-preliminar/",
+     "via": "HOLA.com",
+     "credit": "HOLA.com"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/I3TPNCTJINDGDGBSO56HWXAQ7Y.JPG?auth=b55516aa600519834383a04fb67311a7ff42d6f0365aca227e6a1aed5b12b1b7&quality=75&width=1200&height=717&focal=2026%2C1269",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/B4DDQY5PANGWLNEBKBKAG3JAA4.JPG?auth=593cf2d9c62518cc6e3b1583b0e6a21a6239c6b67a5adb8072006239fcaaba9b&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/M4DIK7MX7RDERMGMKCPIM5CZOA.JPG?auth=dc69489a6651156193cf4a1a7a302e7106d6ad99b36c9e2315d3195839f25843&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/6BZNTLKWERDHLFTJVUMDNMLHZU.JPG?auth=436eebe45f4946a820714ab887a4b65383da1b9835c9cb03c715e4a1d6f85ec3&quality=75&width=829&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FTjNENgrw1thF2N_Hupijcwkd7mg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FU5QUXWC3F5GQDHO52UEGMBRCLU.png?auth=612970aebccaddfde29323853948a775c18b93fdc017e3b6b756c10ce3d9e1f6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F4mXbLTlJv-irAMWRpUrH2ej66lg%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FBG2GHDTR7FGE5IKBCZF7E76QIY.png?auth=66b804e6bebd0db39b15c761da085ecf249e8ea06ab88091e74165f94cf56b7f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5KPRj6kGs0ascsjCbjDAt4DSB1g%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXUI2FWFQK5DPXNPT6V276WHNXQ.png?auth=94eac7e8b922e5a79b71e17f170d9ab270d4ba9e200e4d55f2bd5bd126bcc8c6&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2F5BXqqeN_TGhctybcV-GOrww7fZU%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FSVA5Y6Z5CFCLDHGVHMWTLQ262Q.png?auth=652b25ed8819b7a890ee2eee9498853e3cd613c6e6f080d9bcdce2321db129cd&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
+     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/osmel-sousa-ya-tiene-a-su-favorita-para-la-corona-de-miss-universe-2026/",
+     "via": "El Nuevo Día",
+     "credit": "El Nuevo Día"
+    },
+    {
+     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
+     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
+     "via": "Publimetro",
+     "credit": "Publimetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/d54ed2667553be2332fbc64671e58c4b/adjuntos/311/imagenes/019/164/0019164278/1200x675/smart/gabriela-gonzalez.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/20012342ef6f41ccebce9df22f06ac53/adjuntos/311/imagenes/019/164/0019164278/855x0/smart/gabriela-gonzalez.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/aa7edf0100e32ac3ebec6d77fd72191a/adjuntos/311/imagenes/019/164/0019164062/195x110/smart/miss-universe-2025-fatima-bosch.jpg",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/9c236c1e282745bf33383db874cafe73/adjuntos/311/imagenes/019/108/0019108316/1200x675/smart/sorteo-la-loteria-fiscal-regional.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/63b6d6842b597d2ee91216a8e02be67d/adjuntos/311/imagenes/019/164/0019164264/525x295/smart/comision-mineria.jpg",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/Df5yDxMGqRG",
+    "https://www.instagram.com/p/DgByE_sERl8",
+    "https://www.instagram.com/p/DgD7wDOJTVm",
+    "https://www.instagram.com/p/DgDXsLdEStB",
+    "https://www.instagram.com/p/DgEDDh5hhAv",
+    "https://www.instagram.com/p/DgEDOC6JpDF",
+    "https://www.instagram.com/p/DgEJTChMTrl",
+    "https://www.instagram.com/p/DgELcfUmVzt",
+    "https://www.instagram.com/p/DgELtRyhp7_",
+    "https://www.instagram.com/p/DgEM596mDN9",
+    "https://www.instagram.com/p/DgEMDnFGgfl",
+    "https://www.instagram.com/p/DgENzI1DKX2",
+    "https://www.instagram.com/p/DgGDBNxvTVQ",
+    "https://www.instagram.com/reel/DgCHkNLzcr3",
+    "https://www.instagram.com/reel/DgD80ydM3gC",
+    "https://www.instagram.com/reel/DgD9ov-vIKs",
+    "https://www.instagram.com/reel/DgEAfisxCAp",
+    "https://www.instagram.com/reel/DgEBhS1MTs-",
+    "https://www.instagram.com/reel/DgEEC0qPpN1",
+    "https://www.instagram.com/reel/DgEFgVxBRdL",
+    "https://www.instagram.com/reel/DgEJTChMTrl",
+    "https://www.instagram.com/reel/DgELcfUmVzt",
+    "https://www.instagram.com/reel/DgENV4kBN3o",
+    "https://www.instagram.com/reel/DgERYqdBFKD",
+    "https://www.instagram.com/reel/DgF163yzZSr",
+    "https://www.instagram.com/reel/DgFgIipRDFw",
+    "https://www.youtube.com/watch?v=CSE9gDAqSYc",
+    "https://www.youtube.com/watch?v=GntH78xRlX4",
+    "https://www.youtube.com/watch?v=YP48RsxV6BQ",
+    "https://www.youtube.com/watch?v=quLHTBghoEw"
+   ],
+   "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
+   "extra_images": [
+    {
+     "url": "https://carwow-es-wp-2.imgix.net/Peugeot-508_SW-2019-1600-c2-1.jpg?auto=format&cs=tinysrgb&fit=clip&ixlib=rb-1.1.0&q=60&w=1920",
+     "page": "https://www.carwow.es/blog/peugeot-508-sw-medidas-y-maletero",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.tytS3_pIQSzJNAVy9cnBYwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/interior/peugeot-508-sw-2019-maletero.jpg",
+     "page": "https://peugeot508review.blogspot.com/2019/08/peugeot-508-sw-dimensiones.html",
+     "via": "Bing Imágenes",
+     "credit": "peugeot508review.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.eDsXMlRMRTx692_cjVOqBQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://a.ccdn.es/cnet/contents/media/peugeot/508/1229616.jpg/900x505cut/",
+     "page": "https://www.coches.net/noticias/nuevo-peugeot-508-sw-presentacion",
+     "via": "Bing Imágenes",
+     "credit": "coches.net",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.m_zYxr84T5SVW6rV9whoAgHaEJ&pid=15.1"
+    },
+    {
+     "url": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20110921_0039/full.jpg",
+     "page": "https://www.km77.com/coches/peugeot/508/2011/sw/imagenes/interiores",
+     "via": "Bing Imágenes",
+     "credit": "km77.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.NFSifODTfdX7EpHpVvCN6wHaE8&pid=15.1"
+    },
+    {
+     "url": "https://cdn.mos.cms.futurecdn.net/jVXQRTaDK5WuE3xr8fYwjL-415-80.jpg",
+     "page": "https://www.wallpaper.com/transportation/the-peugeot-508-sw-continues-a-traditional-mix-of-elegance-efficiency-and-simplicity",
+     "via": "Bing Imágenes",
+     "credit": "wallpaper.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.MAovh528aA2ERORJwdEfaAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2019/10/15/15711469712374.jpg",
+     "page": "https://www.marca.com/motor/modelos-coches/2019/10/15/5da5c6afe2704efe368b45da.html",
+     "via": "Bing Imágenes",
+     "credit": "marca.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.hQH8ofXEIJdMxUX1ZuI36gHaEs&pid=15.1"
+    },
+    {
+     "url": "https://cms-assets.autoscout24.com/uaddx06iwzdz/66PXu2VomecgJ5E1nr8A4V/79a01135651966fdb1f56c7d74476d63/Peugeot-508_SW-2019-1280-c5__1_.jpg?w=1100",
+     "page": "https://www.autoscout24.es/informacion/prueba/peugeot/508/primera-prueba-peugeot-508-hybrid-sw-phev-2020/",
+     "via": "Bing Imágenes",
+     "credit": "autoscout24.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.PuRC0ovyF9dRhRxp8Dr1lwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://a.ccdn.es/cnet/contents/media/peugeot/508_hybrid/1262288.jpg/900x505cut/",
+     "page": "https://www.coches.net/videos/peugeot-508-sw-hybrid-gt-line",
+     "via": "Bing Imágenes",
+     "credit": "coches.net",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cGi-ifwMUx8MskBbB07BCwHaEJ&pid=15.1"
+    },
+    {
+     "url": "https://s1.abcstatics.com/media/motor/2020/02/17/Peugeot-508_SW-2019-1600-c7-knD--540x285@abc.jpg",
+     "page": "https://www.abc.es/motor/pruebas/abci-peugeot-508-224cv-prueba-familiar-mas-ruge-marca-leon-202002180013_noticia.html",
+     "via": "Bing Imágenes",
+     "credit": "abc.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.e_bOO_v1fZaMymJMkOuWUAHaD7&pid=15.1"
+    },
+    {
+     "url": "https://imagenes.km77.com/fotos/bbtcontent/clippingnew/KM7KPH20191022_0070/full.jpg",
+     "page": "https://www.km77.com/coches/peugeot/508/2019/sw/imagenes/interiores",
+     "via": "Bing Imágenes",
+     "credit": "km77.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.YzrxICPl9RezOmKJ8H26MAHaE8&pid=15.1"
+    },
+    {
+     "url": "https://hips.hearstapps.com/hmg-prod/images/maletero-508-pse-1631185426.jpg?resize=980:*",
+     "page": "https://www.caranddriver.com/es/pruebas-coches/a37525116/peugeot-508-pse-vs-vw-arteon-r-prueba/",
+     "via": "Bing Imágenes",
+     "credit": "caranddriver.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.6HJQ4XJdFa7djU-dz-XziAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.diariomotor.com/imagenes/2020/11/prueba-contacto-peugeot-508sw-hybrid-noresizing-mdm-21-scaled.jpg?class=XL",
+     "page": "https://www.diariomotor.com/noticia/prueba-contacto-peugeot-508-sw-hybrid-225/",
+     "via": "Bing Imágenes",
+     "credit": "diariomotor.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.o6XflTtae47Wag9gg0OIxgHaE7&pid=15.1"
+    },
+    {
+     "url": "https://images.coches.com/_news_/2014/09/Peugeot-508-SW-2014-MALETERO-1-700x525.jpg",
+     "page": "https://noticias.coches.com/peugeot-508-sw-2014",
+     "via": "Bing Imágenes",
+     "credit": "noticias.coches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Tj7EFeDmJldWBv4LLDcBeQHaFj&pid=15.1"
+    },
+    {
+     "url": "https://carwow-es-wp-0.imgix.net/Peugeot-408-Maletero-1.jpg",
+     "page": "https://www.carwow.es/blog/comparativa-peugeot-408-vs-peugeot-508",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y9Qk0Zbznmr8NP3fG24PuAHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T01:18:05.325353+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T01:42:05.457992+00:00",
+     "url": "https://www.instagram.com/p/Df5yDxMGqRG",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/p/DgByE_sERl8",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:30:05.503392+00:00",
+     "url": "https://www.instagram.com/p/DgD7wDOJTVm",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.instagram.com/p/DgDXsLdEStB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.instagram.com/p/DgEDDh5hhAv",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/p/DgEDOC6JpDF",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.instagram.com/p/DgEJTChMTrl",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.instagram.com/p/DgELcfUmVzt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.instagram.com/p/DgELtRyhp7_",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/p/DgEM596mDN9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:14:05.594454+00:00",
+     "url": "https://www.instagram.com/p/DgEMDnFGgfl",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/p/DgENzI1DKX2",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:30:05.503392+00:00",
+     "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:58:05.952078+00:00",
+     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:22:06.200346+00:00",
+     "url": "https://www.instagram.com/reel/DgEAfisxCAp",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:58:05.952078+00:00",
+     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/reel/DgEEC0qPpN1",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:58:05.952078+00:00",
+     "url": "https://www.instagram.com/reel/DgEJTChMTrl",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/reel/DgELcfUmVzt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:58:05.952078+00:00",
+     "url": "https://www.instagram.com/reel/DgENV4kBN3o",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T01:50:05.318582+00:00",
+     "url": "https://www.instagram.com/reel/DgERYqdBFKD",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/reel/DgF163yzZSr",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.instagram.com/reel/DgFgIipRDFw",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-24T02:06:06.185824+00:00",
+     "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-24T02:38:05.523759+00:00",
+     "url": "https://www.youtube.com/watch?v=quLHTBghoEw",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 259
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -2567,7 +3205,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T18:39:00+00:00",
+   "start": "2026-11-22T19:10:47+00:00",
    "last_activity": "2026-11-23T19:00:00+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -2608,8 +3246,7 @@
     "5c41de094d619f",
     "b4ca7f00009885",
     "68d979caf887c0",
-    "76754e4d0d6b0b",
-    "162cb71c11506e"
+    "76754e4d0d6b0b"
    ],
    "sources": [
     "Caretas",
@@ -2633,7 +3270,6 @@
     "Metro.Style",
     "Outlook Luxe",
     "Parade on MSN",
-    "RPP Noticias",
     "Telemundo",
     "Telemundo Houston",
     "Telemundo San Diego",
@@ -2643,14 +3279,14 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 40,
-   "n_sources": 30,
+   "n_items": 39,
+   "n_sources": 29,
    "videos": [
     {
      "vid": "vYNjGtTAnww",
      "title": "Feathers, Wings & First Reactions Backstage at the Miss Universe 2026 National Costume Show",
      "channel": "Miss Universe",
-     "views": 80791,
+     "views": 80942,
      "likes": 0,
      "published": "2026-11-22T19:52:58+00:00",
      "official": true
@@ -2659,13 +3295,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 5931,
+     "views": 6786,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 86722,
+   "views_total": 87728,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2894,22 +3530,11 @@
      "credit": "El Financiero"
     },
     {
-     "url": "https://f.rpp-noticias.io/2026/11/22/304430_1932039.jpg?width=1200&quality=85",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/22/1932040miss-peru-1.jpg?width=860&quality=80",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
-    },
-    {
-     "url": "https://f.rpp-noticias.io/2026/11/19/232223_1930819.jpg?width=160&quality=60",
-     "page": "https://rpp.pe/famosos/farandula/miss-universo-2026-luren-marquez-deslumbra-con-traje-tipico-inspirado-en-el-oasis-de-su-natal-ica-noticia-1719201",
-     "via": "RPP Noticias",
-     "credit": "RPP Noticias"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
     }
    ],
    "social_urls": [
@@ -2919,7 +3544,6 @@
     "https://www.instagram.com/p/DgEIGmQiHTf",
     "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.youtube.com/watch?v=S_RA3e_Cjro",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
    ],
    "image_query": "Miss Universe 2026 National Costume Pre Show",
@@ -2965,12 +3589,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T02:06:06.185824+00:00",
-     "url": "https://www.youtube.com/watch?v=S_RA3e_Cjro",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/S_RA3e_Cjro/hqdefault.jpg"
-    },
-    {
      "fetched": "2026-11-24T01:50:05.318582+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
@@ -2983,7 +3601,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 107
+   "score": 104
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -3189,8 +3807,7 @@
     "f1d6486051f7c2",
     "799c4eaf2f5323",
     "c3c16477dfd968",
-    "c65d67e5850682",
-    "a4f0a47b53aa79"
+    "c65d67e5850682"
    ],
    "sources": [
     "24 horas on MSN",
@@ -3215,24 +3832,23 @@
     "Prensa Libre",
     "Primicias",
     "Revista Mercado",
-    "Telemundo",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento",
     "www.laprensa.hn"
    ],
-   "n_items": 34,
-   "n_sources": 26,
+   "n_items": 33,
+   "n_sources": 25,
    "videos": [
     {
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 66145,
-     "ago": "hace 23 h",
+     "views": 67003,
+     "ago": "hace 1 día",
      "official": false
     }
    ],
-   "views_total": 66145,
+   "views_total": 67003,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -3635,7 +4251,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 92
+   "score": 89
   },
   {
    "key": "t:me:Votación:2026-11-21",
@@ -3790,576 +4406,6 @@
     "shares": 0
    },
    "score": 9
-  },
-  {
-   "key": "p:body tea",
-   "id": "p-body-tea-a8001",
-   "name": "Body Tea",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T08:53:35.693911+00:00",
-   "start": "2026-11-22T21:25:53+00:00",
-   "last_activity": "2026-11-23T14:10:00+00:00",
-   "item_ids": [
-    "e4152aab5aeb1d",
-    "eb4f0fb1d45ba5",
-    "dc19dad92c7699",
-    "d2eb1e4052e09a",
-    "3a7b3d672b46ea",
-    "3b7e7cd3321175",
-    "d7d4f38bec8c37",
-    "6c5fc8bd5c0989",
-    "c3b40e1f2158f9",
-    "337a17eb94fa50",
-    "47f72716e79e1d",
-    "2e9d6e1bcc9166",
-    "09b5a883d49f15",
-    "bf65617ec82716",
-    "523498a4640634",
-    "414536a7da32f5",
-    "6a2afbd99d5336",
-    "2fdcb820131df3",
-    "20db1c7ab00253",
-    "512fa8a54e3d22",
-    "4114f84eeef3ee",
-    "4323f66acec0c8",
-    "31e95ee4d67b06",
-    "b4dd5557ea4983",
-    "a72d88fe0350d8",
-    "1fff5245cd4b43",
-    "77650e0791580d",
-    "37f113e6f11e99",
-    "fb4ea217447104",
-    "c878a195587422",
-    "d123fb097f60da",
-    "397300076bdbdc",
-    "23951b33ac0c38",
-    "8b432528f7c5f9",
-    "ed1a50e75b8703",
-    "6359026c6d705e",
-    "940b42ed2d1463",
-    "a1a706ebcedccb",
-    "f5095293f0f5ba",
-    "d3791537658210",
-    "d9f7ba013c0805",
-    "040bfcba907828",
-    "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a",
-    "10b96b587aca9b",
-    "bf18ddd33141aa",
-    "479865ad166d59",
-    "37ce0ddfcdf2e3",
-    "48e93213602e8c",
-    "17e8d2e79e2e0a",
-    "10d9b44a70ca64",
-    "aad28376e589e3",
-    "bc8aa73adfab53",
-    "b2926894b2753e",
-    "4713b1b9ea8c7e",
-    "950b77f70ac4d5",
-    "753242c73f86e5",
-    "6cd329165e23bb",
-    "07fb1bfde4bd5c",
-    "bb0bcb12cb7923",
-    "3e891778ca49d2",
-    "952db44f21e7df",
-    "879d1c3bc8c5a6",
-    "ebf6bea0cfc270",
-    "7a84c94acf08c1",
-    "604b2172c5cf6c",
-    "65a71d2c138efb",
-    "4c99dff5e906e1",
-    "734f45d24cc966",
-    "55180fe04c1413",
-    "0cd5774c0c5641",
-    "89a7298da38a5d",
-    "5dbf0286192a0e",
-    "5ff41e568107de",
-    "2a7a56c57c6f8e",
-    "3511282fc1bba8",
-    "a132303a778fdc",
-    "aaba7159d38af2",
-    "e7490c4653fb68",
-    "82b7aace067bf2",
-    "880f1cbf061793",
-    "845cee22b18f1c",
-    "137fbc3934bc6f",
-    "c30ebe70cdc9dd",
-    "6c86531666a095",
-    "44f5a4b55ff1a0",
-    "7e819859201a8f",
-    "bf2d8c77fde412",
-    "6e10f7dd27178e",
-    "9b0a7b5f991a59",
-    "1368a97089cc67",
-    "410cee405c3f23",
-    "7088487e42ef05",
-    "e2ec3460ae049f",
-    "6f49bb2803b263",
-    "248df28afe8d69",
-    "25a927cf98776b",
-    "d572e7fd2fe52d",
-    "7332669d6fdcdb",
-    "0de449ac61b0e8",
-    "acf139abc71ee2",
-    "3c71988aef4e2e",
-    "8448a3cdfa5f64",
-    "9fd1290010ce59",
-    "f1d6486051f7c2",
-    "db845dec8205f5",
-    "30838c97df9652",
-    "4729d50842aa42",
-    "295eb48232efe0",
-    "cd5792e3d30995",
-    "34cfb9a681d111",
-    "330ee860d24f08",
-    "1ddbaf311448f2",
-    "9ca0eda25522c7",
-    "f8b32ad0ed372f",
-    "142ce879656f2c",
-    "44ddffc2be4895",
-    "799c4eaf2f5323",
-    "2e4100f7722574",
-    "46c7d2d2e54dc4"
-   ],
-   "sources": [
-    "ABS-CBN",
-    "BioBioChile",
-    "Caracol TV",
-    "Caracol Televisión",
-    "Diario Las Américas",
-    "Diario Libre",
-    "EL DÍA - Noticias de Bolivia para el mundo",
-    "EMOL",
-    "Eje Central",
-    "El Colombiano",
-    "El Colombiano on MSN",
-    "El Dia.com.do",
-    "El Diario",
-    "El Diario - Noticias Pereira, Colombia y el Mundo",
-    "El Impulso",
-    "El Informador",
-    "El Mostrador",
-    "El Nuevo Día",
-    "El Reporte Diario",
-    "El Universo",
-    "Emisoras Unidas",
-    "Emol",
-    "Facebook",
-    "GMA Network",
-    "Howl.Link",
-    "Infobae",
-    "Instagram",
-    "Interaksyon",
-    "La Nación Costa Rica",
-    "La Verdad - La Verdad",
-    "MARCA",
-    "Mega.cl",
-    "Meganoticias",
-    "Metro.Style",
-    "Minuto60",
-    "N+",
-    "Panamá América",
-    "Philstar Life on MSN",
-    "Prensa Libre",
-    "Primera Hora"
-   ],
-   "n_items": 120,
-   "n_sources": 52,
-   "videos": [
-    {
-     "vid": "oqIDvzfAKBI",
-     "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
-     "channel": "Telemundo Entretenimiento",
-     "views": 655966,
-     "ago": "Transmitido hace 1 día",
-     "official": false
-    },
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 66145,
-     "ago": "hace 23 h",
-     "official": false
-    },
-    {
-     "vid": "kdbVKox8QKU",
-     "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
-     "channel": "Miss Universe",
-     "views": 59786,
-     "likes": 0,
-     "published": "2026-11-22T23:19:42+00:00",
-     "official": true
-    },
-    {
-     "vid": "z6WL1geI6Uk",
-     "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 24211,
-     "ago": "hace 1 día",
-     "official": false
-    }
-   ],
-   "views_total": 806108,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oqIDvzfAKBI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/oqIDvzfAKBI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=oqIDvzfAKBI",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/z6WL1geI6Uk/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/z6WL1geI6Uk/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=z6WL1geI6Uk",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/kdbVKox8QKU/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/kdbVKox8QKU/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=kdbVKox8QKU",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795443410383/sites/elinformador/img/2026/11/23/miss_uni.jpg_1012785412.jpg",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795432609301/sites/elinformador/img/2026/11/23/imagen_cmyk_imagen_keliguanes_2_crop1795429320943.jpg_169944000.jpg",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795422470705/sites/elinformador/img/2026/11/23/imagen_cymkimagen_motel_crop1795422462716.jpg_584182542.jpg",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795420319331/sites/elinformador/img/2026/11/23/imagen_cmky_imagen_afp__20080730__80729155__v2__highres__moisesarizmendillegaanetflixparalaserieelchapo_edited_crop1795420316601.jpg_584182542.jpg",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795443410383/sites/elinformador/img/2026/11/23/miss_uni.jpg_1565386239.jpg",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795442319152/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_de_baxo.png_644189360.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/__export/1795442570196/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_de_gala.png_667277385.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.informador.mx/export/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_tipico.png_157488745.png",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "El Informador",
-     "credit": "El Informador"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.UH288-4EPjmzOx36iVvH4A&pid=News",
-     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
-     "via": "Bing (miniatura)",
-     "credit": "El Informador"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/QSSBOPCP7NFOVC52GHJ5ZMZUJM.jpg?auth=54ef9026e049a35b75b5290cef5b411483fea1e58d60fd9ed9e54b2438c10132&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/peru/2026/11/23/luren-marquez-en-la-preliminar-del-miss-universo-2026-asi-fue-su-pasarela-en-traje-de-bano-y-gala/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/e8b9b82/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F68%2F54%2F04c0910b436b886e31688c344fe6%2Fminiatura-la-red.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/954d4bc/2147483647/strip/true/crop/1280x719+0+1/resize/568x319!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F68%2F54%2F04c0910b436b886e31688c344fe6%2Fminiatura-la-red.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/d48245c/2147483647/strip/true/crop/1263x720+17+0/resize/100x57!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd4%2F3d%2F65d51ae64ceba4eed16135138839%2Fgiovanny-ayala-y-maria-gomez.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/1ba0995/2147483647/strip/true/crop/1421x810+0+0/resize/100x57!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F96%2Fb4%2F8a4d3ea142a7935e5e4dde0abc83%2F469213973-18473699509005323-7242532949831711926-n.jpg",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/972756f/2147483647/strip/true/crop/720x720+258+0/resize/120x120!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F85%2Fa8%2F99686cf84cb8bdad756a5d8209c3%2Fjorge-andres-bernal.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/cda854f/2147483647/strip/true/crop/1280x719+0+1/resize/768x431!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F68%2F54%2F04c0910b436b886e31688c344fe6%2Fminiatura-la-red.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/5c5cb4f/2147483647/strip/true/crop/90x100+0+0/resize/297x330!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F8f%2Fab%2F6a94538e4ab39c10e9d8bf877390%2Fctv.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/3b80243/2147483647/strip/true/crop/74x68+0+0/resize/114x105!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fb5%2F59%2F139655134a698b6eeeb2c5500789%2Fasomedios-1.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/a777d41/2147483647/strip/true/crop/191x60+0+0/resize/333x105!/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2F49%2F60%2F73b67e574e498b80c46836c170d9%2Fiab-1.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://caracoltv.brightspotcdn.com/dims4/default/ae6c064/2147483647/strip/true/crop/1263x720+17+0/resize/200x114!/format/webp/quality/75/?url=https%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fd4%2F3d%2F65d51ae64ceba4eed16135138839%2Fgiovanny-ayala-y-maria-gomez.png",
-     "page": "https://www.caracoltv.com/actualidad/en-vivo-preliminar-de-miss-universo-2026-mira-el-desfile-en-traje-de-bano-y-gala-ed45",
-     "via": "Caracol Televisión",
-     "credit": "Caracol Televisión"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/568x430/0c0/1280d720/none/11101/NQGE/captura-de-pantalla-2026-11-23-06291_52201219_20261123064746.png",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/568x430/0c0/780d565/none/11101/NQJA/captura-de-pantalla-2026-11-23-06291_52201219_20261123064746.png",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/218x165/0c0/300d217/none/11101/NQHJ/captura-de-pantalla-2026-11-23-06291_52201219_20261123064746.png",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/349x262/0c19/349d224/none/11101/NYNG/alumbrado1_52191142_20261120203944.jpg",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/350x233/0c9/349d224/none/11101/JOMC/ruben-blades-getty_52188040_20261120160849.png",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/367x367/17c26/349d224/none/11101/OLCX/padme-1-8_52186906_20261120160608.jpg",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://estaticos.elcolombiano.com/binrepository/349x240/0c8/349d224/none/11101/UBIK/aguaceeeeero_52176394_20261119133737.jpg",
-     "page": "https://www.elcolombiano.com/entretenimiento/maria-alejandra-lopez-vestido-negro-miss-universo-2026-historia-LO43908751",
-     "via": "El Colombiano",
-     "credit": "El Colombiano"
-    },
-    {
-     "url": "https://media-front.elmostrador.cl/2026/11/dominga-lopez.jpeg",
-     "page": "https://www.elmostrador.cl/braga/2026/11/23/dominga-lopez-ilusiona-a-chile-tras-las-preliminares-de-miss-universo-2026-puede-ganar-la-corona/",
-     "via": "El Mostrador",
-     "credit": "El Mostrador"
-    },
-    {
-     "url": "https://media-front.elmostrador.cl/2026/10/El-Danstar-entre-olas-y-montañas-nevadas-468x263.png",
-     "page": "https://www.elmostrador.cl/braga/2026/11/23/dominga-lopez-ilusiona-a-chile-tras-las-preliminares-de-miss-universo-2026-puede-ganar-la-corona/",
-     "via": "El Mostrador",
-     "credit": "El Mostrador"
-    },
-    {
-     "url": "https://media-front.elmostrador.cl/2026/11/Matanza-Chihuio-468x234.png",
-     "page": "https://www.elmostrador.cl/braga/2026/11/23/dominga-lopez-ilusiona-a-chile-tras-las-preliminares-de-miss-universo-2026-puede-ganar-la-corona/",
-     "via": "El Mostrador",
-     "credit": "El Mostrador"
-    },
-    {
-     "url": "https://media-front.elmostrador.cl/2026/11/23-noviembre-ClicAM_YOUTUBE-468x263.jpg",
-     "page": "https://www.elmostrador.cl/braga/2026/11/23/dominga-lopez-ilusiona-a-chile-tras-las-preliminares-de-miss-universo-2026-puede-ganar-la-corona/",
-     "via": "El Mostrador",
-     "credit": "El Mostrador"
-    },
-    {
-     "url": "https://static.emol.cl/emol50/Fotos/2026/11/23/file_20261123105046.jpg",
-     "page": "https://www.emol.com/noticias/Tendencias/2026/11/23/1217899/dominga-lopez-preliminares-miss-universo.html",
-     "via": "EMOL",
-     "credit": "EMOL"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/H3jnD14RHLA/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/H3jnD14RHLA/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=H3jnD14RHLA",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/WIOKI0QUq6U/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/WIOKI0QUq6U/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=WIOKI0QUq6U",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/9VisagukLAQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/9VisagukLAQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=9VisagukLAQ",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0Z-m6ZXa-W8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/0Z-m6ZXa-W8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=0Z-m6ZXa-W8",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DgEIGmQiHTf",
-    "https://www.instagram.com/reel/DgD80ydM3gC",
-    "https://www.instagram.com/reel/DgEAJykzVMe",
-    "https://www.instagram.com/reel/DgEAfisxCAp",
-    "https://www.instagram.com/reel/DgEBhS1MTs-",
-    "https://www.instagram.com/reel/DgEFgVxBRdL",
-    "https://www.instagram.com/reel/DgEFmBxvajg",
-    "https://www.instagram.com/reel/DgEJTChMTrl",
-    "https://www.instagram.com/reel/DgENV4kBN3o",
-    "https://www.instagram.com/reel/DgERYqdBFKD",
-    "https://www.youtube.com/watch?v=sqiMbXhYbNw"
-   ],
-   "image_query": "Miss Universe 2026 Body Tea",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_%28IA_1967censusofmanu11unse%29.pdf/page1-1280px-1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_%28IA_1967censusofmanu11unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Manufactures._Volume_1_Preliminary_Reports_Summary_Statistics_and_Major_Groups_20-28_(IA_1967censusofmanu11unse).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Creator:Blanche Watson"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Rabindranath Tagore and others"
-    }
-   ],
-   "extra_at": "2026-11-24T00:14:05.486306+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T02:06:06.185824+00:00",
-     "url": "https://www.instagram.com/p/DgEIGmQiHTf",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:58:05.952078+00:00",
-     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T02:06:06.185824+00:00",
-     "url": "https://www.instagram.com/reel/DgEAJykzVMe",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T02:22:06.200346+00:00",
-     "url": "https://www.instagram.com/reel/DgEAfisxCAp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:58:05.952078+00:00",
-     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:50:05.318582+00:00",
-     "url": "https://www.instagram.com/reel/DgEFgVxBRdL",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:42:05.457992+00:00",
-     "url": "https://www.instagram.com/reel/DgEFmBxvajg",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:58:05.952078+00:00",
-     "url": "https://www.instagram.com/reel/DgEJTChMTrl",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:58:05.952078+00:00",
-     "url": "https://www.instagram.com/reel/DgENV4kBN3o",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:50:05.318582+00:00",
-     "url": "https://www.instagram.com/reel/DgERYqdBFKD",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T01:50:05.318582+00:00",
-     "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
-     "platform": "YouTube",
-     "views": 352464,
-     "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
-     "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
-    }
-   ],
-   "social_totals": {
-    "views": 352464,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 264
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -5049,7 +5095,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5179,7 +5225,6 @@
     "2001online",
     "24horas",
     "ABS-CBN",
-    "AS México",
     "Artículo 66",
     "BioBioChile",
     "Canal Antigua",
@@ -5209,7 +5254,6 @@
     "El Universo",
     "Emisoras Unidas",
     "Emol",
-    "En Cancha",
     "Facebook",
     "GMA Network",
     "HOLA",
@@ -5256,8 +5300,8 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 173,
-   "n_sources": 80,
+   "n_items": 169,
+   "n_sources": 78,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5289,7 +5333,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 336
+   "score": 328
   },
   {
    "key": "p:one unforgettable night",
@@ -5316,13 +5360,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 5931,
+     "views": 6786,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 5931,
+   "views_total": 6786,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -5424,7 +5468,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5472,8 +5516,7 @@
     "180952a1762223",
     "5c41de094d619f",
     "b4ca7f00009885",
-    "76754e4d0d6b0b",
-    "162cb71c11506e"
+    "76754e4d0d6b0b"
    ],
    "sources": [
     "2001online",
@@ -5500,7 +5543,6 @@
     "Metro.Style",
     "News18",
     "Outlook Luxe",
-    "RPP Noticias",
     "Radio Agricultura",
     "Telemundo",
     "Telemundo Houston",
@@ -5511,8 +5553,8 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 46,
-   "n_sources": 34,
+   "n_items": 45,
+   "n_sources": 33,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5544,7 +5586,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 117
+   "score": 114
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5555,7 +5597,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5786,7 +5828,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6017,7 +6059,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6066,7 +6108,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6297,7 +6339,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T02:30:05.503392+00:00",
+   "first_seen": "2026-11-24T02:38:05.523759+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
