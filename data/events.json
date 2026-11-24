@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:10:33.420285+00:00",
+ "updated": "2026-11-24T19:18:33.724458+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,7 +149,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -229,8 +229,10 @@
     "531d169161f5b5",
     "91536525a60d1e",
     "533a459e19e5ad",
+    "589e2403daad00",
     "a487635195184b",
     "6324bfe05ac0f2",
+    "150a4159447f55",
     "6607b3e6dcfc2e",
     "ae2d8d989db77a",
     "74b2180bc0a5b8",
@@ -240,6 +242,7 @@
     "a1d49299ffc7fb",
     "b12cdf53220eea",
     "469d01ef35d3a6",
+    "d230457cb8489f",
     "fb24419f2eb107",
     "17355e874077f2",
     "4dd647c2831da2",
@@ -269,10 +272,7 @@
     "6c5003ce49ae58",
     "977edca73dc1c8",
     "3fc32b17d4981d",
-    "9b7ac53de994e1",
-    "2ee6983fd51208",
-    "72424c1e917654",
-    "38932341eac673"
+    "9b7ac53de994e1"
    ],
    "sources": [
     "24 horas",
@@ -295,6 +295,7 @@
     "Detroit Free Press",
     "Diario El Mundo",
     "Diario Primicia",
+    "EL PAÍS",
     "Eje Central",
     "El Ancasti",
     "El Comercio",
@@ -356,6 +357,7 @@
     "Rock&Pop",
     "Sabes.cl",
     "SoyChile.cl",
+    "T13",
     "Telemedellín",
     "Teletrece",
     "Todo Jujuy",
@@ -376,8 +378,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 162,
-   "n_sources": 100,
+   "n_items": 165,
+   "n_sources": 102,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -393,7 +395,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 365
+   "score": 372
   },
   {
    "key": "p:the big night",
@@ -562,7 +564,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
    "extra_images": [],
-   "extra_at": "2026-11-24T19:10:33.420285+00:00",
+   "extra_at": "2026-11-24T19:18:33.724458+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1092,7 +1094,7 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
@@ -1182,9 +1184,7 @@
     "ad5321b491cf7d",
     "2a2e123a153b9c",
     "95ffb0af381526",
-    "b6a1459cc49516",
-    "047149e3f9bb9f",
-    "a6e883a97a28db"
+    "b6a1459cc49516"
    ],
    "sources": [
     "2001online",
@@ -1212,7 +1212,6 @@
     "Meridiano.net",
     "Minuto60",
     "Noticias Caracol",
-    "Outlook Luxe",
     "Publimetro",
     "Página 7",
     "Reporte Índigo",
@@ -1220,8 +1219,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 42,
-   "n_sources": 32,
+   "n_items": 40,
+   "n_sources": 31,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -1525,12 +1524,12 @@
    "extra_at": "2026-11-24T16:54:33.884331+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1551,7 +1550,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 109
+   "score": 105
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1967,6 +1966,14 @@
      "official": false
     },
     {
+     "vid": "eNW-a9sHZso",
+     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
+     "channel": "Hi Along",
+     "views": 6637,
+     "ago": "hace 6 días",
+     "official": false
+    },
+    {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
@@ -1975,7 +1982,7 @@
      "official": false
     }
    ],
-   "views_total": 28723,
+   "views_total": 35360,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -1988,6 +1995,13 @@
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
     },
@@ -2361,7 +2375,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 30571,
+     "views": 31195,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2370,13 +2384,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 23261,
+     "views": 24151,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 53832,
+   "views_total": 55346,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2402,7 +2416,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Crown Confidential",
    "extra_images": [],
-   "extra_at": "2026-11-24T19:10:33.420285+00:00",
+   "extra_at": "2026-11-24T19:18:33.724458+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2707,13 +2721,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 426535,
+     "views": 433285,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 426535,
+   "views_total": 433285,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3464,12 +3478,12 @@
    "extra_at": "2026-11-24T16:38:33.366591+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DewuFMYMoLR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/reel/Df6m8TGu8hk",
      "platform": "Instagram"
     }
@@ -3496,7 +3510,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T12:25:00+00:00",
+   "start": "2026-11-23T12:44:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3542,9 +3556,6 @@
     "bf65617ec82716",
     "523498a4640634",
     "7088487e42ef05",
-    "b87d2644263aab",
-    "23fd9d663a56b4",
-    "4c89a4853ebce7",
     "d1d6d051c0daab",
     "f590005e2ceaec",
     "a4e31d66d47c25",
@@ -3553,7 +3564,6 @@
     "e0679bb7c0e255",
     "d5ec02365e0bfe",
     "b907982e24c308",
-    "e901ae0ddf6231",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "506033d3e41d61",
@@ -3571,7 +3581,6 @@
     "BioBioChile",
     "Bombay Times",
     "Business Insider",
-    "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
     "El Comercio Perú",
@@ -3592,7 +3601,6 @@
     "Howl.Link",
     "Infobae",
     "Instagram",
-    "La Patria",
     "La Verdad - La Verdad",
     "Listín Diario",
     "Meganoticias",
@@ -3601,10 +3609,12 @@
     "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
-    "Panamá América"
+    "Panamá América",
+    "Publimetro",
+    "RPP"
    ],
-   "n_items": 61,
-   "n_sources": 49,
+   "n_items": 57,
+   "n_sources": 47,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3862,13 +3872,7 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/DgD7wDOJTVm",
-    "https://www.instagram.com/p/DgD_xMljUCc",
-    "https://www.instagram.com/p/DgECLicjQOA",
-    "https://www.instagram.com/p/DgELpxHje4O",
     "https://www.instagram.com/p/DgEMDnFGgfl",
-    "https://www.instagram.com/p/DgEMwqLjRYi",
-    "https://www.instagram.com/p/DgEQq96DdQ4",
-    "https://www.instagram.com/p/DgEkkGrEUpM",
     "https://www.instagram.com/p/DgGDBNxvTVQ",
     "https://www.instagram.com/reel/DgEFmBxvajg",
     "https://www.instagram.com/reel/DgF163yzZSr",
@@ -3956,38 +3960,8 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgD_xMljUCc",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgECLicjQOA",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgELpxHje4O",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T19:10:33.420285+00:00",
-     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
      "platform": "Instagram"
     },
     {
@@ -4024,7 +3998,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 162
+   "score": 154
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4038,7 +4012,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T12:15:00+00:00",
+   "start": "2026-11-23T13:26:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4062,9 +4036,7 @@
     "2a2e123a153b9c",
     "23c6af8b4fd044",
     "95ffb0af381526",
-    "b6a1459cc49516",
-    "047149e3f9bb9f",
-    "a6e883a97a28db"
+    "b6a1459cc49516"
    ],
    "sources": [
     "2001online",
@@ -4082,14 +4054,13 @@
     "MDZ Online",
     "Mega.cl",
     "Meridiano.net",
-    "Outlook Luxe",
     "RPP",
     "Radio Agricultura",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 24,
-   "n_sources": 20,
+   "n_items": 22,
+   "n_sources": 19,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -4420,7 +4391,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 67
+   "score": 63
   },
   {
    "key": "t:me:Trajes típicos:2026-11-21",
@@ -4764,62 +4735,62 @@
    "extra_at": "2026-11-24T16:54:33.884331+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DfaGKslj-s_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgAyKylIOqh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgB9v3dkUBd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBEY_XOJUE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBGqowIe2h",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBbx2_RLtF",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBh-mNADAr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBjOzTjZ53",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBklBeJvnW",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
+     "fetched": "2026-11-24T19:18:33.724458+00:00",
      "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
      "platform": "Instagram"
     }
@@ -4970,7 +4941,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5020,8 +4991,7 @@
     "09b5a883d49f15",
     "bf65617ec82716",
     "523498a4640634",
-    "7088487e42ef05",
-    "4c89a4853ebce7"
+    "7088487e42ef05"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5029,7 +4999,6 @@
     "ABS-CBN",
     "Artículo 66",
     "BetUS",
-    "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
     "El Comercio Perú",
@@ -5064,8 +5033,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 48,
-   "n_sources": 39,
+   "n_items": 47,
+   "n_sources": 38,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5279,7 +5248,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 129
+   "score": 126
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5290,7 +5259,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5317,9 +5286,7 @@
     "c65ebe8be3071a",
     "521247c7b56fcd",
     "23c6af8b4fd044",
-    "95ffb0af381526",
-    "047149e3f9bb9f",
-    "a6e883a97a28db"
+    "95ffb0af381526"
    ],
    "sources": [
     "2001online",
@@ -5339,14 +5306,13 @@
     "MDZ Online",
     "Mega.cl",
     "Meridiano.net",
-    "Outlook Luxe",
     "Radio Agricultura",
     "Yahoo",
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 26,
-   "n_sources": 22,
+   "n_items": 24,
+   "n_sources": 21,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5378,7 +5344,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 73
+   "score": 69
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5389,7 +5355,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5438,7 +5404,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5669,7 +5635,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5886,7 +5852,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T19:10:33.420285+00:00",
+   "first_seen": "2026-11-24T19:18:33.724458+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
