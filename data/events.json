@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:34:23.963362+00:00",
+ "updated": "2026-11-24T13:42:23.665980+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "3fd0b17a2c3e8a",
     "d12acbeff11fb0",
     "b586e66fe7f290",
     "fc9329ea2020bf",
@@ -206,6 +207,7 @@
     "70cfc07d6e2b1c",
     "eb9931e76498b6",
     "87b3c36b693021",
+    "1927b5d7474965",
     "5acb0326fe4762",
     "9fcac4f93a8849",
     "be272b9c3c63be",
@@ -245,6 +247,7 @@
     "Milenio on MSN",
     "N Digital",
     "NotiCel",
+    "Noticia al Dia",
     "Notifalcon",
     "Nueva Rioja",
     "Preview.ph",
@@ -258,8 +261,8 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 62,
-   "n_sources": 40,
+   "n_items": 64,
+   "n_sources": 41,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -275,7 +278,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 145
+   "score": 149
   },
   {
    "key": "seed:voto-top30",
@@ -322,7 +325,6 @@
     "6518b92aa5234c",
     "ec9fc97d023ced",
     "3e751bdc913761",
-    "1e5c47f5a4305d",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -394,7 +396,7 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 59,
+   "n_items": 58,
    "n_sources": 41,
    "videos": [
     {
@@ -738,7 +740,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 144
+   "score": 143
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -758,6 +760,7 @@
     "e9c20abdfee373",
     "c8fe7398d07e4c",
     "74aba6dcb3a5b9",
+    "6a5fb4fcaa6029",
     "fc312ea5b99564",
     "977edca73dc1c8",
     "718b3598b3ac94",
@@ -767,6 +770,7 @@
    ],
    "sources": [
     "DUPLOS.CL",
+    "Depor",
     "Eje Central",
     "El Comercio",
     "El Comercio Perú",
@@ -775,11 +779,41 @@
     "Reporte Indigo",
     "www.elmartutino.cl"
    ],
-   "n_items": 9,
-   "n_sources": 8,
+   "n_items": 10,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://depor.com/resizer/v2/326X7SB6R5E27BXDAGUPIFN6KU.jpg?auth=207ec1831e41c2d240aa46137a330fb46602fad223ec17bf0b97b65e57966c62&width=320&height=180&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/6MSA6PPU45ETRN3XBNLTF7J6W4.jpg?auth=33cd52dc593ee9e0585d590e9e8b4fd733a051e94783e2487cae7b7fbac99db1&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/PWUX4PXFFNHP5BZMZCAPDGWCGY.jpg?auth=c733fce1d364a946c041980e5f71c953c98d6404ddc635be6791d02a4f0123e2&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/LPSTPPDUNNF6DCH3SJH6U2BECY.jpg?auth=9d462f7c1852379992f943868ad3547f7a3617fcc3de99487f573a8059144359&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/CZ3GFTQXYNAHPOVD5HQHYRQWNE.jpg?auth=b351141f1c0b2b68dc526c3dbb24d73856df4aad1d29e8b94acc2a82a0f44b5c&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
     {
      "url": "https://elcomercio.pe/resizer/v2/FFWP5J5D4VCQ5EWQGWSOFRDT5U.jpg?auth=57c26e317259ddb74104e86631431d7bea686aa4525e01171c273008b8d3829b&width=980&height=528&quality=75&smart=true",
      "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
@@ -921,7 +955,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 25
+   "score": 28
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -1000,7 +1034,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T13:34:23.963362+00:00",
+   "extra_at": "2026-11-24T13:42:23.665980+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1049,7 +1083,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 18800,
+     "views": 19186,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1058,13 +1092,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 12745,
+     "views": 12855,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 31545,
+   "views_total": 32041,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -1386,9 +1420,10 @@
    "refs": [],
    "first_seen": "2026-11-24T03:26:06.119250+00:00",
    "start": "2026-11-24T00:30:23+00:00",
-   "last_activity": "2026-11-24T04:51:13+00:00",
+   "last_activity": "2026-11-24T05:32:00+00:00",
    "item_ids": [
     "5c41de094d619f",
+    "3b6e207e8e6d55",
     "fc312ea5b99564",
     "c05d52b376a2d1",
     "9fcac4f93a8849",
@@ -1397,26 +1432,27 @@
    ],
    "sources": [
     "Correo del Caroní",
+    "Diario Primicia",
     "Ecuavisa",
     "Interaksyon",
     "N Digital",
     "Radio Agricultura",
     "YouTube · Miss Universe"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 7,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 297436,
+     "views": 301809,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 297436,
+   "views_total": 301809,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1426,10 +1462,10 @@
      "credit": "Miss Universe"
     },
     {
-     "url": "http://www.bing.com/th?id=ONUT.qsurVcykDyL-6cVChscYvQ&pid=News",
-     "page": "https://n.com.do/2026/11/24/23-anos-despues-melissa-nunez-busca-traer-la-corona-de-miss-universo-a-republica-dominicana/",
+     "url": "http://www.bing.com/th?id=ONUT.mDbBPHWrHbdUpylIAlArkQ&pid=News",
+     "page": "https://primicia.com.ve/placeres/traje-tipico-venezuela-15-votados-miss-universo-2026/",
      "via": "Bing (miniatura)",
-     "credit": "N Digital"
+     "credit": "Diario Primicia"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1458,7 +1494,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 35
+   "score": 39
   },
   {
    "key": "p:international emmy awards",
@@ -1777,7 +1813,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T13:34:23.963362+00:00",
-   "start": "2026-11-23T04:02:00+00:00",
+   "start": "2026-11-23T05:58:00+00:00",
    "last_activity": "2026-11-23T23:51:18+00:00",
    "item_ids": [
     "0591b073593bba",
@@ -1804,8 +1840,7 @@
     "c4715d0c0b1d69",
     "6518b92aa5234c",
     "ec9fc97d023ced",
-    "3e751bdc913761",
-    "1e5c47f5a4305d"
+    "3e751bdc913761"
    ],
    "sources": [
     "BioBioChile",
@@ -1826,7 +1861,7 @@
     "Teletrece",
     "minuto60"
    ],
-   "n_items": 26,
+   "n_items": 25,
    "n_sources": 17,
    "videos": [],
    "views_total": 0,
@@ -2074,7 +2109,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 60
+   "score": 59
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -2630,7 +2665,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:38:23.782201+00:00",
+     "fetched": "2026-11-24T13:42:23.665980+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     },
@@ -2682,7 +2717,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T04:01:24+00:00",
+   "start": "2026-11-23T04:03:37+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2765,7 +2800,6 @@
     "c878a195587422",
     "e51bc8f78e1c8d",
     "d123fb097f60da",
-    "397300076bdbdc",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2775,7 +2809,6 @@
     "72ec16076ef646",
     "a2cc8cd6ed3baf",
     "587b90f7de6d33",
-    "48112429ee19db",
     "506033d3e41d61",
     "b6d65ebaee4bd7",
     "8cf0fc6990ed16",
@@ -2823,7 +2856,7 @@
     "Listín Diario",
     "MSN"
    ],
-   "n_items": 95,
+   "n_items": 93,
    "n_sources": 63,
    "videos": [
     {
@@ -3297,7 +3330,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:38:23.782201+00:00",
+     "fetched": "2026-11-24T13:42:23.665980+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     },
@@ -3355,7 +3388,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 224
+   "score": 222
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -3974,7 +4007,7 @@
    "extra_at": "2026-11-24T12:14:23.263192+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T12:38:23.782201+00:00",
+     "fetched": "2026-11-24T13:42:23.665980+00:00",
      "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
      "platform": "Instagram"
     }
@@ -5598,7 +5631,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5678,8 +5711,7 @@
     "fb4ea217447104",
     "c878a195587422",
     "e51bc8f78e1c8d",
-    "d123fb097f60da",
-    "397300076bdbdc"
+    "d123fb097f60da"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5735,7 +5767,7 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 78,
+   "n_items": 77,
    "n_sources": 52,
    "videos": [],
    "views_total": 0,
@@ -5768,7 +5800,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 185
+   "score": 184
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5779,10 +5811,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "3b6e207e8e6d55",
     "c05d52b376a2d1",
     "90748c0f6d8875",
     "5c41de094d619f",
@@ -5832,6 +5865,7 @@
     "Correo del Caroní",
     "Diario Correo",
     "Diario Las Américas",
+    "Diario Primicia",
     "Fashion Times UK",
     "HOLA",
     "Insider",
@@ -5850,8 +5884,8 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 35,
-   "n_sources": 29,
+   "n_items": 36,
+   "n_sources": 30,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5883,7 +5917,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 96
+   "score": 99
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5894,7 +5928,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5985,7 +6019,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6216,7 +6250,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6447,7 +6481,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:34:23.963362+00:00",
+   "first_seen": "2026-11-24T13:42:23.665980+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
