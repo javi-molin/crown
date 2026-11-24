@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:58:33.875073+00:00",
+ "updated": "2026-11-24T18:06:34.029537+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,14 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "462eaead304669",
+    "7c033b92bcaa70",
+    "9d0d71d8fe1614",
+    "86b69dd12569af",
     "aea859aabddddf",
     "a15f05cd8bb98b",
     "9a6d3a091d139d",
@@ -268,11 +272,7 @@
     "405397a0482bb1",
     "ffb235122eb697",
     "0ffe2cbb0a9f3c",
-    "d1aa333db93d66",
-    "350c18af9fa20e",
-    "eea5343c7cb8ce",
-    "9e48a4f797a7ea",
-    "f141ceb0831717"
+    "d1aa333db93d66"
    ],
    "sources": [
     "24 horas",
@@ -353,6 +353,7 @@
     "USA TODAY",
     "USA Today",
     "azcentral.com and The Arizona Republic",
+    "eldia.com.do",
     "https://www.elmonitoredomex.com/",
     "m360.cl",
     "retodiario",
@@ -363,8 +364,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 140,
-   "n_sources": 87,
+   "n_items": 144,
+   "n_sources": 88,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -380,7 +381,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 317
+   "score": 323
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-24",
@@ -1040,9 +1041,25 @@
    ],
    "n_items": 47,
    "n_sources": 35,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "EAP7hbK-uzg",
+     "title": "Miss Universe 2026 - Top 30 Máximas en Votacones Oficiales",
+     "channel": "MissoLatino",
+     "views": 14946,
+     "ago": "Transmitido hace 6 días",
+     "official": false
+    }
+   ],
+   "views_total": 14946,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/EAP7hbK-uzg/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/EAP7hbK-uzg/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=EAP7hbK-uzg",
+     "via": "YouTube (miniatura)",
+     "credit": "MissoLatino"
+    },
     {
      "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez-.jpg",
      "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
@@ -1343,12 +1360,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgF6qFrhEyU",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     }
@@ -1694,12 +1711,12 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgDXsLdEStB",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgHFKeSlpee",
      "platform": "Instagram"
     },
@@ -1765,9 +1782,55 @@
    ],
    "n_items": 6,
    "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "bOQPhh12lBo",
+     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
+     "channel": "Hi Along",
+     "views": 24801,
+     "ago": "hace 9 días",
+     "official": false
+    },
+    {
+     "vid": "eNW-a9sHZso",
+     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
+     "channel": "Hi Along",
+     "views": 6668,
+     "ago": "hace 6 días",
+     "official": false
+    },
+    {
+     "vid": "sBc2cmDSTWE",
+     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
+     "channel": "SNOW SIN FILTRO",
+     "views": 3853,
+     "ago": "hace 8 días",
+     "official": false
+    }
+   ],
+   "views_total": 35322,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
+     "via": "YouTube (miniatura)",
+     "credit": "Hi Along"
+    },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
      "page": "https://www.critica.com.pa/show/panama-brilla-en-japon-rumbo-la-final-del-miss-international-2026-520420",
@@ -2093,7 +2156,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 16
   },
   {
    "key": "p:crown confidential",
@@ -2679,13 +2742,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 401692,
+     "views": 403518,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 401692,
+   "views_total": 403518,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2926,7 +2989,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     }
@@ -3124,6 +3187,104 @@
      "credit": "Revista Caras México"
     },
     {
+     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
+     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
+     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
+     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
+     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
      "via": "Wikimedia Commons",
@@ -3170,6 +3331,104 @@
    "image_query": "Miss Universe 2026 charity visit",
    "extra_images": [
     {
+     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
+     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
+     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
+     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
+     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
+     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
+     "via": "Bing Imágenes",
+     "credit": "kidvskat.fandom.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
+    },
+    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
      "via": "Wikimedia Commons",
@@ -3212,7 +3471,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-24T15:02:24.156265+00:00",
+   "extra_at": "2026-11-24T18:06:34.029537+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3693,17 +3952,17 @@
    "extra_at": "2026-11-24T17:02:33.760371+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgD_xMljUCc",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgECLicjQOA",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgELpxHje4O",
      "platform": "Instagram"
     },
@@ -3713,22 +3972,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgEMwqLjRYi",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgEQq96DdQ4",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/p/DgEkkGrEUpM",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgEFmBxvajg",
      "platform": "Instagram"
     }
@@ -4143,7 +4402,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgEFmBxvajg",
      "platform": "Instagram"
     },
@@ -4153,7 +4412,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
@@ -4536,20 +4795,20 @@
      "credit": "Ayuntamiento de Los Cabos﻿"
     }
    ],
-   "extra_at": "2026-11-24T15:02:24.156265+00:00",
+   "extra_at": "2026-11-24T18:06:34.029537+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgF6qFrhEyU",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:02:33.760371+00:00",
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
@@ -4564,156 +4823,6 @@
    "score": 73
   },
   {
-   "key": "t:mi:Preliminar:2026-11-21",
-   "id": "t-mi-preliminar-2026-11-21-6e035",
-   "name": "Preliminar · 21–23 nov",
-   "contest": "mi",
-   "kind": "detectado",
-   "labels": [
-    "Preliminar"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T08:37:35.181492+00:00",
-   "start": "2026-11-23T10:59:00+00:00",
-   "last_activity": "2026-11-23T19:07:41+00:00",
-   "item_ids": [
-    "79a88b0b3e228d",
-    "e2f14a28cf3797",
-    "f32466ae9eafcc",
-    "5641776e4019db",
-    "07baf1de3bb3bc",
-    "45c46996930f7e"
-   ],
-   "sources": [
-    "DZRH",
-    "Instagram",
-    "Meridiano.net",
-    "PhilNews"
-   ],
-   "n_items": 6,
-   "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795460263327.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/valeria-di-martino-impacta-en-la-competencia-preliminar-del-miss-international-2026112314590",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795460263327.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/valeria-di-martino-impacta-en-la-competencia-preliminar-del-miss-international-2026112314590",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.UondPTVdYIyoDOfMoPBTLQ&pid=News",
-     "page": "https://meridiano.net/farandula/valeria-di-martino-impacta-en-la-competencia-preliminar-del-miss-international-2026112314590",
-     "via": "Bing (miniatura)",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss International 2026 preliminary competition",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    }
-   ],
-   "extra_at": "2026-11-24T15:18:34.160616+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 14
-  },
-  {
    "key": "t:me:Trajes típicos:2026-11-21",
    "id": "t-me-trajes-tipicos-2026-11-21-7d207",
    "name": "Trajes típicos · 21–23 nov",
@@ -4726,8 +4835,9 @@
    "refs": [],
    "first_seen": "2026-11-23T22:30:06.132272+00:00",
    "start": "2026-11-23T13:52:00+00:00",
-   "last_activity": "2026-11-23T13:52:00+00:00",
+   "last_activity": "2026-11-23T21:02:00+00:00",
    "item_ids": [
+    "fa4d930a1a7f6c",
     "18bf36ce1a9307",
     "7ee661eaccc797",
     "c65ebe8be3071a",
@@ -4737,13 +4847,80 @@
     "AOL",
     "Business Insider Africa",
     "Insider",
+    "UA.NEWS",
     "Yahoo"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/photo_2026-11-24_16-47-10.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/photo_2026-11-24_16-48-58.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D1%81%D1%88%D0%B0.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%96%D0%B2%20%D0%A2%D0%B5%D1%80%D0%BA%D1%81%20%D1%96%20%D0%9A%D0%B0%D0%B9%D0%BA%D0%BE%D1%81.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BF%D1%83%D0%B5%D1%80%D1%82%D0%BE%20%D1%80%D1%96%D0%BA%D0%BE.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D1%81%D1%82%D0%B0%D0%BD.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D1%96%D1%8F.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BA%D0%B0%D0%B9%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D1%96%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B8.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BA%D0%BE%D1%81%D1%82%D0%B0%20%D1%80%D1%96%D0%BA%D0%B0.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "https://glavcom.ua/img/forall/u/406/74/%D0%BA%D1%83%D0%B1%D0%B0.jpg",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "UA.NEWS",
+     "credit": "UA.NEWS"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.AIsIJBdnt6eR6sympMIYeg&pid=News",
+     "page": "https://ua.news/en/culture/116-krayin-i-desiatki-nezvichainikh-obraziv-chim-zdivuvali-na-mis-vsesvit-2026",
+     "via": "Bing (miniatura)",
+     "credit": "UA.NEWS"
+    },
     {
      "url": "https://i.insider.com/6b0457900b69407d788a58ec?width=1200&format=jpeg",
      "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
@@ -4754,12 +4931,6 @@
      "url": "https://i.insider.com/6b0457c40b69407d788a58f3?width=700",
      "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
      "via": "Insider",
-     "credit": "Insider"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.kn6pfXQBVxcOWMMLonqGdQ&pid=News",
-     "page": "https://www.businessinsider.com/miss-universe-wildest-national-costumes-2026-11",
-     "via": "Bing (miniatura)",
      "credit": "Insider"
     },
     {
@@ -5059,7 +5230,138 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 15
+  },
+  {
+   "key": "t:mi:Preliminar:2026-11-21",
+   "id": "t-mi-preliminar-2026-11-21-6e035",
+   "name": "Preliminar · 21–23 nov",
+   "contest": "mi",
+   "kind": "detectado",
+   "labels": [
+    "Preliminar"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-23T08:37:35.181492+00:00",
+   "start": "2026-11-23T11:42:49+00:00",
+   "last_activity": "2026-11-23T19:07:41+00:00",
+   "item_ids": [
+    "79a88b0b3e228d",
+    "e2f14a28cf3797",
+    "f32466ae9eafcc",
+    "07baf1de3bb3bc",
+    "45c46996930f7e"
+   ],
+   "sources": [
+    "DZRH",
+    "Instagram",
+    "Meridiano.net",
+    "PhilNews"
+   ],
+   "n_items": 5,
+   "n_sources": 4,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss International 2026 preliminary competition",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf/page1-960px-American_Legislative_Exchange_Council_%281_of_2%29_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:American_Legislative_Exchange_Council_(1_of_2)_-_DPLA_-_cda7955c64d88e7b622b28bc542eca43.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Public Liaison. 1/20/1981-1/20/1989"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf/page1-960px-Cicconi_Memos_%E2%80%93_July_1983-December_1983_%282%29_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Cicconi_Memos_%E2%80%93_July_1983-December_1983_(2)_-_DPLA_-_408410a75a1e9bba27185cb4457cb65d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of the Chief of Staff. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf/page1-500px-Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Invitations_Declined_Nov.-Dec._1971_-_DPLA_-_250a6ee1782a79e87bd09d1653155610.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). White House Central Files. (01/20/1969 - 08/09/19"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf/page1-960px-JGR-Wick%2C_Charles_%282_of_4%29_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:JGR-Wick,_Charles_(2_of_4)_-_DPLA_-_c0d7502a9662d576ab7459cbf967f887.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf/page1-960px-Justice_%28Department%29_%282_of_2%29_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Justice_(Department)_(2_of_2)_-_DPLA_-_41d2872e3d817fe6ebb96d55c6e05709.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1969-1974 : Nixon). Special Files Unit. 9/1972-8/9/1974"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf/page1-960px-Law_of_the_Sea_%2806-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Law_of_the_Sea_(06-24-1982-06-28-1982_-_DPLA_-_a1a5d8b8d9006600ea0b74c8bc810c00.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    }
+   ],
+   "extra_at": "2026-11-24T15:18:34.160616+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 13
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -5307,7 +5609,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5449,7 +5751,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5552,7 +5854,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5601,7 +5903,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5614,7 +5916,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T17:58:33.875073+00:00",
+   "extra_at": "2026-11-24T18:06:34.029537+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5634,7 +5936,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5647,7 +5949,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-24T17:58:33.875073+00:00",
+   "extra_at": "2026-11-24T18:06:34.029537+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5667,7 +5969,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T17:58:33.875073+00:00",
+   "first_seen": "2026-11-24T18:06:34.029537+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
