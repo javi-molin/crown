@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T18:06:34.029537+00:00",
+ "updated": "2026-11-24T18:14:34.149354+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "2864dd9c86d9f2",
+    "7019436ad484c1",
     "462eaead304669",
     "7c033b92bcaa70",
     "9d0d71d8fe1614",
@@ -184,6 +186,7 @@
     "c3d15dc6cdb342",
     "86c58462693ee0",
     "6cc3eb5a4f9918",
+    "f7145e591bd640",
     "c2fe224b1b75c8",
     "b1fb14b7115c2d",
     "163b76447d3cee",
@@ -269,10 +272,7 @@
     "c1d286dd85dd1a",
     "3b08a232968cd9",
     "4b9e2beb246dbb",
-    "405397a0482bb1",
-    "ffb235122eb697",
-    "0ffe2cbb0a9f3c",
-    "d1aa333db93d66"
+    "405397a0482bb1"
    ],
    "sources": [
     "24 horas",
@@ -283,6 +283,7 @@
     "ADN Radio",
     "CRÍTICA",
     "Caretas",
+    "Chilevisión",
     "Clarin.com",
     "Clx Icons",
     "Cooperativa",
@@ -354,6 +355,7 @@
     "USA Today",
     "azcentral.com and The Arizona Republic",
     "eldia.com.do",
+    "estapasando.cl",
     "https://www.elmonitoredomex.com/",
     "m360.cl",
     "retodiario",
@@ -364,8 +366,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 144,
-   "n_sources": 88,
+   "n_items": 147,
+   "n_sources": 90,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -381,7 +383,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 323
+   "score": 330
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-24",
@@ -903,7 +905,7 @@
    "extra_at": "2026-11-24T16:06:33.516327+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
@@ -1041,25 +1043,9 @@
    ],
    "n_items": 47,
    "n_sources": 35,
-   "videos": [
-    {
-     "vid": "EAP7hbK-uzg",
-     "title": "Miss Universe 2026 - Top 30 Máximas en Votacones Oficiales",
-     "channel": "MissoLatino",
-     "views": 14946,
-     "ago": "Transmitido hace 6 días",
-     "official": false
-    }
-   ],
-   "views_total": 14946,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/EAP7hbK-uzg/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/EAP7hbK-uzg/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=EAP7hbK-uzg",
-     "via": "YouTube (miniatura)",
-     "credit": "MissoLatino"
-    },
     {
      "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez-.jpg",
      "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
@@ -1350,12 +1336,12 @@
    "extra_at": "2026-11-24T16:54:33.884331+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1792,14 +1778,6 @@
      "official": false
     },
     {
-     "vid": "eNW-a9sHZso",
-     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
-     "channel": "Hi Along",
-     "views": 6668,
-     "ago": "hace 6 días",
-     "official": false
-    },
-    {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
@@ -1808,7 +1786,7 @@
      "official": false
     }
    ],
-   "views_total": 35322,
+   "views_total": 28654,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -1821,13 +1799,6 @@
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
     },
@@ -2199,7 +2170,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 28223,
+     "views": 28986,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2208,13 +2179,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 21051,
+     "views": 21798,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 49274,
+   "views_total": 50784,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2742,13 +2713,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 403518,
+     "views": 408979,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 403518,
+   "views_total": 408979,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3699,12 +3670,12 @@
    "extra_at": "2026-11-24T16:38:33.366591+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DewuFMYMoLR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/reel/Df6m8TGu8hk",
      "platform": "Instagram"
     }
@@ -3967,7 +3938,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -4013,7 +3984,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T11:13:41+00:00",
+   "start": "2026-11-23T11:22:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -4064,8 +4035,6 @@
     "4c89a4853ebce7",
     "414536a7da32f5",
     "bc6a53622db3fa",
-    "cf2731fbfe95c5",
-    "6a2afbd99d5336",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -4088,13 +4057,11 @@
     "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
-    "Diario El País",
     "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Impulso",
     "El Informador",
-    "El Mostrador",
     "El Nuevo Día",
     "El País",
     "El Siglo",
@@ -4116,10 +4083,12 @@
     "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
-    "Panamá América"
+    "Panamá América",
+    "Publimetro",
+    "RPP"
    ],
-   "n_items": 59,
-   "n_sources": 50,
+   "n_items": 57,
+   "n_sources": 48,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4392,7 +4361,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -4430,7 +4399,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 162
+   "score": 156
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -5164,62 +5133,62 @@
    "extra_at": "2026-11-24T16:54:33.884331+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DfaGKslj-s_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgAyKylIOqh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgB9v3dkUBd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBEY_XOJUE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBGqowIe2h",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBbx2_RLtF",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBh-mNADAr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBjOzTjZ53",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBklBeJvnW",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T17:10:33.913129+00:00",
+     "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
      "platform": "Instagram"
     }
@@ -5609,7 +5578,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5660,9 +5629,7 @@
     "523498a4640634",
     "7088487e42ef05",
     "4c89a4853ebce7",
-    "414536a7da32f5",
-    "cf2731fbfe95c5",
-    "6a2afbd99d5336"
+    "414536a7da32f5"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5673,12 +5640,10 @@
     "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
-    "Diario El País",
     "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Impulso",
-    "El Mostrador",
     "El Nuevo Día",
     "El País",
     "El Siglo",
@@ -5707,8 +5672,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 50,
-   "n_sources": 41,
+   "n_items": 48,
+   "n_sources": 39,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5740,7 +5705,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 135
+   "score": 129
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5751,7 +5716,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5854,7 +5819,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5903,7 +5868,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5912,11 +5877,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JCV452Q22RIAJNWV7YRM2WZOSE.jpg",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-ALd_UXa_9dQQt18kBF7xgHaFN&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/cX3X0p5zXSM/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=cX3X0p5zXSM",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ny70ebRCmnLS30NcCbbfKwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RXR6RLEDNNKTBEOPYUQHH67AEE.jpg",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP._MTwsLCpPgyTcjKHqK69_wHaFN&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/X6UJAILY2BKQRHKCGIOEH2RO7U.jpg?auth=5c6aa4a81595ce8b4fe9fda2f1c5642e6fc3d4c96c64f9775cd96c4097061d19&width=1080&quality=80",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lPwDpwA4mR7zF5pSxzUloQHaE_&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/ezNnkb6bemg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=ezNnkb6bemg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.YFW5_UsWDKREOq_lwkn0twHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/n06StfdFpcQ/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=n06StfdFpcQ",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MSImvPIxbaFpx1gALr37LwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.fcbarcelona.com/photo-resources/2024/01/14/31206853-63be-49ff-93db-af8406289dd6/_GP23188_1.jpg?width=1200&height=750",
+     "page": "https://www.fcbarcelona.cat/ca/futbol/primer-equip/noticies/3857625/reial-madrid-fc-barcelona-sescapa-la-supercopa-4-1",
+     "via": "Bing Imágenes",
+     "credit": "fcbarcelona.cat",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0CzGWLG-TGp2rBT6iSkv2gHaEo&pid=15.1"
+    },
+    {
+     "url": "https://cdn-media.theathletic.com/2a5FQNkUAi22_4VuWRMyZ1X3s_1440x960.jpg",
+     "page": "https://www.nytimes.com/athletic/live-blogs/real-madrid-barcelona-live-score-updates-result-el-clasico/2a5FQNkUAi22/",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.dbh2wjb991_Rf0dR68VG9QHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/LvK9uQjaJfg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=LvK9uQjaJfg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RJKqRTdbVq3UISpMevvOHgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/e3bswcippP0/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=e3bswcippP0",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HNVMFlXomoebWDowvOpYhAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/PzPa__6WV_hmKwdunRBUICM5OOc=/arc-photo-diarioas/eu-central-1-prod/public/HIVHROTPTANRMVLYKQT36BGYW4.jpg",
+     "page": "https://as.com/futbol/copa_del_rey/real-madrid-barcelona-en-directo-ultima-hora-del-clasico-de-la-supercopa-de-espana-en-vivo-n/",
+     "via": "Bing Imágenes",
+     "credit": "as.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.f0mKw6t1Ry0HD3OQg0KhpwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/14/17052577896440.jpg",
+     "page": "https://www.marca.com/en/soccer/spanish-supercopa/r-madrid-barcelona/2024/01/14/01_0113_20240114_186_178-live.html",
+     "via": "Bing Imágenes",
+     "credit": "marca.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.p2W2BthxiCWVzNPe8LTy9gHaES&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/2d2YI12E9-U/maxresdefault.jpg",
+     "page": "https://www.elonce.com/videos/929736-real-madrid-4-1-barcelona-resumen-supercopa.htm",
+     "via": "Bing Imágenes",
+     "credit": "elonce.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.EPHRrHB-KHXwYZknMqkGjwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/0BCC/production/_132302030_gettyimages-1925907989.jpg",
+     "page": "https://www.bbc.com/sport/football/67975415",
+     "via": "Bing Imágenes",
+     "credit": "bbc.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iNaHjrIf-HI5eu_3talB7AHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [],
-   "extra_at": "2026-11-24T18:06:34.029537+00:00",
+   "extra_images": [
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/JCV452Q22RIAJNWV7YRM2WZOSE.jpg",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-ALd_UXa_9dQQt18kBF7xgHaFN&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/cX3X0p5zXSM/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=cX3X0p5zXSM",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ny70ebRCmnLS30NcCbbfKwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RXR6RLEDNNKTBEOPYUQHH67AEE.jpg",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP._MTwsLCpPgyTcjKHqK69_wHaFN&pid=15.1"
+    },
+    {
+     "url": "https://www.reuters.com/resizer/v2/X6UJAILY2BKQRHKCGIOEH2RO7U.jpg?auth=5c6aa4a81595ce8b4fe9fda2f1c5642e6fc3d4c96c64f9775cd96c4097061d19&width=1080&quality=80",
+     "page": "https://www.reuters.com/sports/soccer/real-madrid-thrash-old-rivals-barcelona-4-1-win-super-cup-2024-01-14/",
+     "via": "Bing Imágenes",
+     "credit": "reuters.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lPwDpwA4mR7zF5pSxzUloQHaE_&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/ezNnkb6bemg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=ezNnkb6bemg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.YFW5_UsWDKREOq_lwkn0twHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/n06StfdFpcQ/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=n06StfdFpcQ",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MSImvPIxbaFpx1gALr37LwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.fcbarcelona.com/photo-resources/2024/01/14/31206853-63be-49ff-93db-af8406289dd6/_GP23188_1.jpg?width=1200&height=750",
+     "page": "https://www.fcbarcelona.cat/ca/futbol/primer-equip/noticies/3857625/reial-madrid-fc-barcelona-sescapa-la-supercopa-4-1",
+     "via": "Bing Imágenes",
+     "credit": "fcbarcelona.cat",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0CzGWLG-TGp2rBT6iSkv2gHaEo&pid=15.1"
+    },
+    {
+     "url": "https://cdn-media.theathletic.com/2a5FQNkUAi22_4VuWRMyZ1X3s_1440x960.jpg",
+     "page": "https://www.nytimes.com/athletic/live-blogs/real-madrid-barcelona-live-score-updates-result-el-clasico/2a5FQNkUAi22/",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.dbh2wjb991_Rf0dR68VG9QHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/LvK9uQjaJfg/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=LvK9uQjaJfg",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.RJKqRTdbVq3UISpMevvOHgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/e3bswcippP0/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=e3bswcippP0",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.HNVMFlXomoebWDowvOpYhAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/PzPa__6WV_hmKwdunRBUICM5OOc=/arc-photo-diarioas/eu-central-1-prod/public/HIVHROTPTANRMVLYKQT36BGYW4.jpg",
+     "page": "https://as.com/futbol/copa_del_rey/real-madrid-barcelona-en-directo-ultima-hora-del-clasico-de-la-supercopa-de-espana-en-vivo-n/",
+     "via": "Bing Imágenes",
+     "credit": "as.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.f0mKw6t1Ry0HD3OQg0KhpwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2024/01/14/17052577896440.jpg",
+     "page": "https://www.marca.com/en/soccer/spanish-supercopa/r-madrid-barcelona/2024/01/14/01_0113_20240114_186_178-live.html",
+     "via": "Bing Imágenes",
+     "credit": "marca.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.p2W2BthxiCWVzNPe8LTy9gHaES&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/2d2YI12E9-U/maxresdefault.jpg",
+     "page": "https://www.elonce.com/videos/929736-real-madrid-4-1-barcelona-resumen-supercopa.htm",
+     "via": "Bing Imágenes",
+     "credit": "elonce.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.EPHRrHB-KHXwYZknMqkGjwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://ichef.bbci.co.uk/news/1024/branded_sport/0BCC/production/_132302030_gettyimages-1925907989.jpg",
+     "page": "https://www.bbc.com/sport/football/67975415",
+     "via": "Bing Imágenes",
+     "credit": "bbc.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.iNaHjrIf-HI5eu_3talB7AHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T18:14:34.149354+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5936,7 +6099,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5949,7 +6112,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-24T18:06:34.029537+00:00",
+   "extra_at": "2026-11-24T18:14:34.149354+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5969,7 +6132,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:06:34.029537+00:00",
+   "first_seen": "2026-11-24T18:14:34.149354+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
