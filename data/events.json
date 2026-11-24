@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:58:33.717244+00:00",
+ "updated": "2026-11-24T16:06:33.516327+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "f582a7d19852bb",
+    "2e820b89c19287",
+    "0ba250a53a0fd1",
     "86c58462693ee0",
     "c2fe224b1b75c8",
     "b1fb14b7115c2d",
@@ -187,10 +190,13 @@
     "6324bfe05ac0f2",
     "ffbff0a0081c92",
     "947424f16ba7ea",
+    "469d01ef35d3a6",
+    "fb24419f2eb107",
     "4dd647c2831da2",
     "1bbb195750a038",
     "0e49ac111aed94",
     "9cceac79ac808b",
+    "da8320e70c3a17",
     "5da124c3d706f9",
     "7aadc715b66fff",
     "8fae186864e97e",
@@ -301,12 +307,17 @@
     "Metro.Style",
     "Milenio",
     "Milenio on MSN",
+    "Minuto60",
     "N Digital",
     "NotiCel",
     "Noticia al Dia",
     "Notifalcon",
     "Nueva Rioja",
+    "Periódico Zócalo",
     "Preview.ph",
+    "Publimetro",
+    "Reporte Indigo",
+    "Reporte Índigo",
     "Sabes.cl",
     "Todo Jujuy",
     "TodoJujuy.com",
@@ -321,8 +332,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 100,
-   "n_sources": 65,
+   "n_items": 106,
+   "n_sources": 70,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -338,7 +349,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 233
+   "score": 249
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -353,8 +364,9 @@
    "refs": [],
    "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-24T04:16:00+00:00",
-   "last_activity": "2026-11-24T14:32:57+00:00",
+   "last_activity": "2026-11-24T15:59:33+00:00",
    "item_ids": [
+    "2e820b89c19287",
     "89ee069c77bdd6",
     "4f206d3fcf54d1",
     "642e49b5145742",
@@ -382,10 +394,11 @@
     "LA NACION",
     "Latin Times",
     "Milenio on MSN",
+    "Minuto60",
     "Últimas Noticias"
    ],
-   "n_items": 14,
-   "n_sources": 12,
+   "n_items": 15,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -763,7 +776,7 @@
     "comments": 26,
     "shares": 544
    },
-   "score": 38
+   "score": 41
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -785,6 +798,7 @@
     "e9c20abdfee373",
     "c8fe7398d07e4c",
     "74aba6dcb3a5b9",
+    "f0d383fed2395e",
     "6f2e68312f1476",
     "6a5fb4fcaa6029",
     "fc312ea5b99564",
@@ -804,14 +818,75 @@
     "Interaksyon",
     "LA NACION",
     "La Nación",
+    "Página 7",
     "Reporte Indigo",
     "www.elmartutino.cl"
    ],
-   "n_items": 13,
-   "n_sources": 11,
+   "n_items": 14,
+   "n_sources": 12,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez-.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez--1024x623.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/dominga-lopez-principales-rivales-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/manuel-reunion-de-superados-300x183.png",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/clase-kayak-pangal-alanna-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/accidente-chiloe-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/PEPE-ROJAS-MATRIMONIO-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/transmision-final-miss-universo-2026-programacion-mega-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/fatal-accidente-chiloe-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/patricia-lopez-alvaro-henriquez-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
     {
      "url": "https://www.lanacion.com.ar/resizer/v2/mas-de-20-candidatas-latinas-compiten-este-24-de-ZZ2E5AWTFFA2XAJ5HOEA5FXKHI.jpg?auth=d67b04efc1c8572ad9c86595599f2facc51796892bbf8fe5b08d6d35906879c6&width=1200&height=800&quality=70&smart=true",
      "page": "https://www.lanacion.com.ar/estados-unidos/famosos/las-candidatas-latinas-que-podrian-ganar-el-miss-universo-2026-y-como-votar-en-vivo-por-la-favorita-nid24112026/",
@@ -903,13 +978,6 @@
      "credit": "El Comercio"
     },
     {
-     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
-     "page": "https://jetourchile.cl/w/t2-v1",
-     "via": "Bing Imágenes",
-     "credit": "jetourchile.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
      "via": "Wikimedia Commons",
@@ -953,6 +1021,7 @@
     }
    ],
    "social_urls": [
+    "https://www.instagram.com/p/DgFhYugkQt8",
     "https://www.instagram.com/p/DgHB96JBfgN",
     "https://www.youtube.com/watch?v=1F6GkeEeT6M",
     "https://www.youtube.com/watch?v=JWlARKoxzXw",
@@ -960,13 +1029,6 @@
    ],
    "image_query": "Miss Universe 2026 vote",
    "extra_images": [
-    {
-     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
-     "page": "https://jetourchile.cl/w/t2-v1",
-     "via": "Bing Imágenes",
-     "credit": "jetourchile.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
@@ -1010,8 +1072,13 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-24T13:02:23.821318+00:00",
+   "extra_at": "2026-11-24T16:06:33.516327+00:00",
    "social": [
+    {
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
+     "url": "https://www.instagram.com/p/DgFhYugkQt8",
+     "platform": "Instagram"
+    },
     {
      "fetched": "2026-11-24T15:10:33.898767+00:00",
      "url": "https://www.instagram.com/p/DgHB96JBfgN",
@@ -1042,7 +1109,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 35
+   "score": 38
   },
   {
    "key": "seed:mi-natcos",
@@ -1093,12 +1160,12 @@
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3836,
+     "views": 3855,
      "ago": "hace 8 días",
      "official": false
     }
    ],
-   "views_total": 35169,
+   "views_total": 35188,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -1268,6 +1335,7 @@
    "last_activity": "2026-11-24T13:25:21+00:00",
    "item_ids": [
     "e9c20abdfee373",
+    "f0d383fed2395e",
     "1686b74efb02f2",
     "0591b073593bba",
     "8cf0fc6990ed16",
@@ -1320,13 +1388,10 @@
     "703909d5b23b18",
     "8f84aebb548a6e",
     "32ecd1243cc833",
-    "80c60cbb148192",
-    "ffaabc97ab634e",
-    "d1fa520e3a6c95"
+    "80c60cbb148192"
    ],
    "sources": [
     "2001online",
-    "ABS-CBN",
     "BellaNaija",
     "BioBioChile",
     "Business Insider",
@@ -1357,6 +1422,7 @@
     "Outlook Luxe",
     "Parade on MSN",
     "Publimetro",
+    "Página 7",
     "Reporte Índigo",
     "Telediario México on MSN",
     "Telemundo",
@@ -1365,11 +1431,71 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 56,
+   "n_items": 55,
    "n_sources": 39,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez-.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/restore-Miss-Universo-2026-como-donde-votar-gratis-Dominga-Lopez--1024x623.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/dominga-lopez-principales-rivales-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/manuel-reunion-de-superados-300x183.png",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/clase-kayak-pangal-alanna-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/accidente-chiloe-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/PEPE-ROJAS-MATRIMONIO-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/transmision-final-miss-universo-2026-programacion-mega-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/fatal-accidente-chiloe-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
+    {
+     "url": "https://media.pagina7.cl/2026/11/patricia-lopez-alvaro-henriquez-300x183.jpg",
+     "page": "https://www.pagina7.cl/entretencion/miss-universo-2026-como-y-donde-votar-gratis-por-dominga-lopez-para-que-avance-al-top-30/",
+     "via": "Página 7",
+     "credit": "Página 7"
+    },
     {
      "url": "https://depor.com/resizer/v2/326X7SB6R5E27BXDAGUPIFN6KU.jpg?auth=207ec1831e41c2d240aa46137a330fb46602fad223ec17bf0b97b65e57966c62&width=980&height=528&quality=75&smart=true",
      "page": "https://depor.com/en/us-live/how-to-vote-for-garance-authie-at-miss-universe-2026-heres-how-to-support-miss-france-nnda-nnrt-noticia/",
@@ -1550,69 +1676,10 @@
      "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
      "via": "El Universo",
      "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2SPNQY3H4VHYTHGNV3BKUSKTQU.jpg?auth=3a4b87f50da99b2c3f041eb2dcd147b7887676dafc2aff480cce02c490ee000a&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2D3KKFTKIFFR5JMWW2YGQTEWEY.png?auth=cadddd82c2c13bb71df6f17c6a44dbbe6ea6b19895b912cab5e4a4d796d84a3e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-asi-queda-el-top-15-de-trajes-nacionales-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/cdc4754b8c73a48cb65f49c6882bb24d39110cf43697a0d2b15e00ed3975cd64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F51456e724e3aecfc56c305a36730c009.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
     }
    ],
    "social_urls": [
+    "https://www.instagram.com/p/DgFhYugkQt8",
     "https://www.instagram.com/p/DgGoER2Dcs9",
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah"
@@ -1672,7 +1739,12 @@
    "extra_at": "2026-11-24T13:50:23.357243+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
+     "url": "https://www.instagram.com/p/DgFhYugkQt8",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1693,7 +1765,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 137
+   "score": 136
   },
   {
    "key": "p:crown confidential",
@@ -2501,7 +2573,7 @@
      "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
     }
    ],
-   "extra_at": "2026-11-24T13:02:23.821318+00:00",
+   "extra_at": "2026-11-24T16:06:33.516327+00:00",
    "social": [
     {
      "fetched": "2026-11-24T15:18:34.160616+00:00",
@@ -2756,6 +2828,7 @@
     "4e158d75dfbba2",
     "c8965f39ea070c",
     "28ea3442943f5b",
+    "29fe16d93b9cff",
     "ee5a2ca0675a1d",
     "14fae06fd4d42d",
     "9019d706d27434",
@@ -2788,12 +2861,13 @@
     "Minuto60",
     "Noticias Caracol",
     "Publimetro",
+    "RNZ",
     "Reporte Índigo",
     "Telediario México on MSN",
     "Teletrece"
    ],
-   "n_items": 24,
-   "n_sources": 16,
+   "n_items": 25,
+   "n_sources": 17,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2960,7 +3034,10 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "social_urls": [],
+   "social_urls": [
+    "https://www.instagram.com/p/DewuFMYMoLR",
+    "https://www.instagram.com/reel/Df6m8TGu8hk"
+   ],
    "image_query": "Miss Universe 2026 vote",
    "extra_images": [
     {
@@ -3007,14 +3084,25 @@
     }
    ],
    "extra_at": "2026-11-24T13:34:23.963362+00:00",
-   "social": [],
+   "social": [
+    {
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
+     "url": "https://www.instagram.com/p/DewuFMYMoLR",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
+     "url": "https://www.instagram.com/reel/Df6m8TGu8hk",
+     "platform": "Instagram"
+    }
+   ],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 56
+   "score": 59
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -3515,7 +3603,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -3594,7 +3682,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T07:50:00+00:00",
+   "start": "2026-11-23T08:15:12+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3655,8 +3743,6 @@
     "519384f1110942",
     "20db1c7ab00253",
     "3c4642dfb440a3",
-    "3aa1e1cd952e14",
-    "52189dc701e92c",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -3704,15 +3790,15 @@
     "Instagram",
     "LA PRENSA",
     "La Patria",
-    "La Teja",
     "La Verdad - La Verdad",
     "Listín Diario",
-    "MSN",
     "Meganoticias",
-    "Metro.Style"
+    "Metro.Style",
+    "Mi Diario",
+    "Minuto60"
    ],
-   "n_items": 71,
-   "n_sources": 58,
+   "n_items": 69,
+   "n_sources": 56,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3981,8 +4067,16 @@
     "https://www.youtube.com/watch?v=quLHTBghoEw"
    ],
    "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
-   "extra_images": [],
-   "extra_at": "2026-11-24T15:58:33.717244+00:00",
+   "extra_images": [
+    {
+     "url": "https://www.dibujandoycoloreando.com/api/public/img/drawing-images/papai-noel/desenhos_para_colorir_papai_noel_no_treno_com_rena_2_mvf83pqb474r.webp?w=320&q=50",
+     "page": "https://www.dibujandoycoloreando.com/colecoes/desenhos-de-papai-noel-fofos-para-colorir",
+     "via": "Bing Imágenes",
+     "credit": "dibujandoycoloreando.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.EHe8cf8Lee0n%2bWLPrOzsqg&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T16:06:33.516327+00:00",
    "social": [
     {
      "fetched": "2026-11-24T15:34:33.707544+00:00",
@@ -4025,7 +4119,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -4095,7 +4189,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 190
+   "score": 184
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4109,7 +4203,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T07:50:00+00:00",
+   "start": "2026-11-23T08:03:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4145,13 +4239,10 @@
     "703909d5b23b18",
     "8f84aebb548a6e",
     "32ecd1243cc833",
-    "80c60cbb148192",
-    "ffaabc97ab634e",
-    "d1fa520e3a6c95"
+    "80c60cbb148192"
    ],
    "sources": [
     "2001online",
-    "ABS-CBN",
     "BellaNaija",
     "BioBioChile",
     "Bombay Times",
@@ -4178,8 +4269,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 36,
-   "n_sources": 27,
+   "n_items": 34,
+   "n_sources": 26,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4500,7 +4591,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 93
+   "score": 89
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -5525,62 +5616,62 @@
    "extra_at": "2026-11-24T13:50:23.357243+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DfaGKslj-s_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgAyKylIOqh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgB9v3dkUBd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBEY_XOJUE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBGqowIe2h",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBbx2_RLtF",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBh-mNADAr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBjOzTjZ53",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBklBeJvnW",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:02:24.156265+00:00",
+     "fetched": "2026-11-24T16:06:33.516327+00:00",
      "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
      "platform": "Instagram"
     }
@@ -5657,7 +5748,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5718,8 +5809,7 @@
     "aa5ae68c14f17b",
     "519384f1110942",
     "20db1c7ab00253",
-    "3c4642dfb440a3",
-    "3aa1e1cd952e14"
+    "3c4642dfb440a3"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5749,7 +5839,6 @@
     "Infobae",
     "Instagram",
     "LA PRENSA",
-    "La Teja",
     "La Verdad - La Verdad",
     "Listín Diario",
     "Meganoticias",
@@ -5769,8 +5858,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 59,
-   "n_sources": 46,
+   "n_items": 58,
+   "n_sources": 45,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5802,7 +5891,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 154
+   "score": 151
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5813,7 +5902,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5848,8 +5937,7 @@
     "b7f73d6009c7d1",
     "022674c258f7d9",
     "7696926936d8b3",
-    "72ec16076ef646",
-    "d1fa520e3a6c95"
+    "72ec16076ef646"
    ],
    "sources": [
     "2001online",
@@ -5880,7 +5968,7 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 33,
+   "n_items": 32,
    "n_sources": 27,
    "videos": [],
    "views_total": 0,
@@ -6095,7 +6183,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 90
+   "score": 89
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -6106,7 +6194,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -6155,7 +6243,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6386,7 +6474,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6617,7 +6705,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T15:58:33.717244+00:00",
+   "first_seen": "2026-11-24T16:06:33.516327+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
