@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:46:23.397151+00:00",
+ "updated": "2026-11-24T12:54:24.216768+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,15 +149,17 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "b586e66fe7f290",
     "12d47e3d29cd8d",
     "4f102bd187d493",
     "e18907c86261d5",
     "531d169161f5b5",
     "91536525a60d1e",
+    "533a459e19e5ad",
     "6324bfe05ac0f2",
     "ffbff0a0081c92",
     "947424f16ba7ea",
@@ -167,6 +169,7 @@
     "5b6f3845a242a6",
     "ba8a656978210c",
     "977edca73dc1c8",
+    "3fc32b17d4981d",
     "9b7ac53de994e1",
     "2ee6983fd51208",
     "38932341eac673",
@@ -208,6 +211,7 @@
     "24 horas",
     "Clarin.com",
     "Debate on MSN",
+    "Detroit Free Press",
     "Diario El Mundo",
     "Eje Central",
     "El Comercio Perú",
@@ -233,14 +237,15 @@
     "Sabes.cl",
     "Todo Jujuy",
     "TodoJujuy.com",
+    "USA TODAY",
     "www.elmagallanews.cl",
     "www.elnortero.cl",
     "www.elrancahuaso.cl",
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 50,
-   "n_sources": 33,
+   "n_items": 53,
+   "n_sources": 35,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -256,7 +261,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 119
+   "score": 126
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -276,23 +281,55 @@
     "74aba6dcb3a5b9",
     "fc312ea5b99564",
     "977edca73dc1c8",
+    "718b3598b3ac94",
     "985c16fd5dea2d",
     "d66a000d173db8",
     "5a3464b019fcd5"
    ],
    "sources": [
     "Eje Central",
+    "El Comercio",
     "El Comercio Perú",
     "El Observatodo",
     "Interaksyon",
     "Reporte Indigo",
     "www.elmartutino.cl"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 7,
+   "n_sources": 7,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://elcomercio.pe/resizer/v2/FFWP5J5D4VCQ5EWQGWSOFRDT5U.jpg?auth=57c26e317259ddb74104e86631431d7bea686aa4525e01171c273008b8d3829b&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2FFQYUXFUHRZF25E2GIMQK2REYXA.png?auth=16b87caea30b122c9862675d4d8cd4b90316dc31fb361c2c403584103c1f441a&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/4BUONIVQJVFBZEJHORLMFNPH7Y.jpg?auth=31c86987295f42bb01eea9d8fd9b93bda3fe80d6096f6162d35603448362c84c&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.T7jjjYEimdFhvvS-pn3vHw&pid=News",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "Bing (miniatura)",
+     "credit": "El Comercio"
+    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
@@ -390,7 +427,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 18
+   "score": 21
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -430,7 +467,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T12:46:23.397151+00:00",
+   "extra_at": "2026-11-24T12:54:24.216768+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -458,6 +495,7 @@
     "80850e228412aa",
     "5ae990338c0355",
     "91536525a60d1e",
+    "533a459e19e5ad",
     "f93f65873738a3",
     "6cd329165e23bb",
     "479865ad166d59",
@@ -471,14 +509,14 @@
     "RPP Noticias",
     "YouTube · Miss Universe"
    ],
-   "n_items": 7,
+   "n_items": 8,
    "n_sources": 6,
    "videos": [
     {
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 17167,
+     "views": 17580,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -487,13 +525,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 11300,
+     "views": 11636,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 28467,
+   "views_total": 29216,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -654,7 +692,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 23
+   "score": 24
   },
   {
    "key": "p:one unforgettable night",
@@ -693,13 +731,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 280615,
+     "views": 284289,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 280615,
+   "views_total": 284289,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1321,9 +1359,7 @@
     "08f17075d21b2a",
     "960cf70ff8c0c8",
     "ed1a50e75b8703",
-    "01a6c68fdce28f",
-    "4b0a4d91aa16f1",
-    "40a1b5b181aaa1"
+    "01a6c68fdce28f"
    ],
    "sources": [
     "2001online",
@@ -1337,7 +1373,6 @@
     "Diario El Centro",
     "Diario El Día",
     "Diario Las Américas",
-    "EMOL",
     "El Comercio",
     "El Comercio Perú",
     "El Nortero",
@@ -1347,7 +1382,6 @@
     "En Cancha",
     "Fashion Times UK",
     "HOLA",
-    "Infobae",
     "International Business Times Singapore",
     "Khaleej Times",
     "Listín Diario",
@@ -1365,10 +1399,12 @@
     "Telemundo",
     "Teletrece",
     "The Indian Express",
-    "UnoTV on MSN"
+    "UnoTV on MSN",
+    "Yahoo",
+    "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 63,
-   "n_sources": 43,
+   "n_items": 61,
+   "n_sources": 41,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -1684,7 +1720,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1711,7 +1747,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 152
+   "score": 146
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -2071,7 +2107,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T12:46:23.397151+00:00",
+   "extra_at": "2026-11-24T12:54:24.216768+00:00",
    "social": [
     {
      "fetched": "2026-11-24T12:46:23.397151+00:00",
@@ -2114,7 +2150,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgEJmU_hd3d",
      "platform": "Instagram"
     },
@@ -2134,7 +2170,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -2222,7 +2258,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T02:50:00+00:00",
+   "start": "2026-11-23T02:55:57+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2316,8 +2352,6 @@
     "f5095293f0f5ba",
     "d3791537658210",
     "d9f7ba013c0805",
-    "040bfcba907828",
-    "4b0a4d91aa16f1",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2350,7 +2384,6 @@
     "Clx Icons",
     "Diario El País",
     "Diario Las Américas",
-    "EMOL",
     "El Colombiano",
     "El Colombiano on MSN",
     "El Comercio Perú",
@@ -2375,10 +2408,11 @@
     "Infobae",
     "Instagram",
     "LA PRENSA",
-    "La Patria"
+    "La Patria",
+    "La Teja"
    ],
-   "n_items": 109,
-   "n_sources": 68,
+   "n_items": 107,
+   "n_sources": 67,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -2820,7 +2854,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -2933,7 +2967,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 248
+   "score": 244
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -2947,7 +2981,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T02:47:00+00:00",
+   "start": "2026-11-23T03:17:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -2989,9 +3023,7 @@
     "08f17075d21b2a",
     "960cf70ff8c0c8",
     "ed1a50e75b8703",
-    "01a6c68fdce28f",
-    "4b0a4d91aa16f1",
-    "40a1b5b181aaa1"
+    "01a6c68fdce28f"
    ],
    "sources": [
     "2001online",
@@ -3004,7 +3036,6 @@
     "Clx Icons",
     "Diario Correo",
     "Diario Las Américas",
-    "EMOL",
     "El Informador",
     "El Universo",
     "Fashion Times UK",
@@ -3026,8 +3057,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 42,
-   "n_sources": 31,
+   "n_items": 40,
+   "n_sources": 30,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3365,7 +3396,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 107
+   "score": 103
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -4208,7 +4239,7 @@
    "extra_at": "2026-11-24T12:06:23.588320+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgEJmU_hd3d",
      "platform": "Instagram"
     },
@@ -4836,62 +4867,62 @@
    "extra_at": "2026-11-24T10:46:23.717754+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DfaGKslj-s_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgAyKylIOqh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgB9v3dkUBd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBEY_XOJUE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBGqowIe2h",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBbx2_RLtF",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBh-mNADAr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBjOzTjZ53",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBklBeJvnW",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
      "platform": "Instagram"
     }
@@ -5118,27 +5149,27 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/reel/DgBb6WUTzd1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/reel/DgBeBhDxcwM",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/reel/DgBj6flR-7K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/reel/DgBxrv9O_YR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:50:23.806431+00:00",
+     "fetched": "2026-11-24T12:54:24.216768+00:00",
      "url": "https://www.instagram.com/reel/DgD2pewgMAa",
      "platform": "Instagram"
     },
@@ -5220,12 +5251,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
     "5ae990338c0355",
     "91536525a60d1e",
+    "533a459e19e5ad",
     "f93f65873738a3",
     "80850e228412aa",
     "6cd329165e23bb",
@@ -5306,9 +5338,7 @@
     "a1a706ebcedccb",
     "f5095293f0f5ba",
     "d3791537658210",
-    "d9f7ba013c0805",
-    "040bfcba907828",
-    "4b0a4d91aa16f1"
+    "d9f7ba013c0805"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5322,7 +5352,6 @@
     "Clx Icons",
     "Diario El País",
     "Diario Las Américas",
-    "EMOL",
     "El Comercio Perú",
     "El Diario",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
@@ -5365,8 +5394,8 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 85,
-   "n_sources": 53,
+   "n_items": 84,
+   "n_sources": 52,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5398,7 +5427,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 194
+   "score": 191
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5409,7 +5438,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5448,8 +5477,7 @@
     "77347631669ee4",
     "5729ef89ff2613",
     "08f17075d21b2a",
-    "960cf70ff8c0c8",
-    "40a1b5b181aaa1"
+    "960cf70ff8c0c8"
    ],
    "sources": [
     "2001online",
@@ -5466,7 +5494,6 @@
     "Diario Las Américas",
     "Fashion Times UK",
     "HOLA",
-    "Infobae",
     "Insider",
     "International Business Times UK",
     "Khaleej Times",
@@ -5483,8 +5510,8 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 37,
-   "n_sources": 30,
+   "n_items": 36,
+   "n_sources": 29,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5516,7 +5543,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 100
+   "score": 97
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5527,7 +5554,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5618,7 +5645,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5849,7 +5876,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6080,7 +6107,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:46:23.397151+00:00",
+   "first_seen": "2026-11-24T12:54:24.216768+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
