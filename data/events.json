@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T03:42:15.324418+00:00",
- "count": 27,
+ "updated": "2026-11-24T03:50:14.960495+00:00",
+ "count": 28,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [],
@@ -143,10 +143,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "da16608890346d",
+    "3b08a232968cd9",
+    "4b9e2beb246dbb",
     "0ffe2cbb0a9f3c",
     "eea5343c7cb8ce",
     "9e48a4f797a7ea",
@@ -164,18 +167,20 @@
    "sources": [
     "El Comercio Perú",
     "El MorroCotudo",
+    "El Nortero",
     "El Nuevo Día",
     "El Observatodo",
     "El Universal",
     "Facebook",
     "Gestión",
     "Sabes.cl",
+    "www.elmagallanews.cl",
     "www.elnortero.cl",
     "www.elrancahuaso.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 13,
-   "n_sources": 11,
+   "n_items": 16,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -191,7 +196,135 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 38
+   "score": 45
+  },
+  {
+   "key": "t:mu:Votación:2026-11-24",
+   "id": "t-mu-votacion-2026-11-24-b01ad",
+   "name": "Votación · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Votación"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
+   "start": "2026-11-24T00:06:00+00:00",
+   "last_activity": "2026-11-24T03:44:24+00:00",
+   "item_ids": [
+    "985c16fd5dea2d",
+    "d66a000d173db8",
+    "5a3464b019fcd5"
+   ],
+   "sources": [
+    "El Observatodo",
+    "Reporte Indigo",
+    "www.elmartutino.cl"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/United_States_-_Senate%2C_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf/page1-1280px-United_States_-_Senate%2C_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:United_States_-_Senate,_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 vote",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/United_States_-_Senate%2C_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf/page1-1280px-United_States_-_Senate%2C_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:United_States_-_Senate,_1939_-_DPLA_-_fc1895e401c141675930a92420ebd7cd.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1933-1945 : Roosevelt). 1933-1945"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-24T03:50:14.960495+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 9
   },
   {
    "key": "p:one unforgettable night",
@@ -226,13 +359,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "116 Costumes. One Unforgettable Night! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 31588,
+     "views": 34413,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 31588,
+   "views_total": 34413,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -509,7 +642,6 @@
     "a0bda827d045d0",
     "ee5a2ca0675a1d",
     "14fae06fd4d42d",
-    "9695f941000ed7",
     "b8999438f7c7ff",
     "00a77aa09fb693",
     "7443600d3b5410",
@@ -576,8 +708,7 @@
     "cff533e8a305c1",
     "1ab2b38d748028",
     "44ddffc2be4895",
-    "394aff8d22ca20",
-    "c3c16477dfd968"
+    "394aff8d22ca20"
    ],
    "sources": [
     "2001online",
@@ -617,12 +748,12 @@
     "Parade on MSN",
     "Publimetro",
     "Reporte Índigo",
-    "Revista Semana",
     "Telediario México on MSN",
-    "Telemundo"
+    "Telemundo",
+    "Telemundo Houston"
    ],
-   "n_items": 74,
-   "n_sources": 49,
+   "n_items": 72,
+   "n_sources": 48,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -1093,7 +1224,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 175
+   "score": 171
   },
   {
    "key": "p:body tea",
@@ -1109,7 +1240,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T08:53:35.693911+00:00",
-   "start": "2026-11-22T21:25:53+00:00",
+   "start": "2026-11-22T21:41:21+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "e4152aab5aeb1d",
@@ -1275,14 +1406,14 @@
     "El Universo",
     "Emisoras Unidas"
    ],
-   "n_items": 214,
-   "n_sources": 101,
+   "n_items": 212,
+   "n_sources": 99,
    "videos": [
     {
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 659878,
+     "views": 660171,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -1290,7 +1421,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 72258,
+     "views": 72699,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1298,7 +1429,7 @@
      "vid": "kdbVKox8QKU",
      "title": "Pre Preliminary Crowds serving happiness | Miss Universe",
      "channel": "Miss Universe",
-     "views": 60242,
+     "views": 60271,
      "likes": 0,
      "published": "2026-11-22T23:19:42+00:00",
      "official": true
@@ -1307,7 +1438,7 @@
      "vid": "z6WL1geI6Uk",
      "title": "Las candidatas latinas brillan en Traje de Baño en la Preliminar de Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 26997,
+     "views": 27472,
      "ago": "hace 1 día",
      "official": false
     },
@@ -1321,7 +1452,7 @@
      "official": true
     }
    ],
-   "views_total": 819375,
+   "views_total": 820613,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1633,7 +1764,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T02:46:06.103077+00:00",
+     "fetched": "2026-11-24T03:50:14.960495+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -1784,7 +1915,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 459
+   "score": 454
   },
   {
    "key": "p:completa del desfile de traje",
@@ -1798,7 +1929,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-22T21:34:00+00:00",
+   "start": "2026-11-22T21:54:24+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -1850,8 +1981,7 @@
     "cff533e8a305c1",
     "1ab2b38d748028",
     "44ddffc2be4895",
-    "394aff8d22ca20",
-    "c3c16477dfd968"
+    "394aff8d22ca20"
    ],
    "sources": [
     "2001online",
@@ -1892,7 +2022,7 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 51,
+   "n_items": 50,
    "n_sources": 37,
    "videos": [
     {
@@ -2232,7 +2362,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 128
+   "score": 127
   },
   {
    "key": "p:traje de gala en la preliminar",
@@ -2416,7 +2546,7 @@
      "vid": "oqIDvzfAKBI",
      "title": "Competencia Preliminar del Miss Universo 2026 | POV Acceso Exclusivo",
      "channel": "Telemundo Entretenimiento",
-     "views": 659878,
+     "views": 660171,
      "ago": "Transmitido hace 1 día",
      "official": false
     },
@@ -2424,7 +2554,7 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 72258,
+     "views": 72699,
      "ago": "hace 1 día",
      "official": false
     },
@@ -2438,7 +2568,7 @@
      "official": true
     }
    ],
-   "views_total": 732136,
+   "views_total": 732870,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -2820,7 +2950,7 @@
    "extra_at": "2026-11-24T01:18:05.325353+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T02:46:06.103077+00:00",
+     "fetched": "2026-11-24T03:50:14.960495+00:00",
      "url": "https://www.instagram.com/p/Df5yDxMGqRG",
      "platform": "Instagram"
     },
@@ -3236,7 +3366,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T01:33:25.628753+00:00",
-   "start": "2026-11-22T21:34:00+00:00",
+   "start": "2026-11-22T21:54:24+00:00",
    "last_activity": "2026-11-23T19:00:00+00:00",
    "item_ids": [
     "f7693b6a50cc70",
@@ -3270,8 +3400,7 @@
     "cff533e8a305c1",
     "1ab2b38d748028",
     "44ddffc2be4895",
-    "394aff8d22ca20",
-    "c3c16477dfd968"
+    "394aff8d22ca20"
    ],
    "sources": [
     "Caretas",
@@ -3300,7 +3429,7 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 33,
+   "n_items": 32,
    "n_sources": 25,
    "videos": [],
    "views_total": 0,
@@ -3589,7 +3718,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 85
   },
   {
    "key": "seed:runway-to-the-universe",
@@ -3622,9 +3751,25 @@
    ],
    "n_items": 5,
    "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "Rrun4KRn71Q",
+     "title": "RUNWAY TO THE UNIVERSE⭐️ Miss Universe",
+     "channel": "Miss Universe",
+     "views": 1138998,
+     "ago": "Transmitido hace 6 días",
+     "official": false
+    }
+   ],
+   "views_total": 1138998,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/Rrun4KRn71Q/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/Rrun4KRn71Q/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=Rrun4KRn71Q",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
     {
      "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
      "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
@@ -3746,7 +3891,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 72
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -3793,8 +3938,7 @@
     "f7ca2f7897c225",
     "acf139abc71ee2",
     "f1d6486051f7c2",
-    "799c4eaf2f5323",
-    "c3c16477dfd968"
+    "799c4eaf2f5323"
    ],
    "sources": [
     "24 horas on MSN",
@@ -3802,7 +3946,6 @@
     "Caracol TV",
     "Caracol Televisión",
     "Chic Magazine",
-    "Diario Las Américas",
     "El Comercio Perú",
     "El Dia.com.do",
     "El Diario",
@@ -3822,19 +3965,19 @@
     "YouTube · Telemundo Entretenimiento",
     "www.laprensa.hn"
    ],
-   "n_items": 32,
-   "n_sources": 24,
+   "n_items": 31,
+   "n_sources": 23,
    "videos": [
     {
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 72258,
+     "views": 72699,
      "ago": "hace 1 día",
      "official": false
     }
    ],
-   "views_total": 72258,
+   "views_total": 72699,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -4208,7 +4351,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T02:46:06.103077+00:00",
+     "fetched": "2026-11-24T03:50:14.960495+00:00",
      "url": "https://www.instagram.com/reel/DgEFmBxvajg",
      "platform": "Instagram"
     },
@@ -4237,7 +4380,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 83
   },
   {
    "key": "t:me:Votación:2026-11-21",
@@ -4372,7 +4515,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-24T00:46:05.649918+00:00",
+   "extra_at": "2026-11-24T03:50:14.960495+00:00",
    "social": [
     {
      "fetched": "2026-11-24T02:54:05.905355+00:00",
@@ -5036,7 +5179,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
    "extra_images": [],
-   "extra_at": "2026-11-24T03:42:15.324418+00:00",
+   "extra_at": "2026-11-24T03:50:14.960495+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5182,7 +5325,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5353,14 +5496,12 @@
     "La Teja",
     "La Verdad - La Verdad",
     "Listín Diario",
-    "MARCA",
     "Mega.cl",
     "Meganoticias",
     "Metro.Style",
     "Mi Diario",
     "Minuto60",
     "Music Mundial",
-    "N+",
     "Noticia al Dia",
     "Panamá América",
     "Prensa Libre",
@@ -5384,8 +5525,8 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 159,
-   "n_sources": 75,
+   "n_items": 158,
+   "n_sources": 73,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5417,7 +5558,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 312
+   "score": 307
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5428,7 +5569,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5474,8 +5615,7 @@
     "af9936c5afe6ab",
     "cff533e8a305c1",
     "1ab2b38d748028",
-    "394aff8d22ca20",
-    "c3c16477dfd968"
+    "394aff8d22ca20"
    ],
    "sources": [
     "2001online",
@@ -5512,7 +5652,7 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 44,
+   "n_items": 43,
    "n_sources": 33,
    "videos": [],
    "views_total": 0,
@@ -5545,7 +5685,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 113
+   "score": 112
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5556,7 +5696,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5787,7 +5927,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6018,7 +6158,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6067,7 +6207,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -6298,7 +6438,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T03:42:15.324418+00:00",
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
    "start": "2026-10-10T19:00:00+07:00",
    "last_activity": "2026-10-10T19:00:00+07:00",
    "item_ids": [],
