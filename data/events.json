@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T23:18:41.453506+00:00",
- "count": 28,
+ "updated": "2026-11-24T23:26:41.813326+00:00",
+ "count": 29,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -157,10 +157,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "fb9c2a7acff0e0",
     "f64b324b983410",
     "3d99012b7b8396",
     "d639da83c93dce",
@@ -182,6 +183,7 @@
     "42e28a37f8ff75",
     "e42e8af1924876",
     "7424de6e104ea3",
+    "5760f45130e19e",
     "b57acce0f69359",
     "1dc1d40902091d",
     "9cb4df0e92eea1",
@@ -217,6 +219,7 @@
     "b6b1644e0ddca5",
     "3a5c449a3e3e6d",
     "4fc4714d5a6be4",
+    "d683cb694e2388",
     "0a4503779a6654",
     "c914d8ae4b9788",
     "cf8d45cdfe8bb6",
@@ -274,13 +277,10 @@
     "f7145e591bd640",
     "c2fe224b1b75c8",
     "0d21b7ab1b8016",
+    "7befbe8e5b6a24",
     "a3ed91213292c5",
     "b1fb14b7115c2d",
-    "163b76447d3cee",
-    "3073edea2f735c",
-    "be604c5fb4d998",
-    "0f732311b31922",
-    "ecbf68a0396d9b"
+    "163b76447d3cee"
    ],
    "sources": [
     "24 horas",
@@ -354,6 +354,7 @@
     "La Hora",
     "La Nación",
     "La Prensa Gráfica",
+    "Las Provincias",
     "Lmneuquen.com",
     "MARCA",
     "MILENIO",
@@ -403,6 +404,7 @@
     "TV Más",
     "Tele Urban",
     "Telemedellín",
+    "Telemetro",
     "Telemundo",
     "Telemundo 51",
     "Telemundo Dallas",
@@ -425,6 +427,7 @@
     "https://www.elmonitoredomex.com/",
     "laopinon.cl",
     "m360.cl",
+    "municipiospuebla",
     "retodiario",
     "tallahatchienews.ms",
     "tunota",
@@ -435,8 +438,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 299,
-   "n_sources": 151,
+   "n_items": 306,
+   "n_sources": 154,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -452,7 +455,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 604
+   "score": 617
   },
   {
    "key": "p:one unforgettable night",
@@ -472,6 +475,7 @@
     "5c41de094d619f",
     "d6ad0b8dd1afb7",
     "188ce7669254b4",
+    "e000bc5517f804",
     "afad0375f8e830",
     "2f385cbbe5ac78",
     "7ea58ddad63810",
@@ -498,20 +502,20 @@
     "YouTube · Miss Universe",
     "tvmas.tv"
    ],
-   "n_items": 13,
+   "n_items": 14,
    "n_sources": 13,
    "videos": [
     {
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 511705,
+     "views": 519795,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 511705,
+   "views_total": 519795,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -519,6 +523,72 @@
      "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/bf2fb83bbef4afd1a3f3ce4e0abe1a7e/adjuntos/216/imagenes/100/288/0100288690/1200x675/smart/miss-universo_traje-tipico-venezuela.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/cecee24dc05f83470599e47e3c456b23/adjuntos/216/imagenes/100/288/0100288690/855x0/smart/miss-universo_traje-tipico-venezuela.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/05bca336a91e69c3226f20e1a5a61a93/adjuntos/216/imagenes/100/236/0100236669/116x65/smart/miss-universo-2025.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/0f5f596ba4b04600615bd3c4f062d44f/adjuntos/216/imagenes/100/238/0100238728/116x65/smart/clara-vegas-miss-venezuela-2025-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/38abffcd08ebf230b59b31e99e4af0fa/adjuntos/216/imagenes/100/156/0100156354/avion-incautado-maduro-fort-lauderdale-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/c73603c10d335dde76f0594c5cba8f5e/adjuntos/216/imagenes/100/288/0100288943/116x65/smart/inundaciones-sur-florida.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/d9b38faf43e579aecd750504055bd086/adjuntos/216/imagenes/100/288/0100288950/116x65/579x434:599x454/atentado-colombia-noviembre-2026.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/f6656a7f282d2153a3e16f8872603df6/adjuntos/216/imagenes/100/288/0100288940/116x65/smart/centro-correccional-turner-guilford-knight-tgk.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/d9c3de8396cf150c061524d235909236/adjuntos/216/imagenes/000/210/0000210592/116x65/smart/miami-brickell.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/3c7e842a52424f3653a30cb0d716bd54/adjuntos/216/imagenes/000/210/0000210592/855x0/smart/miami-brickell.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.Ab38nGxWUl16FnWyiSmTMA&pid=News",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Bing (miniatura)",
+     "credit": "Diario Las Américas"
     },
     {
      "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
@@ -542,12 +612,6 @@
      "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
      "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
      "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.QtZ_xwoqVyJ4p7-fz-T84A&pid=News",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "Bing (miniatura)",
      "credit": "La Nacion"
     },
     {
@@ -610,7 +674,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "fetched": "2026-11-24T23:26:41.813326+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
     }
@@ -621,7 +685,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 67
+   "score": 68
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -641,6 +705,7 @@
     "ad09194edea0a4",
     "bf6194a75a7438",
     "2e820b89c19287",
+    "e000bc5517f804",
     "be604c5fb4d998",
     "89ee069c77bdd6",
     "4f206d3fcf54d1",
@@ -656,13 +721,13 @@
     "17355e874077f2",
     "4dd647c2831da2",
     "7aadc715b66fff",
-    "8fae186864e97e",
     "9a373f67639c2a",
     "769531e0d5c4f7",
     "cb5e04e0d00f53",
     "d203d71789de0e",
     "2ee6983fd51208",
-    "72424c1e917654"
+    "72424c1e917654",
+    "8fae186864e97e"
    ],
    "sources": [
     "AS Colombia",
@@ -687,16 +752,76 @@
     "Telemundo 51",
     "Últimas Noticias"
    ],
-   "n_items": 25,
+   "n_items": 26,
    "n_sources": 21,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.zgeIE1HgE-6pulSXeWIjDg&pid=News",
-     "page": "https://www.telemundo51.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-puerto-rico-live-updates-ultima-hora/2848239/",
+     "url": "https://media.diariolasamericas.com/p/bf2fb83bbef4afd1a3f3ce4e0abe1a7e/adjuntos/216/imagenes/100/288/0100288690/1200x675/smart/miss-universo_traje-tipico-venezuela.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/cecee24dc05f83470599e47e3c456b23/adjuntos/216/imagenes/100/288/0100288690/855x0/smart/miss-universo_traje-tipico-venezuela.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/05bca336a91e69c3226f20e1a5a61a93/adjuntos/216/imagenes/100/236/0100236669/116x65/smart/miss-universo-2025.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/0f5f596ba4b04600615bd3c4f062d44f/adjuntos/216/imagenes/100/238/0100238728/116x65/smart/clara-vegas-miss-venezuela-2025-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/38abffcd08ebf230b59b31e99e4af0fa/adjuntos/216/imagenes/100/156/0100156354/avion-incautado-maduro-fort-lauderdale-afp.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/c73603c10d335dde76f0594c5cba8f5e/adjuntos/216/imagenes/100/288/0100288943/116x65/smart/inundaciones-sur-florida.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/d9b38faf43e579aecd750504055bd086/adjuntos/216/imagenes/100/288/0100288950/116x65/579x434:599x454/atentado-colombia-noviembre-2026.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/f6656a7f282d2153a3e16f8872603df6/adjuntos/216/imagenes/100/288/0100288940/116x65/smart/centro-correccional-turner-guilford-knight-tgk.png",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/d9c3de8396cf150c061524d235909236/adjuntos/216/imagenes/000/210/0000210592/116x65/smart/miami-brickell.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "https://media.diariolasamericas.com/p/3c7e842a52424f3653a30cb0d716bd54/adjuntos/216/imagenes/000/210/0000210592/855x0/smart/miami-brickell.jpg",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
+     "via": "Diario Las Américas",
+     "credit": "Diario Las Américas"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.Ab38nGxWUl16FnWyiSmTMA&pid=News",
+     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
      "via": "Bing (miniatura)",
-     "credit": "Telemundo 51"
+     "credit": "Diario Las Américas"
     },
     {
      "url": "https://img.asmedia.epimg.net/resizer/v2/5SPAL6C6SRFOZK37MT5IU4VOHQ.jpg?auth=38c2f15085da6c779f0d0260c2ddc21f5d34930e01da38a70d42fe1d215ca93a&width=1472&height=828&focal=540%2C509",
@@ -871,13 +996,6 @@
      "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
      "via": "Gestión",
      "credit": "Gestión"
-    },
-    {
-     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
-     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
-     "via": "Bing Imágenes",
-     "credit": "elsevier.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
     }
    ],
    "social_urls": [
@@ -945,7 +1063,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "fetched": "2026-11-24T23:26:41.813326+00:00",
      "url": "https://www.instagram.com/p/DgDXsLdEStB",
      "platform": "Instagram"
     },
@@ -956,7 +1074,7 @@
      "error": "HTTP Error 500: Internal Server Error"
     },
     {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "fetched": "2026-11-24T23:26:41.813326+00:00",
      "url": "https://www.instagram.com/p/DgHFKeSlpee",
      "platform": "Instagram"
     },
@@ -996,7 +1114,7 @@
     "comments": 27,
     "shares": 545
    },
-   "score": 67
+   "score": 68
   },
   {
    "key": "p:the big night",
@@ -1010,32 +1128,34 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T19:02:33.612994+00:00",
-   "start": "2026-11-24T11:36:00+00:00",
+   "start": "2026-11-24T10:03:00+00:00",
    "last_activity": "2026-11-24T22:39:17+00:00",
    "item_ids": [
     "09e53a75a7fe71",
     "cf9c93f64f29e0",
-    "c66b5b916c56de"
+    "c66b5b916c56de",
+    "65143abb78037a"
    ],
    "sources": [
     "MSN",
     "Primera Hora",
-    "YouTube · Miss Universe"
+    "YouTube · Miss Universe",
+    "cablenoticias"
    ],
-   "n_items": 3,
-   "n_sources": 3,
+   "n_items": 4,
+   "n_sources": 4,
    "videos": [
     {
      "vid": "S4XeFwA1d0w",
      "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
      "channel": "Miss Universe",
-     "views": 3102,
+     "views": 3830,
      "likes": 0,
      "published": "2026-11-24T18:42:00+00:00",
      "official": true
     }
    ],
-   "views_total": 3102,
+   "views_total": 3830,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
@@ -1043,6 +1163,18 @@
      "page": "https://www.youtube.com/watch?v=S4XeFwA1d0w",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "https://www.cablenoticias.com/media/img/4952cb92-b609-4efc-9b98-08e5a7e8fe34",
+     "page": "https://www.cablenoticias.com/noticias/miss-universe-2026-red-carpet-live",
+     "via": "cablenoticias",
+     "credit": "cablenoticias"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.Y5_oIFEBRc0BQfk0KwUC-Q&pid=News",
+     "page": "https://www.cablenoticias.com/noticias/miss-universe-2026-red-carpet-live",
+     "via": "Bing (miniatura)",
+     "credit": "cablenoticias"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1087,7 +1219,9 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "social_urls": [],
+   "social_urls": [
+    "https://www.youtube.com/watch?v=S4XeFwA1d0w"
+   ],
    "image_query": "Miss Universe 2026 The Big Night",
    "extra_images": [
     {
@@ -1134,14 +1268,21 @@
     }
    ],
    "extra_at": "2026-11-24T22:06:41.395297+00:00",
-   "social": [],
+   "social": [
+    {
+     "fetched": "2026-11-24T23:26:41.813326+00:00",
+     "url": "https://www.youtube.com/watch?v=S4XeFwA1d0w",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/S4XeFwA1d0w/hqdefault.jpg"
+    }
+   ],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 15
   },
   {
    "key": "seed:voto-top30",
@@ -1198,8 +1339,7 @@
     "4e158d75dfbba2",
     "324cebec8ab952",
     "6c07277ba7ead8",
-    "f78e2bbb29779b",
-    "af3bd931fff94e"
+    "f78e2bbb29779b"
    ],
    "sources": [
     "BellaNaija",
@@ -1231,32 +1371,14 @@
     "Soy Carmín on MSN",
     "Tele Urban",
     "Teletrece",
-    "YouTube · Telemundo Entretenimiento",
     "elvacanudo.cl",
     "www.elmartutino.cl"
    ],
-   "n_items": 40,
-   "n_sources": 32,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 20861,
-     "likes": 406,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 20861,
+   "n_items": 39,
+   "n_sources": 31,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT.kiynQSizeRJxdGHw1Joukg&pid=News",
      "page": "https://www.msn.com/es-mx/noticias/other/miss-universo-2026-c%C3%B3mo-votar-por-mar%C3%ADa-vargas-y-ayudar-a-m%C3%A9xico-a-llegar-al-top-30/ar-AA2i8PFo",
@@ -1563,7 +1685,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 108
+   "score": 104
   },
   {
    "key": "p:crown confidential",
@@ -1617,7 +1739,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 38026,
+     "views": 38621,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1626,13 +1748,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 31168,
+     "views": 31649,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 69194,
+   "views_total": 70270,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2370,11 +2492,11 @@
      "credit": ""
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "\nAppalachian State University"
+     "credit": "\nSanborn, F. B"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2432,11 +2554,11 @@
      "credit": ""
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "\nAppalachian State University"
+     "credit": "\nSanborn, F. B"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2453,7 +2575,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-24T20:22:33.436925+00:00",
+   "extra_at": "2026-11-24T23:26:41.813326+00:00",
    "social": [
     {
      "fetched": "2026-11-24T23:02:41.616543+00:00",
@@ -2725,7 +2847,7 @@
      "vid": "bOQPhh12lBo",
      "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
      "channel": "Hi Along",
-     "views": 24907,
+     "views": 24896,
      "ago": "hace 9 días",
      "official": false
     },
@@ -2733,7 +2855,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 6705,
+     "views": 6710,
      "ago": "hace 6 días",
      "official": false
     },
@@ -2741,12 +2863,12 @@
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3915,
+     "views": 3925,
      "ago": "hace 9 días",
      "official": false
     }
    ],
-   "views_total": 35527,
+   "views_total": 35531,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -2918,18 +3040,20 @@
     "af6a8abe9c4ff2",
     "a487635195184b",
     "6f46c9b306e4d2",
+    "8fae186864e97e",
     "cab464992ccf70",
     "9ceb15222aac20"
    ],
    "sources": [
     "Diario La Verdad",
+    "El Siglo",
     "Inquirer.net",
     "Inquirer.net - Philippines Entertainment News",
     "Meridiano.net",
     "Ouest-France"
    ],
-   "n_items": 5,
-   "n_sources": 5,
+   "n_items": 6,
+   "n_sources": 6,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3062,7 +3186,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 18
   },
   {
    "key": "t:me:Llegada / bienvenida:2026-11-24",
@@ -3234,6 +3358,182 @@
    "score": 7
   },
   {
+   "key": "t:me:Votación:2026-11-24",
+   "id": "t-me-votacion-2026-11-24-a32b7",
+   "name": "Votación · 24–26 nov",
+   "contest": "me",
+   "kind": "detectado",
+   "labels": [
+    "Votación"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "start": "2026-11-24T00:16:00+00:00",
+   "last_activity": "2026-11-24T09:59:00+00:00",
+   "item_ids": [
+    "66a29d03c5caa4",
+    "f22ba52bc5c2e7",
+    "181fc95a959efb"
+   ],
+   "sources": [
+    "AS USA",
+    "DEPOR",
+    "Depor"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/5AQXNYKFABBNRMY5EM4J4GXONI.jpg?auth=ebac329e80a90a489863d35c9b5aa0ed0bd0153ef3b3a785fe7303f4f4c0bf24&width=1472&height=828&smart=true",
+     "page": "https://en.as.com/entertainment/how-to-vote-for-justus-kelley-in-miss-universe-2026-how-to-support-usa-representative-f202611-n/",
+     "via": "AS USA",
+     "credit": "AS USA"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/ZLKLB56ZTJK6DC6NWCDOZRB4EA.jpg?auth=bf1fe2af642f138c0a381638102a56dd05ccae0a7cfee12f3974ef0eb1c8678c&width=244&height=174&smart=true",
+     "page": "https://en.as.com/entertainment/how-to-vote-for-justus-kelley-in-miss-universe-2026-how-to-support-usa-representative-f202611-n/",
+     "via": "AS USA",
+     "credit": "AS USA"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/GFMM56RBZ5B35FR3FR52F5TPH4.jpg?auth=b58b605475a7957a7b2cb9cec7fc1670d2b67d3243d4a5b84130b0d6db7c6a83&width=105&height=105&smart=true",
+     "page": "https://en.as.com/entertainment/how-to-vote-for-justus-kelley-in-miss-universe-2026-how-to-support-usa-representative-f202611-n/",
+     "via": "AS USA",
+     "credit": "AS USA"
+    },
+    {
+     "url": "https://img.asmedia.epimg.net/resizer/v2/XVHYTUPAJVDCBHOMLA6PF2234U.jpg?auth=9b1465229ef0f5e61f3e6bfd10377ef6a3092e04056d7e29fa5c2054f7d60a4f&width=105&height=105&smart=true",
+     "page": "https://en.as.com/entertainment/how-to-vote-for-justus-kelley-in-miss-universe-2026-how-to-support-usa-representative-f202611-n/",
+     "via": "AS USA",
+     "credit": "AS USA"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/KXOGDJOWVNEOZMW2JRONW3EU44.jpg?auth=d348c35ec9afb7bcf94ac01dacaaa4e7ac3b015e3b0903d69c4ffa5705f13678&width=980&height=528&quality=75&smart=true",
+     "page": "https://depor.com/en/us-live/how-to-vote-for-kaziah-liz-mejo-at-miss-universe-2026-heres-how-to-support-miss-india-nnda-nnrt-noticia/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2FFQYUXFUHRZF25E2GIMQK2REYXA.png?auth=16b87caea30b122c9862675d4d8cd4b90316dc31fb361c2c403584103c1f441a&width=64&height=64&quality=75&smart=true",
+     "page": "https://depor.com/en/us-live/how-to-vote-for-kaziah-liz-mejo-at-miss-universe-2026-heres-how-to-support-miss-india-nnda-nnrt-noticia/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.DLN3Zzxw1EhXfwHmVkUM6Q&pid=News",
+     "page": "https://depor.com/en/us-live/how-to-vote-for-kaziah-liz-mejo-at-miss-universe-2026-heres-how-to-support-miss-india-nnda-nnrt-noticia/",
+     "via": "Bing (miniatura)",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/CZ3GFTQXYNAHPOVD5HQHYRQWNE.jpg?auth=b351141f1c0b2b68dc526c3dbb24d73856df4aad1d29e8b94acc2a82a0f44b5c&width=980&height=528&quality=75&smart=true",
+     "page": "https://depor.com/usa/eventos/how-to-vote-for-bea-millan-windorski-at-miss-universe-2026-heres-how-to-support-miss-philippines-nnda-nnrt-noticia/",
+     "via": "DEPOR",
+     "credit": "DEPOR"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_%28Wikimedia%29_challenge%2C_Megathon_X_2026.pdf/page1-1920px-CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_%28Wikimedia%29_challenge%2C_Megathon_X_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_(Wikimedia)_challenge,_Megathon_X_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Bhakti, Mantra, Rishit (Winners of Megathon X)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Jean Giraudoux"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Spitting_Image_of_a_Man.pdf/page1-960px-The_Spitting_Image_of_a_Man.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Spitting_Image_of_a_Man.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 4.0",
+     "credit": "Machado de Assis"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/WHSF-_Contested%2C_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf/page1-1280px-WHSF-_Contested%2C_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/WHSF-_Returned%2C_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf/page1-960px-WHSF-_Returned%2C_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/WHSF-_Returned%2C_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf/page1-960px-WHSF-_Returned%2C_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Earth 2026 vote",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_%28Wikimedia%29_challenge%2C_Megathon_X_2026.pdf/page1-1920px-CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_%28Wikimedia%29_challenge%2C_Megathon_X_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:CompileAndConquer_presentation_%E2%80%94_OSDG_%C3%97_OKI_(Wikimedia)_challenge,_Megathon_X_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Bhakti, Mantra, Rishit (Winners of Megathon X)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf/page1-500px-Jean_Giraudoux_-_Siegfried_%281930_Philip_Carr_translation%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Jean_Giraudoux_-_Siegfried_(1930_Philip_Carr_translation).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Jean Giraudoux"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Spitting_Image_of_a_Man.pdf/page1-960px-The_Spitting_Image_of_a_Man.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Spitting_Image_of_a_Man.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 4.0",
+     "credit": "Machado de Assis"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/WHSF-_Contested%2C_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf/page1-1280px-WHSF-_Contested%2C_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_37-1_-_DPLA_-_28a7dd54758923173b137f774d5affbb.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/WHSF-_Returned%2C_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf/page1-960px-WHSF-_Returned%2C_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_14-8_-_DPLA_-_0781bc72da98ff4878f373537afe5fc5.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/WHSF-_Returned%2C_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf/page1-960px-WHSF-_Returned%2C_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_17-14_-_DPLA_-_85ff081a0cb44e17f72132f536abc4e1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-24T23:26:41.813326+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 9
+  },
+  {
    "key": "p:international emmy awards",
    "id": "p-international-emmy-awards-7008b",
    "name": "International Emmy Awards",
@@ -3243,24 +3543,22 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T09:58:23.913522+00:00",
-   "start": "2026-11-23T19:24:00+00:00",
+   "start": "2026-11-23T21:05:00+00:00",
    "last_activity": "2026-11-24T07:13:00+00:00",
    "item_ids": [
     "218d06ff6938ef",
     "ba80ff6fd15844",
     "f98c5fd89c407f",
-    "9dcd69a2e71b57",
-    "57766b7b733abc"
+    "9dcd69a2e71b57"
    ],
    "sources": [
     "Bombay Times",
-    "Filmfare",
     "News9Live",
     "NewsX",
     "The Indian Express"
    ],
-   "n_items": 5,
-   "n_sources": 5,
+   "n_items": 4,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3269,12 +3567,6 @@
      "page": "https://www.news9live.com/entertainment/celebrity/international-emmy-awards-2026-full-winners-list-3027185",
      "via": "Bing (miniatura)",
      "credit": "News9Live"
-    },
-    {
-     "url": "https://filmfare.wwmindia.com/content/2026/nov/emmys11795490334.jpg",
-     "page": "https://www.filmfare.com/news/hollywood/international-emmy-awards-2026-winners-vir-das-real-kashmir-football-club-miss-out-full-list-here-87336.html",
-     "via": "Filmfare",
-     "credit": "Filmfare"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3303,7 +3595,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 12
   },
   {
    "key": "t:mi:Traje de baño:2026-11-24",
@@ -3727,114 +4019,6 @@
    "score": 13
   },
   {
-   "key": "p:completa del desfile de traje",
-   "id": "p-completa-del-desfile-de-traje-f97b3",
-   "name": "Completa Del Desfile De Traje",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Trajes típicos"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T19:20:49+00:00",
-   "last_activity": "2026-11-23T23:45:00+00:00",
-   "item_ids": [
-    "af3bd931fff94e",
-    "8cf0fc6990ed16",
-    "90bf74ad462fb1",
-    "324cebec8ab952",
-    "6c07277ba7ead8",
-    "f78e2bbb29779b",
-    "a12b365807d0f4",
-    "b2d20fb3362bcc",
-    "f254c2c54acc92",
-    "f6f85a4ee2b695",
-    "a2fb269272421a",
-    "bb0bcb12cb7923",
-    "fd1d0c4d4c999e",
-    "5825312fd6cc63",
-    "d1d6d051c0daab",
-    "f590005e2ceaec",
-    "a4e31d66d47c25",
-    "ba4ad821ef2450"
-   ],
-   "sources": [
-    "Ambito",
-    "BellaNaija",
-    "BioBioChile",
-    "Bombay Times",
-    "Business Insider",
-    "CiberCuba",
-    "El Universo",
-    "Facebook",
-    "HOLA",
-    "MDZ Online",
-    "Metro.Style",
-    "Music Mundial",
-    "Noticia al Dia",
-    "Vistazo",
-    "YouTube · Telemundo Entretenimiento"
-   ],
-   "n_items": 18,
-   "n_sources": 15,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 20861,
-     "likes": 406,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 20861,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.fAuEk3KCEngttxFrhWERrg&pid=News",
-     "page": "https://www.bombaytimes.com/lifestyle/style/india-s-kaziah-liz-mejo-at-miss-universe-2026-from-national-costume-to-swimsuit-and-evening-gown-see-all-her-looks-view-photos-and-videos/21373",
-     "via": "Bing (miniatura)",
-     "credit": "Bombay Times"
-    },
-    {
-     "url": "https://i.etsystatic.com/47933304/r/il/20d491/5591239719/il_1080xN.5591239719_6aew.jpg",
-     "page": "https://www.etsy.com/listing/1606118130/cute-reindeer-png-christmas-reindeer-png",
-     "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.QLnrTYyJqm8EQmSf4QeTLAHaHa&pid=15.1"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
-   "extra_images": [
-    {
-     "url": "https://i.etsystatic.com/47933304/r/il/20d491/5591239719/il_1080xN.5591239719_6aew.jpg",
-     "page": "https://www.etsy.com/listing/1606118130/cute-reindeer-png-christmas-reindeer-png",
-     "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.QLnrTYyJqm8EQmSf4QeTLAHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T22:22:42.031471+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 52
-  },
-  {
    "key": "t:mu:Gala / cena:2026-11-21",
    "id": "t-mu-gala-cena-2026-11-21-6a56b",
    "name": "Gala / cena · 21–23 nov",
@@ -3846,26 +4030,24 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T20:06:33.526754+00:00",
-   "start": "2026-11-23T19:34:02+00:00",
+   "start": "2026-11-23T20:02:14+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "d1d6d051c0daab",
     "f590005e2ceaec",
     "f6f85a4ee2b695",
     "a4e31d66d47c25",
-    "ba4ad821ef2450",
-    "fd1d0c4d4c999e"
+    "ba4ad821ef2450"
    ],
    "sources": [
     "Ambito",
     "CiberCuba",
     "El Universo",
     "Facebook",
-    "Noticia al Dia",
     "Vistazo"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3896,62 +4078,180 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 18
+   "score": 15
+  },
+  {
+   "key": "t:mu:Trajes típicos:2026-11-21",
+   "id": "t-mu-trajes-tipicos-2026-11-21-be73b",
+   "name": "Trajes típicos · 21–23 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "start": "2026-11-23T20:22:00+00:00",
+   "last_activity": "2026-11-23T23:33:21+00:00",
+   "item_ids": [
+    "8cf0fc6990ed16",
+    "90bf74ad462fb1",
+    "324cebec8ab952",
+    "6c07277ba7ead8",
+    "f78e2bbb29779b",
+    "a12b365807d0f4",
+    "b2d20fb3362bcc"
+   ],
+   "sources": [
+    "BellaNaija",
+    "BioBioChile",
+    "Bombay Times",
+    "Business Insider",
+    "El Universo",
+    "MDZ Online"
+   ],
+   "n_items": 7,
+   "n_sources": 6,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.fAuEk3KCEngttxFrhWERrg&pid=News",
+     "page": "https://www.bombaytimes.com/lifestyle/style/india-s-kaziah-liz-mejo-at-miss-universe-2026-from-national-costume-to-swimsuit-and-evening-gown-see-all-her-looks-view-photos-and-videos/21373",
+     "via": "Bing (miniatura)",
+     "credit": "Bombay Times"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf/page1-1280px-1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Transportation._Commodity_Transportation_survey_(IA_1967censusoftran31unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ana_Cristina_Mu%C3%B1oz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_(cropped).jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miss_Universe_Mexico_2026_National_Costume.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Miss_Universe_Mexico_2026_National_Costume.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 national costume",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf/page1-1280px-1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Transportation._Commodity_Transportation_survey_(IA_1967censusoftran31unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ana_Cristina_Mu%C3%B1oz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_(cropped).jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miss_Universe_Mexico_2026_National_Costume.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Miss_Universe_Mexico_2026_National_Costume.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
+    }
+   ],
+   "extra_at": "2026-11-24T23:26:41.813326+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 19
   },
   {
    "key": "t:mu:Preliminar:2026-11-21",
    "id": "t-mu-preliminar-2026-11-21-aa059",
    "name": "Preliminar · 21–23 nov",
    "contest": "mu",
-   "kind": "oficial",
+   "kind": "detectado",
    "labels": [
     "Preliminar"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T22:54:41.488128+00:00",
-   "start": "2026-11-23T19:20:49+00:00",
+   "start": "2026-11-23T19:51:37+00:00",
    "last_activity": "2026-11-23T23:15:07+00:00",
    "item_ids": [
     "f254c2c54acc92",
     "f6f85a4ee2b695",
     "a2fb269272421a",
-    "bb0bcb12cb7923",
-    "fd1d0c4d4c999e",
-    "af3bd931fff94e",
-    "5825312fd6cc63"
+    "bb0bcb12cb7923"
    ],
    "sources": [
     "CiberCuba",
     "Facebook",
     "HOLA",
-    "Metro.Style",
-    "Music Mundial",
-    "Noticia al Dia",
-    "YouTube · Telemundo Entretenimiento"
+    "Metro.Style"
    ],
-   "n_items": 7,
-   "n_sources": 7,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 20861,
-     "likes": 406,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 20861,
+   "n_items": 4,
+   "n_sources": 4,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
@@ -3993,7 +4293,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 25
+   "score": 12
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4004,7 +4304,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4021,10 +4321,7 @@
     "f254c2c54acc92",
     "f6f85a4ee2b695",
     "a2fb269272421a",
-    "bb0bcb12cb7923",
-    "fd1d0c4d4c999e",
-    "af3bd931fff94e",
-    "5825312fd6cc63"
+    "bb0bcb12cb7923"
    ],
    "sources": [
     "CiberCuba",
@@ -4034,15 +4331,12 @@
     "Facebook",
     "HOLA",
     "Metro.Style",
-    "Music Mundial",
-    "Noticia al Dia",
     "RPP Noticias",
     "YouTube · Miss Universe",
-    "YouTube · Telemundo Entretenimiento",
     "colombiaone"
    ],
-   "n_items": 17,
-   "n_sources": 13,
+   "n_items": 14,
+   "n_sources": 10,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4074,7 +4368,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 46
+   "score": 37
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -4085,12 +4379,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
     "d6ad0b8dd1afb7",
     "188ce7669254b4",
+    "e000bc5517f804",
     "2f385cbbe5ac78",
     "7ea58ddad63810",
     "3b6e207e8e6d55",
@@ -4101,8 +4396,7 @@
     "90bf74ad462fb1",
     "324cebec8ab952",
     "6c07277ba7ead8",
-    "b2d20fb3362bcc",
-    "af3bd931fff94e"
+    "b2d20fb3362bcc"
    ],
    "sources": [
     "BellaNaija",
@@ -4116,11 +4410,10 @@
     "Radio Agricultura",
     "TV Más",
     "YouTube · Miss Universe",
-    "YouTube · Telemundo Entretenimiento",
     "tvmas.tv"
    ],
    "n_items": 14,
-   "n_sources": 13,
+   "n_sources": 12,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4334,7 +4627,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 43
+   "score": 41
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -4345,7 +4638,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4520,7 +4813,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4533,7 +4826,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T23:18:41.453506+00:00",
+   "extra_at": "2026-11-24T23:26:41.813326+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4553,7 +4846,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4784,7 +5077,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:18:41.453506+00:00",
+   "first_seen": "2026-11-24T23:26:41.813326+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
