@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T16:22:33.353539+00:00",
- "count": 29,
+ "updated": "2026-11-24T16:30:34.294552+00:00",
+ "count": 30,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "986effe936a1a2",
+    "aeb29bcfbb8b22",
     "26b55aaf7ddc9f",
     "557b1a5979a8db",
     "f582a7d19852bb",
@@ -336,7 +338,7 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 110,
+   "n_items": 112,
    "n_sources": 70,
    "videos": [],
    "views_total": 0,
@@ -353,7 +355,106 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 253
+   "score": 255
+  },
+  {
+   "key": "t:mu:Traje de baño:2026-11-24",
+   "id": "t-mu-traje-de-bano-2026-11-24-0e8f2",
+   "name": "Traje de baño · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Traje de baño"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
+   "start": "2026-11-24T12:08:06+00:00",
+   "last_activity": "2026-11-24T16:26:17+00:00",
+   "item_ids": [
+    "986effe936a1a2",
+    "81ae863b016512",
+    "5ae990338c0355"
+   ],
+   "sources": [
+    "Facebook",
+    "RPP Noticias"
+   ],
+   "n_items": 3,
+   "n_sources": 2,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 swimsuit",
+   "extra_images": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Angel_Bhathal_MGI_All_Stars_2026.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Angel_Bhathal_MGI_All_Stars_2026.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Helena_Sarakan.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Helena_Sarakan.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/IradeEnglish.pdf/page1-1280px-IradeEnglish.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:IradeEnglish.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Myat_Yadanar_Soe.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Myat_Yadanar_Soe.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
+    }
+   ],
+   "extra_at": "2026-11-24T16:30:34.294552+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 7
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -713,27 +814,27 @@
    "extra_at": "2026-11-24T14:06:23.851468+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DY0U2OdFNLd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DesYM0xFBT-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/Df44LBzkXlf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DfAosONy0QX",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/Df_BAnEEbAt",
      "platform": "Instagram"
     },
@@ -743,7 +844,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DgC21CLm7tq",
      "platform": "Instagram"
     },
@@ -758,22 +859,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DgHJJr1gtCd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DfAosONy0QX",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DgHJJr1gtCd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605",
      "platform": "TikTok",
      "views": 95300,
@@ -1161,14 +1262,6 @@
      "official": false
     },
     {
-     "vid": "eNW-a9sHZso",
-     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
-     "channel": "Hi Along",
-     "views": 6529,
-     "ago": "hace 6 días",
-     "official": false
-    },
-    {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
@@ -1177,7 +1270,7 @@
      "official": false
     }
    ],
-   "views_total": 35190,
+   "views_total": 28661,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -1190,13 +1283,6 @@
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
     },
@@ -1393,8 +1479,7 @@
     "4c9e28e405cc31",
     "0c9820b5de0382",
     "b7f73d6009c7d1",
-    "022674c258f7d9",
-    "7696926936d8b3"
+    "022674c258f7d9"
    ],
    "sources": [
     "2001online",
@@ -1434,7 +1519,7 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 49,
+   "n_items": 48,
    "n_sources": 36,
    "videos": [],
    "views_total": 0,
@@ -1633,52 +1718,53 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://3.bp.blogspot.com/-NTYhfpgzBXs/W7NnszmxteI/AAAAAAAAFHY/dJZmHOwO57QhC_YP9VpItfo9DjgZIczWACLcBGAs/s400/cruz%2Bteodosio%2Bii.jpg",
+     "page": "https://monedas-antiguas.blogspot.com/2011/04/la-primera-moneda-con-cara-y-cruz.html",
+     "via": "Bing Imágenes",
+     "credit": "monedas-antiguas.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mYbQK3KP0yPVjmjGlRA5owAAAA&pid=15.1"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf/page1-960px-Congressional_Record_Volume_165%2C_Issue_182%2C_2019-11-14.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Congressional_Record_Volume_165,_Issue_182,_2019-11-14.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "116th United States Congress"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/cdc4754b8c73a48cb65f49c6882bb24d39110cf43697a0d2b15e00ed3975cd64/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F51456e724e3aecfc56c305a36730c009.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
    "social_urls": [
@@ -1768,7 +1854,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 124
+   "score": 123
   },
   {
    "key": "p:crown confidential",
@@ -2193,7 +2279,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-24T13:26:23.744497+00:00",
+   "extra_at": "2026-11-24T16:30:34.294552+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2486,7 +2572,7 @@
    "extra_at": "2026-11-24T15:42:33.869237+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/p/DgBf5mfvezp",
      "platform": "Instagram"
     },
@@ -3289,76 +3375,6 @@
      "page": "https://www.elheraldo.co/sociedad/2026/11/23/asi-fue-el-vestido-de-gala-que-lucio-maria-alejandra-lopez-en-la-preliminar-de-miss-universo-2026/",
      "via": "El Heraldo",
      "credit": "El Heraldo"
-    },
-    {
-     "url": "https://images.visitarepublicadominicana.org/Republica-Domicana-Isla-Cayo-Levantado.jpg",
-     "page": "https://www.visitdominicanrepublic.org/dominican-republic-tourims",
-     "via": "Bing Imágenes",
-     "credit": "visitdominicanrepublic.org",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.BxFWC9cCTOKu6n-HraHrlQHaE9&pid=15.1"
-    },
-    {
-     "url": "https://lp-cms-production.imgix.net/2025-03/Shutterstock1045120846.jpg?auto=format,compress&q=72&fit=crop",
-     "page": "https://cappadociaconcepttour.com/places/best-place-for-tourist-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "cappadociaconcepttour.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LnbWZE9U45OQVNjZN4LsqAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://media.vogue.co.uk/photos/5f2436b4b9b4e09049750eeb/master/pass/RMP11 Cayo Levantado. Samaná.jpg",
-     "page": "https://specrizy.com/post/best-tourist-attractions-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "specrizy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.qo9a_do422i4Y64OqekAvAHaJL&pid=15.1"
-    },
-    {
-     "url": "https://lp-cms-production.imgix.net/2019-06/69784245.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
-     "page": "https://storage.googleapis.com/dvmuqdurhchjde/best-places-to-travel-in-the-dominican-republic.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.tVfEUfdZA4Uy6LNA0umsuwHaE7&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oawzB4N-oTk/maxresdefault.jpg",
-     "page": "https://guideyourtrips.blogspot.com/2020/01/tourist-destination-in-dominican.html",
-     "via": "Bing Imágenes",
-     "credit": "guideyourtrips.blogspot.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.HFxYJQJyW805MVVSP9rQywHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.outlooktravelmag.com/media/Dominican-Republic-Guide-new-jpg-webp.webp",
-     "page": "https://guidebookbali.com/blog/top-5-tourist-attractions-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "guidebookbali.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.d94xfaLQATsr0a-918Tw6AHaFE&pid=15.1"
-    },
-    {
-     "url": "https://cdn.kimkim.com/files/a/images/2c90084bdff4891e360d046750d4d950e359aafd/big-67f6c6f4a2aeb824037516e294e196f0.jpg",
-     "page": "https://campingground.info/the-best-time-to-visit-the-dominican-republic/",
-     "via": "Bing Imágenes",
-     "credit": "campingground.info",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Re_5amgD9mrFaDUmtzyJRAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://adm.dookinternational.com/dook/images/country/F3DJXGId1678945382.jpg",
-     "page": "https://www.dookinternational.com/dominican-republic-tourist-attractions",
-     "via": "Bing Imágenes",
-     "credit": "dookinternational.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1hgOyqHMe_98bIWzih3H5QHaC6&pid=15.1"
-    },
-    {
-     "url": "https://travelroo.com/api/postcdn/content/images/2023/04/Best-Tourist-Attractions-in-the-Dominican-Republic.jpg",
-     "page": "https://travelroo.com/travel-destinations/bests-tourist-attractions-in-the-dominican-republic-sm1",
-     "via": "Bing Imágenes",
-     "credit": "travelroo.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.bmpBkZv8LyeyhmXr9Zz6ZQHaEL&pid=15.1"
-    },
-    {
-     "url": "https://www.tripsavvy.com/thmb/NwZMrcOhZ3VtWgoeXcQPRFXEo0Q=/3100x1949/filters:fill(auto,1)/caribbean-beach-and-dominican-republic-flag-504045298-49fbc6a26bc542a3973a116c3e3fad45.jpg",
-     "page": "https://www.tripsavvy.com/best-things-to-do-in-the-dominican-republic-4690163",
-     "via": "Bing Imágenes",
-     "credit": "tripsavvy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1tHCOmXyTCm5QMnsF157fgHaEq&pid=15.1"
     }
    ],
    "social_urls": [
@@ -3386,107 +3402,8 @@
     "https://www.youtube.com/watch?v=YP48RsxV6BQ"
    ],
    "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://images.visitarepublicadominicana.org/Republica-Domicana-Isla-Cayo-Levantado.jpg",
-     "page": "https://www.visitdominicanrepublic.org/dominican-republic-tourims",
-     "via": "Bing Imágenes",
-     "credit": "visitdominicanrepublic.org",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.BxFWC9cCTOKu6n-HraHrlQHaE9&pid=15.1"
-    },
-    {
-     "url": "https://lp-cms-production.imgix.net/2025-03/Shutterstock1045120846.jpg?auto=format,compress&q=72&fit=crop",
-     "page": "https://cappadociaconcepttour.com/places/best-place-for-tourist-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "cappadociaconcepttour.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.LnbWZE9U45OQVNjZN4LsqAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://media.vogue.co.uk/photos/5f2436b4b9b4e09049750eeb/master/pass/RMP11 Cayo Levantado. Samaná.jpg",
-     "page": "https://specrizy.com/post/best-tourist-attractions-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "specrizy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.qo9a_do422i4Y64OqekAvAHaJL&pid=15.1"
-    },
-    {
-     "url": "https://lp-cms-production.imgix.net/2019-06/69784245.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4",
-     "page": "https://storage.googleapis.com/dvmuqdurhchjde/best-places-to-travel-in-the-dominican-republic.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.tVfEUfdZA4Uy6LNA0umsuwHaE7&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/oawzB4N-oTk/maxresdefault.jpg",
-     "page": "https://guideyourtrips.blogspot.com/2020/01/tourist-destination-in-dominican.html",
-     "via": "Bing Imágenes",
-     "credit": "guideyourtrips.blogspot.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.HFxYJQJyW805MVVSP9rQywHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.outlooktravelmag.com/media/Dominican-Republic-Guide-new-jpg-webp.webp",
-     "page": "https://guidebookbali.com/blog/top-5-tourist-attractions-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "guidebookbali.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.d94xfaLQATsr0a-918Tw6AHaFE&pid=15.1"
-    },
-    {
-     "url": "https://cdn.kimkim.com/files/a/images/2c90084bdff4891e360d046750d4d950e359aafd/big-67f6c6f4a2aeb824037516e294e196f0.jpg",
-     "page": "https://campingground.info/the-best-time-to-visit-the-dominican-republic/",
-     "via": "Bing Imágenes",
-     "credit": "campingground.info",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Re_5amgD9mrFaDUmtzyJRAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://adm.dookinternational.com/dook/images/country/F3DJXGId1678945382.jpg",
-     "page": "https://www.dookinternational.com/dominican-republic-tourist-attractions",
-     "via": "Bing Imágenes",
-     "credit": "dookinternational.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1hgOyqHMe_98bIWzih3H5QHaC6&pid=15.1"
-    },
-    {
-     "url": "https://travelroo.com/api/postcdn/content/images/2023/04/Best-Tourist-Attractions-in-the-Dominican-Republic.jpg",
-     "page": "https://travelroo.com/travel-destinations/bests-tourist-attractions-in-the-dominican-republic-sm1",
-     "via": "Bing Imágenes",
-     "credit": "travelroo.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.bmpBkZv8LyeyhmXr9Zz6ZQHaEL&pid=15.1"
-    },
-    {
-     "url": "https://www.tripsavvy.com/thmb/NwZMrcOhZ3VtWgoeXcQPRFXEo0Q=/3100x1949/filters:fill(auto,1)/caribbean-beach-and-dominican-republic-flag-504045298-49fbc6a26bc542a3973a116c3e3fad45.jpg",
-     "page": "https://www.tripsavvy.com/best-things-to-do-in-the-dominican-republic-4690163",
-     "via": "Bing Imágenes",
-     "credit": "tripsavvy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.1tHCOmXyTCm5QMnsF157fgHaEq&pid=15.1"
-    },
-    {
-     "url": "https://a.cdn-hotels.com/gdcs/production59/d1989/ce88947a-f6db-46bb-b1c1-22316a76de5f.jpg",
-     "page": "https://es.hoteles.com/go/dominican-republic/best-things-to-do-santo-domingo",
-     "via": "Bing Imágenes",
-     "credit": "es.hoteles.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.me_1lKA69HGO5S7Nt0D1JQHaE7&pid=15.1"
-    },
-    {
-     "url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/70/3c/92/photo2jpg.jpg?w=1000&h=-1&s=1",
-     "page": "https://www.tripadvisor.ca/Attractions-g147288-Activities-Dominican_Republic.html",
-     "via": "Bing Imágenes",
-     "credit": "tripadvisor.ca",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP._DVLQhgnTHix5fp1gEbcOAHaFj&pid=15.1"
-    },
-    {
-     "url": "https://images.visitarepublicadominicana.org/Puerto-Playa-Republica-Dominicana.jpg",
-     "page": "https://www.visitdominicanrepublic.org/dominican-republic-tourims",
-     "via": "Bing Imágenes",
-     "credit": "visitdominicanrepublic.org",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ttz22_TZoFhmRuI1DyUuhwHaE7&pid=15.1"
-    },
-    {
-     "url": "https://images.squarespace-cdn.com/content/v1/5aa55adbec4eb740e5effcd6/1521496667441-BTCIHBUGX7U4FR35EMLO/DSC00584.jpg",
-     "page": "https://inbetweenpictures.com/blog/places-to-visit-in-dominican-republic",
-     "via": "Bing Imágenes",
-     "credit": "inbetweenpictures.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Kz4UzRqfPC7NM8lYNmjr5wHaLG&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T13:26:23.744497+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T16:30:34.294552+00:00",
    "social": [
     {
      "fetched": "2026-11-24T15:58:33.717244+00:00",
@@ -3585,18 +3502,18 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DgELcfUmVzt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
@@ -4084,22 +4001,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DgELcfUmVzt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DgF163yzZSr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.instagram.com/reel/DgFgIipRDFw",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
@@ -4111,13 +4028,13 @@
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T15:26:33.262569+00:00",
+     "fetched": "2026-11-24T16:30:34.294552+00:00",
      "url": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
@@ -4143,7 +4060,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T08:26:00+00:00",
+   "start": "2026-11-23T08:54:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4173,8 +4090,7 @@
     "4c9e28e405cc31",
     "0c9820b5de0382",
     "b7f73d6009c7d1",
-    "022674c258f7d9",
-    "7696926936d8b3"
+    "022674c258f7d9"
    ],
    "sources": [
     "2001online",
@@ -4202,7 +4118,7 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 29,
+   "n_items": 28,
    "n_sources": 24,
    "videos": [],
    "views_total": 0,
@@ -4407,46 +4323,46 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/d821049e09b0a8f13ff68927bdf0c4af2d9dd46ac24822e9b4edae69b5130573/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf/page1-1280px-1967_Census_of_Transportation._Commodity_Transportation_survey_%28IA_1967censusoftran31unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:1967_Census_of_Transportation._Commodity_Transportation_survey_(IA_1967censusoftran31unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/ed18acec02d9d1644e26b4384ac7746b7f91e396bea2d59488d4137fa2ea9345/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F6cc280bc204871b2cb1ac76f5a097577.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ana_Cristina_Mu%C3%B1oz_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_(cropped).jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/32c817cfc60e9b8a54a765687648d8fabc286fffcce5d55e6f9c9b1033ddfffe/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fef46956ed33b24c668b91bfae9ee8d55.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Ana_Cristina_Mu%C3%B1oz_-_Guanajuato.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/ec211a75d299a6dc48c2c26ae84114dc0ab6ec532bab386c6ca1d2a1c4b76609/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F464032505843bf47c66b1a3a633415c2.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Mara_Topi%C4%87.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mara_Topi%C4%87.png",
+     "via": "Wikimedia Commons",
+     "license": "CC BY 3.0",
+     "credit": "GrandTV"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/9fb94581f80c16bbf108e3d5f891a43a34b1d6744b037876b0f6e3ec51f13df4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2F7fd0b555e97577a46c9a79e51e636e1e.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Mar%C3%ADa_Vargas_walking_in_Miss_Universe_Mexico_2026_National_Costume.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos"
     },
     {
-     "url": "https://s.yimg.com/lo/mysterio/api/1b49c726df307ce3a069ca491b3f1459f2ab8650bdc6ba80f8cfb759f33eb5d8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Ff30cb21be1e97bdb1198e041224a6368.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
-    },
-    {
-     "url": "https://s.yimg.com/lo/mysterio/api/3df99551a4eba321676d004a4980285579ee2f8eb95c2eabed8fa6bc435e49bc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhola_americas_340%2Fabf1d79da8fd5215fd8bf0eb3f5df1d3.jpg",
-     "page": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/miss-universe-2026-contestants-dazzle-162601980.html",
-     "via": "Yahoo",
-     "credit": "Yahoo"
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Miss_Universe_Mexico_2026_National_Costume.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Miss_Universe_Mexico_2026_National_Costume.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Ayuntamiento de Los Cabos﻿"
     }
    ],
    "social_urls": [
@@ -4524,7 +4440,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 80
+   "score": 79
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -5387,7 +5303,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5541,7 +5457,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5574,8 +5490,7 @@
     "4c9e28e405cc31",
     "0c9820b5de0382",
     "b7f73d6009c7d1",
-    "022674c258f7d9",
-    "7696926936d8b3"
+    "022674c258f7d9"
    ],
    "sources": [
     "2001online",
@@ -5605,7 +5520,7 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 31,
+   "n_items": 30,
    "n_sources": 26,
    "videos": [],
    "views_total": 0,
@@ -5820,7 +5735,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 85
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5831,7 +5746,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5880,7 +5795,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6111,7 +6026,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6342,7 +6257,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T16:22:33.353539+00:00",
+   "first_seen": "2026-11-24T16:30:34.294552+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
