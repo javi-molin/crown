@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:18:41.742679+00:00",
+ "updated": "2026-11-24T21:26:42.251306+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -155,7 +155,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -166,6 +166,7 @@
     "0030d5a01359a6",
     "d001bd0993a7de",
     "ec6fde3ff2585e",
+    "fac180ffe43621",
     "99e7b24f7a64c2",
     "81be2976543034",
     "efac2931cf5586",
@@ -185,7 +186,9 @@
     "5d8508f8e2d5a9",
     "667f7d9ea2926d",
     "6bff2b931d6c9a",
+    "5e16ce5d48bbc6",
     "0113d8cc1a6cf2",
+    "caf32e775e76cb",
     "979b210c1fa79f",
     "2864dd9c86d9f2",
     "7019436ad484c1",
@@ -252,6 +255,7 @@
     "ed63072c867f6c",
     "6eed77c0b0255d",
     "b8a744cc997ab6",
+    "5f396bf97feda2",
     "22f53e92fcc8a7",
     "6debc80e4373ec",
     "b586e66fe7f290",
@@ -274,11 +278,7 @@
     "531d169161f5b5",
     "e407389b3b9fed",
     "91536525a60d1e",
-    "533a459e19e5ad",
-    "e55373789e87fb",
-    "6dea49a0b12430",
-    "7c8aead19c9331",
-    "d6eb174cb9791d"
+    "533a459e19e5ad"
    ],
    "sources": [
     "24 horas",
@@ -368,6 +368,7 @@
     "Publimetro",
     "Radio Agricultura",
     "Radio Imagina",
+    "Remolacha",
     "Reporte Indigo",
     "Reporte Índigo",
     "Revista Caretas",
@@ -405,8 +406,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 223,
-   "n_sources": 123,
+   "n_items": 227,
+   "n_sources": 124,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -422,7 +423,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 472
+   "score": 478
   },
   {
    "key": "p:the big night",
@@ -1267,7 +1268,7 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
@@ -1343,15 +1344,13 @@
     "533c2b81042a83",
     "042e845d46aab7",
     "8e6a423055992f",
-    "16bd9bab11c10b",
-    "ad5321b491cf7d"
+    "16bd9bab11c10b"
    ],
    "sources": [
     "2001online",
     "BellaNaija",
     "BioBioChile",
     "Business Insider",
-    "Clx Icons",
     "DUPLOS.CL",
     "Depor",
     "Diario El Centro",
@@ -1372,15 +1371,15 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 27,
-   "n_sources": 24,
+   "n_items": 26,
+   "n_sources": 23,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 9410,
-     "likes": 159,
+     "likes": 160,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
@@ -1585,12 +1584,12 @@
    "extra_at": "2026-11-24T19:58:34.228758+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     }
@@ -1601,7 +1600,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 78
+   "score": 75
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -2072,55 +2071,9 @@
    ],
    "n_items": 6,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "bOQPhh12lBo",
-     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
-     "channel": "Hi Along",
-     "views": 24864,
-     "ago": "hace 9 días",
-     "official": false
-    },
-    {
-     "vid": "eNW-a9sHZso",
-     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
-     "channel": "Hi Along",
-     "views": 6710,
-     "ago": "hace 6 días",
-     "official": false
-    },
-    {
-     "vid": "sBc2cmDSTWE",
-     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
-     "channel": "SNOW SIN FILTRO",
-     "views": 3885,
-     "ago": "hace 9 días",
-     "official": false
-    }
-   ],
-   "views_total": 35459,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
-     "via": "YouTube (miniatura)",
-     "credit": "SNOW SIN FILTRO"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
      "page": "https://www.critica.com.pa/show/panama-brilla-en-japon-rumbo-la-final-del-miss-international-2026-520420",
@@ -2250,7 +2203,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 15
   },
   {
    "key": "p:crown confidential",
@@ -2298,7 +2251,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 34900,
+     "views": 35075,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2307,13 +2260,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 28333,
+     "views": 28495,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 63233,
+   "views_total": 63570,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2608,13 +2561,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 476208,
+     "views": 480114,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 476208,
+   "views_total": 480114,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2724,7 +2677,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 59
+   "score": 60
   },
   {
    "key": "t:mi:Gala / cena:2026-11-24",
@@ -3788,12 +3741,12 @@
    "extra_at": "2026-11-24T19:42:33.351696+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DewuFMYMoLR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/reel/Df6m8TGu8hk",
      "platform": "Instagram"
     }
@@ -3819,7 +3772,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T15:17:10+00:00",
+   "start": "2026-11-23T15:33:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3842,9 +3795,6 @@
     "fe2e2de8c6f713",
     "6b20605c824873",
     "16bd9bab11c10b",
-    "2724720c48a7f6",
-    "ad5321b491cf7d",
-    "0196740579222e",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "d1d6d051c0daab",
@@ -3854,7 +3804,6 @@
     "8b814ff72ceef6",
     "e0679bb7c0e255",
     "d5ec02365e0bfe",
-    "b907982e24c308",
     "8cf0fc6990ed16",
     "324cebec8ab952"
    ],
@@ -3866,9 +3815,7 @@
     "Bombay Times",
     "Business Insider",
     "CiberCuba",
-    "Clx Icons",
     "El Comercio Perú",
-    "El Heraldo",
     "El Informador",
     "El País",
     "El Siglo",
@@ -3876,8 +3823,6 @@
     "El Universo",
     "Facebook",
     "HOLA",
-    "Listín Diario",
-    "Meganoticias",
     "Metro.Style",
     "Milenio on MSN",
     "Minuto60",
@@ -3889,15 +3834,15 @@
     "Vistazo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 35,
-   "n_sources": 29,
+   "n_items": 31,
+   "n_sources": 25,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 9410,
-     "likes": 159,
+     "likes": 160,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
@@ -4104,46 +4049,53 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/UIBB/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://static.vecteezy.com/system/resources/previews/052/067/746/non_2x/christmas-mail-postcard-hand-drawn-illustration-on-white-vector.jpg",
+     "page": "https://es.vecteezy.com/arte-vectorial/52067746-navidad-correo-tarjeta-postal-mano-dibujado-ilustracion-en-blanco",
+     "via": "Bing Imágenes",
+     "credit": "es.vecteezy.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.TBZp1iPsgJQVH7NfwW18LAHaEm&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/1200d630/none/45933/WUKV/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://img.freepik.com/vector-premium/postal-navidena-tarjeta-postal-vacaciones-vintage-sello-elementos-invierno-mensaje-saludo-ano-nuevo-carta-invitacion-marco-publicacion-kraft-conjunto-aislado-vector-reverso-papel-blanco_176411-2437.jpg?w=2000",
+     "page": "https://www.freepik.es/vector-premium/postal-navidena-tarjeta-postal-vacaciones-vintage-sello-elementos-invierno-mensaje-saludo-ano-nuevo-carta-invitacion-marco-publicacion-kraft-conjunto-aislado-vector-reverso-papel-blanco_20053454.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Tt3Ar8A10q8WwzzF58WCqAHaFj&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/1260x945/0c0/0d0/none/45933/UIBG/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://4.bp.blogspot.com/-TTqxHWxeaMI/WCkWBgcFm_I/AAAAAAAAJsc/lXfVZGNgKA8cDJtwdJ6Nx3nUDy6Uf1bRQCEw/s1600/Postal%2BNavide%25C3%25B1a%2B1%2B%2528interior%2529.jpg",
+     "page": "https://lafabricadelospeques.com/imprimibles-gratis-postales-navidad/",
+     "via": "Bing Imágenes",
+     "credit": "lafabricadelospeques.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.H4NvKFcr2mvl2m1MT1Bt8AHaEc&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/DHRH/luisa-pineda-traje-tipico-miss-unive_16198722_20261121193539.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://media.istockphoto.com/id/1429284995/es/vector/plantilla-de-postal-navideña-vintage-vectorial-aislada-sobre-fondo-blanco-postal-retro.jpg?s=1024x1024&w=is&k=20&c=nbWtyX1eEkPJ3krLHaIs4BRNDE_60zrW3gO6i-SIOAE=",
+     "page": "https://www.istockphoto.com/es/vector/plantilla-de-postal-navideña-vintage-vectorial-aislada-sobre-fondo-blanco-postal-gm1429284995-472515825",
+     "via": "Bing Imágenes",
+     "credit": "istockphoto.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ohyum2_kjnAxv7zW4h9BDAHaEt&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/301x226/0c0/300d225/none/45933/ONRV/luisa-pineda-miss-honduras_16205726_20261122180653.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://img.freepik.com/vector-premium/tarjeta-postal-navidena-ilustracion-dibujada-mano_514781-3021.jpg?w=2000",
+     "page": "https://www.freepik.es/vector-premium/tarjeta-postal-navidena-ilustracion-dibujada-mano_392856717.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.whkYGLyOlmLtjVanbiHk8gHaEm&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/XBRI/1_16211841_20261123143018.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://3.bp.blogspot.com/-OTIWeZ8cWrA/WCm1filp1tI/AAAAAAAAJs4/xRhzwwLha2gZE2PVpgLcjVKvpeFi3cpUwCLcB/s1600/Postal%2B4%2B%2528interior%2529%2Bblanca%2Bcon%2Bmarca%2Bde%2Bagua.jpg",
+     "page": "https://lafabricadelospeques.com/imprimibles-gratis-postales-navidad/",
+     "via": "Bing Imágenes",
+     "credit": "lafabricadelospeques.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.kM6orfVRksqwY_YJKQLrTwHaEc&pid=15.1"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/GJBQ/capturados-2_16214143_20261123164051.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
+     "url": "https://static.bainet.es/clip/8b38156c-aeb1-47cd-b67a-4a3c11b1b562_source-aspect-ratio_default_0.jpg",
+     "page": "https://www.hogarmania.com/decoracion/manualidades/otros/postales-navidenas-12601.html",
+     "via": "Bing Imágenes",
+     "credit": "hogarmania.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.YfFlgom34BStCwJbVZTzNgHaEK&pid=15.1"
     }
    ],
    "social_urls": [
@@ -4226,7 +4178,7 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -4243,7 +4195,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 96
+   "score": 84
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4257,7 +4209,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T20:06:33.526754+00:00",
-   "start": "2026-11-23T15:18:00+00:00",
+   "start": "2026-11-23T15:44:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "d1d6d051c0daab",
@@ -4271,22 +4223,20 @@
     "2cf13dd8052450",
     "fe2e2de8c6f713",
     "6b20605c824873",
-    "d5ec02365e0bfe",
-    "b907982e24c308"
+    "d5ec02365e0bfe"
    ],
    "sources": [
     "Ambito",
     "CiberCuba",
     "El Comercio Perú",
-    "El Heraldo",
     "El Universo",
     "Facebook",
     "Milenio on MSN",
     "Noticia al Dia",
     "Vistazo"
    ],
-   "n_items": 13,
-   "n_sources": 9,
+   "n_items": 12,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4333,66 +4283,6 @@
      "credit": "El Universo"
     },
     {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/UIBB/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/1200d630/none/45933/WUKV/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1260x945/0c0/0d0/none/45933/UIBG/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/DHRH/luisa-pineda-traje-tipico-miss-unive_16198722_20261121193539.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/301x226/0c0/300d225/none/45933/ONRV/luisa-pineda-miss-honduras_16205726_20261122180653.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/XBRI/1_16211841_20261123143018.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/GJBQ/capturados-2_16214143_20261123164051.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/WVWQ/capturados-1_16212624_20261123153720.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/RFLC/socializacion-de-presupuesto-con-ban_16212849_20261123151557.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/NOYD/cortes-de-energia-24-de-noviembre_16211635_20261123140659.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
      "url": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/23603c3e-e3eb-4511-92e7-71fc8178942b/851f5101-dca7-45bf-8913-9a1fcde6cf5f.png",
      "page": "https://www.cars.com/research/volvo-s40-2009/",
      "via": "Bing Imágenes",
@@ -4416,7 +4306,7 @@
    "extra_at": "2026-11-24T20:30:34.059433+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T20:22:33.436925+00:00",
+     "fetched": "2026-11-24T21:26:42.251306+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     }
@@ -4427,7 +4317,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 31
+   "score": 28
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4441,7 +4331,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T15:20:22+00:00",
+   "start": "2026-11-23T15:33:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -4461,8 +4351,7 @@
     "042e845d46aab7",
     "fba6177a7c1ca8",
     "8e6a423055992f",
-    "16bd9bab11c10b",
-    "ad5321b491cf7d"
+    "16bd9bab11c10b"
    ],
    "sources": [
     "2001online",
@@ -4470,7 +4359,6 @@
     "BioBioChile",
     "Bombay Times",
     "Business Insider",
-    "Clx Icons",
     "Diario Las Américas",
     "El Informador",
     "El Universo",
@@ -4483,15 +4371,15 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 19,
-   "n_sources": 17,
+   "n_items": 18,
+   "n_sources": 16,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
      "views": 9410,
-     "likes": 159,
+     "likes": 160,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
@@ -4773,7 +4661,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 56
+   "score": 53
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4784,7 +4672,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4813,16 +4701,12 @@
     "2cf13dd8052450",
     "fe2e2de8c6f713",
     "6b20605c824873",
-    "16bd9bab11c10b",
-    "2724720c48a7f6",
-    "ad5321b491cf7d",
-    "0196740579222e"
+    "16bd9bab11c10b"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
     "2001online",
     "CiberCuba",
-    "Clx Icons",
     "El Comercio Perú",
     "El Nuevo Día",
     "El País",
@@ -4831,8 +4715,6 @@
     "El Universal",
     "Facebook",
     "HOLA",
-    "Listín Diario",
-    "Meganoticias",
     "Metro.Style",
     "Minuto60",
     "Music Mundial",
@@ -4842,8 +4724,8 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 29,
-   "n_sources": 22,
+   "n_items": 26,
+   "n_sources": 19,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5057,7 +4939,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 76
+   "score": 67
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5068,7 +4950,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5090,8 +4972,7 @@
     "533c2b81042a83",
     "042e845d46aab7",
     "8e6a423055992f",
-    "16bd9bab11c10b",
-    "ad5321b491cf7d"
+    "16bd9bab11c10b"
    ],
    "sources": [
     "2001online",
@@ -5099,7 +4980,6 @@
     "BioBioChile",
     "Bombay Times",
     "Business Insider",
-    "Clx Icons",
     "Correo del Caroní",
     "Diario Las Américas",
     "Diario Primicia",
@@ -5112,8 +4992,8 @@
     "YouTube · Telemundo Entretenimiento",
     "tvmas.tv"
    ],
-   "n_items": 20,
-   "n_sources": 17,
+   "n_items": 19,
+   "n_sources": 16,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5327,7 +5207,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 57
+   "score": 54
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5338,7 +5218,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5513,7 +5393,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5526,7 +5406,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T21:18:41.742679+00:00",
+   "extra_at": "2026-11-24T21:26:42.251306+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5546,7 +5426,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5557,193 +5437,207 @@
    "views_total": 0,
    "images": [
     {
-     "url": "https://imgv2-2-f.scribdassets.com/img/document/865047010/original/740bba0065/1?v=1",
-     "page": "https://es.scribd.com/document/865047010/VESTIMENTA-DE-LA-REGION-AMAZONIA",
+     "url": "https://mario.wiki.gallery/images/b/b6/Wii_Photo_Channel_1.0.png",
+     "page": "https://www.mariowiki.com/File:Wii_Photo_Channel_1.0.png",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.BlR6hdw-HEp4iNlv1MMc9gHaFP&pid=15.1"
+     "credit": "mariowiki.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.S5v9PiBlAV6LsmfAEj7TWQHaED&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/cb/67/33/cb673399efcca1ff32d1836d5fe91e84.jpg",
-     "page": "https://www.pinterest.com/pin/traje-tpico-de-la-amazonia-ecuatoriana--342273640448874927/",
+     "url": "https://i.ytimg.com/vi/dAWNB_AW1ZI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGuBoACkAWKAgwIABABGGUgVChAMA8=&rs=AOn4CLAOGgiz8A8f4NxuBPdppHd7k3ANRA",
+     "page": "https://www.youtube.com/watch?v=dAWNB_AW1ZI",
      "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cw7Ru7yL5nlwwtdNwEW-GwHaJ4&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.064f6yR7SS4B1YNt8jnNYAHaFj&pid=15.1"
     },
     {
-     "url": "https://trexperienceperu.com/sites/default/files/amazon-traditional-dress_0.webp",
-     "page": "https://trexperienceperu.com/es/blog/ropa-tradicional-peruana",
+     "url": "https://nindb.net/wii/_img/channels/photo-channel.jpg",
+     "page": "https://nindb.net/wii/channels/index.html",
      "via": "Bing Imágenes",
-     "credit": "trexperienceperu.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.flKsHINh6oCoAKFyCnsNZAHaE8&pid=15.1"
+     "credit": "nindb.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Q3d-tQ0w4Xv5I1hAyTRj7wAAAA&pid=15.1"
     },
     {
-     "url": "http://1.bp.blogspot.com/-FfSN3UNsUWo/VXkeT-RMSEI/AAAAAAAAAF4/c-1R-anUOxY/s1600/Kotococha116.jpg",
-     "page": "http://regionesytradiciones27.blogspot.com/2015/06/region-amazonica.html",
+     "url": "https://sm.pcmag.com/t/pcmag_uk/photo/h/hands-on-w/hands-on-with-nintendo-wii-photo-channel_xz2u.1024.jpg",
+     "page": "https://uk.pcmag.com/electronics/81388/hands-on-with-nintendo-wii",
      "via": "Bing Imágenes",
-     "credit": "regionesytradiciones27.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XMOd-YfkP-psca-B0SrCzwHaJ4&pid=15.1"
+     "credit": "uk.pcmag.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-xrqV3x1D86vf699rmfTogHaEM&pid=15.1"
     },
     {
-     "url": "https://imgv2-2-f.scribdassets.com/img/document/625806990/149x198/4527ca11a9/1749097576?v=1",
-     "page": "https://es.scribd.com/document/865047010/VESTIMENTA-DE-LA-REGION-AMAZONIA",
+     "url": "https://i.ytimg.com/vi/w2luPrA_ty0/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=w2luPrA_ty0",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.58aRl0XgJ9QXWGvRAyLbJAAAAA&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uh6tWmeFw-myuK1FPpNrTgHaEK&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/23/69/7f/23697fc02685043fdd14cdbfd6a92c29.jpg",
-     "page": "https://co.pinterest.com/pin/364228688635201714/",
+     "url": "https://i.ytimg.com/vi/-txa12FqXRw/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=-txa12FqXRw",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DJ0pSODCnNP5_8rFHVu6HAHaNK&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ECbU8f7HIru_tjR4wtxVQgHaEK&pid=15.1"
     },
     {
-     "url": "https://es-static.z-dn.net/files/d93/9329b89ba1a7131efe7e62b3b83afd10.jpg",
-     "page": "https://brainly.lat/tarea/64208661",
+     "url": "https://i.ytimg.com/vi/TrngFF22RlI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUChHMA8=&rs=AOn4CLBKBUHVEoFd8fN-DwMJh3LwbVTG-g",
+     "page": "https://www.youtube.com/watch?v=TrngFF22RlI",
      "via": "Bing Imágenes",
-     "credit": "brainly.lat",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.keJ7QixW1BL7a_W85ElhEgHaFE&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.63SjzysSpXY9cHxy0k_wfwHaEK&pid=15.1"
     },
     {
-     "url": "https://cdn.colombia.com/images/colombia-info/folclor-y-tradiciones/amazonas.jpg",
-     "page": "https://www.colombia.com/colombia-info/folclor-y-tradiciones/bailes-y-trajes-por-regiones/region-amazonica/",
+     "url": "https://i.ytimg.com/vi/gHtnwLQ6jrs/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=gHtnwLQ6jrs",
      "via": "Bing Imágenes",
-     "credit": "colombia.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.mTd7PyumdyKmM43_wcYlswHaEw&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.92WHYoY-RjXNFKbQHwItiQHaEK&pid=15.1"
     },
     {
-     "url": "https://imgv2-1-f.scribdassets.com/img/document/655059074/original/bc43ad8e6d/1717336619?v=1",
-     "page": "https://es.scribd.com/document/655059074/La-vestimenta-de-la-Amazonia-Ecuatoriana-depende-de-cada-tribu",
+     "url": "https://i.ytimg.com/vi/pyOTyc7nYVc/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pyOTyc7nYVc",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.TfhmZe7cPyifReesr4G-CwHaJ4&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xz6O2rRU1TAvk144-3l-6QHaEK&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/736x/ae/19/52/ae195270748408ea43fea49d49085ed6.jpg",
-     "page": "https://co.pinterest.com/pin/408490628719963167/",
+     "url": "https://i.ytimg.com/vi/Y94au_RPR2A/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgSigkMA8=&rs=AOn4CLDDnjMHPSK_KBHeO7QvEEBWN8cnAQ",
+     "page": "https://www.youtube.com/watch?v=Y94au_RPR2A",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Vjz3zwg3Mviq0z_rtp-r4wHaJ3&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.a338AtXpIGiXt4vcktLYVAHaFj&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/b6/0c/d2/b60cd2620ea7bcd4cf3096ae3c09f38e.jpg",
-     "page": "https://co.pinterest.com/pin/204350901837660565/",
+     "url": "https://i.ytimg.com/vi/eFsfY-dXipA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgZShOMA8=&rs=AOn4CLBgJ2s-D7Y2R51uXVM2mjmZz-Z7UQ",
+     "page": "https://www.youtube.com/watch?v=eFsfY-dXipA",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lvrSScSbK5My-QKhHvfHpAHaHa&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.AuBdffR2xkn8ZaPVGolHowHaEK&pid=15.1"
     },
     {
-     "url": "https://es-static.z-dn.net/files/d12/45018c48010e72b28edf5dbbaca41565.jpg",
-     "page": "https://brainly.lat/tarea/66438959",
+     "url": "https://i.ytimg.com/vi/5zbAbFWhan4/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=5zbAbFWhan4",
      "via": "Bing Imágenes",
-     "credit": "brainly.lat",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.T5UhLbxm3h4Afl6XbDDmBQAAAA&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.S1S2fKM12OyOJTuwU-3icgHaFj&pid=15.1"
     },
     {
-     "url": "https://image.slidesharecdn.com/fxyfyurs1ukopzdy8arl-signature-74e9b546d38501179962e7f8756739dd3a44d5e703bc843a3899f6f8ee8237fd-poli-210420203525/85/Region-Amazonica-8-320.jpg",
-     "page": "https://es.slideshare.net/slideshow/regin-amaznica-246582082/246582082",
+     "url": "https://trampoline.turbowarp.org/thumbnails/843558148",
+     "page": "https://turbowarp.org/843558148/fullscreen",
      "via": "Bing Imágenes",
-     "credit": "es.slideshare.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.BFXwLxE9EHm7K9gn1gAvugAAAA&pid=15.1"
+     "credit": "turbowarp.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ODgT55iBPNQzJsySUw2KZgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/30P_eygwy5c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACzgWKAgwIABABGBMgLSh_MA8=&rs=AOn4CLCg4sp1nq9CXsl8b-Qt5ZPA5c43Wg",
+     "page": "https://www.youtube.com/watch?v=30P_eygwy5c",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.px_SXkOX1UYacjRrQjj5FQHaEK&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [
     {
-     "url": "https://imgv2-2-f.scribdassets.com/img/document/865047010/original/740bba0065/1?v=1",
-     "page": "https://es.scribd.com/document/865047010/VESTIMENTA-DE-LA-REGION-AMAZONIA",
+     "url": "https://mario.wiki.gallery/images/b/b6/Wii_Photo_Channel_1.0.png",
+     "page": "https://www.mariowiki.com/File:Wii_Photo_Channel_1.0.png",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.BlR6hdw-HEp4iNlv1MMc9gHaFP&pid=15.1"
+     "credit": "mariowiki.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.S5v9PiBlAV6LsmfAEj7TWQHaED&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/cb/67/33/cb673399efcca1ff32d1836d5fe91e84.jpg",
-     "page": "https://www.pinterest.com/pin/traje-tpico-de-la-amazonia-ecuatoriana--342273640448874927/",
+     "url": "https://i.ytimg.com/vi/dAWNB_AW1ZI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGuBoACkAWKAgwIABABGGUgVChAMA8=&rs=AOn4CLAOGgiz8A8f4NxuBPdppHd7k3ANRA",
+     "page": "https://www.youtube.com/watch?v=dAWNB_AW1ZI",
      "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.cw7Ru7yL5nlwwtdNwEW-GwHaJ4&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.064f6yR7SS4B1YNt8jnNYAHaFj&pid=15.1"
     },
     {
-     "url": "https://trexperienceperu.com/sites/default/files/amazon-traditional-dress_0.webp",
-     "page": "https://trexperienceperu.com/es/blog/ropa-tradicional-peruana",
+     "url": "https://nindb.net/wii/_img/channels/photo-channel.jpg",
+     "page": "https://nindb.net/wii/channels/index.html",
      "via": "Bing Imágenes",
-     "credit": "trexperienceperu.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.flKsHINh6oCoAKFyCnsNZAHaE8&pid=15.1"
+     "credit": "nindb.net",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Q3d-tQ0w4Xv5I1hAyTRj7wAAAA&pid=15.1"
     },
     {
-     "url": "http://1.bp.blogspot.com/-FfSN3UNsUWo/VXkeT-RMSEI/AAAAAAAAAF4/c-1R-anUOxY/s1600/Kotococha116.jpg",
-     "page": "http://regionesytradiciones27.blogspot.com/2015/06/region-amazonica.html",
+     "url": "https://sm.pcmag.com/t/pcmag_uk/photo/h/hands-on-w/hands-on-with-nintendo-wii-photo-channel_xz2u.1024.jpg",
+     "page": "https://uk.pcmag.com/electronics/81388/hands-on-with-nintendo-wii",
      "via": "Bing Imágenes",
-     "credit": "regionesytradiciones27.blogspot.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XMOd-YfkP-psca-B0SrCzwHaJ4&pid=15.1"
+     "credit": "uk.pcmag.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-xrqV3x1D86vf699rmfTogHaEM&pid=15.1"
     },
     {
-     "url": "https://imgv2-2-f.scribdassets.com/img/document/625806990/149x198/4527ca11a9/1749097576?v=1",
-     "page": "https://es.scribd.com/document/865047010/VESTIMENTA-DE-LA-REGION-AMAZONIA",
+     "url": "https://i.ytimg.com/vi/w2luPrA_ty0/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=w2luPrA_ty0",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.58aRl0XgJ9QXWGvRAyLbJAAAAA&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.uh6tWmeFw-myuK1FPpNrTgHaEK&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/23/69/7f/23697fc02685043fdd14cdbfd6a92c29.jpg",
-     "page": "https://co.pinterest.com/pin/364228688635201714/",
+     "url": "https://i.ytimg.com/vi/-txa12FqXRw/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=-txa12FqXRw",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DJ0pSODCnNP5_8rFHVu6HAHaNK&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ECbU8f7HIru_tjR4wtxVQgHaEK&pid=15.1"
     },
     {
-     "url": "https://es-static.z-dn.net/files/d93/9329b89ba1a7131efe7e62b3b83afd10.jpg",
-     "page": "https://brainly.lat/tarea/64208661",
+     "url": "https://i.ytimg.com/vi/TrngFF22RlI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgUChHMA8=&rs=AOn4CLBKBUHVEoFd8fN-DwMJh3LwbVTG-g",
+     "page": "https://www.youtube.com/watch?v=TrngFF22RlI",
      "via": "Bing Imágenes",
-     "credit": "brainly.lat",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.keJ7QixW1BL7a_W85ElhEgHaFE&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.63SjzysSpXY9cHxy0k_wfwHaEK&pid=15.1"
     },
     {
-     "url": "https://cdn.colombia.com/images/colombia-info/folclor-y-tradiciones/amazonas.jpg",
-     "page": "https://www.colombia.com/colombia-info/folclor-y-tradiciones/bailes-y-trajes-por-regiones/region-amazonica/",
+     "url": "https://i.ytimg.com/vi/gHtnwLQ6jrs/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=gHtnwLQ6jrs",
      "via": "Bing Imágenes",
-     "credit": "colombia.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.mTd7PyumdyKmM43_wcYlswHaEw&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.92WHYoY-RjXNFKbQHwItiQHaEK&pid=15.1"
     },
     {
-     "url": "https://imgv2-1-f.scribdassets.com/img/document/655059074/original/bc43ad8e6d/1717336619?v=1",
-     "page": "https://es.scribd.com/document/655059074/La-vestimenta-de-la-Amazonia-Ecuatoriana-depende-de-cada-tribu",
+     "url": "https://i.ytimg.com/vi/pyOTyc7nYVc/maxresdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=pyOTyc7nYVc",
      "via": "Bing Imágenes",
-     "credit": "es.scribd.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.TfhmZe7cPyifReesr4G-CwHaJ4&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xz6O2rRU1TAvk144-3l-6QHaEK&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/736x/ae/19/52/ae195270748408ea43fea49d49085ed6.jpg",
-     "page": "https://co.pinterest.com/pin/408490628719963167/",
+     "url": "https://i.ytimg.com/vi/Y94au_RPR2A/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgSigkMA8=&rs=AOn4CLDDnjMHPSK_KBHeO7QvEEBWN8cnAQ",
+     "page": "https://www.youtube.com/watch?v=Y94au_RPR2A",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Vjz3zwg3Mviq0z_rtp-r4wHaJ3&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.a338AtXpIGiXt4vcktLYVAHaFj&pid=15.1"
     },
     {
-     "url": "https://i.pinimg.com/originals/b6/0c/d2/b60cd2620ea7bcd4cf3096ae3c09f38e.jpg",
-     "page": "https://co.pinterest.com/pin/204350901837660565/",
+     "url": "https://i.ytimg.com/vi/eFsfY-dXipA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFYgZShOMA8=&rs=AOn4CLBgJ2s-D7Y2R51uXVM2mjmZz-Z7UQ",
+     "page": "https://www.youtube.com/watch?v=eFsfY-dXipA",
      "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.lvrSScSbK5My-QKhHvfHpAHaHa&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.AuBdffR2xkn8ZaPVGolHowHaEK&pid=15.1"
     },
     {
-     "url": "https://es-static.z-dn.net/files/d12/45018c48010e72b28edf5dbbaca41565.jpg",
-     "page": "https://brainly.lat/tarea/66438959",
+     "url": "https://i.ytimg.com/vi/5zbAbFWhan4/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=5zbAbFWhan4",
      "via": "Bing Imágenes",
-     "credit": "brainly.lat",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.T5UhLbxm3h4Afl6XbDDmBQAAAA&pid=15.1"
+     "credit": "youtube.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.S1S2fKM12OyOJTuwU-3icgHaFj&pid=15.1"
     },
     {
-     "url": "https://image.slidesharecdn.com/fxyfyurs1ukopzdy8arl-signature-74e9b546d38501179962e7f8756739dd3a44d5e703bc843a3899f6f8ee8237fd-poli-210420203525/85/Region-Amazonica-8-320.jpg",
-     "page": "https://es.slideshare.net/slideshow/regin-amaznica-246582082/246582082",
+     "url": "https://trampoline.turbowarp.org/thumbnails/843558148",
+     "page": "https://turbowarp.org/843558148/fullscreen",
      "via": "Bing Imágenes",
-     "credit": "es.slideshare.net",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.BFXwLxE9EHm7K9gn1gAvugAAAA&pid=15.1"
+     "credit": "turbowarp.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.ODgT55iBPNQzJsySUw2KZgHaFj&pid=15.1"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/30P_eygwy5c/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACzgWKAgwIABABGBMgLSh_MA8=&rs=AOn4CLCg4sp1nq9CXsl8b-Qt5ZPA5c43Wg",
+     "page": "https://www.youtube.com/watch?v=30P_eygwy5c",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.px_SXkOX1UYacjRrQjj5FQHaEK&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-24T18:22:33.346304+00:00",
+   "extra_at": "2026-11-24T21:26:42.251306+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5763,7 +5657,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:18:41.742679+00:00",
+   "first_seen": "2026-11-24T21:26:42.251306+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
