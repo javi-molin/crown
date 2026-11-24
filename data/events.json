@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T14:06:23.851468+00:00",
+ "updated": "2026-11-24T14:14:23.725729+00:00",
  "count": 29,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "642e49b5145742",
+    "f9479b1f772a7b",
     "edf8bdfc69bb85",
     "62a395e0b2b110",
     "12e9f20fe2d343",
@@ -176,6 +178,7 @@
     "947424f16ba7ea",
     "1bbb195750a038",
     "5da124c3d706f9",
+    "a5a34ef7d30ba5",
     "6347b16aa9030d",
     "e9552ff3579ec2",
     "5b6f3845a242a6",
@@ -236,6 +239,7 @@
     "Eje Central",
     "El Comercio",
     "El Comercio Perú",
+    "El Horizonte",
     "El MorroCotudo",
     "El Nortero",
     "El Nuevo Día",
@@ -251,6 +255,7 @@
     "La Hora",
     "MARCA",
     "MILENIO",
+    "Meganoticias",
     "Meridiano.net",
     "Metro.Style",
     "Milenio",
@@ -272,8 +277,8 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 71,
-   "n_sources": 45,
+   "n_items": 74,
+   "n_sources": 47,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -289,7 +294,272 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 164
+   "score": 171
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
+   "start": "2026-11-24T04:16:00+00:00",
+   "last_activity": "2026-11-24T14:06:00+00:00",
+   "item_ids": [
+    "642e49b5145742",
+    "0875d634262de6",
+    "f385e6bd0a18f3",
+    "d203d71789de0e",
+    "2ee6983fd51208",
+    "72424c1e917654"
+   ],
+   "sources": [
+    "Diario Las Américas",
+    "El Nuevo Día",
+    "Gestión",
+    "Milenio on MSN"
+   ],
+   "n_items": 6,
+   "n_sources": 4,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://gestion.pe/resizer/v2/7J6NS37H2NDFVOEOTHKQGPSMXE.png?auth=743729914209d34cb753c2bd404dc76ec3b6bad99421a5972eaf8a2649740772&width=980&height=528&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/UAFABMRRE5F3XM25JFDN6ZL5UY.jpg?auth=0e371ea109e978320d999484dfc0cab76f1f5e5350d56b305644b26941ad28fc&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/YHRRUKT5F5BQZGIUJCXPZ4DNCY.png?auth=24917ac40a1b721715d2a71cba87e23a9a8381e3c9b01bc74dee9eb6b43e13b7&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/Y7ZX5R5YYVHCJNVLI2FTPZROX4.jpg?auth=311be864a8d7f9badc0504974794e82685a220343f869fb5512843e35455488e&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.kV84XcWLCIrKmK_8hdV7og&pid=News",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Bing (miniatura)",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dZrM9.img?w=768&h=432&m=6",
+     "page": "https://www.msn.com/es-es/estilo/other/los-expertos-en-adiestramiento-felino-coinciden-la-persona-favorita-de-los-gatos-es-siempre-la-que-respeta-sus-l%C3%ADmites/ar-AA2hNUJb",
+     "via": "Bing Imágenes",
+     "credit": "msn.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.f6nRWdo5Mhpp2flZrp66xw&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064678388334",
+     "page": "https://www.facebook.com/groups/1449424518718671/permalink/4689799068014517/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.%2bmx9aVjzMHbsQUYl%2fkFKXQ&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7700536538295209236&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@alejvndr25/video/7700536538295209236",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.iLT9M0JqdsC%2f3fKn9%2bMz0w&pid=15.1"
+    },
+    {
+     "url": "https://aprendum.b-cdn.net/images/estilismo-tendencias-raza-canina-felina_l_primaria_1_1795182739.jpg",
+     "page": "https://www.aprendum.mx/estilismo-tendencias-raza-canina-felina/",
+     "via": "Bing Imágenes",
+     "credit": "aprendum.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.Isem8BqpnCRD25IairN8nA&pid=15.1"
+    },
+    {
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hO8DN.img?w=1200&h=655&m=4&q=63",
+     "page": "https://www.msn.com/es-es/noticias/otras/los-veterinarios-y-expertos-en-salud-felina-coinciden-hay-5-productos-de-uso-diario-en-tu-casa-que-pueden-ser-mortales-para-tu-gato/ar-AA2hNMBJ",
+     "via": "Bing Imágenes",
+     "credit": "msn.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.%2bGqdoAllAE7qqMkjMa1zow&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/9f60ace209bd596bb9.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-intel-core-5-y-core-i5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.vFy%2bVHbR7VG8FT2nckI%2bVw&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/a7bc92a6daf1ca4666.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.qy0VCdYPiGBJqqgx5H473A&pid=15.1"
+    },
+    {
+     "url": "https://cdn.sincroguia.tv/storage/channels/1293-square.jpg",
+     "page": "https://sincroguia-tv.expansion.com/programas/la-salud-de-los-felinos--20wph-SPA",
+     "via": "Bing Imágenes",
+     "credit": "sincroguia-tv.expansion.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.7fMnJA2fJg%2fOZcwFjwnqWA&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/2032488b3aafdb93aa.png",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.c2lbgoAZePWcVRHTAEbW6g&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/996ec4cc935da1be6a.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.Al0RgdTAXn1TletssDpu0Q&pid=15.1"
+    },
+    {
+     "url": "https://www.infobae.com/resizer/v2/CNI7GQGV2RFJHED7F6IYEZYO4A.png?auth=f9e9fa56da5a730c796025b0565ff4d0114cd794fb59c74d383d75c8ca62dcf1&smart=true&width=350&height=233&quality=85",
+     "page": "https://www.infobae.com/espana/2026/11/03/cual-es-la-diferencia-entre-talon-y-pagare-y-como-puede-afectarte/",
+     "via": "Bing Imágenes",
+     "credit": "infobae.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.lMU8u3R1l315gukRCOHYvg&pid=15.1"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [
+    {
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dZrM9.img?w=768&h=432&m=6",
+     "page": "https://www.msn.com/es-es/estilo/other/los-expertos-en-adiestramiento-felino-coinciden-la-persona-favorita-de-los-gatos-es-siempre-la-que-respeta-sus-l%C3%ADmites/ar-AA2hNUJb",
+     "via": "Bing Imágenes",
+     "credit": "msn.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.f6nRWdo5Mhpp2flZrp66xw&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064678388334",
+     "page": "https://www.facebook.com/groups/1449424518718671/permalink/4689799068014517/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.%2bmx9aVjzMHbsQUYl%2fkFKXQ&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7700536538295209236&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@alejvndr25/video/7700536538295209236",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.iLT9M0JqdsC%2f3fKn9%2bMz0w&pid=15.1"
+    },
+    {
+     "url": "https://aprendum.b-cdn.net/images/estilismo-tendencias-raza-canina-felina_l_primaria_1_1795182739.jpg",
+     "page": "https://www.aprendum.mx/estilismo-tendencias-raza-canina-felina/",
+     "via": "Bing Imágenes",
+     "credit": "aprendum.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIF.Isem8BqpnCRD25IairN8nA&pid=15.1"
+    },
+    {
+     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hO8DN.img?w=1200&h=655&m=4&q=63",
+     "page": "https://www.msn.com/es-es/noticias/otras/los-veterinarios-y-expertos-en-salud-felina-coinciden-hay-5-productos-de-uso-diario-en-tu-casa-que-pueden-ser-mortales-para-tu-gato/ar-AA2hNMBJ",
+     "via": "Bing Imágenes",
+     "credit": "msn.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.%2bGqdoAllAE7qqMkjMa1zow&pid=15.1"
+    },
+    {
+     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066544364731",
+     "page": "https://www.facebook.com/groups/479825090855389/posts/1425046602999895/",
+     "via": "Bing Imágenes",
+     "credit": "facebook.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.uSSIFkpUhPk12%2fMIKmi27A&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7708892958556228897&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@catologyworld/video/7708892958556228897",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.tOFEm5wTkzYsE5n1NWewrw&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/9f60ace209bd596bb9.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-intel-core-5-y-core-i5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.vFy%2bVHbR7VG8FT2nckI%2bVw&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/a7bc92a6daf1ca4666.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIF.qy0VCdYPiGBJqqgx5H473A&pid=15.1"
+    },
+    {
+     "url": "https://cdn.sincroguia.tv/storage/channels/1293-square.jpg",
+     "page": "https://sincroguia-tv.expansion.com/programas/la-salud-de-los-felinos--20wph-SPA",
+     "via": "Bing Imágenes",
+     "credit": "sincroguia-tv.expansion.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.7fMnJA2fJg%2fOZcwFjwnqWA&pid=15.1"
+    },
+    {
+     "url": "https://www.tiktok.com/api/img/?itemId=7619114434014760213&location=0&aid=1988",
+     "page": "https://www.tiktok.com/@drmichelcarneiro/video/7619114434014760213",
+     "via": "Bing Imágenes",
+     "credit": "tiktok.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.O0hL1xGxJHM8a6Uc74Lf3w&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/2032488b3aafdb93aa.png",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.c2lbgoAZePWcVRHTAEbW6g&pid=15.1"
+    },
+    {
+     "url": "https://www.indurock.com/assets/indurock-static/original/996ec4cc935da1be6a.webp",
+     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
+     "via": "Bing Imágenes",
+     "credit": "indurock.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.Al0RgdTAXn1TletssDpu0Q&pid=15.1"
+    },
+    {
+     "url": "https://www.infobae.com/resizer/v2/CNI7GQGV2RFJHED7F6IYEZYO4A.png?auth=f9e9fa56da5a730c796025b0565ff4d0114cd794fb59c74d383d75c8ca62dcf1&smart=true&width=350&height=233&quality=85",
+     "page": "https://www.infobae.com/espana/2026/11/03/cual-es-la-diferencia-entre-talon-y-pagare-y-como-puede-afectarte/",
+     "via": "Bing Imágenes",
+     "credit": "infobae.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.lMU8u3R1l315gukRCOHYvg&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T14:06:23.851468+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 14
   },
   {
    "key": "t:mu:Votación:2026-11-24",
@@ -640,8 +910,7 @@
     "32ecd1243cc833",
     "80c60cbb148192",
     "ffaabc97ab634e",
-    "d1fa520e3a6c95",
-    "08f17075d21b2a"
+    "d1fa520e3a6c95"
    ],
    "sources": [
     "2001online",
@@ -653,7 +922,6 @@
     "Clx Icons",
     "DUPLOS.CL",
     "Depor",
-    "Diario Correo",
     "Diario El Centro",
     "Diario El Día",
     "Diario Las Américas",
@@ -683,10 +951,11 @@
     "Teletrece",
     "UnoTV on MSN",
     "Yahoo",
-    "YouTube · Telemundo Entretenimiento"
+    "YouTube · Telemundo Entretenimiento",
+    "minuto60"
    ],
-   "n_items": 58,
-   "n_sources": 41,
+   "n_items": 57,
+   "n_sources": 40,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -946,8 +1215,7 @@
     "https://www.instagram.com/p/Dct5YGWDLvh",
     "https://www.instagram.com/p/DgGoER2Dcs9",
     "https://www.instagram.com/reel/DgF6qFrhEyU",
-    "https://www.instagram.com/reel/DgF_BPzByah",
-    "https://www.youtube.com/watch?v=sH1MV7WNoYs"
+    "https://www.instagram.com/reel/DgF_BPzByah"
    ],
    "image_query": "Miss Universe 2026 vote top 30",
    "extra_images": [
@@ -1022,12 +1290,6 @@
      "fetched": "2026-11-24T13:50:23.357243+00:00",
      "url": "https://www.instagram.com/reel/DgF_BPzByah",
      "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T13:34:23.963362+00:00",
-     "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
     }
    ],
    "social_totals": {
@@ -1036,270 +1298,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 143
-  },
-  {
-   "key": "t:mu:Gala / cena:2026-11-24",
-   "id": "t-mu-gala-cena-2026-11-24-8532a",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T12:38:23.782201+00:00",
-   "start": "2026-11-24T04:16:00+00:00",
-   "last_activity": "2026-11-24T12:16:00+00:00",
-   "item_ids": [
-    "0875d634262de6",
-    "f385e6bd0a18f3",
-    "d203d71789de0e",
-    "2ee6983fd51208",
-    "72424c1e917654"
-   ],
-   "sources": [
-    "Diario Las Américas",
-    "Gestión",
-    "Milenio on MSN"
-   ],
-   "n_items": 5,
-   "n_sources": 3,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://gestion.pe/resizer/v2/7J6NS37H2NDFVOEOTHKQGPSMXE.png?auth=743729914209d34cb753c2bd404dc76ec3b6bad99421a5972eaf8a2649740772&width=980&height=528&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/UAFABMRRE5F3XM25JFDN6ZL5UY.jpg?auth=0e371ea109e978320d999484dfc0cab76f1f5e5350d56b305644b26941ad28fc&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/YHRRUKT5F5BQZGIUJCXPZ4DNCY.png?auth=24917ac40a1b721715d2a71cba87e23a9a8381e3c9b01bc74dee9eb6b43e13b7&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/Y7ZX5R5YYVHCJNVLI2FTPZROX4.jpg?auth=311be864a8d7f9badc0504974794e82685a220343f869fb5512843e35455488e&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.kV84XcWLCIrKmK_8hdV7og&pid=News",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Bing (miniatura)",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dZrM9.img?w=768&h=432&m=6",
-     "page": "https://www.msn.com/es-es/estilo/other/los-expertos-en-adiestramiento-felino-coinciden-la-persona-favorita-de-los-gatos-es-siempre-la-que-respeta-sus-l%C3%ADmites/ar-AA2hNUJb",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.f6nRWdo5Mhpp2flZrp66xw&pid=15.1"
-    },
-    {
-     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064678388334",
-     "page": "https://www.facebook.com/groups/1449424518718671/permalink/4689799068014517/",
-     "via": "Bing Imágenes",
-     "credit": "facebook.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.%2bmx9aVjzMHbsQUYl%2fkFKXQ&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7700536538295209236&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@alejvndr25/video/7700536538295209236",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.iLT9M0JqdsC%2f3fKn9%2bMz0w&pid=15.1"
-    },
-    {
-     "url": "https://aprendum.b-cdn.net/images/estilismo-tendencias-raza-canina-felina_l_primaria_1_1795182739.jpg",
-     "page": "https://www.aprendum.mx/estilismo-tendencias-raza-canina-felina/",
-     "via": "Bing Imágenes",
-     "credit": "aprendum.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.Isem8BqpnCRD25IairN8nA&pid=15.1"
-    },
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hO8DN.img?w=1200&h=655&m=4&q=63",
-     "page": "https://www.msn.com/es-es/noticias/otras/los-veterinarios-y-expertos-en-salud-felina-coinciden-hay-5-productos-de-uso-diario-en-tu-casa-que-pueden-ser-mortales-para-tu-gato/ar-AA2hNMBJ",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.%2bGqdoAllAE7qqMkjMa1zow&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/9f60ace209bd596bb9.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-intel-core-5-y-core-i5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIF.vFy%2bVHbR7VG8FT2nckI%2bVw&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/a7bc92a6daf1ca4666.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIF.qy0VCdYPiGBJqqgx5H473A&pid=15.1"
-    },
-    {
-     "url": "https://cdn.sincroguia.tv/storage/channels/1293-square.jpg",
-     "page": "https://sincroguia-tv.expansion.com/programas/la-salud-de-los-felinos--20wph-SPA",
-     "via": "Bing Imágenes",
-     "credit": "sincroguia-tv.expansion.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.7fMnJA2fJg%2fOZcwFjwnqWA&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/2032488b3aafdb93aa.png",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.c2lbgoAZePWcVRHTAEbW6g&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/996ec4cc935da1be6a.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.Al0RgdTAXn1TletssDpu0Q&pid=15.1"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/CNI7GQGV2RFJHED7F6IYEZYO4A.png?auth=f9e9fa56da5a730c796025b0565ff4d0114cd794fb59c74d383d75c8ca62dcf1&smart=true&width=350&height=233&quality=85",
-     "page": "https://www.infobae.com/espana/2026/11/03/cual-es-la-diferencia-entre-talon-y-pagare-y-como-puede-afectarte/",
-     "via": "Bing Imágenes",
-     "credit": "infobae.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.lMU8u3R1l315gukRCOHYvg&pid=15.1"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dZrM9.img?w=768&h=432&m=6",
-     "page": "https://www.msn.com/es-es/estilo/other/los-expertos-en-adiestramiento-felino-coinciden-la-persona-favorita-de-los-gatos-es-siempre-la-que-respeta-sus-l%C3%ADmites/ar-AA2hNUJb",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.f6nRWdo5Mhpp2flZrp66xw&pid=15.1"
-    },
-    {
-     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064678388334",
-     "page": "https://www.facebook.com/groups/1449424518718671/permalink/4689799068014517/",
-     "via": "Bing Imágenes",
-     "credit": "facebook.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.%2bmx9aVjzMHbsQUYl%2fkFKXQ&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7700536538295209236&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@alejvndr25/video/7700536538295209236",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.iLT9M0JqdsC%2f3fKn9%2bMz0w&pid=15.1"
-    },
-    {
-     "url": "https://aprendum.b-cdn.net/images/estilismo-tendencias-raza-canina-felina_l_primaria_1_1795182739.jpg",
-     "page": "https://www.aprendum.mx/estilismo-tendencias-raza-canina-felina/",
-     "via": "Bing Imágenes",
-     "credit": "aprendum.mx",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.Isem8BqpnCRD25IairN8nA&pid=15.1"
-    },
-    {
-     "url": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hO8DN.img?w=1200&h=655&m=4&q=63",
-     "page": "https://www.msn.com/es-es/noticias/otras/los-veterinarios-y-expertos-en-salud-felina-coinciden-hay-5-productos-de-uso-diario-en-tu-casa-que-pueden-ser-mortales-para-tu-gato/ar-AA2hNMBJ",
-     "via": "Bing Imágenes",
-     "credit": "msn.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.%2bGqdoAllAE7qqMkjMa1zow&pid=15.1"
-    },
-    {
-     "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100066544364731",
-     "page": "https://www.facebook.com/groups/479825090855389/posts/1425046602999895/",
-     "via": "Bing Imágenes",
-     "credit": "facebook.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIF.uSSIFkpUhPk12%2fMIKmi27A&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7708892958556228897&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@catologyworld/video/7708892958556228897",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.tOFEm5wTkzYsE5n1NWewrw&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/9f60ace209bd596bb9.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-intel-core-5-y-core-i5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIF.vFy%2bVHbR7VG8FT2nckI%2bVw&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/a7bc92a6daf1ca4666.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIF.qy0VCdYPiGBJqqgx5H473A&pid=15.1"
-    },
-    {
-     "url": "https://cdn.sincroguia.tv/storage/channels/1293-square.jpg",
-     "page": "https://sincroguia-tv.expansion.com/programas/la-salud-de-los-felinos--20wph-SPA",
-     "via": "Bing Imágenes",
-     "credit": "sincroguia-tv.expansion.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.7fMnJA2fJg%2fOZcwFjwnqWA&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7619114434014760213&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@drmichelcarneiro/video/7619114434014760213",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.O0hL1xGxJHM8a6Uc74Lf3w&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/2032488b3aafdb93aa.png",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.c2lbgoAZePWcVRHTAEbW6g&pid=15.1"
-    },
-    {
-     "url": "https://www.indurock.com/assets/indurock-static/original/996ec4cc935da1be6a.webp",
-     "page": "https://www.indurock.com/es/diferencia-entre-ram-ddr4-y-ddr5/",
-     "via": "Bing Imágenes",
-     "credit": "indurock.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.Al0RgdTAXn1TletssDpu0Q&pid=15.1"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/CNI7GQGV2RFJHED7F6IYEZYO4A.png?auth=f9e9fa56da5a730c796025b0565ff4d0114cd794fb59c74d383d75c8ca62dcf1&smart=true&width=350&height=233&quality=85",
-     "page": "https://www.infobae.com/espana/2026/11/03/cual-es-la-diferencia-entre-talon-y-pagare-y-como-puede-afectarte/",
-     "via": "Bing Imágenes",
-     "credit": "infobae.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.lMU8u3R1l315gukRCOHYvg&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T14:06:23.851468+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 11
+   "score": 140
   },
   {
    "key": "p:crown confidential",
@@ -1340,7 +1339,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 19855,
+     "views": 20103,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1349,13 +1348,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 13522,
+     "views": 13743,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 33377,
+   "views_total": 33846,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -1703,13 +1702,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 310586,
+     "views": 313615,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 310586,
+   "views_total": 313615,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1828,15 +1827,15 @@
    "extra_at": "2026-11-24T13:02:23.821318+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T13:10:23.773985+00:00",
+     "fetched": "2026-11-24T14:14:23.725729+00:00",
      "url": "https://www.youtube.com/watch?v=PZA29QQSRwI",
      "platform": "YouTube",
-     "views": 664,
+     "views": 668,
      "thumb": "https://i.ytimg.com/vi/PZA29QQSRwI/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 664,
+    "views": 668,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -3497,7 +3496,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T13:10:23.773985+00:00",
+     "fetched": "2026-11-24T14:14:23.725729+00:00",
      "url": "https://www.instagram.com/p/DgD7wDOJTVm",
      "platform": "Instagram"
     },
@@ -3537,7 +3536,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T13:10:23.773985+00:00",
+     "fetched": "2026-11-24T14:14:23.725729+00:00",
      "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
      "platform": "Instagram"
     },
@@ -3634,7 +3633,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T05:11:00+00:00",
+   "start": "2026-11-23T07:50:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -3672,8 +3671,7 @@
     "32ecd1243cc833",
     "80c60cbb148192",
     "ffaabc97ab634e",
-    "d1fa520e3a6c95",
-    "08f17075d21b2a"
+    "d1fa520e3a6c95"
    ],
    "sources": [
     "2001online",
@@ -3684,7 +3682,6 @@
     "Business Insider",
     "Caretas",
     "Clx Icons",
-    "Diario Correo",
     "Diario Las Américas",
     "El Informador",
     "El Universo",
@@ -3705,8 +3702,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 37,
-   "n_sources": 28,
+   "n_items": 36,
+   "n_sources": 27,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3965,8 +3962,7 @@
    "social_urls": [
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
-    "https://www.youtube.com/watch?v=GntH78xRlX4",
-    "https://www.youtube.com/watch?v=sH1MV7WNoYs"
+    "https://www.youtube.com/watch?v=GntH78xRlX4"
    ],
    "image_query": "Miss Universe 2026 national costume",
    "extra_images": [
@@ -4030,12 +4026,6 @@
      "url": "https://www.youtube.com/watch?v=GntH78xRlX4",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
-    },
-    {
-     "fetched": "2026-11-24T13:34:23.963362+00:00",
-     "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
-     "platform": "YouTube",
-     "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
     }
    ],
    "social_totals": {
@@ -4044,7 +4034,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 96
+   "score": 93
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -5442,11 +5432,27 @@
    "n_sources": 1,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://o.quizlet.com/rDU7Q2J4E9T6srfc4l4Q5g.png",
+     "page": "https://quizlet.com/tr/1238281548/ecg-flash-cards/",
+     "via": "Bing Imágenes",
+     "credit": "quizlet.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.kNqvKO6sqPMcMqfhPiVk4Q&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [],
-   "extra_at": "2026-11-24T14:06:23.851468+00:00",
+   "extra_images": [
+    {
+     "url": "https://o.quizlet.com/rDU7Q2J4E9T6srfc4l4Q5g.png",
+     "page": "https://quizlet.com/tr/1238281548/ecg-flash-cards/",
+     "via": "Bing Imágenes",
+     "credit": "quizlet.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIF.kNqvKO6sqPMcMqfhPiVk4Q&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T14:14:23.725729+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -5465,7 +5471,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5637,7 +5643,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5675,8 +5681,7 @@
     "72ec16076ef646",
     "d1fa520e3a6c95",
     "77347631669ee4",
-    "5729ef89ff2613",
-    "08f17075d21b2a"
+    "5729ef89ff2613"
    ],
    "sources": [
     "2001online",
@@ -5689,7 +5694,6 @@
     "Caretas",
     "Clx Icons",
     "Correo del Caroní",
-    "Diario Correo",
     "Diario Las Américas",
     "Diario Primicia",
     "Fashion Times UK",
@@ -5710,31 +5714,213 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 36,
-   "n_sources": 30,
+   "n_items": 35,
+   "n_sources": 29,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "https://i.ytimg.com/vi/yqEiuhEW82Y/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=yqEiuhEW82Y",
+     "url": "https://thumbs.dreamstime.com/b/hombre-en-traje-del-hechicero-96800791.jpg",
+     "page": "https://es.dreamstime.com/photos-images/hechicero.html",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.K6A8csxhqE85Q9GdXCi76gHaFj&pid=15.1"
+     "credit": "es.dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.oxOuCWm02sXGPNhF5sE61AHaLH&pid=15.1"
+    },
+    {
+     "url": "https://ae01.alicdn.com/kf/HTB16Pm5XzoIL1JjSZFyq6zFBpXa6/Traje-de-hechicero-oscuro-para-hombres-adultos-T-nica-de-monje-padrino-religioso-disfraz-de-mago.jpg",
+     "page": "https://es.aliexpress.com/item/32827357192.html",
+     "via": "Bing Imágenes",
+     "credit": "es.aliexpress.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Dd0kAVg87MTdemLdqmFghgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/ec/98/22/ec98228fd122a8fef713643797d30b45.jpg",
+     "page": "https://www.pinterest.com/pin/43347215159462268/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.sWuMITXf8hVrNyUWeTGeDQHaJo&pid=15.1"
+    },
+    {
+     "url": "https://media.minutouno.com/p/0349b0f827464159fd63db59cdb33f14/adjuntos/150/imagenes/042/833/0042833479/610x0/smart/hechiceros.png",
+     "page": "https://www.minutouno.com/espectaculos/disney-confirmo-cuando-llega-la-temporada-2-los-hechiceros-mas-alla-waverly-place-n6199338",
+     "via": "Bing Imágenes",
+     "credit": "minutouno.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cglCwYHj0rq1lugJ_XrjcQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://lumiere-a.akamaihd.net/v1/images/hechiceros_lmg_thumb_copia_64dc69f7.png?region=0,0,1200,675",
+     "page": "https://prensa.disneylatino.com/press-kit/los-hechiceros-más-allá-de-waverly-place-temporada-2",
+     "via": "Bing Imágenes",
+     "credit": "prensa.disneylatino.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5hs_cDzYnIDj1y-ctEIkVgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdnb.artstation.com/p/assets/images/images/009/052/581/large/felipe-gabriel-lopez-trajes-hechiceros-regular.jpg?1587543286",
+     "page": "https://www.artstation.com/artwork/L6bDl",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.M-Za2bRF6Gl9fZ9ob3-6HAHaEE&pid=15.1"
+    },
+    {
+     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b66f10b3-1a0a-4898-acea-6730d9dff843/dfdz52o-d8f4f66d-e55f-4582-9243-797c5a72ad5c.png/v1/fill/w_866,h_922,q_70,strp/hechicero_by_julif_art_dfdz52o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MyIsInBhdGgiOiJcL2ZcL2I2NmYxMGIzLTFhMGEtNDg5OC1hY2VhLTY3MzBkOWRmZjg0M1wvZGZkejUyby1kOGY0ZjY2ZC1lNTVmLTQ1ODItOTI0My03OTdjNWE3MmFkNWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lfWZUlR7Uh3aTQMGsSZrsTuKbJMNdjaEN_6tJdv0fqs",
+     "page": "https://www.deviantart.com/julif-art/art/hechicero-930467184",
+     "via": "Bing Imágenes",
+     "credit": "deviantart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.N7fSrU5qWi9CwSfXOdRWvwHaH4&pid=15.1"
+    },
+    {
+     "url": "https://images.halloweencostumes.com/products/42196/1-1/mens-dark-wizard-costume.jpg",
+     "page": "https://www.halloweencostumes.com/buy/mysterious-character-costumes-0abz00a",
+     "via": "Bing Imágenes",
+     "credit": "halloweencostumes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.xmLGIuvwXvKBPk3Peq9EggHaKl&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/9c/42/ba/9c42ba398506004c9378ca166bdf4911.jpg",
+     "page": "https://www.pinterest.com/pin/3307399720888478/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-Upyq0QOetHaKzTVRZf0ewHaLg&pid=15.1"
+    },
+    {
+     "url": "https://media.milesdefiestas.com/galeria/articulos/disfraz-hechicero_18365_1.jpg",
+     "page": "https://fity.club/lists/suggestions/disfraz-de-vudú-para-hombre/",
+     "via": "Bing Imágenes",
+     "credit": "fity.club",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ffD6ZujQIA5_rqDrplIWXwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://files.vgtimes.com/si/post_133981_es.jpg",
+     "page": "https://es.vgtimes.com/news/133981-eight-cosplayers-transform-into-the-sorceresses-of-the-witcher-in-a-stunning-group-shoot.html",
+     "via": "Bing Imágenes",
+     "credit": "es.vgtimes.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.-_klToFhTFdGVU6N39wKfQHaEI&pid=15.1"
+    },
+    {
+     "url": "https://www.efeyl.org/421-thickbox_default/vestido-hechicera-mujer.jpg",
+     "page": "https://www.efeyl.org/trajes-medievales/mujer/vestido-hechicera-mujer.html",
+     "via": "Bing Imágenes",
+     "credit": "efeyl.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.n4uasx3d4HOZ_Ngxlp0xggHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/terrible-hechicería-de-pelo-gris-retrato-una-vieja-hechicera-con-el-largo-y-en-rica-toalla-vestido-negro-contra-un-fondo-vintage-224824344.jpg",
+     "page": "https://es.dreamstime.com/una-hechicera-con-el-pelo-rojo-en-un-sombrero-y-manto-morado-bosque-su-mano-vela-llamas-foto-horizontal-image160815416",
+     "via": "Bing Imágenes",
+     "credit": "es.dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.IdXwEa9dDApPOMuEftI4ewHaLH&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/fotos-premium/ropa-hechicero-vestido-disfraz_53876-304980.jpg",
+     "page": "https://www.freepik.es/fotos/dnd-hechicero-sobre-fondo-blanco",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.JRTHeXWL6R78Yakj_3x9zQHaHa&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [
     {
-     "url": "https://i.ytimg.com/vi/yqEiuhEW82Y/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=yqEiuhEW82Y",
+     "url": "https://thumbs.dreamstime.com/b/hombre-en-traje-del-hechicero-96800791.jpg",
+     "page": "https://es.dreamstime.com/photos-images/hechicero.html",
      "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.K6A8csxhqE85Q9GdXCi76gHaFj&pid=15.1"
+     "credit": "es.dreamstime.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.oxOuCWm02sXGPNhF5sE61AHaLH&pid=15.1"
+    },
+    {
+     "url": "https://ae01.alicdn.com/kf/HTB16Pm5XzoIL1JjSZFyq6zFBpXa6/Traje-de-hechicero-oscuro-para-hombres-adultos-T-nica-de-monje-padrino-religioso-disfraz-de-mago.jpg",
+     "page": "https://es.aliexpress.com/item/32827357192.html",
+     "via": "Bing Imágenes",
+     "credit": "es.aliexpress.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Dd0kAVg87MTdemLdqmFghgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/ec/98/22/ec98228fd122a8fef713643797d30b45.jpg",
+     "page": "https://www.pinterest.com/pin/43347215159462268/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.sWuMITXf8hVrNyUWeTGeDQHaJo&pid=15.1"
+    },
+    {
+     "url": "https://media.minutouno.com/p/0349b0f827464159fd63db59cdb33f14/adjuntos/150/imagenes/042/833/0042833479/610x0/smart/hechiceros.png",
+     "page": "https://www.minutouno.com/espectaculos/disney-confirmo-cuando-llega-la-temporada-2-los-hechiceros-mas-alla-waverly-place-n6199338",
+     "via": "Bing Imágenes",
+     "credit": "minutouno.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cglCwYHj0rq1lugJ_XrjcQHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://lumiere-a.akamaihd.net/v1/images/hechiceros_lmg_thumb_copia_64dc69f7.png?region=0,0,1200,675",
+     "page": "https://prensa.disneylatino.com/press-kit/los-hechiceros-más-allá-de-waverly-place-temporada-2",
+     "via": "Bing Imágenes",
+     "credit": "prensa.disneylatino.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5hs_cDzYnIDj1y-ctEIkVgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdnb.artstation.com/p/assets/images/images/009/052/581/large/felipe-gabriel-lopez-trajes-hechiceros-regular.jpg?1587543286",
+     "page": "https://www.artstation.com/artwork/L6bDl",
+     "via": "Bing Imágenes",
+     "credit": "artstation.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.M-Za2bRF6Gl9fZ9ob3-6HAHaEE&pid=15.1"
+    },
+    {
+     "url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b66f10b3-1a0a-4898-acea-6730d9dff843/dfdz52o-d8f4f66d-e55f-4582-9243-797c5a72ad5c.png/v1/fill/w_866,h_922,q_70,strp/hechicero_by_julif_art_dfdz52o-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM2MyIsInBhdGgiOiJcL2ZcL2I2NmYxMGIzLTFhMGEtNDg5OC1hY2VhLTY3MzBkOWRmZjg0M1wvZGZkejUyby1kOGY0ZjY2ZC1lNTVmLTQ1ODItOTI0My03OTdjNWE3MmFkNWMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lfWZUlR7Uh3aTQMGsSZrsTuKbJMNdjaEN_6tJdv0fqs",
+     "page": "https://www.deviantart.com/julif-art/art/hechicero-930467184",
+     "via": "Bing Imágenes",
+     "credit": "deviantart.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.N7fSrU5qWi9CwSfXOdRWvwHaH4&pid=15.1"
+    },
+    {
+     "url": "https://images.halloweencostumes.com/products/42196/1-1/mens-dark-wizard-costume.jpg",
+     "page": "https://www.halloweencostumes.com/buy/mysterious-character-costumes-0abz00a",
+     "via": "Bing Imágenes",
+     "credit": "halloweencostumes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.xmLGIuvwXvKBPk3Peq9EggHaKl&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/9c/42/ba/9c42ba398506004c9378ca166bdf4911.jpg",
+     "page": "https://www.pinterest.com/pin/3307399720888478/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-Upyq0QOetHaKzTVRZf0ewHaLg&pid=15.1"
+    },
+    {
+     "url": "https://media.milesdefiestas.com/galeria/articulos/disfraz-hechicero_18365_1.jpg",
+     "page": "https://fity.club/lists/suggestions/disfraz-de-vudú-para-hombre/",
+     "via": "Bing Imágenes",
+     "credit": "fity.club",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.ffD6ZujQIA5_rqDrplIWXwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://files.vgtimes.com/si/post_133981_es.jpg",
+     "page": "https://es.vgtimes.com/news/133981-eight-cosplayers-transform-into-the-sorceresses-of-the-witcher-in-a-stunning-group-shoot.html",
+     "via": "Bing Imágenes",
+     "credit": "es.vgtimes.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.-_klToFhTFdGVU6N39wKfQHaEI&pid=15.1"
+    },
+    {
+     "url": "https://www.efeyl.org/421-thickbox_default/vestido-hechicera-mujer.jpg",
+     "page": "https://www.efeyl.org/trajes-medievales/mujer/vestido-hechicera-mujer.html",
+     "via": "Bing Imágenes",
+     "credit": "efeyl.org",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.n4uasx3d4HOZ_Ngxlp0xggHaFj&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/terrible-hechicería-de-pelo-gris-retrato-una-vieja-hechicera-con-el-largo-y-en-rica-toalla-vestido-negro-contra-un-fondo-vintage-224824344.jpg",
+     "page": "https://es.dreamstime.com/una-hechicera-con-el-pelo-rojo-en-un-sombrero-y-manto-morado-bosque-su-mano-vela-llamas-foto-horizontal-image160815416",
+     "via": "Bing Imágenes",
+     "credit": "es.dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.IdXwEa9dDApPOMuEftI4ewHaLH&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/fotos-premium/ropa-hechicero-vestido-disfraz_53876-304980.jpg",
+     "page": "https://www.freepik.es/fotos/dnd-hechicero-sobre-fondo-blanco",
+     "via": "Bing Imágenes",
+     "credit": "freepik.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.JRTHeXWL6R78Yakj_3x9zQHaHa&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-24T11:10:23.355406+00:00",
+   "extra_at": "2026-11-24T14:14:23.725729+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5743,7 +5929,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 99
+   "score": 96
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5754,7 +5940,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5765,67 +5951,25 @@
    "views_total": 0,
    "images": [
     {
-     "url": "https://i.pinimg.com/736x/89/62/f1/8962f1b7f1f04dee0147e1cb159f57aa.jpg",
-     "page": "https://www.pinterest.com/pin/dessert-recipies--954340977259710517/",
+     "url": "https://img.freepik.com/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_1308-158191.jpg?w=1800",
+     "page": "https://www.freepik.es/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_73611930.htm",
      "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JB8A6RO1NOfL89XNxuXFOgHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8c/ea/83/8cea83ddd024d19f65eff0ff487c9902.jpg",
-     "page": "https://www.pinterest.com/pin/805722189612228179/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.My4I592FCJNP4VMIPThMkgHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/72/41/dd/7241ddf6497baa09d4438e2fba4e37bc.jpg",
-     "page": "https://www.pinterest.com/pin/oreo-bark--341007003049620881/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Z6O8-mKefOYISsBCTaDjJQHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/be/42/3f/be423f332091d74cbed885c4d5a11761.jpg",
-     "page": "https://fr.pinterest.com/pin/133348838960756446/",
-     "via": "Bing Imágenes",
-     "credit": "fr.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.zqi0FM9NbvH53KIJdz88vAHaO0&pid=15.1"
+     "credit": "freepik.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.aloileARvc62BvmXJ1pT-AHaEK&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [
     {
-     "url": "https://i.pinimg.com/736x/89/62/f1/8962f1b7f1f04dee0147e1cb159f57aa.jpg",
-     "page": "https://www.pinterest.com/pin/dessert-recipies--954340977259710517/",
+     "url": "https://img.freepik.com/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_1308-158191.jpg?w=1800",
+     "page": "https://www.freepik.es/vector-premium/adan-eva-desterrados-jardin-eden-ilustracion-dibujos-animados-vectoriales_73611930.htm",
      "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JB8A6RO1NOfL89XNxuXFOgHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8c/ea/83/8cea83ddd024d19f65eff0ff487c9902.jpg",
-     "page": "https://www.pinterest.com/pin/805722189612228179/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.My4I592FCJNP4VMIPThMkgHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/72/41/dd/7241ddf6497baa09d4438e2fba4e37bc.jpg",
-     "page": "https://www.pinterest.com/pin/oreo-bark--341007003049620881/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Z6O8-mKefOYISsBCTaDjJQHaLH&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/be/42/3f/be423f332091d74cbed885c4d5a11761.jpg",
-     "page": "https://fr.pinterest.com/pin/133348838960756446/",
-     "via": "Bing Imágenes",
-     "credit": "fr.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.zqi0FM9NbvH53KIJdz88vAHaO0&pid=15.1"
+     "credit": "freepik.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.aloileARvc62BvmXJ1pT-AHaEK&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-24T11:10:23.355406+00:00",
+   "extra_at": "2026-11-24T14:14:23.725729+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5845,7 +5989,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6076,7 +6220,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6307,7 +6451,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T14:06:23.851468+00:00",
+   "first_seen": "2026-11-24T14:14:23.725729+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
