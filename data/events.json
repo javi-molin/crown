@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:46:34.178916+00:00",
+ "updated": "2026-11-24T20:54:42.095278+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -153,15 +153,18 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "cd3e040eb6ceff",
     "0030d5a01359a6",
     "d001bd0993a7de",
+    "ec6fde3ff2585e",
     "81be2976543034",
     "efac2931cf5586",
     "66fb8170b13df3",
+    "df888e1cc2eba1",
     "5cafab318d473a",
     "07b7be31d73ed4",
     "9a720165ef0831",
@@ -242,6 +245,8 @@
     "0a131f453c960a",
     "aa14d1899a8cc2",
     "002cda6137d3f5",
+    "47a353120d2d25",
+    "af68ef682b441f",
     "12d47e3d29cd8d",
     "1f7fb45e0ef68d",
     "b91c50bdd47ce0",
@@ -271,12 +276,7 @@
     "74b2180bc0a5b8",
     "ffbff0a0081c92",
     "ba711549a638df",
-    "e1c1ce206467ea",
-    "947424f16ba7ea",
-    "a1d49299ffc7fb",
-    "b12cdf53220eea",
-    "469d01ef35d3a6",
-    "d230457cb8489f"
+    "e1c1ce206467ea"
    ],
    "sources": [
     "24 horas",
@@ -367,6 +367,7 @@
     "Reporte Indigo",
     "Reporte Índigo",
     "Revista Caretas",
+    "Revista Fama on MSN",
     "Rock&Pop",
     "Sabes.cl",
     "SoyChile.cl",
@@ -395,8 +396,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 200,
-   "n_sources": 115,
+   "n_items": 205,
+   "n_sources": 116,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -412,7 +413,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 433
+   "score": 440
   },
   {
    "key": "p:the big night",
@@ -1327,8 +1328,6 @@
     "28ea3442943f5b",
     "9019d706d27434",
     "addc28a77d9cb9",
-    "1e4b1b396cb41b",
-    "2aa40afe742500",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -1357,7 +1356,6 @@
     "El Tiempo",
     "El Tiempo on MSN",
     "El Universo",
-    "En Cancha",
     "HOLA",
     "International Business Times Singapore",
     "Mega.cl",
@@ -1368,20 +1366,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 31,
-   "n_sources": 26,
+   "n_items": 29,
+   "n_sources": 25,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7810,
-     "likes": 140,
+     "views": 7994,
+     "likes": 146,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7810,
+   "views_total": 7994,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1505,12 +1503,6 @@
      "credit": "El Comercio"
     },
     {
-     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-luren-marquez-de-peru-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-peruana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
      "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
      "page": "https://2001online.com/farandula/venezuela-conquista-la-preliminar-del-miss-universo-el-traje-tipico-de-clara-vegas-entra-en-el-top-15-de-los-mas-votados-2026112319260",
      "via": "2001online",
@@ -1627,7 +1619,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 86
+   "score": 82
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -2262,7 +2254,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 33866,
+     "views": 34233,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2271,13 +2263,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 26953,
+     "views": 27758,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 60819,
+   "views_total": 61991,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -3191,13 +3183,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 464227,
+     "views": 467553,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 464227,
+   "views_total": 467553,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3746,7 +3738,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T13:34:23.963362+00:00",
-   "start": "2026-11-23T14:15:00+00:00",
+   "start": "2026-11-23T14:30:00+00:00",
    "last_activity": "2026-11-23T23:51:18+00:00",
    "item_ids": [
     "0591b073593bba",
@@ -3760,9 +3752,7 @@
     "ee5a2ca0675a1d",
     "14fae06fd4d42d",
     "9019d706d27434",
-    "addc28a77d9cb9",
-    "1e4b1b396cb41b",
-    "2aa40afe742500"
+    "addc28a77d9cb9"
    ],
    "sources": [
     "BioBioChile",
@@ -3772,13 +3762,12 @@
     "El Nortero",
     "El Tiempo",
     "El Tiempo on MSN",
-    "En Cancha",
     "RNZ",
     "Reporte Índigo",
     "Teletrece"
    ],
-   "n_items": 14,
-   "n_sources": 11,
+   "n_items": 12,
+   "n_sources": 10,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3809,12 +3798,6 @@
     {
      "url": "https://elcomercio.pe/resizer/v2/G7CXTYL5VJENFO54MW26VT6TRI.png?auth=2b1c7aa7e3f80aedd0526086d0b6b6cfb891707fd5dbd61ef2865e9080b04e8e&width=85&height=85&quality=75&smart=true",
      "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-dalia-bucaram-de-ecuador-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-ecuatoriana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-luren-marquez-de-peru-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-peruana-nnda-nnrt-noticia/",
      "via": "El Comercio",
      "credit": "El Comercio"
     },
@@ -3943,7 +3926,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 36
+   "score": 32
   },
   {
    "key": "p:completa del desfile de traje",
@@ -3958,7 +3941,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T14:17:00+00:00",
+   "start": "2026-11-23T14:48:46+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3989,7 +3972,6 @@
     "9cb8e27df3b9f2",
     "86c90a1eac6a76",
     "68c43d5cfd36f5",
-    "ad5fa1cffa1303",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "d1d6d051c0daab",
@@ -4037,23 +4019,22 @@
     "Telediario México on MSN",
     "Vietnam.vn",
     "Vistazo",
-    "YouTube · Telemundo Entretenimiento",
-    "Últimas Noticias"
+    "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 42,
-   "n_sources": 34,
+   "n_items": 41,
+   "n_sources": 33,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7810,
-     "likes": 140,
+     "views": 7994,
+     "likes": 146,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7810,
+   "views_total": 7994,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4419,7 +4400,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 113
+   "score": 110
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4665,13 +4646,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7810,
-     "likes": 140,
+     "views": 7994,
+     "likes": 146,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7810,
+   "views_total": 7994,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4959,7 +4940,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4995,8 +4976,7 @@
     "891311078f097f",
     "9cb8e27df3b9f2",
     "86c90a1eac6a76",
-    "68c43d5cfd36f5",
-    "ad5fa1cffa1303"
+    "68c43d5cfd36f5"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5024,11 +5004,10 @@
     "RPP Noticias",
     "Vistazo",
     "YouTube · Miss Universe",
-    "YouTube · Telemundo Entretenimiento",
-    "Últimas Noticias"
+    "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 34,
-   "n_sources": 27,
+   "n_items": 33,
+   "n_sources": 26,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5242,7 +5221,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 91
+   "score": 88
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5253,7 +5232,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5298,27 +5277,11 @@
    "n_sources": 16,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://www.nationalgeographic.com.es/medio/2020/02/11/erupcion-del-volcan-de-fuego-el-27-de-febrero-de-2016_0abf3632_800x800.jpg",
-     "page": "https://elsolrevista.com/el-puhahonu-el-volcan-de-escudo-mas-grande-del-mundo/",
-     "via": "Bing Imágenes",
-     "credit": "elsolrevista.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.SdV-23DXVTEh5eVotMniAwHaHa&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [
-    {
-     "url": "https://www.nationalgeographic.com.es/medio/2020/02/11/erupcion-del-volcan-de-fuego-el-27-de-febrero-de-2016_0abf3632_800x800.jpg",
-     "page": "https://elsolrevista.com/el-puhahonu-el-volcan-de-escudo-mas-grande-del-mundo/",
-     "via": "Bing Imágenes",
-     "credit": "elsolrevista.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.SdV-23DXVTEh5eVotMniAwHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T17:50:33.643860+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T20:54:42.095278+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5338,7 +5301,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5513,7 +5476,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5744,7 +5707,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5961,7 +5924,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:46:34.178916+00:00",
+   "first_seen": "2026-11-24T20:54:42.095278+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
