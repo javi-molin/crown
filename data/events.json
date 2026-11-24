@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T18:54:33.932140+00:00",
- "count": 29,
+ "updated": "2026-11-24T19:02:33.612994+00:00",
+ "count": 30,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "49082a3e3b9193",
+    "667f7d9ea2926d",
+    "6bff2b931d6c9a",
     "0113d8cc1a6cf2",
     "2864dd9c86d9f2",
     "7019436ad484c1",
@@ -211,6 +214,7 @@
     "d0a5f151cebc8d",
     "d12acbeff11fb0",
     "22f53e92fcc8a7",
+    "6debc80e4373ec",
     "b586e66fe7f290",
     "42dc6cbc72f29f",
     "fc9329ea2020bf",
@@ -268,11 +272,7 @@
     "38932341eac673",
     "e3a9aa867e0ed7",
     "3c5baac5443bcd",
-    "684347207967dc",
-    "1768ad54a2b59c",
-    "ed47963f354ef0",
-    "ac4d2f8328fd8d",
-    "76e543d328eb4a"
+    "684347207967dc"
    ],
    "sources": [
     "24 horas",
@@ -281,6 +281,7 @@
     "ABS-CBN",
     "ADN",
     "ADN Radio",
+    "BioBioChile",
     "CRÍTICA",
     "Caretas",
     "Chilevisión",
@@ -358,6 +359,7 @@
     "TodoJujuy.com",
     "USA TODAY",
     "USA Today",
+    "Yahoo News New Zealand",
     "azcentral.com and The Arizona Republic",
     "eldia.com.do",
     "estapasando.cl",
@@ -371,8 +373,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 155,
-   "n_sources": 95,
+   "n_items": 159,
+   "n_sources": 97,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -388,7 +390,184 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 348
+   "score": 356
+  },
+  {
+   "key": "p:the big night",
+   "id": "p-the-big-night-470ee",
+   "name": "The Big Night",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
+   "start": "2026-11-24T18:42:00+00:00",
+   "last_activity": "2026-11-24T18:42:00+00:00",
+   "item_ids": [
+    "09e53a75a7fe71"
+   ],
+   "sources": [
+    "YouTube · Miss Universe"
+   ],
+   "n_items": 1,
+   "n_sources": 1,
+   "videos": [
+    {
+     "vid": "S4XeFwA1d0w",
+     "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
+     "channel": "Miss Universe",
+     "views": 0,
+     "likes": 0,
+     "published": "2026-11-24T18:42:00+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/S4XeFwA1d0w/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=S4XeFwA1d0w",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "The Indian Listener: The Indian State Broadcasting Service"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Edgar Rice Burroughs"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "West China Missions Advisory Board"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 The Big Night",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "The Indian Listener: The Indian State Broadcasting Service"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Edgar Rice Burroughs"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "West China Missions Advisory Board"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "extra_at": "2026-11-24T19:02:33.612994+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 6
+  },
+  {
+   "key": "seed:beauty-at-the-beach",
+   "id": "beauty-at-the-beach",
+   "name": "Beauty at the Beach (pasarela sobre la arena)",
+   "contest": "mu",
+   "kind": "evento (no oficial de MUO)",
+   "labels": [],
+   "desc": "Pasarela de traje de baño sobre la arena del Caribe Hilton. Varias candidatas casi se caen; MUO se desligó y la productora pidió disculpas.",
+   "refs": [
+    "https://www.hola.com/us/entertainment/20261116935333/miss-universe-runway-event-contestants-at-risk/"
+   ],
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
+   "start": "2026-11-13",
+   "last_activity": "2026-11-24T17:45:00+00:00",
+   "item_ids": [
+    "7f377cbf45f6c9"
+   ],
+   "sources": [
+    "El Nuevo Día"
+   ],
+   "n_items": 1,
+   "n_sources": 1,
+   "videos": [],
+   "views_total": 0,
+   "images": [],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
+   "extra_images": [],
+   "extra_at": "2026-11-24T19:02:33.612994+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 6
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-24",
@@ -1050,13 +1229,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2039,
-     "likes": 63,
+     "views": 2208,
+     "likes": 66,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2039,
+   "views_total": 2208,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2153,7 +2332,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 30319,
+     "views": 30571,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2162,13 +2341,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 23156,
+     "views": 23261,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 53475,
+   "views_total": 53832,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2194,7 +2373,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Crown Confidential",
    "extra_images": [],
-   "extra_at": "2026-11-24T18:54:33.932140+00:00",
+   "extra_at": "2026-11-24T19:02:33.612994+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2499,13 +2678,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 423860,
+     "views": 426535,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 423860,
+   "views_total": 426535,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3278,299 +3457,21 @@
    "score": 55
   },
   {
-   "key": "t:mu:Gala / cena:2026-11-21",
-   "id": "t-mu-gala-cena-2026-11-21-6a56b",
-   "name": "Gala / cena · 21–23 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
-   "start": "2026-11-23T11:56:00+00:00",
-   "last_activity": "2026-11-23T23:45:00+00:00",
-   "item_ids": [
-    "d1d6d051c0daab",
-    "f590005e2ceaec",
-    "f6f85a4ee2b695",
-    "a4e31d66d47c25",
-    "ba4ad821ef2450",
-    "fd1d0c4d4c999e",
-    "8b814ff72ceef6",
-    "e0679bb7c0e255",
-    "2cf13dd8052450",
-    "fe2e2de8c6f713",
-    "6b20605c824873",
-    "d5ec02365e0bfe",
-    "b907982e24c308",
-    "d2eb1e4052e09a",
-    "062866eab54b1c",
-    "337a17eb94fa50",
-    "7088487e42ef05",
-    "e901ae0ddf6231",
-    "a66cb99886a87a"
-   ],
-   "sources": [
-    "Ambito",
-    "CiberCuba",
-    "El Comercio Perú",
-    "El Heraldo",
-    "El Universo",
-    "Facebook",
-    "Howl.Link",
-    "Infobae",
-    "Milenio on MSN",
-    "Noticia al Dia",
-    "Panamá América",
-    "Publimetro",
-    "Vistazo",
-    "unitel"
-   ],
-   "n_items": 19,
-   "n_sources": 14,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.ngUwNRTgPTtjNcbbqcEmCg&pid=News",
-     "page": "https://www.msn.com/es-mx/entretenimiento/general/d%C3%B3nde-ver-la-final-de-miss-universo-2026-en-vivo-desde-m%C3%A9xico-link-canales-y-streaming/ar-AA2i51wf",
-     "via": "Bing (miniatura)",
-     "credit": "Milenio on MSN"
-    },
-    {
-     "url": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1795475500-asi-fue-pasarela-mia-dio-traje-bano-gala-preliminar-miss-universo-2026.jpg",
-     "page": "https://www.cibercuba.com/noticias/2026-11-24-u208487-e208487-s27065-nid346470-asi-fue-pasarela-mia-dio-traje-bano-gala",
-     "via": "CiberCuba",
-     "credit": "CiberCuba"
-    },
-    {
-     "url": "https://cdn0.celebritax.com/sites/default/files/app-cc-descargar.jpg",
-     "page": "https://www.cibercuba.com/noticias/2026-11-24-u208487-e208487-s27065-nid346470-asi-fue-pasarela-mia-dio-traje-bano-gala",
-     "via": "CiberCuba",
-     "credit": "CiberCuba"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/FFAM3BUXMBGQJLYQSVZFCXQKW4.png?auth=671f75d2f6e1dc2f3ca7746ad550e1c1adc69af806a924847e0212254c925b1f&width=908&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/KOBYFVJKOJCLXG6Z5NEPTRPCGU.png?auth=e539d7bed23318b2fa5c82c619ffdd18a4928bebc1057e9eb027f7d5dbacc6a1&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/M4UX42PY7RBS7PM5AVDUAGYNJE.png?auth=32d369647560e6831495d24824ce620b765c1bb0b777d197c60b31b314da7613&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2SPNQY3H4VHYTHGNV3BKUSKTQU.jpg?auth=3a4b87f50da99b2c3f041eb2dcd147b7887676dafc2aff480cce02c490ee000a&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/musica/miss-universo-2026-la-india-didi-romero-y-denise-quinones-cantaran-en-la-gala-final-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/0d0/none/45933/UIBB/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1200x900/0c0/1200d630/none/45933/WUKV/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/1260x945/0c0/0d0/none/45933/UIBG/capturados-5_16215647_20261123171942.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/DHRH/luisa-pineda-traje-tipico-miss-unive_16198722_20261121193539.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/301x226/0c0/300d225/none/45933/ONRV/luisa-pineda-miss-honduras_16205726_20261122180653.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/XBRI/1_16211841_20261123143018.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/GJBQ/capturados-2_16214143_20261123164051.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/WVWQ/capturados-1_16212624_20261123153720.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/300d225/none/45933/RFLC/socializacion-de-presupuesto-con-ban_16212849_20261123151557.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.hn/binrepository/300x225/0c0/0d0/none/45933/NOYD/cortes-de-energia-24-de-noviembre_16211635_20261123140659.jpg",
-     "page": "https://www.elheraldo.hn/entretenimiento/la-india-didi-romero-denise-quinones-abriran-la-gala-final-miss-universo-2026-HF32733037",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.publimetro.co/resizer/v2/K5JSF2TMA5AJFA44DYKLVTNGZI.png?smart=true&auth=fb054e0ad77fbc1e82fd82324dcfadad29052e549065f9d586c8a8f810dfc176&width=1200&height=630",
-     "page": "https://www.publimetro.co/entretenimiento/2026/11/23/maria-alejandra-lopez-brillo-en-miss-universo-2026-asi-puede-votar-por-colombia/",
-     "via": "Publimetro",
-     "credit": "Publimetro"
-    },
-    {
-     "url": "https://www.panamaamerica.com.pa/sites/default/files/styles/meta_seo/public/2026-11/gabriela-gonzales-miss-universo.jpg?itok=nasNn8Va",
-     "page": "https://www.panamaamerica.com.pa/variedades/gabriela-gonzalez-como-le-fue-en-la-preliminar-de-miss-universo-2026-1282455",
-     "via": "Panamá América",
-     "credit": "Panamá América"
-    },
-    {
-     "url": "https://www.panamaamerica.com.pa/sites/default/files/styles/original_web/public/2026-11/gabriela-gonzales-miss-universo.jpg.webp?itok=qrf5j9-5",
-     "page": "https://www.panamaamerica.com.pa/variedades/gabriela-gonzalez-como-le-fue-en-la-preliminar-de-miss-universo-2026-1282455",
-     "via": "Panamá América",
-     "credit": "Panamá América"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2D3KKFTKIFFR5JMWW2YGQTEWEY.png?auth=cadddd82c2c13bb71df6f17c6a44dbbe6ea6b19895b912cab5e4a4d796d84a3e&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-lista-completa-de-candidatas-de-los-116-paises-y-territorios-participantes-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/6NMMOTMQMVG6PEZSLSVZIJH5OY.png?auth=e0987c3cb335283f6fa0db9834cea8c3e74d05061b0398cbb015d7418bed7b08&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-lista-completa-de-candidatas-de-los-116-paises-y-territorios-participantes-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/EH64BDDMTBFIHOL3JBS7EZG2GI.jpg?auth=56bfa85ace4ffcf1c7b8ecfeff19d1f6138d99e5c29032d86ea60f35408e6a45&width=80&height=80&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-lista-completa-de-candidatas-de-los-116-paises-y-territorios-participantes-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://estaticos.unitel.bo/news-portlet/getogimage/bb6f5fbc-33bb-45e0-a87b-e51d4c3701bd.jpg",
-     "page": "https://unitel.bo/noticias/agencias/la-india-didi-romero-y-denise-quinones-unen-sus-voces-en-la-gala-final-de-miss-universo-HH25006753",
-     "via": "unitel",
-     "credit": "unitel"
-    },
-    {
-     "url": "https://album.mediaset.es/eimg/2016/12/25/tX9Sw06qk6Xdn22F2MFaP.jpg?w=640",
-     "page": "https://www.telecinco.es/noticias/curioso/culo-libro-guinness-de-los-records_18_1588125175.html",
-     "via": "Bing Imágenes",
-     "credit": "telecinco.es",
-     "alt": "https://ts4.explicit.bing.net/th?id=OIP.iK_qSd2XwJAlmoPu7O7sxAHaEK&pid=15.1"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DgD_xMljUCc",
-    "https://www.instagram.com/p/DgECLicjQOA",
-    "https://www.instagram.com/p/DgELpxHje4O",
-    "https://www.instagram.com/p/DgEMDnFGgfl",
-    "https://www.instagram.com/p/DgEMwqLjRYi",
-    "https://www.instagram.com/p/DgEQq96DdQ4",
-    "https://www.instagram.com/p/DgEkkGrEUpM",
-    "https://www.instagram.com/reel/DgEFmBxvajg"
-   ],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://album.mediaset.es/eimg/2016/12/25/tX9Sw06qk6Xdn22F2MFaP.jpg?w=640",
-     "page": "https://www.telecinco.es/noticias/curioso/culo-libro-guinness-de-los-records_18_1588125175.html",
-     "via": "Bing Imágenes",
-     "credit": "telecinco.es",
-     "alt": "https://ts4.explicit.bing.net/th?id=OIP.iK_qSd2XwJAlmoPu7O7sxAHaEK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T17:02:33.760371+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgD_xMljUCc",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgECLicjQOA",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgELpxHje4O",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:14:34.149354+00:00",
-     "url": "https://www.instagram.com/p/DgEMDnFGgfl",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T18:06:34.029537+00:00",
-     "url": "https://www.instagram.com/reel/DgEFmBxvajg",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 47
-  },
-  {
    "key": "p:completa del desfile de traje",
    "id": "p-completa-del-desfile-de-traje-f97b3",
    "name": "Completa Del Desfile De Traje",
    "contest": "mu",
    "kind": "oficial",
    "labels": [
+    "Gala / cena",
     "Preliminar",
     "Traje de baño"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T12:00:00+00:00",
-   "last_activity": "2026-11-23T23:33:21+00:00",
+   "start": "2026-11-23T12:25:00+00:00",
+   "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
     "f254c2c54acc92",
@@ -3618,7 +3519,15 @@
     "b87d2644263aab",
     "23fd9d663a56b4",
     "4c89a4853ebce7",
-    "414536a7da32f5",
+    "d1d6d051c0daab",
+    "f590005e2ceaec",
+    "a4e31d66d47c25",
+    "ba4ad821ef2450",
+    "8b814ff72ceef6",
+    "e0679bb7c0e255",
+    "d5ec02365e0bfe",
+    "b907982e24c308",
+    "e901ae0ddf6231",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "506033d3e41d61",
@@ -3630,6 +3539,7 @@
     ".: El Sol de Margarita :.",
     "2001online",
     "ABS-CBN",
+    "Ambito",
     "Artículo 66",
     "BetUS",
     "BioBioChile",
@@ -3638,9 +3548,9 @@
     "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
-    "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
+    "El Heraldo",
     "El Impulso",
     "El Informador",
     "El Nuevo Día",
@@ -3648,6 +3558,7 @@
     "El Siglo",
     "El Tiempo",
     "El Universal",
+    "El Universo",
     "Emol",
     "Facebook",
     "HOLA",
@@ -3660,28 +3571,26 @@
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
+    "Milenio on MSN",
     "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
-    "Panamá América",
-    "Publimetro",
-    "RPP",
-    "Telediario México on MSN"
+    "Panamá América"
    ],
-   "n_items": 53,
-   "n_sources": 46,
+   "n_items": 61,
+   "n_sources": 49,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2039,
-     "likes": 63,
+     "views": 2208,
+     "likes": 66,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2039,
+   "views_total": 2208,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -3927,7 +3836,13 @@
    ],
    "social_urls": [
     "https://www.instagram.com/p/DgD7wDOJTVm",
+    "https://www.instagram.com/p/DgD_xMljUCc",
+    "https://www.instagram.com/p/DgECLicjQOA",
+    "https://www.instagram.com/p/DgELpxHje4O",
     "https://www.instagram.com/p/DgEMDnFGgfl",
+    "https://www.instagram.com/p/DgEMwqLjRYi",
+    "https://www.instagram.com/p/DgEQq96DdQ4",
+    "https://www.instagram.com/p/DgEkkGrEUpM",
     "https://www.instagram.com/p/DgGDBNxvTVQ",
     "https://www.instagram.com/reel/DgEFmBxvajg",
     "https://www.instagram.com/reel/DgF163yzZSr",
@@ -3952,8 +3867,38 @@
      "platform": "Instagram"
     },
     {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgD_xMljUCc",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgECLicjQOA",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgELpxHje4O",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-24T18:14:34.149354+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgEMwqLjRYi",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgEQq96DdQ4",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T18:06:34.029537+00:00",
+     "url": "https://www.instagram.com/p/DgEkkGrEUpM",
      "platform": "Instagram"
     },
     {
@@ -3990,7 +3935,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 148
+   "score": 162
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4063,13 +4008,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 2039,
-     "likes": 63,
+     "views": 2208,
+     "likes": 66,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 2039,
+   "views_total": 2208,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4938,7 +4883,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4989,8 +4934,7 @@
     "bf65617ec82716",
     "523498a4640634",
     "7088487e42ef05",
-    "4c89a4853ebce7",
-    "414536a7da32f5"
+    "4c89a4853ebce7"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5001,7 +4945,6 @@
     "Canal Antigua",
     "CiberCuba",
     "Clx Icons",
-    "Diario Las Américas",
     "El Comercio Perú",
     "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Impulso",
@@ -5034,8 +4977,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 49,
-   "n_sources": 40,
+   "n_items": 48,
+   "n_sources": 39,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5249,7 +5192,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 132
+   "score": 129
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5260,7 +5203,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5361,7 +5304,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5410,7 +5353,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5641,7 +5584,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5858,7 +5801,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T18:54:33.932140+00:00",
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -5867,11 +5810,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://wallpaperbat.com/img/1097167-red-anime-4k-wallpaper.jpg",
+     "page": "https://wallpaperbat.com/anime-red-wallpapers",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperbat.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.oVDnJxTlMOcwICpV0jUKxAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c.wallhere.com/photos/38/86/anime_anime_girls_Hatsune_Miku_Vocaloid_twintails-69764.png!d",
+     "page": "https://wallhere.com/es/wallpaper/69764",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cr6bCOtcM8kqYo6Hsvs5OgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/anime-red-lolita-fashion-flower-computer-wallpaper-15457.jpg",
+     "page": "https://wallhere.com/es/wallpaper/15457",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rBvSN8qW9ECv8jSYZ4RRCAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://p4.wallpaperbetter.com/wallpaper/726/206/456/manga-red-anime-wallpaper-preview.jpg",
+     "page": "https://www.wallpaperbetter.com/es/hd-wallpaper-ucjgy",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperbetter.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.NBIs41u7897oZIHHY5edqAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/high/red-anime-angel-wings-1wf0nvnqgb4ytq94.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.sV7XXZQsHrOyGGYlHQtCZwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/anime-girl-red-pfp-m7x1zt8o6hw0912p.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.XNRZCNSnhdimWX5tVsxCnQHaMO&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/red-anime-yumeko-jabami-kaca7c8e349jl6zo.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.13mk0QXbLuvLL3oDCmC32QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/red-anime-finesse-f4c7kn7w52vnkoah.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.bqGCSHaMsWBpx4zx_6RPOQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/drawing-anime-red-Ilya-Kuvshinov-emotion-eye-darkness-screenshot-computer-wallpaper-organ-71958.png",
+     "page": "https://wallhere.com/es/wallpaper/71958",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.4GrlJz8HXaMwqosRzXpXlQHaEK&pid=15.1"
+    },
+    {
+     "url": "http://getwallpapers.com/wallpaper/full/1/3/1/146090.jpg",
+     "page": "http://getwallpapers.com/collection/red-anime-wallpaper",
+     "via": "Bing Imágenes",
+     "credit": "getwallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.yBwHEfU6C6HwueH2ut9CMQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.xtrafondos.com/wallpapers/itachi-uchiha-fondo-rojo-13549.jpg",
+     "page": "https://www.xtrafondos.com/wallpaper/5120x2880/13549-itachi-uchiha-fondo-rojo.html",
+     "via": "Bing Imágenes",
+     "credit": "xtrafondos.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.fkN9JD_t7i6h4mVpbxnz8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/high/red-moon-anime-night-enjgnix4p8rmzmxa.jpg",
+     "page": "https://es.wallpapers.com/fondos-de-pantalla/noche-de-anime-con-luna-roja-enjgnix4p8rmzmxa.html",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.mbqBfTc4brf6CuHXNmvffwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapercave.com/wp/wp5753570.jpg",
+     "page": "https://wallpapercave.com/red-anime-4k-wallpapers",
+     "via": "Bing Imágenes",
+     "credit": "wallpapercave.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.QuWVqN9wnD2z9cEi3JW5CwHaEo&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/illustration-anime-red-Kaneki-Ken-Tokyo-Ghoul-darkness-screenshot-computer-wallpaper-fictional-character-special-effects-97304.png",
+     "page": "https://storage.googleapis.com/dxzuetfbsxikue/red-anime-wallpaper-4k-iphone.html",
+     "via": "Bing Imágenes",
+     "credit": "storage.googleapis.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1K8UIiBnjOHNhA4pwyZP2wHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
-   "extra_images": [],
-   "extra_at": "2026-11-24T18:54:33.932140+00:00",
+   "extra_images": [
+    {
+     "url": "https://wallpaperbat.com/img/1097167-red-anime-4k-wallpaper.jpg",
+     "page": "https://wallpaperbat.com/anime-red-wallpapers",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperbat.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.oVDnJxTlMOcwICpV0jUKxAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://c.wallhere.com/photos/38/86/anime_anime_girls_Hatsune_Miku_Vocaloid_twintails-69764.png!d",
+     "page": "https://wallhere.com/es/wallpaper/69764",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.cr6bCOtcM8kqYo6Hsvs5OgHaEK&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/anime-red-lolita-fashion-flower-computer-wallpaper-15457.jpg",
+     "page": "https://wallhere.com/es/wallpaper/15457",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.rBvSN8qW9ECv8jSYZ4RRCAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://p4.wallpaperbetter.com/wallpaper/726/206/456/manga-red-anime-wallpaper-preview.jpg",
+     "page": "https://www.wallpaperbetter.com/es/hd-wallpaper-ucjgy",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperbetter.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.NBIs41u7897oZIHHY5edqAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/high/red-anime-angel-wings-1wf0nvnqgb4ytq94.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.sV7XXZQsHrOyGGYlHQtCZwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/anime-girl-red-pfp-m7x1zt8o6hw0912p.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.XNRZCNSnhdimWX5tVsxCnQHaMO&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/red-anime-yumeko-jabami-kaca7c8e349jl6zo.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.13mk0QXbLuvLL3oDCmC32QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/red-anime-finesse-f4c7kn7w52vnkoah.jpg",
+     "page": "https://es.wallpapers.com/fondo-de-pantalla-de-anime-rojo",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.bqGCSHaMsWBpx4zx_6RPOQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/drawing-anime-red-Ilya-Kuvshinov-emotion-eye-darkness-screenshot-computer-wallpaper-organ-71958.png",
+     "page": "https://wallhere.com/es/wallpaper/71958",
+     "via": "Bing Imágenes",
+     "credit": "wallhere.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.4GrlJz8HXaMwqosRzXpXlQHaEK&pid=15.1"
+    },
+    {
+     "url": "http://getwallpapers.com/wallpaper/full/1/3/1/146090.jpg",
+     "page": "http://getwallpapers.com/collection/red-anime-wallpaper",
+     "via": "Bing Imágenes",
+     "credit": "getwallpapers.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.yBwHEfU6C6HwueH2ut9CMQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.xtrafondos.com/wallpapers/itachi-uchiha-fondo-rojo-13549.jpg",
+     "page": "https://www.xtrafondos.com/wallpaper/5120x2880/13549-itachi-uchiha-fondo-rojo.html",
+     "via": "Bing Imágenes",
+     "credit": "xtrafondos.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.fkN9JD_t7i6h4mVpbxnz8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/high/red-moon-anime-night-enjgnix4p8rmzmxa.jpg",
+     "page": "https://es.wallpapers.com/fondos-de-pantalla/noche-de-anime-con-luna-roja-enjgnix4p8rmzmxa.html",
+     "via": "Bing Imágenes",
+     "credit": "es.wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.mbqBfTc4brf6CuHXNmvffwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://wallpapercave.com/wp/wp5753570.jpg",
+     "page": "https://wallpapercave.com/red-anime-4k-wallpapers",
+     "via": "Bing Imágenes",
+     "credit": "wallpapercave.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.QuWVqN9wnD2z9cEi3JW5CwHaEo&pid=15.1"
+    },
+    {
+     "url": "https://get.wallhere.com/photo/illustration-anime-red-Kaneki-Ken-Tokyo-Ghoul-darkness-screenshot-computer-wallpaper-fictional-character-special-effects-97304.png",
+     "page": "https://storage.googleapis.com/dxzuetfbsxikue/red-anime-wallpaper-4k-iphone.html",
+     "via": "Bing Imágenes",
+     "credit": "storage.googleapis.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1K8UIiBnjOHNhA4pwyZP2wHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T19:02:33.612994+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
