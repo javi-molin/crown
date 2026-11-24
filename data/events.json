@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:50:23.357243+00:00",
+ "updated": "2026-11-24T13:58:24.058960+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,10 +149,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "edf8bdfc69bb85",
+    "62a395e0b2b110",
     "3fd0b17a2c3e8a",
     "e9b980181138e3",
     "d12acbeff11fb0",
@@ -242,9 +244,11 @@
     "Gestión",
     "Infobae",
     "La Hora",
+    "MARCA",
     "MILENIO",
     "Meridiano.net",
     "Metro.Style",
+    "Milenio",
     "Milenio on MSN",
     "N Digital",
     "NotiCel",
@@ -262,8 +266,8 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 65,
-   "n_sources": 41,
+   "n_items": 67,
+   "n_sources": 43,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -279,7 +283,224 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 150
+   "score": 156
+  },
+  {
+   "key": "t:mu:Votación:2026-11-24",
+   "id": "t-mu-votacion-2026-11-24-b01ad",
+   "name": "Votación · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Votación"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T03:50:14.960495+00:00",
+   "start": "2026-11-24T00:06:00+00:00",
+   "last_activity": "2026-11-24T13:51:00+00:00",
+   "item_ids": [
+    "944756c2f69670",
+    "e9c20abdfee373",
+    "c8fe7398d07e4c",
+    "74aba6dcb3a5b9",
+    "6a5fb4fcaa6029",
+    "fc312ea5b99564",
+    "977edca73dc1c8",
+    "718b3598b3ac94",
+    "985c16fd5dea2d",
+    "d66a000d173db8",
+    "5a3464b019fcd5"
+   ],
+   "sources": [
+    "DUPLOS.CL",
+    "Depor",
+    "Eje Central",
+    "El Comercio",
+    "El Comercio Perú",
+    "El Observatodo",
+    "Interaksyon",
+    "La Nación",
+    "Reporte Indigo",
+    "www.elmartutino.cl"
+   ],
+   "n_items": 11,
+   "n_sources": 10,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://depor.com/resizer/v2/326X7SB6R5E27BXDAGUPIFN6KU.jpg?auth=207ec1831e41c2d240aa46137a330fb46602fad223ec17bf0b97b65e57966c62&width=320&height=180&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/6MSA6PPU45ETRN3XBNLTF7J6W4.jpg?auth=33cd52dc593ee9e0585d590e9e8b4fd733a051e94783e2487cae7b7fbac99db1&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/PWUX4PXFFNHP5BZMZCAPDGWCGY.jpg?auth=c733fce1d364a946c041980e5f71c953c98d6404ddc635be6791d02a4f0123e2&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/LPSTPPDUNNF6DCH3SJH6U2BECY.jpg?auth=9d462f7c1852379992f943868ad3547f7a3617fcc3de99487f573a8059144359&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://depor.com/resizer/v2/CZ3GFTQXYNAHPOVD5HQHYRQWNE.jpg?auth=b351141f1c0b2b68dc526c3dbb24d73856df4aad1d29e8b94acc2a82a0f44b5c&width=314&height=157&quality=75&smart=true",
+     "page": "https://depor.com/noticias/miss-france/",
+     "via": "Depor",
+     "credit": "Depor"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/FFWP5J5D4VCQ5EWQGWSOFRDT5U.jpg?auth=57c26e317259ddb74104e86631431d7bea686aa4525e01171c273008b8d3829b&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2FFQYUXFUHRZF25E2GIMQK2REYXA.png?auth=16b87caea30b122c9862675d4d8cd4b90316dc31fb361c2c403584103c1f441a&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/4BUONIVQJVFBZEJHORLMFNPH7Y.jpg?auth=31c86987295f42bb01eea9d8fd9b93bda3fe80d6096f6162d35603448362c84c&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.T7jjjYEimdFhvvS-pn3vHw&pid=News",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
+     "via": "Bing (miniatura)",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
+     "page": "https://jetourchile.cl/w/t2-v1",
+     "via": "Bing Imágenes",
+     "credit": "jetourchile.cl",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 vote",
+   "extra_images": [
+    {
+     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
+     "page": "https://jetourchile.cl/w/t2-v1",
+     "via": "Bing Imágenes",
+     "credit": "jetourchile.cl",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "Asaf (WMF)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
+     "via": "Wikimedia Commons",
+     "license": "CC BY-SA 4.0",
+     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Morgenthau, Henry, 1891-1967"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-24T13:02:23.821318+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 31
   },
   {
    "key": "seed:voto-top30",
@@ -721,7 +942,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -749,221 +970,6 @@
     "shares": 0
    },
    "score": 143
-  },
-  {
-   "key": "t:mu:Votación:2026-11-24",
-   "id": "t-mu-votacion-2026-11-24-b01ad",
-   "name": "Votación · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Votación"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T03:50:14.960495+00:00",
-   "start": "2026-11-24T00:06:00+00:00",
-   "last_activity": "2026-11-24T13:25:21+00:00",
-   "item_ids": [
-    "e9c20abdfee373",
-    "c8fe7398d07e4c",
-    "74aba6dcb3a5b9",
-    "6a5fb4fcaa6029",
-    "fc312ea5b99564",
-    "977edca73dc1c8",
-    "718b3598b3ac94",
-    "985c16fd5dea2d",
-    "d66a000d173db8",
-    "5a3464b019fcd5"
-   ],
-   "sources": [
-    "DUPLOS.CL",
-    "Depor",
-    "Eje Central",
-    "El Comercio",
-    "El Comercio Perú",
-    "El Observatodo",
-    "Interaksyon",
-    "Reporte Indigo",
-    "www.elmartutino.cl"
-   ],
-   "n_items": 10,
-   "n_sources": 9,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://depor.com/resizer/v2/326X7SB6R5E27BXDAGUPIFN6KU.jpg?auth=207ec1831e41c2d240aa46137a330fb46602fad223ec17bf0b97b65e57966c62&width=320&height=180&quality=75&smart=true",
-     "page": "https://depor.com/noticias/miss-france/",
-     "via": "Depor",
-     "credit": "Depor"
-    },
-    {
-     "url": "https://depor.com/resizer/v2/6MSA6PPU45ETRN3XBNLTF7J6W4.jpg?auth=33cd52dc593ee9e0585d590e9e8b4fd733a051e94783e2487cae7b7fbac99db1&width=314&height=157&quality=75&smart=true",
-     "page": "https://depor.com/noticias/miss-france/",
-     "via": "Depor",
-     "credit": "Depor"
-    },
-    {
-     "url": "https://depor.com/resizer/v2/PWUX4PXFFNHP5BZMZCAPDGWCGY.jpg?auth=c733fce1d364a946c041980e5f71c953c98d6404ddc635be6791d02a4f0123e2&width=314&height=157&quality=75&smart=true",
-     "page": "https://depor.com/noticias/miss-france/",
-     "via": "Depor",
-     "credit": "Depor"
-    },
-    {
-     "url": "https://depor.com/resizer/v2/LPSTPPDUNNF6DCH3SJH6U2BECY.jpg?auth=9d462f7c1852379992f943868ad3547f7a3617fcc3de99487f573a8059144359&width=314&height=157&quality=75&smart=true",
-     "page": "https://depor.com/noticias/miss-france/",
-     "via": "Depor",
-     "credit": "Depor"
-    },
-    {
-     "url": "https://depor.com/resizer/v2/CZ3GFTQXYNAHPOVD5HQHYRQWNE.jpg?auth=b351141f1c0b2b68dc526c3dbb24d73856df4aad1d29e8b94acc2a82a0f44b5c&width=314&height=157&quality=75&smart=true",
-     "page": "https://depor.com/noticias/miss-france/",
-     "via": "Depor",
-     "credit": "Depor"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/FFWP5J5D4VCQ5EWQGWSOFRDT5U.jpg?auth=57c26e317259ddb74104e86631431d7bea686aa4525e01171c273008b8d3829b&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2FFQYUXFUHRZF25E2GIMQK2REYXA.png?auth=16b87caea30b122c9862675d4d8cd4b90316dc31fb361c2c403584103c1f441a&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/PAHQQSA2KZDUHLJBYXQYKG2BMQ.jpg?auth=b0c81f2a15fc6c593f56169b9fcfa67fb6fb065925bb5f76870d99703968d117&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/4BUONIVQJVFBZEJHORLMFNPH7Y.jpg?auth=31c86987295f42bb01eea9d8fd9b93bda3fe80d6096f6162d35603448362c84c&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.T7jjjYEimdFhvvS-pn3vHw&pid=News",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-maria-alejandra-lopez-de-colombia-en-miss-universo-2026-asi-puedes-apoyar-a-la-candidata-colombiana-nnda-nnrt-noticia/",
-     "via": "Bing (miniatura)",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
-     "page": "https://jetourchile.cl/w/t2-v1",
-     "via": "Bing Imágenes",
-     "credit": "jetourchile.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 vote",
-   "extra_images": [
-    {
-     "url": "https://jetourchile.cl/documents/7190100/9488702/jetour-t2-negro-media-noche.webp/fd286405-feb7-150c-5f73-ca4a87515731?t=1724103625463",
-     "page": "https://jetourchile.cl/w/t2-v1",
-     "via": "Bing Imágenes",
-     "credit": "jetourchile.cl",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-1tPVStuaQsi9k-0vQYMKAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). Office of Policy Development. 1/20/1981-1/20/198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:06-30-1981_(case_file_043461)_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Making_hard_decisions_-_CEEM_2026.pdf/page1-1920px-Making_hard_decisions_-_CEEM_2026.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Making_hard_decisions_-_CEEM_2026.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "Asaf (WMF)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Signpost_volume_22_issue_6.pdf/page1-960px-The_Signpost_volume_22_issue_6.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Signpost_volume_22_issue_6.pdf",
-     "via": "Wikimedia Commons",
-     "license": "CC BY-SA 4.0",
-     "credit": "The Signpost contributors, put in print format by User:OzmoOzmo"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf/page1-960px-Volume_685%2C_December_17_%E2%80%93_December_20%2C_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Volume_685,_December_17_%E2%80%93_December_20,_1943_-_DPLA_-_4357e521bdcd433836ede4a41d20101d.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Morgenthau, Henry, 1891-1967"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf/page1-1280px-WHSF-_Contested%2C_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Contested,_29-5_-_DPLA_-_5e51f5dc05daad5fc1a094c536b52c45.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-24T13:02:23.821318+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 28
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -1042,7 +1048,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T13:50:23.357243+00:00",
+   "extra_at": "2026-11-24T13:58:24.058960+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1091,7 +1097,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 19378,
+     "views": 19762,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1100,13 +1106,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 13128,
+     "views": 13270,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 32506,
+   "views_total": 33032,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -1454,13 +1460,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 303956,
+     "views": 308271,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 303956,
+   "views_total": 308271,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2616,7 +2622,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgEJmU_hd3d",
      "platform": "Instagram"
     },
@@ -2636,7 +2642,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -2724,7 +2730,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T04:09:00+00:00",
+   "start": "2026-11-23T04:48:43+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2805,7 +2811,6 @@
     "37f113e6f11e99",
     "fb4ea217447104",
     "c878a195587422",
-    "e51bc8f78e1c8d",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2862,7 +2867,7 @@
     "Listín Diario",
     "MSN"
    ],
-   "n_items": 92,
+   "n_items": 91,
    "n_sources": 63,
    "videos": [
     {
@@ -3125,11 +3130,9 @@
     "https://www.instagram.com/p/DgD7wDOJTVm",
     "https://www.instagram.com/p/DgDXsLdEStB",
     "https://www.instagram.com/p/DgEDDh5hhAv",
-    "https://www.instagram.com/p/DgEDOC6JpDF",
     "https://www.instagram.com/p/DgEJTChMTrl",
     "https://www.instagram.com/p/DgELcfUmVzt",
     "https://www.instagram.com/p/DgELtRyhp7_",
-    "https://www.instagram.com/p/DgEM596mDN9",
     "https://www.instagram.com/p/DgEMDnFGgfl",
     "https://www.instagram.com/p/DgENzI1DKX2",
     "https://www.instagram.com/p/DgGDBNxvTVQ",
@@ -3276,11 +3279,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T13:34:23.963362+00:00",
-     "url": "https://www.instagram.com/p/DgEDOC6JpDF",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T13:50:23.357243+00:00",
      "url": "https://www.instagram.com/p/DgEJTChMTrl",
      "platform": "Instagram"
@@ -3296,12 +3294,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T13:34:23.963362+00:00",
-     "url": "https://www.instagram.com/p/DgEM596mDN9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
     },
@@ -3394,7 +3387,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 221
+   "score": 220
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4624,7 +4617,7 @@
    "extra_at": "2026-11-24T12:06:23.588320+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgEJmU_hd3d",
      "platform": "Instagram"
     },
@@ -5084,62 +5077,62 @@
    "extra_at": "2026-11-24T13:50:23.357243+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DezSOz7I6yg",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DfaGKslj-s_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgAyKylIOqh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgB6kQ9uYx5",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgB9v3dkUBd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBEY_XOJUE",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBGqowIe2h",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBbx2_RLtF",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBh-mNADAr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBjOzTjZ53",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBklBeJvnW",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/p/DgBs6C4JTEQ",
      "platform": "Instagram"
     }
@@ -5366,27 +5359,27 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/reel/DgBb6WUTzd1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/reel/DgBeBhDxcwM",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/reel/DgBj6flR-7K",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/reel/DgBxrv9O_YR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T12:54:24.216768+00:00",
+     "fetched": "2026-11-24T13:58:24.058960+00:00",
      "url": "https://www.instagram.com/reel/DgD2pewgMAa",
      "platform": "Instagram"
     },
@@ -5468,7 +5461,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5546,8 +5539,7 @@
     "77650e0791580d",
     "37f113e6f11e99",
     "fb4ea217447104",
-    "c878a195587422",
-    "e51bc8f78e1c8d"
+    "c878a195587422"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5603,7 +5595,7 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 76,
+   "n_items": 75,
    "n_sources": 52,
    "videos": [],
    "views_total": 0,
@@ -5636,7 +5628,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 183
+   "score": 182
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5647,7 +5639,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5764,7 +5756,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5855,7 +5847,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6086,7 +6078,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6317,7 +6309,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T13:50:23.357243+00:00",
+   "first_seen": "2026-11-24T13:58:24.058960+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
