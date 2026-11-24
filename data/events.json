@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T21:02:42.080556+00:00",
+ "updated": "2026-11-24T21:10:41.632087+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,10 +110,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
+    "95adde7bb462cb",
     "8df62f5820d54c",
     "e18907c86261d5",
     "a487635195184b",
@@ -123,10 +124,11 @@
     "Facebook",
     "Inquirer.net",
     "Inquirer.net - Philippines Entertainment News",
+    "Instagram",
     "Meridiano.net"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -142,7 +144,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 18
   },
   {
    "key": "agenda:mu:final-y-coronacion",
@@ -153,10 +155,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "345f291ed196aa",
+    "2a811dbe6fa669",
     "cd3e040eb6ceff",
     "0030d5a01359a6",
     "d001bd0993a7de",
@@ -237,6 +241,8 @@
     "e9b980181138e3",
     "d0a5f151cebc8d",
     "d12acbeff11fb0",
+    "852a10e3f0abec",
+    "1aded992685e86",
     "22f53e92fcc8a7",
     "6debc80e4373ec",
     "b586e66fe7f290",
@@ -247,6 +253,7 @@
     "aa14d1899a8cc2",
     "002cda6137d3f5",
     "47a353120d2d25",
+    "a4555392afcb23",
     "af68ef682b441f",
     "12d47e3d29cd8d",
     "1f7fb45e0ef68d",
@@ -271,12 +278,7 @@
     "6324bfe05ac0f2",
     "150a4159447f55",
     "704ecd9b1f5d6d",
-    "bb1563ae876256",
-    "6607b3e6dcfc2e",
-    "ae2d8d989db77a",
-    "74b2180bc0a5b8",
-    "ffbff0a0081c92",
-    "ba711549a638df"
+    "bb1563ae876256"
    ],
    "sources": [
     "24 horas",
@@ -370,9 +372,11 @@
     "Revista Fama on MSN",
     "Rock&Pop",
     "Sabes.cl",
+    "Soy Carmín",
     "SoyChile.cl",
     "T13",
     "Telemedellín",
+    "Telemundo",
     "Teletrece",
     "Todo Jujuy",
     "TodoJujuy.com",
@@ -396,8 +400,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 206,
-   "n_sources": 116,
+   "n_items": 212,
+   "n_sources": 118,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -413,7 +417,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 441
+   "score": 451
   },
   {
    "key": "p:the big night",
@@ -1371,13 +1375,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8352,
-     "likes": 151,
+     "views": 8649,
+     "likes": 157,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8352,
+   "views_total": 8649,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2231,139 +2235,6 @@
    "score": 16
   },
   {
-   "key": "p:one unforgettable night",
-   "id": "p-one-unforgettable-night-2cc6d",
-   "name": "One Unforgettable Night",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Trajes típicos"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T03:26:06.119250+00:00",
-   "start": "2026-11-24T00:30:23+00:00",
-   "last_activity": "2026-11-24T13:00:00+00:00",
-   "item_ids": [
-    "5c41de094d619f",
-    "afad0375f8e830",
-    "7ea58ddad63810",
-    "95d195dbe5680c",
-    "3b6e207e8e6d55",
-    "fc312ea5b99564",
-    "c05d52b376a2d1",
-    "9fcac4f93a8849",
-    "90748c0f6d8875",
-    "a75025abdf2c51"
-   ],
-   "sources": [
-    "Bombay Times",
-    "Correo del Caroní",
-    "Diario Primicia",
-    "Ecuavisa",
-    "Interaksyon",
-    "La Nacion",
-    "N Digital",
-    "Prensa Libre",
-    "Radio Agricultura",
-    "YouTube · Miss Universe"
-   ],
-   "n_items": 10,
-   "n_sources": 10,
-   "videos": [
-    {
-     "vid": "UDILgaOsKGQ",
-     "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
-     "channel": "Miss Universe",
-     "views": 467553,
-     "likes": 0,
-     "published": "2026-11-24T00:30:23+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 467553,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/UDILgaOsKGQ/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-miss-cuba-desfilo-en-miss-universo-2026-SBQERU4PD5D7DFKLBDT2RWWQVA.jpg?auth=47216177b0bcdb4313b060e57a561d65dbd29fc6f489ff46f2f23cd724addcae&width=420&height=526&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/berta-soler-de-las-damas-de-blanco-prepara-su-S4UJCWTHC5BAHFIQFDYYIKNUOA.jpg?auth=e7ad2da58c0029015e50581cf863090c49113ca1cc286c1206637ad15efade27&width=420&height=241&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.QtZ_xwoqVyJ4p7-fz-T84A&pid=News",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "Bing (miniatura)",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nAppalachian State University"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DgBf5mfvezp",
-    "https://www.instagram.com/reel/DgF_BPzByah"
-   ],
-   "image_query": "Miss Universe 2026 One Unforgettable Night",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nAppalachian State University"
-    }
-   ],
-   "extra_at": "2026-11-24T18:46:34.069369+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T20:46:34.178916+00:00",
-     "url": "https://www.instagram.com/p/DgBf5mfvezp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T20:14:33.556741+00:00",
-     "url": "https://www.instagram.com/reel/DgF_BPzByah",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 56
-  },
-  {
    "key": "p:crown confidential",
    "id": "p-crown-confidential-8192f",
    "name": "Crown Confidential",
@@ -2376,9 +2247,10 @@
    "refs": [],
    "first_seen": "2026-11-24T05:34:15.033246+00:00",
    "start": "2026-11-24T02:20:00+00:00",
-   "last_activity": "2026-11-24T12:50:00+00:00",
+   "last_activity": "2026-11-24T13:02:00+00:00",
    "item_ids": [
     "80850e228412aa",
+    "852a10e3f0abec",
     "22f53e92fcc8a7",
     "5ae990338c0355",
     "91536525a60d1e",
@@ -2398,16 +2270,17 @@
     "Metro.Style",
     "N Digital",
     "RPP Noticias",
+    "Soy Carmín",
     "YouTube · Miss Universe"
    ],
-   "n_items": 11,
-   "n_sources": 8,
+   "n_items": 12,
+   "n_sources": 9,
    "videos": [
     {
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 34233,
+     "views": 34561,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2416,13 +2289,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 27758,
+     "views": 28062,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 61991,
+   "views_total": 62623,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2437,6 +2310,12 @@
      "page": "https://www.youtube.com/watch?v=w4KCfg2ZC_I",
      "via": "YouTube (miniatura)",
      "credit": "Miss Universe"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.64XxfNOWUBYFHCYInfQASw&pid=News",
+     "page": "https://www.soycarmin.com/miss-universo-2026-las-8-candidatas-favoritas-para-llevarse-la-corona-segun-la-ia-t202611240003.html",
+     "via": "Bing (miniatura)",
+     "credit": "Soy Carmín"
     },
     {
      "url": "https://www.elnuevodia.com/resizer/v2/JKFWVQHCTNCLFH7R2NYQ3BV76E.JPG?auth=79eae10e7bf062780065011647e306fe847196c1d007850ca84992149c90d288&quality=75&width=1200&height=717&focal=2480%2C736",
@@ -2472,12 +2351,6 @@
      "url": "https://www.elnuevodia.com/resizer/v2/https%3A%2F%2Fwww.elnuevodia.com%2Fresizer%2FSJe-eJAn71Wngi3Y-My1JUdfpZ4%3D%2F64x64%2Fsmart%2Ffilters%3Aformat(png)%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fgfrmedia%2FXJHYFGMTXZG2XBEPXGC2KF2MFM.png?auth=c252e7a419c55b996209bd06829dcfeca5a3dbd9bc71cc8d8f5fbe6a4aa74f0f&quality=75&width=64&height=64&smart=true",
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
      "via": "El Nuevo Día",
-     "credit": "El Nuevo Día"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.IvQiORDYT03dpkjCRL6ZOw&pid=News",
-     "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
-     "via": "Bing (miniatura)",
      "credit": "El Nuevo Día"
     },
     {
@@ -2668,7 +2541,172 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 33
+   "score": 36
+  },
+  {
+   "key": "p:one unforgettable night",
+   "id": "p-one-unforgettable-night-2cc6d",
+   "name": "One Unforgettable Night",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Trajes típicos"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T03:26:06.119250+00:00",
+   "start": "2026-11-24T00:30:23+00:00",
+   "last_activity": "2026-11-24T13:00:00+00:00",
+   "item_ids": [
+    "5c41de094d619f",
+    "afad0375f8e830",
+    "2f385cbbe5ac78",
+    "7ea58ddad63810",
+    "95d195dbe5680c",
+    "3b6e207e8e6d55",
+    "fc312ea5b99564",
+    "c05d52b376a2d1",
+    "9fcac4f93a8849",
+    "90748c0f6d8875",
+    "a75025abdf2c51"
+   ],
+   "sources": [
+    "Bombay Times",
+    "Correo del Caroní",
+    "Diario Primicia",
+    "Ecuavisa",
+    "Interaksyon",
+    "La Nacion",
+    "N Digital",
+    "Prensa Libre",
+    "Radio Agricultura",
+    "YouTube · Miss Universe",
+    "tvmas.tv"
+   ],
+   "n_items": 11,
+   "n_sources": 11,
+   "videos": [
+    {
+     "vid": "UDILgaOsKGQ",
+     "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
+     "channel": "Miss Universe",
+     "views": 471641,
+     "likes": 0,
+     "published": "2026-11-24T00:30:23+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 471641,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/UDILgaOsKGQ/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=UDILgaOsKGQ",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-miss-cuba-desfilo-en-miss-universo-2026-SBQERU4PD5D7DFKLBDT2RWWQVA.jpg?auth=47216177b0bcdb4313b060e57a561d65dbd29fc6f489ff46f2f23cd724addcae&width=420&height=526&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/berta-soler-de-las-damas-de-blanco-prepara-su-S4UJCWTHC5BAHFIQFDYYIKNUOA.jpg?auth=e7ad2da58c0029015e50581cf863090c49113ca1cc286c1206637ad15efade27&width=420&height=241&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "La Nacion",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.QtZ_xwoqVyJ4p7-fz-T84A&pid=News",
+     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
+     "via": "Bing (miniatura)",
+     "credit": "La Nacion"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/APOYO-NOTAS-4-8-1024x576.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/Hija-de-Claudia-Conserva-parecido-a-Pollo-Valdivia-468x263.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/11/Sergio-Lagos-y-Nicole-468x263.jpg",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv/2026/10/APOYO-NOTAS-33-468x263.png",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://media.tvmas.tv{{imagen_post}}",
+     "page": "https://www.tvmas.tv/noticias/entre-las-15-favoritas-dominga-lopez-deslumbra-con-su-traje-tipico-en-miss-universo-2026_20261124/",
+     "via": "tvmas.tv",
+     "credit": "tvmas.tv"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgBf5mfvezp",
+    "https://www.instagram.com/reel/DgF_BPzByah"
+   ],
+   "image_query": "Miss Universe 2026 One Unforgettable Night",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nAppalachian State University"
+    }
+   ],
+   "extra_at": "2026-11-24T18:46:34.069369+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
+     "url": "https://www.instagram.com/p/DgBf5mfvezp",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T20:14:33.556741+00:00",
+     "url": "https://www.instagram.com/reel/DgF_BPzByah",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 59
   },
   {
    "key": "t:mi:Gala / cena:2026-11-24",
@@ -3478,104 +3516,6 @@
      "credit": "Revista Caras México"
     },
     {
-     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
-     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
-     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
-     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
-     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
      "via": "Wikimedia Commons",
@@ -3597,11 +3537,11 @@
      "credit": ""
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "\nAppalachian State University"
+     "credit": "\nSanborn, F. B"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3622,104 +3562,6 @@
    "image_query": "Miss Universe 2026 charity visit",
    "extra_images": [
     {
-     "url": "https://i.ytimg.com/vi/Lm0DD3ZBRlE/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=Lm0DD3ZBRlE",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.vteu2XhJsP9emNa2d8oBQgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/uaCtYuAPDjE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=uaCtYuAPDjE",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.xo2GTBLzsuK3Y3zS44qcuAHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/0e/Kid_Vs_Kat_1-S3_(13).png/revision/latest/scale-to-width-down/400?cb=20110202163530",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.geXLoj662fisVdkn513J-AAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/5/53/Kid_Vs_Kat_1-S3_(5).png/revision/latest/scale-to-width-down/400?cb=20110202163313",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.XPg9b_Z73a5S5zu-aZs7kAAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/1/16/Kid_Vs_Kat_1-S3_(7).png/revision/latest/scale-to-width-down/400?cb=20110202163315",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.sbtgo2wZsDzoncno-sBsxwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/0/04/Kid-vs-kat-ep-DENTAL-DAMAGE-kid-vs-kat-20706098-1366-1025.jpg/revision/latest/scale-to-width-down/1200?cb=20130102172741",
-     "page": "https://kidvskat.fandom.com/wiki/Dental_Damage",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP._4uNxmlkkUVKR7UL9y9rLwHaFj&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/3Crf6qMw1Yo/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCIIzmRl-enXJ5rf-OCXO7J8H0haA",
-     "page": "https://www.youtube.com/watch?v=3Crf6qMw1Yo",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.q5Jao2JHQC6G441mJaw9MAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/e/ea/Kid_Vs_Kat_1-S3_(17).png/revision/latest/scale-to-width-down/400?cb=20110202163533",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.MxM-OBxwXOfCzcXrQ3yvEgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/d/d1/Short_3_-_Dental_Damage.png/revision/latest/scale-to-width-down/1200?cb=20110419195301&path-prefix=es",
-     "page": "https://kidvskat.fandom.com/es/wiki/Daño_dental",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ydLBTyBVYMkM5nPknTtuOgHaE7&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/c/c6/Kid_Vs_Kat_1-S3_(16).png/revision/latest/scale-to-width-down/400?cb=20110202163532",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.38D2BqXnhtLg6171VKQe5gAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/0hMng0q9H_g/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGEMgXihlMA8=&rs=AOn4CLBfxus_oZYQ6wv_AL9om7_D6WiHhg",
-     "page": "https://www.youtube.com/watch?v=0hMng0q9H_g",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ea4hmulticU6Q2RHQ1TkHgHaFj&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/3/34/Kid_Vs_Kat_1-S3_(24).png/revision/latest/scale-to-width-down/400?cb=20110202163721",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.howXM8-hW3Yg1U8bXGamOwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/a/ab/Kid_Vs_Kat_1-S3_(20).png/revision/latest/scale-to-width-down/400?cb=20110202163535",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.nbPP5Ck1uysM4WyB3TpnOwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/kidvskat/images/6/63/Kid_Vs_Kat_1-S3_(14).png/revision/latest/scale-to-width-down/400?cb=20110202163531",
-     "page": "https://kidvskat.fandom.com/wiki/Kid_Vs_Kat_Season_1_Short_3_Images",
-     "via": "Bing Imágenes",
-     "credit": "kidvskat.fandom.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.BN4L2lep21aRUttdzz5_hQAAAA&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
      "via": "Wikimedia Commons",
@@ -3741,11 +3583,11 @@
      "credit": ""
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf/page1-500px-The_genius_and_character_of_Emerson_%28IA_geniuscharactero00sanb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_genius_and_character_of_Emerson_(IA_geniuscharactero00sanb).pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "\nAppalachian State University"
+     "credit": "\nSanborn, F. B"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf/page1-960px-Watson_-_Gandhi_and_non-violent_resistance_the_non_cooperation_movement_of_India.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3762,7 +3604,7 @@
      "credit": "Rabindranath Tagore and others"
     }
    ],
-   "extra_at": "2026-11-24T18:06:34.029537+00:00",
+   "extra_at": "2026-11-24T21:10:41.632087+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3961,7 +3803,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T14:48:46+00:00",
+   "start": "2026-11-23T15:00:07+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3990,8 +3832,6 @@
     "891311078f097f",
     "c65557e774815d",
     "9cb8e27df3b9f2",
-    "86c90a1eac6a76",
-    "68c43d5cfd36f5",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "d1d6d051c0daab",
@@ -4010,8 +3850,6 @@
     ".: El Sol de Margarita :.",
     "2001online",
     "Ambito",
-    "Artículo 66",
-    "BetUS",
     "BioBioChile",
     "Bombay Times",
     "Business Insider",
@@ -4041,20 +3879,20 @@
     "Vistazo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 41,
-   "n_sources": 33,
+   "n_items": 39,
+   "n_sources": 31,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8352,
-     "likes": 151,
+     "views": 8649,
+     "likes": 157,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8352,
+   "views_total": 8649,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4420,7 +4258,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 110
+   "score": 104
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4667,13 +4505,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 8352,
-     "likes": 151,
+     "views": 8649,
+     "likes": 157,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 8352,
+   "views_total": 8649,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4930,7 +4768,7 @@
      "credit": "Ayuntamiento de Los Cabos﻿"
     }
    ],
-   "extra_at": "2026-11-24T18:06:34.029537+00:00",
+   "extra_at": "2026-11-24T21:10:41.632087+00:00",
    "social": [
     {
      "fetched": "2026-11-24T20:14:33.556741+00:00",
@@ -4961,7 +4799,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4995,15 +4833,11 @@
     "ad5321b491cf7d",
     "0196740579222e",
     "891311078f097f",
-    "9cb8e27df3b9f2",
-    "86c90a1eac6a76",
-    "68c43d5cfd36f5"
+    "9cb8e27df3b9f2"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
     "2001online",
-    "Artículo 66",
-    "BetUS",
     "CiberCuba",
     "Clx Icons",
     "El Comercio Perú",
@@ -5027,8 +4861,8 @@
     "YouTube · Miss Universe",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 33,
-   "n_sources": 26,
+   "n_items": 31,
+   "n_sources": 24,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5242,7 +5076,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 88
+   "score": 82
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5253,10 +5087,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
+    "2f385cbbe5ac78",
     "7ea58ddad63810",
     "3b6e207e8e6d55",
     "c05d52b376a2d1",
@@ -5293,10 +5128,11 @@
     "Radio Agricultura",
     "Yahoo",
     "YouTube · Miss Universe",
-    "YouTube · Telemundo Entretenimiento"
+    "YouTube · Telemundo Entretenimiento",
+    "tvmas.tv"
    ],
-   "n_items": 19,
-   "n_sources": 16,
+   "n_items": 20,
+   "n_sources": 17,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5510,7 +5346,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 54
+   "score": 57
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -5521,7 +5357,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5696,7 +5532,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5927,7 +5763,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6144,7 +5980,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T21:02:42.080556+00:00",
+   "first_seen": "2026-11-24T21:10:41.632087+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
