@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-24T15:50:33.416376+00:00",
+ "run_at": "2026-11-24T15:58:33.717244+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -10,7 +10,7 @@
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 101,
+   "items": 103,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 74,
+   "items": 45,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 63,
+   "items": 27,
    "error": null
   },
   {
@@ -99,9 +99,9 @@
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 45,
+   "error": null
   },
   {
    "source": "Google News · certamen de belleza",
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 18,
+   "items": 15,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 1,
+   "items": 2,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -392,6 +398,6 @@
    "error": null
   }
  ],
- "new_items": 1007,
+ "new_items": 1006,
  "total_items": 900
 }
