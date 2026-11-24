@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:26:41.813326+00:00",
+ "updated": "2026-11-24T23:34:42.318761+00:00",
  "count": 29,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -157,10 +157,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "6093950adbceb5",
     "fb9c2a7acff0e0",
     "f64b324b983410",
     "3d99012b7b8396",
@@ -272,15 +273,14 @@
     "d81befb1cce8a5",
     "6b12cc40a2d6f4",
     "c3d15dc6cdb342",
+    "cedda8feceac92",
+    "72a7e2ee3fb3a4",
     "86c58462693ee0",
     "6cc3eb5a4f9918",
     "f7145e591bd640",
     "c2fe224b1b75c8",
     "0d21b7ab1b8016",
-    "7befbe8e5b6a24",
-    "a3ed91213292c5",
-    "b1fb14b7115c2d",
-    "163b76447d3cee"
+    "7befbe8e5b6a24"
    ],
    "sources": [
     "24 horas",
@@ -438,7 +438,7 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 306,
+   "n_items": 309,
    "n_sources": 154,
    "videos": [],
    "views_total": 0,
@@ -455,7 +455,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 617
+   "score": 620
   },
   {
    "key": "p:one unforgettable night",
@@ -509,13 +509,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 519795,
+     "views": 520515,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 519795,
+   "views_total": 520515,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -685,7 +685,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 68
+   "score": 69
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -705,6 +705,7 @@
     "ad09194edea0a4",
     "bf6194a75a7438",
     "2e820b89c19287",
+    "72a7e2ee3fb3a4",
     "e000bc5517f804",
     "be604c5fb4d998",
     "89ee069c77bdd6",
@@ -739,6 +740,7 @@
     "El Heraldo",
     "El Nuevo Día",
     "El Siglo",
+    "El Universo",
     "Gestión",
     "Infobae",
     "LA NACION",
@@ -752,11 +754,23 @@
     "Telemundo 51",
     "Últimas Noticias"
    ],
-   "n_items": 26,
-   "n_sources": 21,
+   "n_items": 27,
+   "n_sources": 22,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/YEG2QTFG5RC4HCKI253WPQOY2E.jpg?auth=fe39ef2ad003dba6ea3537fc4fd7da8313d58903b7d62748b6103deba588ba3a&width=1190&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/en-vivo-gala-final-del-miss-universo-2026-en-puerto-rico-como-es-el-concurso-y-todo-lo-que-debes-antes-del-evento-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.H1LBZ1Ar9kTIbL3w4pHg1Q&pid=News",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/en-vivo-gala-final-del-miss-universo-2026-en-puerto-rico-como-es-el-concurso-y-todo-lo-que-debes-antes-del-evento-nota/",
+     "via": "Bing (miniatura)",
+     "credit": "El Universo"
+    },
     {
      "url": "https://media.diariolasamericas.com/p/bf2fb83bbef4afd1a3f3ce4e0abe1a7e/adjuntos/216/imagenes/100/288/0100288690/1200x675/smart/miss-universo_traje-tipico-venezuela.png",
      "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
@@ -815,12 +829,6 @@
      "url": "https://media.diariolasamericas.com/p/3c7e842a52424f3653a30cb0d716bd54/adjuntos/216/imagenes/000/210/0000210592/855x0/smart/miami-brickell.jpg",
      "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
      "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.Ab38nGxWUl16FnWyiSmTMA&pid=News",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Bing (miniatura)",
      "credit": "Diario Las Américas"
     },
     {
@@ -990,12 +998,6 @@
      "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
      "via": "Gestión",
      "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
     }
    ],
    "social_urls": [
@@ -1114,7 +1116,7 @@
     "comments": 27,
     "shares": 545
    },
-   "score": 68
+   "score": 71
   },
   {
    "key": "p:the big night",
@@ -1149,13 +1151,13 @@
      "vid": "S4XeFwA1d0w",
      "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
      "channel": "Miss Universe",
-     "views": 3830,
+     "views": 4111,
      "likes": 0,
      "published": "2026-11-24T18:42:00+00:00",
      "official": true
     }
    ],
-   "views_total": 3830,
+   "views_total": 4111,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
@@ -1646,12 +1648,12 @@
    "extra_at": "2026-11-24T23:02:41.616543+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T22:30:41.646803+00:00",
+     "fetched": "2026-11-24T23:34:42.318761+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T22:30:41.646803+00:00",
+     "fetched": "2026-11-24T23:34:42.318761+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1739,7 +1741,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 38621,
+     "views": 38796,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -1748,13 +1750,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 31649,
+     "views": 31800,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 70270,
+   "views_total": 70596,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -2871,18 +2873,18 @@
    "views_total": 35531,
    "images": [
     {
-     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
-     "via": "YouTube (miniatura)",
-     "credit": "SNOW SIN FILTRO"
-    },
-    {
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
     },
     {
      "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
@@ -2931,11 +2933,11 @@
      "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf/page1-960px-Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_(06-07-1974-09-02-1974)_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/03-28-1983_%28case_file_127528%29_%281%29_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf/page1-960px-03-28-1983_%28case_file_127528%29_%281%29_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:03-28-1983_(case_file_127528)_(1)_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -2977,11 +2979,11 @@
      "credit": "President (1963-1969 : Johnson). President's Commission on the Assassination of "
     },
     {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf/page1-960px-Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_%2806-07-1974-09-02-1974%29_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Governor%C3%A4%C3%B3%C2%BBs_Daily_Schedules_1974_(06-07-1974-09-02-1974)_-_DPLA_-_741c4d38e4f8fea1f6db16bb7e9ac158.pdf",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/03-28-1983_%28case_file_127528%29_%281%29_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf/page1-960px-03-28-1983_%28case_file_127528%29_%281%29_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:03-28-1983_(case_file_127528)_(1)_-_DPLA_-_261a25d85199c32867ab7f742db5859c.pdf",
      "via": "Wikimedia Commons",
      "license": "Public domain",
-     "credit": "Reagan, Ronald, 1911-2004"
+     "credit": "President (1981-1989 : Reagan). White House Office of Records Management. 1/20/1"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf/page1-960px-July_-_August_1962_-_DPLA_-_dba3b1bd391dcb1562928305d2e1fc3f.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -3012,7 +3014,7 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "extra_at": "2026-11-24T20:30:34.059433+00:00",
+   "extra_at": "2026-11-24T23:34:42.318761+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -3681,7 +3683,7 @@
      "credit": ""
     }
    ],
-   "extra_at": "2026-11-24T20:30:34.059433+00:00",
+   "extra_at": "2026-11-24T23:34:42.318761+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4052,25 +4054,207 @@
    "views_total": 0,
    "images": [
     {
-     "url": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/23603c3e-e3eb-4511-92e7-71fc8178942b/851f5101-dca7-45bf-8913-9a1fcde6cf5f.png",
-     "page": "https://www.cars.com/research/volvo-s40-2009/",
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-2025-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
      "via": "Bing Imágenes",
-     "credit": "cars.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.UJw1CqYfgE_mHt8B9v6rLgHaFj&pid=15.1"
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tGcv0ZxCjcue2uEuNvn9zAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-2022.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.lCxbxTXNUqil8rTRnfhD8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-2022-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.hX8JBRT2qRYWKmKYtxAPsQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-2025.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/jaecoo/5",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.SZ-z2MpQsLmk_ZXNXYpqWwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-ev-2020.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2fpdleufQ-tIzJTG0bfzmAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-ev-2020-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.THFijhiGnyqi9RxhQFgIRAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.coches.com/_news_/2025/04/MG-ZS-Hybrid-prueba-maletero-3.jpeg",
+     "page": "https://www.coches.com/noticias/pruebas/mg-zs-2025-prueba/544441",
+     "via": "Bing Imágenes",
+     "credit": "coches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.uUL-qP2o0ZvEw5fR-NqN-QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://carwow-es-wp-0.imgix.net/maletero-mg-zs.jpg",
+     "page": "https://www.carwow.es/editorial/consejos-para-elegir-coche/comparativas-coches/comparativa-mg-zs-vs-dacia-sandero-stepway",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.EtGeElqOs7PwQkHKRH4nxQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdn-images.motor.es/image/m/1320w/fotos-noticias/2024/10/prueba-mg-zs-hybrid-2024104993-1730219549_5.jpg",
+     "page": "https://www.motor.es/pruebas-coches/prueba-mg-zs-hybrid-2024104993.html",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Tn46FYNNWCUT51qq6IJRZQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.motor.es/fotos-marca/medidas/mg-zs_mid691243583987e.jpg",
+     "page": "https://www.motor.es/ebro/s400/medidas",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.T_0UJ_pgpXLVyurTr8KJOAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-smart-hashtag1-2023.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs-ev",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xuzyt8qmgdrSTvyV4uBFnwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://carwow-es-wp-0.imgix.net/maletero-mg-zs-1.jpg",
+     "page": "https://www.carwow.es/editorial/consejos-para-elegir-coche/comparativas-coches/comparativa-mg-zs-vs-mg-hs",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bELF1tIWdW1ADMj0o_1uigHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.motor.es/fotos-marca/medidas/mg-zs-ev.jpg",
+     "page": "https://www.motor.es/mg/zs-ev/medidas",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A4EWXYuZXrsuYiPSU0-g0AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://storage.googleapis.com/fp-media/1/2024/02/mg7-1.jpg",
+     "page": "https://www.formulapassion.it/auto/auto-news/novita-mg-zs-senza-segreti",
+     "via": "Bing Imágenes",
+     "credit": "formulapassion.it",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.sX3B7R965fzQwQTfw2nLkAHaEL&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [
     {
-     "url": "https://platform.cstatic-images.com/xlarge/in/v2/stock_photos/23603c3e-e3eb-4511-92e7-71fc8178942b/851f5101-dca7-45bf-8913-9a1fcde6cf5f.png",
-     "page": "https://www.cars.com/research/volvo-s40-2009/",
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-2025-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
      "via": "Bing Imágenes",
-     "credit": "cars.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.UJw1CqYfgE_mHt8B9v6rLgHaFj&pid=15.1"
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tGcv0ZxCjcue2uEuNvn9zAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-2022.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.lCxbxTXNUqil8rTRnfhD8QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-2022-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.hX8JBRT2qRYWKmKYtxAPsQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-2025.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/jaecoo/5",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.SZ-z2MpQsLmk_ZXNXYpqWwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-mg-zs-ev-2020.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.2fpdleufQ-tIzJTG0bfzmAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/interior/mg-zs-ev-2020-maletero.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.THFijhiGnyqi9RxhQFgIRAHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.coches.com/_news_/2025/04/MG-ZS-Hybrid-prueba-maletero-3.jpeg",
+     "page": "https://www.coches.com/noticias/pruebas/mg-zs-2025-prueba/544441",
+     "via": "Bing Imágenes",
+     "credit": "coches.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.uUL-qP2o0ZvEw5fR-NqN-QHaEK&pid=15.1"
+    },
+    {
+     "url": "https://carwow-es-wp-0.imgix.net/maletero-mg-zs.jpg",
+     "page": "https://www.carwow.es/editorial/consejos-para-elegir-coche/comparativas-coches/comparativa-mg-zs-vs-dacia-sandero-stepway",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.EtGeElqOs7PwQkHKRH4nxQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://cdn-images.motor.es/image/m/1320w/fotos-noticias/2024/10/prueba-mg-zs-hybrid-2024104993-1730219549_5.jpg",
+     "page": "https://www.motor.es/pruebas-coches/prueba-mg-zs-hybrid-2024104993.html",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Tn46FYNNWCUT51qq6IJRZQHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.motor.es/fotos-marca/medidas/mg-zs_mid691243583987e.jpg",
+     "page": "https://www.motor.es/ebro/s400/medidas",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.T_0UJ_pgpXLVyurTr8KJOAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://www.medidasdecoches.com/fotos/medidas-smart-hashtag1-2023.jpg",
+     "page": "https://www.medidasdecoches.com/modelo/mg/zs-ev",
+     "via": "Bing Imágenes",
+     "credit": "medidasdecoches.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xuzyt8qmgdrSTvyV4uBFnwHaEK&pid=15.1"
+    },
+    {
+     "url": "https://carwow-es-wp-0.imgix.net/maletero-mg-zs-1.jpg",
+     "page": "https://www.carwow.es/editorial/consejos-para-elegir-coche/comparativas-coches/comparativa-mg-zs-vs-mg-hs",
+     "via": "Bing Imágenes",
+     "credit": "carwow.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bELF1tIWdW1ADMj0o_1uigHaEK&pid=15.1"
+    },
+    {
+     "url": "https://static.motor.es/fotos-marca/medidas/mg-zs-ev.jpg",
+     "page": "https://www.motor.es/mg/zs-ev/medidas",
+     "via": "Bing Imágenes",
+     "credit": "motor.es",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A4EWXYuZXrsuYiPSU0-g0AAAAA&pid=15.1"
+    },
+    {
+     "url": "https://storage.googleapis.com/fp-media/1/2024/02/mg7-1.jpg",
+     "page": "https://www.formulapassion.it/auto/auto-news/novita-mg-zs-senza-segreti",
+     "via": "Bing Imágenes",
+     "credit": "formulapassion.it",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.sX3B7R965fzQwQTfw2nLkAHaEL&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-24T20:30:34.059433+00:00",
+   "extra_at": "2026-11-24T23:34:42.318761+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -4238,6 +4422,7 @@
    "item_ids": [
     "f254c2c54acc92",
     "f6f85a4ee2b695",
+    "5825312fd6cc63",
     "a2fb269272421a",
     "bb0bcb12cb7923"
    ],
@@ -4245,10 +4430,11 @@
     "CiberCuba",
     "Facebook",
     "HOLA",
-    "Metro.Style"
+    "Metro.Style",
+    "Music Mundial"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4293,7 +4479,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 15
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4304,7 +4490,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4320,6 +4506,7 @@
     "479865ad166d59",
     "f254c2c54acc92",
     "f6f85a4ee2b695",
+    "5825312fd6cc63",
     "a2fb269272421a",
     "bb0bcb12cb7923"
    ],
@@ -4331,12 +4518,13 @@
     "Facebook",
     "HOLA",
     "Metro.Style",
+    "Music Mundial",
     "RPP Noticias",
     "YouTube · Miss Universe",
     "colombiaone"
    ],
-   "n_items": 14,
-   "n_sources": 10,
+   "n_items": 15,
+   "n_sources": 11,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4368,7 +4556,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 40
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -4379,7 +4567,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4638,7 +4826,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4813,7 +5001,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4826,7 +5014,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T23:26:41.813326+00:00",
+   "extra_at": "2026-11-24T23:34:42.318761+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4846,7 +5034,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5077,7 +5265,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T23:26:41.813326+00:00",
+   "first_seen": "2026-11-24T23:34:42.318761+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
