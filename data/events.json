@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:38:33.393061+00:00",
+ "updated": "2026-11-24T20:46:34.178916+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -153,10 +153,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "0030d5a01359a6",
+    "d001bd0993a7de",
     "81be2976543034",
     "efac2931cf5586",
     "66fb8170b13df3",
@@ -263,6 +265,7 @@
     "6324bfe05ac0f2",
     "150a4159447f55",
     "704ecd9b1f5d6d",
+    "bb1563ae876256",
     "6607b3e6dcfc2e",
     "ae2d8d989db77a",
     "74b2180bc0a5b8",
@@ -273,10 +276,7 @@
     "a1d49299ffc7fb",
     "b12cdf53220eea",
     "469d01ef35d3a6",
-    "d230457cb8489f",
-    "fb24419f2eb107",
-    "17355e874077f2",
-    "4dd647c2831da2"
+    "d230457cb8489f"
    ],
    "sources": [
     "24 horas",
@@ -290,6 +290,7 @@
     "Caretas",
     "Chilevisión",
     "Clarin.com",
+    "Claro Sports",
     "Clx Icons",
     "Cooperativa",
     "Cooperativa.cl",
@@ -394,8 +395,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 196,
-   "n_sources": 114,
+   "n_items": 200,
+   "n_sources": 115,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -411,7 +412,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 427
+   "score": 433
   },
   {
    "key": "p:the big night",
@@ -1328,7 +1329,6 @@
     "addc28a77d9cb9",
     "1e4b1b396cb41b",
     "2aa40afe742500",
-    "9daa64e5c29e05",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -1361,7 +1361,6 @@
     "HOLA",
     "International Business Times Singapore",
     "Mega.cl",
-    "Minuto60",
     "Página 7",
     "Reporte Índigo",
     "Soy Carmín on MSN",
@@ -1369,20 +1368,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 32,
-   "n_sources": 27,
+   "n_items": 31,
+   "n_sources": 26,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7454,
-     "likes": 135,
+     "views": 7810,
+     "likes": 140,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7454,
+   "views_total": 7810,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1628,7 +1627,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 89
+   "score": 86
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1979,27 +1978,27 @@
    "extra_at": "2026-11-24T20:38:33.393061+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DY0U2OdFNLd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DesYM0xFBT-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/Df44LBzkXlf",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DfAosONy0QX",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/Df_BAnEEbAt",
      "platform": "Instagram"
     },
@@ -2009,7 +2008,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DgC21CLm7tq",
      "platform": "Instagram"
     },
@@ -2024,22 +2023,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DgHJJr1gtCd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/reel/DfAosONy0QX",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/reel/DgHJJr1gtCd",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605",
      "platform": "TikTok",
      "views": 95400,
@@ -2527,6 +2526,366 @@
    "score": 33
   },
   {
+   "key": "t:mi:Gala / cena:2026-11-24",
+   "id": "t-mi-gala-cena-2026-11-24-6109e",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mi",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T13:26:23.744497+00:00",
+   "start": "2026-11-24T02:59:00+00:00",
+   "last_activity": "2026-11-24T12:26:00+00:00",
+   "item_ids": [
+    "af6a8abe9c4ff2",
+    "a487635195184b",
+    "6f46c9b306e4d2",
+    "cab464992ccf70",
+    "9ceb15222aac20"
+   ],
+   "sources": [
+    "Diario La Verdad",
+    "Inquirer.net",
+    "Inquirer.net - Philippines Entertainment News",
+    "Meridiano.net",
+    "Ouest-France"
+   ],
+   "n_items": 5,
+   "n_sources": 5,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.KMQLdyOcEwbxIty2-MBCgg&pid=News",
+     "page": "https://laverdad.com/galas-finales-de-miss-universo-y-miss-internacional-se-transmitiran-por-venevision/",
+     "via": "Bing (miniatura)",
+     "credit": "Diario La Verdad"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795477871216.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795477871216.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-7.png",
+     "page": "https://renosbestrock.com/bing-フィルター-セーフティサーチ設定-bing/",
+     "via": "Bing Imágenes",
+     "credit": "renosbestrock.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5qKzwXN5CjzTDv3zyl-zqgHaEa&pid=15.1"
+    },
+    {
+     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
+     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
+     "via": "Bing Imágenes",
+     "credit": "toolerific.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature%20wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/high resolution birds/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free jpeg images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://img.huntai.ai/2024/12/16/impossibleimages-ai-thumbnail.png",
+     "page": "https://seektool.ai/ai/impossibleimages-ai",
+     "via": "Bing Imágenes",
+     "credit": "seektool.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pFH1vSC5fRZ-8daaL4bPXgHaEG&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/drone images png/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania,_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf/page1-960px-State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy,_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf/page1-960px-WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf/page1-960px-WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf/page1-960px-WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf/page1-960px-WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgIOh7buM16",
+    "https://www.instagram.com/reel/DgILLLAhQYC"
+   ],
+   "image_query": "Miss International 2026 gala dinner",
+   "extra_images": [
+    {
+     "url": "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-7.png",
+     "page": "https://renosbestrock.com/bing-フィルター-セーフティサーチ設定-bing/",
+     "via": "Bing Imágenes",
+     "credit": "renosbestrock.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.5qKzwXN5CjzTDv3zyl-zqgHaEa&pid=15.1"
+    },
+    {
+     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
+     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
+     "via": "Bing Imágenes",
+     "credit": "toolerific.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/natural/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://image.moge.ai/screen/impossible-images.jpg",
+     "page": "https://moge.ai/product/impossible-images",
+     "via": "Bing Imágenes",
+     "credit": "moge.ai",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/landscape/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature background images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
+     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
+     "via": "Bing Imágenes",
+     "credit": "bc.classicjapcycles.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature%20wallpaper/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/scenery/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/high resolution birds/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/free jpeg images/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
+    },
+    {
+     "url": "https://img.huntai.ai/2024/12/16/impossibleimages-ai-thumbnail.png",
+     "page": "https://seektool.ai/ai/impossibleimages-ai",
+     "via": "Bing Imágenes",
+     "credit": "seektool.ai",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.pFH1vSC5fRZ-8daaL4bPXgHaEG&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/drone images png/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
+    },
+    {
+     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
+     "page": "https://www.pexels.com/search/nature and environment/",
+     "via": "Bing Imágenes",
+     "credit": "pexels.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania,_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf/page1-960px-State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy,_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf/page1-960px-WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf/page1-960px-WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf/page1-960px-WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf/page1-960px-WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
+    }
+   ],
+   "extra_at": "2026-11-24T19:34:33.530984+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
+     "url": "https://www.instagram.com/p/DgIOh7buM16",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
+     "url": "https://www.instagram.com/reel/DgILLLAhQYC",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 15
+  },
+  {
    "key": "t:me:Llegada / bienvenida:2026-11-24",
    "id": "t-me-llegada-bienvenida-2026-11-24-51587",
    "name": "Llegada / bienvenida · 24–26 nov",
@@ -2694,350 +3053,6 @@
     "shares": 0
    },
    "score": 7
-  },
-  {
-   "key": "t:mi:Gala / cena:2026-11-24",
-   "id": "t-mi-gala-cena-2026-11-24-6109e",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mi",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T13:26:23.744497+00:00",
-   "start": "2026-11-24T02:59:00+00:00",
-   "last_activity": "2026-11-24T10:19:00+00:00",
-   "item_ids": [
-    "a487635195184b",
-    "6f46c9b306e4d2",
-    "cab464992ccf70",
-    "9ceb15222aac20"
-   ],
-   "sources": [
-    "Inquirer.net",
-    "Inquirer.net - Philippines Entertainment News",
-    "Meridiano.net",
-    "Ouest-France"
-   ],
-   "n_items": 4,
-   "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.XaRKI_akN527o-9ZQHKIiQ&pid=News",
-     "page": "https://entertainment.inquirer.net/691237/what-to-know-about-miss-international-2026s-final-gala-in-japan",
-     "via": "Bing (miniatura)",
-     "credit": "Inquirer.net - Philippines Entertainment News"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795477871216.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795477871216.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-donde-ver-en-vivo-la-gala-final-20261124950",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-7.png",
-     "page": "https://renosbestrock.com/bing-フィルター-セーフティサーチ設定-bing/",
-     "via": "Bing Imágenes",
-     "credit": "renosbestrock.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.5qKzwXN5CjzTDv3zyl-zqgHaEa&pid=15.1"
-    },
-    {
-     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
-     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
-     "via": "Bing Imágenes",
-     "credit": "toolerific.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/natural/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
-    },
-    {
-     "url": "https://image.moge.ai/screen/impossible-images.jpg",
-     "page": "https://moge.ai/product/impossible-images",
-     "via": "Bing Imágenes",
-     "credit": "moge.ai",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/landscape/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature background images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
-     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
-     "via": "Bing Imágenes",
-     "credit": "bc.classicjapcycles.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature%20wallpaper/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/scenery/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/high resolution birds/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/free jpeg images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
-    },
-    {
-     "url": "https://img.huntai.ai/2024/12/16/impossibleimages-ai-thumbnail.png",
-     "page": "https://seektool.ai/ai/impossibleimages-ai",
-     "via": "Bing Imágenes",
-     "credit": "seektool.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.pFH1vSC5fRZ-8daaL4bPXgHaEG&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/drone images png/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature and environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania,_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf/page1-960px-State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy,_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf/page1-960px-WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf/page1-960px-WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf/page1-960px-WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf/page1-960px-WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss International 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-7.png",
-     "page": "https://renosbestrock.com/bing-フィルター-セーフティサーチ設定-bing/",
-     "via": "Bing Imágenes",
-     "credit": "renosbestrock.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.5qKzwXN5CjzTDv3zyl-zqgHaEa&pid=15.1"
-    },
-    {
-     "url": "https://toolerific.ai/screenshots/hidden-images.vercel.app.jpg",
-     "page": "https://toolerific.ai/ai-tools/sites/hidden-images-vercel-app",
-     "via": "Bing Imágenes",
-     "credit": "toolerific.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q5WiMbdYHfsx5WLabPx2swHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/236047/pexels-photo-236047.jpeg?cs=srgb&dl=landscape-nature-sky-236047.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/natural/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.G37tgeQqSNt7v2oPfj9ltQHaE7&pid=15.1"
-    },
-    {
-     "url": "https://image.moge.ai/screen/impossible-images.jpg",
-     "page": "https://moge.ai/product/impossible-images",
-     "via": "Bing Imágenes",
-     "credit": "moge.ai",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.DqTHvgNdFaQKka6gjSRiagHaEK&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/247478/pexels-photo-247478.jpeg?cs=srgb&dl=clouds-cloudy-conifers-247478.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/landscape/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.MInViflWTn0CIsOU3esbLwHaE5&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/30994370/pexels-photo-30994370.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-30994370.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature background images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.hXWwNOQw15ZVWKlMs-xv0wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://assets.website-files.com/604fd3a255d3156be192bdbd/6438e04d9958789c337177a9_How to Use Bing AI Image Creator on the Web, Android and iOS Devices for Free  Guide.jpg",
-     "page": "https://bc.classicjapcycles.com/bing-ai-photos-online-ai-photo-enhancer/",
-     "via": "Bing Imágenes",
-     "credit": "bc.classicjapcycles.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.3oHXA_yO4Xv5ugapMGnaTgHaE_&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/210186/pexels-photo-210186.jpeg?cs=srgb&dl=cascade-clouds-cool-wallpaper-210186.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature%20wallpaper/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JPogPMSOOv8g9WJdtLUluAHaEe&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?cs=srgb&dl=daylight-environment-forest-459225.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/scenery/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7cRYFyLoDEDh4sRtM73vvwHaDg&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/6348018/pexels-photo-6348018.jpeg?cs=srgb&dl=pexels-quang-nguyen-vinh-222549-6348018.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/high resolution birds/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0JbZkj5mDd4eiI6qAkUebQHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31256342/pexels-photo-31256342.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31256342.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/free jpeg images/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.VdDc3iT3PCrJnnsiThNzGgHaF_&pid=15.1"
-    },
-    {
-     "url": "https://img.huntai.ai/2024/12/16/impossibleimages-ai-thumbnail.png",
-     "page": "https://seektool.ai/ai/impossibleimages-ai",
-     "via": "Bing Imágenes",
-     "credit": "seektool.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.pFH1vSC5fRZ-8daaL4bPXgHaEG&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/31284696/pexels-photo-31284696.jpeg?cs=srgb&dl=pexels-optical-chemist-340351297-31284696.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/drone images png/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ayACpdslq2Oq9hSUQnfMWQHaF1&pid=15.1"
-    },
-    {
-     "url": "https://images.pexels.com/photos/27786309/pexels-photo-27786309.jpeg?cs=srgb&dl=pexels-yudha-dwiyoko-putra-1663958278-27786309.jpg&fm=jpg",
-     "page": "https://www.pexels.com/search/nature and environment/",
-     "via": "Bing Imágenes",
-     "credit": "pexels.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.r44_-J0xUpE7ahDket5B1QHaEO&pid=15.1"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania,_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf/page1-960px-State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy%2C_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:State_Dinner_in_Honor_of_Prime_Minister_Giulio_Andreotti_of_Italy,_7-26-77_-_DPLA_-_2e0010c576000e43ab9da7e23162e8e1.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "President (1977-1981 : Carter). Office of the First Lady. Press Office. 1977-198"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf/page1-960px-WHSF-_Returned%2C_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-13_-_DPLA_-_ee15361bf6d65185fecd51e1066e901a.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf/page1-960px-WHSF-_Returned%2C_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_18-14_-_DPLA_-_68218c47b2c94f45e766149dffeb3d59.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf/page1-960px-WHSF-_Returned%2C_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_19-5_-_DPLA_-_e4ef572bdca82c157303296b00370b51.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf/page1-960px-WHSF-_Returned%2C_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:WHSF-_Returned,_22-10_-_DPLA_-_b33579ef7dcc9710bbab713742a90025.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
-    }
-   ],
-   "extra_at": "2026-11-24T19:34:33.530984+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 12
   },
   {
    "key": "t:mi:Traje de baño:2026-11-24",
@@ -3222,7 +3237,7 @@
    "extra_at": "2026-11-24T18:46:34.069369+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/p/DgBf5mfvezp",
      "platform": "Instagram"
     },
@@ -3731,7 +3746,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T13:34:23.963362+00:00",
-   "start": "2026-11-23T14:03:33+00:00",
+   "start": "2026-11-23T14:15:00+00:00",
    "last_activity": "2026-11-23T23:51:18+00:00",
    "item_ids": [
     "0591b073593bba",
@@ -3747,8 +3762,7 @@
     "9019d706d27434",
     "addc28a77d9cb9",
     "1e4b1b396cb41b",
-    "2aa40afe742500",
-    "9daa64e5c29e05"
+    "2aa40afe742500"
    ],
    "sources": [
     "BioBioChile",
@@ -3759,13 +3773,12 @@
     "El Tiempo",
     "El Tiempo on MSN",
     "En Cancha",
-    "Minuto60",
     "RNZ",
     "Reporte Índigo",
     "Teletrece"
    ],
-   "n_items": 15,
-   "n_sources": 12,
+   "n_items": 14,
+   "n_sources": 11,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3930,7 +3943,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 36
   },
   {
    "key": "p:completa del desfile de traje",
@@ -3945,7 +3958,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T14:10:00+00:00",
+   "start": "2026-11-23T14:17:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3977,7 +3990,6 @@
     "86c90a1eac6a76",
     "68c43d5cfd36f5",
     "ad5fa1cffa1303",
-    "d2eb1e4052e09a",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "d1d6d051c0daab",
@@ -4014,7 +4026,6 @@
     "Facebook",
     "HOLA",
     "HOLA.com",
-    "Infobae",
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
@@ -4029,20 +4040,20 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 43,
-   "n_sources": 35,
+   "n_items": 42,
+   "n_sources": 34,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7454,
-     "likes": 135,
+     "views": 7810,
+     "likes": 140,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7454,
+   "views_total": 7810,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4385,7 +4396,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.instagram.com/reel/DgF163yzZSr",
      "platform": "Instagram"
     },
@@ -4396,7 +4407,7 @@
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T19:42:33.351696+00:00",
+     "fetched": "2026-11-24T20:46:34.178916+00:00",
      "url": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
@@ -4408,7 +4419,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 116
+   "score": 113
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4422,7 +4433,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T20:06:33.526754+00:00",
-   "start": "2026-11-23T14:10:00+00:00",
+   "start": "2026-11-23T15:18:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "d1d6d051c0daab",
@@ -4437,8 +4448,7 @@
     "fe2e2de8c6f713",
     "6b20605c824873",
     "d5ec02365e0bfe",
-    "b907982e24c308",
-    "d2eb1e4052e09a"
+    "b907982e24c308"
    ],
    "sources": [
     "Ambito",
@@ -4447,13 +4457,12 @@
     "El Heraldo",
     "El Universo",
     "Facebook",
-    "Infobae",
     "Milenio on MSN",
     "Noticia al Dia",
     "Vistazo"
    ],
-   "n_items": 14,
-   "n_sources": 10,
+   "n_items": 13,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -4594,7 +4603,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 34
+   "score": 31
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -4656,13 +4665,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 7454,
-     "likes": 135,
+     "views": 7810,
+     "likes": 140,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 7454,
+   "views_total": 7810,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4950,7 +4959,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4987,8 +4996,7 @@
     "9cb8e27df3b9f2",
     "86c90a1eac6a76",
     "68c43d5cfd36f5",
-    "ad5fa1cffa1303",
-    "d2eb1e4052e09a"
+    "ad5fa1cffa1303"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5006,7 +5014,6 @@
     "Facebook",
     "HOLA",
     "HOLA.com",
-    "Infobae",
     "Listín Diario",
     "Meganoticias",
     "Metro.Style",
@@ -5020,8 +5027,8 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 35,
-   "n_sources": 28,
+   "n_items": 34,
+   "n_sources": 27,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5235,7 +5242,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 94
+   "score": 91
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5246,7 +5253,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5331,7 +5338,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5506,7 +5513,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5737,7 +5744,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5954,7 +5961,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:38:33.393061+00:00",
+   "first_seen": "2026-11-24T20:46:34.178916+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
