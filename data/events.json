@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:30:34.059433+00:00",
+ "updated": "2026-11-24T20:38:33.393061+00:00",
  "count": 30,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,10 +110,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
+    "8df62f5820d54c",
     "e18907c86261d5",
     "a487635195184b",
     "6f46c9b306e4d2"
@@ -121,10 +122,11 @@
    "sources": [
     "Facebook",
     "Inquirer.net",
-    "Inquirer.net - Philippines Entertainment News"
+    "Inquirer.net - Philippines Entertainment News",
+    "Meridiano.net"
    ],
-   "n_items": 3,
-   "n_sources": 3,
+   "n_items": 4,
+   "n_sources": 4,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -140,7 +142,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 15
   },
   {
    "key": "agenda:mu:final-y-coronacion",
@@ -151,7 +153,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -234,8 +236,10 @@
     "b586e66fe7f290",
     "42dc6cbc72f29f",
     "fc9329ea2020bf",
+    "92d6e1b31a195d",
     "0a131f453c960a",
     "aa14d1899a8cc2",
+    "002cda6137d3f5",
     "12d47e3d29cd8d",
     "1f7fb45e0ef68d",
     "b91c50bdd47ce0",
@@ -264,6 +268,7 @@
     "74b2180bc0a5b8",
     "ffbff0a0081c92",
     "ba711549a638df",
+    "e1c1ce206467ea",
     "947424f16ba7ea",
     "a1d49299ffc7fb",
     "b12cdf53220eea",
@@ -271,10 +276,7 @@
     "d230457cb8489f",
     "fb24419f2eb107",
     "17355e874077f2",
-    "4dd647c2831da2",
-    "1bbb195750a038",
-    "0e49ac111aed94",
-    "9cceac79ac808b"
+    "4dd647c2831da2"
    ],
    "sources": [
     "24 horas",
@@ -292,6 +294,7 @@
     "Cooperativa",
     "Cooperativa.cl",
     "DEPOR",
+    "Debate",
     "Debate on MSN",
     "Depor",
     "Detroit Free Press",
@@ -341,6 +344,7 @@
     "Mega.cl",
     "Meganoticias",
     "Meridiano.net",
+    "Metro Puerto Rico",
     "Metro.Style",
     "Milenio",
     "Milenio on MSN",
@@ -376,6 +380,7 @@
     "Zona Cero",
     "azcentral.com and The Arizona Republic",
     "eldia.com.do",
+    "elrepuertero.cl",
     "elvacanudo.cl",
     "estapasando.cl",
     "https://www.elmonitoredomex.com/",
@@ -389,8 +394,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 192,
-   "n_sources": 111,
+   "n_items": 196,
+   "n_sources": 114,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -406,7 +411,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 417
+   "score": 427
   },
   {
    "key": "p:the big night",
@@ -1324,7 +1329,6 @@
     "1e4b1b396cb41b",
     "2aa40afe742500",
     "9daa64e5c29e05",
-    "1467fd8181185a",
     "324cebec8ab952",
     "6c07277ba7ead8",
     "f78e2bbb29779b",
@@ -1365,20 +1369,20 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 33,
+   "n_items": 32,
    "n_sources": 27,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 6797,
-     "likes": 131,
+     "views": 7454,
+     "likes": 135,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 6797,
+   "views_total": 7454,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1508,18 +1512,6 @@
      "credit": "El Comercio"
     },
     {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
      "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
      "page": "https://2001online.com/farandula/venezuela-conquista-la-preliminar-del-miss-universo-el-traje-tipico-de-clara-vegas-entra-en-el-top-15-de-los-mas-votados-2026112319260",
      "via": "2001online",
@@ -1636,7 +1628,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 90
+   "score": 89
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1778,6 +1770,7 @@
     "f385e6bd0a18f3",
     "1f7fb45e0ef68d",
     "155b7652c70265",
+    "e1c1ce206467ea",
     "17355e874077f2",
     "4dd647c2831da2",
     "7aadc715b66fff",
@@ -1801,13 +1794,14 @@
     "Infobae",
     "LA NACION",
     "Latin Times",
+    "Metro Puerto Rico",
     "Milenio on MSN",
     "Minuto60",
     "Publimetro",
     "Últimas Noticias"
    ],
-   "n_items": 18,
-   "n_sources": 15,
+   "n_items": 19,
+   "n_sources": 16,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1822,6 +1816,30 @@
      "page": "https://www.infobae.com/mexico/2026/11/24/maria-vargas-la-jalisciense-que-busca-heredar-hoy-la-corona-de-fatima-bosch-en-miss-universo-2026/",
      "via": "Bing (miniatura)",
      "credit": "Infobae"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200&h=630",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/YYMVXFBVFVBI3LQFUBNOA4F3SA.jpeg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/IT6CVOJ2DRFT5PLRE4ZWW3JUMQ.jpg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/VBNTFFPBOVHTHG55DW55UNTE3E.jpg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
     },
     {
      "url": "https://www.publimetro.cl/resizer/v2/QU6TMNFOSRFU5GJE27YQ5HWEUY.jpg?smart=true&auth=e20ddcee37db70d20b2f0de5cbc2b6b82a6b056d2286eb09e3059577a2dd2efd&width=1200&height=630",
@@ -1924,6 +1942,13 @@
      "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
      "via": "Gestión",
      "credit": "Gestión"
+    },
+    {
+     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
+     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
+     "via": "Bing Imágenes",
+     "credit": "elsevier.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
     }
    ],
    "social_urls": [
@@ -1942,8 +1967,16 @@
     "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605"
    ],
    "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [],
-   "extra_at": "2026-11-24T20:30:34.059433+00:00",
+   "extra_images": [
+    {
+     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
+     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
+     "via": "Bing Imágenes",
+     "credit": "elsevier.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T20:38:33.393061+00:00",
    "social": [
     {
      "fetched": "2026-11-24T19:42:33.351696+00:00",
@@ -2021,7 +2054,7 @@
     "comments": 26,
     "shares": 545
    },
-   "score": 48
+   "score": 51
   },
   {
    "key": "seed:mi-natcos",
@@ -2052,55 +2085,9 @@
    ],
    "n_items": 6,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "bOQPhh12lBo",
-     "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
-     "channel": "Hi Along",
-     "views": 24866,
-     "ago": "hace 9 días",
-     "official": false
-    },
-    {
-     "vid": "eNW-a9sHZso",
-     "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
-     "channel": "Hi Along",
-     "views": 6701,
-     "ago": "hace 6 días",
-     "official": false
-    },
-    {
-     "vid": "sBc2cmDSTWE",
-     "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
-     "channel": "SNOW SIN FILTRO",
-     "views": 3883,
-     "ago": "hace 9 días",
-     "official": false
-    }
-   ],
-   "views_total": 35450,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
-     "via": "YouTube (miniatura)",
-     "credit": "SNOW SIN FILTRO"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/eNW-a9sHZso/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=eNW-a9sHZso",
-     "via": "YouTube (miniatura)",
-     "credit": "Hi Along"
-    },
     {
      "url": "https://www.critica.com.pa/sites/default/files/imagenes/2026/11/24/carmen%20johany%20quintero.png",
      "page": "https://www.critica.com.pa/show/panama-brilla-en-japon-rumbo-la-final-del-miss-international-2026-520420",
@@ -2230,7 +2217,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 15
   },
   {
    "key": "p:crown confidential",
@@ -2276,7 +2263,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 33504,
+     "views": 33866,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -2285,13 +2272,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 26754,
+     "views": 26953,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 60258,
+   "views_total": 60819,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -3189,13 +3176,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 459843,
+     "views": 464227,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 459843,
+   "views_total": 464227,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -3251,7 +3238,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 52
+   "score": 53
   },
   {
    "key": "p:international emmy awards",
@@ -3328,15 +3315,15 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T19:34:33.530984+00:00",
+     "fetched": "2026-11-24T20:38:33.393061+00:00",
      "url": "https://www.youtube.com/watch?v=PZA29QQSRwI",
      "platform": "YouTube",
-     "views": 672,
+     "views": 685,
      "thumb": "https://i.ytimg.com/vi/PZA29QQSRwI/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 672,
+    "views": 685,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -3744,7 +3731,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T13:34:23.963362+00:00",
-   "start": "2026-11-23T13:59:00+00:00",
+   "start": "2026-11-23T14:03:33+00:00",
    "last_activity": "2026-11-23T23:51:18+00:00",
    "item_ids": [
     "0591b073593bba",
@@ -3761,8 +3748,7 @@
     "addc28a77d9cb9",
     "1e4b1b396cb41b",
     "2aa40afe742500",
-    "9daa64e5c29e05",
-    "1467fd8181185a"
+    "9daa64e5c29e05"
    ],
    "sources": [
     "BioBioChile",
@@ -3778,7 +3764,7 @@
     "Reporte Índigo",
     "Teletrece"
    ],
-   "n_items": 16,
+   "n_items": 15,
    "n_sources": 12,
    "videos": [],
    "views_total": 0,
@@ -3816,18 +3802,6 @@
     {
      "url": "https://elcomercio.pe/resizer/v2/6QEHJQLARVGA5K6GFO5UMPJOYI.jpg?auth=3e5f44ac4951a3e7ab27b5bbd7345ba403dd393eaffc3d0313f484343aa1c416&width=85&height=85&quality=75&smart=true",
      "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-luren-marquez-de-peru-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-peruana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/QSVNJ4UOAREPHEC4DCV4A7QLXE.png?auth=d1f64461bcfebce9beed35f7dc6c16312dc69d1f6de1cbf9f7e5f1f85aa845f1&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/como-votar-por-clara-vegas-de-venezuela-en-el-miss-universo-2026-asi-puedes-votar-por-la-candidata-venezolana-nnda-nnrt-noticia/",
      "via": "El Comercio",
      "credit": "El Comercio"
     },
@@ -3956,7 +3930,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 40
+   "score": 39
   },
   {
    "key": "p:completa del desfile de traje",
@@ -3971,7 +3945,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T14:02:00+00:00",
+   "start": "2026-11-23T14:10:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -4015,7 +3989,6 @@
     "d5ec02365e0bfe",
     "b907982e24c308",
     "506033d3e41d61",
-    "b6d65ebaee4bd7",
     "8cf0fc6990ed16",
     "324cebec8ab952"
    ],
@@ -4036,7 +4009,6 @@
     "El Nuevo Día",
     "El País",
     "El Siglo",
-    "El Tiempo",
     "El Universal",
     "El Universo",
     "Facebook",
@@ -4057,20 +4029,20 @@
     "YouTube · Telemundo Entretenimiento",
     "Últimas Noticias"
    ],
-   "n_items": 44,
-   "n_sources": 36,
+   "n_items": 43,
+   "n_sources": 35,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 6797,
-     "likes": 131,
+     "views": 7454,
+     "likes": 135,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 6797,
+   "views_total": 7454,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4398,7 +4370,7 @@
    "extra_at": "2026-11-24T19:10:33.420285+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T19:34:33.530984+00:00",
+     "fetched": "2026-11-24T20:38:33.393061+00:00",
      "url": "https://www.instagram.com/p/DgD7wDOJTVm",
      "platform": "Instagram"
     },
@@ -4408,7 +4380,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T19:34:33.530984+00:00",
+     "fetched": "2026-11-24T20:38:33.393061+00:00",
      "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
      "platform": "Instagram"
     },
@@ -4436,7 +4408,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 119
+   "score": 116
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -4684,13 +4656,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 6797,
-     "likes": 131,
+     "views": 7454,
+     "likes": 135,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 6797,
+   "views_total": 7454,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4978,7 +4950,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5274,7 +5246,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5359,7 +5331,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5370,25 +5342,151 @@
    "views_total": 0,
    "images": [
     {
-     "url": "https://img.freepik.com/premium-photo/lansing-michigan-usa-downtown-city-skyline_960396-761109.jpg",
-     "page": "https://www.freepik.com/premium-ai-image/lansing-michigan-usa-downtown-city-skyline_277436121.htm",
+     "url": "https://wallpapers.com/images/hd/landscape-of-colombia-7bbwi63yrz4jfhoj.jpg",
+     "page": "https://wallpapers.com/colombia",
      "via": "Bing Imágenes",
-     "credit": "freepik.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.SDm9wOeZaSB0MFsGHBcjKAHaE7&pid=15.1"
+     "credit": "wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.KqYlpUkIX_VJrXg-43Mq8QHaEC&pid=15.1"
+    },
+    {
+     "url": "https://folorama.com/img/colombia-tourism.big.8.jpg",
+     "page": "https://folorama.com/colombia/colombia-tourism",
+     "via": "Bing Imágenes",
+     "credit": "folorama.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.u0eTp_LXBPQuoxuTdv3elAHaEc&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0082-galeria-2x-2362x1572.jpg",
+     "page": "https://blackpepper.travel/es/viajes/colombia-inedita",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ucM7o3KNYuAe1N_vmcH_GQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/6c/f3/75/6cf37548e58cb82caa11d962e76034cd.png",
+     "page": "https://www.pinterest.com/pin/colombia-complete-guide-travel-tips--353321533268372937/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.9MIkFmHTcd5e2o6dpNe9LgHaLG&pid=15.1"
+    },
+    {
+     "url": "https://media.timeout.com/images/105741310/image.jpg",
+     "page": "https://www.timeout.com/colombia",
+     "via": "Bing Imágenes",
+     "credit": "timeout.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.qiyGlnAvd9bqlQMyuZJgeQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0100-galeria-2x-1181x786.jpg",
+     "page": "https://blackpepper.travel/es/viajes/explora-colombia",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts1.explicit.bing.net/th?id=OIP.jfyRJy_N5E6czLi2vuFkzwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://aventurateaviajar.com/library/mod_noticias/images/viajes-colombia-grupo.jpg",
+     "page": "https://explorandofrancia.com/destinos/visitar-colombia",
+     "via": "Bing Imágenes",
+     "credit": "explorandofrancia.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PHxVBMZ4LaEzPlEbq2UudgHaFk&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0027-galeria-2x-2362x1572.jpg",
+     "page": "https://blackpepper.travel/es/viajes/colombia-aventura-trekking-ciudad-perdida",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.kvHaBBCd5wenTazoF8FVGQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/7a/fe/5c/7afe5c30fefe959b1f3a28751752b9e6.png",
+     "page": "https://www.pinterest.com/pin/the-best-colombia-itinerary-a-guide-for-10-days-in-colombia--942730134483740595/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PFnJ5ksVW1fSsUgWlPKRugHaLH&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/colombia-1500-x-1054-picture-149jipk5xpina9sv.jpg",
+     "page": "https://wallpapers.com/colombia-pictures",
+     "via": "Bing Imágenes",
+     "credit": "wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.FZM7Qq6pMNf0RYuHr4AcBAHaFN&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [
     {
-     "url": "https://img.freepik.com/premium-photo/lansing-michigan-usa-downtown-city-skyline_960396-761109.jpg",
-     "page": "https://www.freepik.com/premium-ai-image/lansing-michigan-usa-downtown-city-skyline_277436121.htm",
+     "url": "https://wallpapers.com/images/hd/landscape-of-colombia-7bbwi63yrz4jfhoj.jpg",
+     "page": "https://wallpapers.com/colombia",
      "via": "Bing Imágenes",
-     "credit": "freepik.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.SDm9wOeZaSB0MFsGHBcjKAHaE7&pid=15.1"
+     "credit": "wallpapers.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.KqYlpUkIX_VJrXg-43Mq8QHaEC&pid=15.1"
+    },
+    {
+     "url": "https://folorama.com/img/colombia-tourism.big.8.jpg",
+     "page": "https://folorama.com/colombia/colombia-tourism",
+     "via": "Bing Imágenes",
+     "credit": "folorama.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.u0eTp_LXBPQuoxuTdv3elAHaEc&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0082-galeria-2x-2362x1572.jpg",
+     "page": "https://blackpepper.travel/es/viajes/colombia-inedita",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ucM7o3KNYuAe1N_vmcH_GQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/6c/f3/75/6cf37548e58cb82caa11d962e76034cd.png",
+     "page": "https://www.pinterest.com/pin/colombia-complete-guide-travel-tips--353321533268372937/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.9MIkFmHTcd5e2o6dpNe9LgHaLG&pid=15.1"
+    },
+    {
+     "url": "https://media.timeout.com/images/105741310/image.jpg",
+     "page": "https://www.timeout.com/colombia",
+     "via": "Bing Imágenes",
+     "credit": "timeout.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.qiyGlnAvd9bqlQMyuZJgeQHaE8&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0100-galeria-2x-1181x786.jpg",
+     "page": "https://blackpepper.travel/es/viajes/explora-colombia",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts1.explicit.bing.net/th?id=OIP.jfyRJy_N5E6czLi2vuFkzwHaE7&pid=15.1"
+    },
+    {
+     "url": "https://aventurateaviajar.com/library/mod_noticias/images/viajes-colombia-grupo.jpg",
+     "page": "https://explorandofrancia.com/destinos/visitar-colombia",
+     "via": "Bing Imágenes",
+     "credit": "explorandofrancia.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PHxVBMZ4LaEzPlEbq2UudgHaFk&pid=15.1"
+    },
+    {
+     "url": "https://blackpepper.travel/cache/2023-12/viajes-colombia-blackpepper-0027-galeria-2x-2362x1572.jpg",
+     "page": "https://blackpepper.travel/es/viajes/colombia-aventura-trekking-ciudad-perdida",
+     "via": "Bing Imágenes",
+     "credit": "blackpepper.travel",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.kvHaBBCd5wenTazoF8FVGQHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/7a/fe/5c/7afe5c30fefe959b1f3a28751752b9e6.png",
+     "page": "https://www.pinterest.com/pin/the-best-colombia-itinerary-a-guide-for-10-days-in-colombia--942730134483740595/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.PFnJ5ksVW1fSsUgWlPKRugHaLH&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/colombia-1500-x-1054-picture-149jipk5xpina9sv.jpg",
+     "page": "https://wallpapers.com/colombia-pictures",
+     "via": "Bing Imágenes",
+     "credit": "wallpapers.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.FZM7Qq6pMNf0RYuHr4AcBAHaFN&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-24T17:34:33.978526+00:00",
+   "extra_at": "2026-11-24T20:38:33.393061+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -5408,7 +5506,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5639,7 +5737,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -5856,7 +5954,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T20:30:34.059433+00:00",
+   "first_seen": "2026-11-24T20:38:33.393061+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
