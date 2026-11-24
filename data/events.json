@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:54:41.488128+00:00",
+ "updated": "2026-11-24T23:02:41.616543+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -157,14 +157,18 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "3d99012b7b8396",
+    "d639da83c93dce",
+    "7b4bffaef701b7",
     "bd3d7cf3ca3d3b",
     "2430edd1981a56",
     "92b337c9ac4f35",
     "39e1b967559408",
+    "be74c43c7b9ee5",
     "95294c6e934d36",
     "bf6194a75a7438",
     "064105e5787aba",
@@ -270,17 +274,13 @@
     "cd5088d20f220e",
     "0675f68902cd7c",
     "7c5155fbd4f1f8",
+    "f0138b710476bb",
     "4f206d3fcf54d1",
     "91bb17dfaf8bdb",
     "1b00913d88c5da",
     "dae740de7234de",
     "642e49b5145742",
-    "f9479b1f772a7b",
-    "c05e08028d4c75",
-    "4ddd96b752a9cf",
-    "fc960ce0ee1675",
-    "ba1713fdee5851",
-    "85c607d3eea2a3"
+    "f9479b1f772a7b"
    ],
    "sources": [
     "24 horas",
@@ -403,6 +403,7 @@
     "Telemedellín",
     "Telemundo",
     "Telemundo Dallas",
+    "Telemundo Miami",
     "Telemundo Orlando (31)",
     "Telemundo Washington DC",
     "Teletrece",
@@ -431,8 +432,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 283,
-   "n_sources": 147,
+   "n_items": 288,
+   "n_sources": 148,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -448,7 +449,152 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 580
+   "score": 587
+  },
+  {
+   "key": "p:the big night",
+   "id": "p-the-big-night-470ee",
+   "name": "The Big Night",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Llegada / bienvenida"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T19:02:33.612994+00:00",
+   "start": "2026-11-24T11:36:00+00:00",
+   "last_activity": "2026-11-24T22:39:17+00:00",
+   "item_ids": [
+    "09e53a75a7fe71",
+    "cf9c93f64f29e0",
+    "c66b5b916c56de"
+   ],
+   "sources": [
+    "MSN",
+    "Primera Hora",
+    "YouTube · Miss Universe"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [
+    {
+     "vid": "S4XeFwA1d0w",
+     "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
+     "channel": "Miss Universe",
+     "views": 1841,
+     "likes": 0,
+     "published": "2026-11-24T18:42:00+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 1841,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/S4XeFwA1d0w/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=S4XeFwA1d0w",
+     "via": "YouTube (miniatura)",
+     "credit": "Miss Universe"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "The Indian Listener: The Indian State Broadcasting Service"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Edgar Rice Burroughs"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "West China Missions Advisory Board"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 The Big Night",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "The Indian Listener: The Indian State Broadcasting Service"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": ""
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Edgar Rice Burroughs"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "West China Missions Advisory Board"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "Rabindranath Tagore and others"
+    }
+   ],
+   "extra_at": "2026-11-24T22:06:41.395297+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 12
   },
   {
    "key": "seed:voto-top30",
@@ -551,13 +697,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 16885,
-     "likes": 315,
+     "views": 17991,
+     "likes": 343,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 16885,
+   "views_total": 17991,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -830,7 +976,7 @@
      "credit": "Richard Nixon Library &amp; Birthplace (1990 - 7/11/2007)"
     }
    ],
-   "extra_at": "2026-11-24T19:58:34.228758+00:00",
+   "extra_at": "2026-11-24T23:02:41.616543+00:00",
    "social": [
     {
      "fetched": "2026-11-24T22:30:41.646803+00:00",
@@ -1580,22 +1726,22 @@
    "extra_at": "2026-11-24T22:54:41.488128+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/reel/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/reel/DgD80ydM3gC",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     }
@@ -1774,145 +1920,6 @@
     "shares": 0
    },
    "score": 64
-  },
-  {
-   "key": "p:the big night",
-   "id": "p-the-big-night-470ee",
-   "name": "The Big Night",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T19:02:33.612994+00:00",
-   "start": "2026-11-24T18:42:00+00:00",
-   "last_activity": "2026-11-24T18:42:00+00:00",
-   "item_ids": [
-    "09e53a75a7fe71"
-   ],
-   "sources": [
-    "YouTube · Miss Universe"
-   ],
-   "n_items": 1,
-   "n_sources": 1,
-   "videos": [
-    {
-     "vid": "S4XeFwA1d0w",
-     "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
-     "channel": "Miss Universe",
-     "views": 1841,
-     "likes": 0,
-     "published": "2026-11-24T18:42:00+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 1841,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/S4XeFwA1d0w/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=S4XeFwA1d0w",
-     "via": "YouTube (miniatura)",
-     "credit": "Miss Universe"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "The Indian Listener: The Indian State Broadcasting Service"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Edgar Rice Burroughs"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "West China Missions Advisory Board"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Rabindranath Tagore and others"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 The Big Night",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/The_Indian_Listener_Vol._I_No._2.pdf/page1-1280px-The_Indian_Listener_Vol._I_No._2.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Indian_Listener_Vol._I_No._2.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "The Indian Listener: The Indian State Broadcasting Service"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Link_%28IA_link235unse%29.pdf/page1-500px-The_Link_%28IA_link235unse%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Link_(IA_link235unse).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": ""
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/The_Moon_Maid.pdf/page1-500px-The_Moon_Maid.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_Moon_Maid.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Edgar Rice Burroughs"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_West_China_Missionary_News_%28January_1930%29.pdf/page1-500px-The_West_China_Missionary_News_%28January_1930%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_West_China_Missionary_News_(January_1930).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "West China Missions Advisory Board"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/The_moon_maid_%28IA_moonmaid00burr%29.pdf/page1-500px-The_moon_maid_%28IA_moonmaid00burr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:The_moon_maid_(IA_moonmaid00burr).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nBurroughs, Edgar Rice, 1875-1950, author"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf/page1-960px-Works_of_Tagore_from_the_Modern_Review%2C_1909-24.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Works_of_Tagore_from_the_Modern_Review,_1909-24.pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "Rabindranath Tagore and others"
-    }
-   ],
-   "extra_at": "2026-11-24T22:06:41.395297+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 6
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -2443,37 +2450,37 @@
    "extra_at": "2026-11-24T20:22:33.436925+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DbRAQw5oCmr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DcXRGLPM034",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DcXa4EeN1mV",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DeV3znYHASa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DeWSnLvsRAI",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/Df_oXeAG2YP",
      "platform": "Instagram"
     },
@@ -2483,22 +2490,22 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DgBXeBFgJbZ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DgBhDpsBiZt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DgBl1TFIgh_",
      "platform": "Instagram"
     },
@@ -2508,7 +2515,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:58:41.502880+00:00",
+     "fetched": "2026-11-24T23:02:41.616543+00:00",
      "url": "https://www.instagram.com/p/DgEKRC3pkN8",
      "platform": "Instagram"
     },
@@ -2712,7 +2719,7 @@
      "vid": "bOQPhh12lBo",
      "title": "MISS INTERNATIONAL 2026 | National Costume - Style & Creation | My Overall Scores & Results!",
      "channel": "Hi Along",
-     "views": 24907,
+     "views": 24896,
      "ago": "hace 9 días",
      "official": false
     },
@@ -2720,7 +2727,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 6705,
+     "views": 6710,
      "ago": "hace 6 días",
      "official": false
     },
@@ -2728,26 +2735,26 @@
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3915,
+     "views": 3885,
      "ago": "hace 9 días",
      "official": false
     }
    ],
-   "views_total": 35527,
+   "views_total": 35491,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
-     "via": "YouTube (miniatura)",
-     "credit": "SNOW SIN FILTRO"
-    },
     {
      "url": "https://i.ytimg.com/vi/bOQPhh12lBo/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/bOQPhh12lBo/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=bOQPhh12lBo",
      "via": "YouTube (miniatura)",
      "credit": "Hi Along"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/sBc2cmDSTWE/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
+     "via": "YouTube (miniatura)",
+     "credit": "SNOW SIN FILTRO"
     },
     {
      "url": "https://i.ytimg.com/vi/eNW-a9sHZso/maxresdefault.jpg",
@@ -3743,7 +3750,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T18:19:45+00:00",
+   "start": "2026-11-23T19:00:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -3762,15 +3769,12 @@
     "bb0bcb12cb7923",
     "fd1d0c4d4c999e",
     "5825312fd6cc63",
-    "908700188452d3",
-    "5fd8f5152b4b58",
     "d1d6d051c0daab",
     "f590005e2ceaec",
     "a4e31d66d47c25",
     "ba4ad821ef2450"
    ],
    "sources": [
-    ".: El Sol de Margarita :.",
     "Ambito",
     "BellaNaija",
     "BioBioChile",
@@ -3783,26 +3787,25 @@
     "MDZ Online",
     "Mega.cl",
     "Metro.Style",
-    "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
     "Vistazo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 22,
-   "n_sources": 18,
+   "n_items": 20,
+   "n_sources": 16,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 16885,
-     "likes": 315,
+     "views": 17991,
+     "likes": 343,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 16885,
+   "views_total": 17991,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -3844,7 +3847,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 61
+   "score": 55
   },
   {
    "key": "t:mu:Gala / cena:2026-11-21",
@@ -3922,7 +3925,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T22:54:41.488128+00:00",
-   "start": "2026-11-23T18:19:45+00:00",
+   "start": "2026-11-23T19:20:49+00:00",
    "last_activity": "2026-11-23T23:15:07+00:00",
    "item_ids": [
     "f254c2c54acc92",
@@ -3931,35 +3934,31 @@
     "bb0bcb12cb7923",
     "fd1d0c4d4c999e",
     "af3bd931fff94e",
-    "5825312fd6cc63",
-    "908700188452d3",
-    "5fd8f5152b4b58"
+    "5825312fd6cc63"
    ],
    "sources": [
-    ".: El Sol de Margarita :.",
     "CiberCuba",
     "Facebook",
     "HOLA",
     "Metro.Style",
-    "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 9,
-   "n_sources": 9,
+   "n_items": 7,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 16885,
-     "likes": 315,
+     "views": 17991,
+     "likes": 343,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 16885,
+   "views_total": 17991,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -4009,7 +4008,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 30
+   "score": 24
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -4020,7 +4019,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4040,12 +4039,9 @@
     "bb0bcb12cb7923",
     "fd1d0c4d4c999e",
     "af3bd931fff94e",
-    "5825312fd6cc63",
-    "908700188452d3",
-    "5fd8f5152b4b58"
+    "5825312fd6cc63"
    ],
    "sources": [
-    ".: El Sol de Margarita :.",
     "CiberCuba",
     "ColombiaOne.com",
     "El Nuevo Día",
@@ -4053,7 +4049,6 @@
     "Facebook",
     "HOLA",
     "Metro.Style",
-    "Minuto60",
     "Music Mundial",
     "Noticia al Dia",
     "RPP Noticias",
@@ -4061,15 +4056,15 @@
     "YouTube · Telemundo Entretenimiento",
     "colombiaone"
    ],
-   "n_items": 19,
-   "n_sources": 15,
+   "n_items": 17,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-24T22:54:41.488128+00:00",
+   "extra_at": "2026-11-24T23:02:41.616543+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4078,7 +4073,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 52
+   "score": 46
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -4089,7 +4084,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4350,7 +4345,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4525,7 +4520,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4538,7 +4533,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T22:54:41.488128+00:00",
+   "extra_at": "2026-11-24T23:02:41.616543+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4558,7 +4553,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4789,7 +4784,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:54:41.488128+00:00",
+   "first_seen": "2026-11-24T23:02:41.616543+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
