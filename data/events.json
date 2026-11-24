@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T22:22:42.031471+00:00",
+ "updated": "2026-11-24T22:30:41.646803+00:00",
  "count": 28,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -155,12 +155,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "39e1b967559408",
     "95294c6e934d36",
+    "bf6194a75a7438",
     "064105e5787aba",
     "99949d39bcd00b",
     "a8422fca1b0ad5",
@@ -277,8 +278,7 @@
     "71a173fbb91c94",
     "33512e99a7ff38",
     "237f937d609869",
-    "9141ae05c2654b",
-    "3fd0b17a2c3e8a"
+    "9141ae05c2654b"
    ],
    "sources": [
     "24 horas",
@@ -294,6 +294,7 @@
     "Canal 13",
     "Caretas",
     "Chilevisión",
+    "CiberCuba",
     "Clarin.com",
     "Claro Sports",
     "Clx Icons",
@@ -421,8 +422,8 @@
     "www.elvacanudo.cl",
     "Últimas Noticias"
    ],
-   "n_items": 271,
-   "n_sources": 139,
+   "n_items": 272,
+   "n_sources": 140,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -438,7 +439,346 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 552
+   "score": 555
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
+   "start": "2026-11-24T04:16:00+00:00",
+   "last_activity": "2026-11-24T22:12:09+00:00",
+   "item_ids": [
+    "bf6194a75a7438",
+    "2e820b89c19287",
+    "89ee069c77bdd6",
+    "4f206d3fcf54d1",
+    "642e49b5145742",
+    "85c607d3eea2a3",
+    "d7cda114722a41",
+    "0875d634262de6",
+    "f385e6bd0a18f3",
+    "1f7fb45e0ef68d",
+    "155b7652c70265",
+    "e1c1ce206467ea",
+    "17355e874077f2",
+    "4dd647c2831da2",
+    "7aadc715b66fff",
+    "8fae186864e97e",
+    "9a373f67639c2a",
+    "769531e0d5c4f7",
+    "cb5e04e0d00f53",
+    "d203d71789de0e",
+    "2ee6983fd51208",
+    "72424c1e917654"
+   ],
+   "sources": [
+    "CiberCuba",
+    "Clx Icons",
+    "Diario Las Américas",
+    "Diario Primicia",
+    "El Comercio",
+    "El Heraldo",
+    "El Nuevo Día",
+    "El Siglo",
+    "Gestión",
+    "Infobae",
+    "LA NACION",
+    "Latin Times",
+    "Meridiano.net",
+    "Metro Puerto Rico",
+    "Milenio on MSN",
+    "Minuto60",
+    "Publimetro",
+    "Radio Mitre",
+    "Últimas Noticias"
+   ],
+   "n_items": 22,
+   "n_sources": 19,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://radiomitre.cienradios.com/resizer/v2/LWZSKWU6IRCHNAYELE4DFVWMIY.png?smart=true&auth=c34c28b56f99e5329bae5d2c7e379b99506962e5e6d045824ce53dc3eb95e7a7&width=1200&height=630",
+     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
+     "via": "Radio Mitre",
+     "credit": "Radio Mitre"
+    },
+    {
+     "url": "https://radiomitre.cienradios.com/resizer/v2/B32BMDTEENGWBKMIDDX7MAKNLI.png?auth=8fa48ae859340dce93ecdcd52ac5f5153051ac7f17a80ce95b1f370e526b84df&width=800&height=400",
+     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
+     "via": "Radio Mitre",
+     "credit": "Radio Mitre"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.jxbsSRhBNsyDsBlhwJQWzw&pid=News",
+     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
+     "via": "Bing (miniatura)",
+     "credit": "Radio Mitre"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795553944944.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795553944944.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://www.infobae.com/resizer/v2/TGEMXXIIMBDPVJOJEACX6FNB2Q.jpg?auth=22131f8b2ada9b9ab042c52cbd93ee68f6e96bbbc3b9b3a489878c3b2bb12f28&smart=true&width=1024&height=512&quality=85",
+     "page": "https://www.infobae.com/mexico/2026/11/24/maria-vargas-la-jalisciense-que-busca-heredar-hoy-la-corona-de-fatima-bosch-en-miss-universo-2026/",
+     "via": "Infobae",
+     "credit": "Infobae"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200&h=630",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/YYMVXFBVFVBI3LQFUBNOA4F3SA.jpeg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/IT6CVOJ2DRFT5PLRE4ZWW3JUMQ.jpg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/VBNTFFPBOVHTHG55DW55UNTE3E.jpg?w=1200",
+     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.publimetro.cl/resizer/v2/QU6TMNFOSRFU5GJE27YQ5HWEUY.jpg?smart=true&auth=e20ddcee37db70d20b2f0de5cbc2b6b82a6b056d2286eb09e3059577a2dd2efd&width=1200&height=630",
+     "page": "https://www.publimetro.cl/entretenimiento/2026/11/24/donde-y-a-que-hora-ver-a-dominga-lopez-en-la-final-de-miss-universo-2026/",
+     "via": "Publimetro",
+     "credit": "Publimetro"
+    },
+    {
+     "url": "https://www.elheraldo.co/resizer/v2/OJCBXLCTDBBYDNP5UWFOVXB34Q.png?smart=true&auth=5faa8cf9aae30ef928785844d516169668c039f2ce7c30b5cce8d79bc521a27e&width=1200&height=675",
+     "page": "https://www.elheraldo.co/entretenimiento/2026/11/24/miss-universe-2026-hora-y-donde-ver-la-final-en-colombia/",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.elheraldo.co/resizer/v2/ZQNOAX3U6ZHXPKJLKDUL3SHNHU.jpeg?auth=ef528e032b543844fd36a510db8169c18be307ee567b4378d6afe353502d903d&smart=true&width=760&height=964&quality=70",
+     "page": "https://www.elheraldo.co/entretenimiento/2026/11/24/miss-universe-2026-hora-y-donde-ver-la-final-en-colombia/",
+     "via": "El Heraldo",
+     "credit": "El Heraldo"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/las-candidatas-al-miss-universo-2026-ya-estan-en-UNZU2KTY6JBRXFU33YTPQACEEM.jpg?auth=1322d63267b6067b14d395b78261354eb1189ad5b6cc85e2962bb2d3e678392a&width=1200&height=800&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
+     "via": "LA NACION",
+     "credit": "LA NACION"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/mas-de-20-candidatas-latinas-se-enfrentan-este-24-ZZ2E5AWTFFA2XAJ5HOEA5FXKHI.jpg?auth=d67b04efc1c8572ad9c86595599f2facc51796892bbf8fe5b08d6d35906879c6&width=420&height=280&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
+     "via": "LA NACION",
+     "credit": "LA NACION"
+    },
+    {
+     "url": "https://www.lanacion.com.ar/resizer/v2/la-mexicana-jacky-bracamontes-sera-una-de-las-3VRS5GH6YVDBLDNHCUD3KLUHFU.jpg?auth=8979f59b9c19f8b35307b84443a2a203d5c32f0df7bdba382549fe69f045f6cc&width=420&height=560&quality=70&smart=true",
+     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
+     "via": "LA NACION",
+     "credit": "LA NACION"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/7NOIUXAQRJC5FBGS35GJMVDVUM.jpg?auth=6df16cc0294681e542f188e598ce8c1d7b3bff17b105f9e298f500eda7d5c8f5&width=980&height=528&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/F5FISDMWENCGROH3AG3455YIEM.jpg?auth=479a22409ee0fb6c25afafd361f146596e33d3d191751a5d358dba1362283b3a&width=2400&height=1620&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/RT772UG4ZZBIBK5BD5F225WRRQ.jpg?auth=565fdb9a60244a15db6ccd4b845b999ab192d1b07d52b05df52260a7b5e26ec5&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://elcomercio.pe/resizer/v2/LOQY4FMSRBHVRMH36YQGF3QSZE.png?auth=1b11f9db65b9a71d9b05886f9e70cd396797290e4ea815e0c4b1e85c9046ca56&width=85&height=85&quality=75&smart=true",
+     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "El Comercio",
+     "credit": "El Comercio"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/7J6NS37H2NDFVOEOTHKQGPSMXE.png?auth=743729914209d34cb753c2bd404dc76ec3b6bad99421a5972eaf8a2649740772&width=980&height=528&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/UAFABMRRE5F3XM25JFDN6ZL5UY.jpg?auth=0e371ea109e978320d999484dfc0cab76f1f5e5350d56b305644b26941ad28fc&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/YHRRUKT5F5BQZGIUJCXPZ4DNCY.png?auth=24917ac40a1b721715d2a71cba87e23a9a8381e3c9b01bc74dee9eb6b43e13b7&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/Y7ZX5R5YYVHCJNVLI2FTPZROX4.jpg?auth=311be864a8d7f9badc0504974794e82685a220343f869fb5512843e35455488e&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
+     "via": "Gestión",
+     "credit": "Gestión"
+    },
+    {
+     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
+     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
+     "via": "Bing Imágenes",
+     "credit": "elsevier.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DY0U2OdFNLd",
+    "https://www.instagram.com/p/DesYM0xFBT-",
+    "https://www.instagram.com/p/Df44LBzkXlf",
+    "https://www.instagram.com/p/DfAosONy0QX",
+    "https://www.instagram.com/p/Df_BAnEEbAt",
+    "https://www.instagram.com/p/DgByE_sERl8",
+    "https://www.instagram.com/p/DgC21CLm7tq",
+    "https://www.instagram.com/p/DgDXsLdEStB",
+    "https://www.instagram.com/p/DgHFKeSlpee",
+    "https://www.instagram.com/p/DgHJJr1gtCd",
+    "https://www.instagram.com/reel/DfAosONy0QX",
+    "https://www.instagram.com/reel/DgHJJr1gtCd",
+    "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605"
+   ],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [
+    {
+     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
+     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
+     "via": "Bing Imágenes",
+     "credit": "elsevier.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T20:38:33.393061+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/DY0U2OdFNLd",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/DesYM0xFBT-",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/Df44LBzkXlf",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/DfAosONy0QX",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/Df_BAnEEbAt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T22:06:41.395297+00:00",
+     "url": "https://www.instagram.com/p/DgByE_sERl8",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/DgC21CLm7tq",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "url": "https://www.instagram.com/p/DgDXsLdEStB",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T22:22:42.031471+00:00",
+     "url": "https://www.instagram.com/p/DgHFKeSlpee",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/p/DgHJJr1gtCd",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/reel/DfAosONy0QX",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.instagram.com/reel/DgHJJr1gtCd",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T21:50:42.225084+00:00",
+     "url": "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605",
+     "platform": "TikTok",
+     "views": 95400,
+     "likes": 1860,
+     "comments": 27,
+     "shares": 545
+    }
+   ],
+   "social_totals": {
+    "views": 95400,
+    "likes": 1860,
+    "comments": 27,
+    "shares": 545
+   },
+   "score": 60
   },
   {
    "key": "p:crown confidential",
@@ -492,7 +832,7 @@
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 36817,
+     "views": 36915,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -501,13 +841,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 29953,
+     "views": 30180,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 66770,
+   "views_total": 67095,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -564,83 +904,6 @@
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/tercer-y-ultimo-ranking-universal-de-el-nuevo-dia-rumbo-a-miss-universe-2026/",
      "via": "El Nuevo Día",
      "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7705903395080654101&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@sophiiqst/video/7705903395080654101",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.BB%2fJmONB9DINlL9PvuGpoA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/32/cf/4f/32cf4f55df78e25a3f06cdbf33bbf27d.jpg",
-     "page": "https://br.pinterest.com/pin/katseye-sophia-wallpaper--1069323505271081522/",
-     "via": "Bing Imágenes",
-     "credit": "br.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.jwAjgYkg21KLqf7o7Gih_AHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900062.jpg",
-     "page": "https://wallpapercave.com/sophia-katseye-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Eqk3vebhBGrmzZrNW-FCyQHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900048.jpg",
-     "page": "https://wallpapercave.com/katseye-sophia-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.g6WwASN7_5ui1wCmpCaSrwHaMx&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ba/de/3c/bade3c599d507955759fa3817581ba16.jpg",
-     "page": "https://www.pinterest.com/pin/sophia-katseye-in-2024--934708097654818392/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.attP4pIMoSRnypk5nX1mVwHaJ3&pid=15.1"
-    },
-    {
-     "url": "https://i.etsystatic.com/54290292/r/il/0724cc/6527831103/il_800x800.6527831103_6nji.jpg",
-     "page": "https://www.etsy.com/market/katseye",
-     "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Aha8NiYVJ2yA4f_OnqTnjgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900013.jpg",
-     "page": "https://wallpapercave.com/katseye-sophia-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.rWpLd2mHEvaJJbcHlSy3uwHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8b/bf/fe/8bbffe2dddfe518b89a51845e6f23ff6.jpg",
-     "page": "https://www.pinterest.com/pin/katseye-sophia-wallpaper-in-2025--1037868676627368689/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.yOsge_KFieQezbx2MoTwXQHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapers.com/images/featured/sophia-katseye-msvv0mxdf7nbbtbr.jpg",
-     "page": "https://wallpapers.com/sophia-katseye",
-     "via": "Bing Imágenes",
-     "credit": "wallpapers.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.L-e1DKJTlJAZ_T5l7yysHgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/bb/9f/1f/bb9f1f4caeabc7b4672531d28cf68551.jpg",
-     "page": "https://br.pinterest.com/pin/37436240649525302/",
-     "via": "Bing Imágenes",
-     "credit": "br.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Jt8yre8TNs2DhtRCC_7nlwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://image.winudf.com/v2/image1/a2F0c2V5ZXdhbGxwYXBlcnMuc29waGlhLmthdHNleWUud2FsbHBhcGVyLmtwb3Aud2FsbHBhcGVycy5oZC5mcmVlX3NjcmVlbl8zXzE3OTQ3MTcyMzlfMDIy/screen-3.jpg?fakeurl=1&type=.jpg",
-     "page": "https://apkpure.com/de/sophia-katseye-wallpapers/katseyewallpapers.sophia.katseye.wallpaper.kpop.wallpapers.hd.free",
-     "via": "Bing Imágenes",
-     "credit": "apkpure.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.ZqudwPKA%2bUO0n7u8Ls3DQg&pid=15.1"
     }
    ],
    "social_urls": [
@@ -650,107 +913,8 @@
     "https://www.instagram.com/reel/DgEJTChMTrl"
    ],
    "image_query": "Miss Universe 2026 Crown Confidential",
-   "extra_images": [
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7705903395080654101&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@sophiiqst/video/7705903395080654101",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.BB%2fJmONB9DINlL9PvuGpoA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/32/cf/4f/32cf4f55df78e25a3f06cdbf33bbf27d.jpg",
-     "page": "https://br.pinterest.com/pin/katseye-sophia-wallpaper--1069323505271081522/",
-     "via": "Bing Imágenes",
-     "credit": "br.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.jwAjgYkg21KLqf7o7Gih_AHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900062.jpg",
-     "page": "https://wallpapercave.com/sophia-katseye-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Eqk3vebhBGrmzZrNW-FCyQHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900048.jpg",
-     "page": "https://wallpapercave.com/katseye-sophia-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.g6WwASN7_5ui1wCmpCaSrwHaMx&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7637630247139134742&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@justcallmeeyekon/video/7637630247139134742",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.l2n6NdeLtKvxQtx6zi2ypg&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7675521672182648065&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@.starseye_0fficial/video/7675521672182648065",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIF.sbxv1dAKCa38mQSYI9aUlQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ba/de/3c/bade3c599d507955759fa3817581ba16.jpg",
-     "page": "https://www.pinterest.com/pin/sophia-katseye-in-2024--934708097654818392/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.attP4pIMoSRnypk5nX1mVwHaJ3&pid=15.1"
-    },
-    {
-     "url": "https://i.etsystatic.com/54290292/r/il/0724cc/6527831103/il_800x800.6527831103_6nji.jpg",
-     "page": "https://www.etsy.com/market/katseye",
-     "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Aha8NiYVJ2yA4f_OnqTnjgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp15900013.jpg",
-     "page": "https://wallpapercave.com/katseye-sophia-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.rWpLd2mHEvaJJbcHlSy3uwHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/8b/bf/fe/8bbffe2dddfe518b89a51845e6f23ff6.jpg",
-     "page": "https://www.pinterest.com/pin/katseye-sophia-wallpaper-in-2025--1037868676627368689/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.yOsge_KFieQezbx2MoTwXQHaNK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapers.com/images/featured/sophia-katseye-msvv0mxdf7nbbtbr.jpg",
-     "page": "https://wallpapers.com/sophia-katseye",
-     "via": "Bing Imágenes",
-     "credit": "wallpapers.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.L-e1DKJTlJAZ_T5l7yysHgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/bb/9f/1f/bb9f1f4caeabc7b4672531d28cf68551.jpg",
-     "page": "https://br.pinterest.com/pin/37436240649525302/",
-     "via": "Bing Imágenes",
-     "credit": "br.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Jt8yre8TNs2DhtRCC_7nlwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://image.winudf.com/v2/image1/a2F0c2V5ZXdhbGxwYXBlcnMuc29waGlhLmthdHNleWUud2FsbHBhcGVyLmtwb3Aud2FsbHBhcGVycy5oZC5mcmVlX3NjcmVlbl8zXzE3OTQ3MTcyMzlfMDIy/screen-3.jpg?fakeurl=1&type=.jpg",
-     "page": "https://apkpure.com/de/sophia-katseye-wallpapers/katseyewallpapers.sophia.katseye.wallpaper.kpop.wallpapers.hd.free",
-     "via": "Bing Imágenes",
-     "credit": "apkpure.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIF.ZqudwPKA%2bUO0n7u8Ls3DQg&pid=15.1"
-    },
-    {
-     "url": "https://www.tiktok.com/api/img/?itemId=7698780865844759830&location=0&aid=1988",
-     "page": "https://www.tiktok.com/@pixey718/video/7698780865844759830",
-     "via": "Bing Imágenes",
-     "credit": "tiktok.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIF.un16wHcT3LcHVUuHPhwxew&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T19:26:34.215912+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T22:30:41.646803+00:00",
    "social": [
     {
      "fetched": "2026-11-24T21:58:41.502880+00:00",
@@ -880,13 +1044,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 14752,
-     "likes": 229,
+     "views": 15119,
+     "likes": 240,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 14752,
+   "views_total": 15119,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1162,12 +1326,12 @@
    "extra_at": "2026-11-24T19:58:34.228758+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T21:26:42.251306+00:00",
+     "fetched": "2026-11-24T22:30:41.646803+00:00",
      "url": "https://www.instagram.com/p/DgFhYugkQt8",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T21:26:42.251306+00:00",
+     "fetched": "2026-11-24T22:30:41.646803+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
      "platform": "Instagram"
     },
@@ -1252,13 +1416,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 497891,
+     "views": 499407,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 497891,
+   "views_total": 499407,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -2129,343 +2293,6 @@
    "score": 15
   },
   {
-   "key": "t:mu:Gala / cena:2026-11-24",
-   "id": "t-mu-gala-cena-2026-11-24-8532a",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T12:38:23.782201+00:00",
-   "start": "2026-11-24T04:16:00+00:00",
-   "last_activity": "2026-11-24T15:59:33+00:00",
-   "item_ids": [
-    "2e820b89c19287",
-    "89ee069c77bdd6",
-    "4f206d3fcf54d1",
-    "642e49b5145742",
-    "85c607d3eea2a3",
-    "d7cda114722a41",
-    "0875d634262de6",
-    "f385e6bd0a18f3",
-    "1f7fb45e0ef68d",
-    "155b7652c70265",
-    "e1c1ce206467ea",
-    "17355e874077f2",
-    "4dd647c2831da2",
-    "7aadc715b66fff",
-    "8fae186864e97e",
-    "9a373f67639c2a",
-    "769531e0d5c4f7",
-    "cb5e04e0d00f53",
-    "d203d71789de0e",
-    "2ee6983fd51208",
-    "72424c1e917654"
-   ],
-   "sources": [
-    "Clx Icons",
-    "Diario Las Américas",
-    "Diario Primicia",
-    "El Comercio",
-    "El Heraldo",
-    "El Nuevo Día",
-    "El Siglo",
-    "Gestión",
-    "Infobae",
-    "LA NACION",
-    "Latin Times",
-    "Meridiano.net",
-    "Metro Puerto Rico",
-    "Milenio on MSN",
-    "Minuto60",
-    "Publimetro",
-    "Radio Mitre",
-    "Últimas Noticias"
-   ],
-   "n_items": 21,
-   "n_sources": 18,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://radiomitre.cienradios.com/resizer/v2/LWZSKWU6IRCHNAYELE4DFVWMIY.png?smart=true&auth=c34c28b56f99e5329bae5d2c7e379b99506962e5e6d045824ce53dc3eb95e7a7&width=1200&height=630",
-     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
-     "via": "Radio Mitre",
-     "credit": "Radio Mitre"
-    },
-    {
-     "url": "https://radiomitre.cienradios.com/resizer/v2/B32BMDTEENGWBKMIDDX7MAKNLI.png?auth=8fa48ae859340dce93ecdcd52ac5f5153051ac7f17a80ce95b1f370e526b84df&width=800&height=400",
-     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
-     "via": "Radio Mitre",
-     "credit": "Radio Mitre"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.jxbsSRhBNsyDsBlhwJQWzw&pid=News",
-     "page": "https://radiomitre.cienradios.com/celebrities/miss-universo-2026-a-que-hora-es-la-gran-final-del-certamen-de-belleza-y-por-donde-verlo-en-vivo/",
-     "via": "Bing (miniatura)",
-     "credit": "Radio Mitre"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795553944944.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795553944944.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://www.infobae.com/resizer/v2/TGEMXXIIMBDPVJOJEACX6FNB2Q.jpg?auth=22131f8b2ada9b9ab042c52cbd93ee68f6e96bbbc3b9b3a489878c3b2bb12f28&smart=true&width=1024&height=512&quality=85",
-     "page": "https://www.infobae.com/mexico/2026/11/24/maria-vargas-la-jalisciense-que-busca-heredar-hoy-la-corona-de-fatima-bosch-en-miss-universo-2026/",
-     "via": "Infobae",
-     "credit": "Infobae"
-    },
-    {
-     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200&h=630",
-     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
-     "via": "Metro Puerto Rico",
-     "credit": "Metro Puerto Rico"
-    },
-    {
-     "url": "https://www.metro.pr/api/image/YYMVXFBVFVBI3LQFUBNOA4F3SA.jpeg?w=1200",
-     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
-     "via": "Metro Puerto Rico",
-     "credit": "Metro Puerto Rico"
-    },
-    {
-     "url": "https://www.metro.pr/api/image/IT6CVOJ2DRFT5PLRE4ZWW3JUMQ.jpg?w=1200",
-     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
-     "via": "Metro Puerto Rico",
-     "credit": "Metro Puerto Rico"
-    },
-    {
-     "url": "https://www.metro.pr/api/image/VBNTFFPBOVHTHG55DW55UNTE3E.jpg?w=1200",
-     "page": "https://www.metro.pr/noticias/2026/11/24/la-de-aqui-boricuas-apuestan-por-jennifer-barreto-para-conquistar-la-corona-de-miss-universe/",
-     "via": "Metro Puerto Rico",
-     "credit": "Metro Puerto Rico"
-    },
-    {
-     "url": "https://www.publimetro.cl/resizer/v2/QU6TMNFOSRFU5GJE27YQ5HWEUY.jpg?smart=true&auth=e20ddcee37db70d20b2f0de5cbc2b6b82a6b056d2286eb09e3059577a2dd2efd&width=1200&height=630",
-     "page": "https://www.publimetro.cl/entretenimiento/2026/11/24/donde-y-a-que-hora-ver-a-dominga-lopez-en-la-final-de-miss-universo-2026/",
-     "via": "Publimetro",
-     "credit": "Publimetro"
-    },
-    {
-     "url": "https://www.elheraldo.co/resizer/v2/OJCBXLCTDBBYDNP5UWFOVXB34Q.png?smart=true&auth=5faa8cf9aae30ef928785844d516169668c039f2ce7c30b5cce8d79bc521a27e&width=1200&height=675",
-     "page": "https://www.elheraldo.co/entretenimiento/2026/11/24/miss-universe-2026-hora-y-donde-ver-la-final-en-colombia/",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.elheraldo.co/resizer/v2/ZQNOAX3U6ZHXPKJLKDUL3SHNHU.jpeg?auth=ef528e032b543844fd36a510db8169c18be307ee567b4378d6afe353502d903d&smart=true&width=760&height=964&quality=70",
-     "page": "https://www.elheraldo.co/entretenimiento/2026/11/24/miss-universe-2026-hora-y-donde-ver-la-final-en-colombia/",
-     "via": "El Heraldo",
-     "credit": "El Heraldo"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/las-candidatas-al-miss-universo-2026-ya-estan-en-UNZU2KTY6JBRXFU33YTPQACEEM.jpg?auth=1322d63267b6067b14d395b78261354eb1189ad5b6cc85e2962bb2d3e678392a&width=1200&height=800&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
-     "via": "LA NACION",
-     "credit": "LA NACION"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mas-de-20-candidatas-latinas-se-enfrentan-este-24-ZZ2E5AWTFFA2XAJ5HOEA5FXKHI.jpg?auth=d67b04efc1c8572ad9c86595599f2facc51796892bbf8fe5b08d6d35906879c6&width=420&height=280&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
-     "via": "LA NACION",
-     "credit": "LA NACION"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/la-mexicana-jacky-bracamontes-sera-una-de-las-3VRS5GH6YVDBLDNHCUD3KLUHFU.jpg?auth=8979f59b9c19f8b35307b84443a2a203d5c32f0df7bdba382549fe69f045f6cc&width=420&height=560&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/cuando-es-el-miss-universo-2026-y-a-que-hora-ver-en-vivo-la-noche-final-desde-eeuu-nid24112026/",
-     "via": "LA NACION",
-     "credit": "LA NACION"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/7NOIUXAQRJC5FBGS35GJMVDVUM.jpg?auth=6df16cc0294681e542f188e598ce8c1d7b3bff17b105f9e298f500eda7d5c8f5&width=980&height=528&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/F5FISDMWENCGROH3AG3455YIEM.jpg?auth=479a22409ee0fb6c25afafd361f146596e33d3d191751a5d358dba1362283b3a&width=2400&height=1620&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F7VYLRSGQ55E33F7YUXGLXB7YHU.jpeg?auth=f840ad49fb61415c4c48e9e52aa7426e83329293b2317578bbeb2ae2c9a3aeba&width=64&height=64&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/RT772UG4ZZBIBK5BD5F225WRRQ.jpg?auth=565fdb9a60244a15db6ccd4b845b999ab192d1b07d52b05df52260a7b5e26ec5&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://elcomercio.pe/resizer/v2/LOQY4FMSRBHVRMH36YQGF3QSZE.png?auth=1b11f9db65b9a71d9b05886f9e70cd396797290e4ea815e0c4b1e85c9046ca56&width=85&height=85&quality=75&smart=true",
-     "page": "https://elcomercio.pe/mag/usa/en-vivo-us/final-del-miss-universo-2026-en-vivo-gratis-horario-candidatas-y-como-ver-concurso-de-belleza-en-directo-por-tv-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "El Comercio",
-     "credit": "El Comercio"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/7J6NS37H2NDFVOEOTHKQGPSMXE.png?auth=743729914209d34cb753c2bd404dc76ec3b6bad99421a5972eaf8a2649740772&width=980&height=528&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/https%3A%2F%2Fauthor-service-images-prod-us-east-1.publishing.aws.arc.pub%2Felcomercio%2F5Y4HB45DWFBLPI7F47OIABXSUQ.png?auth=0fcc7bb8ee8e6282cdeeb9812b57db332be3a940790ae2840765620ace10fd3e&width=64&height=64&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/UAFABMRRE5F3XM25JFDN6ZL5UY.jpg?auth=0e371ea109e978320d999484dfc0cab76f1f5e5350d56b305644b26941ad28fc&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/YHRRUKT5F5BQZGIUJCXPZ4DNCY.png?auth=24917ac40a1b721715d2a71cba87e23a9a8381e3c9b01bc74dee9eb6b43e13b7&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/Y7ZX5R5YYVHCJNVLI2FTPZROX4.jpg?auth=311be864a8d7f9badc0504974794e82685a220343f869fb5512843e35455488e&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://gestion.pe/resizer/v2/PQLOBG554REWZDVHQHE56YF3CE.jpg?auth=a7f110dd652a076d56c19414d7102fd733a2e5fcc9e7827f10879339f369e670&width=140&height=72&quality=75&smart=true",
-     "page": "https://gestion.pe/mix/gente/que-canal-transmite-miss-universo-2026-en-vivo-hoy-en-mexico-usa-y-espana-tv-abierta-y-streaming-online-nnda-nnrt-noticia/",
-     "via": "Gestión",
-     "credit": "Gestión"
-    },
-    {
-     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
-     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
-     "via": "Bing Imágenes",
-     "credit": "elsevier.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DY0U2OdFNLd",
-    "https://www.instagram.com/p/DesYM0xFBT-",
-    "https://www.instagram.com/p/Df44LBzkXlf",
-    "https://www.instagram.com/p/DfAosONy0QX",
-    "https://www.instagram.com/p/Df_BAnEEbAt",
-    "https://www.instagram.com/p/DgByE_sERl8",
-    "https://www.instagram.com/p/DgC21CLm7tq",
-    "https://www.instagram.com/p/DgDXsLdEStB",
-    "https://www.instagram.com/p/DgHFKeSlpee",
-    "https://www.instagram.com/p/DgHJJr1gtCd",
-    "https://www.instagram.com/reel/DfAosONy0QX",
-    "https://www.instagram.com/reel/DgHJJr1gtCd",
-    "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605"
-   ],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://static.elsevier.es/multimedia/18884415/0000006500000002/v1_202102140722/S1888441520301211/v1_202102140722/es/main.assets/gr1.jpeg?xkr=ue/ImdikoIMrsJoerZ+w997EogCnBdOOD93cPFbanNdV4B9vwZQjgKcZv3MP4Cds3qiLBpJmV7qW2dfcCTNKQHKlMyHaCdLHGpzRbZE3n346TY8LdXTGuEKGTQRP2/j00Tr9CCMUHs2nvnKHBKC6fidqzHECoe29l9NBKHi+INR1fn4fHfqsjtp2xiAa1Rd2X05sfk/5oHW3sJxCXklO9ECoSsLk6rHRTmi7dCMGQuWW1qOsplshU86R3PbPkgtxuI+qE/QMjdZAQG+cPCiaq0YxNRlTEquZdUUL9EeOFEHtaUpU6pBxEr7o4f7UaBQf",
-     "page": "https://www.elsevier.es/es-revista-revista-espanola-cirugia-ortopedica-traumatologia-129-articulo-contractura-aislada-del-musculo-recto-S1888441520301211",
-     "via": "Bing Imágenes",
-     "credit": "elsevier.es",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.yfY0x3EkyFAhrCBAsEL1NQHaDR&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T20:38:33.393061+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/DY0U2OdFNLd",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/DesYM0xFBT-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/Df44LBzkXlf",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/DfAosONy0QX",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/Df_BAnEEbAt",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T22:06:41.395297+00:00",
-     "url": "https://www.instagram.com/p/DgByE_sERl8",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/DgC21CLm7tq",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
-     "url": "https://www.instagram.com/p/DgDXsLdEStB",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T22:22:42.031471+00:00",
-     "url": "https://www.instagram.com/p/DgHFKeSlpee",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/p/DgHJJr1gtCd",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/reel/DfAosONy0QX",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.instagram.com/reel/DgHJJr1gtCd",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T21:50:42.225084+00:00",
-     "url": "https://www.tiktok.com/@manuela.galanr/video/7206075098153913605",
-     "platform": "TikTok",
-     "views": 95400,
-     "likes": 1860,
-     "comments": 27,
-     "shares": 545
-    }
-   ],
-   "social_totals": {
-    "views": 95400,
-    "likes": 1860,
-    "comments": 27,
-    "shares": 545
-   },
-   "score": 57
-  },
-  {
    "key": "seed:mi-natcos",
    "id": "mi-natcos",
    "name": "Miss International · Trajes típicos",
@@ -3261,26 +3088,24 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T09:58:23.913522+00:00",
-   "start": "2026-11-23T17:14:00+00:00",
+   "start": "2026-11-23T19:16:00+00:00",
    "last_activity": "2026-11-24T01:03:00+00:00",
    "item_ids": [
     "ba80ff6fd15844",
     "f98c5fd89c407f",
     "9dcd69a2e71b57",
     "57766b7b733abc",
-    "60d3ac2f487df9",
-    "218d06ff6938ef"
+    "60d3ac2f487df9"
    ],
    "sources": [
     "Bombay Times",
     "Filmfare",
-    "News9Live",
     "NewsX",
     "The Indian Express",
     "varietyindia.com"
    ],
-   "n_items": 6,
-   "n_sources": 6,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -3339,7 +3164,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 18
+   "score": 15
   },
   {
    "key": "t:mu:Votación:2026-11-21",
@@ -3563,13 +3388,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 14752,
-     "likes": 229,
+     "views": 15119,
+     "likes": 240,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 14752,
+   "views_total": 15119,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -3858,13 +3683,13 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 14752,
-     "likes": 229,
+     "views": 15119,
+     "likes": 240,
      "published": "2026-11-23T19:25:03+00:00",
      "official": true
     }
    ],
-   "views_total": 14752,
+   "views_total": 15119,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -3994,7 +3819,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -4047,7 +3872,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
    "extra_images": [],
-   "extra_at": "2026-11-24T22:22:42.031471+00:00",
+   "extra_at": "2026-11-24T22:30:41.646803+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4067,7 +3892,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -4329,7 +4154,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4504,7 +4329,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4517,7 +4342,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
    "extra_images": [],
-   "extra_at": "2026-11-24T22:22:42.031471+00:00",
+   "extra_at": "2026-11-24T22:30:41.646803+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -4537,7 +4362,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4768,7 +4593,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T22:22:42.031471+00:00",
+   "first_seen": "2026-11-24T22:30:41.646803+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
