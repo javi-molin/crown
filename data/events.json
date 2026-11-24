@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24T12:30:23.826343+00:00",
- "count": 27,
+ "updated": "2026-11-24T12:38:23.782201+00:00",
+ "count": 28,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -149,7 +149,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -167,6 +167,7 @@
     "5b6f3845a242a6",
     "ba8a656978210c",
     "977edca73dc1c8",
+    "9b7ac53de994e1",
     "2ee6983fd51208",
     "38932341eac673",
     "e3a9aa867e0ed7",
@@ -204,6 +205,7 @@
     "6082750697d535"
    ],
    "sources": [
+    "24 horas",
     "Clarin.com",
     "Debate on MSN",
     "Diario El Mundo",
@@ -237,8 +239,8 @@
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 49,
-   "n_sources": 32,
+   "n_items": 50,
+   "n_sources": 33,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -254,7 +256,55 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 116
+   "score": 119
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
+   "start": "2026-11-24T04:16:00+00:00",
+   "last_activity": "2026-11-24T12:16:00+00:00",
+   "item_ids": [
+    "0875d634262de6",
+    "f385e6bd0a18f3",
+    "2ee6983fd51208"
+   ],
+   "sources": [
+    "Diario Las Américas",
+    "Milenio on MSN"
+   ],
+   "n_items": 3,
+   "n_sources": 2,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.ngUwNRTgPTtjNcbbqcEmCg&pid=News",
+     "page": "https://www.msn.com/es-mx/estilo-de-vida/other/d%C3%B3nde-ver-la-final-de-miss-universo-2026-en-vivo-desde-m%C3%A9xico-link-para-apoyar-a-mar%C3%ADa-vargas/ar-AA2i51wf",
+     "via": "Bing (miniatura)",
+     "credit": "Milenio on MSN"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [],
+   "extra_at": "2026-11-24T12:38:23.782201+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 7
   },
   {
    "key": "p:crown confidential",
@@ -276,23 +326,25 @@
     "91536525a60d1e",
     "f93f65873738a3",
     "6cd329165e23bb",
+    "479865ad166d59",
     "9fcac4f93a8849"
    ],
    "sources": [
+    "El Nuevo Día",
     "Facebook",
     "Metro.Style",
     "N Digital",
     "RPP Noticias",
     "YouTube · Miss Universe"
    ],
-   "n_items": 6,
-   "n_sources": 5,
+   "n_items": 7,
+   "n_sources": 6,
    "videos": [
     {
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 16714,
+     "views": 16978,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -301,13 +353,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 10891,
+     "views": 11005,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 27605,
+   "views_total": 27983,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -468,7 +520,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 20
+   "score": 23
   },
   {
    "key": "p:one unforgettable night",
@@ -507,13 +559,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 276213,
+     "views": 278708,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 276213,
+   "views_total": 278708,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -529,13 +581,6 @@
      "credit": "N Digital"
     },
     {
-     "url": "https://i.pinimg.com/736x/0d/60/29/0d60293a55f059fa3963c048c5d38c3e.jpg",
-     "page": "https://www.pinterest.com/pin/53339576832854051/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Z2cc7SGdYMXmGIdnbZz4iwHaG9&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
      "via": "Wikimedia Commons",
@@ -547,13 +592,6 @@
    "image_query": "Miss Universe 2026 One Unforgettable Night",
    "extra_images": [
     {
-     "url": "https://i.pinimg.com/736x/0d/60/29/0d60293a55f059fa3963c048c5d38c3e.jpg",
-     "page": "https://www.pinterest.com/pin/53339576832854051/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Z2cc7SGdYMXmGIdnbZz4iwHaG9&pid=15.1"
-    },
-    {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf/page1-500px-The_Rhododendron_%28serial%29_%28IA_rhododendronseri1989appa%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:The_Rhododendron_(serial)_(IA_rhododendronseri1989appa).pdf",
      "via": "Wikimedia Commons",
@@ -561,7 +599,7 @@
      "credit": "\nAppalachian State University"
     }
    ],
-   "extra_at": "2026-11-24T09:34:23.777112+00:00",
+   "extra_at": "2026-11-24T12:38:23.782201+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2031,7 +2069,7 @@
    ],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-24T12:30:23.826343+00:00",
+   "extra_at": "2026-11-24T12:38:23.782201+00:00",
    "social": [
     {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
@@ -2130,7 +2168,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     },
@@ -2182,7 +2220,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T02:41:25+00:00",
+   "start": "2026-11-23T02:50:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2278,7 +2316,6 @@
     "d9f7ba013c0805",
     "040bfcba907828",
     "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2338,7 +2375,7 @@
     "LA PRENSA",
     "La Patria"
    ],
-   "n_items": 110,
+   "n_items": 109,
    "n_sources": 68,
    "videos": [
     {
@@ -2628,107 +2665,8 @@
     "https://www.youtube.com/watch?v=sqiMbXhYbNw"
    ],
    "image_query": "Miss Universe 2026 Completa Del Desfile De Traje",
-   "extra_images": [
-    {
-     "url": "https://2.bp.blogspot.com/-gC6Etv68_TA/W0lFDWKF04I/AAAAAAAAHxY/blMNn9-CUG4vUGLdmRUL06q9zW2bYAjDgCLcBGAs/s640/edf2dba01e2483b82fb31b87851b3f03.jpg",
-     "page": "https://elcomodelascosass.blogspot.com/2018/07/como-hacer-tus-outfits-para-la-escuela.html",
-     "via": "Bing Imágenes",
-     "credit": "elcomodelascosass.blogspot.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.xHl772x_9Y4XTMQ1cwf1TQHaHX&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/88/f6/7b/88f67bbe7e730241efe095e51420987b.jpg",
-     "page": "https://www.pinterest.com/a_estefano/outfits-para-ir-a-la-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.oYZRTzwLRAYXI9MCSgCYBAHaZz&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/65/3c/26/653c260112fee330b013a8156e804fa6--grey-converse-outfit-first-come-first-served.jpg",
-     "page": "https://www.pinterest.com/alenidn/outfits-para-la-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.rVs66qyHIkfp54du1eD0OgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/79/44/89/79448910452ebf51cb1fa9249b6e3197.jpg",
-     "page": "https://ar.pinterest.com/pin/49258189670036630/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.y3sY1TnvKvra8-PpqXlUkgHaNK&pid=15.1"
-    },
-    {
-     "url": "https://4.bp.blogspot.com/-ehYTErrd-WI/W0lFQoFIsII/AAAAAAAAHx8/z2VcuxkEAdc7YOeXiqOYjLW7XkD3V3o-gCLcBGAs/s640/looks-escuela-outfit.jpg",
-     "page": "https://elcomodelascosass.blogspot.com/2018/07/como-hacer-tus-outfits-para-la-escuela.html",
-     "via": "Bing Imágenes",
-     "credit": "elcomodelascosass.blogspot.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.f4UhzXNh1LSWojX4NDyCEwHaIt&pid=15.1"
-    },
-    {
-     "url": "https://avenisse.com/image/school-outfits-2026/10-school-outfit-2026-ahs-style-outfits-for-school-plaid-skirt-and-blazer.jpg",
-     "page": "https://avenisse.com/school-outfits-2026/",
-     "via": "Bing Imágenes",
-     "credit": "avenisse.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.ytPayrswp_jv2fbZ8u2amQAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/53/38/2f/53382f81ed452c118d7c937f73201304.jpg",
-     "page": "https://www.pinterest.com/kchaconroque/outfit-para-ir-a-la-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.MM_o9AKGpaAo2vOTQyWsZwHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/a5/4f/de/a54fde280570f7219f1f4cf3186a3435.jpg",
-     "page": "https://mx.pinterest.com/sandy190703/outfits-para-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "mx.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.UI2zUXCzFWerJdxGcW5e2QHaM5&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/72/41/97/724197333a9b987628761fb845b06d54.jpg",
-     "page": "https://mx.pinterest.com/yumilala024/outfits-para-la-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "mx.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.3TPIse4KMpXJTIFjL2ZMAwHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/236x/17/c6/f6/17c6f6db1a4085c0933fc46bb94211e7.jpg",
-     "page": "https://co.pinterest.com/pin/111112315803061208/",
-     "via": "Bing Imágenes",
-     "credit": "co.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.y6GyXYDZQxQrggF2uD9tagAAAA&pid=15.1"
-    },
-    {
-     "url": "https://4.bp.blogspot.com/-HOJPZWQ6EbM/W0lFBVGhpyI/AAAAAAAAHw8/F1LAbyhna18hUxR1F6ArYuNLJ-Hj-mI0QCLcBGAs/s640/379a815d2b971f9710387abe6f513a43.jpg",
-     "page": "https://elcomodelascosass.blogspot.com/2018/07/como-hacer-tus-outfits-para-la-escuela.html",
-     "via": "Bing Imágenes",
-     "credit": "elcomodelascosass.blogspot.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.pwr2e2ezdk7OmPMgA-jbjQHaHW&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/cc/17/40/cc174018075e0134c73dae2a2962aea9.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/outfits-para-ir-a-la-escuela/956169382426/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.6IJqDUxoDFlq38FWjNpQMgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/videos/thumbnails/originals/ed/c9/6b/edc96b2770a5a338acd90bbcb463d9c6.0000000.jpg",
-     "page": "https://ar.pinterest.com/pin/950541065108664355/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMdFeKmTCPE3pd9T6kaJLQHaNK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/9e/58/7d/9e587d8189cd873355a9150aef858fa8.jpg",
-     "page": "https://www.pinterest.com/a_estefano/outfits-para-ir-a-la-escuela/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.qzBF-umrITS0PYpT4i0IMQHaTp&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T09:34:23.777112+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-24T12:38:23.782201+00:00",
    "social": [
     {
      "fetched": "2026-11-24T12:22:23.452421+00:00",
@@ -2801,7 +2739,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgD80ydM3gC",
      "platform": "Instagram"
     },
@@ -2816,7 +2754,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
      "platform": "Instagram"
     },
@@ -2831,7 +2769,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
     },
@@ -2841,7 +2779,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgENV4kBN3o",
      "platform": "Instagram"
     },
@@ -2894,7 +2832,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 249
+   "score": 248
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -3531,17 +3469,17 @@
    "extra_at": "2026-11-24T12:14:23.263192+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/p/DfypQVgmOl1",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgE9dNvRE4c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
+     "fetched": "2026-11-24T12:38:23.782201+00:00",
      "url": "https://www.instagram.com/reel/DgEsUDyx-nn",
      "platform": "Instagram"
     }
@@ -5181,7 +5119,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -5190,6 +5128,7 @@
     "f93f65873738a3",
     "80850e228412aa",
     "6cd329165e23bb",
+    "479865ad166d59",
     "f254c2c54acc92",
     "f6f85a4ee2b695",
     "a2fb269272421a",
@@ -5268,8 +5207,7 @@
     "d3791537658210",
     "d9f7ba013c0805",
     "040bfcba907828",
-    "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a"
+    "4b0a4d91aa16f1"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5370,7 +5308,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5488,7 +5426,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5579,7 +5517,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -5810,7 +5748,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6041,7 +5979,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
