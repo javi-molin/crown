@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T12:22:23.452421+00:00",
+ "updated": "2026-11-24T12:30:23.826343+00:00",
  "count": 27,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,17 +110,19 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
+    "e18907c86261d5",
     "a487635195184b"
    ],
    "sources": [
+    "Facebook",
     "Inquirer.net"
    ],
-   "n_items": 1,
-   "n_sources": 1,
+   "n_items": 2,
+   "n_sources": 2,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -136,7 +138,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 6
+   "score": 9
   },
   {
    "key": "agenda:mu:final-y-coronacion",
@@ -147,11 +149,13 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "12d47e3d29cd8d",
     "4f102bd187d493",
+    "e18907c86261d5",
     "531d169161f5b5",
     "91536525a60d1e",
     "6324bfe05ac0f2",
@@ -163,8 +167,11 @@
     "5b6f3845a242a6",
     "ba8a656978210c",
     "977edca73dc1c8",
+    "2ee6983fd51208",
+    "38932341eac673",
     "e3a9aa867e0ed7",
     "3c5baac5443bcd",
+    "684347207967dc",
     "1768ad54a2b59c",
     "ed47963f354ef0",
     "ac4d2f8328fd8d",
@@ -177,6 +184,7 @@
     "ffb235122eb697",
     "0ffe2cbb0a9f3c",
     "d1aa333db93d66",
+    "350c18af9fa20e",
     "eea5343c7cb8ce",
     "9e48a4f797a7ea",
     "f141ceb0831717",
@@ -215,19 +223,22 @@
     "La Hora",
     "MILENIO",
     "Metro.Style",
+    "Milenio on MSN",
     "N Digital",
     "Notifalcon",
     "Nueva Rioja",
     "Preview.ph",
     "Sabes.cl",
+    "Todo Jujuy",
+    "TodoJujuy.com",
     "www.elmagallanews.cl",
     "www.elnortero.cl",
     "www.elrancahuaso.cl",
     "www.elrepuertero.cl",
     "www.elvacanudo.cl"
    ],
-   "n_items": 43,
-   "n_sources": 29,
+   "n_items": 49,
+   "n_sources": 32,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -243,7 +254,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 104
+   "score": 116
   },
   {
    "key": "p:crown confidential",
@@ -258,9 +269,10 @@
    "refs": [],
    "first_seen": "2026-11-24T05:34:15.033246+00:00",
    "start": "2026-11-24T02:20:00+00:00",
-   "last_activity": "2026-11-24T11:30:28+00:00",
+   "last_activity": "2026-11-24T12:08:06+00:00",
    "item_ids": [
     "80850e228412aa",
+    "5ae990338c0355",
     "91536525a60d1e",
     "f93f65873738a3",
     "6cd329165e23bb",
@@ -270,16 +282,17 @@
     "Facebook",
     "Metro.Style",
     "N Digital",
+    "RPP Noticias",
     "YouTube · Miss Universe"
    ],
-   "n_items": 5,
-   "n_sources": 4,
+   "n_items": 6,
+   "n_sources": 5,
    "videos": [
     {
      "vid": "nr2_m3XW5HU",
      "title": "CROWN CONFIDENTIAL | Preliminary Competition | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 16552,
+     "views": 16714,
      "likes": 0,
      "published": "2026-11-24T05:22:22+00:00",
      "official": true
@@ -288,13 +301,13 @@
      "vid": "w4KCfg2ZC_I",
      "title": "PRELIMINARY BACKSTAGE | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 10635,
+     "views": 10891,
      "likes": 0,
      "published": "2026-11-24T05:52:53+00:00",
      "official": true
     }
    ],
-   "views_total": 27187,
+   "views_total": 27605,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/nr2_m3XW5HU/maxresdefault.jpg",
@@ -455,7 +468,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 17
+   "score": 20
   },
   {
    "key": "p:one unforgettable night",
@@ -494,13 +507,13 @@
      "vid": "UDILgaOsKGQ",
      "title": "They Turned CULTURE Into COUTURE! | 75th Miss Universe National Costume Show [FULL SHOW]",
      "channel": "Miss Universe",
-     "views": 274501,
+     "views": 276213,
      "likes": 0,
      "published": "2026-11-24T00:30:23+00:00",
      "official": true
     }
    ],
-   "views_total": 274501,
+   "views_total": 276213,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/UDILgaOsKGQ/maxresdefault.jpg",
@@ -1270,8 +1283,7 @@
     "ed1a50e75b8703",
     "01a6c68fdce28f",
     "4b0a4d91aa16f1",
-    "40a1b5b181aaa1",
-    "a07005bdad1698"
+    "40a1b5b181aaa1"
    ],
    "sources": [
     "2001online",
@@ -1288,7 +1300,6 @@
     "EMOL",
     "El Comercio",
     "El Comercio Perú",
-    "El Financiero",
     "El Nortero",
     "El Tiempo",
     "El Tiempo on MSN",
@@ -1313,10 +1324,11 @@
     "Telediario México on MSN",
     "Telemundo",
     "Teletrece",
-    "The Indian Express"
+    "The Indian Express",
+    "UnoTV on MSN"
    ],
-   "n_items": 64,
-   "n_sources": 44,
+   "n_items": 63,
+   "n_sources": 43,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -1573,12 +1585,8 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DROs-XZE8xP",
     "https://www.instagram.com/p/Dct5YGWDLvh",
-    "https://www.instagram.com/p/Der2h_iik-E",
-    "https://www.instagram.com/p/DgBtx8oO79V",
     "https://www.instagram.com/p/DgGoER2Dcs9",
-    "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
     "https://www.youtube.com/watch?v=sH1MV7WNoYs"
@@ -1631,33 +1639,13 @@
    "extra_at": "2026-11-24T10:46:23.717754+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/DROs-XZE8xP",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
      "url": "https://www.instagram.com/p/Dct5YGWDLvh",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/Der2h_iik-E",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/DgBtx8oO79V",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T11:50:23.806431+00:00",
      "url": "https://www.instagram.com/p/DgGoER2Dcs9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/reel/DgBtx8oO79V",
      "platform": "Instagram"
     },
     {
@@ -1671,7 +1659,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
@@ -1683,12 +1671,12 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 155
+   "score": 152
   },
   {
-   "key": "p:traje de gala en la preliminar",
-   "id": "p-traje-de-gala-en-la-preliminar-dbf5d",
-   "name": "Traje De Gala En La Preliminar",
+   "key": "t:mu:Gala / cena:2026-11-21",
+   "id": "t-mu-gala-cena-2026-11-21-6a56b",
+   "name": "Gala / cena · 21–23 nov",
    "contest": "mu",
    "kind": "oficial",
    "labels": [
@@ -1696,11 +1684,10 @@
    ],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-23T02:37:26.080370+00:00",
-   "start": "2026-11-23T02:31:06+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
+   "start": "2026-11-23T03:17:00+00:00",
    "last_activity": "2026-11-23T23:45:00+00:00",
    "item_ids": [
-    "37ce0ddfcdf2e3",
     "d1d6d051c0daab",
     "f590005e2ceaec",
     "f6f85a4ee2b695",
@@ -1740,166 +1727,41 @@
     "0a3d3366338ae3",
     "c878a195587422",
     "95863f43195e6f",
-    "27e791243c5c31",
-    "f254c2c54acc92",
-    "a2fb269272421a",
-    "bb0bcb12cb7923",
-    "af3bd931fff94e",
-    "5825312fd6cc63",
-    "908700188452d3",
-    "5fd8f5152b4b58",
-    "34b9daca5388ec",
-    "af1d75768af530",
-    "158adc3bf0a852",
-    "c396addd6a614f",
-    "cfb50969e326b7",
-    "16bd9bab11c10b",
-    "2724720c48a7f6",
-    "ad5321b491cf7d",
-    "0196740579222e",
-    "891311078f097f",
-    "c65557e774815d",
-    "9cb8e27df3b9f2",
-    "86c90a1eac6a76",
-    "68c43d5cfd36f5",
-    "ad5fa1cffa1303",
-    "3a7b3d672b46ea",
-    "3b7e7cd3321175",
-    "d7d4f38bec8c37",
-    "6c5fc8bd5c0989",
-    "5dedef3c59e3fb",
-    "c3b40e1f2158f9",
-    "47f72716e79e1d",
-    "2e9d6e1bcc9166",
-    "09b5a883d49f15",
-    "bf65617ec82716",
-    "523498a4640634",
-    "b87d2644263aab",
-    "23fd9d663a56b4",
-    "4c89a4853ebce7",
-    "414536a7da32f5",
-    "bc6a53622db3fa",
-    "cf2731fbfe95c5",
-    "6a2afbd99d5336",
-    "2fdcb820131df3",
-    "b2ef86e9afdce4",
-    "9ca0eda25522c7",
-    "e1d1fed2ae9244",
-    "aa5ae68c14f17b",
-    "519384f1110942",
-    "20db1c7ab00253",
-    "3aa1e1cd952e14",
-    "52189dc701e92c",
-    "e9e01af29320b6",
-    "512fa8a54e3d22",
-    "3eaef9012b303c",
-    "98293860e468f1",
-    "31e95ee4d67b06",
-    "c8d8ff6c15f4d4",
-    "23471bf7e2b521",
-    "a72d88fe0350d8",
-    "77650e0791580d",
-    "37f113e6f11e99",
-    "fb4ea217447104",
-    "e51bc8f78e1c8d",
-    "d123fb097f60da",
-    "397300076bdbdc",
-    "23951b33ac0c38",
-    "8b432528f7c5f9",
-    "ed1a50e75b8703",
-    "6359026c6d705e",
-    "940b42ed2d1463",
-    "01a6c68fdce28f",
-    "a1a706ebcedccb",
-    "f5095293f0f5ba",
-    "d3791537658210",
-    "d9f7ba013c0805",
-    "040bfcba907828",
-    "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a",
-    "10b96b587aca9b",
-    "bf18ddd33141aa",
-    "479865ad166d59"
+    "27e791243c5c31"
    ],
    "sources": [
-    ".: El Sol de Margarita :.",
-    "2001online",
     "24 horas on MSN",
-    "ABS-CBN",
     "Ambito",
-    "Artículo 66",
-    "BetUS",
-    "Canal Antigua",
     "Caracol Televisión",
     "CiberCuba",
-    "Clx Icons",
     "Diario El Centro",
-    "Diario El País",
-    "Diario Las Américas",
-    "EMOL",
-    "El Colombiano",
-    "El Colombiano on MSN",
     "El Comercio Perú",
     "El Diario",
-    "El Diario - Noticias Pereira, Colombia y el Mundo",
     "El Heraldo",
-    "El Impulso",
     "El Informador",
-    "El Mostrador",
-    "El Nuevo Día",
-    "El País",
-    "El Universal",
     "El Universo",
-    "Emol",
     "En Cancha",
-    "FMDOS",
     "Facebook",
-    "GMA Network",
-    "HOLA",
-    "HOLA.com",
     "Howl.Link",
     "Infobae",
-    "Instagram",
-    "Interaksyon",
-    "LA PRENSA"
+    "Metro Puerto Rico",
+    "Milenio on MSN",
+    "Noticia al Dia",
+    "Panamá América",
+    "Primicias",
+    "Publimetro",
+    "Vistazo",
+    "YouTube · Telemundo Entretenimiento",
+    "eju.tv",
+    "minuto60",
+    "unitel",
+    "www.laprensa.hn"
    ],
-   "n_items": 120,
-   "n_sources": 72,
-   "videos": [
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 88866,
-     "ago": "hace 1 día",
-     "official": false
-    },
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 0,
-     "likes": 11,
-     "published": "2026-11-23T19:25:03+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 88866,
+   "n_items": 40,
+   "n_sources": 26,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "http://www.bing.com/th?id=ONUT.ngUwNRTgPTtjNcbbqcEmCg&pid=News",
      "page": "https://www.msn.com/es-mx/entretenimiento/general/d%C3%B3nde-ver-la-final-de-miss-universo-2026-en-vivo-desde-m%C3%A9xico-link-canales-y-streaming/ar-AA2i51wf",
@@ -2127,142 +1989,49 @@
      "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
      "via": "El Informador",
      "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795443410383/sites/elinformador/img/2026/11/23/miss_uni.jpg_1565386239.jpg",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
+     "via": "El Informador",
+     "credit": "El Informador"
+    },
+    {
+     "url": "https://www.informador.mx/__export/1795442319152/sites/elinformador/img/2026/11/23/miss_universo_maria_vargas_traje_de_baxo.png_644189360.png",
+     "page": "https://www.informador.mx/entretenimiento/miss-universo-asi-lucio-la-mexicana-maria-vargas-en-la-competencia-preliminar-fotos-20261123-0039.html",
+     "via": "El Informador",
+     "credit": "El Informador"
     }
    ],
    "social_urls": [
     "https://www.instagram.com/p/Dct5YGWDLvh",
     "https://www.instagram.com/p/Df5yDxMGqRG",
     "https://www.instagram.com/p/DgByE_sERl8",
-    "https://www.instagram.com/p/DgD7wDOJTVm",
     "https://www.instagram.com/p/DgDXsLdEStB",
     "https://www.instagram.com/p/DgD_xMljUCc",
     "https://www.instagram.com/p/DgECLicjQOA",
     "https://www.instagram.com/p/DgEDDh5hhAv",
-    "https://www.instagram.com/p/DgEDOC6JpDF",
     "https://www.instagram.com/p/DgEJTChMTrl",
     "https://www.instagram.com/p/DgEJmU_hd3d",
     "https://www.instagram.com/p/DgELcfUmVzt",
     "https://www.instagram.com/p/DgELpxHje4O",
     "https://www.instagram.com/p/DgELtRyhp7_",
-    "https://www.instagram.com/p/DgEM596mDN9",
     "https://www.instagram.com/p/DgEMDnFGgfl",
     "https://www.instagram.com/p/DgEMwqLjRYi",
-    "https://www.instagram.com/p/DgENzI1DKX2",
     "https://www.instagram.com/p/DgEQq96DdQ4",
     "https://www.instagram.com/p/DgEkkGrEUpM",
     "https://www.instagram.com/p/DgEqKEjB77H",
-    "https://www.instagram.com/p/DgGDBNxvTVQ",
     "https://www.instagram.com/reel/DgCHkNLzcr3",
-    "https://www.instagram.com/reel/DgD80ydM3gC",
-    "https://www.instagram.com/reel/DgD9ov-vIKs",
-    "https://www.instagram.com/reel/DgEAfisxCAp",
-    "https://www.instagram.com/reel/DgEBhS1MTs-",
-    "https://www.instagram.com/reel/DgEEC0qPpN1",
     "https://www.instagram.com/reel/DgEFmBxvajg",
-    "https://www.instagram.com/reel/DgEJTChMTrl"
+    "https://www.instagram.com/reel/DgEJTChMTrl",
+    "https://www.instagram.com/reel/DgELcfUmVzt",
+    "https://www.youtube.com/watch?v=CSE9gDAqSYc",
+    "https://www.youtube.com/watch?v=YP48RsxV6BQ",
+    "https://www.youtube.com/watch?v=sqiMbXhYbNw"
    ],
-   "image_query": "Miss Universe 2026 Traje De Gala En La Preliminar",
-   "extra_images": [
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Lightning_McQueen_Petersen_Automotive_Museum_2024.jpg/1200px-Lightning_McQueen_Petersen_Automotive_Museum_2024.jpg",
-     "page": "https://storage.googleapis.com/cwprqatoejdublog/rayo-mcqueen-images.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.CMpnZqYTytnoDFJZXcNgUgHaEs&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp7194168.jpg",
-     "page": "https://wallpapercave.com/rayo-mcqueen-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.gTNeEOkgjoS6GvrBFki3_QHaEo&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp2979648.jpg",
-     "page": "https://wallpapercave.com/rayo-mcqueen-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts2.explicit.bing.net/th?id=OIP.ljDiERnRGyPaOuQlOx58ZQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://lumiere-a.akamaihd.net/v1/images/og_cars_lightningmcqueenday_18244_4435f27a.jpeg?region=40%2C0%2C1120%2C630",
-     "page": "https://www.disneylatino.com/novedades/quien-hace-la-voz-de-el-rayo-mcqueen-en-cars",
-     "via": "Bing Imágenes",
-     "credit": "disneylatino.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.tVR810M79JBhBdexezSYCwHaEK&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp7194253.jpg",
-     "page": "https://wallpapercave.com/rayo-mcqueen-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.HrQeVOQ8mlktuTb30WG4CgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn-images.motor.es/image/m/1320w/fotos-noticias/2020/03/que-coche-es-rayo-mcqueen-202066150-1585635516_1.jpg",
-     "page": "https://www.motor.es/noticias/que-coche-es-rayo-mcqueen-202066150.html",
-     "via": "Bing Imágenes",
-     "credit": "motor.es",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.ZPP-osaaTQmotkwqbF7dHQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://www.pngkey.com/png/full/311-3115851_rayo-mcqueen-wallpaper-disney-cars-lightning-mcqueen.png",
-     "page": "https://values.mps-milhorat.com/rayo-macuin-4-los-mejores-momentos-de-rayo-mcqueen/",
-     "via": "Bing Imágenes",
-     "credit": "values.mps-milhorat.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.bmHL_yPTe6xlmk7w_OhklQHaFF&pid=15.1"
-    },
-    {
-     "url": "https://static.wikia.nocookie.net/el-mundo-de-cars/images/e/eb/Rayo_2.0.png/revision/latest?cb=20240715235523&path-prefix=es",
-     "page": "https://el-mundo-de-cars.fandom.com/es/wiki/Rayo_McQueen",
-     "via": "Bing Imágenes",
-     "credit": "el-mundo-de-cars.fandom.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.LlCM91TKKqfy7r68En4gIQHaED&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp3888158.jpg",
-     "page": "https://wallpapercave.com/rayo-mcqueen-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.SpdwOwAH8De0s7s_eF7_OwHaNL&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/13/cf/34/13cf34ecf2c154eb88b05a07a3e7815e.jpg?nii=t",
-     "page": "https://es.pinterest.com/ideas/fondos-del-rayo-mcqueen/929573327345/",
-     "via": "Bing Imágenes",
-     "credit": "es.pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.sN6CYHCHHoTkuICpPM-xKgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.etsystatic.com/38852001/r/il/d11654/4454191033/il_fullxfull.4454191033_9wkm.jpg",
-     "page": "https://www.etsy.com/mx/listing/1362073355/cars-rayo-mcqueen-png-descarga-digital",
-     "via": "Bing Imágenes",
-     "credit": "etsy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.LFmJx-Lv9DylEWsFUx0t8QHaFy&pid=15.1"
-    },
-    {
-     "url": "https://m.media-amazon.com/images/I/81oXOJz9qjL.jpg",
-     "page": "https://storage.googleapis.com/cwprqatoejdublog/rayo-mcqueen-images.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UJVS7QW6tUuGTHKkgvBmoAHaEd&pid=15.1"
-    },
-    {
-     "url": "https://cdn.motor1.com/images/mgl/KNo6G/s1/como-una-estrella-mas-el-rayo-mcqueen-de-cars-3-se-presento-en-el-salon-de-detroit.jpg",
-     "page": "https://ar.motor1.com/news/475140/como-una-estrella-mas-el-rayo-mcqueen-de-cars-3-se-presento-en-el-salon-de-detroit/",
-     "via": "Bing Imágenes",
-     "credit": "ar.motor1.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.b-WnFKegnKUe5j_O8lNd0QHaEK&pid=15.1"
-    },
-    {
-     "url": "https://static.vecteezy.com/system/resources/previews/000/033/259/large_2x/lightning-mcqueen.jpg",
-     "page": "https://es.vecteezy.com/arte-vectorial/33259-rayo-mcqueen",
-     "via": "Bing Imágenes",
-     "credit": "es.vecteezy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-njAzDUMu8xxpj-jQGi_iwHaFL&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T12:06:23.588320+00:00",
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [],
+   "extra_at": "2026-11-24T12:30:23.826343+00:00",
    "social": [
     {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
@@ -2275,13 +2044,8 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:06:23.588320+00:00",
-     "url": "https://www.instagram.com/p/DgD7wDOJTVm",
      "platform": "Instagram"
     },
     {
@@ -2302,11 +2066,6 @@
     {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
      "url": "https://www.instagram.com/p/DgEDDh5hhAv",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
-     "url": "https://www.instagram.com/p/DgEDOC6JpDF",
      "platform": "Instagram"
     },
     {
@@ -2335,11 +2094,6 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
-     "url": "https://www.instagram.com/p/DgEM596mDN9",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T11:50:23.806431+00:00",
      "url": "https://www.instagram.com/p/DgEMDnFGgfl",
      "platform": "Instagram"
@@ -2347,11 +2101,6 @@
     {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
      "url": "https://www.instagram.com/p/DgEMwqLjRYi",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
-     "url": "https://www.instagram.com/p/DgENzI1DKX2",
      "platform": "Instagram"
     },
     {
@@ -2371,38 +2120,8 @@
      "error": "HTTP Error 500: Internal Server Error"
     },
     {
-     "fetched": "2026-11-24T12:06:23.588320+00:00",
-     "url": "https://www.instagram.com/p/DgGDBNxvTVQ",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
-     "url": "https://www.instagram.com/reel/DgD80ydM3gC",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
-     "url": "https://www.instagram.com/reel/DgD9ov-vIKs",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/reel/DgEAfisxCAp",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:34:23.639707+00:00",
-     "url": "https://www.instagram.com/reel/DgEBhS1MTs-",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T12:14:23.263192+00:00",
-     "url": "https://www.instagram.com/reel/DgEEC0qPpN1",
      "platform": "Instagram"
     },
     {
@@ -2414,15 +2133,40 @@
      "fetched": "2026-11-24T11:34:23.639707+00:00",
      "url": "https://www.instagram.com/reel/DgEJTChMTrl",
      "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "url": "https://www.instagram.com/reel/DgELcfUmVzt",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "url": "https://www.youtube.com/watch?v=CSE9gDAqSYc",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/CSE9gDAqSYc/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-24T12:14:23.263192+00:00",
+     "url": "https://www.youtube.com/watch?v=YP48RsxV6BQ",
+     "platform": "YouTube",
+     "thumb": "https://i.ytimg.com/vi/YP48RsxV6BQ/hqdefault.jpg"
+    },
+    {
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
+     "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
+     "platform": "YouTube",
+     "views": 354196,
+     "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
+     "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 0,
+    "views": 354196,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 271
+   "score": 95
   },
   {
    "key": "p:completa del desfile de traje",
@@ -2438,7 +2182,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-23T20:29:55.831254+00:00",
-   "start": "2026-11-23T02:25:00+00:00",
+   "start": "2026-11-23T02:41:25+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2505,6 +2249,7 @@
     "3eaef9012b303c",
     "98293860e468f1",
     "4114f84eeef3ee",
+    "17e8d2e79e2e0a",
     "4323f66acec0c8",
     "1c7b3fe4a98499",
     "31e95ee4d67b06",
@@ -2534,11 +2279,6 @@
     "040bfcba907828",
     "4b0a4d91aa16f1",
     "9bb50bc2d1eb3a",
-    "10b96b587aca9b",
-    "bf18ddd33141aa",
-    "479865ad166d59",
-    "37ce0ddfcdf2e3",
-    "48e93213602e8c",
     "90bf74ad462fb1",
     "8f07dab837d646",
     "6ba3c851fe302b",
@@ -2595,20 +2335,12 @@
     "Howl.Link",
     "Infobae",
     "Instagram",
-    "Interaksyon",
-    "LA PRENSA"
+    "LA PRENSA",
+    "La Patria"
    ],
-   "n_items": 114,
-   "n_sources": 70,
+   "n_items": 110,
+   "n_sources": 68,
    "videos": [
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 88866,
-     "ago": "hace 1 día",
-     "official": false
-    },
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
@@ -2619,7 +2351,7 @@
      "official": true
     }
    ],
-   "views_total": 88866,
+   "views_total": 0,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2627,13 +2359,6 @@
      "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
      "via": "YouTube (miniatura)",
      "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
     },
     {
      "url": "http://www.bing.com/th?id=ONUT.JZNpjCH2UXTCEvj9mgEdIA&pid=News",
@@ -2862,6 +2587,12 @@
      "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
      "via": "Telemetro",
      "credit": "Telemetro"
+    },
+    {
+     "url": "https://media.telemetro.com/p/bd73189b037307e96d3627ae5ba53568/adjuntos/311/imagenes/018/813/0018813409/525x295/smart/copa-airlines-latinoamerica.png",
+     "page": "https://www.telemetro.com/entretenimiento/miss-universe-2026-transmision-la-mordida-la-preliminar-supera-las-100000-visualizaciones-n6099422",
+     "via": "Telemetro",
+     "credit": "Telemetro"
     }
    ],
    "social_urls": [
@@ -3005,7 +2736,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/p/DgByE_sERl8",
      "platform": "Instagram"
     },
@@ -3025,7 +2756,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/p/DgEDOC6JpDF",
      "platform": "Instagram"
     },
@@ -3045,7 +2776,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/p/DgEM596mDN9",
      "platform": "Instagram"
     },
@@ -3065,7 +2796,7 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/reel/DgCHkNLzcr3",
      "platform": "Instagram"
     },
@@ -3149,21 +2880,21 @@
      "thumb": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 354108,
+     "views": 354196,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 354108,
+    "views": 354196,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 261
+   "score": 249
   },
   {
    "key": "t:mu:Trajes típicos:2026-11-21",
@@ -3177,7 +2908,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T11:58:24.187303+00:00",
-   "start": "2026-11-23T02:37:00+00:00",
+   "start": "2026-11-23T02:47:00+00:00",
    "last_activity": "2026-11-23T23:33:21+00:00",
    "item_ids": [
     "8cf0fc6990ed16",
@@ -3221,8 +2952,7 @@
     "ed1a50e75b8703",
     "01a6c68fdce28f",
     "4b0a4d91aa16f1",
-    "40a1b5b181aaa1",
-    "a07005bdad1698"
+    "40a1b5b181aaa1"
    ],
    "sources": [
     "2001online",
@@ -3236,7 +2966,6 @@
     "Diario Correo",
     "Diario Las Américas",
     "EMOL",
-    "El Financiero",
     "El Informador",
     "El Universo",
     "Fashion Times UK",
@@ -3258,8 +2987,8 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 43,
-   "n_sources": 32,
+   "n_items": 42,
+   "n_sources": 31,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
@@ -3516,10 +3245,6 @@
     }
    ],
    "social_urls": [
-    "https://www.instagram.com/p/DROs-XZE8xP",
-    "https://www.instagram.com/p/Der2h_iik-E",
-    "https://www.instagram.com/p/DgBtx8oO79V",
-    "https://www.instagram.com/reel/DgBtx8oO79V",
     "https://www.instagram.com/reel/DgF6qFrhEyU",
     "https://www.instagram.com/reel/DgF_BPzByah",
     "https://www.youtube.com/watch?v=GntH78xRlX4",
@@ -3573,26 +3298,6 @@
    "extra_at": "2026-11-24T11:58:24.187303+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/DROs-XZE8xP",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/Der2h_iik-E",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/p/DgBtx8oO79V",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-24T11:58:24.187303+00:00",
-     "url": "https://www.instagram.com/reel/DgBtx8oO79V",
-     "platform": "Instagram"
-    },
-    {
      "fetched": "2026-11-24T11:42:23.743446+00:00",
      "url": "https://www.instagram.com/reel/DgF6qFrhEyU",
      "platform": "Instagram"
@@ -3609,7 +3314,7 @@
      "thumb": "https://i.ytimg.com/vi/GntH78xRlX4/hqdefault.jpg"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.youtube.com/watch?v=sH1MV7WNoYs",
      "platform": "YouTube",
      "thumb": "https://i.ytimg.com/vi/sH1MV7WNoYs/hqdefault.jpg"
@@ -3621,7 +3326,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 110
+   "score": 107
   },
   {
    "key": "t:mi:Preliminar:2026-11-21",
@@ -4103,8 +3808,7 @@
     "0a3d3366338ae3",
     "c878a195587422",
     "95863f43195e6f",
-    "27e791243c5c31",
-    "37ce0ddfcdf2e3"
+    "27e791243c5c31"
    ],
    "sources": [
     "24 horas on MSN",
@@ -4120,27 +3824,11 @@
     "YouTube · Telemundo Entretenimiento",
     "www.laprensa.hn"
    ],
-   "n_items": 19,
+   "n_items": 18,
    "n_sources": 12,
-   "videos": [
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 88866,
-     "ago": "hace 1 día",
-     "official": false
-    }
-   ],
-   "views_total": 88866,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
     {
      "url": "https://www.hola.com/us/horizon/landscape/1200/81a1525ceada-img8892.jpg",
      "page": "https://www.hola.com/us/celebrities/20261123936665/miss-venezuela-mom-andreina-goetz-celebrating-dominican-team/",
@@ -4377,6 +4065,13 @@
      "via": "Bing Imágenes",
      "credit": "es.slideshare.net",
      "alt": "https://ts2.mm.bing.net/th?id=OIP.acMf8vgmHPZh_XskJhmb0QAAAA&pid=15.1"
+    },
+    {
+     "url": "https://minio.scielo.br/documentstore/2317-6431/Kz3cfrqfpW3W7sMWkqH8xCN/f0cc4fd98c369e8c7b1c900b30c6b2aa01f0dd79.jpg",
+     "page": "https://www.scielo.br/j/acr/a/Kz3cfrqfpW3W7sMWkqH8xCN/?format=html",
+     "via": "Bing Imágenes",
+     "credit": "scielo.br",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.8yR-20fHEoaXIlJXwv7aMgHaHT&pid=15.1"
     }
    ],
    "social_urls": [
@@ -4479,26 +4174,26 @@
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/reel/DgEcIzbuFCk",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.youtube.com/watch?v=sqiMbXhYbNw",
      "platform": "YouTube",
-     "views": 354108,
+     "views": 354196,
      "title": "🔴LIVE | MISS UNIVERSE 2026 - PRELIMINARY COMPETITION",
      "thumb": "https://i.ytimg.com/vi/sqiMbXhYbNw/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 354108,
+    "views": 354196,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 50
+   "score": 45
   },
   {
    "key": "t:me:Votación:2026-11-21",
@@ -4636,12 +4331,12 @@
    "extra_at": "2026-11-24T10:06:23.708516+00:00",
    "social": [
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/p/DewuFMYMoLR",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-24T11:26:23.548876+00:00",
+     "fetched": "2026-11-24T12:30:23.826343+00:00",
      "url": "https://www.instagram.com/reel/Df6m8TGu8hk",
      "platform": "Instagram"
     }
@@ -5486,10 +5181,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
+    "5ae990338c0355",
     "91536525a60d1e",
     "f93f65873738a3",
     "80850e228412aa",
@@ -5549,6 +5245,7 @@
     "3eaef9012b303c",
     "98293860e468f1",
     "4114f84eeef3ee",
+    "17e8d2e79e2e0a",
     "4323f66acec0c8",
     "1c7b3fe4a98499",
     "31e95ee4d67b06",
@@ -5572,12 +5269,7 @@
     "d9f7ba013c0805",
     "040bfcba907828",
     "4b0a4d91aa16f1",
-    "9bb50bc2d1eb3a",
-    "10b96b587aca9b",
-    "bf18ddd33141aa",
-    "479865ad166d59",
-    "37ce0ddfcdf2e3",
-    "48e93213602e8c"
+    "9bb50bc2d1eb3a"
    ],
    "sources": [
     ".: El Sol de Margarita :.",
@@ -5610,12 +5302,10 @@
     "Howl.Link",
     "Infobae",
     "Instagram",
-    "Interaksyon",
     "LA PRENSA",
     "La Teja",
     "La Verdad - La Verdad",
     "Listín Diario",
-    "Mega.cl",
     "Meganoticias",
     "Metro.Style",
     "Mi Diario",
@@ -5624,6 +5314,7 @@
     "Noticia al Dia",
     "Panamá América",
     "RPP",
+    "RPP Noticias",
     "Telemetro",
     "Telemundo",
     "The Virgin Islands Consortium",
@@ -5635,8 +5326,8 @@
     "www.laprensa.hn",
     "Últimas Noticias"
    ],
-   "n_items": 88,
-   "n_sources": 54,
+   "n_items": 85,
+   "n_sources": 53,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -5668,7 +5359,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 199
+   "score": 194
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -5679,7 +5370,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -5797,7 +5488,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -5888,7 +5579,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -6119,7 +5810,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -6350,7 +6041,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-24T12:22:23.452421+00:00",
+   "first_seen": "2026-11-24T12:30:23.826343+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
