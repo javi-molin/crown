@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:31:16.003259+00:00",
+ "updated": "2026-11-25T20:39:15.361638+00:00",
  "count": 18,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -124,6 +124,7 @@
     "015e925193b3af",
     "a283927f6319cd",
     "f1be78561423ab",
+    "bf25f419609a66",
     "c0c3d990977290",
     "da046347494dd2"
    ],
@@ -133,21 +134,22 @@
     "GMA Network",
     "Inquirer.net",
     "LinkedIn",
+    "Primicias",
     "The Manila Times"
    ],
-   "n_items": 10,
-   "n_sources": 6,
+   "n_items": 11,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 4444,
+     "views": 4452,
      "ago": "hace 10 días",
      "official": false
     }
    ],
-   "views_total": 4444,
+   "views_total": 4452,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -155,6 +157,12 @@
      "page": "https://www.youtube.com/watch?v=sBc2cmDSTWE",
      "via": "YouTube (miniatura)",
      "credit": "SNOW SIN FILTRO"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.g2o4dCTUbrgBy3ICVpBk3A&pid=News",
+     "page": "https://www.primicias.ec/entretenimiento/tv-streaming/ecuador-mejor-traje-tipico-miss-international-ecuador-gisselle-rosales-137962/",
+     "via": "Bing (miniatura)",
+     "credit": "Primicias"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf/page1-960px-%28Ruby%2C_Jack%29_2-4_Business_and_Financial_Interests_-_January_1964_-_DPLA_-_adfb85f5fc0f59774e62071d1628b29c.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -199,7 +207,9 @@
      "credit": "Department of State. Agency for International Development. Office of Personnel A"
     }
    ],
-   "social_urls": [],
+   "social_urls": [
+    "https://www.instagram.com/p/DgKPYOzqlLM"
+   ],
    "image_query": "Miss International 2026 national costume",
    "extra_images": [
     {
@@ -246,14 +256,20 @@
     }
    ],
    "extra_at": "2026-11-25T18:39:07.238318+00:00",
-   "social": [],
+   "social": [
+    {
+     "fetched": "2026-11-25T20:39:15.361638+00:00",
+     "url": "https://www.instagram.com/p/DgKPYOzqlLM",
+     "platform": "Instagram"
+    }
+   ],
    "social_totals": {
     "views": 0,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 25
+   "score": 28
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -1039,7 +1055,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -1081,8 +1097,7 @@
     "fb535117e901e4",
     "57ebbfcf56e913",
     "85e5e421f6c8c1",
-    "19afd08fd8374d",
-    "59bef1d2b83701"
+    "19afd08fd8374d"
    ],
    "sources": [
     "ABC",
@@ -1102,7 +1117,7 @@
     "Vietnam.vn",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 40,
+   "n_items": 39,
    "n_sources": 16,
    "videos": [],
    "views_total": 0,
@@ -1310,7 +1325,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 75
+   "score": 74
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -1378,209 +1393,12 @@
      "page": "https://www.elnuevodia.com/entretenimiento/farandula/notas/magali-febles-a-la-primera-finalista-de-miss-universe-2026-melissa-nunez-para-mi-eres-una-verdadera-reina/",
      "via": "Bing (miniatura)",
      "credit": "El Nuevo Día"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/RJWGJP/eurasian-red-squirrel-sciurus-vulgaris-in-autumn-forest-in-warm-light-RJWGJP.jpg",
-     "page": "https://www.alamy.com/stock-photo/eurasian-red-squirrel.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.Hc0ZnPtOHzibVXpzrlFJtQHaL4&pid=15.1"
-    },
-    {
-     "url": "https://images.squarespace-cdn.com/content/v1/61d5f818cbd819574be1c150/491eb453-39cd-4a77-979c-6a8b16dbb9a2/eichhoernchen-DSC07676.jpg",
-     "page": "https://www.wildenatur.com/en/mammals/eurasian-red-squirrel-sciurus-vulgaris",
-     "via": "Bing Imágenes",
-     "credit": "wildenatur.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.DRPpG_2571SgEsUQvLw2gAHaE8&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/X6RX48/eurasian-red-squirrel-sciurus-vulgaris-X6RX48.jpg",
-     "page": "https://www.alamy.com/stock-photo/eurasian-red-squirrel-sciurus-vulgaris.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.FraTs-xviGEcxRyxJ8ldCQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2BEXY2F/eurasian-red-squirrel-sciurus-vulgaris-adult-sitting-on-the-ground-germany-2BEXY2F.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-adult-sitting-on-the-ground-germany-image353404535.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.r3rv466m-L9kp3YckUsb4gHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2PN5KDP/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-2PN5KDP.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-image546554226.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.hsTpXEN-ISvcb0uh-DopVQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2WAPJ3X/eurasian-red-squirrel-sciurus-vulgaris-perched-in-a-tree-eating-a-nut-perthshire-scotland-2WAPJ3X.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-perched-in-a-tree-eating-a-nut-perthshire-scotland-image591796238.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.NcG4yhiuYFK1XROhTlbHLQHaGj&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/T6E16W/eurasian-red-squirrel-T6E16W.jpg",
-     "page": "https://www.alamy.com/stock-photo/red-squirrel-eurasian-red-squirrel.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.irKuTeXkxkUC8LRFmFfzkQHaGD&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/eurasian-red-squirrel-its-natural-habitat-denmark-eurasian-red-squirrel-sciurus-vulgaris-178231536.jpg",
-     "page": "https://www.dreamstime.com/eurasian-red-squirrel-sciurus-vulgaris-its-natural-habitat-denmark-image162257137",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.gwImKs8C2yQzsUuLhNWvMQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/E72GRD/eurasian-red-squirrel-sciurus-vulgaris-E72GRD.jpg",
-     "page": "https://www.alamy.com/stock-photo-eurasian-red-squirrel-sciurus-vulgaris-73201169.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.explicit.bing.net/th?id=OIP.P4LmCqJ5bMXW5ThTMHEkHQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/DXMNE8/eurasian-red-squirrel-sciurus-vulgaris-DXMNE8.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-image68068064.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JFK4pvy9_uZMr1cHQZExwQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2R2Y6DN/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-moulting-coat-sitting-on-fallen-pine-2R2Y6DN.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-moulting-coat-sitting-on-fallen-pine-image552558881.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.luNUzxUPZxIuzjsURi3DgQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/H8A53E/eurasian-red-squirrel-sciurus-vulgaris-eating-veluwe-netherlands-H8A53E.jpg",
-     "page": "https://www.alamy.com/stock-photo-eurasian-red-squirrel-sciurus-vulgaris-eating-veluwe-netherlands-125613362.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.T4PdJJHB2ZEsFgCQemNRbAHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2PN5KEB/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-2PN5KEB.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-image546554243.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.tiRO4b-TphJskAjaGOwPPgHaFc&pid=15.1"
-    },
-    {
-     "url": "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/CNR6W5/european-red-squirrel-eurasian-red-squirrel-sciurus-vulgaris-on-a-CNR6W5.jpg",
-     "page": "https://www.alamy.com/stock-photo-european-red-squirrel-eurasian-red-squirrel-sciurus-vulgaris-on-a-47838817.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.PFHab4EPDHZSUJjmDm0VSgHaFc&pid=15.1"
     }
    ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Beauty at the Beach Caribe Hilton",
-   "extra_images": [
-    {
-     "url": "https://c8.alamy.com/comp/RJWGJP/eurasian-red-squirrel-sciurus-vulgaris-in-autumn-forest-in-warm-light-RJWGJP.jpg",
-     "page": "https://www.alamy.com/stock-photo/eurasian-red-squirrel.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.Hc0ZnPtOHzibVXpzrlFJtQHaL4&pid=15.1"
-    },
-    {
-     "url": "https://images.squarespace-cdn.com/content/v1/61d5f818cbd819574be1c150/491eb453-39cd-4a77-979c-6a8b16dbb9a2/eichhoernchen-DSC07676.jpg",
-     "page": "https://www.wildenatur.com/en/mammals/eurasian-red-squirrel-sciurus-vulgaris",
-     "via": "Bing Imágenes",
-     "credit": "wildenatur.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.DRPpG_2571SgEsUQvLw2gAHaE8&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/X6RX48/eurasian-red-squirrel-sciurus-vulgaris-X6RX48.jpg",
-     "page": "https://www.alamy.com/stock-photo/eurasian-red-squirrel-sciurus-vulgaris.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.FraTs-xviGEcxRyxJ8ldCQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2BEXY2F/eurasian-red-squirrel-sciurus-vulgaris-adult-sitting-on-the-ground-germany-2BEXY2F.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-adult-sitting-on-the-ground-germany-image353404535.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.r3rv466m-L9kp3YckUsb4gHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2PN5KDP/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-2PN5KDP.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-image546554226.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.hsTpXEN-ISvcb0uh-DopVQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2WAPJ3X/eurasian-red-squirrel-sciurus-vulgaris-perched-in-a-tree-eating-a-nut-perthshire-scotland-2WAPJ3X.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-perched-in-a-tree-eating-a-nut-perthshire-scotland-image591796238.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.NcG4yhiuYFK1XROhTlbHLQHaGj&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/T6E16W/eurasian-red-squirrel-T6E16W.jpg",
-     "page": "https://www.alamy.com/stock-photo/red-squirrel-eurasian-red-squirrel.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.irKuTeXkxkUC8LRFmFfzkQHaGD&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/eurasian-red-squirrel-its-natural-habitat-denmark-eurasian-red-squirrel-sciurus-vulgaris-178231536.jpg",
-     "page": "https://www.dreamstime.com/eurasian-red-squirrel-sciurus-vulgaris-its-natural-habitat-denmark-image162257137",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.gwImKs8C2yQzsUuLhNWvMQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/E72GRD/eurasian-red-squirrel-sciurus-vulgaris-E72GRD.jpg",
-     "page": "https://www.alamy.com/stock-photo-eurasian-red-squirrel-sciurus-vulgaris-73201169.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.explicit.bing.net/th?id=OIP.P4LmCqJ5bMXW5ThTMHEkHQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/DXMNE8/eurasian-red-squirrel-sciurus-vulgaris-DXMNE8.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-image68068064.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.JFK4pvy9_uZMr1cHQZExwQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2R2Y6DN/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-moulting-coat-sitting-on-fallen-pine-2R2Y6DN.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-moulting-coat-sitting-on-fallen-pine-image552558881.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts1.explicit.bing.net/th?id=OIP.luNUzxUPZxIuzjsURi3DgQHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/H8A53E/eurasian-red-squirrel-sciurus-vulgaris-eating-veluwe-netherlands-H8A53E.jpg",
-     "page": "https://www.alamy.com/stock-photo-eurasian-red-squirrel-sciurus-vulgaris-eating-veluwe-netherlands-125613362.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.T4PdJJHB2ZEsFgCQemNRbAHaFc&pid=15.1"
-    },
-    {
-     "url": "https://c8.alamy.com/comp/2PN5KEB/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-2PN5KEB.jpg",
-     "page": "https://www.alamy.com/eurasian-red-squirrel-sciurus-vulgaris-squirrels-rodents-mammals-animals-eurasian-red-squirrel-adult-standing-on-garden-lawn-newlands-image546554243.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.tiRO4b-TphJskAjaGOwPPgHaFc&pid=15.1"
-    },
-    {
-     "url": "https://www.alamy.com/aggregator-api/download?url=https://c8.alamy.com/comp/CNR6W5/european-red-squirrel-eurasian-red-squirrel-sciurus-vulgaris-on-a-CNR6W5.jpg",
-     "page": "https://www.alamy.com/stock-photo-european-red-squirrel-eurasian-red-squirrel-sciurus-vulgaris-on-a-47838817.html",
-     "via": "Bing Imágenes",
-     "credit": "alamy.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.PFHab4EPDHZSUJjmDm0VSgHaFc&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-25T17:35:07.114044+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-25T20:39:15.361638+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1599,7 +1417,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -1632,6 +1450,7 @@
     "041d076a54ee38",
     "014e8563e1c1f8",
     "37f829121188ac",
+    "6c7d9307355e48",
     "dcbb1ffdb1d72b",
     "a5d91c44f1c2ee",
     "1c527f646d4995",
@@ -1721,8 +1540,7 @@
     "02e1b630c77a83",
     "b98be8f880de4f",
     "6a6589f15ebc67",
-    "9039e538da0e42",
-    "50bafa7fece922"
+    "9039e538da0e42"
    ],
    "sources": [
     "24 horas",
@@ -1789,7 +1607,6 @@
     "Meganoticias",
     "Metro.Style",
     "Milenio on MSN",
-    "Minuto60",
     "MinutoUno",
     "Modesto Bee",
     "NJ.com",
@@ -1849,7 +1666,7 @@
     "شبكة تواصل الإخبارية"
    ],
    "n_items": 170,
-   "n_sources": 122,
+   "n_sources": 121,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2049,7 +1866,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 417
+   "score": 415
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2060,7 +1877,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2295,17 +2112,19 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
-    "5a965aaadb62a3"
+    "5a965aaadb62a3",
+    "bf25f419609a66"
    ],
    "sources": [
-    "Hindustan Times"
+    "Hindustan Times",
+    "Primicias"
    ],
-   "n_items": 1,
-   "n_sources": 1,
+   "n_items": 2,
+   "n_sources": 2,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2337,7 +2156,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 6
+   "score": 9
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -2348,7 +2167,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2361,7 +2180,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
    "extra_images": [],
-   "extra_at": "2026-11-25T20:31:16.003259+00:00",
+   "extra_at": "2026-11-25T20:39:15.361638+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -2381,7 +2200,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2430,7 +2249,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -2549,7 +2368,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T20:31:16.003259+00:00",
+   "first_seen": "2026-11-25T20:39:15.361638+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
