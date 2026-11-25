@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:31:06.841750+00:00",
+ "updated": "2026-11-25T16:39:06.733095+00:00",
  "count": 16,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -428,21 +428,20 @@
    "score": 23
   },
   {
-   "key": "p:traje de gala",
-   "id": "p-traje-de-gala-7e6bb",
-   "name": "Traje De Gala",
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
    "contest": "mu",
-   "kind": "oficial",
+   "kind": "detectado",
    "labels": [
     "Gala / cena"
    ],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:42:49.725692+00:00",
-   "start": "2026-11-25T03:37:16+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
+   "start": "2026-11-25T04:20:00+00:00",
    "last_activity": "2026-11-25T12:09:33+00:00",
    "item_ids": [
-    "658f8c4205e0fd",
     "65ce8ff08fc5d9",
     "177d2940b1b90e",
     "634e09a5962e8d",
@@ -458,37 +457,13 @@
     "Milenio on MSN",
     "Minuto60",
     "Telemedellín",
-    "YouTube · Telemundo Entretenimiento",
     "meridiano"
    ],
-   "n_items": 8,
-   "n_sources": 8,
-   "videos": [
-    {
-     "vid": "quLHTBghoEw",
-     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
-     "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 163943,
-     "ago": "hace 2 días",
-     "official": false
-    }
-   ],
-   "views_total": 163943,
+   "n_items": 7,
+   "n_sources": 7,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento y Telemundo"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/7WQ6C5jjjC8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/7WQ6C5jjjC8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=7WQ6C5jjjC8",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
     {
      "url": "https://pxcdn.meridiano.net/112026/1795616750875.jpg?&cw=1200&ch=630",
      "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
@@ -562,100 +537,30 @@
      "credit": "EL TERRITORIO"
     },
     {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traje_de_gala_de_Deborah_Carthy-Deu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Deborah_Carthy-Deu.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Traje_de_gala_de_Martha_Jussara_da_Costa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Martha_Jussara_da_Costa.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Traje_de_gala_de_Paola_Ruggeri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Paola_Ruggeri.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
+     "url": "https://es-static.z-dn.net/files/d0b/51d02921d7d11b51169a951116142403.jpeg",
+     "page": "https://brainly.lat/tarea/65876155",
+     "via": "Bing Imágenes",
+     "credit": "brainly.lat",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y-sdeoNcK7gX481B_MjhcAAAAA&pid=15.1"
     }
    ],
    "social_urls": [
     "https://www.youtube.com/watch?v=cQsOEA19YkE"
    ],
-   "image_query": "Miss Universe 2026 Traje De Gala",
+   "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [
     {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traje_de_gala_de_Deborah_Carthy-Deu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Deborah_Carthy-Deu.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Traje_de_gala_de_Martha_Jussara_da_Costa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Martha_Jussara_da_Costa.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Traje_de_gala_de_Paola_Ruggeri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Paola_Ruggeri.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
-    },
-    {
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-     "page": "https://commons.wikimedia.org/wiki/File:Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "ChatGPT"
+     "url": "https://es-static.z-dn.net/files/d0b/51d02921d7d11b51169a951116142403.jpeg",
+     "page": "https://brainly.lat/tarea/65876155",
+     "via": "Bing Imágenes",
+     "credit": "brainly.lat",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Y-sdeoNcK7gX481B_MjhcAAAAA&pid=15.1"
     }
    ],
-   "extra_at": "2026-11-25T15:59:06.289635+00:00",
+   "extra_at": "2026-11-25T16:39:06.733095+00:00",
    "social": [
     {
-     "fetched": "2026-11-25T15:35:06.758147+00:00",
+     "fetched": "2026-11-25T16:39:06.733095+00:00",
      "url": "https://www.youtube.com/watch?v=cQsOEA19YkE",
      "platform": "YouTube",
      "error": "HTTP Error 429: Too Many Requests"
@@ -667,7 +572,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 35
+   "score": 21
   },
   {
    "key": "seed:mi-natcos",
@@ -814,10 +719,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
+    "627bb542d605d9",
     "0752ce178a4eb5",
     "54920e590455da",
     "df694b1d989e61",
@@ -856,6 +762,7 @@
     "59bef1d2b83701"
    ],
    "sources": [
+    "ABC",
     "Facebook",
     "GMA Network",
     "Inquirer.net",
@@ -871,15 +778,101 @@
     "The Manila Times",
     "Vietnam.vn"
    ],
-   "n_items": 36,
-   "n_sources": 14,
+   "n_items": 37,
+   "n_sources": 15,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://www.vsun.es/pics/2024/01/17/dibujos-de-animales-invertebrados-para-colorear-2.jpg",
+     "page": "https://www.vsun.es/dibujos-de-animales-invertebrados-para-colorear/",
+     "via": "Bing Imágenes",
+     "credit": "vsun.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.K8S-v4CgDPT-rZMqCbn5sAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/06/86/3f/06863f931491cb9c2558eb619b742bd5.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/animales-invertebrados-para-colorear/909149689608/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.IBzg-RktywQbAC8KQlf3lgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/371275565/original/690871b412/1?v=1",
+     "page": "https://es.scribd.com/document/371275565/Animales-Invertebrados",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.N_pP56EBQtpfQ1mK5dE3dwHaFP&pid=15.1"
+    },
+    {
+     "url": "http://3.bp.blogspot.com/-QVe_ZD-7gMY/VGeaI3jaYGI/AAAAAAAAC5E/5i3uy78Q8GA/s1600/invertebrados-dibujos.jpg",
+     "page": "http://maestrascuela.blogspot.com/2014/",
+     "via": "Bing Imágenes",
+     "credit": "maestrascuela.blogspot.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.2bCUKlUlwplpK8Qve1ecwwHaLz&pid=15.1"
+    },
+    {
+     "url": "https://www.vsun.es/pics/2024/01/17/dibujos-de-animales-invertebrados-para-colorear-1.jpg",
+     "page": "https://www.vsun.es/dibujos-de-animales-invertebrados-para-colorear/",
+     "via": "Bing Imágenes",
+     "credit": "vsun.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.b7C_Ts9VNDYdprPWqjVVoQHaMM&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/d0/87/06/d08706cf3d7180e36cf286af6743f8c7.png",
+     "page": "https://jaylenepiyo.blogspot.com/2022/05/clasificacion-animales-invertebrados.html",
+     "via": "Bing Imágenes",
+     "credit": "jaylenepiyo.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Bqex2JlBLaLhc7cbxKe6eQHaI6&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss International 2026 FINAL (Final Gala) — hora por confirmar",
-   "extra_images": [],
-   "extra_at": "2026-11-25T16:31:06.841750+00:00",
+   "extra_images": [
+    {
+     "url": "https://www.vsun.es/pics/2024/01/17/dibujos-de-animales-invertebrados-para-colorear-2.jpg",
+     "page": "https://www.vsun.es/dibujos-de-animales-invertebrados-para-colorear/",
+     "via": "Bing Imágenes",
+     "credit": "vsun.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.K8S-v4CgDPT-rZMqCbn5sAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/474x/06/86/3f/06863f931491cb9c2558eb619b742bd5.jpg?nii=t",
+     "page": "https://es.pinterest.com/ideas/animales-invertebrados-para-colorear/909149689608/",
+     "via": "Bing Imágenes",
+     "credit": "es.pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.IBzg-RktywQbAC8KQlf3lgAAAA&pid=15.1"
+    },
+    {
+     "url": "https://imgv2-2-f.scribdassets.com/img/document/371275565/original/690871b412/1?v=1",
+     "page": "https://es.scribd.com/document/371275565/Animales-Invertebrados",
+     "via": "Bing Imágenes",
+     "credit": "es.scribd.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.N_pP56EBQtpfQ1mK5dE3dwHaFP&pid=15.1"
+    },
+    {
+     "url": "http://3.bp.blogspot.com/-QVe_ZD-7gMY/VGeaI3jaYGI/AAAAAAAAC5E/5i3uy78Q8GA/s1600/invertebrados-dibujos.jpg",
+     "page": "http://maestrascuela.blogspot.com/2014/",
+     "via": "Bing Imágenes",
+     "credit": "maestrascuela.blogspot.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.2bCUKlUlwplpK8Qve1ecwwHaLz&pid=15.1"
+    },
+    {
+     "url": "https://www.vsun.es/pics/2024/01/17/dibujos-de-animales-invertebrados-para-colorear-1.jpg",
+     "page": "https://www.vsun.es/dibujos-de-animales-invertebrados-para-colorear/",
+     "via": "Bing Imágenes",
+     "credit": "vsun.es",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.b7C_Ts9VNDYdprPWqjVVoQHaMM&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/d0/87/06/d08706cf3d7180e36cf286af6743f8c7.png",
+     "page": "https://jaylenepiyo.blogspot.com/2022/05/clasificacion-animales-invertebrados.html",
+     "via": "Bing Imágenes",
+     "credit": "jaylenepiyo.blogspot.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.Bqex2JlBLaLhc7cbxKe6eQHaI6&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T16:39:06.733095+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -888,7 +881,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 67
+   "score": 70
   },
   {
    "key": "p:final competition show",
@@ -985,10 +978,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "837c68da41426e",
     "de770c8a84524f",
     "ec0ad93a22bedf",
     "0c4fd4f457f145",
@@ -1046,6 +1040,7 @@
     "947424f16ba7ea",
     "e5d4df2a295cbc",
     "c9190d3ca58708",
+    "153bf384ea7871",
     "03b1b7ec005d79",
     "864e8a237e9e56",
     "57b0a754833a2a",
@@ -1106,9 +1101,7 @@
     "92f4f439148136",
     "93c325e5f16031",
     "75d9c8d362f3b8",
-    "bff8854dbc4600",
-    "ef103db32d101e",
-    "4e492696af263a"
+    "bff8854dbc4600"
    ],
    "sources": [
     "24 horas",
@@ -1152,7 +1145,6 @@
     "Gestión",
     "Grice Connect",
     "HOLA",
-    "HolaNews",
     "IMDb",
     "IOL",
     "Infobae",
@@ -1179,9 +1171,9 @@
     "NTN24",
     "NZ Herald",
     "News9Live",
-    "Northwest Ontario News",
     "Notifalcon",
     "PEP.ph",
+    "Panay News",
     "Philstar Life",
     "Philstar.com",
     "Plataforma Media",
@@ -1199,7 +1191,6 @@
     "SILive.com",
     "Sacramento Bee",
     "Saudi Gazette",
-    "Soy Carmín",
     "SunStar",
     "Syracuse.com",
     "TN",
@@ -1215,6 +1206,7 @@
     "The Washington Post",
     "TimminsToday.com",
     "Todo Noticias",
+    "USA TODAY",
     "USA Today",
     "UkrMedia News",
     "Univision",
@@ -1228,8 +1220,8 @@
     "Ámbito Financiero",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 203,
-   "n_sources": 116,
+   "n_items": 202,
+   "n_sources": 115,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1261,7 +1253,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 438
+   "score": 435
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -1272,7 +1264,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -1479,7 +1471,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -1498,7 +1490,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [],
-   "extra_at": "2026-11-25T16:31:06.841750+00:00",
+   "extra_at": "2026-11-25T16:39:06.733095+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1518,7 +1510,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -1567,7 +1559,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -1616,7 +1608,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -1629,7 +1621,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-25T16:31:06.841750+00:00",
+   "extra_at": "2026-11-25T16:39:06.733095+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1649,7 +1641,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00",
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
