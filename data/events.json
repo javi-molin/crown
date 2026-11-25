@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T03:34:49.559844+00:00",
+ "updated": "2026-11-25T03:42:49.725692+00:00",
  "count": 22,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,22 +110,20 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
     "1d0e9b516c1c96",
     "e814fbfaefff1d",
-    "e18907c86261d5",
-    "95adde7bb462cb"
+    "e18907c86261d5"
    ],
    "sources": [
     "Facebook",
-    "Instagram",
     "Meridiano.net"
    ],
-   "n_items": 4,
-   "n_sources": 3,
+   "n_items": 3,
+   "n_sources": 2,
    "videos": [],
    "views_total": 0,
    "images": [],
@@ -141,7 +139,178 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 13
+   "score": 10
+  },
+  {
+   "key": "p:traje de gala",
+   "id": "p-traje-de-gala-7e6bb",
+   "name": "Traje De Gala",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
+   "start": "2026-11-24T22:12:09+00:00",
+   "last_activity": "2026-11-25T03:37:16+00:00",
+   "item_ids": [
+    "658f8c4205e0fd",
+    "402cf8320524ee",
+    "981cd5c0d98bff",
+    "2651ffbde29c05",
+    "506d210bb0b245",
+    "2dc17aa2e007e9",
+    "160fe5fa678c8a",
+    "47cca06a7ed108",
+    "ad09194edea0a4",
+    "bf6194a75a7438"
+   ],
+   "sources": [
+    "AS Colombia",
+    "CiberCuba",
+    "El Universo",
+    "Howl.Link",
+    "Infobae",
+    "Mega.cl",
+    "YouTube · Telemundo Entretenimiento"
+   ],
+   "n_items": 10,
+   "n_sources": 7,
+   "videos": [
+    {
+     "vid": "quLHTBghoEw",
+     "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
+     "channel": "Telemundo Entretenimiento y Telemundo",
+     "views": 127727,
+     "ago": "hace 2 días",
+     "official": false
+    },
+    {
+     "vid": "7WQ6C5jjjC8",
+     "title": "Miss Universe 2026 TOP 12 en Traje de Gala: Puerto Rico, Venezuela y más | Telemundo Entretenimiento",
+     "channel": "Telemundo Entretenimiento",
+     "views": 166,
+     "likes": 1,
+     "published": "2026-11-25T03:37:16+00:00",
+     "official": true
+    }
+   ],
+   "views_total": 127893,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/7WQ6C5jjjC8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/7WQ6C5jjjC8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=7WQ6C5jjjC8",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
+     "via": "YouTube (miniatura)",
+     "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traje_de_gala_de_Deborah_Carthy-Deu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Deborah_Carthy-Deu.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Traje_de_gala_de_Martha_Jussara_da_Costa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Martha_Jussara_da_Costa.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Traje_de_gala_de_Paola_Ruggeri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Paola_Ruggeri.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 Traje De Gala",
+   "extra_images": [
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traje_de_gala_de_Deborah_Carthy-Deu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Deborah_Carthy-Deu.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_In%C3%A9s_Mar%C3%ADa_Calero.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Traje_de_gala_de_Martha_Jussara_da_Costa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Martha_Jussara_da_Costa.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Traje_de_gala_de_Paola_Ruggeri.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Traje_de_gala_de_Paola_Ruggeri.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vestido_azul_de_B%C3%A1rbara_Palacios_en_Miss_Universo.png",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    },
+    {
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+     "page": "https://commons.wikimedia.org/wiki/File:Vestido_de_Irene_S%C3%A1ez_en_Miss_Universo_1982.jpg",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "ChatGPT"
+    }
+   ],
+   "extra_at": "2026-11-25T03:42:49.725692+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 33
   },
   {
    "key": "p:final night coverage",
@@ -203,7 +372,8 @@
     "ce363ce1b23bf1",
     "b5e7ceda3990e2",
     "9d40ea1c438880",
-    "47c86397449369"
+    "47c86397449369",
+    "61246dda137f1f"
    ],
    "sources": [
     "BKReader",
@@ -223,6 +393,7 @@
     "PelhamToday.ca",
     "Powell River Peak",
     "Richmond News",
+    "Rocky Mountain Outlook",
     "SNNewsWatch.com",
     "SooLeader.com",
     "SooToday.com",
@@ -232,8 +403,8 @@
     "Thunder Bay News - TBNewsWatch.com",
     "TimminsToday.com"
    ],
-   "n_items": 48,
-   "n_sources": 25,
+   "n_items": 49,
+   "n_sources": 26,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -446,7 +617,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 98
+   "score": 101
   },
   {
    "key": "t:mu:Traje de baño:2026-11-24",
@@ -493,8 +664,8 @@
      "vid": "lQcvNPEfkSY",
      "title": "Miss Universe 2026 TOP 30 en traje de baño: Brasil, Puerto Rico y más | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 1585,
-     "likes": 14,
+     "views": 2109,
+     "likes": 23,
      "published": "2026-11-25T02:57:32+00:00",
      "official": true
     },
@@ -502,13 +673,13 @@
      "vid": "yv57oSd06uI",
      "title": "Un momento de fe antes de salir a brillar 🙏 en traje de baño, Miss Ecuador 🇪🇨✨ #MissUniverso",
      "channel": "Telemundo Entretenimiento",
-     "views": 82,
+     "views": 111,
      "likes": 2,
      "published": "2026-11-25T02:48:39+00:00",
      "official": true
     }
    ],
-   "views_total": 1667,
+   "views_total": 2220,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/lQcvNPEfkSY/maxresdefault.jpg",
@@ -792,255 +963,6 @@
    "score": 31
   },
   {
-   "key": "t:mu:Gala / cena:2026-11-24",
-   "id": "t-mu-gala-cena-2026-11-24-8532a",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T12:38:23.782201+00:00",
-   "start": "2026-11-24T22:12:09+00:00",
-   "last_activity": "2026-11-25T03:07:00+00:00",
-   "item_ids": [
-    "402cf8320524ee",
-    "981cd5c0d98bff",
-    "2651ffbde29c05",
-    "506d210bb0b245",
-    "2dc17aa2e007e9",
-    "160fe5fa678c8a",
-    "47cca06a7ed108",
-    "ad09194edea0a4",
-    "bf6194a75a7438"
-   ],
-   "sources": [
-    "AS Colombia",
-    "CiberCuba",
-    "El Universo",
-    "Howl.Link",
-    "Infobae",
-    "Mega.cl"
-   ],
-   "n_items": 9,
-   "n_sources": 6,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://i.pinimg.com/originals/bc/d6/a6/bcd6a607dbeb7d5f16cd9febe7ca1ed0.png",
-     "page": "https://www.pinterest.com/pin/475622410652163971/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Vlu2q7bJVhHW4rPN7DtrkAHaGD&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-8.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.xkbSgwqZ8INIllrH5q8uZAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn.disegnidacoloraremondo.com/2025/05/disegni-da-colorare-Kirby-12.webp",
-     "page": "https://disegnidacoloraremondo.com/es/kirby-da-colorare/",
-     "via": "Bing Imágenes",
-     "credit": "disegnidacoloraremondo.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ZVDaojYaS6eli-8-VjFvrgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://coloringonly.com/es/images/imgcolor/Nintendo-Kirby.jpg",
-     "page": "https://coloringonly.com/es/pages/nintendo-kirby/",
-     "via": "Bing Imágenes",
-     "credit": "coloringonly.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.pu5u297lSbhk8FMqsuHOkQHaKc&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-clasico-7.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.z7HO-GyLUGXVCgtVjqT2GwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.cartonionline.com/dibujosanimados/dibujos-para-colorear/kirby/kirby_04.jpg",
-     "page": "https://tatuaje.kulturaupice.cz/dibujos-de-kirby-star-allies-kirby-super-star-para-colorear-kirby-videojuego-dibujos-animados/17028505198560062370/",
-     "via": "Bing Imágenes",
-     "credit": "tatuaje.kulturaupice.cz",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.MFL36MpjpvaR74xfkn1howHaJe&pid=15.1"
-    },
-    {
-     "url": "https://coloringlib.com/es/images/imgcolor/impresionante-idea-kirby.jpg",
-     "page": "https://coloringlib.com/es/kirby/",
-     "via": "Bing Imágenes",
-     "credit": "coloringlib.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.C79XYNO4iOCxJa5hs4XjgwHaGT&pid=15.1"
-    },
-    {
-     "url": "https://images.dearcoloringpages.com/kirby/v4/kirby-surrounded-by-stars.png",
-     "page": "https://dearcoloringpages.com/es/coloring-pages/c/kirby",
-     "via": "Bing Imágenes",
-     "credit": "dearcoloringpages.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.SXBiAddI7c8Npvil28F-yQHaJb&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ec/67/95/ec679540d0ba2116242d03431e0950cb.jpg",
-     "page": "https://www.pinterest.com/pin/867083734502403608/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.xVpnAQSLc_64v_8F1O4HlAHaKF&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-volando-con-una-estrella-5.webp",
-     "page": "https://colorearw.net/en/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GXE3LmRGBMVdGvMC_S3SwwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn-images.coloringbook.ai/images/c532d3b18383d1c40ec63b48bceccd41.jpg",
-     "page": "https://www.coloringbook.ai/es/kirby",
-     "via": "Bing Imágenes",
-     "credit": "coloringbook.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-UH9-NP-OURqr5rRYBNqNwHaLH&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-2.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.dlJ8YGEfhkTCcw5B-Lqn2gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/be/43/43/be4343f7bab4c8ee9464a6aad4d7a526.jpg",
-     "page": "https://ar.pinterest.com/pin/1127659194196571111/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7wNyjeCVU1Xn1Wd0B6NMkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-clasico-8.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.C2T-TG-pIV-0NITh0BCDFgHaHa&pid=15.1"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://i.pinimg.com/originals/bc/d6/a6/bcd6a607dbeb7d5f16cd9febe7ca1ed0.png",
-     "page": "https://www.pinterest.com/pin/475622410652163971/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.Vlu2q7bJVhHW4rPN7DtrkAHaGD&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-8.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.xkbSgwqZ8INIllrH5q8uZAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn.disegnidacoloraremondo.com/2025/05/disegni-da-colorare-Kirby-12.webp",
-     "page": "https://disegnidacoloraremondo.com/es/kirby-da-colorare/",
-     "via": "Bing Imágenes",
-     "credit": "disegnidacoloraremondo.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.ZVDaojYaS6eli-8-VjFvrgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://coloringonly.com/es/images/imgcolor/Nintendo-Kirby.jpg",
-     "page": "https://coloringonly.com/es/pages/nintendo-kirby/",
-     "via": "Bing Imágenes",
-     "credit": "coloringonly.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.pu5u297lSbhk8FMqsuHOkQHaKc&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-clasico-7.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.z7HO-GyLUGXVCgtVjqT2GwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.cartonionline.com/dibujosanimados/dibujos-para-colorear/kirby/kirby_04.jpg",
-     "page": "https://tatuaje.kulturaupice.cz/dibujos-de-kirby-star-allies-kirby-super-star-para-colorear-kirby-videojuego-dibujos-animados/17028505198560062370/",
-     "via": "Bing Imágenes",
-     "credit": "tatuaje.kulturaupice.cz",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.MFL36MpjpvaR74xfkn1howHaJe&pid=15.1"
-    },
-    {
-     "url": "https://coloringlib.com/es/images/imgcolor/impresionante-idea-kirby.jpg",
-     "page": "https://coloringlib.com/es/kirby/",
-     "via": "Bing Imágenes",
-     "credit": "coloringlib.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.C79XYNO4iOCxJa5hs4XjgwHaGT&pid=15.1"
-    },
-    {
-     "url": "https://images.dearcoloringpages.com/kirby/v4/kirby-surrounded-by-stars.png",
-     "page": "https://dearcoloringpages.com/es/coloring-pages/c/kirby",
-     "via": "Bing Imágenes",
-     "credit": "dearcoloringpages.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.SXBiAddI7c8Npvil28F-yQHaJb&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/ec/67/95/ec679540d0ba2116242d03431e0950cb.jpg",
-     "page": "https://www.pinterest.com/pin/867083734502403608/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.xVpnAQSLc_64v_8F1O4HlAHaKF&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-volando-con-una-estrella-5.webp",
-     "page": "https://colorearw.net/en/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.GXE3LmRGBMVdGvMC_S3SwwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn-images.coloringbook.ai/images/c532d3b18383d1c40ec63b48bceccd41.jpg",
-     "page": "https://www.coloringbook.ai/es/kirby",
-     "via": "Bing Imágenes",
-     "credit": "coloringbook.ai",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.-UH9-NP-OURqr5rRYBNqNwHaLH&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-2.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.dlJ8YGEfhkTCcw5B-Lqn2gHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/be/43/43/be4343f7bab4c8ee9464a6aad4d7a526.jpg",
-     "page": "https://ar.pinterest.com/pin/1127659194196571111/",
-     "via": "Bing Imágenes",
-     "credit": "ar.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7wNyjeCVU1Xn1Wd0B6NMkAHaHa&pid=15.1"
-    },
-    {
-     "url": "https://cdn.colorearw.net/2025/01/Kirby-clasico-8.webp",
-     "page": "https://colorearw.net/kirby-para-colorear/",
-     "via": "Bing Imágenes",
-     "credit": "colorearw.net",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.C2T-TG-pIV-0NITh0BCDFgHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-25T02:46:49.946478+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 21
-  },
-  {
    "key": "p:final full show",
    "id": "p-final-full-show-40fec",
    "name": "Final Full Show",
@@ -1273,23 +1195,17 @@
     "ab04da5894be56",
     "7c900ccfd46b8c",
     "2430edd1981a56",
-    "b8999438f7c7ff",
-    "bda8446993e67a",
-    "6abe24d70237cc",
-    "944756c2f69670"
+    "b8999438f7c7ff"
    ],
    "sources": [
-    "Daily Sun",
     "Diario AS",
     "El Comercio Perú",
     "El Universo",
-    "La Hora",
-    "La Nación",
     "Milenio",
     "Tele Urban"
    ],
-   "n_items": 8,
-   "n_sources": 8,
+   "n_items": 5,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1586,7 +1502,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 27
+   "score": 18
   },
   {
    "key": "p:final competition show",
@@ -1638,25 +1554,9 @@
    ],
    "n_items": 19,
    "n_sources": 13,
-   "videos": [
-    {
-     "vid": "LFHffBsAmdc",
-     "title": "🔴 LIVE MISS UNIVERSE 2026 Final Competition SHOW 👑 | Live Chat & Reactions",
-     "channel": "Bellezaland",
-     "views": 4773,
-     "ago": "",
-     "official": false
-    }
-   ],
-   "views_total": 4773,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/LFHffBsAmdc/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/LFHffBsAmdc/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=LFHffBsAmdc",
-     "via": "YouTube (miniatura)",
-     "credit": "Bellezaland"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/2026-10.hjc-dems-staff-report-epstein-and-trump.pdf/page1-960px-2026-10.hjc-dems-staff-report-epstein-and-trump.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:2026-10.hjc-dems-staff-report-epstein-and-trump.pdf",
@@ -1753,13 +1653,13 @@
      "vid": "S4XeFwA1d0w",
      "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
      "channel": "Miss Universe",
-     "views": 7629572,
+     "views": 7750276,
      "likes": 0,
      "published": "2026-11-25T00:58:39+00:00",
      "official": true
     }
    ],
-   "views_total": 7629572,
+   "views_total": 7750276,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
@@ -1865,7 +1765,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 387
+   "score": 393
   },
   {
    "key": "p:final competition full show live strea",
@@ -2140,12 +2040,12 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 204329,
+     "views": 209404,
      "ago": "Transmitido hace 3 h",
      "official": false
     }
    ],
-   "views_total": 204329,
+   "views_total": 209404,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -2313,11 +2213,27 @@
    "n_sources": 6,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://preview.redd.it/atleast-they-officially-translated-this-line-tsukihime-v0-7mjzq05dunca1.png?width=1080&crop=smart&auto=webp&s=f1b8fb922fcda4a8bc27fdd04d7fe277f1c7be48",
+     "page": "https://www.reddit.com/r/visualnovels/comments/zewlib/fate_stay_night_h_scenes_underrated/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.16d38L4QDgXhbjjVw6OE5AHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Full Show Live Reddit Online",
-   "extra_images": [],
-   "extra_at": "2026-11-25T03:34:49.559844+00:00",
+   "extra_images": [
+    {
+     "url": "https://preview.redd.it/atleast-they-officially-translated-this-line-tsukihime-v0-7mjzq05dunca1.png?width=1080&crop=smart&auto=webp&s=f1b8fb922fcda4a8bc27fdd04d7fe277f1c7be48",
+     "page": "https://www.reddit.com/r/visualnovels/comments/zewlib/fate_stay_night_h_scenes_underrated/",
+     "via": "Bing Imágenes",
+     "credit": "reddit.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.16d38L4QDgXhbjjVw6OE5AHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T03:42:49.725692+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -2336,10 +2252,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "8d062d5c59ed3f",
     "5a2735eaeb2531",
     "f1c0c7f697a7de",
     "660c19bd1415ce",
@@ -2349,6 +2266,7 @@
     "b5e7ceda3990e2",
     "9d40ea1c438880",
     "47c86397449369",
+    "61246dda137f1f",
     "48f95d91da1276",
     "5a6527fa86d2ce",
     "0836382181e764",
@@ -2445,6 +2363,7 @@
     "1f5bde1002b946",
     "f0cb115bb3e422",
     "d03bffb6c69800",
+    "df888e1cc2eba1",
     "108583a7d9ed32",
     "1b0f7306d19a43",
     "65f48284eeec0a",
@@ -2456,10 +2375,7 @@
     "f4e288d7c1abab",
     "ad8db24b2fa921",
     "712dbd7c2e8a41",
-    "0b601a3d87ee3e",
-    "094fcfaa276058",
-    "c9190d3ca58708",
-    "c0906de7ec78d5"
+    "0b601a3d87ee3e"
    ],
    "sources": [
     "24horas",
@@ -2482,9 +2398,7 @@
     "Cochrane Eagle",
     "Cooperativa",
     "Delta Optimist",
-    "Demokratis.co.id",
     "Depor",
-    "Diario El Mundo",
     "El Comercio Perú",
     "El Imparcial",
     "El Informador",
@@ -2502,7 +2416,6 @@
     "Howl.Link",
     "Infobae",
     "Inquirer.net",
-    "La Hora",
     "Latin Times",
     "Mega.cl",
     "Meganoticias",
@@ -2546,7 +2459,6 @@
     "Telemundo Dallas",
     "Telemundo Miami",
     "Telemundo Nueva Inglaterra",
-    "Teletrece",
     "ThoroldToday.ca",
     "Thunder Bay News - TBNewsWatch.com",
     "Times Colonist",
@@ -2559,15 +2471,15 @@
     "tallahatchienews.ms",
     "wapa.tv"
    ],
-   "n_items": 309,
-   "n_sources": 96,
+   "n_items": 302,
+   "n_sources": 92,
    "videos": [],
    "views_total": 0,
    "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 FINAL y coronación",
    "extra_images": [],
-   "extra_at": "2026-11-25T03:34:49.559844+00:00",
+   "extra_at": "2026-11-25T03:42:49.725692+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -2576,7 +2488,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 504
+   "score": 489
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2587,7 +2499,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2644,7 +2556,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -2702,7 +2614,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2751,7 +2663,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2982,7 +2894,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3213,7 +3125,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T03:34:49.559844+00:00",
+   "first_seen": "2026-11-25T03:42:49.725692+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
