@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-25T00:22:41.790953+00:00",
+ "run_at": "2026-11-25T00:30:42.286376+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 85,
    "error": null
   },
   {
@@ -40,14 +40,14 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 48,
+   "items": 50,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
-   "ok": true,
-   "items": 92,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universo favoritas",
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 91,
+   "items": 49,
    "error": null
   },
   {
@@ -69,9 +69,9 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": true,
-   "items": 56,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
@@ -81,39 +81,39 @@
   },
   {
    "source": "Google News · Miss Earth Philippines December",
-   "ok": true,
-   "items": 72,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "source": "Google News · \"Miss Grand International\" 2026",
-   "ok": true,
-   "items": 100,
-   "error": null
-  },
-  {
-   "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
    "items": 46,
    "error": null
   },
   {
-   "source": "Google News · certamen de belleza",
+   "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 98,
+   "items": 66,
    "error": null
   },
   {
-   "source": "Google News · beauty pageant",
+   "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 102,
+   "items": 15,
    "error": null
+  },
+  {
+   "source": "Google News · certamen de belleza",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+   "source": "Google News · beauty pageant",
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "YouTube oficial search:Miss Universe official|miss universe",
@@ -154,7 +154,7 @@
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
    "ok": true,
-   "items": 6,
+   "items": 9,
    "error": null
   },
   {
@@ -171,9 +171,9 @@
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
-   "ok": true,
-   "items": 17,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
@@ -184,14 +184,14 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
-   "ok": true,
-   "items": 19,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
@@ -225,9 +225,9 @@
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 7,
+   "items": 8,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 16,
+   "items": 22,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "3238 imágenes en el espejo"
+   "items": 1,
+   "error": "3239 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 214,
+   "items": 212,
    "error": null
   }
  ],
- "new_items": 1179,
+ "new_items": 771,
  "total_items": 900
 }
