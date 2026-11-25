@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:50:57.589661+00:00",
+ "updated": "2026-11-25T13:58:57.638251+00:00",
  "count": 18,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -677,7 +677,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -944,24 +944,20 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T16:30:34.294552+00:00",
-   "start": "2026-11-25T02:47:00+00:00",
+   "start": "2026-11-25T02:57:32+00:00",
    "last_activity": "2026-11-25T04:30:16+00:00",
    "item_ids": [
     "5950cd93075b47",
     "24a5e1b5095cf0",
     "59d4d1a9963b3e",
-    "02e677f7d57f82",
-    "3e82f495037782",
-    "9b2037120a08b9",
-    "219fb802a84aca"
+    "02e677f7d57f82"
    ],
    "sources": [
     "Facebook",
-    "Infobae",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 7,
-   "n_sources": 3,
+   "n_items": 4,
+   "n_sources": 2,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -969,13 +965,6 @@
      "url": "https://i.ytimg.com/vi/lQcvNPEfkSY/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/lQcvNPEfkSY/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=lQcvNPEfkSY",
-     "via": "YouTube (miniatura)",
-     "credit": "YouTube · Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/yv57oSd06uI/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/yv57oSd06uI/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=yv57oSd06uI",
      "via": "YouTube (miniatura)",
      "credit": "YouTube · Telemundo Entretenimiento"
     },
@@ -1040,7 +1029,7 @@
      "credit": "GrandTV"
     }
    ],
-   "extra_at": "2026-11-25T10:54:57.517635+00:00",
+   "extra_at": "2026-11-25T13:58:57.638251+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1048,7 +1037,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 11
   },
   {
    "key": "p:final competition show",
@@ -1146,7 +1135,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T13:10:58.236376+00:00",
-   "start": "2026-11-25T02:47:58+00:00",
+   "start": "2026-11-25T03:28:08+00:00",
    "last_activity": "2026-11-25T03:29:49+00:00",
    "item_ids": [
     "5a2735eaeb2531",
@@ -1159,15 +1148,12 @@
     "9d40ea1c438880",
     "85dd26d636ea13",
     "47c86397449369",
-    "61246dda137f1f",
-    "8308900f9178e1",
-    "964926713f7c47"
+    "61246dda137f1f"
    ],
    "sources": [
     "BKReader",
     "Cochrane Eagle",
     "Delta Optimist",
-    "FlamboroughToday.com",
     "MidlandToday.ca",
     "Northwest Ontario News",
     "OrilliaMatters.com",
@@ -1177,11 +1163,27 @@
     "StratfordToday.ca",
     "TimminsToday.com"
    ],
-   "n_items": 13,
-   "n_sources": 12,
-   "videos": [],
-   "views_total": 0,
+   "n_items": 11,
+   "n_sources": 11,
+   "videos": [
+    {
+     "vid": "3R1cD985R2E",
+     "title": "🌟 IT'S SHOW TIME - MISS UNIVERSE 2026 - FINAL NIGHT 🌟",
+     "channel": "OMG Pageant & Glamour",
+     "views": 378213,
+     "ago": "hace 12 h",
+     "official": false
+    }
+   ],
+   "views_total": 378213,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/3R1cD985R2E/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/3R1cD985R2E/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=3R1cD985R2E",
+     "via": "YouTube (miniatura)",
+     "credit": "OMG Pageant & Glamour"
+    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/2012_Sep_Criterion.ALLEGORICAL.pdf/page1-960px-2012_Sep_Criterion.ALLEGORICAL.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:2012_Sep_Criterion.ALLEGORICAL.pdf",
@@ -1279,7 +1281,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 37
+   "score": 51
   },
   {
    "key": "p:anniversary grand final full show",
@@ -1313,7 +1315,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Anniversary Grand Final Full Show",
    "extra_images": [],
-   "extra_at": "2026-11-25T13:50:57.589661+00:00",
+   "extra_at": "2026-11-25T13:58:57.638251+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1332,10 +1334,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "c2eb676e03ecd7",
     "3cd930cf985987",
     "77d8ef0100a0ff",
     "bad6ab8c14f91d",
@@ -1382,7 +1385,10 @@
     "45fb193a517e04",
     "d22ffeffb534e9",
     "ab4c4c8f2d7922",
+    "9b7aec17ecbf1e",
+    "870687265c36e8",
     "14287493f70f8a",
+    "108c6ffd00e466",
     "d898398613ee42",
     "e2c8db3b02020c",
     "6397c687d11a8c",
@@ -1451,11 +1457,7 @@
     "3031f20df695b9",
     "557b1a5979a8db",
     "1d7e4dfc52ca1f",
-    "14734a2e48c869",
-    "484b0a6daadc0f",
-    "aefbdf6c14a8e1",
-    "27e88b73d893d6",
-    "9bba0d06a11d2b"
+    "14734a2e48c869"
    ],
    "sources": [
     "24 horas",
@@ -1485,6 +1487,7 @@
     "El Espectador",
     "El Financiero",
     "El Informador",
+    "El Tiempo",
     "El Universo",
     "Emol",
     "Euronews on MSN",
@@ -1501,7 +1504,9 @@
     "Infobae",
     "Inquirer.net",
     "Interaksyon",
+    "Jamaica Gleaner",
     "LOS40",
+    "La Capital",
     "La Cuarta",
     "La Tercera",
     "Latin Times",
@@ -1539,11 +1544,9 @@
     "Richmond News",
     "Rocky Mountain Outlook",
     "SILive.com",
-    "SNNewsWatch.com",
     "Saudi Gazette",
     "SooToday.com",
     "Soy Carmín",
-    "Squamish Chief",
     "StratfordToday.ca",
     "SunStar",
     "Syracuse.com",
@@ -1555,9 +1558,8 @@
     "Teletrece",
     "The Daily Star",
     "The Washington Post",
-    "ThoroldToday.ca",
-    "Times Colonist",
     "TimminsToday.com",
+    "Todo Noticias",
     "TownAndCountryToday.com",
     "USA Today",
     "UkrMedia News",
@@ -1570,7 +1572,7 @@
     "https://estapasando.cl/",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 219,
+   "n_items": 209,
    "n_sources": 111,
    "videos": [],
    "views_total": 0,
@@ -1578,7 +1580,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 FINAL y coronación",
    "extra_images": [],
-   "extra_at": "2026-11-25T13:50:57.589661+00:00",
+   "extra_at": "2026-11-25T13:58:57.638251+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1587,7 +1589,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 444
+   "score": 434
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -1598,7 +1600,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -1801,7 +1803,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -2038,7 +2040,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2087,7 +2089,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2318,7 +2320,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -2367,7 +2369,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T13:50:57.589661+00:00",
+   "first_seen": "2026-11-25T13:58:57.638251+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
