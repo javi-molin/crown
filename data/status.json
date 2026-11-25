@@ -1,28 +1,28 @@
 {
- "run_at": "2026-11-25T20:23:16.085524+00:00",
+ "run_at": "2026-11-25T20:31:16.003259+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universo polémica",
-   "ok": true,
-   "items": 101,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 93,
    "error": null
   },
   {
@@ -33,14 +33,14 @@
   },
   {
    "source": "Google News · Miss Universe national costume gown",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 88,
+   "items": 51,
    "error": null
   },
   {
@@ -58,25 +58,25 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 51,
+   "items": 92,
    "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 58,
+   "items": 87,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 28,
+   "items": 64,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 71,
    "error": null
   },
   {
@@ -183,9 +183,9 @@
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
+   "ok": true,
+   "items": 19,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 3,
+   "items": 2,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 20,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -364,7 +364,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": "3510 imágenes en el espejo"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1125,
+ "new_items": 955,
  "total_items": 900
 }
