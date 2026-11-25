@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:30:49.520464+00:00",
+ "updated": "2026-11-25T04:38:49.825880+00:00",
  "count": 21,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -179,25 +179,15 @@
    ],
    "n_items": 12,
    "n_sources": 8,
-   "videos": [
-    {
-     "vid": "lQcvNPEfkSY",
-     "title": "Miss Universe 2026 TOP 30 en traje de baño: Brasil, Puerto Rico y más | Telemundo Entretenimiento",
-     "channel": "Telemundo Entretenimiento",
-     "views": 4801,
-     "likes": 47,
-     "published": "2026-11-25T02:57:32+00:00",
-     "official": true
-    }
-   ],
-   "views_total": 4801,
+   "videos": [],
+   "views_total": 0,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/lQcvNPEfkSY/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/lQcvNPEfkSY/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=lQcvNPEfkSY",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/yv57oSd06uI/maxresdefault.jpg",
@@ -511,35 +501,26 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 137209,
+     "views": 138761,
      "ago": "hace 2 días",
      "official": false
-    },
-    {
-     "vid": "7WQ6C5jjjC8",
-     "title": "Miss Universe 2026 TOP 12 en Traje de Gala: Puerto Rico, Venezuela y más | Telemundo Entretenimiento",
-     "channel": "Telemundo Entretenimiento",
-     "views": 3758,
-     "likes": 37,
-     "published": "2026-11-25T03:37:16+00:00",
-     "official": true
     }
    ],
-   "views_total": 140967,
+   "views_total": 138761,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/7WQ6C5jjjC8/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/7WQ6C5jjjC8/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=7WQ6C5jjjC8",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/quLHTBghoEw/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=quLHTBghoEw",
      "via": "YouTube (miniatura)",
      "credit": "Telemundo Entretenimiento y Telemundo"
+    },
+    {
+     "url": "https://i.ytimg.com/vi/7WQ6C5jjjC8/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/7WQ6C5jjjC8/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=7WQ6C5jjjC8",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Traje_de_gala_de_Deborah_Carthy-Deu.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -638,7 +619,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 29
+   "score": 28
   },
   {
    "key": "p:completa del desfile de traje",
@@ -671,12 +652,12 @@
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 224175,
+     "views": 226630,
      "ago": "Transmitido hace 4 h",
      "official": false
     }
    ],
-   "views_total": 224175,
+   "views_total": 226630,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -906,7 +887,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T00:14:42.225515+00:00",
-   "start": "2026-11-25T00:05:17+00:00",
+   "start": "2026-11-25T00:39:13+00:00",
    "last_activity": "2026-11-25T03:55:42+00:00",
    "item_ids": [
     "48293705ee9a71",
@@ -926,13 +907,7 @@
     "38716d79b34040",
     "2e55fed5390d1a",
     "24e421ba2546ef",
-    "78ad35a8418866",
-    "f1d352b2c9e99e",
-    "c18658f5433b74",
-    "3722d035a81b72",
-    "67e695b28e3435",
-    "0dde77c240ea24",
-    "5888404fe830c3"
+    "78ad35a8418866"
    ],
    "sources": [
     "BurlingtonToday.com",
@@ -947,13 +922,12 @@
     "SNNewsWatch.com",
     "Squamish Chief",
     "St. Albert Gazette",
-    "ThoroldToday.ca",
     "Thunder Bay News - TBNewsWatch.com",
     "Times Colonist",
     "TimminsToday.com"
    ],
-   "n_items": 24,
-   "n_sources": 16,
+   "n_items": 18,
+   "n_sources": 15,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1026,7 +1000,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 56
+   "score": 48
   },
   {
    "key": "p:final night coverage",
@@ -1404,7 +1378,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T00:14:42.225515+00:00",
-   "start": "2026-11-25T00:03:43+00:00",
+   "start": "2026-11-25T00:14:06+00:00",
    "last_activity": "2026-11-25T02:14:40+00:00",
    "item_ids": [
     "c6f23d89e1de00",
@@ -1424,21 +1398,17 @@
     "f0764a5e7cf33f",
     "fb3e6c782187a4",
     "fc25113c2d288f",
-    "d8962b71f719de",
-    "de7300f50a60ad",
-    "f976e66ba965b9"
+    "d8962b71f719de"
    ],
    "sources": [
     "BKReader",
     "BurlingtonToday.com",
     "Coast Reporter",
     "Cochrane Eagle",
-    "FlamboroughToday.com",
     "Grice Connect",
     "North Shore News",
     "Northwest Ontario News",
     "Pique Newsmagazine",
-    "Rocky Mountain Outlook",
     "SNNewsWatch.com",
     "Squamish Chief",
     "St. Albert Gazette",
@@ -1446,8 +1416,8 @@
     "TimminsToday.com",
     "TownAndCountryToday.com"
    ],
-   "n_items": 20,
-   "n_sources": 16,
+   "n_items": 18,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1660,7 +1630,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 52
+   "score": 46
   },
   {
    "key": "seed:voto-top30",
@@ -2313,18 +2283,22 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "5950cd93075b47",
+    "19aa74d75dae6e",
+    "038cacd7bfbece",
     "3d47caebf35bdf",
     "ccefe819d169d4",
     "53569c2bc1040d",
+    "643207f2e4ca7f",
     "3a85bd697c0f00",
     "c0daee692d3b25",
     "908589f770da7a",
     "c9be8aa5891021",
+    "1af476f462cef6",
     "cd10d1ce7aeef5",
     "eed6068367b350",
     "3031f20df695b9",
@@ -2332,6 +2306,7 @@
     "1d7e4dfc52ca1f",
     "27e88b73d893d6",
     "192677562bf7dd",
+    "179161f82798b7",
     "652b7b292b9219",
     "54f5daa825f31a",
     "b819f77123c2be",
@@ -2375,6 +2350,7 @@
     "8d45b3308af1b4",
     "0836382181e764",
     "9284171ec1bf33",
+    "549328420e7920",
     "dc6a5616db2094",
     "fb5f1be2320f4e",
     "24a5e1b5095cf0",
@@ -2430,13 +2406,7 @@
     "2ff4e09a7bbffe",
     "35127dfcf71bc8",
     "1287aa408f2e70",
-    "856909d254c153",
-    "5432e41a244c12",
-    "d05aabcff1e076",
-    "c96e8ec2755849",
-    "f3c2e032fc2ffc",
-    "aa055cd7ac542b",
-    "f2ffa4689fa238"
+    "856909d254c153"
    ],
    "sources": [
     "24horas",
@@ -2451,6 +2421,7 @@
     "Caracol Radio",
     "Charleston Sun-Sentinel",
     "Chilevisión",
+    "Clarin.com",
     "Coast Reporter",
     "Cochrane Eagle",
     "Cooperativa",
@@ -2483,6 +2454,7 @@
     "MidlandToday.ca",
     "Milenio",
     "MooseJawToday.com",
+    "NDTV",
     "NTN24",
     "Nacionale",
     "New York Post",
@@ -2515,14 +2487,15 @@
     "Univision",
     "Vietnam.vn",
     "Yahoo",
+    "Yahoo News New Zealand",
     "YouTube · Telemundo Entretenimiento",
     "azcentral.com and The Arizona Republic",
     "https://estapasando.cl/",
     "tallahatchienews.ms",
     "wapa.tv"
    ],
-   "n_items": 288,
-   "n_sources": 81,
+   "n_items": 287,
+   "n_sources": 84,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2554,7 +2527,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 453
+   "score": 458
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2565,7 +2538,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2620,7 +2593,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -2677,7 +2650,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2894,7 +2867,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2903,209 +2876,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://www.scified.com/u/RCO233_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.o-pPBr1gfl4xTRPi5ZcTsQHaLS&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/TgtBmlgnNGg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=TgtBmlgnNGg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.liflpDoQTvnjFMpFSkArhgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/3c/fd/f1/3cfdf1576fa65e73d471d6eec81f3d3a.jpg",
-     "page": "https://nl.pinterest.com/pin/aliens-fire-and-stone-4--370984088060244451/",
-     "via": "Bing Imágenes",
-     "credit": "nl.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP._Y2ctjTbV6Ha7RVGvdxxaAAAAA&pid=15.1"
-    },
-    {
-     "url": "https://images.darkhorse.com/covers/600/92/92223.jpg",
-     "page": "https://www.darkhorse.com/comics/92-223/alien-vs-predator-fire-and-stone-4/",
-     "via": "Bing Imágenes",
-     "credit": "darkhorse.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.hg1KpDQTp4zrg9M4l87sNwHaLZ&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO236_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XFcK5IJOdh-f6qoZsPzldAHaLS&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.worthpoint.com/zoom/images3/1/1222/28/prometheus-complete-fire-stone_1_2f49bd1cce3403eb391f9ef78172b773.jpg",
-     "page": "https://www.worthpoint.com/worthopedia/prometheus-complete-fire-stone-4594633967",
-     "via": "Bing Imágenes",
-     "credit": "worthpoint.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.euUrvy3g6cOrNPodADfHFgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/a8/15/35/a81535a96042750b3d250f81603bdbcd.jpg",
-     "page": "https://www.pinterest.com/pin/248190629444931655/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7AdFoEHyX7jwqaWpFDmVOQHaLo&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO234_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.I8K_IMFVfZlCNoJESrNOiQHaLS&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO231_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.1dmLdfWZs41TjvCrI8sENwHaLS&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/JCxld0xEmXc/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=JCxld0xEmXc",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xeqg4dX_7kZ4c4pVoXEOUwHaEK&pid=15.1"
-    },
-    {
-     "url": "http://i1371.photobucket.com/albums/ag299/enchiridion86/923819_1500773896858851_1810489429_n_zps19cc28a5.jpg",
-     "page": "https://alien-covenant.com/topic/38682",
-     "via": "Bing Imágenes",
-     "credit": "alien-covenant.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XtLwjTT4L9ozHVSSiiGgogHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO237_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.p7OdWtYfroZVveRgnhVOsAHaLS&pid=15.1"
-    },
-    {
-     "url": "https://images.darkhorse.com/covers/600/25/25877.jpg",
-     "page": "https://www.darkhorse.com/comics/25-877/aliens-fire-and-stone-1-fiona-staples-variant-cover/",
-     "via": "Bing Imágenes",
-     "credit": "darkhorse.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0abKCf0TJXplCKNghgKSjwHaLZ&pid=15.1"
-    },
-    {
-     "url": "https://freshcomics.s3.amazonaws.com/issue_covers/NOV140054.jpg",
-     "page": "https://freshcomics.us/issue/NOV140054/alien-vs-predator-fire-and-stone-4",
-     "via": "Bing Imágenes",
-     "credit": "freshcomics.us",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.HjQGlDxA5_PA53M7uJPc1gHaLI&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [
-    {
-     "url": "https://www.scified.com/u/RCO233_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.o-pPBr1gfl4xTRPi5ZcTsQHaLS&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/TgtBmlgnNGg/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=TgtBmlgnNGg",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.liflpDoQTvnjFMpFSkArhgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/3c/fd/f1/3cfdf1576fa65e73d471d6eec81f3d3a.jpg",
-     "page": "https://nl.pinterest.com/pin/aliens-fire-and-stone-4--370984088060244451/",
-     "via": "Bing Imágenes",
-     "credit": "nl.pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP._Y2ctjTbV6Ha7RVGvdxxaAAAAA&pid=15.1"
-    },
-    {
-     "url": "https://images.darkhorse.com/covers/600/92/92223.jpg",
-     "page": "https://www.darkhorse.com/comics/92-223/alien-vs-predator-fire-and-stone-4/",
-     "via": "Bing Imágenes",
-     "credit": "darkhorse.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.hg1KpDQTp4zrg9M4l87sNwHaLZ&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO236_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XFcK5IJOdh-f6qoZsPzldAHaLS&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.worthpoint.com/zoom/images3/1/1222/28/prometheus-complete-fire-stone_1_2f49bd1cce3403eb391f9ef78172b773.jpg",
-     "page": "https://www.worthpoint.com/worthopedia/prometheus-complete-fire-stone-4594633967",
-     "via": "Bing Imágenes",
-     "credit": "worthpoint.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.euUrvy3g6cOrNPodADfHFgHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/a8/15/35/a81535a96042750b3d250f81603bdbcd.jpg",
-     "page": "https://www.pinterest.com/pin/248190629444931655/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.7AdFoEHyX7jwqaWpFDmVOQHaLo&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO234_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.I8K_IMFVfZlCNoJESrNOiQHaLS&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO231_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.1dmLdfWZs41TjvCrI8sENwHaLS&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/JCxld0xEmXc/maxresdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=JCxld0xEmXc",
-     "via": "Bing Imágenes",
-     "credit": "youtube.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.Xeqg4dX_7kZ4c4pVoXEOUwHaEK&pid=15.1"
-    },
-    {
-     "url": "http://i1371.photobucket.com/albums/ag299/enchiridion86/923819_1500773896858851_1810489429_n_zps19cc28a5.jpg",
-     "page": "https://alien-covenant.com/topic/38682",
-     "via": "Bing Imágenes",
-     "credit": "alien-covenant.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.XtLwjTT4L9ozHVSSiiGgogHaHa&pid=15.1"
-    },
-    {
-     "url": "https://www.scified.com/u/RCO237_1469289942.jpg",
-     "page": "https://weylanduplink.com/topic/43120",
-     "via": "Bing Imágenes",
-     "credit": "weylanduplink.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.p7OdWtYfroZVveRgnhVOsAHaLS&pid=15.1"
-    },
-    {
-     "url": "https://images.darkhorse.com/covers/600/25/25877.jpg",
-     "page": "https://www.darkhorse.com/comics/25-877/aliens-fire-and-stone-1-fiona-staples-variant-cover/",
-     "via": "Bing Imágenes",
-     "credit": "darkhorse.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.0abKCf0TJXplCKNghgKSjwHaLZ&pid=15.1"
-    },
-    {
-     "url": "https://freshcomics.s3.amazonaws.com/issue_covers/NOV140054.jpg",
-     "page": "https://freshcomics.us/issue/NOV140054/alien-vs-predator-fire-and-stone-4",
-     "via": "Bing Imágenes",
-     "credit": "freshcomics.us",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.HjQGlDxA5_PA53M7uJPc1gHaLI&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-25T01:34:41.443531+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-25T04:38:49.825880+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3125,7 +2900,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3356,7 +3131,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T04:30:49.520464+00:00",
+   "first_seen": "2026-11-25T04:38:49.825880+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -3369,7 +3144,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-25T04:30:49.520464+00:00",
+   "extra_at": "2026-11-25T04:38:49.825880+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
