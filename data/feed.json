@@ -1,8 +1,90 @@
 {
- "updated": "2026-11-25T12:14:57.305849+00:00",
- "new_this_run": 1095,
+ "updated": "2026-11-25T12:22:57.321866+00:00",
+ "new_this_run": 1257,
  "count": 900,
  "items": [
+  {
+   "id": "ce95e3990c238f",
+   "type": "alert",
+   "contests": [
+    "mi"
+   ],
+   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
+   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
+   "source": "Wikipedia (edición en vivo)",
+   "published": "2026-11-25T12:22:57.321866+00:00",
+   "tags": [
+    "alerta",
+    "resultados"
+   ],
+   "who": [],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
+   "id": "ae48fcce4c5369",
+   "type": "news",
+   "title": "Miss Universe crowns winner after another turbulent year for world’s biggest pageant",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2Vld1NuLU83RmxjQXJLUnZPZHlwLXdEWFJDU0VsMTAtMFVDODgxdnJCbjVCaGFqS3pwdFNWMDBqQl80UklaNHRyY0JtSUNGczNVazZzUUtZM2wyRXJoX3d2RTVFTHphTTJwLWh2dVQ3X0tYSG5ZbHpyalE2TXJaTmxONzBqeFhzM3lzTUVUX1A3Tk03UGROampCa3NPWjRKSjN2LUpXOGVXcjllMFNJMXlISVJGY3hYeHR0NWV4Y3laR3RNMmsySWhaRUN2NThhUkRpemNveTFGZ2s?oc=5",
+   "source": "ABC7 Chicago",
+   "published": "2026-11-25T12:17:07+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "Miss Universe Puerto Rico preliminary",
+   "who": [],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
+   "id": "9e8ab6c831ae0c",
+   "type": "news",
+   "title": "Dominga López quedó entre las 12 mejores del Miss Universo 2026",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3BWYlFTUm1jR0V3SEx5b1dURm9LVTN2MmZYT0NxUkFqTEs1RElIdmpzY214azRvdDdzc05uU1U5Nm1qRGNhLUctN3hBSTU3NUt6cU9lYUQxdXpUY3pzYXdZUUIzVjg3b2tmdUg1ek9rQTg1TFNCOHpUSUs3YjA5NWI1Z0Z2QkgyXzZ0NmR1bE5EQUZ2NlEwTEUxcHc0Z3hKaVdzRzdtLXF2UjJZVjFLZGhxX0Vnb2FXYl8zVzZ4dw?oc=5",
+   "source": "La Nación",
+   "published": "2026-11-25T12:16:45+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
+   "id": "f04268f980d224",
+   "type": "news",
+   "title": "TV PATROL: Bea Millan-Windorski 3rd runner-up sa Miss Universe 2026",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmswaTAwdW95aW9MMWRZMVc3OGoybGdIZ2RfZmthNFBDS242Zk5LRlNuV3o1bVFRMWkyYUcyS2VmRkQxN1praGk5RlRMcFFGMkE4VVhPUDVNYk9aOEVqY19tbnZINTI2WkQySXdrQktNNnRSdHVoa3U2bW51ZzdrR1hCdmhoRWEzZ1RicXUzcmtKSkwySm9tTExYdEhXVHVNQ2JoUnZ0MGlGZFZ0cjNkbl9UVTVqNXk3NnRWRTdKYWljYXNseERlS3Q1RkRvLXc2N3ZNZ1hn?oc=5",
+   "source": "ABS-CBN",
+   "published": "2026-11-25T12:11:15+00:00",
+   "lang": "en",
+   "contests": [
+    "mi",
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss International 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Philippines",
+     "name": "Bea Millan-Windorski"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
   {
    "id": "c34c7ebd5b1040",
    "type": "news",
@@ -137,6 +219,30 @@
    "first_seen": "2026-11-25T12:06:58.251695+00:00"
   },
   {
+   "id": "19a92f607f71d1",
+   "type": "news",
+   "title": "Buzz Report: Jennifer Barreto Wins Miss Universe 2026",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXAxZjdKbzRBbXl5M1BQbGl4RTBmM1dVenlIeF81S09ZRFZ0QXhyYmJuZEtGdmVOQlFvaUxYSGc0c0hQYUlsUUZyekFXTVhSSEFVdmNmTzluTEx4UWNzeE44QzdxUUcwV2dxcmU4MUVGMVRhRUJjZTA4bFB2LURLRmV2RWxFd3RMSHRnRkVmaURFa2o4Mlh4RjhuMXlGWlk1ZkhIZ20xYlFIbWotNkVHUEVzS282LTFlWGNlM05jRjY4ZGdZRTU3TDhR?oc=5",
+   "source": "news8000.com",
+   "published": "2026-11-25T11:59:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
    "id": "c98c80e38630b5",
    "type": "alert",
    "contests": [
@@ -174,6 +280,30 @@
     }
    ],
    "first_seen": "2026-11-25T12:06:58.251695+00:00"
+  },
+  {
+   "id": "357029e920a8e3",
+   "type": "news",
+   "title": "Verónica Vargas Musri queda fuera del TOP 5 de Miss Internacional 2026",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXREMDhzcmRrQ0w4LWpxeHNDcUp6NlFtQVNlNTl1Yjg4aFFpTnBmZzY1czExTHZuRk4zX3BVUEdvSTREVklDck1ZMV9KSGxyQk94QUdBZDlpQXZxSzNXam12ZVdtNkZFV1ZpSXM0ZF80a1dLc25oYlBnRTJ2WkNfTHAxUzNBU090TDU3Zmd3ZHNjakxpWTJN?oc=5",
+   "source": "eldia.com.do",
+   "published": "2026-11-25T11:57:39+00:00",
+   "lang": "es",
+   "contests": [
+    "mi"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Internacional 2026\"",
+   "who": [
+    {
+     "contest": "mi",
+     "country": "Dominican Republic",
+     "name": "Verónica Musri"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
   },
   {
    "id": "a952849878e95d",
@@ -240,6 +370,24 @@
     }
    ],
    "first_seen": "2026-11-25T11:58:57.413367+00:00"
+  },
+  {
+   "id": "c00097d59e4169",
+   "type": "news",
+   "title": "Lukashenka's favorite goes to Miss Universe – and comes home early",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd3RVZzlsRHBCT0NUR1JHQm9EOGgxRzMzTFQ5dElGZlVoNjEwSkZnRWRaeHFZdnZmdWR6bk5fUWtuZnNMZVdtVVFJWk8yTEV6QzVEa1NBZWlRQU5hRVlrZzMyU1FYZlVTZGp4aEhBb3R4RjlMQnppQmdhNXlLSGVVWXhpRjhrU3JNVElXd3diOTQ4UEVjTkYwcw?oc=5",
+   "source": "Belsat",
+   "published": "2026-11-25T11:52:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
   },
   {
    "id": "bb17999b331a4a",
@@ -1590,6 +1738,28 @@
    "query": "\"Miss International 2026\"",
    "who": [],
    "first_seen": "2026-11-25T10:46:57.541216+00:00"
+  },
+  {
+   "id": "a94af27119d850",
+   "type": "news",
+   "title": "Puerto Rico’s Jennifer Barreto Claims Miss Universe 2026 Crown",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXNnd2JTQVl6dG1pcEJFcklwdzdjYWY4STlsZzF1dGdYWUQyRFBzcE1xUkdYSGVOdDJZa3RKb2RmWExsTnNGREZpa1JRX1pCc2hCY2p1NVhSdTl6QnJ0alBFY0tWRUIwaVJTdThkV0NVX3RPT0x0RjFZSTk1bWFiU25zUDRXbV9yQW9nc0hSc0lWVHQ5WS1VdDk3Q05hWi10OUdxRUNuZnJOX3fSAbABQVVfeXFMT3hXYmV2XzZ5TnBlYVBFdzU3MHQ3alozYkpZalJ6ZnlWU3BlYm02cmRiVEx5VEFhWVVJOGVZRG1qRTZhNVpkcTZCOFM0aV9SS2llQTh6bHRGR3dadHNMT3dFcm16cEp4UTdmNXFzbFJ0T1dzZmZ6QXBIMHkwOVhWV2xUMWRxazgyczgtcVRlYlp5X3FZYlA2akxlc29lbGZ2NXgzQVBZWTltQmViZlV2RFA?oc=5",
+   "source": "Deccan Chronicle",
+   "published": "2026-11-25T10:43:10+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
   },
   {
    "id": "1b8f4014c86239",
@@ -3084,6 +3254,7 @@
    "published": "2026-11-25T09:19:56+00:00",
    "lang": "en",
    "contests": [
+    "mi",
     "mu"
    ],
    "tags": [
@@ -4565,6 +4736,28 @@
    "first_seen": "2026-11-25T06:54:50.146035+00:00"
   },
   {
+   "id": "7c5311a605aacb",
+   "type": "news",
+   "title": "La representante de Puerto Rico, Jennifer Barreto, fue elegida como Miss Universo 2026",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOWFraFF5VFg2bnRpek5JeU0yY05kSDU0WGw4cFlvTzJWckM3Qkk2cFJSZlFLN2I0UmtPNTI3T055dmdUNXhwNUpLaGJVeFNLRVEtd0FkbGlRRjJmM2RBdUhiYU02TXNMSnNweVVUV3ZJQXB1aGIyU0lYeVRqY0FKWG9GczZUTTB6VmR4ejJMTFVjbmxONnM1OFRmVE1fSkZUeEpQeFdsUlN1eUkzcDNmZkVLYVh3RVZpX01reS05bXdiQlVEdXdtTmw2aG45LU0yRkpyWA?oc=5",
+   "source": "La Nación",
+   "published": "2026-11-25T06:23:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
    "id": "21c471aeee2584",
    "type": "news",
    "title": "Residents of La Union cheer as the Philippines’ Bea Millan-Windorski makes the top 5 of Miss Universe 2026 in Puerto Rico during the watch party organized by the provincial government at Francisco Ortega Convention Center in the City of San Fernando on",
@@ -4653,6 +4846,55 @@
    "query": "Miss Universe national costume gown",
    "who": [],
    "first_seen": "2026-11-25T06:38:50.144594+00:00"
+  },
+  {
+   "id": "8b8040e1a02e64",
+   "type": "news",
+   "title": "WE ARE STILL SO PROUD OF YOU, BEA! 👑🇵🇭 Bea Millan-Windorski has fallen short of the coveted Miss Universe crown. The Filipina beauty queen ended her Miss Universe 2026 journey as the 3rd Runner-Up. Read more: https://www.gmanetwork.com/new",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUlEandhMXNCNWlJVUJacVV3ZWQ2VkNzU0lRcTczVTZIZ3NFVGRQTDZyRnFQUlRIUGsxT3RqcUlVUGVJRk40N1Jfa3U2SEZsZ0VQNDRGTTZKTlVLY2poOXBaeWt4bkp6VmpEWDVaNDRON1V4WHoyUmxUd1B1ZHBtd1hPT3ZCLTJiU1RmSGZKdVB1ZGN5bnVEd0JfeGN4OTBWY0JWMGJpbU9LOThRTEdhUWtCeTdUdFFocE1HOHpKcUJ4RjM1T3AyT2VYaUFRV1BPbGEw?oc=5",
+   "source": "Facebook",
+   "published": "2026-11-25T06:20:15+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "beauty pageant",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Philippines",
+     "name": "Bea Millan-Windorski"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
+   "id": "c7d194185376df",
+   "type": "news",
+   "title": "Peinado de Dominga López desató críticas tras final de Miss Universo: \"Le hicieron la maldad a Chile\"",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GNktIb19uQldBYkJMSTk0S09wS29zd1g0NXVJR1FYd3pBUkNRNHNQalUtYTI4TzlPNy1CYWI4OThybGtQeWhlZ3JjUTR6SzBNNWE3bGxoMGQ?oc=5",
+   "source": "BioBioChile",
+   "published": "2026-11-25T06:20:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks",
+    "polemica"
+   ],
+   "query": "\"Dominga López\" Miss Universo",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
   },
   {
    "id": "2b0f98f890d345",
@@ -8744,6 +8986,34 @@
    "first_seen": "2026-11-25T05:02:49.377707+00:00"
   },
   {
+   "id": "3ce088aa4a9ada",
+   "type": "news",
+   "title": "“Soy bien autocrítica”: Dominga López se pronunció tras quedar en el Top 12 del Miss Universo 2026 y envió emotivo mensaje",
+   "summary": "La representante de nuestro país igualó la marca de Emilia Dides e Inna Moll, candidatas del 2024 y 2025, respectivamente.",
+   "link": "https://www.chilevision.cl/noticias/show/soy-bien-autocritica-dominga-lopez-se-pronuncio-tras-quedar-en-el-top-12-del-miss-universo-2026-y-envio-emotivo-mensaje/",
+   "direct": true,
+   "source": "Chilevisión",
+   "published": "2026-11-25T04:05:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "polemica",
+    "resultados"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.Mzz6Thr7jsHtMhjWdlZT2A&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
    "id": "18de937dff4da6",
    "type": "news",
    "title": "MISS UNIVERSE 2026! 👑✨ Jennifer Barreto of Puerto Rico is crowned #MissUniverse2026!",
@@ -11742,6 +12012,31 @@
     }
    ],
    "first_seen": "2026-11-25T11:34:57.863961+00:00"
+  },
+  {
+   "id": "dc0e854b066bed",
+   "type": "news",
+   "title": "Los chilenos no perdonan: así quedó el Instagram de la nueva Miss Universo 2026",
+   "summary": "Jennifer Barreto se convirtió en la nueva reina del certamen de belleza, pero este triunfo no le gustó a todos.",
+   "link": "https://www.msn.com/es-cl/noticias/otras/los-chilenos-no-perdonan-as%C3%AD-qued%C3%B3-el-instagram-de-la-nueva-miss-universo-2026/ar-AA2ibXiT",
+   "direct": true,
+   "source": "24 horas on MSN",
+   "published": "2026-11-25T03:23:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.hcZ4RcP1cFdX-XWmYu-ivQ&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
   },
   {
    "id": "d5b95c057689f5",
@@ -15047,6 +15342,25 @@
    "first_seen": "2026-11-25T11:02:58.183808+00:00"
   },
   {
+   "id": "ced71712871109",
+   "type": "news",
+   "title": "Baigėsi „Miss Teen Icon International 2026“: 15-metė lietuvė Tara Butkutė paliko ryškų įspūdį",
+   "summary": "Lietuvai atstovavusi klaipėdietė pateko į konkurso finalinį penketuką, pelnė IV vicemisės titulą ir buvo išrinkta stilingiausia konkurso dalyve. Kartu su Tara į Indoneziją vyko ir Deimilė Miciūtė – „M ...",
+   "link": "https://www.delfi.lt/veidai/ivairenybes/baigesi-miss-teen-icon-international-2026-15-mete-lietuve-tara-butkute-paliko-rysku-ispudi-120338880",
+   "direct": true,
+   "source": "Delfi",
+   "published": "2026-11-25T02:46:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mi"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.MFm8bQyKKNylJgqppxRP9g&pid=News",
+   "query": "Miss International 2026",
+   "who": [],
+   "first_seen": "2026-11-25T12:22:57.321866+00:00"
+  },
+  {
    "id": "a824e1626cf585",
    "type": "news",
    "title": "+∇√[LIVESTR.EAMS] 2026 Miss Universe 2026 Grand Finale live free",
@@ -17966,263 +18280,6 @@
    ],
    "who": [],
    "first_seen": "2026-11-25T02:14:42.102900+00:00"
-  },
-  {
-   "id": "c6f23d89e1de00",
-   "type": "news",
-   "title": "LIVE.HERE Miss Universe 2026 Grand Finale Full Show Tonight",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSk1NOHI5VE8wZ19MSHQtRW1lUHZfX2FjX1hEc0RaNm1IOXdMZzJhMUZUWlVCR2pDZWdtUXlDQTFWeUlYNmJ3YXNlSTRSeU5vbU5pamhXQi1VaTdMZjhXeVc3TW0zY0dfOG85ZEM5YnZ4a2laSnRPVXFpQmduZHhBS3c1OGROZWtSdmlkU3pDUWpRRVhLNVE0UVA5NA?oc=5",
-   "source": "BKReader",
-   "published": "2026-11-25T02:14:40+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:46:49.946478+00:00"
-  },
-  {
-   "id": "fbebaf8146e2e8",
-   "type": "news",
-   "title": "ONTO THE TOP 30! 👑 Here is the list of delegates who advanced to the Top 30 of the 2026 Miss Universe pageant.",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUNjQTlzT0dvNGY5V0xxdW8zdlhMTWNDTjYzWm10WEtnS185c1JUWjZHQ0xreWJXblRiek1HN1NmaUNEemtFYS1sb1ZlSGNVQnptaWd5Mm9Rc1diRW82NW5CTjcyY1RrTVNhcnFWQ2hOS3pVbEw2TGc5YnhtdUNHcjM0b3RYMnY3T3dwMkFOTGlDRmxfUlJUTXB6ZzJYX0ZOU2VqdGw5QlBHdDdEMHhTVmpnYlp0RnRzaU5MNS1na1RTVjBFNDZMTnVRVEVaQ29oaENtNzd3?oc=5",
-   "source": "Facebook",
-   "published": "2026-11-25T02:13:57+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00"
-  },
-  {
-   "id": "7585304298d4cc",
-   "type": "news",
-   "title": "[ＳＴＲＥＡＭ＠ＯＮＬＩＮＥ] Miss Universe 2026 Live Pageant, TV Coverage & Start Time – November 25, 2026",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmeG1BVXRwalgzMTZtQzFFTnRmWWNMeTlBM0g2TnV6cl80ZUViMHZvYi1nTE9PREZsVWptNlpCVEY0d3FXQlgwTGRwNFJka1RUQU5SOTF3?oc=5",
-   "source": "Charleston Sun-Sentinel",
-   "published": "2026-11-25T02:13:42+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00"
-  },
-  {
-   "id": "54f1e1126b08a0",
-   "type": "news",
-   "title": "Miss Universo 2026: Clara Vegas avanza al top 30",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2hmTXN0ei1qQzFWbTQ0VWFYNldheWVBbXRuUXhWaE9sNEYyRXJrLVBQSnoyZUJCeW1laTFfLThsWC1QTl9pTGJpNVhmOWlfSXgzWHlnVUprQm1ocXpmVHdldk9QRlRxSWJfOTFRMVktMzgySTY3UllXLVFBVnYtWlV3LXBfV2haajcxb3V1QTRsZklKM2xlZ2VVT3R5Z9IBngFBVV95cUxNQ2hmTXN0ei1qQzFWbTQ0VWFYNldheWVBbXRuUXhWaE9sNEYyRXJrLVBQSnoyZUJCeW1laTFfLThsWC1QTl9pTGJpNVhmOWlfSXgzWHlnVUprQm1ocXpmVHdldk9QRlRxSWJfOTFRMVktMzgySTY3UllXLVFBVnYtWlV3LXBfV2haajcxb3V1QTRsZklKM2xlZ2VVT3R5Zw?oc=5",
-   "source": "Meridiano.net",
-   "published": "2026-11-25T02:13:30+00:00",
-   "lang": "es",
-   "contests": [
-    "mi",
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Internacional 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Venezuela",
-     "name": "Clara Vegas"
-    }
-   ],
-   "first_seen": "2026-11-25T06:54:50.146035+00:00"
-  },
-  {
-   "id": "8cf26c1630ada8",
-   "type": "news",
-   "title": "++[AWARDS]TV!! Miss Universe 2026 Grand Finale Live",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWJSR3lfSDVQZ29VWUlTM01wdGh5bkJBVWViTmZ0SXJ4MzdTTkFWc2ZpY1NvdkZIa2ZjRVI5Z0kxZ2JDZkQxYkJZNVREQ09qZVBkNkdGTlRqcm5TU0VaeDhJeFhFdlhWc2ozS2ZYQlcwMVF6QTlsbU5WUG1WUGp1RWtENUNpY1RwaEZiYlp4c3c0THhGZGt1YkdONA?oc=5",
-   "source": "BKReader",
-   "published": "2026-11-25T02:13:02+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:22:42.269814+00:00"
-  },
-  {
-   "id": "c15f9f9007f28e",
-   "type": "news",
-   "title": "++[AWARDS]TV!! Miss Universe 2026 Grand Finale Live",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS21yZUdpdG9LTTVwMWctSklEWkozQVQtQ0xRRlBuRlY5U29RLTVXVjBEQngyUkVDYVQzRnVrZmRmM2ltTVpEQ1pGYnYwTllEYUZ5dVR4TjVMa25xeWRXY1hldkthcFZJZWdGTFRLMmRSYUhwSnc4bHY2dVFqRHVLWm5QN2YxVGpCei1vMmFmNHFxbkg4Y3hSanlqelFtTC05?oc=5",
-   "source": "Grice Connect",
-   "published": "2026-11-25T02:13:02+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:22:42.269814+00:00"
-  },
-  {
-   "id": "3024d2dc21f2ea",
-   "type": "news",
-   "title": "++[AWARDS]TV!! Miss Universe 2026 Grand Finale Live",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVkYThJdkhNbVhjWWdybzdfUlVUN19hYTZqcVV6NTc3MzBaOFBZbTZWZVlSRDZCRXJ2QVZVMmFNSS1wQi1tY0Vla09hX0VZakNsaW1XMFNxWGlQOGdmdl9mX0tJRmxOaTVQZmlCNURZRDAxaWZoUjRsUzFYdXNwdElsMTZZNUkta2VvRU5Ec2NycVVFdV9ZLUpVX0NlSlZjc2hUb0NB?oc=5",
-   "source": "FlamboroughToday.com",
-   "published": "2026-11-25T02:13:02+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00"
-  },
-  {
-   "id": "d7472b84c90566",
-   "type": "news",
-   "title": "++[AWARDS]TV!! Miss Universe 2026 Grand Finale Live",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa1lfMFY5dWJYU09Yby1DYWJ1blAza1Nfa0FVa1RYX1E2Skp4X0RJTzJtVXFJNTBYckdqZHpXUGNSZTJKdEpKNE5WSnk0d1ppcHoyV3dOODdrVGNyN3dkV0FkbkNiSF9zTDJxU1NWUjZEb1hQZ1Bhc2pmNkVUOXdmVjBsYWR1QkdQU0RyY0lNcVYzei1NSVNqTUFJdw?oc=5",
-   "source": "SooToday.com",
-   "published": "2026-11-25T02:13:02+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:38:50.373781+00:00"
-  },
-  {
-   "id": "9329f8dd8776ec",
-   "type": "news",
-   "title": "Miss Universo 2026: las 30 candidatas clasificadas y los países que siguen en competencia por la corona",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQakxHekxhdFBEQUM3ZXJnNmM2Y1RFTGk1MUhLMGR0bGt3N21NNzA4Um9kajBYdmtDOHVlN2xfRVhMZTNwbjRLanNlM2RzTmVxRW4yWG1nMHlPX0xaWHFvTmdEZTBxYXV2SDdvcDQ4X0pqQ29xTDNoZ29TTDVSeGI0dVEyOXZCUFNFcXNwOGMwZ2NSc2t6MUU0V29zTEFNM19zVVlVcHVMYnlTZUxWbDF4R2U2TEVTSGtMYUs0UjB6UEhteHN5ZDU4d0lXb0doMm1tVXF5RENpSUtYV090ZkRaTlp2UFFYeUk5RFHSAYQCQVVfeXFMUGZOTTRCUU1VYU9sV1Y1anNPcGdsM2x5b1JybDBDVmctU1RPVDl5ODFFaDg2N1A0RWJGQ3ZrTGFFeWhULU1WTGlRZmxudnBPSklZSEJ5Q0JRbzNiZ0VmM0Z4cFpfN2NDdjBtV0NwcE5zbzF6SjRFUmM1NXBTSml4RERfdEZOWVVDTFFCRjVHQ05JeVNCbVRZcHB0blI3MmNEWUNKUjBPOTJJQ3hFUlNDSVRYZDBnTUxIMkJOdnNHSXhTN0pxeWFkeEs2WHJpZ3FWbHByM3hFd3BWX0dnRk1vaUQ2ZEI5Rjc1NUZkY09sczRUNWdvNktaTkxHWnVEOXdyUUpNdDc?oc=5",
-   "source": "Infobae",
-   "published": "2026-11-25T02:13:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Universo 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:22:42.269814+00:00"
-  },
-  {
-   "id": "9790241b1faec5",
-   "type": "news",
-   "title": "Dominga López sigue avanzando en la competencia de Miss Universo: Entra al top 12",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkpib1VrOFJvRTA1WUdIOTNsaHRaWk9QSmg2YmVLbWpnTUJ0WXRnTEZMWmh6UmVCZEZZdHNQZFM5NmxEdEdiTkl0N0tYbXpreF9YU1BZTUVuZ2xRQWhfU3lwaVVKamhCV19aeXlkRDB1bVZBWXZ1MF9kRlNkN29vOE16VTNhYXdVMzA4SFFMenQ3Y3BZRVZydHM0WXJ0OEJYZG5YdEhlWFhUWGRHampUSk5xemRQQnZkZl9XTU4yXzJzbGpVUzRERFZJcnQwSTJyS2JxelUya2Z6cE1hYzRYVzczSl9WQkRaN3VHemFQVXpQZUM3VkpLRXIxbXRnSFHSAYwBQVVfeXFMT3NRWFNaMlV5Q1FmME5ZdE1kVGNaeHp3eEM1MWJWbnllYW5TT1NVNTRpT0N6ZlVQT3RWbl95OHk4WFlKRHd4ZmRmT2xTMXNaa0N5ZHRvWVlqdlVXYUl4X2d4dlB0dHVsdFBkR00zR2kyVTczbndvOEZQZzNTYVAxSVlkZGJCcU5jdnZYeW4?oc=5",
-   "source": "Cooperativa",
-   "published": "2026-11-25T02:13:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Dominga López\" Miss Universo",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T02:46:49.946478+00:00"
-  },
-  {
-   "id": "6e3ac803476938",
-   "type": "news",
-   "title": "7-Year-Old Daughter, 2 Master’s Degrees, US Army Career: Who Is 27-Year-Old Jennifer Barreto, The First Mother To Win Miss Universe?",
-   "summary": "Who is Jennifer Barreto? Meet the 27-year-old Miss Universe 2026 winner, a mother of a seven-year-old, who holds two master's degrees and has worked with the US Department of the Army.",
-   "link": "https://www.newsx.com/entertainment/7-year-old-daughter-2-masters-degrees-us-army-career-who-is-27-year-old-jennifer-barreto-the-first-mother-to-win-miss-universe-294959/",
-   "direct": true,
-   "source": "NewsX",
-   "published": "2026-11-25T02:13:00+00:00",
-   "lang": "en",
-   "contests": [
-    "me",
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.gZj0t4DGZNdrfPpfCoOboQ&pid=News",
-   "query": "Miss Earth 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T10:22:57.318243+00:00"
-  },
-  {
-   "id": "9c908806773a58",
-   "type": "news",
-   "title": "Miss Universe 2026 Live on a free channel",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaHBEODNBUng2M1N6ZWY3VTN4ZGdacndBSG1BNWVUMzJEdER3NWxHd1JtV2w4bEROdi1Hd0Nmc1FxMHVWZ3o0TjZvXzZXMkQ3UGtUV0F5U3ZIMXhlaFF0bExRXzJjYnU4R2VNeFNyeU1tbVJQMThTMncyWjg4SUpKNmIydw?oc=5",
-   "source": "Pique Newsmagazine",
-   "published": "2026-11-25T02:12:56+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:22:42.269814+00:00"
-  },
-  {
-   "id": "7d3b2ed3a50818",
-   "type": "news",
-   "title": "Miss Universe 2026 Live on a free channel",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOSHEwZ2pRZVo0amZwZVV6TU5SOTByU1lTR29DbjBKOVg2eFpwSmtPMmU4Yk94SkE1dEZwWWZKdUhqQllaTW9YdFkxdlRiQ3B0Qmk0MGdndXVFcFVPeVRhT2RoeENWZmRDQkFyU1pPcWRYVHRGbFVZRWZSa0Y?oc=5",
-   "source": "TimminsToday.com",
-   "published": "2026-11-25T02:12:56+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:22:42.269814+00:00"
-  },
-  {
-   "id": "40b559046aac72",
-   "type": "news",
-   "title": "Miss Universe 2026 Live on a free channel",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hdHhucXEwNDNEb3I5SVhGZTFVbmZoZHg5MENCRWdBYzhkcDJiSjF5d3VoTlQyUjN6TzdiX2RNcU9ZWDl2RWZzaG1mYXk1dkZ5RVU4OTZyQllvUmM5REFjMWkwZUtRMkVTeUdVLUxXMUhlOXk3SElvZ3RMby0?oc=5",
-   "source": "Grice Connect",
-   "published": "2026-11-25T02:12:56+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00"
   }
  ]
 }
