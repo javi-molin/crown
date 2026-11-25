@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T02:06:41.845397+00:00",
- "count": 25,
+ "updated": "2026-11-25T02:14:42.102900+00:00",
+ "count": 24,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -119,8 +119,7 @@
     "95adde7bb462cb",
     "8df62f5820d54c",
     "2eb4863574a9f9",
-    "5d3305473f0b1e",
-    "b6e750c99ebe70"
+    "5d3305473f0b1e"
    ],
    "sources": [
     "El Comercio",
@@ -129,7 +128,7 @@
     "Meridiano.net",
     "Telemundo Orlando (31)"
    ],
-   "n_items": 7,
+   "n_items": 6,
    "n_sources": 5,
    "videos": [],
    "views_total": 0,
@@ -146,7 +145,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 20
+   "score": 19
   },
   {
    "key": "p:grand finale full show tonight",
@@ -159,8 +158,9 @@
    "refs": [],
    "first_seen": "2026-11-25T00:14:42.225515+00:00",
    "start": "2026-11-25T00:03:43+00:00",
-   "last_activity": "2026-11-25T02:02:59+00:00",
+   "last_activity": "2026-11-25T02:10:30+00:00",
    "item_ids": [
+    "642366ef2c1574",
     "bd818ceb4ed5c5",
     "62b46084712ee7",
     "c20dfafcedd8fc",
@@ -173,12 +173,14 @@
     "6e78d7db38e3e0",
     "bfcc417eb3b253",
     "f0764a5e7cf33f",
+    "fb3e6c782187a4",
     "de7300f50a60ad",
     "f976e66ba965b9",
     "0c1bad7bb5f23d",
     "44c10bea6a8cb1"
    ],
    "sources": [
+    "BKReader",
     "BurlingtonToday.com",
     "Coast Reporter",
     "Cochrane Eagle",
@@ -187,13 +189,14 @@
     "Northwest Ontario News",
     "Pique Newsmagazine",
     "Rocky Mountain Outlook",
+    "Squamish Chief",
     "St. Albert Gazette",
     "Thunder Bay News - TBNewsWatch.com",
     "TimminsToday.com",
     "TownAndCountryToday.com"
    ],
-   "n_items": 16,
-   "n_sources": 12,
+   "n_items": 18,
+   "n_sources": 14,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -224,7 +227,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 40
+   "score": 46
   },
   {
    "key": "seed:voto-top30",
@@ -246,7 +249,6 @@
     "39ae922e3b6ec3",
     "fafc02aa9d5ff8",
     "2a192dd57d627c",
-    "e9c20abdfee373",
     "2430edd1981a56",
     "b8999438f7c7ff",
     "bda8446993e67a",
@@ -255,11 +257,9 @@
     "3be8212aeaf7e7",
     "90717628d1c831",
     "348954b1c1287a",
-    "944756c2f69670",
-    "85513b25d43b5e"
+    "944756c2f69670"
    ],
    "sources": [
-    "DUPLOS.CL",
     "Daily Sun",
     "El Comercio Perú",
     "El Espectador",
@@ -267,12 +267,11 @@
     "El Universo",
     "La Hora",
     "La Nación",
-    "Lima Limón",
     "Milenio",
     "Tele Urban"
    ],
-   "n_items": 14,
-   "n_sources": 11,
+   "n_items": 12,
+   "n_sources": 9,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -589,7 +588,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 39
+   "score": 33
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -603,7 +602,7 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T12:38:23.782201+00:00",
-   "start": "2026-11-24T13:04:00+00:00",
+   "start": "2026-11-24T13:56:00+00:00",
    "last_activity": "2026-11-25T01:41:13+00:00",
    "item_ids": [
     "506d210bb0b245",
@@ -629,8 +628,7 @@
     "40d71e0534af99",
     "c19ff037e0b619",
     "642e49b5145742",
-    "85c607d3eea2a3",
-    "d7cda114722a41"
+    "85c607d3eea2a3"
    ],
    "sources": [
     "AS Colombia",
@@ -654,7 +652,7 @@
     "nicaraguainvestiga",
     "tribunademexico"
    ],
-   "n_items": 25,
+   "n_items": 24,
    "n_sources": 20,
    "videos": [],
    "views_total": 0,
@@ -858,18 +856,6 @@
      "credit": "Radio Mitre"
     },
     {
-     "url": "https://pxcdn.meridiano.net/112026/1795553944944.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795553944944.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-sera-el-formato-de-coronacion-para-la-gala-final-202611241740",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
      "url": "https://imgcdn.stablediffusionweb.com/2024/11/25/b30c6bb8-1ebd-481e-8744-ab97745e1699.jpg",
      "page": "https://stablediffusionweb.com/image/23693313-elegant-school-building-inspired-by-gothic-architecture",
      "via": "Bing Imágenes",
@@ -903,6 +889,20 @@
      "via": "Bing Imágenes",
      "credit": "wallpaperhub.github.io",
      "alt": "https://ts3.mm.bing.net/th?id=OIP.veoeF0aaoixzHcTkEFCuNwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.stockcake.com/public/7/e/3/7e318d5d-b5c7-4bf1-a87d-79f070a6dd40_medium/haunted-academia-architecture-stockcake.jpg",
+     "page": "https://stockcake.com/i/haunted-academia-architecture_4898889_2042749",
+     "via": "Bing Imágenes",
+     "credit": "stockcake.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.kyZfey58XuR9Fb5dyi3QqwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/premium-photo/dark-academia-gothic-architecture-illustrated-cathedral-building_53876-445064.jpg?w=2000",
+     "page": "https://www.freepik.com/premium-ai-image/dark-academia-gothic-architecture-illustrated-cathedral-building_299900558.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Gt_cm1Yj54ASPwIrSiDxQAHaE7&pid=15.1"
     }
    ],
    "social_urls": [
@@ -1060,7 +1060,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 65
+   "score": 64
   },
   {
    "key": "p:final competition show",
@@ -1085,12 +1085,14 @@
     "3710e568659a9e",
     "da0903294b395c",
     "195be7f2a88d89",
+    "38716d79b34040",
     "24e421ba2546ef",
     "f1d352b2c9e99e",
     "c18658f5433b74",
     "3722d035a81b72",
     "67e695b28e3435",
-    "0dde77c240ea24"
+    "0dde77c240ea24",
+    "5888404fe830c3"
    ],
    "sources": [
     "BurlingtonToday.com",
@@ -1099,6 +1101,7 @@
     "North Shore News",
     "Northwest Ontario News",
     "Rocky Mountain Outlook",
+    "SNNewsWatch.com",
     "Squamish Chief",
     "St. Albert Gazette",
     "ThoroldToday.ca",
@@ -1106,8 +1109,8 @@
     "Times Colonist",
     "TimminsToday.com"
    ],
-   "n_items": 16,
-   "n_sources": 12,
+   "n_items": 18,
+   "n_sources": 13,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1180,7 +1183,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 40
+   "score": 44
   },
   {
    "key": "t:mu:Talento / reto:2026-11-24",
@@ -1215,7 +1218,7 @@
      "vid": "2T0GV5BP2-o",
      "title": "María Vargas, Miss México, convirtió sus desafíos en fortalezas | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 429,
+     "views": 470,
      "likes": 6,
      "published": "2026-11-25T01:12:55+00:00",
      "official": true
@@ -1224,13 +1227,13 @@
      "vid": "BKgsqtXEKM8",
      "title": "Miss Argentina, Miss Chile y Miss Perú llevan su talento más allá | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 394,
+     "views": 395,
      "likes": 3,
      "published": "2026-11-25T01:04:15+00:00",
      "official": true
     }
    ],
-   "views_total": 823,
+   "views_total": 865,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/2T0GV5BP2-o/maxresdefault.jpg",
@@ -1597,12 +1600,13 @@
    "contest": "mu",
    "kind": "oficial",
    "labels": [
+    "Preliminar",
     "Trajes típicos"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T00:30:42.286376+00:00",
-   "start": "2026-11-24T13:00:00+00:00",
+   "start": "2026-11-24T15:09:00+00:00",
    "last_activity": "2026-11-25T00:27:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -1612,37 +1616,31 @@
     "188ce7669254b4",
     "01ac0eec3095ab",
     "e000bc5517f804",
-    "afad0375f8e830",
     "a2e8dd492228a0",
-    "72a0952ff8422c",
-    "733f5c5fdaf4a7",
-    "852a10e3f0abec"
+    "72a0952ff8422c"
    ],
    "sources": [
     "ColombiaOne.com",
     "Diario Las Américas",
     "Infobae",
-    "La Nacion",
     "Meridiano.net",
-    "Show News",
-    "Soy Carmín",
     "TV Más",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 12,
-   "n_sources": 10,
+   "n_items": 9,
+   "n_sources": 7,
    "videos": [
     {
      "vid": "8fBUD_d-bVM",
      "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
      "channel": "Telemundo Entretenimiento",
-     "views": 140227,
-     "ago": "Transmitido hace 1 h",
+     "views": 144639,
+     "ago": "Transmitido hace 2 h",
      "official": false
     }
    ],
-   "views_total": 140227,
+   "views_total": 144639,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
@@ -1776,30 +1774,6 @@
      "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
      "via": "Diario Las Américas",
      "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-nacida-en-miami-homenajeo-a-las-damas-de-DGMIPUJNHFBM5JRNPXETWUIE2Y.jpg?auth=246117f7e387b7644f59c4cc862de128f285d2de389328a8b1e17f5df2e86258&width=1200&height=800&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/mia-dio-miss-cuba-desfilo-en-miss-universo-2026-SBQERU4PD5D7DFKLBDT2RWWQVA.jpg?auth=47216177b0bcdb4313b060e57a561d65dbd29fc6f489ff46f2f23cd724addcae&width=420&height=526&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/berta-soler-de-las-damas-de-blanco-prepara-su-S4UJCWTHC5BAHFIQFDYYIKNUOA.jpg?auth=e7ad2da58c0029015e50581cf863090c49113ca1cc286c1206637ad15efade27&width=420&height=241&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
-    },
-    {
-     "url": "https://www.lanacion.com.ar/resizer/v2/dio-nacio-en-miami-es-una-candidata-criada-en-la-F7ESJCPHKBAMDHVI5CSS4ZZ32A.jpg?auth=ca3172ccf73d6f18ecb824e9354b6d550dfef6cb2149d1c369d54cbc2d0295b5&width=420&height=525&quality=70&smart=true",
-     "page": "https://www.lanacion.com.ar/estados-unidos/famosos/75-rostros-y-lagrimas-de-cristal-el-impresionante-traje-con-el-que-miss-cuba-clamo-por-la-libertad-nid24112026/",
-     "via": "La Nacion",
-     "credit": "La Nacion"
     },
     {
      "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
@@ -1938,119 +1912,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 42
-  },
-  {
-   "key": "t:mu:Preliminar:2026-11-24",
-   "id": "t-mu-preliminar-2026-11-24-e4556",
-   "name": "Preliminar · 24–26 nov",
-   "contest": "mu",
-   "kind": "oficial",
-   "labels": [
-    "Preliminar"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-25T01:58:41.355320+00:00",
-   "start": "2026-11-24T13:02:00+00:00",
-   "last_activity": "2026-11-25T00:27:00+00:00",
-   "item_ids": [
-    "23e4fd806f1c6c",
-    "af3bd931fff94e",
-    "a2e8dd492228a0",
-    "72a0952ff8422c",
-    "733f5c5fdaf4a7",
-    "852a10e3f0abec"
-   ],
-   "sources": [
-    "ColombiaOne.com",
-    "Infobae",
-    "Meridiano.net",
-    "Show News",
-    "Soy Carmín",
-    "YouTube · Telemundo Entretenimiento"
-   ],
-   "n_items": 6,
-   "n_sources": 6,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 140227,
-     "ago": "Transmitido hace 1 h",
-     "official": false
-    }
-   ],
-   "views_total": 140227,
-   "images": [
-    {
-     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
-     "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795569100095.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.MHDUkChyV7JDWrVZ_nVWRw&pid=News",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Bing (miniatura)",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nCommittee on Commerce, Science, and Transportation"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
-     "via": "Wikimedia Commons",
-     "license": "CC0",
-     "credit": "Tepan45max"
-    }
-   ],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 preliminary competition",
-   "extra_images": [
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
-     "via": "Wikimedia Commons",
-     "license": "Public domain",
-     "credit": "\nCommittee on Commerce, Science, and Transportation"
-    },
-    {
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
-     "via": "Wikimedia Commons",
-     "license": "CC0",
-     "credit": "Tepan45max"
-    }
-   ],
-   "extra_at": "2026-11-25T01:58:41.355320+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 28
+   "score": 33
   },
   {
    "key": "p:full show live reddit online",
@@ -2172,10 +2034,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "5735ca28cf5939",
     "1b0f7306d19a43",
     "65f48284eeec0a",
     "4e21ba830ed72a",
@@ -2190,6 +2053,7 @@
     "c0906de7ec78d5",
     "dfbade20a7fb16",
     "9fc912467e4914",
+    "baa8f34b40ea21",
     "e814fbfaefff1d",
     "506d210bb0b245",
     "a99f170c982fad",
@@ -2217,6 +2081,7 @@
     "3710e568659a9e",
     "da0903294b395c",
     "195be7f2a88d89",
+    "38716d79b34040",
     "ea22f590704d16",
     "90ca69778f504b",
     "efdcad741c168f",
@@ -2290,12 +2155,9 @@
     "3722d035a81b72",
     "67e695b28e3435",
     "0dde77c240ea24",
+    "5888404fe830c3",
     "37f687b2b61202",
-    "d110f071938b67",
-    "507fdfb5ee545e",
-    "462761cff64742",
-    "3ba315c12cb10b",
-    "6f3af5b4dbe3fb"
+    "d110f071938b67"
    ],
    "sources": [
     "24 horas on MSN",
@@ -2366,7 +2228,6 @@
     "Meganoticias",
     "Meridiano.net",
     "Metro Ecuador",
-    "Metro Ecuador on MSN",
     "Metro.Style",
     "Milenio",
     "Milenio on MSN",
@@ -2402,9 +2263,7 @@
     "SNNewsWatch.com",
     "Semana",
     "Semana on MSN",
-    "Show News",
     "SooLeader.com",
-    "Soy Carmín",
     "SoyChile.cl",
     "Squamish Chief",
     "St. Albert Gazette",
@@ -2427,6 +2286,7 @@
     "Thunder Bay News - TBNewsWatch.com",
     "Times Colonist",
     "TimminsToday.com",
+    "TownAndCountryToday.com",
     "Univision",
     "UnoTV on MSN",
     "Vietnam.vn",
@@ -2443,8 +2303,8 @@
     "tribunademexico",
     "wapa.tv"
    ],
-   "n_items": 364,
-   "n_sources": 144,
+   "n_items": 355,
+   "n_sources": 142,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2658,7 +2518,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 655
+   "score": 642
   },
   {
    "key": "p:the big night",
@@ -3051,62 +2911,62 @@
    "extra_at": "2026-11-24T23:26:41.813326+00:00",
    "social": [
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DbRAQw5oCmr",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DcXRGLPM034",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DcXa4EeN1mV",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DeV3znYHASa",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DeVnuB8Mh1c",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DeWSnLvsRAI",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/Df_oXeAG2YP",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DgBXeBFgJbZ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DgBaxf5MEzQ",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DgBhDpsBiZt",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DgBl1TFIgh_",
      "platform": "Instagram"
     },
     {
-     "fetched": "2026-11-25T01:10:41.821467+00:00",
+     "fetched": "2026-11-25T02:14:42.102900+00:00",
      "url": "https://www.instagram.com/p/DgEKRC3pkN8",
      "platform": "Instagram"
     }
@@ -3185,20 +3045,19 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T16:30:34.294552+00:00",
-   "start": "2026-11-24T13:00:52+00:00",
+   "start": "2026-11-24T14:10:00+00:00",
    "last_activity": "2026-11-24T16:26:17+00:00",
    "item_ids": [
     "986effe936a1a2",
     "5950cd93075b47",
     "904200807a772a",
-    "c19ff037e0b619",
-    "81ae863b016512"
+    "c19ff037e0b619"
    ],
    "sources": [
     "AS Colombia",
     "Facebook"
    ],
-   "n_items": 5,
+   "n_items": 4,
    "n_sources": 2,
    "videos": [],
    "views_total": 0,
@@ -3507,7 +3366,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 9
+   "score": 8
   },
   {
    "key": "seed:mi-natcos",
@@ -3543,7 +3402,7 @@
      "vid": "eNW-a9sHZso",
      "title": "MISS INTERNATIONAL 2026 - WHO WON BEST NATIONAL COSTUME? My TOP 5 Will SHOCK You!",
      "channel": "Hi Along",
-     "views": 6757,
+     "views": 6739,
      "ago": "hace 6 días",
      "official": false
     },
@@ -3551,12 +3410,12 @@
      "vid": "sBc2cmDSTWE",
      "title": "MISS INTERNATIONAL 2026 👑 || NEXT LEVEL! 💫 THE MOST STUNNING LATINAS IN NATIONAL COSTUME 💫",
      "channel": "SNOW SIN FILTRO",
-     "views": 3948,
+     "views": 3925,
      "ago": "hace 9 días",
      "official": false
     }
    ],
-   "views_total": 35644,
+   "views_total": 35603,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/sBc2cmDSTWE/maxresdefault.jpg",
@@ -3687,46 +3546,28 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
     "23e4fd806f1c6c",
     "af3bd931fff94e",
-    "a2e8dd492228a0",
-    "f196b611dc70b7"
+    "a2e8dd492228a0"
    ],
    "sources": [
     "ColombiaOne.com",
     "Infobae",
-    "YouTube · Telemundo Entretenimiento",
-    "colombiaone"
+    "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://cdn.wallpapersafari.com/96/18/Ui6QsJy.webp",
-     "page": "https://wallpapersafari.com/best-roblox-wallpapers/",
-     "via": "Bing Imágenes",
-     "credit": "wallpapersafari.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.i_MsFuCf9L8Y7Y3UtO4VhgHaEO&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
-   "extra_images": [
-    {
-     "url": "https://cdn.wallpapersafari.com/96/18/Ui6QsJy.webp",
-     "page": "https://wallpapersafari.com/best-roblox-wallpapers/",
-     "via": "Bing Imágenes",
-     "credit": "wallpapersafari.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.i_MsFuCf9L8Y7Y3UtO4VhgHaEO&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T23:10:41.606262+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-25T02:14:42.102900+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3735,7 +3576,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 15
+   "score": 12
   },
   {
    "key": "agenda:mu:desfile-de-trajes-tipicos-national-costume",
@@ -3746,7 +3587,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -3989,7 +3830,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -4038,7 +3879,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -4269,7 +4110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -4318,7 +4159,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:06:41.845397+00:00",
+   "first_seen": "2026-11-25T02:14:42.102900+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
