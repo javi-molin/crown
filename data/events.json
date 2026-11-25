@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:14:49.610103+00:00",
+ "updated": "2026-11-25T08:22:58.044909+00:00",
  "count": 18,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -309,12 +309,12 @@
      "vid": "quLHTBghoEw",
      "title": "Las candidatas latinas deslumbran en Traje de Gala en la Preliminar | Miss Universo 2026",
      "channel": "Telemundo Entretenimiento y Telemundo",
-     "views": 162151,
+     "views": 162280,
      "ago": "hace 2 días",
      "official": false
     }
    ],
-   "views_total": 162151,
+   "views_total": 162280,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/quLHTBghoEw/maxresdefault.jpg",
@@ -959,25 +959,9 @@
    ],
    "n_items": 3,
    "n_sources": 3,
-   "videos": [
-    {
-     "vid": "XCtbtzp-L9Y",
-     "title": "Top 15 MOST VOTED National Costumes | Miss Universe 2026  VOTE NOW!",
-     "channel": "The Filmy Folk",
-     "views": 1550,
-     "ago": "hace 15 h",
-     "official": false
-    }
-   ],
-   "views_total": 1550,
+   "videos": [],
+   "views_total": 0,
    "images": [
-    {
-     "url": "https://i.ytimg.com/vi/XCtbtzp-L9Y/maxresdefault.jpg",
-     "alt": "https://i.ytimg.com/vi/XCtbtzp-L9Y/hqdefault.jpg",
-     "page": "https://www.youtube.com/watch?v=XCtbtzp-L9Y",
-     "via": "YouTube (miniatura)",
-     "credit": "The Filmy Folk"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf/page1-960px-%28Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities%29_%281%29_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:(Equal_Opportunity_re-_Minority_College_Graduate_Job_Opportunities)_(1)_-_DPLA_-_7f12e5084f199a899f83590356ae6339.pdf",
@@ -1325,11 +1309,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "864e8a237e9e56",
+    "57b0a754833a2a",
     "2641d49f8c4e6d",
     "6143f80b4ca9e8",
     "9039e538da0e42",
@@ -1345,6 +1330,7 @@
     "b6b395b854018d",
     "5f48bf56848df4",
     "e99beb116b8da8",
+    "a2a48fc855cfba",
     "93c325e5f16031",
     "75d9c8d362f3b8",
     "bff8854dbc4600",
@@ -1446,9 +1432,7 @@
     "2df1ef89f3f25e",
     "59560815e06147",
     "24a5e1b5095cf0",
-    "2644bf6286b1e6",
-    "1d775d747efd4c",
-    "43d37745612a89"
+    "2644bf6286b1e6"
    ],
    "sources": [
     "24horas",
@@ -1469,6 +1453,7 @@
     "DW.com",
     "Delta Optimist",
     "Depor",
+    "Diario Las Américas",
     "El Comercio Perú",
     "El Espectador",
     "El Financiero",
@@ -1520,6 +1505,7 @@
     "RNZ",
     "Radio Agricultura",
     "Reporte Indigo",
+    "Revista GENTE",
     "Richmond News",
     "Rocky Mountain Outlook",
     "SNNewsWatch.com",
@@ -1547,8 +1533,8 @@
     "https://estapasando.cl/",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 280,
-   "n_sources": 95,
+   "n_items": 282,
+   "n_sources": 97,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1762,7 +1748,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 473
+   "score": 479
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -1773,7 +1759,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [],
@@ -1822,7 +1808,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -1875,7 +1861,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -1924,7 +1910,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -1933,11 +1919,209 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://static01.nyt.com/images/2015/03/29/magazine/29onmoney/29onmoney-facebookJumbo-v2.jpg?year=2015&h=363&w=695&s=68ef720504b7a674b76ae1755c496570e6591ee60e128a2f6a8657f645f55e6b&k=ZQJBKqZ0VN",
+     "page": "https://www.nytimes.com/2015/03/29/magazine/debunking-the-myth-of-the-job-stealing-immigrant.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ky8IWcJdNnGUp3poEqv4VQHaD3&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2010/10/31/business/VIEW/VIEW-jumbo.jpg?quality=75&auto=webp",
+     "page": "https://www.nytimes.com/2010/10/31/business/economy/31view.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.POuoIou2gsaBxOd1a0MvDAHaF8&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2017/10/25/business/25PORTER2/25PORTER2-jumbo.jpg?quality=90&auto=webp",
+     "page": "https://www.nytimes.com/2017/10/24/business/economy/immigration-jobs.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-5UtTb17Sr8kehSq5pDG9QHaEh&pid=15.1"
+    },
+    {
+     "url": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/blogs/the-fix/files/2015/03/Industries.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+     "page": "https://www.washingtonpost.com/news/the-fix/wp/2015/03/27/where-americas-undocumented-immigrants-work/",
+     "via": "Bing Imágenes",
+     "credit": "washingtonpost.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tj2wORJbNKMu0UWqp8c9UgHaGr&pid=15.1"
+    },
+    {
+     "url": "https://cdn.statcdn.com/Infographic/images/normal/34074.jpeg",
+     "page": "https://www.statista.com/chart/34074/us-industries-highest-share-of-the-workforce-undocumented-immigrants/",
+     "via": "Bing Imágenes",
+     "credit": "statista.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XEqVSoshVaSNTNzY2Rt7EQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20212/6059175d2cfac27633323b2f_Man with immigrants create jobs sign/Man with immigrants create jobs sign_mid.jpg",
+     "page": "https://newsroom.ucla.edu/releases/citizenship-unauthorized-immigrants-us-economy",
+     "via": "Bing Imágenes",
+     "credit": "newsroom.ucla.edu",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.HFoHk7JPqGaPf9h_p5Pv_wHaE7&pid=15.1"
+    },
+    {
+     "url": "https://ei.marketwatch.com/Multimedia/2017/03/15/Photos/NS/MW-FI222_201703_20170315171527_NS.png?uuid=8356315c-09c4-11e7-8c89-001cc448aede",
+     "page": "https://www.marketwatch.com/story/undocumented-immigrants-are-most-likely-to-work-in-these-jobs-2017-03-16",
+     "via": "Bing Imágenes",
+     "credit": "marketwatch.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.CxtjPjHApFrmSKqsa4Y4pAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/I/61foEybdulL._SL1087_.jpg",
+     "page": "https://www.amazon.com/They-Take-Our-Jobs-Immigration/dp/0807041564",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5fr7A2DX1ZYgQV6-mW7rhgHaLg&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2017/10/25/business/25PORTER1/25PORTER1-facebookJumbo.jpg",
+     "page": "https://www.nytimes.com/2017/10/24/business/economy/immigration-jobs.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0GXGHcvuJFvODH9fVfRBtgHaD4&pid=15.1"
+    },
+    {
+     "url": "https://imageio.forbes.com/blogs-images/niallmccarthy/files/2017/03/20170317_Immigrants.jpg?format=jpg&height=900&width=1600&fit=bounds",
+     "page": "https://www.forbes.com/sites/niallmccarthy/2017/03/17/the-u-s-industries-with-the-most-immigrant-workers-infographic/",
+     "via": "Bing Imágenes",
+     "credit": "forbes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.VOIYPkR33wsYcpMvRaw3WAHaFR&pid=15.1"
+    },
+    {
+     "url": "https://www.urban.org/sites/default/files/immigrantjobs.png",
+     "page": "https://www.urban.org/urban-wire/immigrant-and-native-workers-compete-different-low-skilled-jobs",
+     "via": "Bing Imágenes",
+     "credit": "urban.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1VehR88p2M6Iy2O6ODZh6gHaEj&pid=15.1"
+    },
+    {
+     "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6XIGAV2MMI6TDUDJZTIP2MYCQ.jpg&w=1440",
+     "page": "https://www.washingtonpost.com/opinions/2019/08/16/yes-undocumented-immigrants-take-jobs-americans-heres-proof/",
+     "via": "Bing Imágenes",
+     "credit": "washingtonpost.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XfhT8HBn1LXWBQcaYH9vfQHaE5&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2015/01/07/opinion/rfdmigrants/rfdmigrants-sfSpan.jpg",
+     "page": "https://www.nytimes.com/roomfordebate/2015/01/06/do-immigrants-take-jobs-from-american-born-workers",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.BH4zow1RktCzPyGd-XKUzQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://s7d2.scene7.com/is/image/TWCNews/Immigration NC Farms AP FILE 2007",
+     "page": "https://spectrumlocalnews.com/us/snplus/politics/2023/07/01/lawmakers-take-third-swing-at-reforming-migrant-worker-visa-law",
+     "via": "Bing Imágenes",
+     "credit": "spectrumlocalnews.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.GTmPSVT4wS7-lQG0CRhv9wHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Tours culturales y beneficencia",
-   "extra_images": [],
-   "extra_at": "2026-11-25T08:14:49.610103+00:00",
+   "extra_images": [
+    {
+     "url": "https://static01.nyt.com/images/2015/03/29/magazine/29onmoney/29onmoney-facebookJumbo-v2.jpg?year=2015&h=363&w=695&s=68ef720504b7a674b76ae1755c496570e6591ee60e128a2f6a8657f645f55e6b&k=ZQJBKqZ0VN",
+     "page": "https://www.nytimes.com/2015/03/29/magazine/debunking-the-myth-of-the-job-stealing-immigrant.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ky8IWcJdNnGUp3poEqv4VQHaD3&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2010/10/31/business/VIEW/VIEW-jumbo.jpg?quality=75&auto=webp",
+     "page": "https://www.nytimes.com/2010/10/31/business/economy/31view.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.POuoIou2gsaBxOd1a0MvDAHaF8&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2017/10/25/business/25PORTER2/25PORTER2-jumbo.jpg?quality=90&auto=webp",
+     "page": "https://www.nytimes.com/2017/10/24/business/economy/immigration-jobs.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.-5UtTb17Sr8kehSq5pDG9QHaEh&pid=15.1"
+    },
+    {
+     "url": "https://www.washingtonpost.com/pbox.php?url=http://www.washingtonpost.com/blogs/the-fix/files/2015/03/Industries.png&w=1484&op=resize&opt=1&filter=antialias&t=20170517",
+     "page": "https://www.washingtonpost.com/news/the-fix/wp/2015/03/27/where-americas-undocumented-immigrants-work/",
+     "via": "Bing Imágenes",
+     "credit": "washingtonpost.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.tj2wORJbNKMu0UWqp8c9UgHaGr&pid=15.1"
+    },
+    {
+     "url": "https://cdn.statcdn.com/Infographic/images/normal/34074.jpeg",
+     "page": "https://www.statista.com/chart/34074/us-industries-highest-share-of-the-workforce-undocumented-immigrants/",
+     "via": "Bing Imágenes",
+     "credit": "statista.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XEqVSoshVaSNTNzY2Rt7EQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://s3.amazonaws.com/cms.ipressroom.com/173/files/20212/6059175d2cfac27633323b2f_Man with immigrants create jobs sign/Man with immigrants create jobs sign_mid.jpg",
+     "page": "https://newsroom.ucla.edu/releases/citizenship-unauthorized-immigrants-us-economy",
+     "via": "Bing Imágenes",
+     "credit": "newsroom.ucla.edu",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.HFoHk7JPqGaPf9h_p5Pv_wHaE7&pid=15.1"
+    },
+    {
+     "url": "https://ei.marketwatch.com/Multimedia/2017/03/15/Photos/NS/MW-FI222_201703_20170315171527_NS.png?uuid=8356315c-09c4-11e7-8c89-001cc448aede",
+     "page": "https://www.marketwatch.com/story/undocumented-immigrants-are-most-likely-to-work-in-these-jobs-2017-03-16",
+     "via": "Bing Imágenes",
+     "credit": "marketwatch.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.CxtjPjHApFrmSKqsa4Y4pAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/I/61foEybdulL._SL1087_.jpg",
+     "page": "https://www.amazon.com/They-Take-Our-Jobs-Immigration/dp/0807041564",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.5fr7A2DX1ZYgQV6-mW7rhgHaLg&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2017/10/25/business/25PORTER1/25PORTER1-facebookJumbo.jpg",
+     "page": "https://www.nytimes.com/2017/10/24/business/economy/immigration-jobs.html",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.0GXGHcvuJFvODH9fVfRBtgHaD4&pid=15.1"
+    },
+    {
+     "url": "https://imageio.forbes.com/blogs-images/niallmccarthy/files/2017/03/20170317_Immigrants.jpg?format=jpg&height=900&width=1600&fit=bounds",
+     "page": "https://www.forbes.com/sites/niallmccarthy/2017/03/17/the-u-s-industries-with-the-most-immigrant-workers-infographic/",
+     "via": "Bing Imágenes",
+     "credit": "forbes.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.VOIYPkR33wsYcpMvRaw3WAHaFR&pid=15.1"
+    },
+    {
+     "url": "https://www.urban.org/sites/default/files/immigrantjobs.png",
+     "page": "https://www.urban.org/urban-wire/immigrant-and-native-workers-compete-different-low-skilled-jobs",
+     "via": "Bing Imágenes",
+     "credit": "urban.org",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1VehR88p2M6Iy2O6ODZh6gHaEj&pid=15.1"
+    },
+    {
+     "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6XIGAV2MMI6TDUDJZTIP2MYCQ.jpg&w=1440",
+     "page": "https://www.washingtonpost.com/opinions/2019/08/16/yes-undocumented-immigrants-take-jobs-americans-heres-proof/",
+     "via": "Bing Imágenes",
+     "credit": "washingtonpost.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.XfhT8HBn1LXWBQcaYH9vfQHaE5&pid=15.1"
+    },
+    {
+     "url": "https://static01.nyt.com/images/2015/01/07/opinion/rfdmigrants/rfdmigrants-sfSpan.jpg",
+     "page": "https://www.nytimes.com/roomfordebate/2015/01/06/do-immigrants-take-jobs-from-american-born-workers",
+     "via": "Bing Imágenes",
+     "credit": "nytimes.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.BH4zow1RktCzPyGd-XKUzQAAAA&pid=15.1"
+    },
+    {
+     "url": "https://s7d2.scene7.com/is/image/TWCNews/Immigration NC Farms AP FILE 2007",
+     "page": "https://spectrumlocalnews.com/us/snplus/politics/2023/07/01/lawmakers-take-third-swing-at-reforming-migrant-worker-visa-law",
+     "via": "Bing Imágenes",
+     "credit": "spectrumlocalnews.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.GTmPSVT4wS7-lQG0CRhv9wHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T08:22:58.044909+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1957,7 +2141,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -2188,7 +2372,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T08:14:49.610103+00:00",
+   "first_seen": "2026-11-25T08:22:58.044909+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
