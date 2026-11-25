@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T21:11:15.317660+00:00",
- "new_this_run": 1043,
+ "updated": "2026-11-25T21:19:16.334441+00:00",
+ "new_this_run": 1236,
  "count": 900,
  "items": [
   {
@@ -72,6 +72,24 @@
    "first_seen": "2026-11-25T21:11:15.317660+00:00"
   },
   {
+   "id": "e4eb208f891250",
+   "type": "news",
+   "title": "Why People Are Calling The Miss Universe Results Into Question After A Historic Win",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5Tkl0WmxmUUxxU2dIM3pFRXI1aldYQ2QxQ3hWVkQ5WEhVSUpubWtsa2gzQ3J1S1dJZDlpeEM1UnpKWXgtN0cwOThiR083SGNyRzkxbGcyOU5lUTlVZXZtQUJNVURPWlVCMVptY2luZms4eUlVdVV3YWxKaE0xQQ?oc=5",
+   "source": "Yahoo News Singapore",
+   "published": "2026-11-25T20:50:22+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
+  },
+  {
    "id": "55d0e887f0bf31",
    "type": "news",
    "title": "New Miss Universe’s Puerto Rican hometown celebrates her historic win",
@@ -127,6 +145,28 @@
     }
    ],
    "first_seen": "2026-11-25T20:39:15.361638+00:00"
+  },
+  {
+   "id": "56c1150c093d4a",
+   "type": "news",
+   "title": "Jennifer Barreto Makes Miss Universe History as the First Mom to Win",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajhnSUcxUjZfbmlBb3JoWVMzYzUxRldKY1BvTXdXcV9VSjJXVHU1SDBKZHFJYndNU1VlejM0MkZVWXFzazRLZ2RCaFFzQzZIdXlWT0VuTlZyVDdnNHNqWk80dXVROG5sbzZBc09ycm42b29SWDExOUlRcUNDOTdDd216TGR6NDRYalQ5WU1YWDQxc3lqRnZ1QTFCaWQxWEcwMGpYQWFZSzU1Zw?oc=5",
+   "source": "Yahoo",
+   "published": "2026-11-25T20:19:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
   },
   {
    "id": "304da160d82159",
@@ -3093,6 +3133,30 @@
    "first_seen": "2026-11-25T14:39:07.256020+00:00"
   },
   {
+   "id": "9376c097b666fc",
+   "type": "news",
+   "title": "Miss Universe 2026 Crowns Miss Puerto Rico as Winner, Marking First Mom to Win Pageant",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53R0ZzWWJyWWwxOGQya1Z5anFWa0l4TE82Tll2WU1iaTNLVzNMOENLQ0NHTkdBdTctNkVFSlJ4d0xJZHRHOGVTWjZTNGdLNWFhMTA0cXpCS1M3WkhaQTF3MnRuWC0ya2g2WHZiVTh0YWdIY3dqQ1BrazNB?oc=5",
+   "source": "People.com",
+   "published": "2026-11-25T14:36:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "Miss Universe controversy",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
+  },
+  {
    "id": "fc0a191e0221f8",
    "type": "news",
    "title": "Washington Post. . Miss Universe wrapped up its 75th competition on Nov. 24, and it’s been a spectacular hot mess. Read the full story: https://wapo.st/48zuUbp",
@@ -4790,7 +4854,9 @@
    "contests": [
     "mu"
    ],
-   "tags": [],
+   "tags": [
+    "resultados"
+   ],
    "thumb": "http://www.bing.com/th?id=ONUT.MbZ0iLLGXPV8lHnxX80FGQ&pid=News",
    "query": "Miss Universe 2026",
    "who": [
@@ -4951,6 +5017,31 @@
     }
    ],
    "first_seen": "2026-11-25T13:02:57.464992+00:00"
+  },
+  {
+   "id": "2c8b5531c4e736",
+   "type": "news",
+   "title": "Radiante Jennifer Barreto en su primera aparición oficial como Miss Universe 2026",
+   "summary": "Jennifer Barreto realizó su primera salida oficial como la nueva soberana del universo.",
+   "link": "https://wapa.tv/galerias/programas/radiante-jennifer-barreto-en-su-primera-aparici-n-oficial-como-miss-universe-2026/collection_7a9e9f70-7911-4577-8300-b874c3297d05.html",
+   "direct": true,
+   "source": "wapa.tv",
+   "published": "2026-11-25T13:00:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.eV4by50FdlBkZMb44TMg0Q&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
   },
   {
    "id": "005f4c926edbde",
@@ -6778,6 +6869,34 @@
     }
    ],
    "first_seen": "2026-11-25T13:42:57.455999+00:00"
+  },
+  {
+   "id": "580009a50a8957",
+   "type": "news",
+   "title": "Jennifer Barreto Makes Miss Universe History as the First Mom to Win",
+   "summary": "Add Yahoo as a preferred source to see more of our stories on Google. Credit: Unsplash Puerto Rico's Jennifer Barreto has made history after being crowned Miss Universe 2026, becoming the first mother ...",
+   "link": "https://www.yahoo.com/entertainment/celebrity/articles/jennifer-barreto-makes-miss-universe-201900052.html",
+   "direct": true,
+   "source": "Yahoo",
+   "published": "2026-11-25T12:19:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mi",
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "thumb": null,
+   "query": "Miss International 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
   },
   {
    "id": "2743f28214fa59",
@@ -15764,6 +15883,28 @@
    "first_seen": "2026-11-25T10:46:57.541216+00:00"
   },
   {
+   "id": "9eaf00c8767df8",
+   "type": "news",
+   "title": "República Dominicana celebra el segundo lugar de Melissa Núñez en Miss Universe 2026",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWtYMGo1dWN6dm5JR29UNEdqY1FDclh2SElqc1YtS3pEVTdSQm8taG9hcUlzWkZ2bmRDSk9pNTJKNHRXOXlweWtiSUhETlN4V0lwVUFNRVUyOWloajNTalY3YjdlRXJUUExwcjU5b0ZiT2VqcGoxajUxempQLTAxeXVfWmlDMTVaY0ZfRy1KUlJXY2lJbEtiN2I3bDVYQU5JRk1LRlhIMmtaZTdsc0pqc0JqSGdwYkh4b0hETk80LVlaeXhWR3RqUkJVS3ZQNUxaUFdjeHg2dFdoZTBRZVJ3T05rZVl5dmJrLUNpTkZfUXlaVVU1UjhKT2lB?oc=5",
+   "source": "Telemundo",
+   "published": "2026-11-25T07:12:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Dominican Republic",
+     "name": "Melissa Núñez"
+    }
+   ],
+   "first_seen": "2026-11-25T21:19:16.334441+00:00"
+  },
+  {
    "id": "7502cbc31e8d92",
    "type": "news",
    "title": "¡Una cifra MILLONARIA! Esto es lo que ganará Jennifer Barreto como Miss Universe 2026",
@@ -20182,149 +20323,6 @@
    "query": "beauty pageant",
    "who": [],
    "first_seen": "2026-11-25T07:42:49.674848+00:00"
-  },
-  {
-   "id": "e85a0d502e8d91",
-   "type": "news",
-   "title": "#Video | Ente lágrimas, así coronó Fátima Bosch a Jennifer Barreto, ganadora de Miss Universo 2026 https://mile.io/3XN2p7F",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWVBaMWE1NVJsX0wwYUg2Zlgyc1FjZl9wZy1iaU1fZXJkaU5pM0JiVDVzSDQwMjJlN1Foc1BHTW82alhQdTl0cUlyckstNFU0YUpmczAyVlJrTlNaZEpFRC1ma1VHZlhQc2tfUnBlVlJiTWVGR0d5M3BQcFgxdHU3MXM1eFJhYThOajhaN2F0dTRIN0xScDNvaWwwemFNc3BkaU1HdGpaUlhoYURRZENzN0FjbDFHQ3A0QVFrQndIa1JWUllodG5OVzhKcVpVOW1MMk1QR1lNMG9jSjcwQ1NJZ0hFMEJyWk5VVGlWY0FQUUxlczF1?oc=5",
-   "source": "Facebook",
-   "published": "2026-11-25T04:58:35+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "Miss Universo polémica",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T07:10:49.876301+00:00"
-  },
-  {
-   "id": "2795bf3653f2ad",
-   "type": "news",
-   "title": "Así es Jennifer Barreto, Miss Universe 2026: esposa, madre y especialista en prevención del Ejército de EE.UU.",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVGpzV1Z6ckFodnYzX2c5eWp3UTlYeWMxaDUzdU0wYzYyc3JyT3Z4UXpoODg0cHVMU2oweUlKcVl3NG1ESnJsNnA3Zzd6b1pmQXlxMG54dHJ1SE51ajNCN3AzVWpKdjlvR3NrVjlVRUlsOGpWQkY4cGpaamprd0V6N1FTVGJ0LVl4SUVEVGtKZ3V0RWNrWE5XS2NGLXRwVWZLM1ZxeG5XcVJpMVNIa0FVM25GZkhraTJaU255NVlSbGZnZDlKTGJVTm0yRlNlWURh?oc=5",
-   "source": "HOLA",
-   "published": "2026-11-25T04:58:31+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "certamen de belleza",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T05:10:50.189717+00:00"
-  },
-  {
-   "id": "ef103db32d101e",
-   "type": "news",
-   "title": "¿Quién es Jennifer Barreto, la primera madre en coronarse Miss Universo?",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkFkVmdaYTBaSHM4N2pQNGJZNm5oRFM4WW9sem9RZXgtQWZ2eEY1SXRDUnlyU0NlT0t5RkdtRHpqaHpqajhpakI2dGRnM1RoeW5RRWZYZjV4VldraFlnQUw0LThKVUhCUUdrbTVvWmxrN21JSUpZRXJBdUFHUV9LNnluZW13YUc5RjNPRC1wdHg4cUhDZXFDa0tFWUxQUjFEOFFKUkd5QXhWa3hxQl9WZl9zeGNlTGtpWWlzLWRzMjJaVWx5QmxySDRZc01NZTVpT2FV0gHbAUFVX3lxTE0xaUdLWVVVNFRJNkR0OTN4dEQzN2l3OUZrZmw0NWRIbG8zWHRacmwzTWc2UlFxV1VSYXNrbXJzN2pPU3J0dWs0M2NMR0REQXp2MnpEWExyakhTN1BkQmRrbmt1VWctd3QwUXlkOUVTcmd1WFgyTmJiQ01Dem5SYlBYLTVJanJBUU1Hal9jR3plLUdZQWtwRXZCTk91T3JYQ1hoMWtXNW0tV0JycFNRRGQtMXFpT2lxZWFEZGdSb0RaRXh2NVhncE1NSFRKajNWUjNTM1pnTllRV2NrYw?oc=5",
-   "source": "Telemundo Las Vegas",
-   "published": "2026-11-25T04:58:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "certamen de belleza",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T05:10:50.189717+00:00"
-  },
-  {
-   "id": "4e492696af263a",
-   "type": "news",
-   "title": "La comentada reacción de Neme tras la final del Miss Universo 2026: \"¿Cómo puede ganar Puerto Rico?\"",
-   "summary": "El periodista de Mucho Gusto se refirió al triunfo de Miss Puerto Rico en el Miss Universo 2026. Revisa el video con su reacción acá.",
-   "link": "https://www.fmdos.cl/noticias/la-comentada-reaccion-de-neme-tras-la-final-del-miss-universo-2026-como-puede-ganar-puerto-rico/",
-   "direct": true,
-   "source": "FMDOS",
-   "published": "2026-11-25T04:58:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.FYnoO54sjwpIMLyrW7-L5w&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T13:18:57.832643+00:00"
-  },
-  {
-   "id": "dc403007d6fb6c",
-   "type": "news",
-   "title": "¿Quién es Jennifer Barreto, la primera madre en coronarse Miss Universo?",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPV01DSUI4Qkozc0tvRGhxVjJvalRIVmFEbWN2S1VTeGFqUHhBenh6ZHVPVTJodnE3bHhoNnBkcl9Za0c3YnlHc0NGc1BCNHN3M0Z5cmx2VFFlR3JfVF9nTUFCNlVIUWtfNU1XdTBubE44amthRkUxVTEtSksxZG1Jc3lEWmQyUjZSUEozWHZVcWVDNjdFSUpuN2h5WmtwY3JjeEsxNEZNc08wLWpkZHNabTNmY2Z6OFpGV2xodTJrbG5jTGwxdDJ2ZUVGMDVfZnVxbVlJRUhaamJsUlFL0gHkAUFVX3lxTE1yVEMtdkN3UWFXTmRRcGlDNXJpcUh3ZUtqLUM0d0oxTmNEbm5jQ0Q2UFczWUJZRXdqVHBIZDBrcUNUQnJpRmJNOXVpZE5ycExRUG1XVU1jNDBUN0htT19nRm1jbkE5cmtiTm5TS3ZibUpUYnJHSnBzV3RBVFdKNUlCWWV2TmtGMmRPU1BwUkJmYjVoQjJ5cy1lZUVJMUVSMWxaVHJMVElKUlFUZWtLYmc5WGNqVWxtdGJtVVp1N3lrTTFUT05mRmNmQnFQRkNPeWU4ME5DZ3FYYy1EM09pYVplRnZ4Wg?oc=5",
-   "source": "Telemundo Nueva Inglaterra",
-   "published": "2026-11-25T04:58:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "certamen de belleza",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T14:31:06.432312+00:00"
-  },
-  {
-   "id": "157b447e73c3bc",
-   "type": "news",
-   "title": "Bea Millan-Windorski pays tribute to the Philippines in her finale gown: ‘Pearl of the Orient’",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNFJqTEZFTUNqWlNJcm9ta3FDa3NJdzZfOXJmZk43TmxDQnZqRnNtRGY5Y3RpWnVFNjdRQ19hVEFoZlFrX09BSVpIYmhHTlc1U1dWV25HVXNtV3pFeDh5NV8xY0FXZkJBdVI1MDJOUDNGWVpmaXpkb2ZVOGhPNW96MXZQWE9TVDZJYjdHSlpSeEE5UkNqMXlLXzA3aDhiNW5Qc0k5TkxsZ094RFlaYjhLRFdxYmljbXdQaUE0WUFMNTgxangycmtTbGlLY1pmcmdibkRVLUNORzFkMlhua1ZjZVdVczBPdWFGcm1vbE1TY0llbzBCa0h2YQ?oc=5",
-   "source": "ABS-CBN",
-   "published": "2026-11-25T04:57:00+00:00",
-   "lang": "en",
-   "contests": [],
-   "tags": [
-    "looks"
-   ],
-   "query": "beauty pageant",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Philippines",
-     "name": "Bea Millan-Windorski"
-    }
-   ],
-   "first_seen": "2026-11-25T05:02:49.377707+00:00"
   }
  ]
 }
