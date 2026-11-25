@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25T02:30:41.504354+00:00",
- "count": 25,
+ "updated": "2026-11-25T02:38:50.373781+00:00",
+ "count": 26,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -110,7 +110,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -147,6 +147,501 @@
    "score": 17
   },
   {
+   "key": "p:final night coverage",
+   "id": "p-final-night-coverage-31d4d",
+   "name": "Final Night Coverage",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "start": "2026-11-25T02:21:53+00:00",
+   "last_activity": "2026-11-25T02:36:15+00:00",
+   "item_ids": [
+    "ad340eeafbf815",
+    "5f03504d2acca2",
+    "d51157785e5d39",
+    "215913b00fb8f0",
+    "6d2be79321f5ce",
+    "e4480cb04fc854",
+    "17b7f5a8b6c331",
+    "1287aa408f2e70",
+    "856909d254c153",
+    "5432e41a244c12",
+    "f48da4d08a6620",
+    "5da5fa111150b7",
+    "ea78c1a1f88c65",
+    "bd711d1ff3e9bc",
+    "622623ae9b67a2",
+    "767eb298663977",
+    "6b24c6dcf4bab7"
+   ],
+   "sources": [
+    "Coast Reporter",
+    "Cochrane Eagle",
+    "ElliotLakeToday.com",
+    "EloraFergusToday.com",
+    "FlamboroughToday.com",
+    "North Shore News",
+    "OrilliaMatters.com",
+    "PelhamToday.ca",
+    "Richmond News",
+    "SNNewsWatch.com",
+    "SooLeader.com",
+    "Squamish Chief",
+    "St. Albert Gazette",
+    "Thunder Bay News - TBNewsWatch.com",
+    "TimminsToday.com"
+   ],
+   "n_items": 17,
+   "n_sources": 15,
+   "videos": [],
+   "views_total": 0,
+   "images": [],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 Final Night Coverage",
+   "extra_images": [],
+   "extra_at": "2026-11-25T02:38:50.373781+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 47
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-24T12:38:23.782201+00:00",
+   "start": "2026-11-24T15:59:00+00:00",
+   "last_activity": "2026-11-25T02:35:00+00:00",
+   "item_ids": [
+    "981cd5c0d98bff",
+    "2651ffbde29c05",
+    "506d210bb0b245",
+    "2dc17aa2e007e9",
+    "160fe5fa678c8a",
+    "47cca06a7ed108",
+    "ad09194edea0a4",
+    "bf6194a75a7438",
+    "1f3346d750b7ec",
+    "72a0952ff8422c",
+    "1a733eedb9bd01",
+    "3ce847911ad5fa",
+    "d659e7b08695b7",
+    "2b9d226768d9db",
+    "2e820b89c19287",
+    "29ddf9e5aa4b75",
+    "aa297c3f68bd96",
+    "0c748fdaefc385"
+   ],
+   "sources": [
+    "AS Colombia",
+    "CiberCuba",
+    "El Universal",
+    "El Universo",
+    "Howl.Link",
+    "Infobae",
+    "Meridiano.net",
+    "Metro Ecuador",
+    "Metro Puerto Rico",
+    "Minuto60",
+    "Primera Hora",
+    "nicaraguainvestiga",
+    "tribunademexico"
+   ],
+   "n_items": 18,
+   "n_sources": 13,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/EMNTRHQP5FBMHNLRCOBLCLI3IQ.png?auth=5108d13eadd6fe9b1f3d52b5b615fb6dcdf2fb6510ab10caa5f6dc6b6fb2a9db&width=1054&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-12-de-semifinalistas-que-avanzan-a-la-siguiente-ronda-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/ZGYC2UNDSZFBVM5A6ERMJZDEOY.png?auth=92bd3be391e896a948bd61c369204e35b16e09d29341661bba51dc90b7ea7309&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-12-de-semifinalistas-que-avanzan-a-la-siguiente-ronda-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/4E4XYQK7ZZBTRCXRKDVFFYHUXA.png?auth=3f045abd14577be7d16579754603b32c3f81ccbc298e68f2cbb5dbe8596323b8&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-12-de-semifinalistas-que-avanzan-a-la-siguiente-ronda-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/IIKR3IKMRJHZHDLXMPAN5PR7LE.jpg?auth=c0b7e9c475c82eb61cf4b768e2f209cbbc234e1ba3b4fdaf54db1d222385474d&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-12-de-semifinalistas-que-avanzan-a-la-siguiente-ronda-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.J3UAkqGhpObwOGv4_PE1Ww&pid=News",
+     "page": "https://www.eluniverso.com/entretenimiento/cine-y-television/miss-universo-2026-este-es-el-top-12-de-semifinalistas-que-avanzan-a-la-siguiente-ronda-nota/",
+     "via": "Bing (miniatura)",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795569100095.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/RZDYTOH5QZHBFGTKYUJ455CUFQ.png?auth=da38e3dcf78ad1f67623420c897d0622d1cab3c94138883a8c64c35291bc19d5&width=1043&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/asi-fue-la-presentacion-de-dalia-bucaram-en-la-final-de-miss-universo-2026-y-su-grito-por-ecuador-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/2JRFH2APQ5CS3IHIEBUKLH7SVA.png?auth=137a30842050d6fa2e0513d5117e2735f45c81399f1336c136a039c1cf5cb7a2&width=1194&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/asi-fue-la-presentacion-de-dalia-bucaram-en-la-final-de-miss-universo-2026-y-su-grito-por-ecuador-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniversal.com.co/resizer/v2/2RZA7NSEYVAVLM6XLDER2GEIIM.jpg?auth=56307ff97ee57ff63a2ae159c83090a803947c6df684a2cdaf2450f5a28df616&smart=true&width=1200&height=630&quality=70",
+     "page": "https://www.eluniversal.com.co/farandula/2026/11/24/ya-comenzo-miss-universo-2026-116-candidatas-buscan-la-corona-en-puerto-rico/",
+     "via": "El Universal",
+     "credit": "El Universal"
+    },
+    {
+     "url": "https://www.eluniversal.com.co/resizer/v2/miss-universo-Z7N7KEEPA5BLNKWVM4V4NJJZVQ.jpg?auth=3d0a8c6a88e1a906eb20720a79ba5a79472ec325e9ee91d4051e01c6dfd29539&smart=true&width=1200&height=802&quality=70",
+     "page": "https://www.eluniversal.com.co/farandula/2026/11/24/ya-comenzo-miss-universo-2026-116-candidatas-buscan-la-corona-en-puerto-rico/",
+     "via": "El Universal",
+     "credit": "El Universal"
+    },
+    {
+     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo.jpg.webp",
+     "page": "https://tribunademexico.com/miss-universo-2026/",
+     "via": "tribunademexico",
+     "credit": "tribunademexico"
+    },
+    {
+     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo-1024x576.jpg.webp",
+     "page": "https://tribunademexico.com/miss-universo-2026/",
+     "via": "tribunademexico",
+     "credit": "tribunademexico"
+    },
+    {
+     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo-620x420.jpg.webp",
+     "page": "https://tribunademexico.com/miss-universo-2026/",
+     "via": "tribunademexico",
+     "credit": "tribunademexico"
+    },
+    {
+     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/jesus-aguiar-150x150.jpg",
+     "page": "https://tribunademexico.com/miss-universo-2026/",
+     "via": "tribunademexico",
+     "credit": "tribunademexico"
+    },
+    {
+     "url": "https://www.primerahora.com/resizer/v2/ETRDA75LXRFWTOFPCAWUIVRR2E.JPG?auth=663a124af87c0768484cd47ef3aaaa5d1d88db73db64d2549bc7624299d51ea2&quality=75&width=1200&height=717&focal=2326%2C1693",
+     "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/jennifer-barreto-adelanta-detalles-del-vestido-con-el-que-sorprendera-en-miss-universe/",
+     "via": "Primera Hora",
+     "credit": "Primera Hora"
+    },
+    {
+     "url": "https://www.metroecuador.com.ec/resizer/v2/64CZCSREA5B7XHAQSG77MRF2EY.jpeg?smart=true&auth=bfbd8a83b57532eb3a9ce8a5b6862d0b6dbcb943787a855a285e4cf2de03ab89&width=1200&height=630",
+     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
+     "via": "Metro Ecuador",
+     "credit": "Metro Ecuador"
+    },
+    {
+     "url": "https://www.metroecuador.com.ec/resizer/v2/2Y4LTWDHXRFBTKGIS3SNPZ3Q5Y.jpg?smart=true&quality=70&auth=3f909ad60b0d7c94f4008927f88fecca04c5dbea0f92b5f37532aadc0fc2b70f&width=250&height=166",
+     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
+     "via": "Metro Ecuador",
+     "credit": "Metro Ecuador"
+    },
+    {
+     "url": "https://www.metroecuador.com.ec/resizer/v2/ZVFVLABV3NCSDJTPFMHQ5NVKZQ.jpg?smart=true&quality=70&auth=1c0d391cc49770d3bfeeed32b37ecf99508a81f9df7f3b8b7d5fc1541661838f&width=250&height=166",
+     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
+     "via": "Metro Ecuador",
+     "credit": "Metro Ecuador"
+    },
+    {
+     "url": "https://www.metroecuador.com.ec/resizer/v2/QWZURF23YJEEDILGZLN2K4SRDM.jpg?smart=true&quality=70&auth=1d2957451122085751a57a9e7e56a9e2eb97921a75fbcfc370919e4c1e7ce254&width=250&height=166",
+     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
+     "via": "Metro Ecuador",
+     "credit": "Metro Ecuador"
+    },
+    {
+     "url": "https://www.metroecuador.com.ec/resizer/v2/M7RQCOOT7RCXXCFGXCAKZJCPJU.jpeg?smart=true&quality=70&auth=5ade18fe2b64ccc0f33fcc3ea8cf2304d55f37138fc61b8993755380017244e3&width=250&height=166",
+     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
+     "via": "Metro Ecuador",
+     "credit": "Metro Ecuador"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/3C5WCFVNBFB2RBDOD4W3A7QCUA.jpeg?w=1200&h=630",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/7VNUCCG3BJD3LIDTY5JLRGMU4I.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/AHZLJUYTJNE5XHRSGRGQO3VZXY.png?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://imgcdn.stablediffusionweb.com/2024/11/25/b30c6bb8-1ebd-481e-8744-ab97745e1699.jpg",
+     "page": "https://stablediffusionweb.com/image/23693313-elegant-school-building-inspired-by-gothic-architecture",
+     "via": "Bing Imágenes",
+     "credit": "stablediffusionweb.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.m5icI5USSXlNH5q_3z_9wwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://planner5d.com/blog/content/images/2025/07/dark-academia-gothic-vibe.webp",
+     "page": "https://planner5d.com/blog/dark-academia-decor/",
+     "via": "Bing Imágenes",
+     "credit": "planner5d.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.euBTNCfTvNymp0Ki984o6AHaE1&pid=15.1"
+    },
+    {
+     "url": "https://as1.ftcdn.net/jpg/12/83/73/76/1000_F_1283737619_3axb9cLRep5vTbtdnUnRTxVZTnv6gpv0.jpg",
+     "page": "https://stock.adobe.com/images/dark-academia-interiors-feature-gothic-architecture-antique-furniture-and-rich-colors-gothic-illustration-dark-gothic-cathedral-interior-illustration/1283737619",
+     "via": "Bing Imágenes",
+     "credit": "stock.adobe.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.sKLxnkXH5sfa0WIE7XhTjQHaEJ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/70/b7/88/70b788a775d23a07a632c6e15ef033ed.jpg",
+     "page": "https://kr.pinterest.com/pin/161777811608575110/",
+     "via": "Bing Imágenes",
+     "credit": "kr.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.NjZcNMVnfrHYevGptZ0XLwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg",
+     "page": "https://wallpaperhub.github.io/desktop/gothic-architecture-dark-academia-wallpaper-desktop",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperhub.github.io",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.veoeF0aaoixzHcTkEFCuNwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.stockcake.com/public/7/e/3/7e318d5d-b5c7-4bf1-a87d-79f070a6dd40_medium/haunted-academia-architecture-stockcake.jpg",
+     "page": "https://stockcake.com/i/haunted-academia-architecture_4898889_2042749",
+     "via": "Bing Imágenes",
+     "credit": "stockcake.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.kyZfey58XuR9Fb5dyi3QqwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/premium-photo/dark-academia-gothic-architecture-illustrated-cathedral-building_53876-445064.jpg?w=2000",
+     "page": "https://www.freepik.com/premium-ai-image/dark-academia-gothic-architecture-illustrated-cathedral-building_299900558.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Gt_cm1Yj54ASPwIrSiDxQAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/91/41/cf/9141cfb381c367a585863723c4e083dd.jpg",
+     "page": "https://www.pinterest.com/pin/488288784614644570/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZPgC_l4iUkSd4aOrMKW3hgHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/0f/22/86/0f2286b62281c756b79dcaeca82c4833.jpg",
+     "page": "https://www.pinterest.com/pin/376965431308568038/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.UwUitTJE9gHt9RUIQBFrLAHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/04/55/be/0455bea9ab7a616aff68bc0da2aa5ce2.jpg",
+     "page": "https://www.pinterest.com/pin/dark-academia--43910165109944101/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EOM0b8L9yAKhqgsoG9eQpAHaJ3&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-369236494.jpg",
+     "page": "https://www.dreamstime.com/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-image369236494",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.PW1AN5sNUJH2QVeTSPG8cgHaFS&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/75/fc/d3/75fcd300d06a1e03f8757fa63e687e48.jpg",
+     "page": "https://ca.pinterest.com/pin/351912465477775/",
+     "via": "Bing Imágenes",
+     "credit": "ca.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMo5qsqfdyDgZ0wCTyPIJAHaJR&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/b6/77/78/b67778cdbd011c0af82da823984f6321.jpg",
+     "page": "https://fr.pinterest.com/pin/gothic-architecture-a-dark-academia-inspiration--668221663488664382/",
+     "via": "Bing Imágenes",
+     "credit": "fr.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bXVGfFBn0fstqYoktEeB9gHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/10/f6/46/10f646d30daa20ca44cf0a0db7686802.jpg",
+     "page": "https://www.pinterest.com/pin/notre-dame-cathedral-dark-academia-gothic-architecture-in-2025--613826624253405040/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.QDxxQ6o_qwMrHdZf9-0ewQHaNK&pid=15.1"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgI7Np_G6x9",
+    "https://www.instagram.com/reel/DgJV8FSh-iI"
+   ],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [
+    {
+     "url": "https://imgcdn.stablediffusionweb.com/2024/11/25/b30c6bb8-1ebd-481e-8744-ab97745e1699.jpg",
+     "page": "https://stablediffusionweb.com/image/23693313-elegant-school-building-inspired-by-gothic-architecture",
+     "via": "Bing Imágenes",
+     "credit": "stablediffusionweb.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.m5icI5USSXlNH5q_3z_9wwHaHa&pid=15.1"
+    },
+    {
+     "url": "https://planner5d.com/blog/content/images/2025/07/dark-academia-gothic-vibe.webp",
+     "page": "https://planner5d.com/blog/dark-academia-decor/",
+     "via": "Bing Imágenes",
+     "credit": "planner5d.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.euBTNCfTvNymp0Ki984o6AHaE1&pid=15.1"
+    },
+    {
+     "url": "https://as1.ftcdn.net/jpg/12/83/73/76/1000_F_1283737619_3axb9cLRep5vTbtdnUnRTxVZTnv6gpv0.jpg",
+     "page": "https://stock.adobe.com/images/dark-academia-interiors-feature-gothic-architecture-antique-furniture-and-rich-colors-gothic-illustration-dark-gothic-cathedral-interior-illustration/1283737619",
+     "via": "Bing Imágenes",
+     "credit": "stock.adobe.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.sKLxnkXH5sfa0WIE7XhTjQHaEJ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/70/b7/88/70b788a775d23a07a632c6e15ef033ed.jpg",
+     "page": "https://kr.pinterest.com/pin/161777811608575110/",
+     "via": "Bing Imágenes",
+     "credit": "kr.pinterest.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.NjZcNMVnfrHYevGptZ0XLwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg",
+     "page": "https://wallpaperhub.github.io/desktop/gothic-architecture-dark-academia-wallpaper-desktop",
+     "via": "Bing Imágenes",
+     "credit": "wallpaperhub.github.io",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.veoeF0aaoixzHcTkEFCuNwHaE8&pid=15.1"
+    },
+    {
+     "url": "https://images.stockcake.com/public/7/e/3/7e318d5d-b5c7-4bf1-a87d-79f070a6dd40_medium/haunted-academia-architecture-stockcake.jpg",
+     "page": "https://stockcake.com/i/haunted-academia-architecture_4898889_2042749",
+     "via": "Bing Imágenes",
+     "credit": "stockcake.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.kyZfey58XuR9Fb5dyi3QqwAAAA&pid=15.1"
+    },
+    {
+     "url": "https://img.freepik.com/premium-photo/dark-academia-gothic-architecture-illustrated-cathedral-building_53876-445064.jpg?w=2000",
+     "page": "https://www.freepik.com/premium-ai-image/dark-academia-gothic-architecture-illustrated-cathedral-building_299900558.htm",
+     "via": "Bing Imágenes",
+     "credit": "freepik.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.Gt_cm1Yj54ASPwIrSiDxQAHaE7&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/91/41/cf/9141cfb381c367a585863723c4e083dd.jpg",
+     "page": "https://www.pinterest.com/pin/488288784614644570/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZPgC_l4iUkSd4aOrMKW3hgHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/0f/22/86/0f2286b62281c756b79dcaeca82c4833.jpg",
+     "page": "https://www.pinterest.com/pin/376965431308568038/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.UwUitTJE9gHt9RUIQBFrLAHaJQ&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/04/55/be/0455bea9ab7a616aff68bc0da2aa5ce2.jpg",
+     "page": "https://www.pinterest.com/pin/dark-academia--43910165109944101/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EOM0b8L9yAKhqgsoG9eQpAHaJ3&pid=15.1"
+    },
+    {
+     "url": "https://thumbs.dreamstime.com/b/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-369236494.jpg",
+     "page": "https://www.dreamstime.com/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-image369236494",
+     "via": "Bing Imágenes",
+     "credit": "dreamstime.com",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.PW1AN5sNUJH2QVeTSPG8cgHaFS&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/736x/75/fc/d3/75fcd300d06a1e03f8757fa63e687e48.jpg",
+     "page": "https://ca.pinterest.com/pin/351912465477775/",
+     "via": "Bing Imágenes",
+     "credit": "ca.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMo5qsqfdyDgZ0wCTyPIJAHaJR&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/b6/77/78/b67778cdbd011c0af82da823984f6321.jpg",
+     "page": "https://fr.pinterest.com/pin/gothic-architecture-a-dark-academia-inspiration--668221663488664382/",
+     "via": "Bing Imágenes",
+     "credit": "fr.pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.bXVGfFBn0fstqYoktEeB9gHaE8&pid=15.1"
+    },
+    {
+     "url": "https://i.pinimg.com/originals/10/f6/46/10f646d30daa20ca44cf0a0db7686802.jpg",
+     "page": "https://www.pinterest.com/pin/notre-dame-cathedral-dark-academia-gothic-architecture-in-2025--613826624253405040/",
+     "via": "Bing Imágenes",
+     "credit": "pinterest.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.QDxxQ6o_qwMrHdZf9-0ewQHaNK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-24T23:42:41.961941+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-25T02:30:41.504354+00:00",
+     "url": "https://www.instagram.com/p/DgI7Np_G6x9",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-25T01:42:41.912030+00:00",
+     "url": "https://www.instagram.com/reel/DgJV8FSh-iI",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 44
+  },
+  {
    "key": "t:mu:Traje de baño:2026-11-24",
    "id": "t-mu-traje-de-bano-2026-11-24-0e8f2",
    "name": "Traje de baño · 24–26 nov",
@@ -158,25 +653,65 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T16:30:34.294552+00:00",
-   "start": "2026-11-24T16:26:17+00:00",
+   "start": "2026-11-24T15:59:00+00:00",
    "last_activity": "2026-11-25T02:23:00+00:00",
    "item_ids": [
     "c65f670f83735e",
+    "8d9c896e246807",
     "4bd5e4dd6071ab",
     "986effe936a1a2",
     "5950cd93075b47",
-    "904200807a772a"
+    "904200807a772a",
+    "0c748fdaefc385"
    ],
    "sources": [
     "El Universo",
     "Facebook",
-    "Mega.cl"
+    "Mega.cl",
+    "Meganoticias",
+    "Metro Puerto Rico"
    ],
-   "n_items": 5,
-   "n_sources": 3,
+   "n_items": 7,
+   "n_sources": 5,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/24/bikini-dominga-lopez_537199_2_6b064623acc2c.jpg?d=1200x675",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/24/dominga-lopez-top-30_537198_2_6b063e98b1c77.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/24/teresita-commentz_537174_1_6b05d74e4cc7f.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/24/naya-facil_537184_1_6b05f5abe1923.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/23/dominga-lopez_537106_1_6b04a76a4dffd.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
+    {
+     "url": "https://images2-mega.cdn.mdstrm.com/meganoticias/2026/11/24/ana-sol-romero-y-douglas_537128_2_6b056dd58e462.jpg?d=110x110",
+     "page": "https://www.meganoticias.cl/tendencias/537199-dominga-lopez-miss-universo-2026-traje-de-bano-top-30-24-11-2026.html",
+     "via": "Meganoticias",
+     "credit": "Meganoticias"
+    },
     {
      "url": "https://www.eluniverso.com/resizer/v2/7WIEP5QZJVC37JZF6HOZAFYLLY.png?auth=576f093ad32eb555c693eaaa9722f7bb0cd546a3a2924cd48624b34eee753a97&width=1004&height=670&quality=75&smart=true",
      "page": "https://www.eluniverso.com/entretenimiento/gente/dalia-bucaram-de-ecuador-desfila-en-traje-de-bano-en-la-final-de-miss-universo-2026-nota/",
@@ -188,6 +723,30 @@
      "page": "https://www.eluniverso.com/entretenimiento/gente/dalia-bucaram-de-ecuador-desfila-en-traje-de-bano-en-la-final-de-miss-universo-2026-nota/",
      "via": "Bing (miniatura)",
      "credit": "El Universo"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/3C5WCFVNBFB2RBDOD4W3A7QCUA.jpeg?w=1200&h=630",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/7VNUCCG3BJD3LIDTY5JLRGMU4I.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/AHZLJUYTJNE5XHRSGRGQO3VZXY.png?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
     },
     {
      "url": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1344931230980133",
@@ -462,486 +1021,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 11
-  },
-  {
-   "key": "p:final night coverage",
-   "id": "p-final-night-coverage-31d4d",
-   "name": "Final Night Coverage",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
-   "start": "2026-11-25T02:21:53+00:00",
-   "last_activity": "2026-11-25T02:22:03+00:00",
-   "item_ids": [
-    "f48da4d08a6620",
-    "5da5fa111150b7",
-    "ea78c1a1f88c65",
-    "bd711d1ff3e9bc",
-    "622623ae9b67a2",
-    "767eb298663977",
-    "6b24c6dcf4bab7"
-   ],
-   "sources": [
-    "ElliotLakeToday.com",
-    "North Shore News",
-    "Squamish Chief",
-    "St. Albert Gazette",
-    "Thunder Bay News - TBNewsWatch.com",
-    "TimminsToday.com"
-   ],
-   "n_items": 7,
-   "n_sources": 6,
-   "videos": [],
-   "views_total": 0,
-   "images": [],
-   "social_urls": [],
-   "image_query": "Miss Universe 2026 Final Night Coverage",
-   "extra_images": [],
-   "extra_at": "2026-11-25T02:30:41.504354+00:00",
-   "social": [],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 19
-  },
-  {
-   "key": "t:mu:Gala / cena:2026-11-24",
-   "id": "t-mu-gala-cena-2026-11-24-8532a",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-24T12:38:23.782201+00:00",
-   "start": "2026-11-24T15:09:00+00:00",
-   "last_activity": "2026-11-25T02:21:00+00:00",
-   "item_ids": [
-    "2651ffbde29c05",
-    "506d210bb0b245",
-    "2dc17aa2e007e9",
-    "160fe5fa678c8a",
-    "47cca06a7ed108",
-    "ad09194edea0a4",
-    "bf6194a75a7438",
-    "72a0952ff8422c",
-    "1a733eedb9bd01",
-    "3ce847911ad5fa",
-    "d659e7b08695b7",
-    "2b9d226768d9db",
-    "2e820b89c19287",
-    "29ddf9e5aa4b75",
-    "aa297c3f68bd96",
-    "72a7e2ee3fb3a4",
-    "e000bc5517f804"
-   ],
-   "sources": [
-    "AS Colombia",
-    "CiberCuba",
-    "Diario Las Américas",
-    "El Universal",
-    "El Universo",
-    "Howl.Link",
-    "Infobae",
-    "Meridiano.net",
-    "Metro Ecuador",
-    "Minuto60",
-    "Primera Hora",
-    "nicaraguainvestiga",
-    "tribunademexico"
-   ],
-   "n_items": 17,
-   "n_sources": 13,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795569100095.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.MHDUkChyV7JDWrVZ_nVWRw&pid=News",
-     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
-     "via": "Bing (miniatura)",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/RZDYTOH5QZHBFGTKYUJ455CUFQ.png?auth=da38e3dcf78ad1f67623420c897d0622d1cab3c94138883a8c64c35291bc19d5&width=1043&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/asi-fue-la-presentacion-de-dalia-bucaram-en-la-final-de-miss-universo-2026-y-su-grito-por-ecuador-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/2JRFH2APQ5CS3IHIEBUKLH7SVA.png?auth=137a30842050d6fa2e0513d5117e2735f45c81399f1336c136a039c1cf5cb7a2&width=1194&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/asi-fue-la-presentacion-de-dalia-bucaram-en-la-final-de-miss-universo-2026-y-su-grito-por-ecuador-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://www.eluniversal.com.co/resizer/v2/2RZA7NSEYVAVLM6XLDER2GEIIM.jpg?auth=56307ff97ee57ff63a2ae159c83090a803947c6df684a2cdaf2450f5a28df616&smart=true&width=1200&height=630&quality=70",
-     "page": "https://www.eluniversal.com.co/farandula/2026/11/24/ya-comenzo-miss-universo-2026-116-candidatas-buscan-la-corona-en-puerto-rico/",
-     "via": "El Universal",
-     "credit": "El Universal"
-    },
-    {
-     "url": "https://www.eluniversal.com.co/resizer/v2/miss-universo-Z7N7KEEPA5BLNKWVM4V4NJJZVQ.jpg?auth=3d0a8c6a88e1a906eb20720a79ba5a79472ec325e9ee91d4051e01c6dfd29539&smart=true&width=1200&height=802&quality=70",
-     "page": "https://www.eluniversal.com.co/farandula/2026/11/24/ya-comenzo-miss-universo-2026-116-candidatas-buscan-la-corona-en-puerto-rico/",
-     "via": "El Universal",
-     "credit": "El Universal"
-    },
-    {
-     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo.jpg.webp",
-     "page": "https://tribunademexico.com/miss-universo-2026/",
-     "via": "tribunademexico",
-     "credit": "tribunademexico"
-    },
-    {
-     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo-1024x576.jpg.webp",
-     "page": "https://tribunademexico.com/miss-universo-2026/",
-     "via": "tribunademexico",
-     "credit": "tribunademexico"
-    },
-    {
-     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/Candidata-mexicana-a-miss-universo-620x420.jpg.webp",
-     "page": "https://tribunademexico.com/miss-universo-2026/",
-     "via": "tribunademexico",
-     "credit": "tribunademexico"
-    },
-    {
-     "url": "https://storage.googleapis.com/tribunamexico-secure/2026/11/jesus-aguiar-150x150.jpg",
-     "page": "https://tribunademexico.com/miss-universo-2026/",
-     "via": "tribunademexico",
-     "credit": "tribunademexico"
-    },
-    {
-     "url": "https://www.primerahora.com/resizer/v2/ETRDA75LXRFWTOFPCAWUIVRR2E.JPG?auth=663a124af87c0768484cd47ef3aaaa5d1d88db73db64d2549bc7624299d51ea2&quality=75&width=1200&height=717&focal=2326%2C1693",
-     "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/jennifer-barreto-adelanta-detalles-del-vestido-con-el-que-sorprendera-en-miss-universe/",
-     "via": "Primera Hora",
-     "credit": "Primera Hora"
-    },
-    {
-     "url": "https://www.metroecuador.com.ec/resizer/v2/64CZCSREA5B7XHAQSG77MRF2EY.jpeg?smart=true&auth=bfbd8a83b57532eb3a9ce8a5b6862d0b6dbcb943787a855a285e4cf2de03ab89&width=1200&height=630",
-     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
-     "via": "Metro Ecuador",
-     "credit": "Metro Ecuador"
-    },
-    {
-     "url": "https://www.metroecuador.com.ec/resizer/v2/2Y4LTWDHXRFBTKGIS3SNPZ3Q5Y.jpg?smart=true&quality=70&auth=3f909ad60b0d7c94f4008927f88fecca04c5dbea0f92b5f37532aadc0fc2b70f&width=250&height=166",
-     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
-     "via": "Metro Ecuador",
-     "credit": "Metro Ecuador"
-    },
-    {
-     "url": "https://www.metroecuador.com.ec/resizer/v2/ZVFVLABV3NCSDJTPFMHQ5NVKZQ.jpg?smart=true&quality=70&auth=1c0d391cc49770d3bfeeed32b37ecf99508a81f9df7f3b8b7d5fc1541661838f&width=250&height=166",
-     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
-     "via": "Metro Ecuador",
-     "credit": "Metro Ecuador"
-    },
-    {
-     "url": "https://www.metroecuador.com.ec/resizer/v2/QWZURF23YJEEDILGZLN2K4SRDM.jpg?smart=true&quality=70&auth=1d2957451122085751a57a9e7e56a9e2eb97921a75fbcfc370919e4c1e7ce254&width=250&height=166",
-     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
-     "via": "Metro Ecuador",
-     "credit": "Metro Ecuador"
-    },
-    {
-     "url": "https://www.metroecuador.com.ec/resizer/v2/M7RQCOOT7RCXXCFGXCAKZJCPJU.jpeg?smart=true&quality=70&auth=5ade18fe2b64ccc0f33fcc3ea8cf2304d55f37138fc61b8993755380017244e3&width=250&height=166",
-     "page": "https://www.metroecuador.com.ec/entretenimiento/2026/11/25/miss-universo-2026-en-vivo-sigue-el-minuto-a-minuto-de-la-final/",
-     "via": "Metro Ecuador",
-     "credit": "Metro Ecuador"
-    },
-    {
-     "url": "https://www.eluniverso.com/resizer/v2/YEG2QTFG5RC4HCKI253WPQOY2E.jpg?auth=fe39ef2ad003dba6ea3537fc4fd7da8313d58903b7d62748b6103deba588ba3a&width=1190&height=670&quality=75&smart=true",
-     "page": "https://www.eluniverso.com/entretenimiento/gente/en-vivo-gala-final-del-miss-universo-2026-en-puerto-rico-como-es-el-concurso-y-todo-lo-que-debes-antes-del-evento-nota/",
-     "via": "El Universo",
-     "credit": "El Universo"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/bf2fb83bbef4afd1a3f3ce4e0abe1a7e/adjuntos/216/imagenes/100/288/0100288690/1200x675/smart/miss-universo_traje-tipico-venezuela.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/cecee24dc05f83470599e47e3c456b23/adjuntos/216/imagenes/100/288/0100288690/855x0/smart/miss-universo_traje-tipico-venezuela.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/05bca336a91e69c3226f20e1a5a61a93/adjuntos/216/imagenes/100/236/0100236669/116x65/smart/miss-universo-2025.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/0f5f596ba4b04600615bd3c4f062d44f/adjuntos/216/imagenes/100/238/0100238728/116x65/smart/clara-vegas-miss-venezuela-2025-afp.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/38abffcd08ebf230b59b31e99e4af0fa/adjuntos/216/imagenes/100/156/0100156354/avion-incautado-maduro-fort-lauderdale-afp.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/c73603c10d335dde76f0594c5cba8f5e/adjuntos/216/imagenes/100/288/0100288943/116x65/smart/inundaciones-sur-florida.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/d9b38faf43e579aecd750504055bd086/adjuntos/216/imagenes/100/288/0100288950/116x65/579x434:599x454/atentado-colombia-noviembre-2026.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/f6656a7f282d2153a3e16f8872603df6/adjuntos/216/imagenes/100/288/0100288940/116x65/smart/centro-correccional-turner-guilford-knight-tgk.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/d9c3de8396cf150c061524d235909236/adjuntos/216/imagenes/000/210/0000210592/116x65/smart/miami-brickell.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/3c7e842a52424f3653a30cb0d716bd54/adjuntos/216/imagenes/000/210/0000210592/855x0/smart/miami-brickell.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://imgcdn.stablediffusionweb.com/2024/11/25/b30c6bb8-1ebd-481e-8744-ab97745e1699.jpg",
-     "page": "https://stablediffusionweb.com/image/23693313-elegant-school-building-inspired-by-gothic-architecture",
-     "via": "Bing Imágenes",
-     "credit": "stablediffusionweb.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.m5icI5USSXlNH5q_3z_9wwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://planner5d.com/blog/content/images/2025/07/dark-academia-gothic-vibe.webp",
-     "page": "https://planner5d.com/blog/dark-academia-decor/",
-     "via": "Bing Imágenes",
-     "credit": "planner5d.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.euBTNCfTvNymp0Ki984o6AHaE1&pid=15.1"
-    },
-    {
-     "url": "https://as1.ftcdn.net/jpg/12/83/73/76/1000_F_1283737619_3axb9cLRep5vTbtdnUnRTxVZTnv6gpv0.jpg",
-     "page": "https://stock.adobe.com/images/dark-academia-interiors-feature-gothic-architecture-antique-furniture-and-rich-colors-gothic-illustration-dark-gothic-cathedral-interior-illustration/1283737619",
-     "via": "Bing Imágenes",
-     "credit": "stock.adobe.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.sKLxnkXH5sfa0WIE7XhTjQHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/70/b7/88/70b788a775d23a07a632c6e15ef033ed.jpg",
-     "page": "https://kr.pinterest.com/pin/161777811608575110/",
-     "via": "Bing Imágenes",
-     "credit": "kr.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.NjZcNMVnfrHYevGptZ0XLwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg",
-     "page": "https://wallpaperhub.github.io/desktop/gothic-architecture-dark-academia-wallpaper-desktop",
-     "via": "Bing Imágenes",
-     "credit": "wallpaperhub.github.io",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.veoeF0aaoixzHcTkEFCuNwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.stockcake.com/public/7/e/3/7e318d5d-b5c7-4bf1-a87d-79f070a6dd40_medium/haunted-academia-architecture-stockcake.jpg",
-     "page": "https://stockcake.com/i/haunted-academia-architecture_4898889_2042749",
-     "via": "Bing Imágenes",
-     "credit": "stockcake.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.kyZfey58XuR9Fb5dyi3QqwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/premium-photo/dark-academia-gothic-architecture-illustrated-cathedral-building_53876-445064.jpg?w=2000",
-     "page": "https://www.freepik.com/premium-ai-image/dark-academia-gothic-architecture-illustrated-cathedral-building_299900558.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Gt_cm1Yj54ASPwIrSiDxQAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/91/41/cf/9141cfb381c367a585863723c4e083dd.jpg",
-     "page": "https://www.pinterest.com/pin/488288784614644570/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZPgC_l4iUkSd4aOrMKW3hgHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/0f/22/86/0f2286b62281c756b79dcaeca82c4833.jpg",
-     "page": "https://www.pinterest.com/pin/376965431308568038/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.UwUitTJE9gHt9RUIQBFrLAHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/04/55/be/0455bea9ab7a616aff68bc0da2aa5ce2.jpg",
-     "page": "https://www.pinterest.com/pin/dark-academia--43910165109944101/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.EOM0b8L9yAKhqgsoG9eQpAHaJ3&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-369236494.jpg",
-     "page": "https://www.dreamstime.com/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-image369236494",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.PW1AN5sNUJH2QVeTSPG8cgHaFS&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/75/fc/d3/75fcd300d06a1e03f8757fa63e687e48.jpg",
-     "page": "https://ca.pinterest.com/pin/351912465477775/",
-     "via": "Bing Imágenes",
-     "credit": "ca.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMo5qsqfdyDgZ0wCTyPIJAHaJR&pid=15.1"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/p/DgI7Np_G6x9",
-    "https://www.instagram.com/reel/DgJV8FSh-iI"
-   ],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [
-    {
-     "url": "https://imgcdn.stablediffusionweb.com/2024/11/25/b30c6bb8-1ebd-481e-8744-ab97745e1699.jpg",
-     "page": "https://stablediffusionweb.com/image/23693313-elegant-school-building-inspired-by-gothic-architecture",
-     "via": "Bing Imágenes",
-     "credit": "stablediffusionweb.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.m5icI5USSXlNH5q_3z_9wwHaHa&pid=15.1"
-    },
-    {
-     "url": "https://planner5d.com/blog/content/images/2025/07/dark-academia-gothic-vibe.webp",
-     "page": "https://planner5d.com/blog/dark-academia-decor/",
-     "via": "Bing Imágenes",
-     "credit": "planner5d.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.euBTNCfTvNymp0Ki984o6AHaE1&pid=15.1"
-    },
-    {
-     "url": "https://as1.ftcdn.net/jpg/12/83/73/76/1000_F_1283737619_3axb9cLRep5vTbtdnUnRTxVZTnv6gpv0.jpg",
-     "page": "https://stock.adobe.com/images/dark-academia-interiors-feature-gothic-architecture-antique-furniture-and-rich-colors-gothic-illustration-dark-gothic-cathedral-interior-illustration/1283737619",
-     "via": "Bing Imágenes",
-     "credit": "stock.adobe.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.sKLxnkXH5sfa0WIE7XhTjQHaEJ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/70/b7/88/70b788a775d23a07a632c6e15ef033ed.jpg",
-     "page": "https://kr.pinterest.com/pin/161777811608575110/",
-     "via": "Bing Imágenes",
-     "credit": "kr.pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.NjZcNMVnfrHYevGptZ0XLwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://wallpapers.com/images/hd/national-history-museum-dark-academia-desktop-ybmge2u9gqwyxwwx.jpg",
-     "page": "https://wallpaperhub.github.io/desktop/gothic-architecture-dark-academia-wallpaper-desktop",
-     "via": "Bing Imágenes",
-     "credit": "wallpaperhub.github.io",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.veoeF0aaoixzHcTkEFCuNwHaE8&pid=15.1"
-    },
-    {
-     "url": "https://images.stockcake.com/public/7/e/3/7e318d5d-b5c7-4bf1-a87d-79f070a6dd40_medium/haunted-academia-architecture-stockcake.jpg",
-     "page": "https://stockcake.com/i/haunted-academia-architecture_4898889_2042749",
-     "via": "Bing Imágenes",
-     "credit": "stockcake.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.kyZfey58XuR9Fb5dyi3QqwAAAA&pid=15.1"
-    },
-    {
-     "url": "https://img.freepik.com/premium-photo/dark-academia-gothic-architecture-illustrated-cathedral-building_53876-445064.jpg?w=2000",
-     "page": "https://www.freepik.com/premium-ai-image/dark-academia-gothic-architecture-illustrated-cathedral-building_299900558.htm",
-     "via": "Bing Imágenes",
-     "credit": "freepik.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.Gt_cm1Yj54ASPwIrSiDxQAHaE7&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/91/41/cf/9141cfb381c367a585863723c4e083dd.jpg",
-     "page": "https://www.pinterest.com/pin/488288784614644570/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.ZPgC_l4iUkSd4aOrMKW3hgHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/0f/22/86/0f2286b62281c756b79dcaeca82c4833.jpg",
-     "page": "https://www.pinterest.com/pin/376965431308568038/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.UwUitTJE9gHt9RUIQBFrLAHaJQ&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/04/55/be/0455bea9ab7a616aff68bc0da2aa5ce2.jpg",
-     "page": "https://www.pinterest.com/pin/dark-academia--43910165109944101/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.EOM0b8L9yAKhqgsoG9eQpAHaJ3&pid=15.1"
-    },
-    {
-     "url": "https://thumbs.dreamstime.com/b/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-369236494.jpg",
-     "page": "https://www.dreamstime.com/mysterious-gothic-study-deep-dive-dark-academia-realm-step-captivating-world-shadows-elegance-meticulously-image369236494",
-     "via": "Bing Imágenes",
-     "credit": "dreamstime.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.PW1AN5sNUJH2QVeTSPG8cgHaFS&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/736x/75/fc/d3/75fcd300d06a1e03f8757fa63e687e48.jpg",
-     "page": "https://ca.pinterest.com/pin/351912465477775/",
-     "via": "Bing Imágenes",
-     "credit": "ca.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.TMo5qsqfdyDgZ0wCTyPIJAHaJR&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/b6/77/78/b67778cdbd011c0af82da823984f6321.jpg",
-     "page": "https://fr.pinterest.com/pin/gothic-architecture-a-dark-academia-inspiration--668221663488664382/",
-     "via": "Bing Imágenes",
-     "credit": "fr.pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.bXVGfFBn0fstqYoktEeB9gHaE8&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/10/f6/46/10f646d30daa20ca44cf0a0db7686802.jpg",
-     "page": "https://www.pinterest.com/pin/notre-dame-cathedral-dark-academia-gothic-architecture-in-2025--613826624253405040/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.QDxxQ6o_qwMrHdZf9-0ewQHaNK&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-24T23:42:41.961941+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-25T02:30:41.504354+00:00",
-     "url": "https://www.instagram.com/p/DgI7Np_G6x9",
-     "platform": "Instagram"
-    },
-    {
-     "fetched": "2026-11-25T01:42:41.912030+00:00",
-     "url": "https://www.instagram.com/reel/DgJV8FSh-iI",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 43
+   "score": 17
   },
   {
    "key": "p:grand finale full show tonight",
@@ -1744,22 +1824,13 @@
      "vid": "2T0GV5BP2-o",
      "title": "María Vargas, Miss México, convirtió sus desafíos en fortalezas | Telemundo Entretenimiento",
      "channel": "Telemundo Entretenimiento",
-     "views": 521,
+     "views": 526,
      "likes": 6,
      "published": "2026-11-25T01:12:55+00:00",
      "official": true
-    },
-    {
-     "vid": "BKgsqtXEKM8",
-     "title": "Miss Argentina, Miss Chile y Miss Perú llevan su talento más allá | Telemundo Entretenimiento",
-     "channel": "Telemundo Entretenimiento",
-     "views": 395,
-     "likes": 4,
-     "published": "2026-11-25T01:04:15+00:00",
-     "official": true
     }
    ],
-   "views_total": 916,
+   "views_total": 526,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/2T0GV5BP2-o/maxresdefault.jpg",
@@ -1773,7 +1844,7 @@
      "alt": "https://i.ytimg.com/vi/BKgsqtXEKM8/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=BKgsqtXEKM8",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://i.ytimg.com/vi/7YSbI7tHg80/maxresdefault.jpg",
@@ -2126,13 +2197,12 @@
    "contest": "mu",
    "kind": "oficial",
    "labels": [
-    "Preliminar",
     "Trajes típicos"
    ],
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T00:30:42.286376+00:00",
-   "start": "2026-11-24T15:09:00+00:00",
+   "start": "2026-11-24T15:59:00+00:00",
    "last_activity": "2026-11-25T00:27:00+00:00",
    "item_ids": [
     "af3bd931fff94e",
@@ -2141,7 +2211,6 @@
     "afc96dec1c070b",
     "188ce7669254b4",
     "01ac0eec3095ab",
-    "e000bc5517f804",
     "a2e8dd492228a0",
     "72a0952ff8422c"
    ],
@@ -2154,26 +2223,17 @@
     "Yahoo",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 9,
+   "n_items": 8,
    "n_sources": 7,
-   "videos": [
-    {
-     "vid": "8fBUD_d-bVM",
-     "title": "Miss Universo 2026: Transmisión Completa del Desfile de Traje Típico y la Competencia Preliminar",
-     "channel": "Telemundo Entretenimiento",
-     "views": 152166,
-     "ago": "Transmitido hace 2 h",
-     "official": false
-    }
-   ],
-   "views_total": 152166,
+   "videos": [],
+   "views_total": 0,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
      "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
      "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
      "via": "YouTube (miniatura)",
-     "credit": "Telemundo Entretenimiento"
+     "credit": "YouTube · Telemundo Entretenimiento"
     },
     {
      "url": "https://s.yimg.com/lo/mysterio/api/8473585f015cc84336f996c3a4ccc69ad18cc66899622cff1a7669b02c71e63a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fny_post_articles_869%2F0dcc163a5f19d9ff851285c1017192a6.jpg",
@@ -2240,66 +2300,6 @@
      "page": "https://www.yahoo.com/entertainment/celebrity/articles/wild-miss-universe-pageant-sees-005804242.html",
      "via": "Bing (miniatura)",
      "credit": "Yahoo"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/bf2fb83bbef4afd1a3f3ce4e0abe1a7e/adjuntos/216/imagenes/100/288/0100288690/1200x675/smart/miss-universo_traje-tipico-venezuela.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/cecee24dc05f83470599e47e3c456b23/adjuntos/216/imagenes/100/288/0100288690/855x0/smart/miss-universo_traje-tipico-venezuela.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/05bca336a91e69c3226f20e1a5a61a93/adjuntos/216/imagenes/100/236/0100236669/116x65/smart/miss-universo-2025.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/0f5f596ba4b04600615bd3c4f062d44f/adjuntos/216/imagenes/100/238/0100238728/116x65/smart/clara-vegas-miss-venezuela-2025-afp.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/38abffcd08ebf230b59b31e99e4af0fa/adjuntos/216/imagenes/100/156/0100156354/avion-incautado-maduro-fort-lauderdale-afp.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/c73603c10d335dde76f0594c5cba8f5e/adjuntos/216/imagenes/100/288/0100288943/116x65/smart/inundaciones-sur-florida.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/d9b38faf43e579aecd750504055bd086/adjuntos/216/imagenes/100/288/0100288950/116x65/579x434:599x454/atentado-colombia-noviembre-2026.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/f6656a7f282d2153a3e16f8872603df6/adjuntos/216/imagenes/100/288/0100288940/116x65/smart/centro-correccional-turner-guilford-knight-tgk.png",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/d9c3de8396cf150c061524d235909236/adjuntos/216/imagenes/000/210/0000210592/116x65/smart/miami-brickell.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
-    },
-    {
-     "url": "https://media.diariolasamericas.com/p/3c7e842a52424f3653a30cb0d716bd54/adjuntos/216/imagenes/000/210/0000210592/855x0/smart/miami-brickell.jpg",
-     "page": "https://www.diariolasamericas.com/cultura/miss-universo-2026-traje-tipico-venezuela-clasifica-los-15-mas-votados-n5405818",
-     "via": "Diario Las Américas",
-     "credit": "Diario Las Américas"
     },
     {
      "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
@@ -2438,7 +2438,132 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 33
+   "score": 25
+  },
+  {
+   "key": "t:mu:Preliminar:2026-11-24",
+   "id": "t-mu-preliminar-2026-11-24-e4556",
+   "name": "Preliminar · 24–26 nov",
+   "contest": "mu",
+   "kind": "oficial",
+   "labels": [
+    "Preliminar"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
+   "start": "2026-11-24T15:59:00+00:00",
+   "last_activity": "2026-11-25T00:27:00+00:00",
+   "item_ids": [
+    "23e4fd806f1c6c",
+    "af3bd931fff94e",
+    "a2e8dd492228a0",
+    "72a0952ff8422c",
+    "0c748fdaefc385"
+   ],
+   "sources": [
+    "ColombiaOne.com",
+    "Infobae",
+    "Meridiano.net",
+    "Metro Puerto Rico",
+    "YouTube · Telemundo Entretenimiento"
+   ],
+   "n_items": 5,
+   "n_sources": 5,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/8fBUD_d-bVM/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/8fBUD_d-bVM/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=8fBUD_d-bVM",
+     "via": "YouTube (miniatura)",
+     "credit": "YouTube · Telemundo Entretenimiento"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795569100095.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795569100095.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.MHDUkChyV7JDWrVZ_nVWRw&pid=News",
+     "page": "https://meridiano.net/farandula/miss-universo-2026-asi-se-define-el-top-30-de-la-gala-final-2026112419580",
+     "via": "Bing (miniatura)",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/3C5WCFVNBFB2RBDOD4W3A7QCUA.jpeg?w=1200&h=630",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/7VNUCCG3BJD3LIDTY5JLRGMU4I.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/AHZLJUYTJNE5XHRSGRGQO3VZXY.png?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://www.metro.pr/api/image/XZRKATXGGZD5HJ5CZPE32IF5TM.jpg?w=1200",
+     "page": "https://www.metro.pr/entretenimiento/2026/11/25/puerto-rico-es-seleccionada-entre-las-30-semifinalistas-en-la-edicion-de-diamante-de-miss-universe/",
+     "via": "Metro Puerto Rico",
+     "credit": "Metro Puerto Rico"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nCommittee on Commerce, Science, and Transportation"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Tepan45max"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 preliminary competition",
+   "extra_images": [
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf/page1-960px-2006_NOBEL_LAUREATES_%28IA_gov.gpo.fdsys.CHRG-110shrg79907%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:2006_NOBEL_LAUREATES_(IA_gov.gpo.fdsys.CHRG-110shrg79907).pdf",
+     "via": "Wikimedia Commons",
+     "license": "Public domain",
+     "credit": "\nCommittee on Commerce, Science, and Transportation"
+    },
+    {
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg/1920px-Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+     "page": "https://commons.wikimedia.org/wiki/File:Gabrielle_Henry_Miss_Jamaica_medical_transfer_December_2025.jpg",
+     "via": "Wikimedia Commons",
+     "license": "CC0",
+     "credit": "Tepan45max"
+    }
+   ],
+   "extra_at": "2026-11-25T02:38:50.373781+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 18
   },
   {
    "key": "p:full show live reddit online",
@@ -2560,10 +2685,21 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "ad340eeafbf815",
+    "5f03504d2acca2",
+    "d51157785e5d39",
+    "215913b00fb8f0",
+    "6d2be79321f5ce",
+    "e4480cb04fc854",
+    "17b7f5a8b6c331",
+    "1287aa408f2e70",
+    "856909d254c153",
+    "5432e41a244c12",
+    "aa055cd7ac542b",
     "405f4dfc8671dc",
     "58dc9f1f090852",
     "ce239e61edf90b",
@@ -2578,6 +2714,7 @@
     "767eb298663977",
     "6b24c6dcf4bab7",
     "fd0e6a67cdc7a7",
+    "005f4c926edbde",
     "c680da55bb07f9",
     "9329f8dd8776ec",
     "5735ca28cf5939",
@@ -2587,6 +2724,7 @@
     "e03bf397e01d9c",
     "1f5bde1002b946",
     "f0cb115bb3e422",
+    "d03bffb6c69800",
     "108583a7d9ed32",
     "1b0f7306d19a43",
     "65f48284eeec0a",
@@ -2670,20 +2808,7 @@
     "cd3fad92f9fdf6",
     "947424f16ba7ea",
     "2e38d977412e87",
-    "2cb311e6a02497",
-    "a10e4a38aa9ca8",
-    "654d13a2d2b136",
-    "39db068b8f58fe",
-    "54a58b19505bd0",
-    "7b30015ab3837b",
-    "8750f6b626dc82",
-    "23e4fd806f1c6c",
-    "954edf24b97660",
-    "7dd98b8ce5dd6b",
-    "9489fe185bf9b2",
-    "aabc98e4e15b5a",
-    "eb2597838f8a78",
-    "e89828bf73c00a"
+    "2cb311e6a02497"
    ],
    "sources": [
     "24 horas on MSN",
@@ -2709,7 +2834,6 @@
     "Diario El Mundo",
     "Diario El País",
     "Diario Extra",
-    "EL IMPARCIAL",
     "EL PAÍS",
     "Ecuavisa",
     "El Comercio",
@@ -2747,6 +2871,7 @@
     "Meganoticias",
     "Meridiano.net",
     "Metro Ecuador",
+    "Metro Puerto Rico",
     "Metro.Style",
     "Milenio",
     "Minuto60",
@@ -2759,6 +2884,7 @@
     "Northwest Ontario News",
     "Noticias Caracol",
     "OrilliaMatters.com",
+    "PelhamToday.ca",
     "Pique Newsmagazine",
     "Powell River Peak",
     "Prensa Libre",
@@ -2772,10 +2898,12 @@
     "Reporte Indigo",
     "Revista Caretas",
     "Revista Semana",
+    "Richmond News",
     "Rock&Pop",
     "Rocky Mountain Outlook",
     "Romántica",
     "SNNewsWatch.com",
+    "Semana on MSN",
     "SooLeader.com",
     "SoyChile.cl",
     "Squamish Chief",
@@ -2799,7 +2927,6 @@
     "TimminsToday.com",
     "TownAndCountryToday.com",
     "Univision",
-    "UnoTV on MSN",
     "Vietnam.vn",
     "Yahoo",
     "YouTube · Telemundo Entretenimiento",
@@ -2807,13 +2934,11 @@
     "azcentral.com and The Arizona Republic",
     "eldia.com.do",
     "estapasando.cl",
-    "https://www.elmonitoredomex.com/",
-    "m360.cl",
     "tallahatchienews.ms",
     "tribunademexico",
     "wapa.tv"
    ],
-   "n_items": 344,
+   "n_items": 345,
    "n_sources": 126,
    "videos": [],
    "views_total": 0,
@@ -3028,7 +3153,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 599
+   "score": 600
   },
   {
    "key": "p:the big night",
@@ -3057,13 +3182,13 @@
      "vid": "S4XeFwA1d0w",
      "title": "The Arrivals. The Looks. The Big Night. | Miss Universe 2026 Red Carpet LIVE!",
      "channel": "Miss Universe",
-     "views": 4213450,
+     "views": 4690725,
      "likes": 0,
      "published": "2026-11-25T00:58:39+00:00",
      "official": true
     }
    ],
-   "views_total": 4213450,
+   "views_total": 4690725,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/S4XeFwA1d0w/maxresdefault.jpg",
@@ -3183,7 +3308,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 219
+   "score": 243
   },
   {
    "key": "t:mu:Causa / caridad:2026-11-24",
@@ -3197,30 +3322,22 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-24T17:18:33.943116+00:00",
-   "start": "2026-11-24T15:41:33+00:00",
+   "start": "2026-11-24T17:00:00+00:00",
    "last_activity": "2026-11-24T22:38:13+00:00",
    "item_ids": [
     "9b1710a0069658",
-    "adee2a172cb70d",
-    "5de6514e03e30d",
-    "b668bb2a778643"
+    "0347ac6ee5478e",
+    "adee2a172cb70d"
    ],
    "sources": [
-    "El Universal on MSN",
     "Infobae",
     "MARCA"
    ],
-   "n_items": 4,
-   "n_sources": 3,
+   "n_items": 3,
+   "n_sources": 2,
    "videos": [],
    "views_total": 0,
    "images": [
-    {
-     "url": "http://www.bing.com/th?id=ONUT.nYPS2I6v9-k1dkkYEygkIQ&pid=News",
-     "page": "https://www.msn.com/es-mx/entretenimiento/general/miss-universo-2026-estos-son-los-beneficios-que-podr%C3%ADa-recibir-la-ganadora/ar-AA2i91jS",
-     "via": "Bing (miniatura)",
-     "credit": "El Universal on MSN"
-    },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/College_Times_%28IA_collegetimes1no910uoft%29.pdf/page1-1280px-College_Times_%28IA_collegetimes1no910uoft%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
      "page": "https://commons.wikimedia.org/wiki/File:College_Times_(IA_collegetimes1no910uoft).pdf",
@@ -3318,7 +3435,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 10
+   "score": 7
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -3342,9 +3459,25 @@
    ],
    "n_items": 1,
    "n_sources": 1,
-   "videos": [],
-   "views_total": 0,
+   "videos": [
+    {
+     "vid": "0Wn-d9FTPSk",
+     "title": "🔴LIVE | MISS UNIVERSE 2026 - BEAUTY AT THE BEACH SWIMWEAR FASHION SHOW",
+     "channel": "Beauty Play",
+     "views": 87962,
+     "ago": "Transmitido hace 11 días",
+     "official": false
+    }
+   ],
+   "views_total": 87962,
    "images": [
+    {
+     "url": "https://i.ytimg.com/vi/0Wn-d9FTPSk/maxresdefault.jpg",
+     "alt": "https://i.ytimg.com/vi/0Wn-d9FTPSk/hqdefault.jpg",
+     "page": "https://www.youtube.com/watch?v=0Wn-d9FTPSk",
+     "via": "YouTube (miniatura)",
+     "credit": "Beauty Play"
+    },
     {
      "url": "https://i.ytimg.com/vi/r0xRqiPlQ_w/maxresdefault.jpg",
      "page": "https://www.youtube.com/watch?v=r0xRqiPlQ_w",
@@ -3372,7 +3505,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 6
+   "score": 10
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -3383,7 +3516,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3400,11 +3533,27 @@
    "n_sources": 3,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://gestion.pe/resizer/v2/QQ56RIXPM5C2BKBVH2H344WUHY.jpg?auth=362062811bd8ae24986d8dd07e9da54c006c65af31c9d278b6be26a4c8820f7d&width=2400&height=1620&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/a-que-hora-inicia-y-donde-ver-la-final-de-miss-universo-2025-en-vivo-hoy-20-de-noviembre-en-usa-colombia-mexico-venezuela-horarios-canales-nnda-nnrt-noticia/",
+     "via": "Bing Imágenes",
+     "credit": "gestion.pe",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Q-JFV7HCkpoCeXcoTnqnuAAAAA&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Competencia Preliminar",
-   "extra_images": [],
-   "extra_at": "2026-11-25T02:30:41.504354+00:00",
+   "extra_images": [
+    {
+     "url": "https://gestion.pe/resizer/v2/QQ56RIXPM5C2BKBVH2H344WUHY.jpg?auth=362062811bd8ae24986d8dd07e9da54c006c65af31c9d278b6be26a4c8820f7d&width=2400&height=1620&quality=75&smart=true",
+     "page": "https://gestion.pe/mix/gente/a-que-hora-inicia-y-donde-ver-la-final-de-miss-universo-2025-en-vivo-hoy-20-de-noviembre-en-usa-colombia-mexico-venezuela-horarios-canales-nnda-nnrt-noticia/",
+     "via": "Bing Imágenes",
+     "credit": "gestion.pe",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.Q-JFV7HCkpoCeXcoTnqnuAAAAA&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T02:38:50.373781+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3424,7 +3573,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -3432,8 +3581,7 @@
     "af3bd931fff94e",
     "d6ad0b8dd1afb7",
     "afc96dec1c070b",
-    "188ce7669254b4",
-    "e000bc5517f804"
+    "188ce7669254b4"
    ],
    "sources": [
     "Diario Las Américas",
@@ -3441,7 +3589,7 @@
     "TV Más",
     "YouTube · Telemundo Entretenimiento"
    ],
-   "n_items": 6,
+   "n_items": 5,
    "n_sources": 4,
    "videos": [],
    "views_total": 0,
@@ -3656,7 +3804,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 17
+   "score": 16
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -3667,7 +3815,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -3716,7 +3864,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -3947,7 +4095,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3996,7 +4144,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T02:30:41.504354+00:00",
+   "first_seen": "2026-11-25T02:38:50.373781+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
