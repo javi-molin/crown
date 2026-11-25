@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:47:06.735141+00:00",
+ "updated": "2026-11-25T16:55:06.510343+00:00",
  "count": 17,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -443,6 +443,7 @@
    "last_activity": "2026-11-25T12:09:33+00:00",
    "item_ids": [
     "65ce8ff08fc5d9",
+    "fb8f971b51bb64",
     "177d2940b1b90e",
     "634e09a5962e8d",
     "0d626d816e91cc",
@@ -454,16 +455,35 @@
     "EL TERRITORIO",
     "El Diario NY",
     "MILENIO",
+    "Meridiano.net",
     "Milenio on MSN",
     "Minuto60",
     "Telemedellín",
     "meridiano"
    ],
-   "n_items": 7,
-   "n_sources": 7,
+   "n_items": 8,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.w6oESbm533WZGhLPYgUsOA&pid=News",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Bing (miniatura)",
+     "credit": "Meridiano.net"
+    },
     {
      "url": "https://pxcdn.meridiano.net/112026/1795616750875.jpg?&cw=1200&ch=630",
      "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
@@ -474,12 +494,6 @@
      "url": "https://pxcdn.meridiano.net/112026/1795616750875.webp?cw=1024&ch=576&extw=jpg&cq=65",
      "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
      "via": "meridiano",
-     "credit": "meridiano"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.xJL3YWuWcxYpnJcyiVvNdA&pid=News",
-     "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
-     "via": "Bing (miniatura)",
      "credit": "meridiano"
     },
     {
@@ -572,7 +586,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 21
+   "score": 24
   },
   {
    "key": "seed:mi-natcos",
@@ -719,7 +733,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -896,26 +910,40 @@
    "refs": [],
    "first_seen": "2026-11-25T16:47:06.735141+00:00",
    "start": "2026-11-25T04:36:17+00:00",
-   "last_activity": "2026-11-25T08:29:00+00:00",
+   "last_activity": "2026-11-25T08:39:00+00:00",
    "item_ids": [
+    "fb8f971b51bb64",
     "a60637f0f1af76",
     "d95071c7896f8e",
     "e9081def69bafa"
    ],
    "sources": [
     "Cachicha.com",
+    "Meridiano.net",
     "Milenio on MSN"
    ],
-   "n_items": 3,
-   "n_sources": 2,
+   "n_items": 4,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.FP6w0VjfDxiTq6yM-JoPAg&pid=News",
-     "page": "https://www.msn.com/es-mx/estilo-de-vida/other/ya-la-ten%C3%ADa-ensayada-acusan-a-jennifer-barreto-miss-universo-2026-de-presunto-fraude-tras-respuesta-sobre-la-ia/ar-AA2idaWw",
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.w6oESbm533WZGhLPYgUsOA&pid=News",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
      "via": "Bing (miniatura)",
-     "credit": "Milenio on MSN"
+     "credit": "Meridiano.net"
     },
     {
      "url": "https://www.shawnfinewine.com/cdn/shop/files/c27ce1ca-e870-47c6-9606-6bcce3c735b7.png?v=1711130680&width=1946",
@@ -1028,7 +1056,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 7
+   "score": 10
   },
   {
    "key": "p:final competition show",
@@ -1125,10 +1153,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
+    "1053a5d780e40b",
     "90aa7b2696c025",
     "b4ec953bf74938",
     "bfe70497e8b3bc",
@@ -1138,6 +1167,7 @@
     "0c4fd4f457f145",
     "c80d35ce11a32d",
     "95b63d0af6dbcd",
+    "88c832a91995f8",
     "8dfeb61be23dd6",
     "23899e56007cb6",
     "014e8563e1c1f8",
@@ -1190,6 +1220,7 @@
     "947424f16ba7ea",
     "e5d4df2a295cbc",
     "f5d731a101f7db",
+    "b4aaf86be982d4",
     "c9190d3ca58708",
     "1069b0e1b14650",
     "153bf384ea7871",
@@ -1245,10 +1276,7 @@
     "a2a48fc855cfba",
     "7b4bffaef701b7",
     "df888e1cc2eba1",
-    "0d92366c3f7061",
-    "990552a44d7ca5",
-    "20873c2f111ad7",
-    "0d626d816e91cc"
+    "0d92366c3f7061"
    ],
    "sources": [
     "24 horas",
@@ -1256,6 +1284,7 @@
     "A News",
     "ADN Radio",
     "AM Prensa",
+    "Ambito",
     "Around Prague",
     "BKReader",
     "BioBioChile",
@@ -1290,7 +1319,6 @@
     "Facebook",
     "Gestión",
     "Grice Connect",
-    "HOLA",
     "IMDb",
     "IOL",
     "Infobae",
@@ -1319,7 +1347,6 @@
     "NZ Herald",
     "News9Live",
     "Notifalcon",
-    "PEP.ph",
     "Panay News",
     "Philstar Life",
     "Philstar.com",
@@ -1363,13 +1390,14 @@
     "Yahoo en Español Vida y Estilo",
     "YouTube · Telemundo Entretenimiento",
     "azcentral.com and The Arizona Republic",
+    "eju.tv",
     "https://estapasando.cl/",
     "meridiano",
     "tvmas.tv",
     "Ámbito Financiero",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 203,
+   "n_items": 204,
    "n_sources": 117,
    "videos": [],
    "views_total": 0,
@@ -1402,7 +1430,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 440
+   "score": 441
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -1413,7 +1441,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -1620,7 +1648,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -1635,11 +1663,209 @@
    "n_sources": 2,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://i5.walmartimages.com/asr/889f4273-e67c-45b1-a93f-a5f4a31a1d1c.ec7143113ce9c66c3826adcf787c8a61.jpeg",
+     "page": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-moto-buds-256-gb-8-gb-morado/00872132237038",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.278tBy5DTplhRDtkN0qkkgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.cyberpuerta.mx/img/product/XL/CP-MOTOROLA-840493610962-ba3de0.png",
+     "page": "https://www.cyberpuerta.mx/Celulares-y-Telefonia/Celulares/Celulares/Motorola-Edge-70-Fusion-5G-6-78-Dual-SIM-256GB-8GB-RAM-Morado.html",
+     "via": "Bing Imágenes",
+     "credit": "cyberpuerta.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1G3sknFkGNqlCYOEqRn7vAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://down-br.img.susercontent.com/file/sg-11134201-8261d-mlxfp6ouwhs2a3",
+     "page": "https://shopee.com.br/Smartphone-Motorola-Edge-70-Fusion-5G-256GB-Roxo-24GB-(12GB-RAM-12GB-RAM-Boost)-Câmera-50MP-e-Tela-de-6-8--i.1013785477.58207049849",
+     "via": "Bing Imágenes",
+     "credit": "shopee.com.br",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.1reArEnz-uBJ8Y5mbB588AHaHa&pid=15.1"
+    },
+    {
+     "url": "https://elektra.vtexassets.com/arquivos/ids/30272390-800-auto?v=639180103436430000&width=800&height=auto&aspect=true",
+     "page": "https://www.elektra.mx/motorola-edge-70-fusion-5g-8256gb-morado-orient-blue-1301777576/p",
+     "via": "Bing Imágenes",
+     "credit": "elektra.mx",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MhPtgFUWwwdWCPtZtm58SQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://img.pccomponentes.com/articles/1103/11035995/1307-motorola-edge-70-fusion-5g-8gb-256gb-678-violeta-05ffb859-90a2-483c-abfb-314e9a57f1db.jpg",
+     "page": "https://superchollos.es/oferta-motorola-edge-70-fusion-descuento/",
+     "via": "Bing Imágenes",
+     "credit": "superchollos.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EJyArR18r50gkz8VHxtVQAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://cdn11.bigcommerce.com/s-cjn5s2k99e/images/stencil/1280x1280/products/266/2519/Motorola_Moto_Edge_70Fusion_Azul_Side__93160.1795205125.jpg?c=1",
+     "page": "https://tienda.payjoy.com/motorola-moto-edge-70-fusion/",
+     "via": "Bing Imágenes",
+     "credit": "tienda.payjoy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.gT%2frIfaEobEzZ9prGwB3gw&pid=15.1"
+    },
+    {
+     "url": "https://cdn.renderhub.com/rever-art/motorola-edge-70-fusion-violet/motorola-edge-70-fusion-violet-04.jpg?v=2",
+     "page": "https://www.renderhub.com/rever-art/motorola-edge-70-fusion-violet",
+     "via": "Bing Imágenes",
+     "credit": "renderhub.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.THMBtc6cWGmAvgXXTaxy5gHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pcel.com/mp/Electronica-Smartphones-Motorola-13080402142-580244-HQ3ASmlIGJe39pod.jpg",
+     "page": "https://www.pcel.com/Motorola-13080402142-Smartphone-Motorola-Moto-Edge-70-fusion-Procesador-Snapdragon-7s-Gen-3-hasta-2-5-GHz-Memoria-RAM-de-8GB-Almacenamiento-de-256GB-Pantalla-de-6-7-LED-Multi-Tou-580244",
+     "via": "Bing Imágenes",
+     "credit": "pcel.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.PtnH0ateaf8ODqIiHJju0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/f9d5d0a0-dabe-4006-9e74-3aef88190496.0dae871dc722e3824ff9bbbad1030cf1.jpeg",
+     "page": "https://www.walmart.com.mx/ip/motorola-edge-70-fuson-moto-bass-8gb-ram-256gb-rom-pantone-orient-blue-morado-/00084049361096",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com.mx",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP._zJY7n-mIYg3Jax--3xklgHaF7&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57be17eb-dbbc-449d-b571-da2ce663dba3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ63CSGH",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Argi1oMX7-dWV3a-4yT7GAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://cdn.phonebunch.com/news-images/2026/03/motorola-edge-70-fusion-launch-global.webp",
+     "page": "https://www.phonebunch.com/news/motorola-edge-70-fusion-launch-price-specifications-global_9295.html",
+     "via": "Bing Imágenes",
+     "credit": "phonebunch.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mHXQIIVD_3Z8pQ6FmZ71QwHaD3&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a89fe80d-8a51-4e72-ab4b-fec9eb46caf1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ75CXX5",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._OGHy8Ik7AZ2lBZPGRnvIAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65b17f00-516d-4792-b70a-a47a5c81b689.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ63CSGH",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lFBEDSbzfCqZIMMxnpZ7TAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://cdn.beebom.com/content/2026/02/edge-70-fusion-leak.jpg",
+     "page": "https://gadgets.beebom.com/news/motorola-edge-70-fusion-renders-colours-leaked",
+     "via": "Bing Imágenes",
+     "credit": "gadgets.beebom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A-ZUJp6QfRegTJZn2LVPnQHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [],
-   "extra_at": "2026-11-25T16:47:06.735141+00:00",
+   "extra_images": [
+    {
+     "url": "https://i5.walmartimages.com/asr/889f4273-e67c-45b1-a93f-a5f4a31a1d1c.ec7143113ce9c66c3826adcf787c8a61.jpeg",
+     "page": "https://www.walmart.com.mx/ip/motorola-edge-70-fusion-moto-buds-256-gb-8-gb-morado/00872132237038",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.278tBy5DTplhRDtkN0qkkgHaHa&pid=15.1"
+    },
+    {
+     "url": "https://www.cyberpuerta.mx/img/product/XL/CP-MOTOROLA-840493610962-ba3de0.png",
+     "page": "https://www.cyberpuerta.mx/Celulares-y-Telefonia/Celulares/Celulares/Motorola-Edge-70-Fusion-5G-6-78-Dual-SIM-256GB-8GB-RAM-Morado.html",
+     "via": "Bing Imágenes",
+     "credit": "cyberpuerta.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.1G3sknFkGNqlCYOEqRn7vAHaHa&pid=15.1"
+    },
+    {
+     "url": "https://down-br.img.susercontent.com/file/sg-11134201-8261d-mlxfp6ouwhs2a3",
+     "page": "https://shopee.com.br/Smartphone-Motorola-Edge-70-Fusion-5G-256GB-Roxo-24GB-(12GB-RAM-12GB-RAM-Boost)-Câmera-50MP-e-Tela-de-6-8--i.1013785477.58207049849",
+     "via": "Bing Imágenes",
+     "credit": "shopee.com.br",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.1reArEnz-uBJ8Y5mbB588AHaHa&pid=15.1"
+    },
+    {
+     "url": "https://elektra.vtexassets.com/arquivos/ids/30272390-800-auto?v=639180103436430000&width=800&height=auto&aspect=true",
+     "page": "https://www.elektra.mx/motorola-edge-70-fusion-5g-8256gb-morado-orient-blue-1301777576/p",
+     "via": "Bing Imágenes",
+     "credit": "elektra.mx",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.MhPtgFUWwwdWCPtZtm58SQHaHa&pid=15.1"
+    },
+    {
+     "url": "https://img.pccomponentes.com/articles/1103/11035995/1307-motorola-edge-70-fusion-5g-8gb-256gb-678-violeta-05ffb859-90a2-483c-abfb-314e9a57f1db.jpg",
+     "page": "https://superchollos.es/oferta-motorola-edge-70-fusion-descuento/",
+     "via": "Bing Imágenes",
+     "credit": "superchollos.es",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.EJyArR18r50gkz8VHxtVQAAAAA&pid=15.1"
+    },
+    {
+     "url": "https://cdn11.bigcommerce.com/s-cjn5s2k99e/images/stencil/1280x1280/products/266/2519/Motorola_Moto_Edge_70Fusion_Azul_Side__93160.1795205125.jpg?c=1",
+     "page": "https://tienda.payjoy.com/motorola-moto-edge-70-fusion/",
+     "via": "Bing Imágenes",
+     "credit": "tienda.payjoy.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIF.gT%2frIfaEobEzZ9prGwB3gw&pid=15.1"
+    },
+    {
+     "url": "https://cdn.renderhub.com/rever-art/motorola-edge-70-fusion-violet/motorola-edge-70-fusion-violet-04.jpg?v=2",
+     "page": "https://www.renderhub.com/rever-art/motorola-edge-70-fusion-violet",
+     "via": "Bing Imágenes",
+     "credit": "renderhub.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.THMBtc6cWGmAvgXXTaxy5gHaEe&pid=15.1"
+    },
+    {
+     "url": "https://images.pcel.com/mp/Electronica-Smartphones-Motorola-13080402142-580244-HQ3ASmlIGJe39pod.jpg",
+     "page": "https://www.pcel.com/Motorola-13080402142-Smartphone-Motorola-Moto-Edge-70-fusion-Procesador-Snapdragon-7s-Gen-3-hasta-2-5-GHz-Memoria-RAM-de-8GB-Almacenamiento-de-256GB-Pantalla-de-6-7-LED-Multi-Tou-580244",
+     "via": "Bing Imágenes",
+     "credit": "pcel.com",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.PtnH0ateaf8ODqIiHJju0wAAAA&pid=15.1"
+    },
+    {
+     "url": "https://i5.walmartimages.com/asr/f9d5d0a0-dabe-4006-9e74-3aef88190496.0dae871dc722e3824ff9bbbad1030cf1.jpeg",
+     "page": "https://www.walmart.com.mx/ip/motorola-edge-70-fuson-moto-bass-8gb-ram-256gb-rom-pantone-orient-blue-morado-/00084049361096",
+     "via": "Bing Imágenes",
+     "credit": "walmart.com.mx",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP._zJY7n-mIYg3Jax--3xklgHaF7&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57be17eb-dbbc-449d-b571-da2ce663dba3.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ63CSGH",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.Argi1oMX7-dWV3a-4yT7GAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://cdn.phonebunch.com/news-images/2026/03/motorola-edge-70-fusion-launch-global.webp",
+     "page": "https://www.phonebunch.com/news/motorola-edge-70-fusion-launch-price-specifications-global_9295.html",
+     "via": "Bing Imágenes",
+     "credit": "phonebunch.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.mHXQIIVD_3Z8pQ6FmZ71QwHaD3&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a89fe80d-8a51-4e72-ab4b-fec9eb46caf1.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ75CXX5",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP._OGHy8Ik7AZ2lBZPGRnvIAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/65b17f00-516d-4792-b70a-a47a5c81b689.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+     "page": "https://www.amazon.com.mx/Motorola-Edge-70-Fusion-Plus/dp/B0GQ63CSGH",
+     "via": "Bing Imágenes",
+     "credit": "amazon.com.mx",
+     "alt": "https://ts4.mm.bing.net/th?id=OIP.lFBEDSbzfCqZIMMxnpZ7TAHaEl&pid=15.1"
+    },
+    {
+     "url": "https://cdn.beebom.com/content/2026/02/edge-70-fusion-leak.jpg",
+     "page": "https://gadgets.beebom.com/news/motorola-edge-70-fusion-renders-colours-leaked",
+     "via": "Bing Imágenes",
+     "credit": "gadgets.beebom.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.A-ZUJp6QfRegTJZn2LVPnQHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T16:55:06.510343+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1659,7 +1885,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -1668,27 +1894,11 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_934535-MLM77615506398_072024-O.webp",
-     "page": "https://articulo.mercadolibre.com.mx/MLM-2104462523-decoracion-de-nudo-dorado-cadena-mesa-auxiliar-estante-li-_JM",
-     "via": "Bing Imágenes",
-     "credit": "articulo.mercadolibre.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UlAPKNtCsknPQFRB8kw9JQAAAA&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss International 2026 Ceremonia de apertura",
-   "extra_images": [
-    {
-     "url": "https://http2.mlstatic.com/D_NQ_NP_934535-MLM77615506398_072024-O.webp",
-     "page": "https://articulo.mercadolibre.com.mx/MLM-2104462523-decoracion-de-nudo-dorado-cadena-mesa-auxiliar-estante-li-_JM",
-     "via": "Bing Imágenes",
-     "credit": "articulo.mercadolibre.com.mx",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.UlAPKNtCsknPQFRB8kw9JQAAAA&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-25T13:50:57.589661+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-25T16:55:06.510343+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1708,7 +1918,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -1757,7 +1967,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -1766,11 +1976,27 @@
    "n_sources": 0,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://thumbs.dreamstime.com/z/diagrama-que-muestra-diferentes-tipos-de-virus-98813368.jpg",
+     "page": "https://road.zubatherm.de/los-15-tipos-de-virus-como-funcionan-y-enfermedades-asociadas/",
+     "via": "Bing Imágenes",
+     "credit": "road.zubatherm.de",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.QlPOj0D7IigH-QyXNuIr9wHaGZ&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss International 2026 Llegada de candidatas",
-   "extra_images": [],
-   "extra_at": "2026-11-25T16:47:06.735141+00:00",
+   "extra_images": [
+    {
+     "url": "https://thumbs.dreamstime.com/z/diagrama-que-muestra-diferentes-tipos-de-virus-98813368.jpg",
+     "page": "https://road.zubatherm.de/los-15-tipos-de-virus-como-funcionan-y-enfermedades-asociadas/",
+     "via": "Bing Imágenes",
+     "credit": "road.zubatherm.de",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.QlPOj0D7IigH-QyXNuIr9wHaGZ&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-25T16:55:06.510343+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -1790,7 +2016,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-25T16:47:06.735141+00:00",
+   "first_seen": "2026-11-25T16:55:06.510343+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
