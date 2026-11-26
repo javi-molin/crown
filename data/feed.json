@@ -1,8 +1,30 @@
 {
- "updated": "2026-11-26T11:51:33.997510+00:00",
- "new_this_run": 1052,
+ "updated": "2026-11-26T11:59:33.590484+00:00",
+ "new_this_run": 1100,
  "count": 900,
  "items": [
+  {
+   "id": "cf2c07cbb67c0d",
+   "type": "news",
+   "title": "Katrina Anne Johnson named Miss International Asia-Pacific 2026",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVm9zdmI5eUZQRFZlY0RiaWVjZThUZ0oyZkRaVlNVTG9pQTVuM1d4alUxdHhaNTAxa2RhSEhXaG5vZzBHckpkYUQwbHl2ZWpDeFB1OFpUYUpJc05yWjRDQVZrcU9wQ1h1dHZrdVFBVE5TQlRTamdpbTgtSjh2THl1MTJRRll5ZFlxWEFzM00xVmI1LUYxY0NpdE5Jc1RGM2h3TkF4Vy01VEVBMTV5enlBRUlwcw?oc=5",
+   "source": "Manila Standard",
+   "published": "2026-11-26T11:58:05+00:00",
+   "lang": "en",
+   "contests": [
+    "mi"
+   ],
+   "tags": [],
+   "query": "\"Miss International 2026\"",
+   "who": [
+    {
+     "contest": "mi",
+     "country": "Philippines",
+     "name": "Katrina Johnson"
+    }
+   ],
+   "first_seen": "2026-11-26T11:59:33.590484+00:00"
+  },
   {
    "id": "c26738e1739411",
    "type": "news",
@@ -27,6 +49,25 @@
     }
    ],
    "first_seen": "2026-11-26T11:51:33.997510+00:00"
+  },
+  {
+   "id": "6aa0da2735cdfb",
+   "type": "news",
+   "title": "La concursante de Miss Universo 2026 fue acusada de injusticia, y la nueva ganadora recibe críticas por su desempeño en la sesión de preguntas y respuestas.",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNamZLdHk0VmFheGI4b25fNWRNUkNrdVZQdXJkX2dUUUN0ZmxpVHR5RWV0MmJnTXJid0JhaUxDVThTQTFpVmo0b3oycVNsT0lRa0tkYzgxazA4ZnBVSDhEQUdPZGZlWWF4V05mR1BidklpOUwwZmtTR18zaFZETHVMN05MTUFKcDBxR0tLU3g2Rk5lX3VCMnJHb0wzcEVSVGJZcnNvUHBqdDE?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-26T11:45:22+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "polemica",
+    "resultados"
+   ],
+   "query": "Miss Universo polémica",
+   "who": [],
+   "first_seen": "2026-11-26T11:59:33.590484+00:00"
   },
   {
    "id": "15fc7b1cbfb2f2",
@@ -751,6 +792,11 @@
      "contest": "mi",
      "country": "Moldova",
      "name": "Elizaveta Kuznetsova"
+    },
+    {
+     "contest": "mi",
+     "country": "Philippines",
+     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-26T09:27:33.879674+00:00"
@@ -2445,6 +2491,34 @@
    "first_seen": "2026-11-26T00:47:15.515818+00:00"
   },
   {
+   "id": "d9fcaa45198548",
+   "type": "news",
+   "title": "\"Yo decía: 'basta, no más'\": Dominga López acusa que le cambiaron su maquillaje y sufrió quemadura en la final de Miss Universo",
+   "summary": "A través de redes sociales, la modelo chilena abordó las críticas a su peinado y reveló que sufrió una serie de percances en la última etapa del certamen.",
+   "link": "https://www.t13.cl/noticia/espectaculos/dominga-lopez-acusa-le-cambiaron-su-maquillaje-sufrio-quemadura-26-11-2026",
+   "direct": true,
+   "source": "Teletrece",
+   "published": "2026-11-26T00:45:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks",
+    "polemica"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.rqJ3_gex7RQTxQ2JuTGXNA&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T11:59:33.590484+00:00"
+  },
+  {
    "id": "23cf118709182b",
    "type": "news",
    "title": "\"Sí me afectó”: Dominga López rompe el silencio por polémico peinado en Miss Universo",
@@ -3860,6 +3934,30 @@
     }
    ],
    "first_seen": "2026-11-25T21:43:16.289557+00:00"
+  },
+  {
+   "id": "9176fa35ee1c4d",
+   "type": "news",
+   "title": "Jorge Aldoney responde a sus antiguos dichos sobre Dominga López: “Toca funarse solito”",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeEhubFhRcnVTZ0MyaVJVSS1zTUo5cXV4X1loSnRVdXEyNEdFYUlSUTl3ZDZEeEM2V0JXWS11TFViRzdZNlJoTnd6aWUyaHNtLWhHYXpNdmttVEw3SWJ4MHNpclBmbWVPMnNUbDNGV2FnMk13aG00RkVNS2JjSzQ1NmZ1dXdubU1oMjlmNmp2NGkxOE1zTnNUN2x2TnhqajM0eUtkUlppMkpIeThveFZYQTl0Q0RMOV9ZazZlYg?oc=5",
+   "source": "TV Más",
+   "published": "2026-11-25T21:36:24+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "polemica"
+   ],
+   "query": "\"Dominga López\" Miss Universo",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T11:59:33.590484+00:00"
   },
   {
    "id": "f00132c9609b15",
@@ -19755,102 +19853,6 @@
     }
    ],
    "first_seen": "2026-11-25T18:39:07.238318+00:00"
-  },
-  {
-   "id": "179709c606fddc",
-   "type": "news",
-   "title": "Puerto Rico’s Jennifer Barreto crowned Miss Universe 2026",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVUwMllsLVFoTjNydGRfQnhheS15c3UwbVN3eGxDbTN0THBLUzYyLVlrTGlINE85M0tVZy1pc0lPelNYamdDeFlJYl9HTndmVnVpZC1MVm03WFplcTVaVW5mSGk3NnpnWkNra1VVanVNeGZhU01uU2c5NUZYVW1QdHByamhMZHI0Unc?oc=5",
-   "source": "DD News",
-   "published": "2026-11-25T10:02:47+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "beauty pageant",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T10:06:57.758467+00:00"
-  },
-  {
-   "id": "d67ab5a7c29472",
-   "type": "news",
-   "title": "Chile sigue brillando en Miss Universo: Dominga López alcanzó el top 12 y prolongó positiva racha nacional",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSU5nNWFDUTJ4R1JEczBiZTEtRExjV3RRSldtRUVJS1cydGhxSGNwaXQ2UEVfMWtXaGdYRW9WckpoWm9qeDQtZEM5OGczS0RqV3lDNlQ5aHdrN05Dd0FBQU9scmdkMDJQLWJrTjhMdTlkalhQQWZxSDc5MkFuUW1DOVYyR2dNc0F3Qk1POERMTmRrUG1YTUdwNHJSTTZESDBwQUxqZlY1eTB6eGdGUHFXbTY3THNQeHdVaEIxaS1NQThiZnNtckR5cDJIS2hzRVFQblUzZUdOejVUY2oxM3B4dFl2T0gwb04xNXNGVWdOWFZKMVZuSEF6WEtRNS05cW5Hazl0QjJmWUnSAYgCQVVfeXFMUElOZzVhQ1EyeEdSRHMwYmUxLURMY1d0UUpXbUVFSUtXMnRocUhjcGl0NlBFXzFrV2hnWEVvVnJKaFpvang0LWRDOThnM0tEald5QzZUOWh3azdOQ3dBQUFPbHJnZDAyUC1ia044THU5ZGpYUEFmcUg3OTJBblFtQzlWMkdnTXNBd0JNTzhETE5ka1BtWE1HcDRyUk02REgwcEFMamZWNXkwenhnRlBxV202N0xzUHh3VWhCMWktTUE4YmZzbXJEeXAySEtoc0VRUG5VM2VHTno1VGNqMTNweHRZdk9IMG9OMTVzRlVnTlhWSjFWbkhBelhLUTUtOXFuR2s5dEIyZllJ?oc=5",
-   "source": "La Cuarta",
-   "published": "2026-11-25T10:01:31+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Dominga López\" Miss Universo",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T10:06:57.758467+00:00"
-  },
-  {
-   "id": "03119c524979da",
-   "type": "news",
-   "title": "Chile sigue brillando en Miss Universo: Dominga López alcanzó el top 12 y prolongó positiva racha nacional",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObW9QUVU4VHgtM0duWkF5aF94c3lYNndEVW84MjRYRVNWODdxQzBVbW1oTkkzem9sWTY5VEI0S01CYTNoY1I5TWkxQUVRS3Q3RDJyblBmaFhZc0VaSUs0d3RfT2E3SFpBbVpiQUp5Vzg3b1ZuTENiXzNOdnd0RXBIVTBmeVlNcUl2MFVMNjJnOUhReV9HQlpKR1NtWlE4TTRqNEdXeTRZbHdLMGVDUTFTMERYWjFraHRkVjhVQXBnU2IxaFppOXhEb3JFVjNUTm1sd1VsZ0dndXBidzNNZ0Jxa0ZDbDVTS0HSAYgCQVVfeXFMUElOZzVhQ1EyeEdSRHMwYmUxLURMY1d0UUpXbUVFSUtXMnRocUhjcGl0NlBFXzFrV2hnWEVvVnJKaFpvang0LWRDOThnM0tEald5QzZUOWh3azdOQ3dBQUFPbHJnZDAyUC1ia044THU5ZGpYUEFmcUg3OTJBblFtQzlWMkdnTXNBd0JNTzhETE5ka1BtWE1HcDRyUk02REgwcEFMamZWNXkwenhnRlBxV202N0xzUHh3VWhCMWktTUE4YmZzbXJEeXAySEtoc0VRUG5VM2VHTno1VGNqMTNweHRZdk9IMG9OMTVzRlVnTlhWSjFWbkhBelhLUTUtOXFuR2s5dEIyZllJ?oc=5",
-   "source": "La Cuarta",
-   "published": "2026-11-25T10:01:31+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Universo 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T10:14:57.735866+00:00"
-  },
-  {
-   "id": "74017c072e4216",
-   "type": "news",
-   "title": "\"Toca funarse solito\": Jorge Aldoney reaccionó a críticas por sus dichos contra Dominga López",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZGVRZU52V01lTVpfTWJCZlhSdFFrenk0TEdWdDlwbnQ3aXN1MnB2bEQ4VFBGZGZiQmNBeDlsemdPMV9QTVd4R2VmWmlOYWVwRGx0M3pNNDN6ZzNBQkI0c0QwdTQ3QXRIcGZkbGZfZ1pacFZHZUJhU05LUDVGV3N2T01wY0c1OTBHVkcxY0lRM18wWEN2NEVuQW42ek5XcEplaklWNGJfMFdtcEVMNVhpUDFrYnVHTTN5Z1VKRUEyQ1ItdnRGMk9TX1YzTjk3S3U4OUcyNjJlTUhMNnRFRGk5ejVfNzBqejg?oc=5",
-   "source": "BioBioChile",
-   "published": "2026-11-25T10:00:55+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "polemica"
-   ],
-   "query": "\"Dominga López\" Miss Universo",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T10:06:57.758467+00:00"
   }
  ]
 }

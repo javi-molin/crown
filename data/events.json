@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:51:33.997510+00:00",
+ "updated": "2026-11-26T11:59:33.590484+00:00",
  "count": 19,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -119,6 +119,7 @@
     "c26738e1739411",
     "4ebafdd126cc16",
     "3279f7eb6f0e5b",
+    "d9fcaa45198548",
     "c7d194185376df",
     "9e729d55611d0a",
     "5f4d081d68696a",
@@ -131,7 +132,7 @@
     "Nueva Mujer on MSN",
     "Teletrece"
    ],
-   "n_items": 7,
+   "n_items": 8,
    "n_sources": 5,
    "videos": [],
    "views_total": 0,
@@ -141,6 +142,12 @@
      "page": "https://www.msn.com/es-cl/entretenimiento/celebridades/te-sabotearon-dominga-l%C3%B3pez-revela-que-sufri%C3%B3-quemadura-durante-miss-universo-2026/ar-AA2igMsQ",
      "via": "Bing (miniatura)",
      "credit": "24 horas on MSN"
+    },
+    {
+     "url": "https://s.t13.cl/sites/default/files/styles/manualcrop_850x475/public/t13/field-imagen/2026-11/1795692526.png.jpeg?h=df3c6bf4&itok=s6rgrbNu",
+     "page": "https://www.t13.cl/noticia/espectaculos/dominga-lopez-acusa-le-cambiaron-su-maquillaje-sufrio-quemadura-26-11-2026",
+     "via": "Teletrece",
+     "credit": "Teletrece"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf/page1-960px-06-30-1981_%28case_file_043461%29_-_DPLA_-_017b539e3a2575c5261b62a54e61ef90.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -185,7 +192,9 @@
      "credit": "House Committee on the Judiciary"
     }
    ],
-   "social_urls": [],
+   "social_urls": [
+    "https://www.youtube.com/watch?v=PQdjKrs6cdY"
+   ],
    "image_query": "Miss Universe 2026 campaign",
    "extra_images": [
     {
@@ -232,14 +241,22 @@
     }
    ],
    "extra_at": "2026-11-26T09:19:33.488362+00:00",
-   "social": [],
+   "social": [
+    {
+     "fetched": "2026-11-26T11:59:33.590484+00:00",
+     "url": "https://www.youtube.com/watch?v=PQdjKrs6cdY",
+     "platform": "YouTube",
+     "views": 55,
+     "thumb": "https://i.ytimg.com/vi/PQdjKrs6cdY/hqdefault.jpg"
+    }
+   ],
    "social_totals": {
-    "views": 0,
+    "views": 55,
     "likes": 0,
     "comments": 0,
     "shares": 0
    },
-   "score": 17
+   "score": 18
   },
   {
    "key": "t:mu:Entrevistas:2026-11-24",
@@ -767,7 +784,7 @@
    ],
    "image_query": "Miss Universe 2026 tour",
    "extra_images": [],
-   "extra_at": "2026-11-26T11:51:33.997510+00:00",
+   "extra_at": "2026-11-26T11:59:33.590484+00:00",
    "social": [
     {
      "fetched": "2026-11-26T11:35:33.463165+00:00",
@@ -808,13 +825,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 2736,
+     "views": 2751,
      "likes": 24,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 2736,
+   "views_total": 2751,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -884,7 +901,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 national costume",
    "extra_images": [],
-   "extra_at": "2026-11-26T11:51:33.997510+00:00",
+   "extra_at": "2026-11-26T11:59:33.590484+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -970,7 +987,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -1071,7 +1088,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -1086,6 +1103,7 @@
     "4768b248e45e57",
     "9383ffa9bd4800",
     "6c09001e8aae99",
+    "d9fcaa45198548",
     "2ed61df1a55f77",
     "dbac37f0ef3d55",
     "b4572ef77dadfc",
@@ -1193,8 +1211,7 @@
     "6297d589829280",
     "5ac9d216cc1f30",
     "346306e0cb6e45",
-    "fcfc90fa44b091",
-    "b2b09885469c32"
+    "fcfc90fa44b091"
    ],
    "sources": [
     "24 horas on MSN",
@@ -1211,7 +1228,6 @@
     "ColombiaOne.com",
     "ConchoValleyHomepage.com",
     "Cooperativa",
-    "DD News",
     "DUPLOS.CL",
     "DW.com",
     "Diario Electronico ELGONG.CL",
@@ -1306,7 +1322,7 @@
     "www.nxsmediawire.com"
    ],
    "n_items": 143,
-   "n_sources": 107,
+   "n_sources": 106,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1338,7 +1354,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 360
+   "score": 358
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -1349,7 +1365,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -1402,7 +1418,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -1633,7 +1649,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -1864,7 +1880,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -1913,7 +1929,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -1962,7 +1978,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T11:51:33.997510+00:00",
+   "first_seen": "2026-11-26T11:59:33.590484+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
