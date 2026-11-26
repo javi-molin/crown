@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:59:49.624730+00:00",
+ "updated": "2026-11-26T20:07:49.949017+00:00",
  "count": 21,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -114,8 +114,9 @@
    "refs": [],
    "first_seen": "2026-11-26T03:11:26.131871+00:00",
    "start": "2026-11-25T15:20:02+00:00",
-   "last_activity": "2026-11-26T19:07:53+00:00",
+   "last_activity": "2026-11-26T20:02:06+00:00",
    "item_ids": [
+    "8142974c5a633c",
     "66aefb8bebb37e",
     "f0f09f5f34fe4b",
     "c89dc56f8cddbf",
@@ -137,14 +138,15 @@
     "BioBioChile",
     "El Dínamo",
     "El Periodista",
+    "Emisoras Unidas",
     "Facebook",
     "Meganoticias",
     "TV Más",
     "Teletrece",
     "tvmas.tv"
    ],
-   "n_items": 14,
-   "n_sources": 10,
+   "n_items": 15,
+   "n_sources": 11,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -427,7 +429,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 34
+   "score": 37
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -1198,7 +1200,7 @@
    "extra_at": "2026-11-26T19:35:49.649498+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T19:03:49.930658+00:00",
+     "fetched": "2026-11-26T20:07:49.949017+00:00",
      "url": "https://www.instagram.com/reel/DgKueZjxfGN",
      "platform": "Instagram"
     }
@@ -1242,14 +1244,29 @@
      "page": "https://www.si.com/nfl/every-nfl-team-thankful-thanksgiving-2026-digital-cover",
      "via": "Bing (miniatura)",
      "credit": "Sports Illustrated"
+    },
+    {
+     "url": "https://api.expocarvenezuela.com/files/1744742754165-RAM_BIGHORN_2025_BLANCO_2.png.jpg",
+     "page": "https://www.expocarvenezuela.com/es/vehicle/ram-bighorn-cvt",
+     "via": "Bing Imágenes",
+     "credit": "expocarvenezuela.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.AQrO0eNrdkqwgAwoWPx_lAHaEK&pid=15.1"
     }
    ],
    "social_urls": [
     "https://www.youtube.com/watch?v=7nvE9Ljztf0"
    ],
    "image_query": "Miss Universe 2026 official portraits swimsuit Giannina Azar",
-   "extra_images": [],
-   "extra_at": "2026-11-26T19:59:49.624730+00:00",
+   "extra_images": [
+    {
+     "url": "https://api.expocarvenezuela.com/files/1744742754165-RAM_BIGHORN_2025_BLANCO_2.png.jpg",
+     "page": "https://www.expocarvenezuela.com/es/vehicle/ram-bighorn-cvt",
+     "via": "Bing Imágenes",
+     "credit": "expocarvenezuela.com",
+     "alt": "https://ts2.mm.bing.net/th?id=OIP.AQrO0eNrdkqwgAwoWPx_lAHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-26T20:07:49.949017+00:00",
    "social": [
     {
      "fetched": "2026-11-26T19:51:49.687631+00:00",
@@ -1419,7 +1436,7 @@
    "extra_at": "2026-11-26T17:19:41.855048+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T19:03:49.930658+00:00",
+     "fetched": "2026-11-26T20:07:49.949017+00:00",
      "url": "https://www.instagram.com/reel/DgKueZjxfGN",
      "platform": "Instagram"
     }
@@ -1457,13 +1474,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 4179,
+     "views": 4204,
      "likes": 31,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 4179,
+   "views_total": 4204,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -2001,7 +2018,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -2293,7 +2310,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -2535,7 +2552,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 FINAL y coronación",
    "extra_images": [],
-   "extra_at": "2026-11-26T19:59:49.624730+00:00",
+   "extra_at": "2026-11-26T20:07:49.949017+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -2555,7 +2572,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2792,7 +2809,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -2805,7 +2822,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [],
-   "extra_at": "2026-11-26T19:59:49.624730+00:00",
+   "extra_at": "2026-11-26T20:07:49.949017+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -2825,7 +2842,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2874,7 +2891,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2923,7 +2940,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3154,7 +3171,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T19:59:49.624730+00:00",
+   "first_seen": "2026-11-26T20:07:49.949017+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
