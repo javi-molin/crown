@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:11:26.131871+00:00",
+ "updated": "2026-11-26T03:19:25.298681+00:00",
  "count": 21,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -234,6 +234,160 @@
     "shares": 0
    },
    "score": 9
+  },
+  {
+   "key": "t:mu:Gala / cena:2026-11-24",
+   "id": "t-mu-gala-cena-2026-11-24-8532a",
+   "name": "Gala / cena · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Gala / cena"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-25T16:39:06.733095+00:00",
+   "start": "2026-11-25T07:24:00+00:00",
+   "last_activity": "2026-11-26T01:46:15+00:00",
+   "item_ids": [
+    "9383ffa9bd4800",
+    "35a395f8e2a625",
+    "2f054cbef1420a",
+    "d0538d18c891b1",
+    "77408ace77598a",
+    "5f95c90fd4c281",
+    "65ce8ff08fc5d9",
+    "6535ecd3649947",
+    "fb8f971b51bb64",
+    "177d2940b1b90e",
+    "df2592fd160cee"
+   ],
+   "sources": [
+    "2001 Online",
+    "24 horas",
+    "Canal 13",
+    "Chilevisión",
+    "Meridiano.net",
+    "NTN24",
+    "TVN",
+    "Telemedellín",
+    "Telemundo",
+    "meridiano"
+   ],
+   "n_items": 11,
+   "n_sources": 10,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://media.chilevision.cl/2026/11/CHV-2026-11-25T221254.238-1200x675.jpg",
+     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
+     "via": "Chilevisión",
+     "credit": "Chilevisión"
+    },
+    {
+     "url": "https://media.chilevision.cl{{imagen_post}}",
+     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
+     "via": "Chilevisión",
+     "credit": "Chilevisión"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.1NEmoTNg81-ahavoqIUHxA&pid=News",
+     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
+     "via": "Bing (miniatura)",
+     "credit": "Chilevisión"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000220261125203939/domingalopezmiss.webp",
+     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000620261125105925/Delbifealacarnedepaloma.webp",
+     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20260630/imag/foto_0000000420260630173830/estadio_luces_mundial.webp",
+     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000620261125174928/Casi1.700empleosparafindeaoyverano.webp",
+     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
+     "via": "24 horas",
+     "credit": "24 horas"
+    },
+    {
+     "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
+     "page": "https://2001online.com/farandula/en-video-osmel-sousa-revela-que-impidio-una-mejor-posicion-para-clara-vegas-goetz-durante-su-participacion-en-el-miss-universo-2026-2026112511330",
+     "via": "2001 Online",
+     "credit": "2001 Online"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795621778288.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
+     "via": "Meridiano.net",
+     "credit": "Meridiano.net"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795616750875.jpg?&cw=1200&ch=630",
+     "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
+     "via": "meridiano",
+     "credit": "meridiano"
+    },
+    {
+     "url": "https://pxcdn.meridiano.net/112026/1795616750875.webp?cw=1024&ch=576&extw=jpg&cq=65",
+     "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
+     "via": "meridiano",
+     "credit": "meridiano"
+    },
+    {
+     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_facebook-aspect-ratio_default_0.jpg",
+     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
+     "via": "TVN",
+     "credit": "TVN"
+    },
+    {
+     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_twitter-aspect-ratio_default_0.jpg",
+     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
+     "via": "TVN",
+     "credit": "TVN"
+    },
+    {
+     "url": "https://static.tvn-2.com/clip/d406bd52-4d10-42f9-a889-6e93101d9fe6_source-aspect-ratio_default_0.jpeg",
+     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
+     "via": "TVN",
+     "credit": "TVN"
+    },
+    {
+     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_16-9-aspect-ratio_default_1019484.jpg",
+     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
+     "via": "TVN",
+     "credit": "TVN"
+    }
+   ],
+   "social_urls": [],
+   "image_query": "Miss Universe 2026 gala dinner",
+   "extra_images": [],
+   "extra_at": "2026-11-26T03:19:25.298681+00:00",
+   "social": [],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 31
   },
   {
    "key": "t:mu:Tour / visita:2026-11-24",
@@ -477,13 +631,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 438,
-     "likes": 9,
+     "views": 478,
+     "likes": 10,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 438,
+   "views_total": 478,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -751,170 +905,6 @@
    "score": 35
   },
   {
-   "key": "t:mu:Gala / cena:2026-11-24",
-   "id": "t-mu-gala-cena-2026-11-24-8532a",
-   "name": "Gala / cena · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Gala / cena"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-25T16:39:06.733095+00:00",
-   "start": "2026-11-25T07:17:00+00:00",
-   "last_activity": "2026-11-25T21:27:31+00:00",
-   "item_ids": [
-    "35a395f8e2a625",
-    "2f054cbef1420a",
-    "d0538d18c891b1",
-    "77408ace77598a",
-    "5f95c90fd4c281",
-    "65ce8ff08fc5d9",
-    "6535ecd3649947",
-    "fb8f971b51bb64",
-    "177d2940b1b90e",
-    "df2592fd160cee",
-    "634e09a5962e8d"
-   ],
-   "sources": [
-    "2001 Online",
-    "24 horas",
-    "Canal 13",
-    "Chilevisión",
-    "El Diario NY",
-    "Meridiano.net",
-    "TVN",
-    "Telemedellín",
-    "Telemundo",
-    "meridiano"
-   ],
-   "n_items": 11,
-   "n_sources": 10,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://media.chilevision.cl/2026/11/CHV-2026-11-25T221254.238-1200x675.jpg",
-     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
-     "via": "Chilevisión",
-     "credit": "Chilevisión"
-    },
-    {
-     "url": "https://media.chilevision.cl{{imagen_post}}",
-     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
-     "via": "Chilevisión",
-     "credit": "Chilevisión"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.1NEmoTNg81-ahavoqIUHxA&pid=News",
-     "page": "https://www.chilevision.cl/noticias/show/un-desastre-de-pelo-dominga-lopez-revelo-tenso-momento-que-la-perjudico-en-miss-universo/",
-     "via": "Bing (miniatura)",
-     "credit": "Chilevisión"
-    },
-    {
-     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000220261125203939/domingalopezmiss.webp",
-     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
-     "via": "24 horas",
-     "credit": "24 horas"
-    },
-    {
-     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000620261125105925/Delbifealacarnedepaloma.webp",
-     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
-     "via": "24 horas",
-     "credit": "24 horas"
-    },
-    {
-     "url": "https://www.24horas.cl/24horas/site/artic/20260630/imag/foto_0000000420260630173830/estadio_luces_mundial.webp",
-     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
-     "via": "24 horas",
-     "credit": "24 horas"
-    },
-    {
-     "url": "https://www.24horas.cl/24horas/site/artic/20261125/imag/foto_0000000620261125174928/Casi1.700empleosparafindeaoyverano.webp",
-     "page": "https://www.24horas.cl/tendencias/redes-sociales/los-estilistas-estaban-desesperados-dominga-lopez-miss-universo",
-     "via": "24 horas",
-     "credit": "24 horas"
-    },
-    {
-     "url": "https://pxcdn.2001online.com/2001/082024/1724085963328.jpg",
-     "page": "https://2001online.com/farandula/en-video-osmel-sousa-revela-que-impidio-una-mejor-posicion-para-clara-vegas-goetz-durante-su-participacion-en-el-miss-universo-2026-2026112511330",
-     "via": "2001 Online",
-     "credit": "2001 Online"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795621778288.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795621778288.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/harry-levy-conto-que-paso-con-clara-vegas-despues-de-la-gala-del-miss-universo-2026112512390",
-     "via": "Meridiano.net",
-     "credit": "Meridiano.net"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795616750875.jpg?&cw=1200&ch=630",
-     "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
-     "via": "meridiano",
-     "credit": "meridiano"
-    },
-    {
-     "url": "https://pxcdn.meridiano.net/112026/1795616750875.webp?cw=1024&ch=576&extw=jpg&cq=65",
-     "page": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
-     "via": "meridiano",
-     "credit": "meridiano"
-    },
-    {
-     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_facebook-aspect-ratio_default_0.jpg",
-     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
-     "via": "TVN",
-     "credit": "TVN"
-    },
-    {
-     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_twitter-aspect-ratio_default_0.jpg",
-     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
-     "via": "TVN",
-     "credit": "TVN"
-    },
-    {
-     "url": "https://static.tvn-2.com/clip/d406bd52-4d10-42f9-a889-6e93101d9fe6_source-aspect-ratio_default_0.jpeg",
-     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
-     "via": "TVN",
-     "credit": "TVN"
-    },
-    {
-     "url": "https://static.tvn-2.com/clip/1f8383ba-5e91-42ab-9d75-e897f9aeccfb_16-9-aspect-ratio_default_1019484.jpg",
-     "page": "https://www.tvn-2.com/entretenimiento/jennifer-barreto-miss-universo-madre-casada-puerto-rico_1_2272631.html",
-     "via": "TVN",
-     "credit": "TVN"
-    }
-   ],
-   "social_urls": [
-    "https://www.youtube.com/watch?v=cQsOEA19YkE"
-   ],
-   "image_query": "Miss Universe 2026 gala dinner",
-   "extra_images": [],
-   "extra_at": "2026-11-26T03:11:26.131871+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-26T02:15:25.259264+00:00",
-     "url": "https://www.youtube.com/watch?v=cQsOEA19YkE",
-     "platform": "YouTube",
-     "error": "HTTP Error 429: Too Many Requests",
-     "thumb": "https://i.ytimg.com/vi/cQsOEA19YkE/hqdefault.jpg"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 31
-  },
-  {
    "key": "t:mu:Traje de baño:2026-11-24",
    "id": "t-mu-traje-de-bano-2026-11-24-0e8f2",
    "name": "Traje de baño · 24–26 nov",
@@ -1031,10 +1021,11 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T09:34:57.665901+00:00",
-   "start": "2026-11-25T07:17:00+00:00",
+   "start": "2026-11-25T07:30:19+00:00",
    "last_activity": "2026-11-25T14:16:47+00:00",
    "item_ids": [
     "df0b375ddcabc4",
+    "561ef100afeb30",
     "923083e148e241",
     "ab0c19096611b2",
     "10359b004565b5",
@@ -1042,26 +1033,27 @@
     "a283927f6319cd",
     "c0c3d990977290",
     "da046347494dd2",
-    "e59f240d394561",
-    "2d3ccb440c9a02"
+    "378110fa1c16e0",
+    "e59f240d394561"
    ],
    "sources": [
     "Facebook",
     "Inquirer.net",
     "Instagram",
-    "La República",
-    "LinkedIn"
+    "La Verdad de Monagas",
+    "LinkedIn",
+    "publicidadymercadeo"
    ],
-   "n_items": 10,
-   "n_sources": 5,
+   "n_items": 11,
+   "n_sources": 6,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.xmjKaT30--4Hl2ZaGzVM8Q&pid=News",
-     "page": "https://larepublica.pe/entretenimiento/2026/11/25/quien-gano-el-miss-international-2026-y-se-convirtio-en-sucesora-de-catalina-duque-1509100",
+     "url": "http://www.bing.com/th?id=ONUT.76UBuMMrQ5vcyxwwD2XXyA&pid=News",
+     "page": "https://laverdaddemonagas.com/2026/11/25/miss-moldavia-miss-international-2026/",
      "via": "Bing (miniatura)",
-     "credit": "La República"
+     "credit": "La Verdad de Monagas"
     },
     {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf/page1-960px-State_Dinner_in_Honor_of_President_Nicolae_Ceausescu_and_Mrs._Elena_Ceausescu_of_Romania%2C_4-12-78_-_DPLA_-_ffe7c4dfb34406f1afd49d6442987b39.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -1160,7 +1152,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 20
+   "score": 23
   },
   {
    "key": "t:mu:Entrevistas:2026-11-24",
@@ -1455,10 +1447,11 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
+    "02a0bb1ffdd962",
     "1105b38d6a728b",
     "4b850698f0db05",
     "c3ca349381a95c",
@@ -1509,14 +1502,15 @@
     "LinkedIn",
     "Manila Bulletin",
     "Metro.Style",
+    "NTN24",
     "Noticia al Dia",
     "PEP.ph",
     "The Manila Times",
     "Vietnam.vn",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 39,
-   "n_sources": 14,
+   "n_items": 40,
+   "n_sources": 15,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1730,7 +1724,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 70
+   "score": 73
   },
   {
    "key": "seed:beauty-at-the-beach",
@@ -2019,11 +2013,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
     "4768b248e45e57",
+    "9383ffa9bd4800",
     "6c09001e8aae99",
     "2ed61df1a55f77",
     "dbac37f0ef3d55",
@@ -2141,8 +2136,7 @@
     "87475ad526d097",
     "41d938a151d639",
     "efaebbf9110e1e",
-    "dae3e303c7bbe4",
-    "179709c606fddc"
+    "dae3e303c7bbe4"
    ],
    "sources": [
     "24 horas on MSN",
@@ -2203,6 +2197,7 @@
     "MyHighPlains.com",
     "NEWS10 ABC",
     "NJ.com",
+    "NTN24",
     "NewsNation",
     "Nueva Mujer on MSN",
     "Panay News",
@@ -2260,8 +2255,8 @@
     "vijesti.me",
     "Ámbito Financiero"
    ],
-   "n_items": 146,
-   "n_sources": 114,
+   "n_items": 147,
+   "n_sources": 115,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2475,7 +2470,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 377
+   "score": 380
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2486,7 +2481,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2539,7 +2534,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
@@ -2554,209 +2549,11 @@
    "n_sources": 2,
    "videos": [],
    "views_total": 0,
-   "images": [
-    {
-     "url": "https://i.pinimg.com/736x/c4/f9/b8/c4f9b8aebd89e65e82b67a4a80f48c71.jpg",
-     "page": "https://storage.googleapis.com/dzjdzrgxsvkkne/roblox-bacon-girl-fanart.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.tseV-5yhG0_bE1UAdWKK6gHaHj&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/ee/33/39/ee333966cde839449ee8a9ff79dfdd98.png?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.EkXIk60XACkB5Y-9ljcCBQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/e0/88/7e/e0887ed513a67cd930d183680d887c5a.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Yya5W1DT-8ACybnKGuVjMQAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/e9/97/1f/e9971f440897829a6d7a198ec013281a.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DHIOK4w5zID25aQmbIklOwHaMv&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/2e/c5/26/2ec5261627cdf4f3bef833b3f98b6b26.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl/939338366769/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.2-fwlB4B5-WwDFNYRQx44wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://www.pngkit.com/png/detail/10-109368_bacon-girl-roblox-bacon-hair-girl.png",
-     "page": "https://www.pngkit.com/view/u2q8a9r5a9e6r5a9_bacon-girl-roblox-bacon-hair-girl/",
-     "via": "Bing Imágenes",
-     "credit": "pngkit.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.kIkSxPREUdC8Nroh15HlgwHaD6&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp12873985.jpg",
-     "page": "https://wallpapercave.com/roblox-bacon-girl-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.PeZKw92z6veb8eku4ovlJAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/ae/2b/6a/ae2b6a2b1129f4ec5c7c896b24c6fce0.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl-aesthetic/921418703359/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.V_uXE4_UkNtaX45Wl2WX8QAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/a8/ae/f6/a8aef67541cddb2035afb50c18419b10.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.iu3wFSZlpu5-MPiLc6KG7AAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/GDrzbpbEsso/maxresdefault.jpg",
-     "page": "https://storage.googleapis.com/dluqqcwjotdlse/roblox-bacon-girl-gfx.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.9QN_6r3cx02IT9tM86q5IgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/00/08/3c/00083c00549d441f86f386b6f179d0e6.png",
-     "page": "https://storage.googleapis.com/ddcctwhheozfae/bacon-wallpaper-roblox-girl.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.vtg-nTjEUd1HT611L6G_BQHaIO&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/236x/b5/3e/f9/b53ef94313f006a0678462d02a4c2721.jpg",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl-meme/918506055812/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.F0tUmeqRQsMXJX-AC7YvPgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/TwN33AnrTHw/maxresdefault.jpg",
-     "page": "https://storage.googleapis.com/dductozyvywoqe/roblox-bacon-girl-purple-hair.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.hvFppG5AULUsVvzyAIL9hQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.ibispaint.com/movie/996/868/996868382/image996868382.png",
-     "page": "https://ibispaint.com/art/996868382/",
-     "via": "Bing Imágenes",
-     "credit": "ibispaint.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.VAmgw2YTtDnMA0iFC3wiKwHaHa&pid=15.1"
-    }
-   ],
+   "images": [],
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
-   "extra_images": [
-    {
-     "url": "https://i.pinimg.com/736x/c4/f9/b8/c4f9b8aebd89e65e82b67a4a80f48c71.jpg",
-     "page": "https://storage.googleapis.com/dzjdzrgxsvkkne/roblox-bacon-girl-fanart.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.tseV-5yhG0_bE1UAdWKK6gHaHj&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/ee/33/39/ee333966cde839449ee8a9ff79dfdd98.png?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.EkXIk60XACkB5Y-9ljcCBQHaHa&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/e0/88/7e/e0887ed513a67cd930d183680d887c5a.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.Yya5W1DT-8ACybnKGuVjMQAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/e9/97/1f/e9971f440897829a6d7a198ec013281a.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.DHIOK4w5zID25aQmbIklOwHaMv&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/2e/c5/26/2ec5261627cdf4f3bef833b3f98b6b26.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl/939338366769/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.2-fwlB4B5-WwDFNYRQx44wAAAA&pid=15.1"
-    },
-    {
-     "url": "https://www.pngkit.com/png/detail/10-109368_bacon-girl-roblox-bacon-hair-girl.png",
-     "page": "https://www.pngkit.com/view/u2q8a9r5a9e6r5a9_bacon-girl-roblox-bacon-hair-girl/",
-     "via": "Bing Imágenes",
-     "credit": "pngkit.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.kIkSxPREUdC8Nroh15HlgwHaD6&pid=15.1"
-    },
-    {
-     "url": "https://wallpapercave.com/wp/wp12873985.jpg",
-     "page": "https://wallpapercave.com/roblox-bacon-girl-wallpapers",
-     "via": "Bing Imágenes",
-     "credit": "wallpapercave.com",
-     "alt": "https://ts1.mm.bing.net/th?id=OIP.PeZKw92z6veb8eku4ovlJAHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/ae/2b/6a/ae2b6a2b1129f4ec5c7c896b24c6fce0.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl-aesthetic/921418703359/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.V_uXE4_UkNtaX45Wl2WX8QAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/474x/a8/ae/f6/a8aef67541cddb2035afb50c18419b10.jpg?nii=t",
-     "page": "https://www.pinterest.com/ideas/bacon-girl-roblox-avatar/919515756748/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.iu3wFSZlpu5-MPiLc6KG7AAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/GDrzbpbEsso/maxresdefault.jpg",
-     "page": "https://storage.googleapis.com/dluqqcwjotdlse/roblox-bacon-girl-gfx.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.9QN_6r3cx02IT9tM86q5IgHaEK&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/originals/00/08/3c/00083c00549d441f86f386b6f179d0e6.png",
-     "page": "https://storage.googleapis.com/ddcctwhheozfae/bacon-wallpaper-roblox-girl.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.vtg-nTjEUd1HT611L6G_BQHaIO&pid=15.1"
-    },
-    {
-     "url": "https://i.pinimg.com/236x/b5/3e/f9/b53ef94313f006a0678462d02a4c2721.jpg",
-     "page": "https://www.pinterest.com/ideas/roblox-bacon-girl-meme/918506055812/",
-     "via": "Bing Imágenes",
-     "credit": "pinterest.com",
-     "alt": "https://ts2.mm.bing.net/th?id=OIP.F0tUmeqRQsMXJX-AC7YvPgAAAA&pid=15.1"
-    },
-    {
-     "url": "https://i.ytimg.com/vi/TwN33AnrTHw/maxresdefault.jpg",
-     "page": "https://storage.googleapis.com/dductozyvywoqe/roblox-bacon-girl-purple-hair.html",
-     "via": "Bing Imágenes",
-     "credit": "storage.googleapis.com",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.hvFppG5AULUsVvzyAIL9hQHaEK&pid=15.1"
-    },
-    {
-     "url": "https://cdn.ibispaint.com/movie/996/868/996868382/image996868382.png",
-     "page": "https://ibispaint.com/art/996868382/",
-     "via": "Bing Imágenes",
-     "credit": "ibispaint.com",
-     "alt": "https://ts4.mm.bing.net/th?id=OIP.VAmgw2YTtDnMA0iFC3wiKwHaHa&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-26T00:15:16.203484+00:00",
+   "extra_images": [],
+   "extra_at": "2026-11-26T03:19:25.298681+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -2776,7 +2573,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2825,7 +2622,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -3028,7 +2825,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3259,7 +3056,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T03:11:26.131871+00:00",
+   "first_seen": "2026-11-26T03:19:25.298681+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
