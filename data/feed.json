@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T20:15:49.275794+00:00",
- "new_this_run": 1108,
+ "updated": "2026-11-26T20:23:49.881553+00:00",
+ "new_this_run": 1110,
  "count": 900,
  "items": [
   {
@@ -1700,6 +1700,28 @@
    "query": "\"Miss Universo 2026\"",
    "who": [],
    "first_seen": "2026-11-26T13:27:41.781910+00:00"
+  },
+  {
+   "id": "651e2f59a1682b",
+   "type": "news",
+   "title": "Miss Universo 2026 Jennifer Barreto se une a Telemundo en Thanksgiving",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORF9oeUdsSnNNSm5PMWFSX3hKLXZROUU2NHRqZEN0Rko1UDBWZUxaNnNvMEJvX1hCRnM2SjNqLWpOcUtCRmxqZ2htd2lwR3lSLTFyb3ZlQlY4aWthVTQ2NmRCcktkNnFlY0ZxS0UyMzl3VV9ncDhzOG9ySmxSME9DV1U4Nm1wdXVZdE55RXdZRFpHNXVYYzNoSDNVWDVkZXVIcVBHYzhjTkFuclRjYXZXeTZEOUhzMWR0SFVvN1NMSXl2Tzl5RWE5SURiZ25nbHVlZEUtdTlB0gHeAUFVX3lxTE1TQUQzN2lYQjFhdjl0eml2b3ZTN2U2OFBrT29iajBta3E4N3h5SWtpNWRIc3BSOFBUdUh5aEpiMVd2aXpDV05sN2lJT1Bzd1FFTWVRWHFHZ2R0S2ZJdXh0VHJ6Z2R5WmxXR094STdLcUszUnp2QzlzSUhsUDBJRVkzWm1scXI0cVJzdURBTHdnNWxxdGY2emFDX2U5bF9xUUk2RFZJaDVHYzIzQWUyejNLbkxyXzZXOTY0dVU3UTh1a3Fwb2RFcVRTd1prODdaMWNRQndXUTVVNDlFT3hhZw?oc=5",
+   "source": "Telemundo Nueva Inglaterra",
+   "published": "2026-11-26T13:05:25+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-26T20:23:49.881553+00:00"
   },
   {
    "id": "9ea2de63f1651c",
@@ -4462,6 +4484,33 @@
     }
    ],
    "first_seen": "2026-11-26T18:47:49.452096+00:00"
+  },
+  {
+   "id": "66fa4efc325487",
+   "type": "news",
+   "title": "La Magacín reunió a 300 personas para ver la final de Miss Universe 2026",
+   "summary": "La Magacín reunió a 300 personas en Santo Domingo para ver la final de Miss Universe 2026 y apoyar a Melissa Núñez, primera finalista.",
+   "link": "https://noticiassin.com/vida-y-estilo/arte/2026/11/26/la-magacin-reune-300-personas-para-ver-miss-universe-2026-2177569/",
+   "direct": true,
+   "source": "Noticias SIN",
+   "published": "2026-11-26T05:33:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.xxCUwCU4wYm7Nka46_DCTw&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Dominican Republic",
+     "name": "Melissa Núñez"
+    }
+   ],
+   "first_seen": "2026-11-26T20:23:49.881553+00:00"
   },
   {
    "id": "1171d889219bce",
@@ -19696,42 +19745,6 @@
    "query": "Miss Earth 2026",
    "who": [],
    "first_seen": "2026-11-25T20:23:16.085524+00:00"
-  },
-  {
-   "id": "c98c80e38630b5",
-   "type": "alert",
-   "contests": [
-    "mi"
-   ],
-   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
-   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
-   "source": "Wikipedia (edición en vivo)",
-   "published": "2026-11-25T11:58:57.413367+00:00",
-   "tags": [
-    "alerta",
-    "resultados"
-   ],
-   "who": [],
-   "first_seen": "2026-11-25T11:58:57.413367+00:00"
-  },
-  {
-   "id": "21fc4114879f42",
-   "type": "news",
-   "title": "¿Merecía ganar? Miss Universo en polémica por pregunta repetida y ser sede",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUXFCaUNVMEZCWk5TbXNYV2xGMkt2SVJQVkN4MGxSWUhWZmZSNUtSRTZkTWpRWkotYzZZaFNwT0dwU240VkFlbjVtQ0NfYU5qZUR5YTNnYy1oaV9Fc2pkWlhTX004ZTlEOHp2T3lvcTdJMkZIVjhxdE9RRVN3MHVSME1tamw4bXFUM0s0OTZ2VnNKVlcxSlM0ZWRfbDZGUVQ5QTI5YjhzQXhGSGZOVDMzR9IBtgFBVV95cUxQTEE2Y3dLc2JCMGYzODFHRzVWdGROdUtQcVRnSlpKZU5tbjhXWHp1NVFTc0JxWE5ISThnYlY5NzJSemk0c055aC1vNGxVQ2ViRzF5SGpydTg3YUhpZzltV1MwQ0ZRbjR6dnRTdVM1Z1VVSy1SZnhQcEZod2E0U2hZTFVlNm1lMy00eGZUOGsyS25QXzAxWFNQQnF1VURJclI1Y1UxbnZmbldYUjRPLWdFVzMtenFIZw?oc=5",
-   "source": "CRÍTICA",
-   "published": "2026-11-25T11:58:37+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "polemica",
-    "resultados"
-   ],
-   "query": "Miss Universo polémica",
-   "who": [],
-   "first_seen": "2026-11-25T13:10:58.236376+00:00"
   }
  ]
 }
