@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-26T16:07:41.691001+00:00",
- "count": 22,
+ "updated": "2026-11-26T16:15:41.504263+00:00",
+ "count": 23,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -159,18 +159,18 @@
    ],
    "image_query": "Miss Universe 2026 campaign",
    "extra_images": [],
-   "extra_at": "2026-11-26T16:07:41.691001+00:00",
+   "extra_at": "2026-11-26T16:15:41.504263+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T15:11:41.602100+00:00",
+     "fetched": "2026-11-26T16:15:41.504263+00:00",
      "url": "https://www.youtube.com/watch?v=PQdjKrs6cdY",
      "platform": "YouTube",
-     "views": 562,
+     "views": 637,
      "thumb": "https://i.ytimg.com/vi/PQdjKrs6cdY/hqdefault.jpg"
     }
    ],
    "social_totals": {
-    "views": 562,
+    "views": 637,
     "likes": 0,
     "comments": 0,
     "shares": 0
@@ -1143,6 +1143,84 @@
    "score": 12
   },
   {
+   "key": "t:mu:Sesión de fotos oficial:2026-11-24",
+   "id": "t-mu-sesion-de-fotos-oficial-2026-11-24-2623a",
+   "name": "Sesión de fotos oficial · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Sesión de fotos oficial"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
+   "start": "2026-11-25T11:13:00+00:00",
+   "last_activity": "2026-11-26T01:20:25+00:00",
+   "item_ids": [
+    "6c09001e8aae99",
+    "40beb6edd8b79d",
+    "18aa4f7faea969"
+   ],
+   "sources": [
+    "Contexto Tucumán",
+    "Facebook",
+    "Primera Hora"
+   ],
+   "n_items": 3,
+   "n_sources": 3,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.zZep_4hw3GdPs9NnCAuPIQ&pid=News",
+     "page": "https://www.contextotucuman.com/nota/429496/tini-stoessel-y-rodrigo-de-paul-posaron-juntos-por-primera-vez-para-la-revista-vogue-a-menos-de-un-mes-de-la-boda.html",
+     "via": "Bing (miniatura)",
+     "credit": "Contexto Tucumán"
+    },
+    {
+     "url": "https://www.primerahora.com/resizer/v2/6GBOTJ5QNBFKPARHLCHIQJKXC4.jpg?auth=2e29c7c7e9c87d65c50b880c1cb4e349495c00c71e266b25b1a3f06653d58fd5&quality=75&width=1200&height=717&focal=935%2C441",
+     "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/asi-amanecio-jennifer-barreto-como-miss-universe-2026/",
+     "via": "Primera Hora",
+     "credit": "Primera Hora"
+    },
+    {
+     "url": "https://fotografias.antena3.com/clipping/cmsimages02/2022/12/27/5B7D1986-7B28-4CF1-B190-BC1DC8B3D230/sam-heughan-caitriona-balfe-temporada-7-outlander_69.jpg?crop=1200,675,x0,y19&width=1280&height=720&optimize=low&format=webply",
+     "page": "https://www.antena3.com/objetivotv/series/outlander-confirma-final-serie-sera-temporada-8-pero-anuncia-precuela-blood-blood_2023012063ca7b181162f500012d3ffc.html",
+     "via": "Bing Imágenes",
+     "credit": "antena3.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.DFPHq44MuC-xkGSv6NlsIAHaEK&pid=15.1"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DgLCwH_lWxY"
+   ],
+   "image_query": "Miss Universe 2026 photoshoot",
+   "extra_images": [
+    {
+     "url": "https://fotografias.antena3.com/clipping/cmsimages02/2022/12/27/5B7D1986-7B28-4CF1-B190-BC1DC8B3D230/sam-heughan-caitriona-balfe-temporada-7-outlander_69.jpg?crop=1200,675,x0,y19&width=1280&height=720&optimize=low&format=webply",
+     "page": "https://www.antena3.com/objetivotv/series/outlander-confirma-final-serie-sera-temporada-8-pero-anuncia-precuela-blood-blood_2023012063ca7b181162f500012d3ffc.html",
+     "via": "Bing Imágenes",
+     "credit": "antena3.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.DFPHq44MuC-xkGSv6NlsIAHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-26T16:15:41.504263+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-26T16:15:41.504263+00:00",
+     "url": "https://www.instagram.com/p/DgLCwH_lWxY",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 9
+  },
+  {
    "key": "p:night to remember",
    "id": "p-night-to-remember-a42a2",
    "name": "Night To Remember",
@@ -1167,13 +1245,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 3546,
+     "views": 3565,
      "likes": 28,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 3546,
+   "views_total": 3565,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -1535,22 +1613,20 @@
    "desc": null,
    "refs": [],
    "first_seen": "2026-11-25T09:34:57.665901+00:00",
-   "start": "2026-11-25T10:59:24+00:00",
+   "start": "2026-11-25T11:31:00+00:00",
    "last_activity": "2026-11-25T14:16:47+00:00",
    "item_ids": [
     "df0b375ddcabc4",
     "561ef100afeb30",
-    "2d3ccb440c9a02",
-    "923083e148e241"
+    "2d3ccb440c9a02"
    ],
    "sources": [
-    "Facebook",
     "Instagram",
     "La República",
     "La Verdad de Monagas"
    ],
-   "n_items": 4,
-   "n_sources": 4,
+   "n_items": 3,
+   "n_sources": 3,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -1587,7 +1663,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 12
+   "score": 9
   },
   {
    "key": "agenda:mi:final-final-gala-hora-por-confirmar",
@@ -1598,7 +1674,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -1636,8 +1712,7 @@
     "bb84f8fc5a127a",
     "ec78738dd0b2ed",
     "2ad0be04a33149",
-    "cad726fc87e4b9",
-    "923083e148e241"
+    "cad726fc87e4b9"
    ],
    "sources": [
     "ABC",
@@ -1661,7 +1736,7 @@
     "Vietnam.vn",
     "شبكة تواصل الإخبارية"
    ],
-   "n_items": 36,
+   "n_items": 35,
    "n_sources": 20,
    "videos": [],
    "views_total": 0,
@@ -1876,7 +1951,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 79
+   "score": 78
   },
   {
    "key": "agenda:mu:final-y-coronacion",
@@ -1887,7 +1962,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -1904,6 +1979,7 @@
     "e87d080ead0486",
     "166a2a3c34c13d",
     "1b0202f1cbf03c",
+    "66b7039c427b7a",
     "0be03d639405c8",
     "cab674a65d79bf",
     "49fb38e1346a3c",
@@ -2009,8 +2085,7 @@
     "1bab0cb0088856",
     "34bde7cda02525",
     "ade37434e4ab8b",
-    "ccefe819d169d4",
-    "2e20aef79ee435"
+    "ccefe819d169d4"
    ],
    "sources": [
     "24horas",
@@ -2056,6 +2131,7 @@
     "La República",
     "La Teja",
     "La Vanguardia",
+    "La provincia",
     "MARCA",
     "MEGA Magazine",
     "MILENIO",
@@ -2116,8 +2192,8 @@
     "vijesti.me",
     "www.nxsmediawire.com"
    ],
-   "n_items": 137,
-   "n_sources": 102,
+   "n_items": 138,
+   "n_sources": 103,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2149,7 +2225,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 344
+   "score": 347
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2160,7 +2236,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2395,7 +2471,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -2626,7 +2702,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2773,7 +2849,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2822,7 +2898,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -2969,7 +3045,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T16:07:41.691001+00:00",
+   "first_seen": "2026-11-26T16:15:41.504263+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
