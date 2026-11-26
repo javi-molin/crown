@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T18:07:41.588636+00:00",
+ "updated": "2026-11-26T18:15:41.354517+00:00",
  "count": 22,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -121,6 +121,7 @@
     "d6a8a29bb1055d",
     "4607b8692225cb",
     "c26738e1739411",
+    "58337c43fd1618",
     "4ebafdd126cc16",
     "3279f7eb6f0e5b",
     "d9fcaa45198548",
@@ -130,6 +131,7 @@
    ],
    "sources": [
     "24 horas on MSN",
+    "AS Chile",
     "BioBioChile",
     "El Dínamo",
     "Facebook",
@@ -137,16 +139,22 @@
     "TV Más",
     "Teletrece"
    ],
-   "n_items": 11,
-   "n_sources": 7,
+   "n_items": 12,
+   "n_sources": 8,
    "videos": [],
    "views_total": 0,
    "images": [
     {
-     "url": "http://www.bing.com/th?id=ONUT.WH3p97X_K6Vwnf34dKc3Zg&pid=News",
-     "page": "https://www.msn.com/es-cl/entretenimiento/celebridades/te-sabotearon-dominga-l%C3%B3pez-revela-que-sufri%C3%B3-quemadura-durante-miss-universo-2026/ar-AA2igMsQ",
+     "url": "https://img.asmedia.epimg.net/resizer/v2/X44RDTNCTFDSJBDO3G6ZOTWRJY.jpg?auth=5dc4c34e81be91da8d9fb60ed04f9b6175c7f3aa642b9d9a758974484c3e5425&width=1472&height=828&smart=true",
+     "page": "https://chile.as.com/tikitakas/no-solo-el-peinado-dominga-lopez-expone-situaciones-terribles-que-paso-la-noche-del-miss-universo-f202611-n/",
+     "via": "AS Chile",
+     "credit": "AS Chile"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.OCvZiIqZyuFh9J2JukDOFA&pid=News",
+     "page": "https://chile.as.com/tikitakas/no-solo-el-peinado-dominga-lopez-expone-situaciones-terribles-que-paso-la-noche-del-miss-universo-f202611-n/",
      "via": "Bing (miniatura)",
-     "credit": "24 horas on MSN"
+     "credit": "AS Chile"
     },
     {
      "url": "https://s.t13.cl/sites/default/files/styles/manualcrop_850x475/public/t13/field-imagen/2026-11/1795692526.png.jpeg?h=df3c6bf4&itok=s6rgrbNu",
@@ -254,6 +262,7 @@
     }
    ],
    "social_urls": [
+    "https://www.instagram.com/reel/DgNX0_NxbgZ",
     "https://www.youtube.com/watch?v=PQdjKrs6cdY"
    ],
    "image_query": "Miss Universe 2026 campaign",
@@ -360,6 +369,11 @@
    "extra_at": "2026-11-26T17:11:41.731006+00:00",
    "social": [
     {
+     "fetched": "2026-11-26T18:15:41.354517+00:00",
+     "url": "https://www.instagram.com/reel/DgNX0_NxbgZ",
+     "platform": "Instagram"
+    },
+    {
      "fetched": "2026-11-26T17:19:41.855048+00:00",
      "url": "https://www.youtube.com/watch?v=PQdjKrs6cdY",
      "platform": "YouTube",
@@ -373,7 +387,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 25
+   "score": 28
   },
   {
    "key": "t:mu:Gala / cena:2026-11-24",
@@ -715,7 +729,7 @@
    "extra_at": "2026-11-26T16:07:41.691001+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T17:11:41.731006+00:00",
+     "fetched": "2026-11-26T18:15:41.354517+00:00",
      "url": "https://www.instagram.com/reel/DgKmzcVBAaT",
      "platform": "Instagram"
     }
@@ -824,7 +838,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 arrival welcome",
    "extra_images": [],
-   "extra_at": "2026-11-26T18:07:41.588636+00:00",
+   "extra_at": "2026-11-26T18:15:41.354517+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -833,6 +847,153 @@
     "shares": 0
    },
    "score": 7
+  },
+  {
+   "key": "t:mu:Tour / visita:2026-11-24",
+   "id": "t-mu-tour-visita-2026-11-24-d7ea2",
+   "name": "Tour / visita · 24–26 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Tour / visita"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-25T22:47:15.770085+00:00",
+   "start": "2026-11-25T13:20:00+00:00",
+   "last_activity": "2026-11-26T04:40:15+00:00",
+   "item_ids": [
+    "cc04362f6a2a59",
+    "6c09001e8aae99",
+    "7bec316ce8a9c9",
+    "14198397291aa6",
+    "51c7d14f0d98b1"
+   ],
+   "sources": [
+    "Facebook",
+    "Telemundo 20 San Diego",
+    "Telemundo Dallas",
+    "Telemundo Houston"
+   ],
+   "n_items": 5,
+   "n_sources": 4,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://media.telemundohouston.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
+     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
+     "via": "Telemundo Houston",
+     "credit": "Telemundo Houston"
+    },
+    {
+     "url": "https://media.telemundohouston.com/2024/04/TLMD-Texas.png?fit=1011%2C107&quality=85&strip=all",
+     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
+     "via": "Telemundo Houston",
+     "credit": "Telemundo Houston"
+    },
+    {
+     "url": "https://media.telemundohouston.com/2019/09/Houston-1.png?fit=2060%2C847&quality=85&strip=all&w=1300&h=144&crop=1",
+     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
+     "via": "Telemundo Houston",
+     "credit": "Telemundo Houston"
+    },
+    {
+     "url": "https://media.telemundohouston.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
+     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
+     "via": "Telemundo Houston",
+     "credit": "Telemundo Houston"
+    },
+    {
+     "url": "https://media.telemundo20.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
+     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
+     "via": "Telemundo 20 San Diego",
+     "credit": "Telemundo 20 San Diego"
+    },
+    {
+     "url": "https://media.telemundo20.com/2024/04/TLMD-Northern-California.png?fit=1303%2C107&quality=85&strip=all",
+     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
+     "via": "Telemundo 20 San Diego",
+     "credit": "Telemundo 20 San Diego"
+    },
+    {
+     "url": "https://media.telemundo20.com/2019/09/1920_SD-2.png?fit=1920%2C416&quality=85&strip=all&w=1300&h=144&crop=1",
+     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
+     "via": "Telemundo 20 San Diego",
+     "credit": "Telemundo 20 San Diego"
+    },
+    {
+     "url": "https://media.telemundo20.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
+     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
+     "via": "Telemundo 20 San Diego",
+     "credit": "Telemundo 20 San Diego"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.1vDSIgEzaY38l0vqPWx3wA&pid=News",
+     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
+     "via": "Bing (miniatura)",
+     "credit": "Telemundo 20 San Diego"
+    },
+    {
+     "url": "https://media.telemundodallas.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
+     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
+     "via": "Telemundo Dallas",
+     "credit": "Telemundo Dallas"
+    },
+    {
+     "url": "https://media.telemundodallas.com/2024/04/TLMD-Texas.png?fit=1011%2C107&quality=85&strip=all",
+     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
+     "via": "Telemundo Dallas",
+     "credit": "Telemundo Dallas"
+    },
+    {
+     "url": "https://media.telemundodallas.com/2019/09/DFW-2.png?fit=2060%2C847&quality=85&strip=all&w=1300&h=144&crop=1",
+     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
+     "via": "Telemundo Dallas",
+     "credit": "Telemundo Dallas"
+    },
+    {
+     "url": "https://media.telemundodallas.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
+     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
+     "via": "Telemundo Dallas",
+     "credit": "Telemundo Dallas"
+    },
+    {
+     "url": "https://velog.velcdn.com/images/ywc8851/post/64f5582a-9a44-469d-a4fe-cd5da1f31d73/image.png",
+     "page": "https://velog.io/@ywc8851/Git-Github-2",
+     "via": "Bing Imágenes",
+     "credit": "velog.io",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q4j3wP7LJOHxwLem2nl0VAHaDH&pid=15.1"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/reel/DgKueZjxfGN"
+   ],
+   "image_query": "Miss Universe 2026 tour",
+   "extra_images": [
+    {
+     "url": "https://velog.velcdn.com/images/ywc8851/post/64f5582a-9a44-469d-a4fe-cd5da1f31d73/image.png",
+     "page": "https://velog.io/@ywc8851/Git-Github-2",
+     "via": "Bing Imágenes",
+     "credit": "velog.io",
+     "alt": "https://ts3.mm.bing.net/th?id=OIP.q4j3wP7LJOHxwLem2nl0VAHaDH&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-26T15:59:41.355973+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-26T17:59:41.641633+00:00",
+     "url": "https://www.instagram.com/reel/DgKueZjxfGN",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 13
   },
   {
    "key": "seed:retratos-oficiales-75",
@@ -1071,152 +1232,6 @@
    "score": 9
   },
   {
-   "key": "t:mu:Tour / visita:2026-11-24",
-   "id": "t-mu-tour-visita-2026-11-24-d7ea2",
-   "name": "Tour / visita · 24–26 nov",
-   "contest": "mu",
-   "kind": "detectado",
-   "labels": [
-    "Tour / visita"
-   ],
-   "desc": null,
-   "refs": [],
-   "first_seen": "2026-11-25T22:47:15.770085+00:00",
-   "start": "2026-11-25T13:20:00+00:00",
-   "last_activity": "2026-11-26T01:20:25+00:00",
-   "item_ids": [
-    "6c09001e8aae99",
-    "7bec316ce8a9c9",
-    "14198397291aa6",
-    "51c7d14f0d98b1"
-   ],
-   "sources": [
-    "Facebook",
-    "Telemundo 20 San Diego",
-    "Telemundo Dallas",
-    "Telemundo Houston"
-   ],
-   "n_items": 4,
-   "n_sources": 4,
-   "videos": [],
-   "views_total": 0,
-   "images": [
-    {
-     "url": "https://media.telemundohouston.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
-     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
-     "via": "Telemundo Houston",
-     "credit": "Telemundo Houston"
-    },
-    {
-     "url": "https://media.telemundohouston.com/2024/04/TLMD-Texas.png?fit=1011%2C107&quality=85&strip=all",
-     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
-     "via": "Telemundo Houston",
-     "credit": "Telemundo Houston"
-    },
-    {
-     "url": "https://media.telemundohouston.com/2019/09/Houston-1.png?fit=2060%2C847&quality=85&strip=all&w=1300&h=144&crop=1",
-     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
-     "via": "Telemundo Houston",
-     "credit": "Telemundo Houston"
-    },
-    {
-     "url": "https://media.telemundohouston.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
-     "page": "https://www.telemundohouston.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2592525/",
-     "via": "Telemundo Houston",
-     "credit": "Telemundo Houston"
-    },
-    {
-     "url": "https://media.telemundo20.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
-     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
-     "via": "Telemundo 20 San Diego",
-     "credit": "Telemundo 20 San Diego"
-    },
-    {
-     "url": "https://media.telemundo20.com/2024/04/TLMD-Northern-California.png?fit=1303%2C107&quality=85&strip=all",
-     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
-     "via": "Telemundo 20 San Diego",
-     "credit": "Telemundo 20 San Diego"
-    },
-    {
-     "url": "https://media.telemundo20.com/2019/09/1920_SD-2.png?fit=1920%2C416&quality=85&strip=all&w=1300&h=144&crop=1",
-     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
-     "via": "Telemundo 20 San Diego",
-     "credit": "Telemundo 20 San Diego"
-    },
-    {
-     "url": "https://media.telemundo20.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
-     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
-     "via": "Telemundo 20 San Diego",
-     "credit": "Telemundo 20 San Diego"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.1vDSIgEzaY38l0vqPWx3wA&pid=News",
-     "page": "https://www.telemundo20.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2555397/",
-     "via": "Bing (miniatura)",
-     "credit": "Telemundo 20 San Diego"
-    },
-    {
-     "url": "https://media.telemundodallas.com/2026/11/jennifer-barreto-miss-universo-2026.jpg?quality=85&strip=all&resize=1200%2C675",
-     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
-     "via": "Telemundo Dallas",
-     "credit": "Telemundo Dallas"
-    },
-    {
-     "url": "https://media.telemundodallas.com/2024/04/TLMD-Texas.png?fit=1011%2C107&quality=85&strip=all",
-     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
-     "via": "Telemundo Dallas",
-     "credit": "Telemundo Dallas"
-    },
-    {
-     "url": "https://media.telemundodallas.com/2019/09/DFW-2.png?fit=2060%2C847&quality=85&strip=all&w=1300&h=144&crop=1",
-     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
-     "via": "Telemundo Dallas",
-     "credit": "Telemundo Dallas"
-    },
-    {
-     "url": "https://media.telemundodallas.com/2026/11/GettyImages-2306755544.jpg?quality=85&strip=all&fit=3000%2C2000&w=330&h=186&crop=1",
-     "page": "https://www.telemundodallas.com/entretenimiento/entretenimiento-destacados/miss-universo-2026-llega-a-su-pueblo-natal-a-celebrar-su-historico-triunfo/2616550/",
-     "via": "Telemundo Dallas",
-     "credit": "Telemundo Dallas"
-    },
-    {
-     "url": "https://velog.velcdn.com/images/ywc8851/post/64f5582a-9a44-469d-a4fe-cd5da1f31d73/image.png",
-     "page": "https://velog.io/@ywc8851/Git-Github-2",
-     "via": "Bing Imágenes",
-     "credit": "velog.io",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q4j3wP7LJOHxwLem2nl0VAHaDH&pid=15.1"
-    }
-   ],
-   "social_urls": [
-    "https://www.instagram.com/reel/DgKueZjxfGN"
-   ],
-   "image_query": "Miss Universe 2026 tour",
-   "extra_images": [
-    {
-     "url": "https://velog.velcdn.com/images/ywc8851/post/64f5582a-9a44-469d-a4fe-cd5da1f31d73/image.png",
-     "page": "https://velog.io/@ywc8851/Git-Github-2",
-     "via": "Bing Imágenes",
-     "credit": "velog.io",
-     "alt": "https://ts3.mm.bing.net/th?id=OIP.q4j3wP7LJOHxwLem2nl0VAHaDH&pid=15.1"
-    }
-   ],
-   "extra_at": "2026-11-26T15:59:41.355973+00:00",
-   "social": [
-    {
-     "fetched": "2026-11-26T17:59:41.641633+00:00",
-     "url": "https://www.instagram.com/reel/DgKueZjxfGN",
-     "platform": "Instagram"
-    }
-   ],
-   "social_totals": {
-    "views": 0,
-    "likes": 0,
-    "comments": 0,
-    "shares": 0
-   },
-   "score": 12
-  },
-  {
    "key": "p:night to remember",
    "id": "p-night-to-remember-a42a2",
    "name": "Night To Remember",
@@ -1241,13 +1256,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 3890,
+     "views": 3902,
      "likes": 29,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 3890,
+   "views_total": 3902,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -1260,7 +1275,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Night To Remember",
    "extra_images": [],
-   "extra_at": "2026-11-26T18:07:41.588636+00:00",
+   "extra_at": "2026-11-26T18:15:41.354517+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1835,7 +1850,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -2125,7 +2140,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -2158,6 +2173,7 @@
     "4768b248e45e57",
     "9383ffa9bd4800",
     "6c09001e8aae99",
+    "b7af0ec79936f8",
     "d9fcaa45198548",
     "2ed61df1a55f77",
     "dbac37f0ef3d55",
@@ -2247,8 +2263,7 @@
     "c47740782b110f",
     "e156cda3125f80",
     "4685494f7a705f",
-    "8fd7fbb7bb891a",
-    "495030300eb61b"
+    "8fd7fbb7bb891a"
    ],
    "sources": [
     "24horas",
@@ -2278,6 +2293,7 @@
     "Emol",
     "FMDOS — La radio de los dos",
     "FOX 2",
+    "FOX 5 San Diego & KUSI News",
     "FOX 8 Local First",
     "FOX21 News Colorado",
     "Facebook",
@@ -2358,7 +2374,7 @@
     "www.nxsmediawire.com"
    ],
    "n_items": 142,
-   "n_sources": 105,
+   "n_sources": 106,
    "videos": [],
    "views_total": 0,
    "images": [
@@ -2460,7 +2476,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 355
+   "score": 357
   },
   {
    "key": "agenda:mu:competencia-preliminar",
@@ -2471,7 +2487,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2706,7 +2722,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -2937,7 +2953,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -3084,7 +3100,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -3133,7 +3149,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3364,7 +3380,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T18:07:41.588636+00:00",
+   "first_seen": "2026-11-26T18:15:41.354517+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
