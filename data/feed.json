@@ -1,8 +1,30 @@
 {
- "updated": "2026-11-26T16:31:41.341456+00:00",
- "new_this_run": 978,
+ "updated": "2026-11-26T16:39:42.153529+00:00",
+ "new_this_run": 1314,
  "count": 900,
  "items": [
+  {
+   "id": "85b5bc88a72213",
+   "type": "news",
+   "title": "\"Hoy vuelvo a casa\": Dominga López anuncia su regreso a Chile tras su paso por Miss Universo 2026",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON000ZzU1Y0pFMzZURUYtamVYVGRyblktenA3Ry1QdkJlRk0weVFoTThlbDJtd3k0OU9nWm5HazhQdVdhSmdqWF9WUzVLbXBSZ1ZzRS1KOGRSNVhxRldqTkFOOE9QY2JjUkswS1FkUDRRZUs4QkU5QVZUMFB5WjRrcndNaWNIZHVsUlNKOFoyUmRUdW56WjQ0ZnliTjBlcDllV0lhdTgtYjh1dXVfbFQ4SG9reVM2NlN6M1HSAb8BQVVfeXFMTXd2d2hvczQ3T2FnZFN6VmdsSVZnYV9XUzVXWE9iMnZMQ2pZdklQU3BKRUpmUnNObWg5VHNTN3FreEZRQkFHdWtjMmR2dmZSWWN4cUFwR0NtRjFweUVFbElmbUk2U2VIaUE2WXpYcWx0dE81UW5hYzZ5Q0RlTEhOZ01WN0tfWG9QbkxCTU1ta3lpRURjMld0RDBVS1NZVVJtVUdkV3pWUFZpQmNuTk9zek4wUzRlMk54QW5UaW90aWM?oc=5",
+   "source": "24horas",
+   "published": "2026-11-26T16:29:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
+  },
   {
    "id": "89963c7f383ad8",
    "type": "news",
@@ -12,13 +34,20 @@
    "published": "2026-11-26T16:27:38+00:00",
    "lang": "en",
    "contests": [
-    "mi"
+    "mi",
+    "mu"
    ],
    "tags": [
     "resultados"
    ],
    "query": "beauty pageant",
-   "who": [],
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Moldova",
+     "name": "Dorina Darii"
+    }
+   ],
    "first_seen": "2026-11-26T16:31:41.341456+00:00"
   },
   {
@@ -620,6 +649,30 @@
     }
    ],
    "first_seen": "2026-11-26T15:59:41.355973+00:00"
+  },
+  {
+   "id": "4607b8692225cb",
+   "type": "news",
+   "title": "Dominga López cuenta que le cambiaron el maquillaje y la quemaron en el Miss Universo: 'Yo decía: 'basta, no más''",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRmZLMFlESmVKMmdPdk8ya3VPN3FzUDRNakVYRDdqZk5NeUphdDdqemNnWEhMUkNoWnRBMjNXVnp5TGY4UklQV2VHWWZ6eXZTd0hpYzRoMzRvdWdxRU1nU3A4c1JfcWxhdGJjOENqcTYwZ0pNdmFMRFVvVlFTODFvZm1EZWgwUUhBSTc1eEZ5eW5sVU1OVEwwSnlLYmNDQ3VXRDRUVy04b1piQnlCWUI5U1FTbGxPcUpsN0xwcFlRT2JFTkJPaGfSAcsBQVVfeXFMTjlTMGgwcUtCdkVEaFlvX0tSMDhEaFF3Y1oxeUtuemdIUmVEYXU4cER5Yk9ESjhESHFONWZ2TnpJYXppai1vMFJyR3pRb0kxOGxLQ1FKV0VfMDktTXlzYWlRVnhWNGxjbUwwNHZ4dVZxclB3VXJvQTFQSEdrc0tBR2xuTExSUFgwU1VxdEFfMEZUVHlacXF5dldIRzZwSV9jNDJPRkFaVE5MSG1uRFBIWEZJZWdvekxDSUlidTkyWE90TThDT3RJdjNfSU0?oc=5",
+   "source": "Meganoticias",
+   "published": "2026-11-26T14:16:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks"
+   ],
+   "query": "\"Dominga López\" Miss Universo",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
   },
   {
    "id": "f318ee160ca184",
@@ -2009,11 +2062,6 @@
      "contest": "mi",
      "country": "Moldova",
      "name": "Elizaveta Kuznetsova"
-    },
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-26T09:27:33.879674+00:00"
@@ -2462,6 +2510,35 @@
     }
    ],
    "first_seen": "2026-11-26T15:43:41.806267+00:00"
+  },
+  {
+   "id": "0964dd14f7e4ce",
+   "type": "news",
+   "title": "''Un desastre el pelo'': Dominga López se sincera sobre peinado fallido en final de Miss Universo 2026",
+   "summary": "Dominga López, la modelo y periodista chilena que alcanzó el Top 12 en Miss Universo 2026, se sinceró sobre las críticas por su peinado durante el desfile de gala. Recordemos que, al momento de salir ...",
+   "link": "https://tntsports.cl/tendencias/un-desastre-el-pelo-dominga-lopez-se-sincera-sobre-peinado-fallido-en-final-de-miss-universo-2026-20261126-0006.html",
+   "direct": true,
+   "source": "TNT Sports",
+   "published": "2026-11-26T07:19:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks",
+    "polemica",
+    "resultados"
+   ],
+   "thumb": null,
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
   },
   {
    "id": "0be03d639405c8",
@@ -3612,6 +3689,34 @@
    "first_seen": "2026-11-26T10:31:34.048164+00:00"
   },
   {
+   "id": "1d4be0de5810b5",
+   "type": "news",
+   "title": "¿Cuánto cuesta el vestido con el que Jennifer Barreto ganó Miss Universo? Lo que cobra Luis Antonio",
+   "summary": "Jennifer Barreto ganó Miss Universo con un vestido de Luis Antonio que homenajea a cinco reinas de Puerto Rico. Cuánto cobra el diseñador y cómo se hizo.",
+   "link": "https://revistamercado.do/lifestyle/cuanto-cuesta-vestido-jennifer-barreto-miss-universo-luis-antonio/",
+   "direct": true,
+   "source": "Revista Mercado",
+   "published": "2026-11-26T03:34:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks",
+    "resultados"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.ROvvxOPbx-fu-L6lpzH_hQ&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
+  },
+  {
    "id": "c776c44af620a4",
    "type": "news",
    "title": "La artista, que mide 1,78 metros de altura, fue coronada Miss Internacional.",
@@ -3887,6 +3992,31 @@
    "query": "\"Miss International 2026\"",
    "who": [],
    "first_seen": "2026-11-26T03:27:26.151763+00:00"
+  },
+  {
+   "id": "67a69becc1858d",
+   "type": "news",
+   "title": "Gabriela González regresa a Panamá tras su participación en Miss Universo",
+   "summary": "La representante panameña llegará este jueves 26 de noviembre al Aeropuerto Internacional de Tocumen, donde se prepara un recibimiento para celebrar su regreso al país.",
+   "link": "https://www.panamaamerica.com.pa/variedades/gabriela-gonzalez-regresa-panama-tras-su-participacion-en-miss-universo-1282618",
+   "direct": true,
+   "source": "Panamá América",
+   "published": "2026-11-26T02:57:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "thumb": null,
+   "query": "Miss Universo 2026 sesión de fotos",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Panama",
+     "name": "Gabriela González"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
   },
   {
    "id": "ac9bb1e8882e0c",
@@ -4840,6 +4970,31 @@
     }
    ],
    "first_seen": "2026-11-26T00:31:15.980872+00:00"
+  },
+  {
+   "id": "d8c49c1f1f4356",
+   "type": "news",
+   "title": "Dominga López se sincera y expone insólito episodio que vivió en pleno Miss Universo: “Me sangraban las...”",
+   "summary": "La representante chilena relató una serie de inconvenientes que sufrió previo a su presentación en el certamen internacional.",
+   "link": "https://www.adnradio.cl/2026/11/26/dominga-lopez-se-sincera-y-expone-insolito-episodio-que-vivio-en-pleno-miss-universo-me-sangraban-las/",
+   "direct": true,
+   "source": "ADN",
+   "published": "2026-11-26T00:20:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.IcXN5WT01AbQLPZYZUKLUA&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Chile",
+     "name": "Dominga López"
+    }
+   ],
+   "first_seen": "2026-11-26T16:39:42.153529+00:00"
   },
   {
    "id": "5ceab051afc5b7",
@@ -19516,11 +19671,6 @@
      "contest": "mu",
      "country": "Philippines",
      "name": "Bea Millan-Windorski"
-    },
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-25T22:15:15.904042+00:00"
@@ -19714,131 +19864,6 @@
     }
    ],
    "first_seen": "2026-11-26T15:19:41.522321+00:00"
-  },
-  {
-   "id": "a5282a4f8709e8",
-   "type": "news",
-   "title": "Jennifer Barreto, Miss Universo 2026, enfrenta su primera polémica tras ganar el concurso",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa08yVm5RVzg0dmVUaXNtaXNNS29LX2lHWXFWVlVleE1sQVlRVWdTNGNRQVZFZG9PMHRrNWtfVC0yenI2WnNQZVBiVHN6eEhfMlBpNzAyRGpFZHJ4cmx5c1U4clRNWWl4NDBnLXRCaFVXT2VxUjEyZmo2TVBvT2VaVzVsMExjOE1jekxCRGRieTR6UHFadlZ6d2kxc3N2eTBPR05ONVN6TEZjeUl0VnhQUUtIdC03YjE2OXVQN1dIMFRNZTJqX3lHNg?oc=5",
-   "source": "Teletrece",
-   "published": "2026-11-25T11:08:23+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "polemica",
-    "resultados"
-   ],
-   "query": "\"Miss Universo 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T11:18:57.432679+00:00"
-  },
-  {
-   "id": "b94499d0f2d6b2",
-   "type": "news",
-   "title": "Miss Universo 2026: quién es Jennifer Barreto, la psicóloga y madre que conquistó la corona",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR1YwSmZmWFVSWDFxYnliRXdpUHZkM2dxeHZaMDFmcHRDdUU2dDBHVW9JT2JCR1NRTGtDNEp6WVNtSnRFRnE0RHRJVzl2OWJCaDJET2Q4SmFtQWZoLW5qSlozUU9VbGUtUXBTb1otdWV3akZscFhudXpwSlBZcUotNXVTNEZ2dnVDdk81MEJOX1hldlUzQVljRl82cHo3UlZ0Z1BzbVA5TlBoRDh5Tk5DTWZJY2JyWnlmWm1lUWJZUXdvUWtFSFBlNjhpU1dUcmFLZ1BkUUVtQ1lKcUsx?oc=5",
-   "source": "Radio Agricultura",
-   "published": "2026-11-25T11:07:15+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Universo 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T11:42:58.154833+00:00"
-  },
-  {
-   "id": "499fe69448c284",
-   "type": "news",
-   "title": "¿Quién es el esposo de Jennifer Barreto, la Miss Universo 2026?",
-   "summary": "La representante de Puerto Rico consiguió la corona durante la edición número 75 del certamen, celebrada en San Juan, y marcó un precedente al convertirse en la primera mujer casada y madre en obtener ...",
-   "link": "https://www.kienyke.com/entretenimiento/quien-es-el-esposo-de-la-nueva-miss-universo-2026",
-   "direct": true,
-   "source": "Kien y Ke",
-   "published": "2026-11-25T11:06:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.EV7k7_6u82OBvGNWliZowQ&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T19:51:16.566352+00:00"
-  },
-  {
-   "id": "4850aca5adda0b",
-   "type": "news",
-   "title": "Miss Universe East claims Vietnam will host 2027 pageant",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZk01OGc5Z25ic0oyMjdoN25aUnVnYkNOcUJyOEw5V3UtSHpiWXlPRm5sXy01WmpUNUl6X1RwMlRHRDRUQm5acEpBOXVrSktsSGFwZzhUVGMzdmFKdmtRY2JnWHprRmpFanZsVlpZNGhZRGk3cGxFd2pzZ25nbW10REpSTGVyMk9TUVBQUm4ycnZqdkJjUnhuSzFocjlfZnpoT3VOUUlmTHFZZk45dnpXVw?oc=5",
-   "source": "GMA Network",
-   "published": "2026-11-25T11:05:31+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "Miss Universe controversy",
-   "who": [],
-   "first_seen": "2026-11-25T11:10:58.222904+00:00"
-  },
-  {
-   "id": "1612e1ce879964",
-   "type": "alert",
-   "contests": [
-    "mi"
-   ],
-   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
-   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
-   "source": "Wikipedia (edición en vivo)",
-   "published": "2026-11-25T11:02:58.183808+00:00",
-   "tags": [
-    "alerta",
-    "resultados"
-   ],
-   "who": [],
-   "first_seen": "2026-11-25T11:02:58.183808+00:00"
-  },
-  {
-   "id": "451e1dabc1da5a",
-   "type": "news",
-   "title": "Miss Universe 2026 Expected to Generate Up to $100 Million for Puerto Rico",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVV95Q0x6ZW4xdzl3M2tQNGtDVG90d25wTjYydlFCYzZzeU10UnNQLTRDcHBaU0tNTWc2Uld1RW5SS3NqaWhrWHRBaDRhVFA4WDhxcU9rM2ZzSU10UDQ1NERMd0xhaHFZMWhIanJXb3Fkay01aEZQUzV4ZEF3UlpITG9Ka1hfbDBnLTZvaldCTTd1NnVBQWdCTnROUG9zOTlNdklIOEdsMi1sVWlYNTlTQUxoRDBMRWc?oc=5",
-   "source": "Rus Tourism News",
-   "published": "2026-11-25T11:02:14+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T12:06:58.251695+00:00"
   }
  ]
 }
