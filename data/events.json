@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:55:41.261247+00:00",
+ "updated": "2026-11-26T15:03:41.796066+00:00",
  "count": 22,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -185,7 +185,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 gala dinner",
    "extra_images": [],
-   "extra_at": "2026-11-26T14:55:41.261247+00:00",
+   "extra_at": "2026-11-26T15:03:41.796066+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -372,11 +372,27 @@
    "n_sources": 2,
    "videos": [],
    "views_total": 0,
-   "images": [],
+   "images": [
+    {
+     "url": "https://i.ytimg.com/vi/9I6zASds6qw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGCQgSSh_MA8=&rs=AOn4CLBY5af8xnEgtBSkgHNlFpJIo1q1rg",
+     "page": "https://www.youtube.com/watch?v=9I6zASds6qw",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.mZeH326P681GPniduqKoYgHaEK&pid=15.1"
+    }
+   ],
    "social_urls": [],
    "image_query": "Miss Universe 2026 arrival welcome",
-   "extra_images": [],
-   "extra_at": "2026-11-26T14:55:41.261247+00:00",
+   "extra_images": [
+    {
+     "url": "https://i.ytimg.com/vi/9I6zASds6qw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGCQgSSh_MA8=&rs=AOn4CLBY5af8xnEgtBSkgHNlFpJIo1q1rg",
+     "page": "https://www.youtube.com/watch?v=9I6zASds6qw",
+     "via": "Bing Imágenes",
+     "credit": "youtube.com",
+     "alt": "https://ts1.mm.bing.net/th?id=OIP.mZeH326P681GPniduqKoYgHaEK&pid=15.1"
+    }
+   ],
+   "extra_at": "2026-11-26T15:03:41.796066+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1087,13 +1103,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 3225,
+     "views": 3263,
      "likes": 26,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 3225,
+   "views_total": 3263,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -1180,7 +1196,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 tour",
    "extra_images": [],
-   "extra_at": "2026-11-26T14:55:41.261247+00:00",
+   "extra_at": "2026-11-26T15:03:41.796066+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1323,7 +1339,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -1611,7 +1627,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -1627,6 +1643,7 @@
     "1b0202f1cbf03c",
     "0be03d639405c8",
     "cab674a65d79bf",
+    "49fb38e1346a3c",
     "b75fb1826b3ede",
     "c4cc015167cf58",
     "cf0939b3bd8c13",
@@ -1733,8 +1750,7 @@
     "04d3fa0de49713",
     "a620df5a4406f6",
     "c3970a32242693",
-    "9919e5442c4961",
-    "ebf5c8e5a73915"
+    "9919e5442c4961"
    ],
    "sources": [
     "24horas",
@@ -1884,7 +1900,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2119,7 +2135,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -2350,7 +2366,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -2553,7 +2569,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -2602,7 +2618,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -2749,7 +2765,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T14:55:41.261247+00:00",
+   "first_seen": "2026-11-26T15:03:41.796066+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
