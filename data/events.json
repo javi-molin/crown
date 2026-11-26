@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:51:41.260216+00:00",
+ "updated": "2026-11-26T17:59:41.641633+00:00",
  "count": 22,
  "events": [
   {
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -391,6 +391,7 @@
    "last_activity": "2026-11-26T14:15:32+00:00",
    "item_ids": [
     "f318ee160ca184",
+    "1a6a3d5ad38cca",
     "0964dd14f7e4ce",
     "4d925ad6f29a70",
     "9383ffa9bd4800",
@@ -406,17 +407,24 @@
     "Canal 13",
     "Chilevisión",
     "Instagram",
+    "MundoNOW on MSN",
     "NTN24",
     "TNT Sports",
     "Telemedellín",
     "Telemundo",
     "Vistazo"
    ],
-   "n_items": 10,
-   "n_sources": 9,
+   "n_items": 11,
+   "n_sources": 10,
    "videos": [],
    "views_total": 0,
    "images": [
+    {
+     "url": "http://www.bing.com/th?id=ONUT.TDKXI3aIR5Pd0kGJFIdBhg&pid=News",
+     "page": "https://www.msn.com/es-us/noticias/otras/alicia-machado-estalla-contra-dise%C3%B1ador-de-miss-venezuela-tras-perder-miss-universo-2026-la-cagaste/ar-AA2iiYI1",
+     "via": "Bing (miniatura)",
+     "credit": "MundoNOW on MSN"
+    },
     {
      "url": "https://www.vistazo.com/binrepository/1148x601/279c0/600d600/none/12727/GJXA/portadas-web-2026-11-26t100153_2778254_20261126100328.jpg",
      "page": "https://www.vistazo.com/entretenimiento/2026-11-26-miss-universo-2026-esposo-jennifer-barreto-conto-como-vivio-triunfo-MA11338325",
@@ -463,12 +471,6 @@
      "url": "https://www.vistazo.com/binrepository/303x170/2c0/300d169/none/12727/UFFF/malecon_2778186_20261126081050.jpg",
      "page": "https://www.vistazo.com/entretenimiento/2026-11-26-miss-universo-2026-esposo-jennifer-barreto-conto-como-vivio-triunfo-MA11338325",
      "via": "Vistazo",
-     "credit": "Vistazo"
-    },
-    {
-     "url": "http://www.bing.com/th?id=ONUT.1nUvGIiJ9BPD8VuYR0KKGw&pid=News",
-     "page": "https://www.vistazo.com/entretenimiento/2026-11-26-miss-universo-2026-esposo-jennifer-barreto-conto-como-vivio-triunfo-MA11338325",
-     "via": "Bing (miniatura)",
      "credit": "Vistazo"
     },
     {
@@ -724,7 +726,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 28
+   "score": 31
   },
   {
    "key": "t:mu:Entrevistas:2026-11-24",
@@ -1071,7 +1073,7 @@
    "extra_at": "2026-11-26T17:19:41.855048+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T16:55:41.882231+00:00",
+     "fetched": "2026-11-26T17:59:41.641633+00:00",
      "url": "https://www.instagram.com/reel/DgKueZjxfGN",
      "platform": "Instagram"
     }
@@ -1217,7 +1219,7 @@
    "extra_at": "2026-11-26T15:59:41.355973+00:00",
    "social": [
     {
-     "fetched": "2026-11-26T16:55:41.882231+00:00",
+     "fetched": "2026-11-26T17:59:41.641633+00:00",
      "url": "https://www.instagram.com/reel/DgKueZjxfGN",
      "platform": "Instagram"
     }
@@ -1255,13 +1257,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 3838,
+     "views": 3853,
      "likes": 29,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 3838,
+   "views_total": 3853,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -1274,7 +1276,7 @@
    "social_urls": [],
    "image_query": "Miss International 2026 Night To Remember",
    "extra_images": [],
-   "extra_at": "2026-11-26T17:51:41.260216+00:00",
+   "extra_at": "2026-11-26T17:59:41.641633+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1849,7 +1851,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -2139,7 +2141,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -2485,7 +2487,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -2720,7 +2722,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [],
@@ -2951,7 +2953,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -3098,7 +3100,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -3147,7 +3149,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3378,7 +3380,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-26T17:51:41.260216+00:00",
+   "first_seen": "2026-11-26T17:59:41.641633+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
