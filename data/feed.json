@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-26T04:23:25.919176+00:00",
- "new_this_run": 1158,
+ "updated": "2026-11-26T04:31:25.570867+00:00",
+ "new_this_run": 935,
  "count": 900,
  "items": [
+  {
+   "id": "475208f352362d",
+   "type": "alert",
+   "contests": [
+    "mi"
+   ],
+   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
+   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
+   "source": "Wikipedia (edición en vivo)",
+   "published": "2026-11-26T04:31:25.570867+00:00",
+   "tags": [
+    "alerta",
+    "resultados"
+   ],
+   "who": [],
+   "first_seen": "2026-11-26T04:31:25.570867+00:00"
+  },
   {
    "id": "b8448e6e1adb8c",
    "type": "alert",
@@ -3769,6 +3786,30 @@
     }
    ],
    "first_seen": "2026-11-26T02:47:26.213312+00:00"
+  },
+  {
+   "id": "66109bdacb4b16",
+   "type": "news",
+   "title": "Miss Puerto Rico Jennifer Barreto crowned Miss Universe 2026, first mother to win title",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDFUcl9PdXd3QmR0NWNTQ21mOVBOTWRSeTk0MncwWDhMcXl4MkxZa1JkX01UNWZhZzJIQmJXbGNTTHpnc1hPSGE1Q28xeXVSaTZjb1RzV180N19ybFA4enBPOUJnbWlJSDdIR2ZyZ0wxLUNWNFRNU2l6MUpUUzlsazJGeS1lM0pFRzYxM0lWdklpZ1N4Z2tfakZCVGJZZlpRSVRxTU5FOTdncXhJ?oc=5",
+   "source": "www.nxsmediawire.com",
+   "published": "2026-11-25T16:51:53+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-26T04:31:25.570867+00:00"
   },
   {
    "id": "f1be78561423ab",
@@ -13576,6 +13617,11 @@
      "contest": "mu",
      "country": "Philippines",
      "name": "Bea Millan-Windorski"
+    },
+    {
+     "contest": "mi",
+     "country": "Philippines",
+     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-25T22:15:15.904042+00:00"
@@ -20193,62 +20239,6 @@
     }
    ],
    "first_seen": "2026-11-25T07:58:50.204732+00:00"
-  },
-  {
-   "id": "542ec8fd8089c5",
-   "type": "news",
-   "title": "Miss Universo 2026: Perú llegó al Top 30, pero Luren Márquez quedó fuera del Top 12",
-   "summary": "Miss Universo 2026: Luren Márquez logró clasificar al Top 30, pero no consiguió avanzar al Top 12 tras el desfile en traje de baño.",
-   "link": "https://caretas.pe/ellosellas/miss-universo-2026-peru-llego-al-top-30-pero-luren-marquez-quedo-fuera-del-top-12/",
-   "direct": true,
-   "source": "Caretas",
-   "published": "2026-11-25T07:42:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "looks",
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.0qUUu2Yoqpxz_kURCIvkKg&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Peru",
-     "name": "Luren Márquez"
-    }
-   ],
-   "first_seen": "2026-11-25T15:59:06.289635+00:00"
-  },
-  {
-   "id": "66d3c2bb45e91d",
-   "type": "news",
-   "title": "Miss Universo 2026: ¿Qué lugar ocupó Perú con Luren Márquez?",
-   "summary": "Miss Universo 2026: Luren Márquez logró clasificar al Top 30, pero no consiguió avanzar al Top 12 tras el desfile en traje de baño.",
-   "link": "https://caretas.pe/ellosellas/miss-universo-2026-que-lugar-ocupo-peru-con-luren-marquez/",
-   "direct": true,
-   "source": "Caretas",
-   "published": "2026-11-25T07:42:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "looks",
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.0qUUu2Yoqpxz_kURCIvkKg&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Peru",
-     "name": "Luren Márquez"
-    }
-   ],
-   "first_seen": "2026-11-25T15:59:06.289635+00:00"
   }
  ]
 }
