@@ -1,8 +1,49 @@
 {
- "updated": "2026-11-26T04:15:25.324813+00:00",
- "new_this_run": 1189,
+ "updated": "2026-11-26T04:23:25.919176+00:00",
+ "new_this_run": 1158,
  "count": 900,
  "items": [
+  {
+   "id": "b8448e6e1adb8c",
+   "type": "alert",
+   "contests": [
+    "mi"
+   ],
+   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
+   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
+   "source": "Wikipedia (edición en vivo)",
+   "published": "2026-11-26T04:23:25.919176+00:00",
+   "tags": [
+    "alerta",
+    "resultados"
+   ],
+   "who": [],
+   "first_seen": "2026-11-26T04:23:25.919176+00:00"
+  },
+  {
+   "id": "3be078aa0342b7",
+   "type": "news",
+   "title": "‘I couldn’t back out’: Georgia Waddington’s broken-toe road to Miss Universe top 5",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXNkUXBEd0I5OG15Z2FsYVBaWDBSaWRjelprRmxNdGtwNTVvcG1IZVRxNlB4Xy1faUV0dzEwVTlvMF95LTUyOXc5S3FubkUtdUdNeWhiZVozTDUwS0dsUEtYVkVyaFhWOHNfQlNHMDJPbTV1UGZEWUxVc1hja3R0Wk8waWlGM1ZBbncxdi1pNUhTaWhKRHF1U2Q1THMzMGdMN3FBQlMwbmE?oc=5",
+   "source": "RNZ",
+   "published": "2026-11-26T04:19:37+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "beauty pageant",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "New Zealand",
+     "name": "Georgia Waddington"
+    }
+   ],
+   "first_seen": "2026-11-26T04:23:25.919176+00:00"
+  },
   {
    "id": "c18ae63594d914",
    "type": "news",
@@ -4859,6 +4900,30 @@
    "first_seen": "2026-11-25T16:23:06.745660+00:00"
   },
   {
+   "id": "51394ffa8f5aaf",
+   "type": "news",
+   "title": "Puerto Rico makes history as Jennifer Barreto is crowned Miss Universe 2026",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YemQ4VTdNU3psdy1qcFBRLXRQVXZDY29ZQXo1UDR5cjZjaVRkQ1BnblhsX05JQVFiYTU0TTRHUjV0clltODEtbTRTNDdERUd2VjNnMHJweGVQT3FJb3lNcm94Wml6WllGUnd3UjNSWmhNdXhGblllX25vWEtlSFE?oc=5",
+   "source": "Fresno Bee",
+   "published": "2026-11-25T15:49:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "beauty pageant",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-26T04:23:25.919176+00:00"
+  },
+  {
    "id": "95b63d0af6dbcd",
    "type": "news",
    "title": "Puerto Rico gana Miss Universo 2026 con Jennifer Barreto en una final marcada por la polémica",
@@ -8931,6 +8996,33 @@
     }
    ],
    "first_seen": "2026-11-25T21:11:15.317660+00:00"
+  },
+  {
+   "id": "f8b98a845bca4c",
+   "type": "news",
+   "title": "¿Cuál fue el error de María Vargas en Miss Universo 2026?",
+   "summary": "La participación de María Vargas, representante de México en Miss Universo 2026, generó conversación en redes sociales luego de quedar fuera de la competencia antes de llegar al Top 12. Aunque su ...",
+   "link": "https://diario.mx/espectaculos/2026/nov/25/cual-fue-el-error-de-maria-vargas-en-miss-universo-2026-1150436.html",
+   "direct": true,
+   "source": "El Diario",
+   "published": "2026-11-25T12:59:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.RMwy2nxUa_b2YQAZxKQXpQ&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Mexico",
+     "name": "María Vargas"
+    }
+   ],
+   "first_seen": "2026-11-26T04:23:25.919176+00:00"
   },
   {
    "id": "ea80a5f4f9ba19",
@@ -20157,109 +20249,6 @@
     }
    ],
    "first_seen": "2026-11-25T15:59:06.289635+00:00"
-  },
-  {
-   "id": "8d2fa2826c8cc6",
-   "type": "news",
-   "title": "¿Quién es Jennifer Barreto? La trabajadora social y madre que conquistó Miss Universo 2026 para Puerto Rico",
-   "summary": "Sin experiencia previa en el modelaje, la puertorriqueña hizo historia al convertirse en la primera mujer casada y con una hija en ganar el certamen internacional ...",
-   "link": "https://www.informador.mx/entretenimiento/quien-es-jennifer-barreto-la-trabajadora-social-y-madre-que-conquisto-miss-universo-2026-para-puerto-rico-20261125-0059.html",
-   "direct": true,
-   "source": "El Informador",
-   "published": "2026-11-25T07:42:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.esw_FEKEJ5fV8Vbvc43Idw&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T15:59:06.289635+00:00"
-  },
-  {
-   "id": "26a242083c99cd",
-   "type": "news",
-   "title": "PHILIPPINES FOR MISS INTERNATIONAL 2026! 👑🇵🇭 Katrina Anne Johnson has been showcasing different fashion looks as she takes part in the pre-coronation activities of this year’s Miss International in Japan. From a Filipiniana-inspired gown to colorful d",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdGdfQTFCbGtSVndZcm9DRnlkVkc2WnlONG85MDQxcDFXc202RnVHYnNqSUkyRkc1c0hKZk9haXByWXAxQ25NbkIwbTFhOEZqdVhhdXFnLTFNU3l6N1pxSFEtbm55NnQtNU5kS1hrQlB5YVRCUHVJRzBjQXJWdWpMdXBoaGY1aE1NYkg5N2I3SVhHN3d1Z3Q3WHQ2WS1pVGRSZml1UXZMU1ZRcXJyQy1rV3lJS21PYWp2MzkzYjRhNm1qTHV4UGo2UkpYZEV6NWFaVlpR?oc=5",
-   "source": "Facebook",
-   "published": "2026-11-25T07:40:16+00:00",
-   "lang": "en",
-   "contests": [
-    "mi"
-   ],
-   "tags": [
-    "looks",
-    "resultados"
-   ],
-   "query": "\"Miss International 2026\"",
-   "who": [
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
-    }
-   ],
-   "first_seen": "2026-11-25T10:46:57.541216+00:00"
-  },
-  {
-   "id": "4319084cbbfb01",
-   "type": "news",
-   "title": "#MissUniverse2026 Third Runner-Up Bea Millan-Windorski, drew on her experience as an environmentalist to urge world leaders to learn from nature, emphasizing how adopting a ‘turtle mentality’ can lead to a united future. #PTV #ParaSaBayan #PTVDigital",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZE1rTkQ2dE82N1dxVmFXcEpOOHBBTXY4Y1ktX3RLdG8wSDRGYnJfTXRXSTBxbGRqY0dGckx1S3NIVnhEaS01V1QwVG1jRDVwSjBqdW9aMkVhOTRjdWQ5ckhLTDJ3clJ2Mm51b1JOdEpzSGJKMElkTHRvT2o0bG1QSGV4Ul9NazRCd1V3ZEhEaUc2TkV1TkZsYzI0N3ItZlZ5S1VMTXdZRjdWWWxQZjJqRWJiczRfQk9QZ19ITExENjhlUy1pY3hlQlNrd2g0alE?oc=5",
-   "source": "Facebook",
-   "published": "2026-11-25T07:40:12+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "beauty pageant",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Philippines",
-     "name": "Bea Millan-Windorski"
-    }
-   ],
-   "first_seen": "2026-11-25T13:58:57.638251+00:00"
-  },
-  {
-   "id": "4c8205212292d2",
-   "type": "news",
-   "title": "¿Por qué María Vargas no ganó Miss Universo 2026? Éstos son los errores que señalan en redes",
-   "summary": "La representante de Jalisco avanzó al Top 30, pero no logró entrar al grupo de 12 semifinalistas en San Juan, Puerto Rico.",
-   "link": "https://www.msn.com/es-mx/noticias/other/por-qu%C3%A9-mar%C3%ADa-vargas-no-gan%C3%B3-miss-universo-2026-%C3%A9stos-son-los-errores-que-se%C3%B1alan-en-redes/ar-AA2idkf6",
-   "direct": true,
-   "source": "Milenio on MSN",
-   "published": "2026-11-25T07:40:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.R1gocHio-A06zKPj5icziA&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Mexico",
-     "name": "María Vargas"
-    }
-   ],
-   "first_seen": "2026-11-25T16:07:06.789732+00:00"
   }
  ]
 }
