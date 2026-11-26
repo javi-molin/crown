@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-26T13:35:41.449036+00:00",
+ "run_at": "2026-11-26T13:43:41.383775+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 61,
    "error": null
   },
   {
@@ -69,9 +69,9 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
@@ -82,13 +82,13 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 74,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 47,
    "error": null
   },
   {
@@ -100,13 +100,13 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 45,
+   "items": 13,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -184,13 +184,13 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 20,
+   "items": 21,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 22,
+   "items": 16,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -327,9 +327,9 @@
   },
   {
    "source": "Galería · Bing por candidata (21/834 celdas)",
-   "ok": true,
-   "items": 30,
-   "error": null
+   "ok": false,
+   "items": 4,
+   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1081,
-   "error": "92 candidatas · descartadas: 1069 fuera de fecha, 36 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
+   "error": "92 candidatas · descartadas: 1068 fuera de fecha, 36 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 152,
+   "items": 150,
    "error": null
   }
  ],
- "new_items": 1150,
+ "new_items": 1060,
  "total_items": 900
 }
