@@ -1,8 +1,25 @@
 {
- "updated": "2026-11-26T04:31:25.570867+00:00",
- "new_this_run": 935,
+ "updated": "2026-11-26T04:39:26.072158+00:00",
+ "new_this_run": 1078,
  "count": 900,
  "items": [
+  {
+   "id": "7173811de614c5",
+   "type": "alert",
+   "contests": [
+    "mi"
+   ],
+   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
+   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
+   "source": "Wikipedia (edición en vivo)",
+   "published": "2026-11-26T04:39:26.072158+00:00",
+   "tags": [
+    "alerta",
+    "resultados"
+   ],
+   "who": [],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
+  },
   {
    "id": "475208f352362d",
    "type": "alert",
@@ -1165,6 +1182,30 @@
    "first_seen": "2026-11-25T23:11:15.954245+00:00"
   },
   {
+   "id": "1b5e5bb1ba4d01",
+   "type": "news",
+   "title": "Miss Puerto Rico crowned Miss Universe 2026, first mother to win title",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRnpZY3EzOExRSWRVRWFLNGxCbmVnQ1YzcUM2ajh1dHVLU1FKcWlGUXh2ZnJNaXlLUWdWbWZRZGJndlBwMTEwcy01T3BhXzl6SWp3NTFWUzJGYmFBMXlrNzNKVVNjNElYczVTSnduczBhN2lHQ3JhbzZiekc3MHVnanRVRGZaYmdrS3NzM3ZNNjRrQURqRnYyUWFsZVdBSUxqMUpxVVBfcVNOQmVkYnJlYtIBtgFBVV95cUxNYXFoSWZZTWJhbzFHUjJPcTNQZy1vYUdVakVwdWZNRXhPa3VXMDlfQnJvYkgya2VORTRuZmNUOWFtUTlkZWNoNUV5YWJya2NoSElHLWtIOHZXNU9SMm0tbFVBa2FhX3lYTlREQnFzRHlwcGhJS1dYdVlNSTFmSEhLVWljb2Q5aUpFaVc3dzB1RnBVRnFVNzRGMnU0OThXVEgtcHlzLTZZSUtyWVloenpzUk5IdXRpZw?oc=5",
+   "source": "WKBN.com",
+   "published": "2026-11-25T22:19:56+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
+  },
+  {
    "id": "f9cbe2aff43dc7",
    "type": "news",
    "title": "Miss Puerto Rico crowned Miss Universe 2026, first mother to win title",
@@ -1233,6 +1274,24 @@
     }
    ],
    "first_seen": "2026-11-26T00:31:15.980872+00:00"
+  },
+  {
+   "id": "35447b2322eef3",
+   "type": "news",
+   "title": "Cat charms social media in outfit inspired by Alina Ree’s Miss Universe 2026 look",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbzBWa3pFRWFoUlBIV3dKTzN6MUdJS1dLTFNGT1FhcjBSOHdUQ1haYVFpb0hma0NmTXRBOXlpdU94NzJCQ2JOV3RCLUtkVHNpc21kbVc5WWtOUW5xUlVqOFhFWjBBNTRMV01wdHVKT2tnQ3h5dUFTc1ZvNU5pZ3o3UU1jX2V2M0Z2bVUxeGRiUldSTG5MNEtzS0FPRThKSzhUX0FmR1JldlZXZjVNdWR3ZGt6XzhKODdva18yMlBBN2FFTlBHcEFN?oc=5",
+   "source": "Kursiv Media",
+   "published": "2026-11-25T22:16:19+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
   },
   {
    "id": "9977a48a0efff8",
@@ -2221,6 +2280,25 @@
    "query": "Miss Universo polémica",
    "who": [],
    "first_seen": "2026-11-26T02:23:25.581242+00:00"
+  },
+  {
+   "id": "4a4746ddb9b4c2",
+   "type": "news",
+   "title": "Dodgers Could Lose Two-Time World Series Champion to AL East Giant",
+   "summary": "Two World Series rings have already made Alex Vesia part of the Dodgers’ recent success. But another championship may not be the only thing motivating his next career decision.",
+   "link": "https://www.yardbarker.com/mlb/articles/dodgers_could_lose_two_time_world_series_champion_to_al_east_giant/s1_17730_44620635",
+   "direct": true,
+   "source": "Yardbarker",
+   "published": "2026-11-25T20:15:00+00:00",
+   "lang": "en",
+   "contests": [
+    "me"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.I4wVpYLwdpzrW9IwG7YSBw&pid=News",
+   "query": "Miss Earth 2026",
+   "who": [],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
   },
   {
    "id": "4baafea7cdeb65",
@@ -4673,6 +4751,31 @@
    "query": "Miss Earth 2026",
    "who": [],
    "first_seen": "2026-11-26T04:07:25.408992+00:00"
+  },
+  {
+   "id": "b063662a8e32b7",
+   "type": "news",
+   "title": "Nhan sắc và vóc dáng của mỹ nhân Việt vừa giành Á hậu 4 Miss International 2026",
+   "summary": "Lê Phương Khánh Như ghi dấu ấn tại Miss International 2026 với danh hiệu Á hậu 4, thu hút sự chú ý bởi nhan sắc ngọt ngào, đường nét thanh tú cùng vóc dáng hài hòa, đầy cuốn hút.",
+   "link": "https://baomoi.com/nhan-sac-va-voc-dang-cua-my-nhan-viet-vua-gianh-a-hau-4-miss-international-2026-c56603527.epi",
+   "direct": true,
+   "source": "Báo Mới",
+   "published": "2026-11-25T16:00:00+00:00",
+   "lang": "en",
+   "contests": [
+    "mi"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.xVzldhav-EhJGTuBtqZweg&pid=News",
+   "query": "Miss International 2026",
+   "who": [
+    {
+     "contest": "mi",
+     "country": "Vietnam",
+     "name": "Khánh Như Lê"
+    }
+   ],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
   },
   {
    "id": "41251b56160c1c",
@@ -8516,6 +8619,30 @@
     }
    ],
    "first_seen": "2026-11-25T19:27:06.958659+00:00"
+  },
+  {
+   "id": "2ccbdb232e087c",
+   "type": "news",
+   "title": "¿Quién es Melissa Núñez? Conoce a la dominicana primera finalista Miss Universo 2026",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXR2T19GdGVnRzFtZEdfWXRrcE81NFNWZWdjaFVXSjVHYjhaSUhqb3hHd2I1MlNlQkw4MVVlSWtLUlZRNUhJNS1VUzRXT3AxZE91U3MxZ3haQ2tLcDdCTWczZURnbVJfeVFSd1FFVnB5Q3djeV85cFhfaDQtY24tMjVOZEFnZEVLV0dqeFBzNWNKVTBVWkVHZ0p1SzEzOWxvMXJiQkFlbndsQzdIUlg0VWM1WDZRcGlqd0NJV2Y0eS1xTnRtNjV6ZzhPRWhHOXNDVmpabWJxQktrOFI4TWhsRDJDdw?oc=5",
+   "source": "People en Español",
+   "published": "2026-11-25T13:17:48+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universo 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Dominican Republic",
+     "name": "Melissa Núñez"
+    }
+   ],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
   },
   {
    "id": "0209f5bb4c6fd0",
@@ -13617,11 +13744,6 @@
      "contest": "mu",
      "country": "Philippines",
      "name": "Bea Millan-Windorski"
-    },
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-25T22:15:15.904042+00:00"
@@ -17824,6 +17946,30 @@
    "first_seen": "2026-11-26T00:15:16.203484+00:00"
   },
   {
+   "id": "be9ae3bef1c207",
+   "type": "news",
+   "title": "Miss International 2026: Katrina Anne Johnson dons white and gold terno for national costume competition",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRXU3SW81U000M1dVanBYN1hoai1ianN1YUtEVEw1N2VBLTZsbVRodENGQm9RV3J1TFpLLWt1NW90ajIweHIzTU03Sm9NNUVlM2wweWZtRE9BNk96Q3lEYVhWZklucHUwMWR1dExDNnFBS3hpVERIdWFqbnBQLXlCb0Q5cG9ONFlLZ3gxZG9xODRpNWFwTXBXUHI5UERkX21Ba2tZeEpLdDAyVEV0WW1rZFE1MTBiM19NT2dOckNGZGYyX25QU1JiaGFEdU9VYW1WNThpcWNac2VLZFhlcWx6SnBKLVppZUhvMXBBN2o0VEwtRGtSUmtqc0dCa9IBgAJBVV95cUxOQUJRel91ck5QNzZvdDBUQkozdGlJbjNxenlDSnpQWUk2YXNxcGQtM2FaczVaQkZsVFBnZU9nTk9zV1p3TXpNaEhNSllPb3JIeW5CSllDeUZaTlVmVEFyaFZVekVGX2tWQnVwSkNHWTJLSDU2eXRRSmtMYksweUlGN0V4aERMQ1REMmFMNFRtRklPVmhEM1JET21oT0VId2ZrMmZTdE1wQ1JlY3F2UEQ4TF90OVJTNzRvZklZR3BaX0YwbHlNTUVhOGptbEd0bmN3UTl3LUNvenNCVTdSOE5PbkJZV1ctbXQ1Mno0OWxFZjV4YUNMZ2NabDhmNHg4UmFT?oc=5",
+   "source": "GMA Network",
+   "published": "2026-11-25T09:22:53+00:00",
+   "lang": "en",
+   "contests": [
+    "mi"
+   ],
+   "tags": [
+    "looks"
+   ],
+   "query": "\"Miss International 2026\"",
+   "who": [
+    {
+     "contest": "mi",
+     "country": "Philippines",
+     "name": "Katrina Johnson"
+    }
+   ],
+   "first_seen": "2026-11-26T04:39:26.072158+00:00"
+  },
+  {
    "id": "62e6822706886d",
    "type": "news",
    "title": "Chile alcanza el Top 12 de Miss Universo 2026 de la mano de Dominga López",
@@ -20057,188 +20203,6 @@
     }
    ],
    "first_seen": "2026-11-25T16:23:06.745660+00:00"
-  },
-  {
-   "id": "ac77f0e4a9bf21",
-   "type": "news",
-   "title": "Jennifer Barreto queda exhibida por presunto fraude tras ganar Miss Universo 2026: ¿Ya tenía preparada su respuesta?",
-   "summary": "La representante de Puerto Rico fue señalada en redes sociales después de que usuarios compararan su intervención en la final del certamen con una respuesta que dio el 11 de noviembre. La coincidencia ...",
-   "link": "https://www.elimparcial.com/espectaculos/2026/11/25/jennifer-barreto-queda-exhibida-por-presunto-fraude-tras-ganar-miss-universo-2026-ya-tenia-preparada-su-respuesta/",
-   "direct": true,
-   "source": "EL IMPARCIAL",
-   "published": "2026-11-25T07:49:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "polemica",
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.U7vsSRCJMgdOMemJL6cxNA&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T16:07:06.789732+00:00"
-  },
-  {
-   "id": "25cb80f96863ba",
-   "type": "news",
-   "title": "¡Orgullo de Viña del Mar en Puerto Rico! Dominga López deslumbra en Miss Universo con una Gaviota de Platino real y recibe elogios internacionales",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZjVzLW9fczRuLU9YOHk2d2NWWkVfMDFFTUNHaC1KVS15Sjl2RGZ6ZUtDQm5WSTI2MlJxWVNhOG5iNWQ2SmpULW1pRkdhRlVWejJqYllydTd1NmFZUFhIVFdybDJZY09WV0RkOUlucEgwVllJNjA1UkE1d1FPOTBsVV83U1R1MXJZSWlfSUZ5bjhhREE2TV9DalBsVGswZUtlZDB4eFJLQ2hVSDZVVUZPWEppTzYtQ29DS0dfSXNHU1VxaTl6X3I3cE9uVldUUUZ5LThmSEsxU005dU5IcElMY2ZjZzhDTDk3UGJKc09LTmwtWUpqMWdGdjRQOA?oc=5",
-   "source": "laconexion.cl",
-   "published": "2026-11-25T07:46:06+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Dominga López\" Miss Universo",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T12:54:57.543551+00:00"
-  },
-  {
-   "id": "177d2940b1b90e",
-   "type": "news",
-   "title": "Jurado del Miss Universo 2026 revela “lo que le costó la corona” a Clara Vegas",
-   "summary": "Durante sus declaraciones, Guiribitey apuntó directamente al vestido de gala que lució la representante venezolana en la noche final. Según explicó, la elección de esa pieza no convenció al jurado y ...",
-   "link": "https://meridiano.net/farandula/jurado-del-miss-universo-2026-revela-lo-que-le-costo-la-corona-a-clara-vegas-2026112511460",
-   "direct": true,
-   "source": "meridiano",
-   "published": "2026-11-25T07:46:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "looks",
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.xJL3YWuWcxYpnJcyiVvNdA&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Venezuela",
-     "name": "Clara Vegas"
-    }
-   ],
-   "first_seen": "2026-11-25T15:59:06.289635+00:00"
-  },
-  {
-   "id": "14e3202d6eeac8",
-   "type": "news",
-   "title": "Miss Universo 2026: Jennifer Barreto hace historia como la primera reina en ser mamá",
-   "summary": "En una velada histórica celebrada en el Coliseo de Puerto Rico José Miguel Agrelot de San Juan, Jennifer Barreto se convirtió en la nueva Miss Universo 2026 durante la 75.ª edición del certamen ...",
-   "link": "https://www.msn.com/es-mx/entretenimiento/general/miss-universo-2026-jennifer-barreto-hace-historia-como-la-primera-reina-en-ser-mam%C3%A1/ar-AA2idySP",
-   "direct": true,
-   "source": "MSN",
-   "published": "2026-11-25T07:46:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.z3whSFwMSi-7HdMKi4cKKg&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T16:07:06.789732+00:00"
-  },
-  {
-   "id": "ef6a10a63882a7",
-   "type": "news",
-   "title": "ANG PERLAS NG SILANGANAN 🇵🇭 Miss Universe 2026 3rd runner-up Bea Millan-Windorski’s evening gown, made by Anthony Ramirez, represents the beauty of Cebu’s white sand beaches, accented with mother of pearl handpicked from its shores. Link to",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFBGRXNpVDlZZFRlak9LN2hod05QZ2RwRkxfYmxsbEo0dV9sWW5YcFBlSFE1WHl0d0VUOWZIaHd4T1AzQ1FZSDFjOFl5aXZwRDBSN3lEU0FRX2tuYzVUcl82Z0p1ZmhDVl95RWZrYy11c2U5eG5EZUpubWwzZFppdnctLWs4OFdLU1JQeG1odEpmMUV3bmtyMjRQX3lJYjFEZUVhUzk4alJ1Y3hoNEpKOVp0R2hPR0lsUjVMdHBLTlI0RXlBbEtFT255X18tQnhwRURUaDdkUQ?oc=5",
-   "source": "Facebook",
-   "published": "2026-11-25T07:45:02+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "looks",
-    "resultados"
-   ],
-   "query": "beauty pageant",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Philippines",
-     "name": "Bea Millan-Windorski"
-    }
-   ],
-   "first_seen": "2026-11-25T07:50:50.266288+00:00"
-  },
-  {
-   "id": "e966d76b99bf51",
-   "type": "news",
-   "title": "Miss Universo 2026: Jennifer Barreto hace historia como la primera reina en ser mamá",
-   "summary": "Jennifer Barreto gana Miss Universo 2026 como la primera madre y esposa coronada, dando a Puerto Rico su sexta corona universal en San Juan.",
-   "link": "https://www.msn.com/es-mx/noticias/other/miss-universo-2026-jennifer-barreto-hace-historia-como-la-primera-reina-en-ser-mam%C3%A1/ar-AA2idySP",
-   "direct": true,
-   "source": "Soy Carmín on MSN",
-   "published": "2026-11-25T07:45:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "thumb": "http://www.bing.com/th?id=ONUT.z3whSFwMSi-7HdMKi4cKKg&pid=News",
-   "query": "Miss Universe 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T16:31:06.841750+00:00"
-  },
-  {
-   "id": "b7af72dedb8753",
-   "type": "news",
-   "title": "Catriona Gray, Michelle Dee, and more react to Bea Millan-Windorski's Miss Universe 2026 placement",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWZFT3N1QjlpbVllUU9DZHVyei1mcmI3b3h1Uk9nQ1ItRFZFVkl5b0E3NmdaRXg0SllmR2dfX0tibnViaVdhZ3d1a19Lb2dLaXpyNVEtSldsbW9oQWhnS2Q1cWt2ZUFYSlYzX1V5T0ZMNER3RU9YckpDVFZEQ0ozdWhLbHVLbWFJeGREaS01azJDaVJ2eUNnY2c1RDkyVWRsR2l0OU5hMmhmZkVGZ3VJZ3pKQ3poQ2FPbElRMUlsNl9ISEI5dDlERmVhbThQWWlFZHVGeE1LS1NDSjVJX2RhRlBNN1dGdmhUNXNEWW9vRHVDU2RnRGfSAfsBQVVfeXFMTlNyUDIzbHdqWS13d3JENmVYSXBtWTBrbmFCMW5sNFhra25FdG1ONXZDQU9kMWhQcHI5LVNoeWxmM3didkdBNVk2TkduUmZiWXpCaTlxRXMwQXk1bmN3WmFYUFU5TU1xRlFmd1prOTN4ZXVVWVgwYTA2a1JQWlJQdmJNdl9heWpNNFNISTdQZVA1dTZtcWJTVHYxZ25LZkh1LU8xTG5KdFlJcmhtQThnM3NhbGRtV2VxaXl5SXY3M21iTmo2QWVSUDhTSzNlLW1sNEwyeU4zMi1meTYtaktId3FpZWhQenFXNDRrdFphZlFTTkFvMlZIS0E3X1E?oc=5",
-   "source": "GMA Network",
-   "published": "2026-11-25T07:44:37+00:00",
-   "lang": "en",
-   "contests": [
-    "mgi",
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Grand International\" 2026",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Philippines",
-     "name": "Bea Millan-Windorski"
-    }
-   ],
-   "first_seen": "2026-11-25T07:58:50.204732+00:00"
   }
  ]
 }
