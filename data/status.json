@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-26T21:59:50.088971+00:00",
+ "run_at": "2026-11-26T22:07:50.025725+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 85,
+   "items": 87,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 92,
+   "items": 52,
    "error": null
   },
   {
@@ -82,19 +82,19 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 72,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 47,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 73,
    "error": null
   },
   {
@@ -106,7 +106,7 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 99,
+   "items": 100,
    "error": null
   },
   {
@@ -178,7 +178,7 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -308,12 +308,6 @@
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
-   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
-   "ok": true,
-   "items": 0,
-   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
-  },
-  {
    "source": "Instagram · posts encontrados por búsqueda web",
    "ok": true,
    "items": 0,
@@ -333,9 +327,9 @@
   },
   {
    "source": "Galería · Bing por candidata (21/834 celdas)",
-   "ok": true,
-   "items": 7,
-   "error": null
+   "ok": false,
+   "items": 4,
+   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -398,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1229,
+ "new_items": 1141,
  "total_items": 900
 }
