@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T21:20:38.096280+00:00",
+ "run_at": "2026-11-27T21:28:37.362157+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 100,
+   "items": 102,
    "error": null
   },
   {
@@ -40,13 +40,13 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 85,
+   "items": 54,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 53,
+   "items": 82,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 59,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 32,
    "error": null
   },
   {
@@ -94,7 +94,7 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 79,
+   "items": 78,
    "error": null
   },
   {
@@ -106,13 +106,13 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 99,
+   "items": 97,
    "error": null
   },
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 102,
    "error": null
   },
   {
@@ -141,9 +141,9 @@
   },
   {
    "source": "YouTube oficial search:GrandTV Miss Grand International|grand",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "source": "YouTube oficial search:Miss Supranational|supranational",
@@ -178,19 +178,19 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -231,44 +231,44 @@
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 150,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_International_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 109,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Earth_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 66,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_World_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 50,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Grand_International_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 36,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Supranational_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 31,
+   "error": null
   },
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 15,
+   "items": 21,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1097,
+ "new_items": 988,
  "total_items": 900
 }
