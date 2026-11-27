@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T19:12:38.087995+00:00",
+ "run_at": "2026-11-27T19:20:37.795692+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 43,
+   "items": 83,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 82,
+   "items": 53,
    "error": null
   },
   {
@@ -69,26 +69,26 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": true,
-   "items": 66,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 59,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 31,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
@@ -106,13 +106,13 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 98,
+   "items": 99,
    "error": null
   },
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -171,20 +171,20 @@
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
-  },
-  {
-   "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
    "items": 18,
    "error": null
   },
   {
+   "source": "YouTube búsqueda · Miss Earth 2026",
+   "ok": true,
+   "items": 17,
+   "error": null
+  },
+  {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1208,
+ "new_items": 1188,
  "total_items": 900
 }
