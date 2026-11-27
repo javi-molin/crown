@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T20:08:37.691027+00:00",
+ "run_at": "2026-11-27T20:16:37.704221+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 62,
+   "items": 100,
    "error": null
   },
   {
@@ -69,20 +69,20 @@
   },
   {
    "source": "Google News · \"Miss Internacional 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 59,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 32,
    "error": null
   },
   {
@@ -100,13 +100,13 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 14,
+   "items": 44,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 98,
+   "items": 97,
    "error": null
   },
   {
@@ -178,7 +178,7 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 13,
+   "items": 22,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1171,
+ "new_items": 1241,
  "total_items": 900
 }
