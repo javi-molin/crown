@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-26T23:51:49.315236+00:00",
+ "run_at": "2026-11-26T23:59:49.858613+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -10,7 +10,7 @@
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 92,
    "error": null
   },
   {
@@ -28,19 +28,19 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 85,
+   "items": 44,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 62,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 54,
+   "items": 87,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 80,
+   "items": 52,
    "error": null
   },
   {
@@ -70,13 +70,13 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 65,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 66,
+   "items": 32,
    "error": null
   },
   {
@@ -94,13 +94,13 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 74,
+   "items": 73,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 44,
+   "items": 12,
    "error": null
   },
   {
@@ -177,9 +177,9 @@
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
+   "ok": true,
+   "items": 19,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -207,9 +207,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": true,
-   "items": 12,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
@@ -347,7 +347,7 @@
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
    "ok": true,
    "items": 108,
-   "error": "en caché; se vuelve a leer cada 6 h"
+   "error": "108 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
@@ -364,7 +364,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": "3597 imágenes en el espejo"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1161,
+ "new_items": 1035,
  "total_items": 900
 }
