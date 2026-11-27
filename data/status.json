@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T20:40:38.317956+00:00",
+ "run_at": "2026-11-27T20:48:37.971388+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 43,
+   "items": 81,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 80,
+   "items": 53,
    "error": null
   },
   {
@@ -76,19 +76,19 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 59,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 72,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 46,
    "error": null
   },
   {
@@ -106,13 +106,13 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 99,
+   "items": 98,
    "error": null
   },
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -147,9 +147,9 @@
   },
   {
    "source": "YouTube oficial search:Miss Supranational|supranational",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
@@ -208,7 +208,7 @@
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
    "ok": true,
-   "items": 11,
+   "items": 12,
    "error": null
   },
   {
@@ -231,15 +231,15 @@
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 150,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_International_2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
+   "ok": true,
+   "items": 109,
+   "error": null
   },
   {
    "source": "Wikipedia · Miss_Earth_2026",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 6,
+   "items": 7,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -359,12 +359,12 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1101,
-   "error": "93 candidatas · descartadas: 1039 fuera de fecha, 38 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
+   "error": "93 candidatas · descartadas: 1038 fuera de fecha, 38 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 6,
+   "items": 0,
    "error": "3663 imágenes en el espejo"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1180,
+ "new_items": 1134,
  "total_items": 900
 }
