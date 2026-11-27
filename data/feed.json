@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-27T01:11:57.831792+00:00",
- "new_this_run": 1117,
+ "updated": "2026-11-27T01:19:57.258748+00:00",
+ "new_this_run": 1150,
  "count": 900,
  "items": [
   {
@@ -1567,6 +1567,33 @@
    "query": "Miss Earth 2026",
    "who": [],
    "first_seen": "2026-11-27T00:31:58.320338+00:00"
+  },
+  {
+   "id": "368c3846970191",
+   "type": "news",
+   "title": "María Vargas habla de las indirectas que supuestamente lanzó tras su participación en Miss Universo 2026",
+   "summary": "La representante mexicana aclaró en sus redes sociales que no emitió declaraciones ni mensajes velados luego de que Puerto Rico se coronara ganadora en la edición 75 del certamen ...",
+   "link": "https://www.infobae.com/mexico/2026/11/27/maria-vargas-habla-de-las-indirectas-que-supuestamente-lanzo-tras-su-participacion-en-miss-universo-2026/",
+   "direct": true,
+   "source": "Infobae",
+   "published": "2026-11-26T16:00:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.ygfWaRawLIFszIa9oUdn8A&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Mexico",
+     "name": "María Vargas"
+    }
+   ],
+   "first_seen": "2026-11-27T01:19:57.258748+00:00"
   },
   {
    "id": "6b2785c89d295b",
@@ -19744,23 +19771,6 @@
    "query": "Miss Universe controversy",
    "who": [],
    "first_seen": "2026-11-25T19:35:07.226357+00:00"
-  },
-  {
-   "id": "662c69944ed92f",
-   "type": "alert",
-   "contests": [
-    "mi"
-   ],
-   "title": "Wikipedia actualizó los RESULTADOS de Miss International 2026",
-   "link": "https://en.wikipedia.org/wiki/Miss_International_2026#Results",
-   "source": "Wikipedia (edición en vivo)",
-   "published": "2026-11-25T12:38:57.354156+00:00",
-   "tags": [
-    "alerta",
-    "resultados"
-   ],
-   "who": [],
-   "first_seen": "2026-11-25T12:38:57.354156+00:00"
   }
  ]
 }
