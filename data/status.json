@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T09:04:05.670137+00:00",
+ "run_at": "2026-11-27T09:12:06.110818+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 44,
+   "items": 84,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 61,
+   "items": 64,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 48,
    "error": null
   },
   {
@@ -100,13 +100,13 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 13,
+   "items": 43,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 97,
+   "items": 100,
    "error": null
   },
   {
@@ -178,7 +178,7 @@
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -195,9 +195,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 18,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1091,
+ "new_items": 1116,
  "total_items": 900
 }
