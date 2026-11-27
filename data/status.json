@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T23:28:47.521184+00:00",
+ "run_at": "2026-11-27T23:36:47.390302+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 80,
+   "items": 81,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 55,
+   "items": 54,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 53,
+   "items": 80,
    "error": null
   },
   {
@@ -82,13 +82,13 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 73,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 14,
+   "items": 45,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 12,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1107,
-   "error": "93 candidatas · descartadas: 1027 fuera de fecha, 39 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
+   "error": "93 candidatas · descartadas: 1025 fuera de fecha, 39 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1189,
+ "new_items": 1266,
  "total_items": 900
 }
