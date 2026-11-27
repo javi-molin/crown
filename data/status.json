@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T07:36:05.474015+00:00",
+ "run_at": "2026-11-27T07:44:05.394442+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 84,
+   "items": 45,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 94,
+   "items": 54,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 61,
+   "items": 64,
    "error": null
   },
   {
@@ -94,19 +94,19 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 75,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 13,
+   "items": 43,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 100,
+   "items": 97,
    "error": null
   },
   {
@@ -123,9 +123,9 @@
   },
   {
    "source": "YouTube oficial search:Miss International Beauty Pageant|miss international",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube oficial search:Miss Earth official|miss earth",
@@ -135,9 +135,9 @@
   },
   {
    "source": "YouTube oficial @MissWorld",
-   "ok": true,
-   "items": 15,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 503: Service Unavailable"
   },
   {
    "source": "YouTube oficial search:GrandTV Miss Grand International|grand",
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 20,
+   "items": 19,
    "error": null
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "3627 imágenes en el espejo"
+   "items": 1,
+   "error": "3628 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1162,
+ "new_items": 1137,
  "total_items": 900
 }
