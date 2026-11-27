@@ -91364,7 +91364,7 @@
    "kind": "oficial",
    "fetched": "2026-11-27T06:48:05.379088+00:00",
    "full_at": "2026-11-27T03:27:57.403978+00:00",
-   "error": "HTTP Error 500: Internal Server Error"
+   "error": "HTTP Error 403: Forbidden"
   },
   "missinternationalofficial": {
    "name": "MISS INTERNATIONAL",
@@ -92167,9 +92167,9 @@
   "mu|Australia": "2026-11-27T06:48:05.379088+00:00",
   "mu|Bahamas": "2026-11-27T06:56:05.632785+00:00",
   "mu|Bangladesh": "2026-11-27T03:19:57.302623+00:00",
-  "mu|Belarus": "2026-11-27T02:47:57.308884+00:00",
+  "mu|Belarus": "2026-11-27T07:04:05.408636+00:00",
   "mu|Belgium": "2026-11-27T06:56:05.632785+00:00",
-  "mu|Belize": "2026-11-27T02:47:57.308884+00:00",
+  "mu|Belize": "2026-11-27T07:04:05.408636+00:00",
   "mu|Bolivia": "2026-11-27T02:55:57.852302+00:00",
   "mu|Bonaire": "2026-11-27T03:03:57.971131+00:00",
   "mu|Botswana": "2026-11-27T03:03:57.971131+00:00",
@@ -92326,10 +92326,10 @@
   "mi|Puerto Rico": "2026-11-27T06:56:05.632785+00:00",
   "mi|Réunion": "2026-11-27T06:56:05.632785+00:00",
   "mi|Singapore": "2026-11-27T06:56:05.632785+00:00",
-  "mi|South Africa": "2026-11-27T02:39:57.962643+00:00",
-  "mi|South Korea": "2026-11-27T02:39:57.962643+00:00",
-  "mi|Spain": "2026-11-27T02:39:57.962643+00:00",
-  "mi|Sri Lanka": "2026-11-27T02:39:57.962643+00:00",
+  "mi|South Africa": "2026-11-27T07:04:05.408636+00:00",
+  "mi|South Korea": "2026-11-27T07:04:05.408636+00:00",
+  "mi|Spain": "2026-11-27T07:04:05.408636+00:00",
+  "mi|Sri Lanka": "2026-11-27T07:04:05.408636+00:00",
   "mi|Taiwan": "2026-11-27T02:47:57.308884+00:00",
   "mi|Tanzania": "2026-11-27T02:47:57.308884+00:00",
   "mi|Thailand": "2026-11-27T02:47:57.308884+00:00",
@@ -92378,7 +92378,7 @@
    "label": "Más fotos"
   }
  ],
- "updated": "2026-11-27T06:56:05.632785+00:00",
+ "updated": "2026-11-27T07:04:05.408636+00:00",
  "press": {
   "mi|Vietnam|otras": [
    {
@@ -93809,6 +93809,16 @@
  },
  "official": {
   "mu|Costa Rica|retrato": [
+   {
+    "url": "https://img1.wsimg.com/isteam/ip/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/Costa%20Rica%20Rainforest%20Sunset%20Vista.png/:/rs=w:1600",
+    "thumb": "https://img1.wsimg.com/isteam/ip/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/Costa%20Rica%20Rainforest%20Sunset%20Vista.png/:/rs=w:600",
+    "page": "https://missuniverseorg.com/",
+    "via": "missuniverseorg.com (oficial)",
+    "credit": "Miss Universe Organization",
+    "title": "Costa Rica Rainforest Sunset Vista.png",
+    "official": true,
+    "mkey": "web_64184f9f558abb"
+   },
    {
     "url": "https://img1.wsimg.com/isteam/ip/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/Costa%20Rica%20Rainforest%20Sunset%20Vista.png/:/rs=w:1600",
     "thumb": "https://img1.wsimg.com/isteam/ip/09dad2a3-bb0e-434c-b0c6-f6b61aec8942/Costa%20Rica%20Rainforest%20Sunset%20Vista.png/:/rs=w:600",
