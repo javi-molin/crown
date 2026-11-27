@@ -1,11 +1,11 @@
 {
- "run_at": "2026-11-27T17:36:21.224342+00:00",
+ "run_at": "2026-11-27T17:44:38.384088+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · \"Miss Universe 2026\"",
@@ -28,19 +28,19 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 83,
+   "items": 82,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 60,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 83,
+   "items": 52,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 31,
+   "items": 59,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 72,
+   "items": 31,
    "error": null
   },
   {
@@ -106,7 +106,7 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 100,
+   "items": 97,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 18,
+   "items": 14,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -327,9 +327,9 @@
   },
   {
    "source": "Galería · Bing por candidata (21/834 celdas)",
-   "ok": false,
-   "items": 4,
-   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1154,
+ "new_items": 1161,
  "total_items": 900
 }
