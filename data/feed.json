@@ -1,8 +1,32 @@
 {
- "updated": "2026-11-27T01:59:57.806192+00:00",
- "new_this_run": 1129,
+ "updated": "2026-11-27T02:07:57.832135+00:00",
+ "new_this_run": 1171,
  "count": 900,
  "items": [
+  {
+   "id": "cc1167dbbf8b80",
+   "type": "news",
+   "title": "Puerto Rico’s Jennifer Barreto makes history as first mother crowned Miss Universe",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSE5FT3JoUEsxR0xrbXRvX3J3WEZUeUFDYmNmNVg1WUFhTWJGYmdDcnpKRDAxZ045TDUxWWd6Vk1xRkdFaC1hd3M1emZIOHdsS1VYYVUzSEdoNm5sY1huSVp3M0o5X2ktUDZzTGl3aGVmcXViQ2hWcE42cDM5NGswMUtBWkVDbjg5VWZna05iMThtTVF6Y2lLaVh6TkpkVFhWMF9hdWRIckhPbG5aMTRUc3RsMUNsMlk2TVQtNXNCcm9nanB5bFE?oc=5",
+   "source": "Caribbean National Weekly",
+   "published": "2026-11-27T02:04:53+00:00",
+   "lang": "en",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "resultados"
+   ],
+   "query": "\"Miss Universe 2026\"",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-27T02:07:57.832135+00:00"
+  },
   {
    "id": "825be7da35169f",
    "type": "news",
@@ -4544,6 +4568,11 @@
      "contest": "mi",
      "country": "Moldova",
      "name": "Elizaveta Kuznetsova"
+    },
+    {
+     "contest": "mi",
+     "country": "Philippines",
+     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-26T09:27:33.879674+00:00"
@@ -6032,6 +6061,7 @@
    "published": "2026-11-26T05:27:37+00:00",
    "lang": "en",
    "contests": [
+    "mi",
     "mu"
    ],
    "tags": [],
@@ -19763,30 +19793,6 @@
     }
    ],
    "first_seen": "2026-11-25T21:27:16.085764+00:00"
-  },
-  {
-   "id": "a48251f1bb1051",
-   "type": "news",
-   "title": "Moldova wins Miss International 2026; PH's Katrina Johnson in Top 20",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlBuSzJDSUlHUUZSc1JoTVJ6WE9UcDR5Q2VLU3REMWR3dDdqZUtFbFJ2aVdlVDZLdHRKWGR2cjNySEM0M1BMa0FrN013cXlLcDJIQUpCNklhTkYyOU9pbnJleDNja2tyZm9uSUM3cjVmV1kwMF9GUy1zbFFUcHp1aHlLWHVGbGx1d0FZb2RvZm9SeFJoX2FvMXFJRFlReU9ZcFVjcUYwQmp4Qm95Wm4xT2dlTHFMZjlqNm9VazVFM3RFMHVCbGhHajFxM3R1RnF3bnMtaVFfbw?oc=5",
-   "source": "ABS-CBN",
-   "published": "2026-11-25T12:39:57+00:00",
-   "lang": "en",
-   "contests": [
-    "mi"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss International 2026\"",
-   "who": [
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
-    }
-   ],
-   "first_seen": "2026-11-25T12:54:57.543551+00:00"
   }
  ]
 }
