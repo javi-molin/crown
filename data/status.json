@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T22:08:38.259178+00:00",
+ "run_at": "2026-11-27T22:16:38.017254+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -16,7 +16,7 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 59,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 53,
+   "items": 82,
    "error": null
   },
   {
@@ -76,7 +76,7 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 32,
+   "items": 59,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 46,
    "error": null
   },
   {
@@ -100,7 +100,7 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 14,
+   "items": 44,
    "error": null
   },
   {
@@ -112,7 +112,7 @@
   {
    "source": "Google News · beauty pageant",
    "ok": true,
-   "items": 100,
+   "items": 102,
    "error": null
   },
   {
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -171,20 +171,20 @@
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
-   "ok": true,
-   "items": 16,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 0,
    "error": null
   },
   {
@@ -231,44 +231,44 @@
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
-   "ok": true,
-   "items": 150,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Wikipedia · Miss_International_2026",
-   "ok": true,
-   "items": 109,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Wikipedia · Miss_Earth_2026",
-   "ok": true,
-   "items": 66,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Wikipedia · Miss_World_2026",
-   "ok": true,
-   "items": 50,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Wikipedia · Miss_Grand_International_2026",
-   "ok": true,
-   "items": 36,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Wikipedia · Miss_Supranational_2026",
-   "ok": true,
-   "items": 31,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: We suspect this request is automated: if so, please respect our robot policy. If you think you were incorrectly blocked, please contact noc@wikimedia.org reporting this message (01f0bd"
   },
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 16,
+   "items": 12,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1107,
-   "error": "93 candidatas · descartadas: 1034 fuera de fecha, 38 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
+   "error": "93 candidatas · descartadas: 1033 fuera de fecha, 38 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1125,
+ "new_items": 1110,
  "total_items": 900
 }
