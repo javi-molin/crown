@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T04:55:57.762907+00:00",
+ "run_at": "2026-11-27T05:03:58.056532+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,19 +28,19 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 44,
+   "items": 84,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 62,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 86,
+   "items": 36,
    "error": null
   },
   {
@@ -88,13 +88,13 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 47,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 75,
    "error": null
   },
   {
@@ -105,9 +105,9 @@
   },
   {
    "source": "Google News · certamen de belleza",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · beauty pageant",
@@ -172,19 +172,19 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 19,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 0,
+   "items": 19,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 21,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1143,
+ "new_items": 1040,
  "total_items": 900
 }
