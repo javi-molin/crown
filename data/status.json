@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T03:51:57.394857+00:00",
+ "run_at": "2026-11-27T03:59:58.073262+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 85,
+   "items": 44,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 37,
+   "items": 84,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 52,
+   "items": 51,
    "error": null
   },
   {
@@ -88,13 +88,13 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 47,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 73,
    "error": null
   },
   {
@@ -106,7 +106,7 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 97,
+   "items": 100,
    "error": null
   },
   {
@@ -189,9 +189,9 @@
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
-   "ok": true,
-   "items": 20,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 500: Internal Server Error"
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 1,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 8,
    "error": null
   },
   {
@@ -286,7 +286,7 @@
   {
    "source": "Eventos detectados",
    "ok": true,
-   "items": 21,
+   "items": 22,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 2,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -392,6 +398,6 @@
    "error": null
   }
  ],
- "new_items": 1150,
+ "new_items": 1178,
  "total_items": 900
 }
