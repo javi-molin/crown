@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-27T11:52:07.312640+00:00",
+ "run_at": "2026-11-27T12:00:22.345648+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -34,19 +34,19 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 62,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 84,
+   "items": 35,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 92,
+   "items": 100,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 52,
+   "items": 88,
    "error": null
   },
   {
@@ -76,25 +76,25 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 31,
+   "items": 60,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 71,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 73,
+   "items": 72,
    "error": null
   },
   {
@@ -105,9 +105,9 @@
   },
   {
    "source": "Google News · certamen de belleza",
-   "ok": true,
-   "items": 99,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · beauty pageant",
@@ -160,7 +160,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
    "ok": true,
-   "items": 20,
+   "items": 10,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -207,9 +207,9 @@
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 15,
    "error": "76 cuentas sincronizadas en total · 43 candidatas · 90 organizaciones"
   },
   {
@@ -346,8 +346,8 @@
   {
    "source": "Fotos oficiales Miss Universe · galería de candidatas (El Nuevo Día, crédito Organización Miss Universe)",
    "ok": true,
-   "items": 108,
-   "error": "en caché; se vuelve a leer cada 6 h"
+   "items": 109,
+   "error": "109 fotos leídas en la galería"
   },
   {
    "source": "Instagram · retratos oficiales por candidata",
@@ -370,7 +370,7 @@
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
    "ok": true,
-   "items": 108,
+   "items": 109,
    "error": null
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1131,
+ "new_items": 1096,
  "total_items": 900
 }
