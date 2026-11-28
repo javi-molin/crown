@@ -1,8 +1,57 @@
 {
- "updated": "2026-11-28T15:29:08.122215+00:00",
- "new_this_run": 1203,
+ "updated": "2026-11-28T15:37:07.983322+00:00",
+ "new_this_run": 1150,
  "count": 900,
  "items": [
+  {
+   "id": "8a843538721efa",
+   "type": "news",
+   "title": "\"Único. Polémico. Justo como yo”: Clara Vegas responde a las críticas por su vestido en Miss Universo 2026",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclA2OW90LURlSF9zZFl1V2g1R1d0VTZNRk5TVjdTY2hEbG9BakRndVFxMHRNR213aVlYUHkwUUt2S3dGQjRZMjJhR25haXRIX2R2T2dLcmQwdUhMR2duN0pzNnVia0tBU1ZLVldYMy1NdHRmcGRPZVRoeTJYTzkza2VZZTRaZ0NIMy1xbDFxY0l6Z0EzVVplX3RLWTh5Rjk2Rm9uVEljNkJkTGtkS2IybdIBtgFBVV95cUxQN3VURVFGcWpNM1k5MFdyOGcyUlVkT1h3QnBDSUZYNUNMZVRvc2cwczB0VDQ0YzQtNlBRMHVKdXZzdndDZ3VxYmVGbEY3OUNMTVlCdFdRSk0yMUJMZTM1c0JOOXVFTGplUDJLelhsa2Zaa1NKY1J0cGtqWllSaTgzYTktVEhDVGhTMjFNRXNqU3ROWTU0Z0Y1LUJwM0ZKbGJTY1FONGNIelg2VmNRUjNpNk5uRmtFdw?oc=5",
+   "source": "Ecuavisa",
+   "published": "2026-11-28T15:27:39+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks",
+    "polemica"
+   ],
+   "query": "Miss Universo polémica",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Venezuela",
+     "name": "Clara Vegas"
+    }
+   ],
+   "first_seen": "2026-11-28T15:37:07.983322+00:00"
+  },
+  {
+   "id": "399d4bb7e7a35a",
+   "type": "video",
+   "title": "First official event as Miss Universe 2026 for Jennifer Barreto as host of the Macy’s Parade",
+   "link": "https://www.youtube.com/watch?v=_tON8nOSCeY",
+   "source": "YouTube · Miss Universe",
+   "published": "2026-11-28T15:21:50+00:00",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "video"
+   ],
+   "thumb": "https://i.ytimg.com/vi/_tON8nOSCeY/hqdefault.jpg",
+   "official": true,
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-28T15:37:07.983322+00:00"
+  },
   {
    "id": "c5639de5965c43",
    "type": "news",
@@ -698,8 +747,18 @@
    "who": [
     {
      "contest": "mu",
+     "country": "Cuba",
+     "name": "Mia Dio"
+    },
+    {
+     "contest": "mu",
      "country": "Philippines",
      "name": "Bea Millan-Windorski"
+    },
+    {
+     "contest": "mu",
+     "country": "Bangladesh",
+     "name": "Samira Khan Mahi"
     }
    ],
    "first_seen": "2026-11-28T04:32:47.436933+00:00"
@@ -761,6 +820,58 @@
    "query": "Miss Universo polémica",
    "who": [],
    "first_seen": "2026-11-28T05:36:56.617277+00:00"
+  },
+  {
+   "id": "3d6478d88af601",
+   "type": "news",
+   "title": "Carola de Moras descarta xenofobia por sus dichos sobre Miss Venezuela: \"Es una exageración\"",
+   "summary": "Carola de Moras descartó que exista algún tipo de xenofobia detrás de sus cuestionados dichos sobre la representante ...",
+   "link": "https://www.biobiochile.cl/noticias/espectaculos-y-tv/tv/2026/11/28/carola-de-moras-descarta-xenofobia-por-sus-dichos-sobre-miss-venezuela-es-una-exageracion.shtml",
+   "direct": true,
+   "source": "BioBioChile",
+   "published": "2026-11-28T03:55:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [],
+   "thumb": "http://www.bing.com/th?id=ONUT.phoTrYjE6GN5UvV5iaHxCA&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Venezuela",
+     "name": "Clara Vegas"
+    }
+   ],
+   "first_seen": "2026-11-28T15:37:07.983322+00:00"
+  },
+  {
+   "id": "1520655d6e8fe0",
+   "type": "news",
+   "title": "Jennifer Barreto participa por primera vez como Miss Universe en desfile de Macy’s",
+   "summary": "Se espera que Jennifer Barreto regrese a Puerto Rico el próximo miércoles, 2 de diciembre, para celebrar su triunfo con el pueblo puertorriqueño ...",
+   "link": "https://www.metro.pr/noticias/2026/11/28/jennifer-barreto-participa-por-primera-vez-como-miss-universe-en-desfile-de-macys/",
+   "direct": true,
+   "source": "Metro Puerto Rico",
+   "published": "2026-11-28T03:18:00+00:00",
+   "lang": "es",
+   "contests": [
+    "mu"
+   ],
+   "tags": [
+    "looks"
+   ],
+   "thumb": "http://www.bing.com/th?id=ONUT.XidCia-Cf9gLhHNMzTJMEA&pid=News",
+   "query": "Miss Universe 2026",
+   "who": [
+    {
+     "contest": "mu",
+     "country": "Puerto Rico",
+     "name": "Jennifer Barreto"
+    }
+   ],
+   "first_seen": "2026-11-28T15:37:07.983322+00:00"
   },
   {
    "id": "df9e7b93bcc8c2",
@@ -11544,11 +11655,6 @@
      "contest": "mi",
      "country": "Moldova",
      "name": "Elizaveta Kuznetsova"
-    },
-    {
-     "contest": "mi",
-     "country": "Philippines",
-     "name": "Katrina Johnson"
     }
    ],
    "first_seen": "2026-11-26T09:27:33.879674+00:00"
@@ -19529,96 +19635,6 @@
     "resultados"
    ],
    "query": "\"Miss Internacional 2026\"",
-   "who": [],
-   "first_seen": "2026-11-25T17:43:06.867405+00:00"
-  },
-  {
-   "id": "852b634444cc95",
-   "type": "news",
-   "title": "Miss Universo 2026: Puerto Rico se quedó con la corona y Jennifer Barreto hizo historia",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWmNWNXphTFBLNXA0TWhVX3VXelE5RndqOFFRUjBqOEdWYVFoM21MY3RNVndhc0NWb1cxQlFkYms2b1hLYmVkcktXNUhvSEt4aURjTGpGZVJDUTd6dGMyWU4xVGFPa1ZxaE1yWWhxYnZsLWhCcVFVbjVjdUFMN1lwcmRPalFvNkcwbUMwV1N4RGctUk1Td3dkZWp1WGdDek9jVVdvSUN0YmZpbWh0eGYzcHhUWlRsd1RSYm5FV2VaZmNpVDlnX1lnaE1R0gHKAUFVX3lxTFBaY1Y1emFMUEs1cDRNaFVfdVd6UTlGd2o4UVFSMGo4R1ZhUWgzbUxjdE1Wd2FzQ1ZvVzFCUWRiazZvWEtiZWRyS1c1SG9IS3hpRGNMakZlUkNRN3p0YzJZTjFUYU9rVnFoTXJZaHFidmwtaEJxUVVuNWN1QUw3WXByZE9qUW82RzBtQzBXU3hEZy1STVN3d2RlanVYZ0N6T2NVV29JQ3RiZmltaHR4ZjNweFRaVGx3VFJibkVXZVpmY2lUOWdfWWdoTVE?oc=5",
-   "source": "MinutoUno",
-   "published": "2026-11-25T17:33:00+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "Miss Universo polémica",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T17:51:06.688652+00:00"
-  },
-  {
-   "id": "1ffc78704dbca6",
-   "type": "news",
-   "title": "Detalle en look de Dominga López genera polémica tras no clasificar al Top 5 del Miss Universo 2026: “Mal hecho para la final”",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlJrZWJubV9SQkN5bjhGcjNhODI3YnN2YkY2RWI3aHYwOWJjOXZLRW1RN0hzQWlQVjc3UjFwQWUzdmxCeVg4RXpQaG9IR0tjc1JJTW5Wa05sZ08wU3BfXzE2MGtYUmp3UUlxOVNtT2xWSDNwbV9samdBemJPX01nQm50Q2J5M3dIN3djV09zdE1BcWVyT1lNa014NXJldHRacmtuVFJKTEpzYTFmMXJoY0NmYzdvYy1l?oc=5",
-   "source": "Canal 13",
-   "published": "2026-11-25T17:32:56+00:00",
-   "lang": "es",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "looks",
-    "polemica",
-    "resultados"
-   ],
-   "query": "\"Miss Universo 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Chile",
-     "name": "Dominga López"
-    }
-   ],
-   "first_seen": "2026-11-25T17:35:07.114044+00:00"
-  },
-  {
-   "id": "2eab33cadf4717",
-   "type": "news",
-   "title": "Miss Universe 2026: 10 Historic Moments as Jennifer Barreto Wins",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNalpIUVkxeUpxS3d3bDFQVzRrRkRqTmRDYm1BWXBRZk4xYjhWWE5JSm9qa29kdll4a0pKdjZwX29VMkxMU0I4LWxVeFVCMFVDLUwxLU9LZDZrVFpqT25mR09FZEgxMDlTeTB1ZGVnQ0ZoY0h2cHdBNGh6WXVNNXdEMTQwU1NrQmpxNEExWW51bG9odFpXc1ZpRXczUDQ0UkE?oc=5",
-   "source": "Newsweek",
-   "published": "2026-11-25T17:27:00+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [
-    "resultados"
-   ],
-   "query": "\"Miss Universe 2026\"",
-   "who": [
-    {
-     "contest": "mu",
-     "country": "Puerto Rico",
-     "name": "Jennifer Barreto"
-    }
-   ],
-   "first_seen": "2026-11-25T17:43:06.867405+00:00"
-  },
-  {
-   "id": "d247e070714338",
-   "type": "news",
-   "title": "Miss Universe 2026 Celebrates Historic Win Backstage with Daughter and Husband",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORF9lSEhsNkxEWWpqSC1ieU51eU5TRmVzVHV1UU1PcWxvNEYxdkd5SXFSamwyRUdpWWFuYlFGempMaDNWTjJIZVYyMXE0d19fOGpkN0liaHVfYlpLbE9JNGEwSjdaRVJ5UkRiRVBOQVJJTHNPcE4yNXFhZURFYVkwYm1pXzYyUQ?oc=5",
-   "source": "AOL.com",
-   "published": "2026-11-25T17:22:29+00:00",
-   "lang": "en",
-   "contests": [
-    "mu"
-   ],
-   "tags": [],
-   "query": "\"Miss Universe 2026\"",
    "who": [],
    "first_seen": "2026-11-25T17:43:06.867405+00:00"
   }
