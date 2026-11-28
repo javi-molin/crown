@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T04:00:48.301783+00:00",
+ "run_at": "2026-11-28T04:08:48.243598+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -21,15 +21,15 @@
   },
   {
    "source": "Google News · Miss Universe controversy",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 80,
+   "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
@@ -39,9 +39,9 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 53,
+   "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
@@ -57,9 +57,9 @@
   },
   {
    "source": "Google News · Miss Universe hot picks",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 53,
+   "error": null
   },
   {
    "source": "Google News · \"Miss International 2026\"",
@@ -70,25 +70,25 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 69,
+   "items": 68,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 32,
+   "items": 60,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 73,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
@@ -100,14 +100,14 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 45,
+   "items": 13,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 99,
+   "error": null
   },
   {
    "source": "Google News · beauty pageant",
@@ -172,25 +172,25 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 15,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 18,
+   "items": 19,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 4,
    "error": null
   },
   {
@@ -304,14 +304,8 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 2,
+   "items": 3,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
-  },
-  {
-   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
-   "ok": true,
-   "items": 0,
-   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -332,10 +326,10 @@
    "error": "0 menciones revisadas en esta vuelta; 90 organizaciones nacionales"
   },
   {
-   "source": "Galería · Bing por candidata (21/711 celdas)",
-   "ok": false,
-   "items": 4,
-   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
+   "source": "Galería · Bing por candidata (22/711 celdas)",
+   "ok": true,
+   "items": 30,
+   "error": null
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -398,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 873,
+ "new_items": 1266,
  "total_items": 900
 }
