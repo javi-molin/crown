@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T13:29:08.094879+00:00",
+ "run_at": "2026-11-28T13:37:07.368380+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,25 +28,25 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 39,
+   "items": 76,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 64,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": true,
-   "items": 58,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 100,
+   "items": 101,
    "error": null
   },
   {
@@ -70,13 +70,13 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 69,
+   "items": 70,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 30,
+   "items": 60,
    "error": null
   },
   {
@@ -172,14 +172,14 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 13,
+   "items": 15,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
-   "ok": true,
-   "items": 19,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "sin ytInitialData"
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 8,
+   "items": 17,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 0,
-   "error": "3755 imágenes en el espejo"
+   "items": 1,
+   "error": "3756 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1142,
+ "new_items": 1193,
  "total_items": 900
 }
