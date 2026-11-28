@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T05:36:56.617277+00:00",
+ "run_at": "2026-11-28T05:44:56.743850+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 79,
+   "items": 80,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 100,
+   "items": 99,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 72,
    "error": null
   },
   {
@@ -100,13 +100,13 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 14,
+   "items": 45,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 102,
+   "items": 100,
    "error": null
   },
   {
@@ -123,9 +123,9 @@
   },
   {
    "source": "YouTube oficial search:Miss International Beauty Pageant|miss international",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube oficial search:Miss Earth official|miss earth",
@@ -141,21 +141,21 @@
   },
   {
    "source": "YouTube oficial search:GrandTV Miss Grand International|grand",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube oficial search:Miss Supranational|supranational",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 15,
+   "error": null
   },
   {
    "source": "YouTube oficial search:Telemundo Miss Universo|telemundo",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 503: Service Unavailable"
+   "ok": true,
+   "items": 1,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026",
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 20,
    "error": null
   },
   {
@@ -213,15 +213,15 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
-  },
-  {
-   "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
    "items": 12,
    "error": null
+  },
+  {
+   "source": "Bing Noticias · Miss International 2026 · en-US",
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Bing Noticias · Miss Earth 2026 · en-US",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 1,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 16,
+   "items": 17,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -327,9 +327,9 @@
   },
   {
    "source": "Galería · Bing por candidata (22/711 celdas)",
-   "ok": false,
-   "items": 4,
-   "error": "Bing no entrega resultados de imágenes por candidata a los servidores de GitHub; se usan prensa, YouTube e Instagram"
+   "ok": true,
+   "items": 24,
+   "error": null
   },
   {
    "source": "Galería · biblioteca oficial missuniverse.com",
@@ -359,7 +359,7 @@
    "source": "Instagram · fotos y looks por candidata (filtradas)",
    "ok": true,
    "items": 1020,
-   "error": "54 candidatas · descartadas: 1007 fuera de fecha, 39 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
+   "error": "54 candidatas · descartadas: 1006 fuera de fecha, 39 no habla de ella ni del concurso, 0 hashtag / no oficial, 38 promoción / votación / afiche"
   },
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1078,
+ "new_items": 1202,
  "total_items": 900
 }
