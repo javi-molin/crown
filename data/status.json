@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T03:52:47.327226+00:00",
+ "run_at": "2026-11-28T04:00:48.301783+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -21,15 +21,15 @@
   },
   {
    "source": "Google News · Miss Universe controversy",
-   "ok": true,
-   "items": 90,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
-   "ok": true,
-   "items": 39,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe national costume gown",
@@ -39,9 +39,9 @@
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
-   "ok": true,
-   "items": 56,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
@@ -57,9 +57,9 @@
   },
   {
    "source": "Google News · Miss Universe hot picks",
-   "ok": true,
-   "items": 82,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss International 2026\"",
@@ -76,25 +76,25 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 59,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 73,
+   "items": 32,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 46,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 80,
+   "items": 100,
    "error": null
   },
   {
@@ -105,9 +105,9 @@
   },
   {
    "source": "Google News · certamen de belleza",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · beauty pageant",
@@ -172,13 +172,13 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 17,
+   "items": 16,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 17,
+   "items": 18,
    "error": null
   },
   {
@@ -268,13 +268,13 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 2,
+   "items": 0,
    "error": null
   },
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 6,
+   "items": 5,
    "error": null
   },
   {
@@ -304,8 +304,14 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 20,
+   "items": 2,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
+  },
+  {
+   "source": "Instagram · hashtags oficiales (#missuniverse2026, #missuniverse…)",
+   "ok": true,
+   "items": 0,
+   "error": "#missuniverse2026: 400 {\"error\":{\"message\":\"(#10) To use 'Instagram Public Content Access', your use of this "
   },
   {
    "source": "Instagram · posts encontrados por búsqueda web",
@@ -364,7 +370,7 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 6,
+   "items": 0,
    "error": "3695 imágenes en el espejo"
   },
   {
@@ -392,6 +398,6 @@
    "error": null
   }
  ],
- "new_items": 1241,
+ "new_items": 873,
  "total_items": 900
 }
