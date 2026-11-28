@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-28T03:04:47.354167+00:00",
- "count": 20,
+ "updated": "2026-11-28T03:12:48.077096+00:00",
+ "count": 21,
  "events": [
   {
    "key": "agenda:me:final-hora-por-confirmar",
@@ -11,7 +11,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-12-16T19:00:00+08:00",
    "last_activity": "2026-12-16T19:00:00+08:00",
    "item_ids": [],
@@ -44,7 +44,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-12-09T18:00:00+08:00",
    "last_activity": "2026-12-09T18:00:00+08:00",
    "item_ids": [],
@@ -77,7 +77,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-12-07T09:00:00+08:00",
    "last_activity": "2026-12-07T09:00:00+08:00",
    "item_ids": [],
@@ -109,8 +109,7 @@
    "kind": "oficial",
    "labels": [
     "Gala / cena",
-    "Traje de baño",
-    "Trajes típicos"
+    "Traje de baño"
    ],
    "desc": null,
    "refs": [],
@@ -126,10 +125,10 @@
     "0b6f1dd4d8a327",
     "2258447c753ed9",
     "3045721da57bb2",
+    "b6191011c3a386",
     "51cd3d8caf7831",
     "e1765bb1daef50",
-    "15ce93749deb48",
-    "b6191011c3a386"
+    "15ce93749deb48"
    ],
    "sources": [
     "El Universal",
@@ -150,13 +149,13 @@
      "vid": "Y_EZUBQ_iDA",
      "title": "SWIMSUIT COMPETITION | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 25880,
+     "views": 26059,
      "likes": 0,
      "published": "2026-11-27T05:38:55+00:00",
      "official": true
     }
    ],
-   "views_total": 25880,
+   "views_total": 26059,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Y_EZUBQ_iDA/maxresdefault.jpg",
@@ -499,6 +498,124 @@
    "score": 36
   },
   {
+   "key": "t:mu:Trajes típicos:2026-11-27",
+   "id": "t-mu-trajes-tipicos-2026-11-27-c51d8",
+   "name": "Trajes típicos · 27–29 nov",
+   "contest": "mu",
+   "kind": "detectado",
+   "labels": [
+    "Trajes típicos",
+    "Votación"
+   ],
+   "desc": null,
+   "refs": [],
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
+   "start": "2026-11-27T09:12:00+00:00",
+   "last_activity": "2026-11-28T02:16:00+00:00",
+   "item_ids": [
+    "51cd3d8caf7831",
+    "ce330c2ad61909",
+    "e1765bb1daef50",
+    "1fe3015277b42a",
+    "23621bcae8cc59",
+    "0b6f1dd4d8a327",
+    "15ce93749deb48"
+   ],
+   "sources": [
+    "El Universo",
+    "Facebook",
+    "GMA Network",
+    "Panamá América",
+    "Primera Hora"
+   ],
+   "n_items": 7,
+   "n_sources": 5,
+   "videos": [],
+   "views_total": 0,
+   "images": [
+    {
+     "url": "https://www.primerahora.com/resizer/v2/3EX52LYGEBEVRE32APTRA5YR6M.jpg?auth=c2a4a0a5f5fd131bad7db5c5cf2f426d20a5fbfa095c1aa3a9f271f75d8f26e0&quality=75&width=1200&height=717&focal=1323%2C1333",
+     "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-universe-revela-la-ganadora-del-mejor-traje-tipico-por-voto/",
+     "via": "Primera Hora",
+     "credit": "Primera Hora"
+    },
+    {
+     "url": "http://www.bing.com/th?id=ONUT.NSZe3a4SCcUrhKEhZ98sNA&pid=News",
+     "page": "https://www.primerahora.com/entretenimiento/reinas-belleza/notas/miss-universe-revela-la-ganadora-del-mejor-traje-tipico-por-voto/",
+     "via": "Bing (miniatura)",
+     "credit": "Primera Hora"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/3V6YC26ZQBA3HAMI3HPSNDILEU.jpg?auth=e96d6d9f3c6650bbb73e4e352d0e15333317ed85c68168e2f228561a9ff6c6da&width=893&height=670&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-cuba-gana-el-premio-a-mejor-traje-tipico-y-banglades-se-toma-las-categorias-de-mejor-traje-de-bano-y-de-gala-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/PB3O2ZZRWBEZ5KRKOV6Q3Z6IFM.jpg?auth=8b2f2ed39f3fa645c09b33a83bd4f47f2257a3d8c855474d1bd3786f96f923ff&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-cuba-gana-el-premio-a-mejor-traje-tipico-y-banglades-se-toma-las-categorias-de-mejor-traje-de-bano-y-de-gala-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/WWIXKDRH7FCN7KFWH544EBL6TY.jpg?auth=9e37057ef28f1a352bd174320f3a4a4eeb7ee17a7c5ea8dfc87c8e072ec9e3be&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-cuba-gana-el-premio-a-mejor-traje-tipico-y-banglades-se-toma-las-categorias-de-mejor-traje-de-bano-y-de-gala-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.eluniverso.com/resizer/v2/RK3M63NPFJAOLE7PMA6Y6TDGPU.jpg?auth=2f9393b971874586cacffce77adb580c694e07fb10792a73324400fbcde68eec&width=80&height=80&quality=75&smart=true",
+     "page": "https://www.eluniverso.com/entretenimiento/gente/miss-universo-2026-cuba-gana-el-premio-a-mejor-traje-tipico-y-banglades-se-toma-las-categorias-de-mejor-traje-de-bano-y-de-gala-nota/",
+     "via": "El Universo",
+     "credit": "El Universo"
+    },
+    {
+     "url": "https://www.panamaamerica.com.pa/sites/default/files/styles/meta_seo/public/2026-11/R%C3%B3yer-P%C3%A9rez-cuba.jpg?itok=LSQERJB9",
+     "page": "https://www.panamaamerica.com.pa/variedades/royer-perez-hace-historia-con-el-traje-nacional-ganador-de-cuba-1282695",
+     "via": "Panamá América",
+     "credit": "Panamá América"
+    },
+    {
+     "url": "https://www.panamaamerica.com.pa/sites/default/files/styles/original_web/public/2026-11/R%C3%B3yer-P%C3%A9rez-cuba.jpg.webp?itok=-xy7Uvft",
+     "page": "https://www.panamaamerica.com.pa/variedades/royer-perez-hace-historia-con-el-traje-nacional-ganador-de-cuba-1282695",
+     "via": "Panamá América",
+     "credit": "Panamá América"
+    }
+   ],
+   "social_urls": [
+    "https://www.instagram.com/p/DfaGKslj-s_",
+    "https://www.instagram.com/p/DgQTvblHSgb",
+    "https://www.instagram.com/reel/DgQJW8vR6Po"
+   ],
+   "image_query": "Miss Universe 2026 national costume",
+   "extra_images": [],
+   "extra_at": "2026-11-28T03:12:48.077096+00:00",
+   "social": [
+    {
+     "fetched": "2026-11-28T02:48:47.406731+00:00",
+     "url": "https://www.instagram.com/p/DfaGKslj-s_",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-28T02:48:47.406731+00:00",
+     "url": "https://www.instagram.com/p/DgQTvblHSgb",
+     "platform": "Instagram"
+    },
+    {
+     "fetched": "2026-11-28T02:40:47.980691+00:00",
+     "url": "https://www.instagram.com/reel/DgQJW8vR6Po",
+     "platform": "Instagram"
+    }
+   ],
+   "social_totals": {
+    "views": 0,
+    "likes": 0,
+    "comments": 0,
+    "shares": 0
+   },
+   "score": 17
+  },
+  {
    "key": "t:mu:Llegada / bienvenida:2026-11-27",
    "id": "t-mu-llegada-bienvenida-2026-11-27-654a9",
    "name": "Llegada / bienvenida · 27–29 nov",
@@ -670,13 +787,13 @@
      "vid": "Y_EZUBQ_iDA",
      "title": "SWIMSUIT COMPETITION | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 25880,
+     "views": 26059,
      "likes": 0,
      "published": "2026-11-27T05:38:55+00:00",
      "official": true
     }
    ],
-   "views_total": 25880,
+   "views_total": 26059,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/Y_EZUBQ_iDA/maxresdefault.jpg",
@@ -1029,13 +1146,13 @@
      "vid": "h9TGSWWZeYE",
      "title": "THE FINAL SHOW 2026 RECAP | Miss Universe 2026",
      "channel": "Miss Universe",
-     "views": 22290,
+     "views": 22396,
      "likes": 0,
      "published": "2026-11-27T03:45:35+00:00",
      "official": true
     }
    ],
-   "views_total": 22290,
+   "views_total": 22396,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/h9TGSWWZeYE/maxresdefault.jpg",
@@ -1634,7 +1751,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 arrival welcome",
    "extra_images": [],
-   "extra_at": "2026-11-28T03:04:47.354167+00:00",
+   "extra_at": "2026-11-28T03:12:48.077096+00:00",
    "social": [],
    "social_totals": {
     "views": 0,
@@ -1669,13 +1786,13 @@
      "vid": "x7ECOwlq0Lc",
      "title": "A Night to Remember 👑✨ | Miss International 2026",
      "channel": "Miss International",
-     "views": 26515,
-     "likes": 82,
+     "views": 26674,
+     "likes": 83,
      "published": "2026-11-26T01:00:16+00:00",
      "official": true
     }
    ],
-   "views_total": 26515,
+   "views_total": 26674,
    "images": [
     {
      "url": "https://i.ytimg.com/vi/x7ECOwlq0Lc/maxresdefault.jpg",
@@ -2123,7 +2240,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-25T18:00:00+09:00",
    "last_activity": "2026-11-25T18:00:00+09:00",
    "item_ids": [
@@ -2417,7 +2534,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-24T20:00:00-04:00",
    "last_activity": "2026-11-24T20:00:00-04:00",
    "item_ids": [
@@ -2870,7 +2987,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-22T20:00:00-04:00",
    "last_activity": "2026-11-22T20:00:00-04:00",
    "item_ids": [
@@ -3058,11 +3175,12 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-21T20:00:00-04:00",
    "last_activity": "2026-11-21T20:00:00-04:00",
    "item_ids": [
     "51cd3d8caf7831",
+    "ce330c2ad61909",
     "e1765bb1daef50",
     "1fe3015277b42a",
     "23621bcae8cc59",
@@ -3074,7 +3192,7 @@
     "GMA Network",
     "Primera Hora"
    ],
-   "n_items": 5,
+   "n_items": 6,
    "n_sources": 4,
    "videos": [],
    "views_total": 0,
@@ -3082,7 +3200,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Desfile de Trajes Típicos (National Costume)",
    "extra_images": [],
-   "extra_at": "2026-11-28T03:04:47.354167+00:00",
+   "extra_at": "2026-11-28T03:12:48.077096+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
@@ -3091,7 +3209,7 @@
     "comments": 0,
     "shares": 0
    },
-   "score": 16
+   "score": 17
   },
   {
    "key": "agenda:mi:ceremonia-de-apertura",
@@ -3102,7 +3220,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-13T12:00:00+09:00",
    "last_activity": "2026-11-13T12:00:00+09:00",
    "item_ids": [],
@@ -3249,7 +3367,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-11T09:00:00-04:00",
    "last_activity": "2026-11-11T09:00:00-04:00",
    "item_ids": [],
@@ -3298,7 +3416,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-11T12:00:00+09:00",
    "last_activity": "2026-11-11T12:00:00+09:00",
    "item_ids": [],
@@ -3529,7 +3647,7 @@
    "labels": [],
    "desc": null,
    "refs": [],
-   "first_seen": "2026-11-28T03:04:47.354167+00:00",
+   "first_seen": "2026-11-28T03:12:48.077096+00:00",
    "start": "2026-11-08T12:00:00-04:00",
    "last_activity": "2026-11-08T12:00:00-04:00",
    "item_ids": [],
@@ -3542,7 +3660,7 @@
    "social_urls": [],
    "image_query": "Miss Universe 2026 Llegada de candidatas",
    "extra_images": [],
-   "extra_at": "2026-11-28T03:04:47.354167+00:00",
+   "extra_at": "2026-11-28T03:12:48.077096+00:00",
    "upcoming": false,
    "social": [],
    "social_totals": {
