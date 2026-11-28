@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T19:13:16.479852+00:00",
+ "run_at": "2026-11-28T19:21:16.713615+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -10,7 +10,7 @@
   {
    "source": "Google News · \"Miss Universe 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 92,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 63,
+   "items": 100,
    "error": null
   },
   {
@@ -45,9 +45,9 @@
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
-   "ok": true,
-   "items": 102,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universo favoritas",
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 53,
+   "items": 82,
    "error": null
   },
   {
@@ -70,13 +70,13 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 71,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 67,
+   "items": 35,
    "error": null
   },
   {
@@ -88,7 +88,7 @@
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
@@ -100,13 +100,13 @@
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 14,
+   "items": 47,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 101,
+   "items": 100,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 14,
+   "items": 15,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 23,
+   "items": 13,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1160,
+ "new_items": 1264,
  "total_items": 900
 }
