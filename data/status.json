@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T13:05:07.845879+00:00",
+ "run_at": "2026-11-28T13:13:07.547909+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 58,
+   "items": 89,
    "error": null
   },
   {
@@ -51,9 +51,9 @@
   },
   {
    "source": "Google News · Miss Universo favoritas",
-   "ok": true,
-   "items": 100,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · Miss Universe hot picks",
@@ -70,19 +70,19 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 70,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 60,
+   "items": 63,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 73,
+   "items": 72,
    "error": null
   },
   {
@@ -93,9 +93,9 @@
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
-   "ok": true,
-   "items": 82,
-   "error": null
+   "ok": false,
+   "items": 0,
+   "error": "HTTP Error 429: Too Many Requests"
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
@@ -106,7 +106,7 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 98,
+   "items": 100,
    "error": null
   },
   {
@@ -172,7 +172,7 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 15,
+   "items": 12,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 20,
+   "items": 18,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1207,
+ "new_items": 1132,
  "total_items": 900
 }
