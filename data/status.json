@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-28T03:44:47.260272+00:00",
+ "run_at": "2026-11-28T03:52:47.327226+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 99,
    "error": null
   },
   {
@@ -16,19 +16,19 @@
   {
    "source": "Google News · Miss Universo polémica",
    "ok": true,
-   "items": 100,
+   "items": 102,
    "error": null
   },
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 90,
    "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 80,
+   "items": 39,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 90,
+   "items": 56,
    "error": null
   },
   {
@@ -76,13 +76,13 @@
   {
    "source": "Google News · \"Miss Earth 2026\"",
    "ok": true,
-   "items": 32,
+   "items": 59,
    "error": null
   },
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 73,
    "error": null
   },
   {
@@ -94,19 +94,19 @@
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 80,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 13,
+   "items": 45,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 99,
+   "items": 100,
    "error": null
   },
   {
@@ -172,20 +172,20 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 18,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
    "ok": true,
-   "items": 16,
+   "items": 17,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
-   "ok": false,
-   "items": 0,
-   "error": "sin ytInitialData"
+   "ok": true,
+   "items": 18,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
@@ -268,7 +268,7 @@
   {
    "source": "Artículos (imágenes y posts incrustados)",
    "ok": true,
-   "items": 0,
+   "items": 2,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 21,
+   "items": 20,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 2,
-   "error": "3689 imágenes en el espejo"
+   "items": 6,
+   "error": "3695 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -388,10 +388,10 @@
   {
    "source": "Galería · fotos de prensa y video atribuidas a candidatas",
    "ok": true,
-   "items": 164,
+   "items": 165,
    "error": null
   }
  ],
- "new_items": 1262,
+ "new_items": 1241,
  "total_items": 900
 }
