@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T19:21:16.713615+00:00",
+ "run_at": "2026-11-28T19:29:16.274649+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -22,32 +22,32 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 96,
    "error": null
   },
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 40,
+   "items": 76,
    "error": null
   },
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 64,
    "error": null
   },
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 91,
+   "items": 56,
    "error": null
   },
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 429: Too Many Requests"
+   "ok": true,
+   "items": 100,
+   "error": null
   },
   {
    "source": "Google News · Miss Universo favoritas",
@@ -82,13 +82,13 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 73,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 100,
+   "items": 46,
    "error": null
   },
   {
@@ -190,7 +190,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 preliminary",
    "ok": true,
-   "items": 0,
+   "items": 20,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 13,
+   "items": 11,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1264,
+ "new_items": 1262,
  "total_items": 900
 }
