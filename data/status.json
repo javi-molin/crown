@@ -1,5 +1,5 @@
 {
- "run_at": "2026-11-28T12:33:07.456058+00:00",
+ "run_at": "2026-11-28T12:41:08.063987+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
@@ -28,7 +28,7 @@
   {
    "source": "Google News · Miss Universo looks traje típico",
    "ok": true,
-   "items": 77,
+   "items": 37,
    "error": null
   },
   {
@@ -40,7 +40,7 @@
   {
    "source": "Google News · Miss Universe Puerto Rico preliminary",
    "ok": true,
-   "items": 56,
+   "items": 89,
    "error": null
   },
   {
@@ -58,7 +58,7 @@
   {
    "source": "Google News · Miss Universe hot picks",
    "ok": true,
-   "items": 82,
+   "items": 53,
    "error": null
   },
   {
@@ -82,7 +82,7 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 73,
    "error": null
   },
   {
@@ -106,7 +106,7 @@
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 98,
+   "items": 99,
    "error": null
   },
   {
@@ -172,14 +172,14 @@
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 12,
+   "items": 13,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Earth 2026",
-   "ok": false,
-   "items": 0,
-   "error": "HTTP Error 500: Internal Server Error"
+   "ok": true,
+   "items": 19,
+   "error": null
   },
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 5,
+   "items": 6,
    "error": null
   },
   {
@@ -304,7 +304,7 @@
   {
    "source": "Instagram · Graph API oficial (cuentas leídas)",
    "ok": true,
-   "items": 18,
+   "items": 13,
    "error": "76 cuentas sincronizadas en total · 44 candidatas · 90 organizaciones"
   },
   {
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1239,
+ "new_items": 1278,
  "total_items": 900
 }
