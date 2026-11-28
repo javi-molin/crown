@@ -1,10 +1,10 @@
 {
- "run_at": "2026-11-28T07:36:57.235862+00:00",
+ "run_at": "2026-11-28T07:44:56.800573+00:00",
  "sources": [
   {
    "source": "Google News · \"Miss Universo 2026\"",
    "ok": true,
-   "items": 100,
+   "items": 99,
    "error": null
   },
   {
@@ -22,7 +22,7 @@
   {
    "source": "Google News · Miss Universe controversy",
    "ok": true,
-   "items": 100,
+   "items": 94,
    "error": null
   },
   {
@@ -34,7 +34,7 @@
   {
    "source": "Google News · Miss Universe national costume gown",
    "ok": true,
-   "items": 100,
+   "items": 63,
    "error": null
   },
   {
@@ -46,7 +46,7 @@
   {
    "source": "Google News · \"Dominga López\" Miss Universo",
    "ok": true,
-   "items": 99,
+   "items": 100,
    "error": null
   },
   {
@@ -70,7 +70,7 @@
   {
    "source": "Google News · \"Miss Internacional 2026\"",
    "ok": true,
-   "items": 68,
+   "items": 100,
    "error": null
   },
   {
@@ -82,31 +82,31 @@
   {
    "source": "Google News · Miss Earth Philippines December",
    "ok": true,
-   "items": 32,
+   "items": 73,
    "error": null
   },
   {
    "source": "Google News · \"Miss World\" Joheirry Mola",
    "ok": true,
-   "items": 46,
+   "items": 100,
    "error": null
   },
   {
    "source": "Google News · \"Miss Grand International\" 2026",
    "ok": true,
-   "items": 100,
+   "items": 80,
    "error": null
   },
   {
    "source": "Google News · \"Miss Supranational\" 2027",
    "ok": true,
-   "items": 47,
+   "items": 14,
    "error": null
   },
   {
    "source": "Google News · certamen de belleza",
    "ok": true,
-   "items": 98,
+   "items": 99,
    "error": null
   },
   {
@@ -166,13 +166,13 @@
   {
    "source": "YouTube búsqueda · Miss Universo 2026",
    "ok": true,
-   "items": 20,
+   "items": 0,
    "error": null
   },
   {
    "source": "YouTube búsqueda · Miss International 2026",
    "ok": true,
-   "items": 16,
+   "items": 17,
    "error": null
   },
   {
@@ -184,7 +184,7 @@
   {
    "source": "YouTube búsqueda · Miss Universe 2026 national costume",
    "ok": true,
-   "items": 19,
+   "items": 18,
    "error": null
   },
   {
@@ -195,15 +195,15 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · es-CL",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 · en-US",
-   "ok": false,
-   "items": 0,
-   "error": "not well-formed (invalid token): line 1, column 41"
+   "ok": true,
+   "items": 12,
+   "error": null
   },
   {
    "source": "Bing Noticias · Miss Universo 2026 sesión de fotos · es-CL",
@@ -213,21 +213,21 @@
   },
   {
    "source": "Bing Noticias · Miss Universe 2026 runway fashion · en-US",
-   "ok": true,
-   "items": 12,
-   "error": null
-  },
-  {
-   "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": false,
    "items": 0,
    "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
-   "source": "Bing Noticias · Miss Earth 2026 · en-US",
+   "source": "Bing Noticias · Miss International 2026 · en-US",
    "ok": true,
    "items": 12,
    "error": null
+  },
+  {
+   "source": "Bing Noticias · Miss Earth 2026 · en-US",
+   "ok": false,
+   "items": 0,
+   "error": "not well-formed (invalid token): line 1, column 41"
   },
   {
    "source": "Wikipedia · Miss_Universe_2026",
@@ -274,7 +274,7 @@
   {
    "source": "Imágenes por evento (Bing Imágenes / Commons)",
    "ok": true,
-   "items": 4,
+   "items": 5,
    "error": null
   },
   {
@@ -317,7 +317,7 @@
    "source": "Instagram · búsqueda activa de cuentas (usuarios probables confirmados por la API)",
    "ok": true,
    "items": 0,
-   "error": "2 usuarios probados en esta vuelta · 2298 en total"
+   "error": "0 usuarios probados en esta vuelta · 2298 en total"
   },
   {
    "source": "Instagram · cuentas de candidatas y organizaciones (verificadas con la API)",
@@ -364,8 +364,8 @@
   {
    "source": "Espejo de imágenes (copias propias para mostrar y descargar)",
    "ok": true,
-   "items": 2,
-   "error": "3710 imágenes en el espejo"
+   "items": 10,
+   "error": "3720 imágenes en el espejo"
   },
   {
    "source": "Retratos oficiales (fondo neutro claro, verificados por color)",
@@ -392,6 +392,6 @@
    "error": null
   }
  ],
- "new_items": 1054,
+ "new_items": 1048,
  "total_items": 900
 }
